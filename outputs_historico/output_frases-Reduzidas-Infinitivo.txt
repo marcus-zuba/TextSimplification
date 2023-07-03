@@ -1,0 +1,4080 @@
+C: É importante estudar para o exame.
+S: É importante estudar para o exame.
+
+C: Decidi comprar um novo carro.
+S: Decidi comprar um novo carro.
+
+C: Ao ver a chuva, ela decidiu levar um guarda-chuva.
+S: Ao ver a chuva, ela decidiu levar um guarda-chuva.
+
+C: Pretendo fazer um curso de línguas no próximo ano.
+S: Pretendo fazer um curso de línguas no próximo ano.
+
+C: Ao ouvir a notícia, fiquei muito surpreso.
+S: Ao ouvir a notícia, fiquei muito surpreso.
+
+C: É necessário seguir as regras do jogo.
+S: É necessário seguir as regras do jogo.
+
+C: Ela adora cozinhar para os amigos.
+S: Ela adora cozinhar para os amigos.
+
+C: Ao acordar cedo, tenho mais disposição para o dia.
+S: Ao acordar cedo, tenho mais disposição para o dia.
+
+C: O plano é viajar para a praia nas férias.
+S: O plano é viajar para a praia nas férias.
+
+C: É bom evitar comer muitos doces.
+S: É bom evitar comer muitos doces.
+
+C: Ela adora ler livros de suspense.
+S: Ela adora ler livros de suspense.
+
+C: O plano era comprar uma casa nova.
+S: O plano era comprar uma casa nova.
+
+C: Ao terminar a prova, ele decidiu comemorar sua aprovação.
+S: Ao terminar a prova, ele decidiu comemorar sua aprovação.
+
+C: Fazer exercícios físicos é importante para manter a saúde em dia.
+S: Fazer exercícios físicos é importante para manter a saúde em dia.
+
+C: Ao acordar cedo, ele consegue ter mais tempo para se preparar.
+S: Ao acordar cedo, ele consegue ter mais tempo para se preparar.
+
+C: Ela tentou abrir a porta, mas estava trancada.
+S: Ela tentou abrir a porta, mas estava trancada.
+
+C: O objetivo dele é estudar medicina.
+S: O objetivo dele é estudar medicina.
+
+C: Ao sentir a chuva caindo, ela decidiu abrir o guarda-chuva.
+S: Ao sentir a chuva caindo, ela decidiu abrir o guarda-chuva.
+
+C: Os amigos combinaram de se encontrar no parque.
+S: Os amigos combinaram de se encontrar no parque.
+
+C: Ao ouvir a música, ela se emocionou e começou a chorar.
+S: Ao ouvir a música, ela se emocionou e começou a chorar.
+
+C: Ela decidiu estudar todos os dias para passar no exame.
+S: Ela decidiu estudar todos os dias.
+
+C: Ao observar o pôr do sol, senti uma paz imensa.
+S: Observando o pôr do sol, senti uma paz imensa.
+
+C: Ele escolheu ir de ônibus para economizar dinheiro.
+S: Ele escolheu ir de ônibus.
+
+C: Ao perceber a chuva, saí correndo para me abrigar.
+S: Percebendo a chuva, saí correndo para me abrigar.
+
+C: Ela pediu para o professor explicar novamente a matéria.
+S: Ela pediu ao professor para explicar novamente a matéria.
+
+C: Ao acordar cedo, consigo aproveitar mais o dia.
+S: Acordando cedo, consigo aproveitar mais o dia.
+
+C: Ele deseja viajar para conhecer novas culturas.
+S: Ele deseja viajar para conhecer novas culturas.
+
+C: Ao ver seu sorriso, meu coração se enche de alegria.
+S: Vendo seu sorriso, meu coração se enche de alegria.
+
+C: Ela pretende estudar medicina para ajudar as pessoas.
+S: Ela pretende estudar medicina para ajudar as pessoas.
+
+C: Ao escutar a música, me emocionei profundamente.
+S: Escutando a música, me emocionei profundamente.
+
+C: A minha intenção é conseguir um emprego estável.
+S: Eu quero conseguir um emprego estável.
+
+C: Ao estudar bastante, eles conseguiram passar na prova.
+S: Estudando bastante, eles conseguiram passar na prova.
+
+C: O objetivo dele é se tornar um jogador profissional de futebol.
+S: Ele quer se tornar um jogador profissional de futebol.
+
+C: Ao analisar a situação, o professor decidiu mudar a estratégia de ensino.
+S: Analisando a situação, o professor decidiu mudar a estratégia de ensino.
+
+C: A minha vontade é viajar para o exterior nas férias.
+S: Eu quero viajar para o exterior nas férias.
+
+C: Ao contar a verdade, ele evitou problemas maiores.
+S: Contando a verdade, ele evitou problemas maiores.
+
+C: A esperança dela é encontrar o amor da sua vida.
+S: Ela espera encontrar o amor da sua vida.
+
+C: Ao tomar a decisão, ele mudou completamente a sua vida.
+S: Tomando a decisão, ele mudou completamente a sua vida.
+
+C: O sonho dele é se tornar um famoso escritor.
+S: Ele sonha em se tornar um famoso escritor.
+
+C: Ao perceber a injustiça, ela decidiu lutar contra ela.
+S: Percebendo a injustiça, ela decidiu lutar contra ela.
+
+C: Fui ao mercado para comprar mantimentos.
+S: Fui ao mercado comprar mantimentos.
+
+C: Eu gostaria de viajar para a praia neste verão.
+S: Eu gostaria de viajar para a praia neste verão.
+
+C: É importante estudar diariamente para obter boas notas.
+S: É importante estudar diariamente obter boas notas.
+
+C: Decidi sair mais cedo para evitar o trânsito.
+S: Decidi sair mais cedo evitar o trânsito.
+
+C: Ela decidiu iniciar uma dieta para perder peso.
+S: Ela decidiu iniciar uma dieta perder peso.
+
+C: Quero ir ao cinema para assistir ao novo filme.
+S: Quero ir ao cinema assistir ao novo filme.
+
+C: Maria foi ao banco para depositar dinheiro na sua conta.
+S: Maria foi ao banco depositar dinheiro na sua conta.
+
+C: Eu precisarei pegar um táxi para chegar ao aeroporto a tempo.
+S: Eu precisarei pegar um táxi chegar ao aeroporto a tempo.
+
+C: Fiz um curso de culinária para aprender a cozinhar melhor.
+S: Fiz um curso de culinária aprender a cozinhar melhor.
+
+C: João saiu para buscar o seu carro que estava na oficina.
+S: João saiu buscar o seu carro que estava na oficina.
+
+C: Eu gosto de nadar nas férias.
+S: Eu gosto de nadar nas férias.
+
+C: É importante estudar para o teste.
+S: É importante estudar para o teste.
+
+C: Ao perceber o perigo, ela correu para se proteger.
+S: Ao perceber o perigo, ela correu para se proteger.
+
+C: Ficamos felizes ao receber as boas notícias.
+S: Ficamos felizes ao receber as boas notícias.
+
+C: É necessário trabalhar duro para alcançar os objetivos.
+S: É necessário trabalhar duro para alcançar os objetivos.
+
+C: Ao ver o sol brilhando, decidimos aproveitar o dia na praia.
+S: Ao ver o sol brilhando, decidimos aproveitar o dia na praia.
+
+C: Estou ansioso para iniciar as férias.
+S: Estou ansioso para iniciar as férias.
+
+C: Ao se aproximar do fim do livro, sentimos tristeza em deixar os personagens.
+S: Ao se aproximar do fim do livro, sentimos tristeza em deixar os personagens.
+
+C: Ela deseja viajar pelo mundo inteiro.
+S: Ela deseja viajar pelo mundo inteiro.
+
+C: Ao ouvir uma música animada, começamos a dançar.
+S: Ao ouvir uma música animada, começamos a dançar.
+
+C: Ela tentou estudar, mas estava muito cansada.
+S: Ela tentou estudar, mas estava muito cansada.
+
+C: Meu objetivo é aprender a tocar piano.
+S: Meu objetivo é aprender a tocar piano.
+
+C: Ao perceber a presença do perigo, todos correram para se abrigar.
+S: Ao perceber a presença do perigo, todos correram para se abrigar.
+
+C: Ele prefere ficar em casa ao invés de sair com os amigos.
+S: Ele prefere ficar em casa ao invés de sair com os amigos.
+
+C: Apesar de ter chovido, o jogo aconteceu normalmente.
+S: Apesar de ter chovido, o jogo aconteceu normalmente.
+
+C: É importante comer uma alimentação equilibrada.
+S: É importante comer uma alimentação equilibrada.
+
+C: Ao acordar cedo, consigo aproveitar mais o dia.
+S: Ao acordar cedo, consigo aproveitar mais o dia.
+
+C: Ele decidiu estudar para conseguir melhores oportunidades de emprego.
+S: Ele decidiu estudar para conseguir melhores oportunidades de emprego.
+
+C: Após terminar o trabalho, vou descansar um pouco.
+S: Após terminar o trabalho, vou descansar um pouco.
+
+C: Ao ver as fotos, lembrei de momentos felizes.
+S: Ao ver as fotos, lembrei de momentos felizes.
+
+C: Ele pretende estudar medicina no próximo ano.
+S: Ele pretende estudar medicina no próximo ano.
+
+C: Ao terminar de jantar, eles resolveram assistir a um filme.
+S: Ao terminar de jantar, eles resolveram assistir a um filme.
+
+C: Maria gostaria de visitar a Europa nas próximas férias.
+S: Maria gostaria de visitar a Europa nas próximas férias.
+
+C: Mesmo estando cansado, ele continuou trabalhando até tarde.
+S: Mesmo estando cansado, ele continuou trabalhando até tarde.
+
+C: Ao ver o gato subir na árvore, ela correu para ajudá-lo.
+S: Ao ver o gato subir na árvore, ela correu para ajudá-lo.
+
+C: É importante comer alimentos saudáveis para ter uma boa saúde.
+S: É importante comer alimentos saudáveis para ter uma boa saúde.
+
+C: Ela costuma acordar cedo todos os dias para praticar exercícios físicos.
+S: Ela costuma acordar cedo todos os dias para praticar exercícios físicos.
+
+C: Ao receber a notícia, ele ficou extremamente feliz.
+S: Ao receber a notícia, ele ficou extremamente feliz.
+
+C: O objetivo dele é viajar para todos os continentes do mundo.
+S: O objetivo dele é viajar para todos os continentes do mundo.
+
+C: Mesmo morando longe, ela sempre visita seus pais no fim de semana.
+S: Mesmo morando longe, ela sempre visita seus pais no fim de semana.
+
+C: Ele decidiu estudar medicina para ajudar as pessoas.
+S: Ele decidiu estudar medicina.
+
+C: Ao perceber que estava tarde, ela decidiu ir embora.
+S: Ao perceber que estava tarde, ela decidiu ir.
+
+C: O plano era construir uma casa no campo.
+S: O plano era construir uma casa.
+
+C: Ela começou a chorar quando viu o resultado.
+S: Ela começou a chorar ao ver o resultado.
+
+C: Foi difícil encontrar o endereço da festa.
+S: Foi difícil encontrar o endereço.
+
+C: Ao assistir à palestra, ele aprendeu muito.
+S: Ao assistir à palestra, ele aprendeu.
+
+C: O objetivo é terminar o projeto no prazo.
+S: O objetivo é terminar o projeto.
+
+C: Ele decidiu sair para espairecer um pouco.
+S: Ele decidiu sair.
+
+C: Foi interessante ouvir o relato da viagem.
+S: Foi interessante ouvir o relato.
+
+C: Ao perceber o perigo, ela correu para longe.
+S: Ao perceber o perigo, ela correu.
+
+C: Ele decidiu estudar para passar no vestibular.
+S: Ele decidiu estudar para passar no vestibular.
+
+C: Ao chegar em casa, ela preparou o jantar para a família.
+S: Ao chegar em casa, ela preparou o jantar para a família.
+
+C: Tentamos resolver o problema juntos, discutir as possíveis soluções e encontrar um consenso.
+S: Tentamos resolver o problema juntos, discutir as possíveis soluções e encontrar um consenso.
+
+C: Ela prometeu ajudar, comprar os ingredientes e preparar a sobremesa.
+S: Ela prometeu ajudar, comprar os ingredientes e preparar a sobremesa.
+
+C: Ao ver a chuva, ele decidiu levar o guarda-chuva e se proteger.
+S: Ao ver a chuva, ele decidiu levar o guarda-chuva e se proteger.
+
+C: Eles decidiram viajar nas férias, conhecer diferentes países e aprender sobre novas culturas.
+S: Eles decidiram viajar nas férias, conhecer diferentes países e aprender sobre novas culturas.
+
+C: Ao perceber o perigo, ele se afastou rapidamente, pegou o telefone e ligou para a polícia.
+S: Ao perceber o perigo, ele se afastou rapidamente, pegou o telefone e ligou para a polícia.
+
+C: Ele pensou bastante sobre o assunto, pesquisar as opções disponíveis e tomar uma decisão.
+S: Ele pensou bastante sobre o assunto, pesquisar as opções disponíveis e tomar uma decisão.
+
+C: Ao receber a notícia, ela ficou feliz, enviar mensagens para todos os amigos e comemorar.
+S: Ao receber a notícia, ela ficou feliz, enviar mensagens para todos os amigos e comemorar.
+
+C: Eles correram para pegar o ônibus, chegar à estação e não perder a viagem.
+S: Eles correram para pegar o ônibus, chegar à estação e não perder a viagem.
+
+C: É necessário estudar para conseguir boas notas.
+S: É necessário estudar para conseguir boas notas.
+
+C: Os alunos decidiram organizar uma festa de despedida para o professor.
+S: Os alunos decidiram organizar uma festa de despedida para o professor.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: É importante respeitar as regras do jogo.
+S: É importante respeitar as regras do jogo.
+
+C: Quando a chuva parar, podemos ir para a praia.
+S: Quando a chuva parar, podemos ir para a praia.
+
+C: Após terminar o trabalho, ele descansou um pouco.
+S: Após terminar o trabalho, ele descansou um pouco.
+
+C: Ao chegar em casa, ela preparou o jantar.
+S: Ao chegar em casa, ela preparou o jantar.
+
+C: É preciso acordar cedo para não perder o ônibus.
+S: É preciso acordar cedo para não perder o ônibus.
+
+C: Ao ganhar o jogo, os jogadores comemoraram bastante.
+S: Ao ganhar o jogo, os jogadores comemoraram bastante.
+
+C: Estudar é importante para aprender coisas novas.
+S: Estudar é importante para aprender coisas novas.
+
+C: Ele gostaria de aprender a tocar piano.
+S: Ele gostaria aprender a tocar piano.
+
+C: Ela decidiu ir para a praia no fim de semana.
+S: Ela decidiu ir para a praia no fim de semana.
+
+C: Ao estudar medicina, ele espera ajudar as pessoas.
+S: Ao estudar medicina, ele espera ajudar as pessoas.
+
+C: Eles planejam comprar uma casa nova neste ano.
+S: Eles planejam comprar uma casa nova neste ano.
+
+C: Após concluir o curso, ele espera conseguir um bom emprego.
+S: Após concluir o curso, ele espera conseguir um bom emprego.
+
+C: Ao ouvir a música, ela se emocionou.
+S: Ao ouvir a música, ela se emocionou.
+
+C: Ao encontrar o cachorro perdido, eles o adotaram.
+S: Ao encontrar o cachorro perdido, eles o adotaram.
+
+C: Ao saber da notícia, ela ficou surpresa.
+S: Ao saber da notícia, ela ficou surpresa.
+
+C: Ao sentir o perfume, ela lembrou-se da infância.
+S: Ao sentir o perfume, ela lembrou-se da infância.
+
+C: Após terminar a leitura do livro, ele recomendou aos amigos.
+S: Após terminar a leitura do livro, ele recomendou aos amigos.
+
+C: Ele prometeu estudar para a prova de matemática.
+S: Ele prometeu estudar para a prova de matemática.
+
+C: Eu tive que correr para não perder o ônibus.
+S: Eu tive que correr para não perder o ônibus.
+
+C: Ao ver o filme, ela se emocionou muito.
+S: Ao ver o filme, ela se emocionou muito.
+
+C: Preciso terminar de ler o livro antes de ir à biblioteca.
+S: Preciso terminar de ler o livro antes de ir à biblioteca.
+
+C: O jogador foi convocado para integrar a seleção nacional.
+S: O jogador foi convocado para integrar a seleção nacional.
+
+C: Depois de jantar, eles foram ao cinema.
+S: Depois de jantar, eles foram ao cinema.
+
+C: Maria decidiu viajar para a praia nas férias.
+S: Maria decidiu viajar para a praia nas férias.
+
+C: Ao ouvir a música, ele começou a cantar junto.
+S: Ao ouvir a música, ele começou a cantar junto.
+
+C: Antes de sair de casa, ele conferiu se tinha a chave.
+S: Antes de sair de casa, ele conferiu se tinha a chave.
+
+C: Ela quis participar do projeto de pesquisa para aprender mais.
+S: Ela quis participar do projeto de pesquisa para aprender mais.
+
+C: Decidiu estudar para a prova que acontecerá amanhã.
+S: Decidiu estudar para a prova amanhã.
+
+C: Tentarei alcançar meus objetivos mesmo diante dos desafios.
+S: Tentarei alcançar meus objetivos diante dos desafios.
+
+C: Ao terminar o trabalho, decidiu sair para comemorar.
+S: Ao terminar o trabalho, decidiu sair para comemorar.
+
+C: Ficou feliz ao receber o convite para a festa surpresa.
+S: Ficou feliz ao receber o convite para a festa.
+
+C: Aproveitou a oportunidade para aprender um novo idioma.
+S: Aproveitou a oportunidade para aprender um novo idioma.
+
+C: Ao chegar em casa, percebeu que havia esquecido a chave.
+S: Ao chegar em casa, percebeu que havia esquecido a chave.
+
+C: Fez uma lista de tarefas para organizar o dia.
+S: Fez uma lista de tarefas para organizar.
+
+C: Ao ver a notícia, ficou surpreso com a revelação.
+S: Ao ver a notícia, ficou surpreso.
+
+C: Planejou viajar para o exterior durante as férias.
+S: Planejou viajar para o exterior nas férias.
+
+C: Ao receber o telefonema, marcou uma reunião para discutir o projeto.
+S: Ao receber o telefonema, marcou uma reunião para discutir.
+
+C: A decisão de comprar uma casa nova foi tomada depois de muita reflexão. 
+S: Ele decidiu comprar uma casa nova depois de muita reflexão.
+
+C: Ao chegar ao restaurante, ele pediu uma mesa para três pessoas.
+S: Chegando ao restaurante, ele pediu uma mesa para três pessoas.
+
+C: Após estudar durante horas, ela finalmente entendeu o conceito.
+S: Estudando durante horas, ela finalmente entendeu o conceito.
+
+C: Ao receber a notícia, ele ficou muito feliz.
+S: Recebendo a notícia, ele ficou muito feliz.
+
+C: Durante a viagem, eles visitaram muitos lugares incríveis.
+S: Viajando, eles visitaram muitos lugares incríveis.
+
+C: Ao acordar, ela tomou um banho frio para se refrescar.
+S: Acordando, ela tomou um banho frio para se refrescar.
+
+C: Sempre que vejo um cachorro fofo, sinto vontade de abraçá-lo.
+S: Vendo um cachorro fofo, sempre sinto vontade de abraçá-lo.
+
+C: Ao terminar a tarefa, ele descansou um pouco antes de começar a próxima.
+S: Terminando a tarefa, ele descansou um pouco antes de começar a próxima.
+
+C: Ao ouvir a notícia, ela ficou muito surpresa.
+S: Ouvindo a notícia, ela ficou muito surpresa.
+
+C: Depois de muito treinamento, ela se tornou uma excelente cantora.
+S: Treinando muito, ela se tornou uma excelente cantora.
+
+C: O professor pediu para os alunos estudarem para a prova.
+S: O professor pediu para os alunos estudarem.
+
+C: O advogado sugeriu contratar um detetive particular para investigar o caso.
+S: O advogado sugeriu contratar um detetive particular.
+
+C: É importante sempre respeitar as opiniões alheias.
+S: É importante sempre respeitar as opiniões alheias.
+
+C: Ela se lembrou de levar o guarda-chuva ao sair de casa.
+S: Ela se lembrou de levar o guarda-chuva.
+
+C: Eu gostaria de aprender a tocar piano.
+S: Eu gostaria de aprender a tocar piano.
+
+C: Ele se recusou a aceitar as desculpas dela.
+S: Ele se recusou a aceitar as desculpas.
+
+C: A equipe decidiu partir cedo para evitar o trânsito.
+S: A equipe decidiu partir cedo.
+
+C: Ela prometeu não revelar o segredo a ninguém.
+S: Ela prometeu não revelar o segredo.
+
+C: Os pais permitiram que os filhos ficassem acordados até mais tarde.
+S: Os pais permitiram que os filhos ficassem acordados.
+
+C: Eles pretendem viajar para o exterior nas férias.
+S: Eles pretendem viajar para o exterior.
+
+C: Tive que estudar muito para passar na prova.
+S: Tive que estudar muito.
+
+C: Ela precisava de se exercitar regularmente para manter a forma.
+S: Ela precisava se exercitar regularmente.
+
+C: Após terminar o trabalho, ele foi para casa descansar.
+S: Após terminar o trabalho, ele foi para casa.
+
+C: Era necessário pagar a taxa até o final do mês.
+S: Era necessário pagar a taxa.
+
+C: Ao perceber o perigo, ele correu para se proteger.
+S: Percebendo o perigo, ele correu para se proteger.
+
+C: Fui ao mercado para comprar comida para o jantar.
+S: Fui ao mercado comprar comida.
+
+C: Ao ver o resultado, ela ficou muito feliz.
+S: Vendo o resultado, ela ficou muito feliz.
+
+C: Desejávamos viajar para a praia nas férias de verão.
+S: Desejávamos viajar para a praia.
+
+C: Acabei de ligar para marcar a consulta com o médico.
+S: Acabei de ligar para marcar a consulta.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ouvindo a música, ele começou a dançar.
+
+C: Ele prometeu voltar antes do anoitecer.
+S: Ele prometeu voltar antes de anoitecer.
+
+C: Maria estava ansiosa para fazer o teste e mostrar seu conhecimento.
+S: Maria estava ansiosa para fazer o teste e demonstrar seu conhecimento.
+
+C: Nós decidimos caminhar até o parque e aproveitar o sol.
+S: Nós decidimos caminhar até o parque e aproveitar o sol.
+
+C: Pedro sempre quis aprender a tocar guitarra e compor suas próprias músicas.
+S: Pedro sempre quis aprender a tocar guitarra e compor músicas.
+
+C: Ela implorou para ficar em casa ao invés de ir para a festa.
+S: Ela implorou para ficar em casa em vez de ir para a festa.
+
+C: Minha mãe insiste em fazer exercícios todos os dias para manter a forma.
+S: Minha mãe insiste em fazer exercícios todos os dias para se manter em forma.
+
+C: Os alunos se propuseram a organizar um evento beneficente para arrecadar fundos.
+S: Os alunos se propuseram a organizar um evento beneficente para arrecadar fundos.
+
+C: Ele prometeu tentar novamente e mostrar seu melhor desempenho no próximo teste.
+S: Ele prometeu tentar novamente e mostrar seu melhor desempenho no teste seguinte.
+
+C: Eles concordaram em adiar a reunião para analisar os relatórios com mais detalhes.
+S: Eles concordaram em adiar a reunião para analisar os relatórios em mais detalhes.
+
+C: A empresa planeja lançar um novo produto e expandir para novos mercados.
+S: A empresa planeja lançar um novo produto e expandir em novos mercados.
+
+C: Ela decidiu estudar para o exame de matemática.
+S: Ela decidiu estudar para o exame de matemática.
+
+C: Fui ao mercado para comprar os ingredientes da receita.
+S: Fui ao mercado para comprar os ingredientes da receita.
+
+C: Ele começou a correr para alcançar o ônibus.
+S: Ele começou a correr para alcançar o ônibus.
+
+C: Os alunos precisam entregar os trabalhos até amanhã.
+S: Os alunos precisam entregar os trabalhos até amanhã.
+
+C: Vou ao cinema para assistir ao novo filme.
+S: Vou ao cinema para assistir ao novo filme.
+
+C: A mãe deu um brinquedo para o filho.
+S: A mãe deu um brinquedo para o filho.
+
+C: Ela parou de falar quando todos a olharam.
+S: Ela parou de falar quando todos a olharam.
+
+C: O professor pediu para resolvermos a equação.
+S: O professor pediu para resolvermos a equação.
+
+C: Ele correu para pegar o último trem.
+S: Ele correu para pegar o último trem.
+
+C: Precisamos acordar cedo para não perder o voo.
+S: Precisamos acordar cedo para não perder o voo.
+
+C: Ele prometeu fazer o trabalho até amanhã.
+S: Ele prometeu fazer o trabalho até amanhã.
+
+C: A intenção dela é estudar medicina.
+S: A intenção dela é estudar medicina.
+
+C: Ao ganhar na loteria, ele decidiu viajar pelo mundo, comprar uma casa nova e ajudar a família.
+S: Ao ganhar na loteria, ele decidiu viajar pelo mundo, comprar uma casa nova e ajudar a família.
+
+C: É importante estudar para o exame.
+S: É importante estudar para o exame.
+
+C: Ao perceber a chuva forte, eles decidiram cancelar o passeio.
+S: Ao perceber a chuva forte, eles decidiram cancelar o passeio.
+
+C: Ela pediu para falar com o supervisor.
+S: Ela pediu para falar com o supervisor.
+
+C: Ao terminar a refeição, eles decidiram pedir a conta.
+S: Ao terminar a refeição, eles decidiram pedir a conta.
+
+C: O objetivo dele é conseguir um emprego melhor.
+S: O objetivo dele é conseguir um emprego melhor.
+
+C: Ao acordar cedo, ela consegue ser mais produtiva no trabalho.
+S: Ao acordar cedo, ela consegue ser mais produtiva no trabalho.
+
+C: Ele aceitou ajudar no projeto.
+S: Ele aceitou ajudar no projeto.
+
+C: Ela resolveu estudar para o exame.
+S: Ela resolveu estudar.
+
+C: Preciso comprar um presente para o aniversário dela.
+S: Preciso comprar um presente.
+
+C: Vou convidar todos os meus amigos para a festa.
+S: Vou convidar todos os meus amigos.
+
+C: Ele decidiu aceitar o emprego em outra cidade.
+S: Ele decidiu aceitar o emprego.
+
+C: Amanhã irei viajar para a praia com a minha família.
+S: Amanhã irei viajar para a praia.
+
+C: Ela quer aprender a tocar piano.
+S: Ela quer aprender a tocar.
+
+C: Preciso reservar uma mesa para o jantar de aniversário.
+S: Preciso reservar uma mesa.
+
+C: Ele pretende comprar um carro novo.
+S: Ele pretende comprar um carro.
+
+C: Vou pedir desculpas pelo meu erro.
+S: Vou pedir desculpas.
+
+C: Preciso mandar consertar a minha bicicleta.
+S: Preciso mandar consertar.
+
+C: Ele não conseguia dormir devido ao barulho alto.
+S: Ele não conseguia dormir com o barulho alto.
+
+C: A professora pediu para os alunos entregarem os trabalhos amanhã.
+S: A professora pediu que os alunos entregassem os trabalhos amanhã.
+
+C: Encontrei a minha amiga enquanto caminhava no parque.
+S: Encontrei minha amiga caminhando no parque.
+
+C: Ele decidiu estudar mais para melhorar suas notas.
+S: Ele decidiu estudar mais para melhorar as notas.
+
+C: Fui ao mercado para comprar frutas e legumes frescos.
+S: Fui ao mercado comprar frutas e legumes frescos.
+
+C: Ela estava muito cansada devido ao longo dia de trabalho.
+S: Ela estava muito cansada por causa do longo dia de trabalho.
+
+C: Os alunos precisam entregar a tarefa até sexta-feira.
+S: Os alunos precisam entregar a tarefa até sexta-feira.
+
+C: Eles resolveram sair para comemorar o aniversário dele.
+S: Eles resolveram sair comemorar o aniversário dele.
+
+C: A mãe pediu para a criança se comportar na festa.
+S: A mãe pediu que a criança se comportasse na festa.
+
+C: O professor explicou o conteúdo várias vezes para que todos entendessem.
+S: O professor explicou o conteúdo várias vezes para todos entenderem.
+
+C: Ele tinha o objetivo de estudar medicina.
+S: Ele tinha o objetivo de estudar medicina.
+
+C: Ao perceber o objeto no chão, ela pensou em pegá-lo.
+S: Ao perceber o objeto no chão, ela pensou em pegá-lo.
+
+C: Era necessário fazer uma lista de compras antes de ir ao mercado.
+S: Era necessário fazer uma lista de compras antes de ir ao mercado.
+
+C: Para conseguir um bom emprego, ele precisava melhorar suas habilidades.
+S: Para conseguir um bom emprego, ele precisava melhorar suas habilidades.
+
+C: Ao chegar em casa, ele decidiu descansar e assistir televisão.
+S: Ao chegar em casa, ele decidiu descansar e assistir televisão.
+
+C: Era importante seguir as regras impostas pela empresa.
+S: Era importante seguir as regras impostas pela empresa.
+
+C: Para evitar atrasos, ela decidiu acordar mais cedo.
+S: Para evitar atrasos, ela decidiu acordar mais cedo.
+
+C: Ao ganhar o concurso, ela ficou muito feliz.
+S: Ao ganhar o concurso, ela ficou muito feliz.
+
+C: Era necessário estudar para a prova de matemática.
+S: Era necessário estudar para a prova de matemática.
+
+C: Ao receber o presente, ele agradeceu muito.
+S: Ao receber o presente, ele agradeceu muito.
+
+C: Ele resolveu estudar para a prova de matemática.
+S: Ele resolveu estudar para a prova de matemática.
+
+C: Ao terminar o trabalho, ele foi comemorar com os amigos.
+S: Ao terminar o trabalho, ele foi comemorar com os amigos.
+
+C: Ela decidiu comprar um vestido novo para a festa.
+S: Ela decidiu comprar um vestido novo para a festa.
+
+C: Ao acordar cedo, ele conseguiu aproveitar melhor o dia.
+S: Ao acordar cedo, ele conseguiu aproveitar melhor o dia.
+
+C: O time de futebol conseguiu vencer o jogo por um placar apertado.
+S: O time de futebol conseguiu vencer o jogo por um placar apertado.
+
+C: Ao receber a notícia, ela ficou muito animada.
+S: Ao receber a notícia, ela ficou muito animada.
+
+C: Ela pediu para ele esperar um pouco antes de sair.
+S: Ela pediu para ele esperar um pouco antes de sair.
+
+C: Ao ver o filme, eles ficaram emocionados com a história.
+S: Ao ver o filme, eles ficaram emocionados com a história.
+
+C: Ele passou horas estudando para a prova de história.
+S: Ele passou horas estudando para a prova de história.
+
+C: Ao chegar em casa, ela percebeu que tinha esquecido a chave dentro do carro.
+S: Ao chegar em casa, ela percebeu que tinha esquecido a chave dentro do carro.
+
+C: É maravilhoso poder nadar no mar.
+S: É maravilhoso poder nadar no mar.
+
+C: Ao saber da notícia, ele ficou preocupado.
+S: Ao saber da notícia, ele ficou preocupado.
+
+C: Ele decide estudar para a prova, fazer exercícios e revisar o conteúdo.
+S: Ele decide estudar para a prova, fazer exercícios e revisar o conteúdo.
+
+C: Após refletir sobre o assunto, ela decidiu mudar de opinião.
+S: Após refletir sobre o assunto, ela decidiu mudar de opinião.
+
+C: É importante ter uma alimentação saudável e praticar exercícios diariamente.
+S: É importante ter uma alimentação saudável e praticar exercícios diariamente.
+
+C: Ao terminar o dia de trabalho, ele vai ao ginásio, encontra os amigos e joga futebol.
+S: Ao terminar o dia de trabalho, ele vai ao ginásio, encontra os amigos e joga futebol.
+
+C: É ótimo poder passar as férias na praia.
+S: É ótimo poder passar as férias na praia.
+
+C: Depois de fazer a prova, ele descansou e foi passear.
+S: Depois de fazer a prova, ele descansou e foi passear.
+
+C: Ao ver o acidente, ela ligou imediatamente para a emergência.
+S: Ao ver o acidente, ela ligou imediatamente para a emergência.
+
+C: É difícil entender a matéria e fazer os exercícios.
+S: É difícil entender a matéria e fazer os exercícios.
+
+C: É importante estudar para ter boas notas.
+S: É importante estudar para ter boas notas.
+
+C: Para conquistar seus objetivos, é necessário trabalhar duro.
+S: Para conquistar seus objetivos, é necessário trabalhar duro.
+
+C: Ao terminar de ler o livro, ele se sentiu inspirado.
+S: Ao terminar de ler o livro, ele se sentiu inspirado.
+
+C: É preciso estudar para passar no exame.
+S: É preciso estudar para passar no exame.
+
+C: Ela tentou convencer sua amiga a ir à festa.
+S: Ela tentou convencer sua amiga a ir à festa.
+
+C: É normal sentir medo em algumas situações.
+S: É normal sentir medo em algumas situações.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: É bom fazer exercícios regularmente para manter a saúde.
+S: É bom fazer exercícios regularmente para manter a saúde.
+
+C: Ao acordar cedo, você ganha mais tempo para realizar suas tarefas.
+S: Ao acordar cedo, você ganha mais tempo para realizar suas tarefas.
+
+C: É necessário economizar dinheiro para realizar seus sonhos.
+S: É necessário economizar dinheiro para realizar seus sonhos.
+
+C: Ela tentou falar com ele, mas ele não respondeu.
+S: Ela tentou falar com ele, mas ele não respondeu.
+
+C: É importante estudar para passar na prova.
+S: É importante estudar para passar na prova.
+
+C: Ao acordar, percebi que estava atrasado.
+S: Ao acordar, percebi que estava atrasado.
+
+C: Ela comprou um livro para ler durante as férias.
+S: Ela comprou um livro para ler durante as férias.
+
+C: Ao chegar em casa, ele encontrou tudo revirado.
+S: Ao chegar em casa, ele encontrou tudo revirado.
+
+C: Ele decidiu ir à praia para relaxar.
+S: Ele decidiu ir à praia para relaxar.
+
+C: Ficamos esperando por horas, mas ele nunca apareceu.
+S: Ficamos esperando por horas, mas ele nunca apareceu.
+
+C: Ao ouvir a notícia, ela ficou muito animada.
+S: Ao ouvir a notícia, ela ficou muito animada.
+
+C: Ela começou a cantar uma música ao ver o microfone.
+S: Ela começou a cantar uma música ao ver o microfone.
+
+C: Ao abrir a janela, ela sentiu uma brisa fresca.
+S: Ao abrir a janela, ela sentiu uma brisa fresca.
+
+C: Ela gostaria de aprender a tocar violão.
+S: Ela gostaria de aprender a tocar violão.
+
+C: Eu me esqueci de trazer meu guarda-chuva.
+S: Eu me esqueci de trazer meu guarda-chuva.
+
+C: Pedro decidiu voltar para casa tarde da noite, após a festa.
+S: Pedro decidiu voltar para casa tarde da noite, após a festa.
+
+C: Ao ouvir a notícia, ficamos bastante preocupados.
+S: Ao ouvir a notícia, ficamos bastante preocupados.
+
+C: Eles planejam viajar para o exterior nas férias.
+S: Eles planejam viajar para o exterior nas férias.
+
+C: Maria resolveu fazer uma dieta depois do verão.
+S: Maria resolveu fazer uma dieta depois do verão.
+
+C: Ao perceber o sinal vermelho, o motorista freou bruscamente.
+S: Ao perceber o sinal vermelho, o motorista freou bruscamente.
+
+C: Anna decidiu se mudar para outra cidade para estudar.
+S: Anna decidiu se mudar para outra cidade para estudar.
+
+C: Após a tempestade, a água da piscina estava suja.
+S: Após a tempestade, a água da piscina estava suja.
+
+C: Ao receber o convite, ela ficou bastante animada.
+S: Ao receber o convite, ela ficou bastante animada.
+
+C: Nós decidimos ir ao cinema.
+S: Nós decidimos ir ao cinema.
+
+C: É importante estudar para as provas.
+S: É importante estudar para as provas.
+
+C: Ao chegar em casa, ela tomou um banho e foi dormir.
+S: Ao chegar em casa, ela tomou um banho e foi dormir.
+
+C: Ela pretende trabalhar como médica no futuro.
+S: Ela pretende trabalhar como médica no futuro.
+
+C: Fomos ao parque para brincar e nos divertir.
+S: Fomos ao parque para brincar e nos divertir.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: Ele gosta de nadar no mar durante o verão.
+S: Ele gosta de nadar no mar durante o verão.
+
+C: Decidimos adiar a viagem por causa do mau tempo.
+S: Decidimos adiar a viagem por causa do mau tempo.
+
+C: É importante se alimentar bem para ter saúde.
+S: É importante se alimentar bem para ter saúde.
+
+C: Ao terminar o trabalho, ele entregou ao chefe.
+S: Ao terminar o trabalho, ele entregou ao chefe.
+
+C: Ele estava ansioso para começar a trabalhar.
+S: Ele estava ansioso para começar a trabalhar.
+
+C: Decidimos fazer uma pausa para almoçar.
+S: Decidimos fazer uma pausa para almoçar.
+
+C: Ela ficou triste ao receber a notícia.
+S: Ela ficou triste ao receber a notícia.
+
+C: Percebi que estava atrasado e corri para pegar o ônibus.
+S: Percebi que estava atrasado e corri para pegar o ônibus.
+
+C: Ele resolveu estudar até tarde para a prova.
+S: Ele resolveu estudar até tarde para a prova.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: Decidi tomar um banho antes de sair.
+S: Decidi tomar um banho antes de sair.
+
+C: Ao ver o filme, ela ficou emocionada.
+S: Ao ver o filme, ela ficou emocionada.
+
+C: Ele escolheu sair mais cedo do trabalho para evitar o trânsito.
+S: Ele escolheu sair mais cedo do trabalho para evitar o trânsito.
+
+C: Decidimos ir ao cinema assistir ao novo filme.
+S: Decidimos ir ao cinema assistir ao novo filme.
+
+C: Ele gostaria de aprender a tocar piano.
+S: Ele gostaria aprender a tocar piano.
+
+C: Ao terminar a faculdade, ela pretende viajar pelo mundo.
+S: Ao terminar a faculdade, ela pretende viajar pelo mundo.
+
+C: Era importante fazer exercícios físicos regularmente.
+S: Era importante fazer exercícios físicos regularmente.
+
+C: Ao perceber a chuva, eles decidiram levar guarda-chuvas.
+S: Ao perceber a chuva, eles decidiram levar guarda-chuvas.
+
+C: Ele preferiu caminhar ao invés de pegar um táxi.
+S: Ele preferiu caminhar ao invés de pegar um táxi.
+
+C: Era necessário montar um plano de ação.
+S: Era necessário montar um plano de ação.
+
+C: Ao acordar cedo, ela tinha mais tempo para se arrumar.
+S: Ao acordar cedo, ela tinha mais tempo para se arrumar.
+
+C: Era difícil convencer os pais a deixá-la sair à noite.
+S: Era difícil convencer os pais a deixá-la sair à noite.
+
+C: Ao receber o convite, eles decidiram aceitar a proposta.
+S: Ao receber o convite, eles decidiram aceitar a proposta.
+
+C: Ele estava ansioso para começar o novo emprego.
+S: Ele estava ansioso para começar o novo emprego.
+
+C: Ele decidiu estudar para o exame final.
+S: Ele decidiu estudar para o exame final.
+
+C: Ao notar o perigo da situação, ela correu para se proteger.
+S: Ao notar o perigo da situação, ela correu para se proteger.
+
+C: Nós planejamos visitar a praia esse fim de semana.
+S: Nós planejamos visitar a praia esse fim de semana.
+
+C: Ao terminar o trabalho, ela foi embora.
+S: Ao terminar o trabalho, ela foi embora.
+
+C: Minha irmã adora nadar no mar.
+S: Minha irmã adora nadar no mar.
+
+C: Ao acordar cedo, ele tem mais tempo para se exercitar.
+S: Ao acordar cedo, ele tem mais tempo para se exercitar.
+
+C: Ele deseja viajar pelo mundo e conhecer novas culturas.
+S: Ele deseja viajar pelo mundo e conhecer novas culturas.
+
+C: Ao chegar tarde em casa, ela foi direto para cama.
+S: Ao chegar tarde em casa, ela foi direto para cama.
+
+C: Nós devemos estudar para a prova amanhã.
+S: Nós devemos estudar para a prova amanhã.
+
+C: Ao escutar a música, ela começou a dançar.
+S: Ao escutar a música, ela começou a dançar.
+
+C: O médico recomendou que eu fizesse exercícios todos os dias.
+S: O médico recomendou exercícios todos os dias.
+
+C: Eles disseram que iriam para a praia no próximo fim de semana.
+S: Eles disseram que iriam para a praia no próximo fim de semana.
+
+C: Minha mãe insistiu em que eu arrumasse o meu quarto antes de sair.
+S: Minha mãe insistiu em eu arrumar o meu quarto antes de sair.
+
+C: Ele me pediu para trazer um café quando voltasse.
+S: Ele me pediu para trazer um café quando voltasse.
+
+C: A professora sugeriu que estudássemos mais para a prova.
+S: A professora sugeriu estudarmos mais para a prova.
+
+C: Ele espera receber um aumento no salário.
+S: Ele espera receber um aumento no salário.
+
+C: Eles querem viajar para a Europa nas férias de verão.
+S: Eles querem viajar para a Europa nas férias de verão.
+
+C: Ele pediu que ela o acompanhasse ao evento.
+S: Ele pediu ela o acompanhar ao evento.
+
+C: A empresa recomendou que os funcionários façam um curso de atualização.
+S: A empresa recomendou os funcionários fazerem um curso de atualização.
+
+C: A mãe insistiu em que a filha comesse todas as verduras no prato.
+S: A mãe insistiu em a filha comer todas as verduras no prato.
+
+C: Ela prometeu estudar para a prova.
+S: Ela prometeu estudar.
+
+C: Ao ver o carro se aproximando, ele correu para atravessar a rua.
+S: Ao ver o carro se aproximando, ele correu.
+
+C: Eles queriam viajar para a praia no verão.
+S: Eles queriam viajar para a praia.
+
+C: Ao ganhar a loteria, ele decidiu pagar todas as dívidas.
+S: Ao ganhar a loteria, ele decidiu pagar as dívidas.
+
+C: Ela ficou muito triste ao receber a notícia do acidente.
+S: Ela ficou muito triste ao receber a notícia.
+
+C: Quando for ao supermercado, compre um pacote de arroz.
+S: Quando for ao supermercado, compre arroz.
+
+C: Ao tocar a campainha, ele sabia que tinha chegado.
+S: Ao tocar a campainha, ele sabia.
+
+C: Ela decidiu pedir ajuda ao professor para entender melhor a matéria.
+S: Ela decidiu pedir ajuda ao professor.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou.
+
+C: Eles combinaram de se encontrar no café da esquina.
+S: Eles combinaram de se encontrar no café.
+
+C: Ela pretendia estudar medicina.
+S: Ela pretendia estudar medicina.
+
+C: Nós decidimos sair mais cedo.
+S: Nós decidimos sair mais cedo.
+
+C: Ao terminar o trabalho, ele foi para casa descansar.
+S: Ao terminar o trabalho, ele foi para casa descansar.
+
+C: Ela encontrou um livro interessante para ler.
+S: Ela encontrou um livro interessante para ler.
+
+C: Eles optaram por não comparecer à festa.
+S: Eles optaram por não comparecer à festa.
+
+C: Ao ver o filme, ela começou a chorar.
+S: Ao ver o filme, ela começou a chorar.
+
+C: Ele planejava comprar um carro novo.
+S: Ele planejava comprar um carro novo.
+
+C: Ao sentir a mão gelada, ela se assustou.
+S: Ao sentir a mão gelada, ela se assustou.
+
+C: Nós fomos convidados para participar do evento.
+S: Nós fomos convidados para participar do evento.
+
+C: Ao encontrar um cachorro na rua, ela decidiu adotá-lo.
+S: Ao encontrar um cachorro na rua, ela decidiu adotá-lo.
+
+C: Marcos adora nadar no mar.
+S: Marcos adora nadar no mar.
+
+C: Ao entrar no restaurante, percebi que era um lugar muito elegante.
+S: Ao entrar no restaurante, percebi que era um lugar muito elegante.
+
+C: Ela costuma correr todas as manhãs no parque.
+S: Ela costuma correr todas as manhãs no parque.
+
+C: Ao ver a chuva lá fora, decidi pegar o guarda-chuva.
+S: Ao ver a chuva lá fora, decidi pegar o guarda-chuva.
+
+C: O professor explicou a matéria com muita clareza.
+S: O professor explicou a matéria com muita clareza.
+
+C: Ao ouvir a música, os alunos começaram a dançar.
+S: Ao ouvir a música, os alunos começaram a dançar.
+
+C: Ela prometeu ajudar na organização da festa.
+S: Ela prometeu ajudar na organização da festa.
+
+C: Ao receber o convite, aceitei imediatamente.
+S: Ao receber o convite, aceitei imediatamente.
+
+C: Os amigos decidiram viajar de avião para evitar o trânsito.
+S: Os amigos decidiram viajar de avião para evitar o trânsito.
+
+C: Ao encontrar a carteira do colega no chão, devolvi para ele.
+S: Ao encontrar a carteira do colega no chão, devolvi para ele.
+
+C: Estava cansado de estudar tanto.
+S: Estava cansado de estudar tanto.
+
+C: Era importante que todos colaborassem.
+S: Era importante que todos colaborassem.
+
+C: Ao perceber a dificuldade do problema, decidiu pedir ajuda.
+S: Ao perceber a dificuldade do problema, decidiu pedir ajuda.
+
+C: O objetivo é alcançar o sucesso.
+S: O objetivo é alcançar o sucesso.
+
+C: É fundamental que todos respeitem as regras.
+S: É fundamental que todos respeitem as regras.
+
+C: Ao terminar a tarefa, saiu para comemorar.
+S: Ao terminar a tarefa, saiu para comemorar.
+
+C: Era impossível encontrar uma solução rápida.
+S: Era impossível encontrar uma solução rápida.
+
+C: O desejo é realizar todos os sonhos.
+S: O desejo é realizar todos os sonhos.
+
+C: Ao receber a notícia, ficou chocado.
+S: Ao receber a notícia, ficou chocado.
+
+C: Era essencial que todos participassem da reunião.
+S: Era essencial que todos participassem da reunião.
+
+C: Eu gosto de correr todas as manhãs.
+S: Eu gosto de correr todas as manhãs.
+
+C: Ele prometeu estudar para a prova.
+S: Ele prometeu estudar para a prova.
+
+C: Ao perceber que estava atrasado, ele saiu correndo.
+S: Ao perceber que estava atrasado, ele saiu correndo.
+
+C: A minha mãe sugeriu fazer um piquenique no parque.
+S: A minha mãe sugeriu fazer um piquenique no parque.
+
+C: O professor pediu para os alunos fazerem uma pesquisa.
+S: O professor pediu para os alunos fazerem uma pesquisa.
+
+C: Ela decidiu aprender tocar violão.
+S: Ela decidiu aprender tocar violão.
+
+C: Ao ver o resultado, ela ficou muito feliz.
+S: Ao ver o resultado, ela ficou muito feliz.
+
+C: Eles querem viajar para a praia nas férias.
+S: Eles querem viajar para a praia nas férias.
+
+C: Ele pretende comprar um carro novo.
+S: Ele pretende comprar um carro novo.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: Ele decidiu estudar para o exame.
+S: Ele decidiu estudar para o exame.
+
+C: Ao ver o resultado, ela ficou feliz.
+S: Ao ver o resultado, ela ficou feliz.
+
+C: Foi difícil aceitar a perda.
+S: Foi difícil aceitar a perda.
+
+C: O plano era realizar o projeto.
+S: O plano era realizar o projeto.
+
+C: Depois de terminar o trabalho, ela foi para casa.
+S: Depois de terminar o trabalho, ela foi para casa.
+
+C: Quero tirar boas notas na prova.
+S: Quero tirar boas notas na prova.
+
+C: Ao chegar em casa, percebeu que estava sem as chaves.
+S: Ao chegar em casa, percebeu que estava sem as chaves.
+
+C: Decidi comprar um presente para ela.
+S: Decidi comprar um presente para ela.
+
+C: A ideia era começar o projeto hoje.
+S: A ideia era começar o projeto hoje.
+
+C: Após terminar a reunião, eles saíram para almoçar.
+S: Após terminar a reunião, eles saíram para almoçar.
+
+C: Após terminar o livro, ela decidiu escrever uma resenha sobre ele.
+S: Depois de terminar o livro, ela decidiu escrever uma resenha sobre ele.
+
+C: Ao perceber o perigo, eles chamaram a polícia.
+S: Percebendo o perigo, eles chamaram a polícia.
+
+C: Antes de sair de casa, lembre-se de desligar as luzes.
+S: Antes de sair de casa, lembre-se de desligar as luzes.
+
+C: Ao estudar para o exame, ele ficou muito nervoso.
+S: Estudando para o exame, ele ficou muito nervoso.
+
+C: Para aprender a tocar piano, ela contratou um professor particular.
+S: Aprender a tocar piano, ela contratou um professor particular.
+
+C: Para evitar a chuva, eles decidiram levar guarda-chuvas.
+S: Evitando a chuva, eles decidiram levar guarda-chuvas.
+
+C: Ao atravessar a rua, olhe para os dois lados.
+S: Atravessando a rua, olhe para os dois lados.
+
+C: Antes de tomar uma decisão, é importante pesquisar sobre o assunto.
+S: Antes de decidir, é importante pesquisar sobre o assunto.
+
+C: Ao enfrentar dificuldades, ele nunca desiste.
+S: Enfrentando dificuldades, ele nunca desiste.
+
+C: Para entender o conceito, ela leu vários livros sobre o assunto.
+S: Entendendo o conceito, ela leu vários livros sobre o assunto.
+
+C: Decidimos ir ao parque no próximo fim de semana.
+S: Decidimos ir ao parque no próximo fim de semana.
+
+C: Ele ficou feliz em ganhar o prêmio.
+S: Ele ficou feliz em ganhar o prêmio.
+
+C: Ao ver a chuva, corremos para nos abrigar.
+S: Ao ver a chuva, corremos para nos abrigar.
+
+C: Ela tentou convencer o chefe a dar-lhe um aumento.
+S: Ela tentou convencer o chefe a dar-lhe um aumento.
+
+C: Ao terminar o trabalho, ele foi para casa descansar.
+S: Ao terminar o trabalho, ele foi para casa descansar.
+
+C: Eu prefiro ir ao cinema do que ficar em casa.
+S: Eu prefiro ir ao cinema do que ficar em casa.
+
+C: Ela decidiu estudar engenharia civil.
+S: Ela decidiu estudar engenharia civil.
+
+C: Ao ler o livro, ela se emocionou com a história.
+S: Ao ler o livro, ela se emocionou com a história.
+
+C: Ele insistiu em comprar o presente mesmo sem ter dinheiro.
+S: Ele insistiu em comprar o presente mesmo sem ter dinheiro.
+
+C: Ao entrar na sala, ele cumprimentou todos os presentes.
+S: Ao entrar na sala, ele cumprimentou todos os presentes.
+
+C: Ele pretendia sair cedo para evitar o trânsito.
+S: Ele pretendia sair cedo para evitar o trânsito.
+
+C: Percebi uma olhada suspeita vindo do canto da sala.
+S: Percebi uma olhada suspeita vindo do canto da sala.
+
+C: É necessário revisar o texto antes de enviá-lo para publicação.
+S: É necessário revisar o texto antes de enviá-lo para publicação.
+
+C: Ele gostaria de aprender a tocar violão.
+S: Ele gostaria de aprender a tocar violão.
+
+C: A melhor forma de aprender é praticar diariamente.
+S: A melhor forma de aprender é praticar diariamente.
+
+C: Foi emocionante assistir ao espetáculo de dança.
+S: Foi emocionante assistir ao espetáculo de dança.
+
+C: Chegou a hora de tomar uma decisão importante.
+S: Chegou a hora de tomar uma decisão importante.
+
+C: Compramos uma casa nova para morar.
+S: Compramos uma casa nova para morar.
+
+C: Decidiu-se fazer uma viagem de última hora.
+S: Decidiu-se fazer uma viagem de última hora.
+
+C: É importante estudar para obter bons resultados nos exames.
+S: É importante estudar para obter bons resultados nos exames.
+
+C: Ela tentou estudar, mas estava muito cansada.
+S: Ela tentou estudar, mas estava muito cansada.
+
+C: É necessário ler o livro antes de fazer o trabalho.
+S: É necessário ler o livro antes de fazer o trabalho.
+
+C: Ao perceber o perigo, eles correram para se proteger.
+S: Ao perceber o perigo, eles correram para se proteger.
+
+C: Decidiu estudar bastante para passar na prova.
+S: Decidiu estudar bastante para passar na prova.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: É importante fazer exercícios regularmente para manter a saúde.
+S: É importante fazer exercícios regularmente para manter a saúde.
+
+C: Ao ver o resultado, ela ficou muito feliz.
+S: Ao ver o resultado, ela ficou muito feliz.
+
+C: Quero aprender a tocar piano.
+S: Quero aprender a tocar piano.
+
+C: Ao atravessar a rua, sempre olhe para os dois lados.
+S: Ao atravessar a rua, sempre olhe para os dois lados.
+
+C: Foi difícil encontrar uma solução para o problema.
+S: Foi difícil encontrar uma solução para o problema.
+
+C: Ela tentou pensar em uma solução para o problema.
+S: Ela tentou pensar em uma solução para o problema.
+
+C: Os jogadores pretendem treinar bastante para vencer o próximo jogo.
+S: Os jogadores pretendem treinar bastante para vencer o próximo jogo.
+
+C: Ao perceber que estava atrasado para o trabalho, ele correu para pegar o ônibus.
+S: Ao perceber que estava atrasado para o trabalho, ele correu para pegar o ônibus.
+
+C: Ela decidiu estudar durante toda a tarde para a prova de matemática.
+S: Ela decidiu estudar durante toda a tarde para a prova de matemática.
+
+C: Ao sentir o cheiro da comida, todos se reuniram na cozinha.
+S: Ao sentir o cheiro da comida, todos se reuniram na cozinha.
+
+C: Ele percebeu que esqueceu a carteira em casa e correu de volta para pegá-la.
+S: Ele percebeu que esqueceu a carteira em casa e correu de volta para pegá-la.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: Ela queria tirar uma foto para guardar de lembrança.
+S: Ela queria tirar uma foto para guardar de lembrança.
+
+C: Ao notar a presença do desconhecido, ela ficou assustada.
+S: Ao notar a presença do desconhecido, ela ficou assustada.
+
+C: O professor pediu para explicar novamente a resposta da questão.
+S: O professor pediu para explicar novamente a resposta da questão.
+
+C: Eles pretendem estudar para o exame amanhã.
+S: Eles pretendem estudar para o exame amanhã.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: Eu costumo ler antes de dormir.
+S: Eu costumo ler antes de dormir.
+
+C: Ela adora cozinhar para os amigos.
+S: Ela adora cozinhar para os amigos.
+
+C: Ao ver o filme, ele percebeu que já o tinha assistido antes.
+S: Ao ver o filme, ele percebeu que já o tinha assistido antes.
+
+C: Eu decidi viajar nas férias de verão.
+S: Eu decidi viajar nas férias de verão.
+
+C: Ao chegar em casa, ele descobriu que havia esquecido as chaves.
+S: Ao chegar em casa, ele descobriu que havia esquecido as chaves.
+
+C: Eles prometeram resolver o problema o mais rápido possível.
+S: Eles prometeram resolver o problema o mais rápido possível.
+
+C: Ao iniciar o projeto, eles perceberam que precisariam de mais recursos.
+S: Ao iniciar o projeto, eles perceberam que precisariam de mais recursos.
+
+C: Nós adoramos sair para jantar aos fins de semana.
+S: Nós adoramos sair para jantar aos fins de semana.
+
+C: Ele se esqueceu de fazer o trabalho de casa.
+S: Ele se esqueceu de fazer o trabalho de casa.
+
+C: Ela prometeu estudar mais para as próximas provas.
+S: Ela prometeu estudar mais para as próximas provas.
+
+C: Ao receber a notícia da promoção, ele pulou de alegria.
+S: Ao receber a notícia da promoção, ele pulou de alegria.
+
+C: É importante se alimentar corretamente para manter a saúde.
+S: É importante se alimentar corretamente para manter a saúde.
+
+C: Ao ouvir a música, ela começou a cantarolar baixinho.
+S: Ao ouvir a música, ela começou a cantarolar baixinho.
+
+C: Ele decidiu correr para não perder o ônibus.
+S: Ele decidiu correr para não perder o ônibus.
+
+C: O professor recomendou ler mais livros para melhorar o vocabulário.
+S: O professor recomendou ler mais livros para melhorar o vocabulário.
+
+C: Ao perceber que estava atrasado, ele saiu correndo de casa.
+S: Ao perceber que estava atrasado, ele saiu correndo de casa.
+
+C: O médico sugeriu fazer exames para investigar a causa da dor.
+S: O médico sugeriu fazer exames para investigar a causa da dor.
+
+C: Ao terminar a refeição, ela lavou a louça.
+S: Ao terminar a refeição, ela lavou a louça.
+
+C: Fiquei feliz em ver meus amigos no casamento.
+S: Fiquei feliz em ver meus amigos no casamento.
+
+C: Ele decidiu estudar Medicina para ajudar pessoas.
+S: Ele decidiu estudar Medicina para ajudar pessoas.
+
+C: Ao escutar a música, ele se emocionou e começou a chorar.
+S: Ao escutar a música, ele se emocionou e começou a chorar.
+
+C: Ela adora cozinhar e sempre experimenta novas receitas.
+S: Ela adora cozinhar e sempre experimenta novas receitas.
+
+C: Decidimos fazer uma viagem de carro pelo interior do país.
+S: Decidimos fazer uma viagem de carro pelo interior do país.
+
+C: Ao se deparar com o problema, ele encontrou uma solução criativa.
+S: Ao se deparar com o problema, ele encontrou uma solução criativa.
+
+C: Fiquei triste ao perceber que ele não gosta mais de mim.
+S: Fiquei triste ao perceber que ele não gosta mais de mim.
+
+C: Ela começou a praticar yoga para relaxar a mente e o corpo.
+S: Ela começou a praticar yoga para relaxar a mente e o corpo.
+
+C: Ao conversar com ela, ele percebeu que estava apaixonado.
+S: Ao conversar com ela, ele percebeu que estava apaixonado.
+
+C: Decidimos ir ao cinema para assistir ao filme lançado recentemente.
+S: Decidimos ir ao cinema para assistir ao filme lançado recentemente.
+
+C: Eu pretendo comprar um carro novo no próximo ano.
+S: Pretendo comprar um carro novo no próximo ano.
+
+C: Ao ver o resultado do teste, ela começou a chorar de felicidade.
+S: Ao ver o resultado do teste, ela começou a chorar de felicidade.
+
+C: A minha irmã adora cozinhar pratos exóticos.
+S: A minha irmã adora cozinhar pratos exóticos.
+
+C: Para obter sucesso, é necessário ter persistência e dedicação.
+S: Para obter sucesso, é necessário ter persistência e dedicação.
+
+C: Ao se deparar com o lindo pôr do sol, ele parou para apreciar o momento.
+S: Ao se deparar com o lindo pôr do sol, ele parou para apreciar o momento.
+
+C: Meu objetivo é terminar o trabalho antes do prazo.
+S: Meu objetivo é terminar o trabalho antes do prazo.
+
+C: Ela costuma passear com o cachorro todas as manhãs.
+S: Ela costuma passear com o cachorro todas as manhãs.
+
+C: Ao sentir a brisa do mar, ele se lembrou da infância na praia.
+S: Ao sentir a brisa do mar, ele se lembrou da infância na praia.
+
+C: O professor explicou a matéria de forma clara e objetiva.
+S: O professor explicou a matéria de forma clara e objetiva.
+
+C: Ao ouvir a notícia, ele ficou surpreso.
+S: Ao ouvir a notícia, ele ficou surpreso.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: O plano é estudar todos os dias e se dedicar.
+S: O plano é estudar todos os dias e se dedicar.
+
+C: Ao perceber o erro, ele pediu desculpas imediatamente.
+S: Ao perceber o erro, ele pediu desculpas imediatamente.
+
+C: O objetivo é conseguir uma promoção e aumentar o salário.
+S: O objetivo é conseguir uma promoção e aumentar o salário.
+
+C: Ao terminar o trabalho, ela saiu para comemorar.
+S: Ao terminar o trabalho, ela saiu para comemorar.
+
+C: A intenção é comprar uma casa nova e mudar de vida.
+S: A intenção é comprar uma casa nova e mudar de vida.
+
+C: Ao ganhar o prêmio, ela pulou de alegria.
+S: Ao ganhar o prêmio, ela pulou de alegria.
+
+C: O plano é viajar pelo mundo e conhecer novas culturas.
+S: O plano é viajar pelo mundo e conhecer novas culturas.
+
+C: Ao ler o livro, ele se emocionou.
+S: Ao ler o livro, ele se emocionou.
+
+C: O objetivo é terminar os estudos e conseguir um bom emprego.
+S: O objetivo é terminar os estudos e conseguir um bom emprego.
+
+C: Era necessário estudar para passar na prova.
+S: Era necessário estudar para passar na prova.
+
+C: Ele pretende ir ao cinema esta noite.
+S: Ele pretende ir ao cinema esta noite.
+
+C: Ao chegar em casa, ele foi tomar banho.
+S: Ao chegar em casa, ele foi tomar banho.
+
+C: Era importante falar a verdade.
+S: Era importante falar a verdade.
+
+C: Ao acordar, ela foi direto para a academia.
+S: Ao acordar, ela foi direto para a academia.
+
+C: Era difícil entender o que ele estava falando.
+S: Era difícil entender o que ele estava falando.
+
+C: Ela adora viajar para novos países.
+S: Ela adora viajar para novos países.
+
+C: Ao ler o livro, ele se emocionou.
+S: Ao ler o livro, ele se emocionou.
+
+C: Era impossível atravessar a rua sem correr.
+S: Era impossível atravessar a rua sem correr.
+
+C: Ao receber a carta, ele ficou muito contente.
+S: Ao receber a carta, ele ficou muito contente.
+
+C: Ela adora dançar no palco.
+S: Ela adora dançar no palco.
+
+C: Era importante estudar para a prova.
+S: Era importante estudar para a prova.
+
+C: Ao receber a notícia, ela ficou muito feliz, gritou de alegria e abraçou o colega.
+S: Ao receber a notícia, ela ficou muito feliz, gritou de alegria e abraçou o colega.
+
+C: Ele tem vontade de aprender a tocar violão.
+S: Ele tem vontade de aprender a tocar violão.
+
+C: Ao ouvir a música, ela começou a cantar junto.
+S: Ao ouvir a música, ela começou a cantar junto.
+
+C: Era difícil controlar a ansiedade antes da viagem.
+S: Era difícil controlar a ansiedade antes da viagem.
+
+C: Ao perceber que estava atrasado, ele correu para pegar o ônibus.
+S: Ao perceber que estava atrasado, ele correu para pegar o ônibus.
+
+C: Ela se esforçou para conseguir uma promoção no trabalho.
+S: Ela se esforçou para conseguir uma promoção no trabalho.
+
+C: Ao receber a notícia, ele pulou de alegria e gritou "finalmente!".
+S: Ao receber a notícia, ele pulou de alegria e gritou "finalmente!".
+
+C: Era necessário fazer exercícios todos os dias para manter a forma.
+S: Era necessário fazer exercícios todos os dias para manter a forma.
+
+C: Decidiu ir ao mercado para comprar os ingredientes necessários para o jantar.
+S: Decidiu ir ao mercado e comprar os ingredientes necessários para o jantar.
+
+C: Ao estudar muito, conseguiu passar no exame.
+S: Estudando muito, conseguiu passar no exame.
+
+C: Todos ficaram surpresos ao ver a decoração da festa.
+S: Todos ficaram surpresos ao ver a decoração da festa.
+
+C: A professora pediu para os alunos escreverem um texto sobre suas férias.
+S: A professora pediu aos alunos escrever um texto sobre suas férias.
+
+C: Ao finalizar a tarefa, entregou para o chefe revisar.
+S: Ao finalizar a tarefa, entregou para o chefe revisar.
+
+C: Foi necessário esperar algumas horas para conseguir o resultado do exame.
+S: Foi necessário esperar algumas horas para conseguir o resultado do exame.
+
+C: Decidiram fazer uma viagem de carro para conhecer várias cidades.
+S: Decidiram fazer uma viagem de carro e conhecer várias cidades.
+
+C: Ao perceber o problema, chamou um técnico para consertar o computador.
+S: Ao perceber o problema, chamou um técnico para consertar o computador.
+
+C: Foi difícil encontrar a chave para abrir a porta.
+S: Foi difícil encontrar a chave e abrir a porta.
+
+C: Ao terminar de cozinhar, serviu a comida para os convidados.
+S: Ao terminar de cozinhar, serviu a comida aos convidados.
+
+C: Eu espero conseguir uma promoção no trabalho.
+S: Eu espero conseguir uma promoção no trabalho.
+
+C: Ela precisa estudar muito para passar no vestibular.
+S: Ela precisa estudar muito para passar no vestibular.
+
+C: Ao terminar a prova, eu fui para casa descansar.
+S: Ao terminar a prova, eu fui para casa descansar.
+
+C: Todos desejam ter uma vida feliz e tranquila.
+S: Todos desejam ter uma vida feliz e tranquila.
+
+C: Apesar de ter chovido muito, o jogo de futebol não foi cancelado.
+S: Apesar de ter chovido muito, o jogo de futebol não foi cancelado.
+
+C: Ao acordar cedo, consigo aproveitar melhor o dia.
+S: Ao acordar cedo, consigo aproveitar melhor o dia.
+
+C: Ela gosta de passear no parque aos finais de semana.
+S: Ela gosta de passear no parque aos finais de semana.
+
+C: Ao ler livros, podemos aprender muitas coisas novas.
+S: Ao ler livros, podemos aprender muitas coisas novas.
+
+C: Ele decidiu fazer uma viagem ao exterior para conhecer novas culturas.
+S: Ele decidiu fazer uma viagem ao exterior para conhecer novas culturas.
+
+C: Ao estudar com dedicação, é possível obter bons resultados nas provas.
+S: Ao estudar com dedicação, é possível obter bons resultados nas provas.
+
+C: Ele decidiu estudar medicina para ajudar as pessoas.
+S: Ele decidiu estudar medicina para ajudar as pessoas.
+
+C: A minha amiga adora ler livros de romance.
+S: A minha amiga adora ler livros de romance.
+
+C: Ao chegar em casa, ele percebeu que tinha esquecido as chaves.
+S: Ao chegar em casa, ele percebeu que tinha esquecido as chaves.
+
+C: Ela gosta de dançar e cantar ao mesmo tempo.
+S: Ela gosta de dançar e cantar ao mesmo tempo.
+
+C: Ao ver as notícias, ele ficou preocupado com a situação do país.
+S: Ao ver as notícias, ele ficou preocupado com a situação do país.
+
+C: O meu maior desejo é viajar pelo mundo.
+S: O meu maior desejo é viajar pelo mundo.
+
+C: Ela fez um curso para aprender a tocar violão.
+S: Ela fez um curso para aprender a tocar violão.
+
+C: Ao ouvir a música, ele começou a dançar espontaneamente.
+S: Ao ouvir a música, ele começou a dançar espontaneamente.
+
+C: Ele abriu um negócio próprio para ter mais liberdade financeira.
+S: Ele abriu um negócio próprio para ter mais liberdade financeira.
+
+C: Ao sentir a chuva, ele decidiu correr para se abrigar.
+S: Ao sentir a chuva, ele decidiu correr para se abrigar.
+
+C: Ao ver o pôr do sol, senti uma paz interior incrível.
+S: Ao ver o pôr do sol, senti uma paz interior incrível.
+
+C: Ela gostava de ler livros antes de dormir.
+S: Ela gostava de ler livros antes de dormir.
+
+C: Ao receber a notícia, ele pulou de alegria.
+S: Ao receber a notícia, ele pulou de alegria.
+
+C: Era importante dizer a verdade.
+S: Era importante dizer a verdade.
+
+C: Ao ouvir a música, ele se emocionou.
+S: Ao ouvir a música, ele se emocionou.
+
+C: Ela decidiu estudar mais para obter melhores resultados.
+S: Ela decidiu estudar mais para obter melhores resultados.
+
+C: Ao acordar, ele tomou um copo de água.
+S: Ao acordar, ele tomou um copo de água.
+
+C: Foi necessário esperar por horas.
+S: Foi necessário esperar por horas.
+
+C: Ao perder o emprego, ele se sentiu desesperado.
+S: Ao perder o emprego, ele se sentiu desesperado.
+
+C: Era difícil suportar a pressão.
+S: Era difícil suportar a pressão.
+
+C: Ele gostava de assistir filmes de ação. 
+S: Ele gostava de assistir filmes de ação.
+
+C: Para melhorar a sua saúde, ele começou a fazer exercícios físicos diariamente.
+S: Para melhorar a sua saúde, ele começou a fazer exercícios físicos diariamente.
+
+C: Ela decidiu estudar medicina para ajudar as pessoas.
+S: Ela decidiu estudar medicina para ajudar as pessoas.
+
+C: Ao chegar em casa, ela preparou o jantar para a família.
+S: Ao chegar em casa, ela preparou o jantar para a família.
+
+C: Ele comprou um novo carro para facilitar os seus deslocamentos.
+S: Ele comprou um novo carro para facilitar os seus deslocamentos.
+
+C: Ao perceber a chuva, eles correram para se abrigar.
+S: Ao perceber a chuva, eles correram para se abrigar.
+
+C: Ela queria aprender a tocar violão para se expressar artisticamente.
+S: Ela queria aprender a tocar violão para se expressar artisticamente.
+
+C: Ao terminar o livro, ele começou a ler outro.
+S: Ao terminar o livro, ele começou a ler outro.
+
+C: Para economizar dinheiro, eles decidiram fazer um jantar em casa.
+S: Para economizar dinheiro, eles decidiram fazer um jantar em casa.
+
+C: Ao ver o acidente, ele ligou para a emergência imediatamente.
+S: Ao ver o acidente, ele ligou para a emergência imediatamente.
+
+C: Ele decidiu estudar medicina para ajudar as pessoas.
+S: Ele decidiu estudar medicina ajudar as pessoas.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou dançar.
+
+C: Maria gostaria de aprender a tocar violão.
+S: Maria gostaria de aprender tocar violão.
+
+C: Ao finalizar a reunião, eles marcaram um novo encontro.
+S: Ao finalizar a reunião, eles marcaram um novo encontro.
+
+C: O professor explicou como fazer a atividade.
+S: O professor explicou fazer a atividade.
+
+C: Ao receber a notícia, ela ficou muito feliz.
+S: Ao receber a notícia, ela ficou feliz.
+
+C: Carlos deseja comprar um carro novo.
+S: Carlos deseja comprar um carro novo.
+
+C: Ao terminar a leitura do livro, ela se emocionou.
+S: Ao terminar a leitura do livro, ela se emocionou.
+
+C: Lucas pretende viajar no próximo fim de semana.
+S: Lucas pretende viajar no próximo fim de semana.
+
+C: Ao encontrar o amigo, eles convidaram para jantar.
+S: Ao encontrar o amigo, eles convidaram jantar.
+
+C: Ele prometeu estudar durante toda a semana.
+S: Ele prometeu estudar a semana toda.
+
+C: Ela planejou correr pela manhã e nadar à tarde.
+S: Ela planejou correr de manhã e nadar de tarde.
+
+C: Nós esperamos sair para jantar em um restaurante chique.
+S: Nós esperamos sair para jantar em um restaurante chique.
+
+C: O professor disse para a turma não fazer bagunça.
+S: O professor disse para a turma não fazer bagunça.
+
+C: Eles desejavam ganhar dinheiro o suficiente para viajar ao redor do mundo.
+S: Eles desejavam ganhar dinheiro o suficiente para viajar pelo mundo.
+
+C: A mãe mandou a criança ir tomar banho.
+S: A mãe mandou a criança ir tomar banho.
+
+C: O jogador de futebol sonha em jogar para um time europeu.
+S: O jogador de futebol sonha em jogar para um time europeu.
+
+C: O médico recomendou ao paciente fazer exercícios físicos diariamente.
+S: O médico recomendou ao paciente fazer exercícios todos os dias.
+
+C: Ela decidiu passar as férias visitando museus e explorando a cidade.
+S: Ela decidiu passar as férias visitando museus e explorando a cidade.
+
+C: Eles esperavam ter tempo suficiente para descansar e aproveitar o dia.
+S: Eles esperavam ter tempo suficiente para descansar e aproveitar o dia.
+
+C: Ele tentou convencer o chefe, argumentando a favor do aumento de salário.
+S: Ele tentou convencer o chefe, argumentando a favor do aumento de salário.
+
+C: Ao estudar a matéria, percebi que estava faltando alguns conceitos.
+S: Ao estudar a matéria, percebi que estava faltando alguns conceitos.
+
+C: Quero poder ajudar as pessoas, dedicando-me à medicina.
+S: Quero poder ajudar as pessoas, dedicando-me à medicina.
+
+C: Ao ouvir a música, senti uma mistura de nostalgia e alegria.
+S: Ao ouvir a música, senti uma mistura de nostalgia e alegria.
+
+C: Ele prometeu terminar o trabalho, entregando-o até o final da semana.
+S: Ele prometeu terminar o trabalho, entregando-o até o final da semana.
+
+C: Ao acordar, percebi que estava atrasada para o compromisso.
+S: Ao acordar, percebi que estava atrasada para o compromisso.
+
+C: Ela planejava viajar, conhecendo diferentes culturas e lugares.
+S: Ela planejava viajar, conhecendo diferentes culturas e lugares.
+
+C: Ao sentir a dor, decidi procurar um médico imediatamente.
+S: Ao sentir a dor, decidi procurar um médico imediatamente.
+
+C: Ele preferiu não fazer nada, deixando o problema sem solução.
+S: Ele preferiu não fazer nada, deixando o problema sem solução.
+
+C: Ao perceber o perigo, ela tomou uma decisão rápida e fugiu.
+S: Ao perceber o perigo, ela tomou uma decisão rápida e fugiu.
+
+C: Ele decidiu estudar medicina porque sempre quis ajudar as pessoas.
+S: Ele decidiu estudar medicina porque sempre quis ajudar as pessoas.
+
+C: Ao chegar em casa, percebi que tinha esquecido as chaves.
+S: Ao chegar em casa, percebi que tinha esquecido as chaves.
+
+C: Ela comprou um vestido novo para usar na festa de formatura.
+S: Ela comprou um vestido novo para usar na festa de formatura.
+
+C: Ao atravessar a rua, tome cuidado com os carros.
+S: Ao atravessar a rua, tome cuidado com os carros.
+
+C: Eles escolheram ir à praia ao invés de ficar em casa.
+S: Eles escolheram ir à praia ao invés de ficar em casa.
+
+C: Ao abrir a geladeira, vi que não tinha mais leite.
+S: Ao abrir a geladeira, vi que não tinha mais leite.
+
+C: O cachorro começou a latir durante a noite.
+S: O cachorro começou a latir durante a noite.
+
+C: Ao receber a notícia, ele ficou muito feliz.
+S: Ao receber a notícia, ele ficou muito feliz.
+
+C: Ela pediu para sair mais cedo do trabalho para ir ao médico.
+S: Ela pediu para sair mais cedo do trabalho para ir ao médico.
+
+C: Ao ouvir a música, lembrei-me da minha infância.
+S: Ao ouvir a música, lembrei-me da minha infância.
+
+C: Ela costumava estudar todas as noites para as provas.
+S: Ela costumava estudar todas as noites para as provas.
+
+C: A melhor maneira de resolver o problema é trabalhar em equipe.
+S: A melhor maneira de resolver o problema é trabalhar em equipe.
+
+C: Ao chegar em casa, ele tomou um banho e se deitou para descansar.
+S: Ao chegar em casa, ele tomou um banho e se deitou para descansar.
+
+C: Ao perceber a importância do tempo, ele começou a valorizá-lo mais.
+S: Ao perceber a importância do tempo, ele começou a valorizá-lo mais.
+
+C: Era divertido brincar na chuva quando éramos crianças.
+S: Era divertido brincar na chuva quando éramos crianças.
+
+C: Ao terminar o trabalho, ela decidiu sair para comemorar.
+S: Ao terminar o trabalho, ela decidiu sair para comemorar.
+
+C: Ao ler o livro, ele se emocionou com o final surpreendente.
+S: Ao ler o livro, ele se emocionou com o final surpreendente.
+
+C: Ela estava cansada de esperar pelo ônibus todos os dias.
+S: Ela estava cansada de esperar pelo ônibus todos os dias.
+
+C: Ao chegar na escola, ela foi direto para a sala de aula.
+S: Ao chegar na escola, ela foi direto para a sala de aula.
+
+C: Ele precisa estudar muito para passar no exame.
+S: Ele precisa estudar muito para passar no exame.
+
+C: O professor pediu para os alunos estudarem para a prova.
+S: O professor pediu aos alunos estudarem para a prova.
+
+C: Ela prometeu comprar um presente para a irmã.
+S: Ela prometeu comprar um presente para a irmã.
+
+C: Ele decidiu fazer uma viagem de carro pelos Estados Unidos.
+S: Ele decidiu fazer uma viagem de carro pelos Estados Unidos.
+
+C: Elas querem participar da competição de dança.
+S: Elas querem participar da competição de dança.
+
+C: O livro ensina a cozinhar diversas receitas.
+S: O livro ensina a cozinhar diversas receitas.
+
+C: Os amigos planejam sair para jantar depois do trabalho.
+S: Os amigos planejam sair para jantar depois do trabalho.
+
+C: A mãe mandou as crianças arrumarem seus quartos.
+S: A mãe mandou as crianças arrumarem seus quartos.
+
+C: Ele começou a praticar exercícios físicos regularmente.
+S: Ele começou a praticar exercícios físicos regularmente.
+
+C: Ela gostaria de aprender a tocar piano.
+S: Ela gostaria de aprender a tocar piano.
+
+C: Eles pretendem visitar vários países durante as férias.
+S: Eles pretendem visitar vários países durante as férias.
+
+C: Ela começou a cantar durante o show.
+S: Ela começou a cantar durante o show.
+
+C: É importante estudar para as provas.
+S: É importante estudar para as provas.
+
+C: Ao chegar em casa, ele preparou o jantar, lavou a louça e arrumou a sala.
+S: Ao chegar em casa, ele preparou o jantar, lavou a louça e arrumou a sala.
+
+C: Ele decidiu fazer uma viagem ao redor do mundo.
+S: Ele decidiu fazer uma viagem ao redor do mundo.
+
+C: Era necessário resolver o problema imediatamente.
+S: Era necessário resolver o problema imediatamente.
+
+C: Ao perceber o perigo, ela gritou por socorro, procurou abrigo e ligou para a polícia.
+S: Ao perceber o perigo, ela gritou por socorro, procurou abrigo e ligou para a polícia.
+
+C: É preciso estudar para passar na prova.
+S: É preciso estudar para passar na prova.
+
+C: Ela decidiu ir ao cinema assistir ao filme novo.
+S: Ela decidiu ir ao cinema assistir ao filme novo.
+
+C: Era difícil imaginar como seria o resultado.
+S: Era difícil imaginar como seria o resultado.
+
+C: Ao ver o acidente, ela correu para ajudar as vítimas, ligou para a ambulância e acalmou os envolvidos.
+S: Ao ver o acidente, ela correu para ajudar as vítimas, ligou para a ambulância e acalmou os envolvidos.
+
+C: Não foi possível encontrar a solução para o problema.
+S: Não foi possível encontrar a solução do problema.
+
+C: Ela costumava praticar esportes todos os dias.
+S: Ela costumava praticar esportes todos os dias.
+
+C: Por falta de tempo, não conseguiu finalizar o relatório.
+S: Por falta de tempo, não conseguiu finalizar o relatório.
+
+C: É importante seguir as orientações do instrutor.
+S: É importante seguir as orientações do instrutor.
+
+C: O objetivo é alcançar o sucesso profissional.
+S: O objetivo é alcançar o sucesso profissional.
+
+C: Por estar cansado, decidiu ir dormir mais cedo.
+S: Por estar cansado, decidiu ir dormir mais cedo.
+
+C: A fim de economizar dinheiro, trocou o carro por uma bicicleta.
+S: A fim de economizar dinheiro, trocou o carro por uma bicicleta.
+
+C: Após ler o livro, recomendou a leitura para seus amigos.
+S: Após ler o livro, recomendou a leitura para seus amigos.
+
+C: Por não compreender o exercício, pediu ajuda ao professor.
+S: Por não compreender o exercício, pediu ajuda ao professor.
+
+C: Para evitar problemas, verifique as informações antes de tomar uma decisão.
+S: Para evitar problemas, verifique as informações antes de tomar uma decisão.
+
+C: Devo estudar para a prova de amanhã.
+S: Preciso estudar para a prova de amanhã.
+
+C: É importante seguir as regras de trânsito.
+S: Importa seguir as regras de trânsito.
+
+C: Ela vai cantar no show de talentos.
+S: Ela vai cantar no show de talentos.
+
+C: Decidimos ir ao cinema no sábado à noite.
+S: Decidimos ir ao cinema no sábado à noite.
+
+C: Ele precisa arrumar o carro antes da viagem.
+S: Ele precisa arrumar o carro antes da viagem.
+
+C: É proibido fumar dentro do prédio.
+S: Proíbe-se fumar dentro do prédio.
+
+C: Quero aprender a tocar guitarra.
+S: Quero aprender a tocar guitarra.
+
+C: É necessário tomar a vacina contra a gripe.
+S: Necessita-se tomar a vacina contra a gripe.
+
+C: Não podemos esquecer de comprar leite no mercado.
+S: Não podemos esquecer de comprar leite no mercado.
+
+C: Tenho que terminar esse projeto até amanhã.
+S: Preciso terminar esse projeto até amanhã.
+
+C: Ele gosta de correr todos os dias.
+S: Ele gosta de correr todos os dias.
+
+C: Os alunos estão ansiosos para fazer a prova.
+S: Os alunos estão ansiosos para fazer a prova.
+
+C: Ela prefere ler livros em vez de assistir TV.
+S: Ela prefere ler livros em vez de assistir TV.
+
+C: Ao chegar em casa, ela imediatamente foi dormir.
+S: Ao chegar em casa, ela imediatamente foi dormir.
+
+C: O objetivo dele é se tornar um médico.
+S: O objetivo dele é se tornar um médico.
+
+C: Passamos a tarde inteira estudando para a prova.
+S: Passamos a tarde inteira estudando para a prova.
+
+C: Ao ouvir a música, ela começou a chorar.
+S: Ao ouvir a música, ela começou a chorar.
+
+C: Ele precisa estudar bastante para passar no exame.
+S: Ele precisa estudar bastante para passar no exame.
+
+C: Ao acordar, ele percebeu que estava atrasado para o trabalho.
+S: Ao acordar, ele percebeu que estava atrasado para o trabalho.
+
+C: O meu sonho é viajar pelo mundo.
+S: O meu sonho é viajar pelo mundo.
+
+C: Ao terminar de estudar, ela foi para a cama.
+S: Terminou de estudar, ela foi para a cama.
+
+C: Trouxe um livro para ler durante a viagem de trem.
+S: Trouxe um livro para ler durante a viagem de trem.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, começou a dançar.
+
+C: Decidiu estudar com afinco para passar na prova.
+S: Decidiu estudar com afinco para passar na prova.
+
+C: Não conseguia parar de rir ao ver o vídeo engraçado.
+S: Não conseguia parar de rir ao ver o vídeo engraçado.
+
+C: Ao perceber o perigo, ele correu para se proteger.
+S: Ao perceber o perigo, correu para se proteger.
+
+C: Ela resolveu fazer uma caminhada após o almoço.
+S: Resolveu fazer uma caminhada após o almoço.
+
+C: Ao encontrar um cachorro abandonado, ela decidiu adotá-lo.
+S: Ao encontrar um cachorro abandonado, decidiu adotá-lo.
+
+C: Ao saber da notícia, ele ficou emocionado.
+S: Ao saber da notícia, ficou emocionado.
+
+C: Ela foi ao parque para aproveitar o dia de sol.
+S: Foi ao parque para aproveitar o dia de sol.
+
+C: Ela tentou evitar o pior.
+S: Ela tentou evitar o pior.
+
+C: A intenção dele é estudar Medicina.
+S: A intenção dele é estudar Medicina.
+
+C: Ao perceber a chegada da tempestade, eles correram para se abrigar.
+S: Ao perceber a chegada da tempestade, eles correram para se abrigar.
+
+C: Foi difícil fazer a escolha certa.
+S: Foi difícil fazer a escolha certa.
+
+C: Ao sentir o cheiro da comida, meu estômago começou a roncar.
+S: Ao sentir o cheiro da comida, meu estômago começou a roncar.
+
+C: O objetivo da reunião era discutir novas estratégias.
+S: O objetivo da reunião era discutir novas estratégias.
+
+C: Era perigoso brincar com fogo.
+S: Era perigoso brincar com fogo.
+
+C: Ao terminar a tarefa, ela foi recompensada.
+S: Ao terminar a tarefa, ela foi recompensada.
+
+C: Ele pretende viajar para a praia no próximo verão.
+S: Ele pretende viajar para a praia no próximo verão.
+
+C: Ao perceber o perigo, ele agiu prontamente.
+S: Ao perceber o perigo, ele agiu prontamente.
+
+C: Eu pretendo estudar medicina.
+S: Pretendo estudar medicina.
+
+C: Eles fizeram uma festa para comemorar a vitória.
+S: Fizeram uma festa para comemorar a vitória.
+
+C: Ela deseja aprender a tocar violão.
+S: Deseja aprender a tocar violão.
+
+C: Vou sair para comprar alguns mantimentos.
+S: Vou sair para comprar alguns mantimentos.
+
+C: Ele resolveu aceitar o desafio e participar da competição.
+S: Resolveu aceitar o desafio e participar da competição.
+
+C: Nós vamos visitar os nossos avós no próximo fim de semana.
+S: Vamos visitar os nossos avós no próximo fim de semana.
+
+C: Elas decidiram abrir seu próprio negócio.
+S: Decidiram abrir seu próprio negócio.
+
+C: Ele precisa estudar mais para melhorar suas notas.
+S: Precisa estudar mais para melhorar suas notas.
+
+C: Aproveitarei minhas férias para viajar pelo país.
+S: Aproveitarei minhas férias para viajar pelo país.
+
+C: Ela gostaria de ter um cachorro como animal de estimação.
+S: Gostaria de ter um cachorro como animal de estimação.
+
+C: Ela gostava de nadar no mar.
+S: Ela gostava de nadar no mar.
+
+C: Preciso estudar para passar na prova.
+S: Preciso estudar para passar na prova.
+
+C: Vou sair para comprar pão.
+S: Vou sair para comprar pão.
+
+C: Ele decidiu me ajudar a resolver o problema.
+S: Ele decidiu me ajudar a resolver o problema.
+
+C: É impossível prever o futuro.
+S: É impossível prever o futuro.
+
+C: Estou ansioso para conhecer novas pessoas.
+S: Estou ansioso para conhecer novas pessoas.
+
+C: A música me faz feliz.
+S: A música me faz feliz.
+
+C: O carro parou de funcionar.
+S: O carro parou de funcionar.
+
+C: Meu objetivo é alcançar o sucesso profissional.
+S: Meu objetivo é alcançar o sucesso profissional.
+
+C: Ele estava empolgado para começar a viagem.
+S: Ele estava empolgado para começar a viagem.
+
+C: Ela prometeu estudar para a prova de matemática.
+S: Ela prometeu estudar para a prova de matemática.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: Ele decidiu sair para dar uma volta no parque.
+S: Ele decidiu sair para dar uma volta no parque.
+
+C: Ao perceber a chuva, eu peguei meu guarda-chuva.
+S: Ao perceber a chuva, eu peguei meu guarda-chuva.
+
+C: Ela preferiu ficar em casa ao invés de ir ao cinema.
+S: Ela preferiu ficar em casa ao invés de ir ao cinema.
+
+C: Ao terminar de ler o livro, ela o devolveu à biblioteca.
+S: Ao terminar de ler o livro, ela o devolveu à biblioteca.
+
+C: Ele planejou viajar nas férias de verão.
+S: Ele planejou viajar nas férias de verão.
+
+C: Ao sentir o cheiro da comida, ele ficou com fome.
+S: Ao sentir o cheiro da comida, ele ficou com fome.
+
+C: Ela decidiu aprender a tocar violão.
+S: Ela decidiu aprender a tocar violão.
+
+C: Ao ver o filme no cinema, ela ficou emocionada.
+S: Ao ver o filme no cinema, ela ficou emocionada.
+
+C: É importante estudar para alcançar o sucesso.
+S: É importante estudar para ser bem-sucedido.
+
+C: Ao comer muito rápido, pode causar indigestão.
+S: Comer muito rápido pode causar indigestão.
+
+C: É necessário seguir as instruções para obter os melhores resultados.
+S: Seguir as instruções é necessário para obter os melhores resultados.
+
+C: Ao chegar ao aeroporto, você precisa apresentar seu passaporte.
+S: Chegando ao aeroporto, você precisa apresentar seu passaporte.
+
+C: É essencial poupar dinheiro para alcançar suas metas financeiras.
+S: Poupar dinheiro é essencial para alcançar suas metas financeiras.
+
+C: Ao beber muito café, pode causar insônia.
+S: Beber muito café pode causar insônia.
+
+C: É importante exercitar-se regularmente para manter uma boa saúde.
+S: Exercitar-se regularmente é importante para manter uma boa saúde.
+
+C: Ao estudar com dedicação, você terá sucesso nos seus exames.
+S: Estudando com dedicação, você terá sucesso nos seus exames.
+
+C: É fundamental respeitar as regras para evitar punições.
+S: Respeitar as regras é fundamental para evitar punições.
+
+C: Ao praticar esportes regularmente, você melhorará sua aptidão física.
+S: Praticando esportes regularmente, você melhorará sua aptidão física.
+
+C: Eu gostaria de ler um livro que trata de mistérios.
+S: Eu gostaria de ler um livro sobre mistérios.
+
+C: Vou pegar o guarda-chuva para me proteger da chuva.
+S: Vou pegar o guarda-chuva para me proteger da chuva.
+
+C: Ela comprou um novo carro para poder viajar com mais conforto.
+S: Ela comprou um novo carro para viajar com mais conforto.
+
+C: Ele estudou muito para conseguir passar na prova.
+S: Ele estudou muito para passar na prova.
+
+C: Preciso sair de casa para chegar a tempo na reunião.
+S: Preciso sair de casa para chegar a tempo na reunião.
+
+C: Os alunos devem estudar bastante para tirar boas notas.
+S: Os alunos devem estudar bastante para tirar boas notas.
+
+C: Ele se esforçou para conquistar sua aprovação no trabalho.
+S: Ele se esforçou para conquistar sua aprovação no trabalho.
+
+C: Ela cantava para alegrar o ambiente durante a festa.
+S: Ela cantava para alegrar o ambiente na festa.
+
+C: Estava ansioso para assistir ao filme que todos estão falando.
+S: Estava ansioso para assistir ao filme que todos estão falando.
+
+C: Vou dar um presente para a minha mãe em seu aniversário.
+S: Vou dar um presente à minha mãe em seu aniversário.
+
+C: Ela costuma ler livros durante o tempo livre.
+S: Ela costuma ler livros durante o tempo livre.
+
+C: Ao ver a chuva, ele decidiu sair com o guarda-chuva.
+S: Ao ver a chuva, ele decidiu sair com o guarda-chuva.
+
+C: Era importante estudar para a prova.
+S: Era importante estudar para a prova.
+
+C: Ao receber a notícia, ela ficou surpresa.
+S: Ao receber a notícia, ela ficou surpresa.
+
+C: É necessário lavar as roupas antes de usar.
+S: É necessário lavar as roupas antes de usar.
+
+C: Ao perceber a presença do ladrão, ela chamou a polícia.
+S: Ao perceber a presença do ladrão, ela chamou a polícia.
+
+C: Fui ao supermercado para comprar comida.
+S: Fui ao supermercado para comprar comida.
+
+C: É interessante assistir a filmes de suspense.
+S: É interessante assistir a filmes de suspense.
+
+C: Ao sentir fome, ela preparou um lanche rápido.
+S: Ao sentir fome, ela preparou um lanche rápido.
+
+C: Era impossível entender o que ele estava falando.
+S: Era impossível entender o que ele estava falando.
+
+C: Julia está estudando para se tornar uma médica.
+S: Julia está estudando para se tornar médica.
+
+C: Maria vai ao supermercado para comprar comida.
+S: Maria vai ao supermercado comprar comida.
+
+C: Ao chegar em casa, Pedro percebeu que tinha esquecido a chave.
+S: Ao chegar em casa, Pedro percebeu ter esquecido a chave.
+
+C: João decidiu viajar para conhecer novos lugares.
+S: João decidiu viajar conhecer novos lugares.
+
+C: Ana foi ao cinema para assistir um filme.
+S: Ana foi ao cinema assistir um filme.
+
+C: Ao acordar, Carolina percebeu que estava atrasada para o trabalho.
+S: Ao acordar, Carolina percebeu que estava atrasada para o trabalho.
+
+C: Eles decidiram sair para jantar em um restaurante chique.
+S: Eles decidiram sair jantar em um restaurante chique.
+
+C: Ao abrir a geladeira, Paula viu que não tinha mais leite.
+S: Ao abrir a geladeira, Paula viu não ter mais leite.
+
+C: Lucas foi à biblioteca para estudar para a prova.
+S: Lucas foi à biblioteca estudar para a prova.
+
+C: Ao receber as notícias, Maria ficou muito feliz.
+S: Ao receber as notícias, Maria ficou muito feliz.
+
+C: Ele quer estudar medicina para se tornar um médico.
+S: Ele quer estudar medicina para se tornar médico.
+
+C: Ela decidiu ir à praia com seus amigos.
+S: Ela decidiu ir à praia com amigos.
+
+C: Ao perceber o perigo iminente, eles correram para se abrigar.
+S: Ao perceber o perigo iminente, eles correram para abrigar-se.
+
+C: O objetivo dele é aprender a tocar piano.
+S: O objetivo dele é aprender a tocar piano.
+
+C: Eles tomaram um café da manhã reforçado para ter energia para o dia.
+S: Eles tomaram um café da manhã reforçado para ter energia para o dia.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: Paulo decidiu fazer dieta para perder peso.
+S: Paulo decidiu fazer dieta para perder peso.
+
+C: Ao ver a chuva, eles decidiram pegar o guarda-chuva.
+S: Ao ver a chuva, eles decidiram pegar o guarda-chuva.
+
+C: Ela resolveu sair mais cedo para evitar o trânsito.
+S: Ela resolveu sair mais cedo para evitar o trânsito.
+
+C: Ao estudar muito, ele conseguiu passar no exame.
+S: Ao estudar muito, ele conseguiu passar no exame.
+
+C: Ao estudar para o exame, ela percebeu que estava tendo dificuldade em memorizar as informações.
+S: Ao estudar para o exame, ela percebeu sua dificuldade em memorizar as informações.
+
+C: Depois de conversar com ele, ela decidiu que era melhor terminar o relacionamento.
+S: Depois de conversar com ele, ela decidiu terminar o relacionamento.
+
+C: Ao ouvir a música, ele se lembrou de momentos felizes da infância.
+S: Ao ouvir a música, ele se lembrou de momentos felizes da infância.
+
+C: Ao tirar uma foto, ela se deu conta de como estava tão bonita.
+S: Ao tirar uma foto, ela se deu conta de sua beleza.
+
+C: Ao cozinhar, ela percebeu que faltava um ingrediente importante para a receita.
+S: Ao cozinhar, ela percebeu a falta de um ingrediente importante para a receita.
+
+C: Depois de ler o livro, ele compreendeu melhor a complexidade da história.
+S: Depois de ler o livro, ele compreendeu melhor a complexidade da história.
+
+C: Ao ver o filme, ela percebeu que já tinha assistido antes.
+S: Ao ver o filme, ela percebeu já ter assistido antes.
+
+C: Ao escrever o email, ele notou que havia esquecido de anexar um documento.
+S: Ao escrever o email, ele notou o esquecimento de anexar um documento.
+
+C: Ao analisar os dados, eles concluíram que era necessário fazer mudanças no plano de marketing.
+S: Ao analisar os dados, eles concluíram a necessidade de fazer mudanças no plano de marketing.
+
+C: Ao dirigir pela estrada, ele percebeu que estava quase sem combustível.
+S: Ao dirigir pela estrada, ele percebeu a falta de combustível.
+
+C: A professora pediu para os alunos lerem o capítulo antes da aula.
+S: A professora pediu aos alunos ler o capítulo antes da aula.
+
+C: Ele tentou consertar o carro, mas não conseguiu.
+S: Ele tentou consertar o carro, mas não conseguiu.
+
+C: Ao chegar em casa, ela percebeu que tinha esquecido a carteira no escritório.
+S: Ao chegar em casa, ela percebeu que tinha esquecido a carteira no escritório.
+
+C: O aluno decidiu não fazer a prova e entregou a folha em branco.
+S: O aluno decidiu não fazer a prova e entregou a folha em branco.
+
+C: O médico recomendou que ele tomasse o remédio antes das refeições.
+S: O médico recomendou tomar o remédio antes das refeições.
+
+C: Ao ver a chuva, eles decidiram cancelar o passeio.
+S: Ao ver a chuva, eles decidiram cancelar o passeio.
+
+C: A menina começou a chorar quando viu o cachorro abandonado.
+S: A menina começou a chorar ao ver o cachorro abandonado.
+
+C: O atleta correu o mais rápido que pôde para cruzar a linha de chegada.
+S: O atleta correu o mais rápido que pôde para cruzar a linha de chegada.
+
+C: Apesar do cansaço, ele continuou estudando até tarde da noite.
+S: Apesar do cansaço, ele continuou estudando até tarde da noite.
+
+C: A diretora pediu para os alunos comparecerem à reunião.
+S: A diretora pediu aos alunos comparecer à reunião.
+
+C: Depois de terminar o trabalho, irei descansar.
+S: Depois de terminar o trabalho, irei descansar.
+
+C: Ao acordar cedo, consigo aproveitar melhor o dia.
+S: Ao acordar cedo, consigo aproveitar melhor o dia.
+
+C: Ela decidiu estudar mais para melhorar suas notas.
+S: Ela decidiu estudar mais para melhorar suas notas.
+
+C: Ao ouvir aquela música, me lembrei de você.
+S: Ao ouvir aquela música, me lembrei de você.
+
+C: Ao encontrar o livro que procurava, fiquei muito feliz.
+S: Ao encontrar o livro que procurava, fiquei muito feliz.
+
+C: Ao saber da notícia, ele ficou surpreso.
+S: Ao saber da notícia, ele ficou surpreso.
+
+C: Ao chegar em casa, ele foi direto para o quarto.
+S: Ao chegar em casa, ele foi direto para o quarto.
+
+C: Depois de comer, foi dar uma volta no parque.
+S: Depois de comer, foi dar uma volta no parke.
+
+C: Ao digitar o texto, percebi alguns erros de gramática.
+S: Ao digitar o texto, percebi alguns erros de gramática.
+
+C: Depois de terminar a tarefa, ela foi tomar um banho.
+S: Depois de terminar a tarefa, ela foi tomar um banho.
+
+C: Ele decidiu estudar para a prova.
+S: Ele decidiu estudar para a prova.
+
+C: Eles pretendem assistir ao filme no cinema.
+S: Eles pretendem assistir ao filme no cinema.
+
+C: Ela resolveu fazer uma viagem de férias.
+S: Ela resolveu fazer uma viagem de férias.
+
+C: Meu objetivo é passar no concurso público.
+S: Meu objetivo é passar no concurso público.
+
+C: Ao perceber o perigo, eles correram para se proteger.
+S: Ao perceber o perigo, eles correram para se proteger.
+
+C: Nós gostaríamos de visitar a praia neste fim de semana.
+S: Nós gostaríamos de visitar a praia neste fim de semana.
+
+C: Ele pensou em mudar de emprego.
+S: Ele pensou em mudar de emprego.
+
+C: Ela decidiu pintar o quarto de azul.
+S: Ela decidiu pintar o quarto de azul.
+
+C: Eles planejam abrir um novo negócio.
+S: Eles planejam abrir um novo negócio.
+
+C: Ao encontrar a solução, eles comemoraram.
+S: Ao encontrar a solução, eles comemoraram.
+
+C: Ao concluir sua graduação, ele decidiu fazer um intercâmbio.
+S: Ao concluir sua graduação, ele decidiu fazer um intercâmbio.
+
+C: É importante estudar todos os dias para obter bons resultados.
+S: É importante estudar todos os dias para obter bons resultados.
+
+C: Ela pretendia viajar de avião, mas uma greve dos pilotos impediu.
+S: Ela pretendia viajar de avião, mas uma greve dos pilotos impediu.
+
+C: Ao analisar os dados do experimento, eles perceberam que havia um erro no cálculo.
+S: Ao analisar os dados do experimento, eles perceberam que havia um erro no cálculo.
+
+C: Após estudar bastante, ela conseguiu passar no exame.
+S: Após estudar bastante, ela conseguiu passar no exame.
+
+C: Ao ler o livro, ele percebeu que a história era muito emocionante.
+S: Ao ler o livro, ele percebeu que a história era muito emocionante.
+
+C: Ao notar a chuva, eles decidiram cancelar o passeio.
+S: Ao notar a chuva, eles decidiram cancelar o passeio.
+
+C: Com medo de perder o ônibus, ela saiu correndo em direção ao ponto.
+S: Com medo de perder o ônibus, ela saiu correndo em direção ao ponto.
+
+C: Ao acordar tarde, ele teve que se apressar para não chegar atrasado no trabalho.
+S: Ao acordar tarde, ele teve que se apressar para não chegar atrasado no trabalho.
+
+C: Ao ver a comida pronta na mesa, todos ficaram animados para começar a comer.
+S: Ao ver a comida pronta na mesa, todos ficaram animados para começar a comer.
+
+C: Foi difícil entender a lição.
+S: Foi difícil entender.
+
+C: Ela gostava de acordar cedo para fazer exercícios.
+S: Ela gostava de acordar cedo para exercitar-se.
+
+C: Ao terminar de estudar, ele saiu para encontrar os amigos.
+S: Terminando de estudar, ele saiu para encontrar os amigos.
+
+C: É importante economizar dinheiro para realizar os sonhos.
+S: É importante economizar dinheiro para realizar.
+
+C: O professor explicou a matéria utilizando exemplos práticos.
+S: O professor explicou a matéria com exemplos práticos.
+
+C: Ao ouvir o barulho, ele levantou rapidamente.
+S: Ouvindo o barulho, ele levantou rapidamente.
+
+C: É preciso ler o livro antes de fazer o trabalho.
+S: É preciso ler o livro para fazer o trabalho.
+
+C: Ao abrir a caixa, encontrou uma surpresa.
+S: Abrindo a caixa, encontrou uma surpresa.
+
+C: Ela decidiu aprender francês para viajar para a França.
+S: Ela decidiu aprender francês para viajar.
+
+C: Ao sentir a dor, ele foi ao médico.
+S: Sentindo a dor, ele foi ao médico.
+
+C: Ela tentou evitar a discussão, mas não teve sucesso.
+S: Ela tentou evitar a discussão, porém não teve sucesso.
+
+C: Ao perceber o perigo, eles decidiram fugir.
+S: Percebendo o perigo, eles decidiram fugir.
+
+C: É importante comer alimentos saudáveis todos os dias.
+S: É importante comer alimentos saudáveis diariamente.
+
+C: Para ter uma boa saúde, é necessário fazer exercícios regularmente.
+S: Para ter uma boa saúde, é preciso fazer exercícios regularmente.
+
+C: Ao ver a chuva, ela correu para se abrigar.
+S: Vendo a chuva, ela correu para se abrigar.
+
+C: Após terminar o trabalho, ele foi para casa descansar.
+S: Terminando o trabalho, ele foi para casa descansar.
+
+C: Ele tentou estudar, mas estava muito cansado.
+S: Ele tentou estudar, contudo estava muito cansado.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ouvindo a música, ela começou a dançar.
+
+C: É necessário economizar dinheiro para realizar os sonhos.
+S: É preciso economizar dinheiro para realizar os sonhos.
+
+C: Após cozinhar o jantar, ela lavou a louça suja.
+S: Cozinhando o jantar, ela lavou a louça suja.
+
+C: O professor explicou o conteúdo e fez alguns exemplos na lousa.
+S: O professor explicou o conteúdo e fez alguns exemplos na lousa.
+
+C: Ao acordar cedo, você terá mais tempo para realizar suas tarefas diárias.
+S: Ao acordar cedo, você terá mais tempo para realizar suas tarefas diárias.
+
+C: Ele correu, pulou e gritou de alegria ao receber a notícia.
+S: Ele correu, pulou e gritou de alegria ao receber a notícia.
+
+C: Ao ouvir a música, as pessoas começaram a dançar.
+S: Ao ouvir a música, as pessoas começaram a dançar.
+
+C: Ela saiu de casa para ir ao supermercado, comprar comida e voltar rapidamente.
+S: Ela saiu de casa para ir ao supermercado, comprar comida e voltar rapidamente.
+
+C: Ao estudar com foco, é possível alcançar resultados melhores.
+S: Ao estudar com foco, é possível alcançar resultados melhores.
+
+C: O grupo de amigos se reuniu para comemorar o aniversário do João e cantaram parabéns.
+S: O grupo de amigos se reuniu para comemorar o aniversário do João e cantaram parabéns.
+
+C: Ao ver o sol se pondo, ele se emocionou com tamanha beleza.
+S: Ao ver o sol se pondo, ele se emocionou com tamanha beleza.
+
+C: Ao terminar a prova, ela sentiu um alívio imenso.
+S: Ao terminar a prova, ela sentiu um alívio imenso.
+
+C: Ele se esforçou bastante para alcançar esse objetivo e comemorou muito após alcançá-lo.
+S: Ele se esforçou bastante para alcançar esse objetivo e comemorou muito após alcançá-lo.
+
+C: Ficou com vontade de comer pizza depois de ver a foto.
+S: Ficou com vontade de comer pizza depois de ver a foto.
+
+C: Ele tentou correr no parque, mas ficou sem fôlego.
+S: Ele tentou correr no parque, mas ficou sem fôlego.
+
+C: Ao sentir o cheiro da comida, meu estômago começou a roncar.
+S: Ao sentir o cheiro da comida, meu estômago começou a roncar.
+
+C: Decidiu estudar medicina para ajudar as pessoas.
+S: Decidiu estudar medicina para ajudar as pessoas.
+
+C: Ao perceber o perigo, começou a gritar por socorro.
+S: Ao perceber o perigo, começou a gritar por socorro.
+
+C: Ela fez várias tentativas de resolver o problema, mas não obteve sucesso.
+S: Ela fez várias tentativas de resolver o problema, mas não obteve sucesso.
+
+C: Ao ouvir a música, começou a dançar sem parar.
+S: Ao ouvir a música, começou a dançar sem parar.
+
+C: Ele pensou em desistir, mas decidiu lutar até o fim.
+S: Ele pensou em desistir, mas decidiu lutar até o fim.
+
+C: Após terminar a prova, sentiu-se aliviado.
+S: Após terminar a prova, sentiu-se aliviado.
+
+C: Ao abrir a janela, viu um lindo arco-íris no céu.
+S: Ao abrir a janela, viu um lindo arco-íris no céu.
+
+C: Foi difícil entender o conteúdo da aula.
+S: Foi difícil entender.
+
+C: Ela decidiu sair para dançar com os amigos.
+S: Ela decidiu sair para dançar.
+
+C: Ao ver a paisagem, ele se emocionou profundamente.
+S: Ao ver a paisagem, ele se emocionou.
+
+C: Era necessário estudar para passar na prova.
+S: Era necessário estudar.
+
+C: Ela pretendia viajar para a praia no final de semana.
+S: Ela pretendia viajar para a praia.
+
+C: Ao perceber o perigo, ele correu para se proteger.
+S: Ao perceber o perigo, ele correu.
+
+C: Era difícil acreditar no que ele estava dizendo.
+S: Era difícil acreditar.
+
+C: Ela gostava de cantar no chuveiro todas as manhãs.
+S: Ela gostava de cantar no chuveiro.
+
+C: Ao chegar em casa, ele se jogou no sofá para descansar.
+S: Ao chegar em casa, ele se jogou no sofá.
+
+C: Era importante economizar dinheiro para a viagem.
+S: Era importante economizar dinheiro.
+
+C: Ele prometeu estudar todas as noites para o exame.
+S: Ele prometeu estudar todas as noites para o exame.
+
+C: A ideia de sair de férias me deixa muito feliz.
+S: A ideia de sair de férias me deixa muito feliz.
+
+C: Ao ouvir a notícia, ela começou a chorar de alegria.
+S: Ao ouvir a notícia, ela começou a chorar de alegria.
+
+C: Decidimos ir ao cinema e depois jantar em um restaurante.
+S: Decidimos ir ao cinema e depois jantar em um restaurante.
+
+C: O plano de viajar para outro país foi adiado novamente.
+S: O plano de viajar para outro país foi adiado novamente.
+
+C: Ao ver o cachorro abandonado, ele decidiu adotá-lo.
+S: Ao ver o cachorro abandonado, ele decidiu adotá-lo.
+
+C: A vontade de comer chocolate é irresistível para mim.
+S: A vontade de comer chocolate é irresistível para mim.
+
+C: Ela costumava acordar cedo para fazer exercícios.
+S: Ela costumava acordar cedo para fazer exercícios.
+
+C: Ao receber a notícia, ele ficou surpreso e emocionado.
+S: Ao receber a notícia, ele ficou surpreso e emocionado.
+
+C: O objetivo dela é se tornar uma escritora famosa.
+S: O objetivo dela é se tornar uma escritora famosa.
+
+C: Pedro adora jogar futebol aos domingos.
+S: Pedro adora jogar futebol aos domingos.
+
+C: Maria pretende fazer uma viagem longa nas férias.
+S: Maria pretende fazer uma viagem longa nas férias.
+
+C: Ao entrar na sala, ela encontrou todos os alunos estudando para a prova.
+S: Ao entrar na sala, ela encontrou todos os alunos estudando para a prova.
+
+C: João decidiu se inscrever no curso de fotografia para aprimorar suas habilidades.
+S: João decidiu se inscrever no curso de fotografia para aprimorar suas habilidades.
+
+C: Ao ouvir a música, os espectadores começaram a dançar animadamente.
+S: Ao ouvir a música, os espectadores começaram a dançar animadamente.
+
+C: Estudar para o exame é essencial para obter boas notas.
+S: Estudar para o exame é essencial para obter boas notas.
+
+C: Ao sair de casa, Pedro esqueceu o guarda-chuva.
+S: Ao sair de casa, Pedro esqueceu o guarda-chuva.
+
+C: Maria ama cozinhar e sempre procura novas receitas.
+S: Maria ama cozinhar e sempre procura novas receitas.
+
+C: Ao chegar ao destino, eles encontraram um belo pôr do sol.
+S: Ao chegar ao destino, eles encontraram um belo pôr do sol.
+
+C: Estudar matemática é fundamental para entender outras disciplinas.
+S: Estudar matemática é fundamental para entender outras disciplinas.
+
+C: Eu gosto de jogar futebol aos domingos.
+S: Eu gosto de jogar futebol aos domingos.
+
+C: Depois de terminar a tarefa, ele descansou um pouco antes de começar outra.
+S: Depois de terminar a tarefa, ele descansou um pouco antes de começar outra.
+
+C: A melhor forma de aprender é praticando constantemente.
+S: A melhor forma de aprender é praticando constantemente.
+
+C: Ao perceber que estava atrasado, ele correu para pegar o ônibus.
+S: Ao perceber que estava atrasado, ele correu para pegar o ônibus.
+
+C: Ela pretendia estudar medicina, mas acabou escolhendo outro curso.
+S: Ela pretendia estudar medicina, mas acabou escolhendo outro curso.
+
+C: Ao acordar cedo, ele conseguiu aproveitar melhor o dia.
+S: Ao acordar cedo, ele conseguiu aproveitar melhor o dia.
+
+C: Ela tinha medo de nadar, mas aos poucos foi vencendo esse medo.
+S: Ela tinha medo de nadar, mas aos poucos foi vencendo esse medo.
+
+C: Ao ouvir a notícia, ele ficou preocupado com o seu amigo.
+S: Ao ouvir a notícia, ele ficou preocupado com o seu amigo.
+
+C: Meu objetivo é conseguir uma promoção no trabalho.
+S: Meu objetivo é conseguir uma promoção no trabalho.
+
+C: Ao voltar para casa, ele viu um belo pôr do sol.
+S: Ao voltar para casa, ele viu um belo pôr do sol.
+
+C: Ela tentou estudar, mas estava cansada demais.
+S: Ela tentou estudar, mas estava cansada demais.
+
+C: Precisamos fazer exercícios físicos para manter a saúde.
+S: Precisamos fazer exercícios físicos para manter a saúde.
+
+C: Ao perceber que estava tarde, ela decidiu ir embora.
+S: Ao perceber que estava tarde, ela decidiu ir embora.
+
+C: O professor explicou a matéria com detalhes para que todos entendessem.
+S: O professor explicou a matéria com detalhes para que todos entendessem.
+
+C: Fomos ao supermercado para comprar comida e outros itens essenciais.
+S: Fomos ao supermercado para comprar comida e outros itens essenciais.
+
+C: Depois de terminar o trabalho, ele foi relaxar na praia.
+S: Depois de terminar o trabalho, ele foi relaxar na praia.
+
+C: Ao ouvir o barulho, ela se assustou e correu para a sala.
+S: Ao ouvir o barulho, ela se assustou e correu para a sala.
+
+C: Ela tentou acender o fogo, mas não havia fósforos.
+S: Ela tentou acender o fogo, mas não havia fósforos.
+
+C: Ao passar pela rua principal, avistei um antigo amigo.
+S: Ao passar pela rua principal, avistei um antigo amigo.
+
+C: Ele correu para pegar o ônibus, mas já era tarde demais.
+S: Ele correu para pegar o ônibus, mas já era tarde demais.
+
+C: Ele prometeu estudar todos os dias para passar no vestibular.
+S: Ele prometeu estudar todos os dias para passar no vestibular.
+
+C: Ao acordar cedo, ela conseguiu aproveitar o dia inteiro.
+S: Ao acordar cedo, ela conseguiu aproveitar o dia inteiro.
+
+C: O meu objetivo é aprender a tocar violão.
+S: O meu objetivo é aprender a tocar violão.
+
+C: Ao perceber a chuva, eles decidiram levar guarda-chuvas.
+S: Ao perceber a chuva, eles decidiram levar guarda-chuvas.
+
+C: Ele se esforçou para conseguir o emprego dos sonhos.
+S: Ele se esforçou para conseguir o emprego dos sonhos.
+
+C: Ao terminar de ler o livro, ela sentiu uma enorme satisfação.
+S: Ao terminar de ler o livro, ela sentiu uma enorme satisfação.
+
+C: O professor pediu para os alunos fazerem a tarefa.
+S: O professor pediu para os alunos fazerem a tarefa.
+
+C: Ao vencer a partida, eles comemoraram intensamente.
+S: Ao vencer a partida, eles comemoraram intensamente.
+
+C: Ele sonha em morar no exterior algum dia.
+S: Ele sonha em morar no exterior algum dia.
+
+C: Ao receber a notícia, ela ficou extremamente feliz.
+S: Ao receber a notícia, ela ficou extremamente feliz.
+
+C: Estava ansioso para terminar o trabalho.
+S: Estava ansioso para terminar o trabalho.
+
+C: Preciso estudar mais para passar na prova.
+S: Preciso estudar mais para passar na prova.
+
+C: É importante ler livros para expandir o conhecimento.
+S: É importante ler livros para expandir o conhecimento.
+
+C: Foi divertido participar do evento.
+S: Foi divertido participar do evento.
+
+C: Quero aprender a tocar piano.
+S: Quero aprender a tocar piano.
+
+C: É necessário fazer exercícios físicos para manter a saúde.
+S: É necessário fazer exercícios físicos para manter a saúde.
+
+C: Gosto de ver filmes de suspense para me entreter.
+S: Gosto de ver filmes de suspense para me entreter.
+
+C: Ele decidiu sair correndo para chegar mais rápido.
+S: Ele decidiu sair correndo para chegar mais rápido.
+
+C: Foi ótimo passar as férias na praia.
+S: Foi ótimo passar as férias na praia.
+
+C: Vou viajar para visitar meus familiares.
+S: Vou viajar para visitar meus familiares.
+
+C: Foi incrível assistir ao pôr do sol na praia.
+S: Foi incrível assistir ao pôr do sol na praia.
+
+C: Meu objetivo é aprender a tocar piano.
+S: Meu objetivo é aprender a tocar piano.
+
+C: Ao terminar de estudar, vou sair para comemorar.
+S: Ao terminar de estudar, vou sair para comemorar.
+
+C: É importante tomar cuidado ao atravessar a rua.
+S: É importante tomar cuidado ao atravessar a rua.
+
+C: Após terminar o trabalho, vou descansar um pouco.
+S: Após terminar o trabalho, vou descansar um pouco.
+
+C: Ao perceber o perigo, ele correu para se proteger.
+S: Ao perceber o perigo, ele correu para se proteger.
+
+C: Chegou a hora de tomar uma decisão importante.
+S: Chegou a hora de tomar uma decisão importante.
+
+C: Vou me esforçar para alcançar meus objetivos.
+S: Vou me esforçar para alcançar meus objetivos.
+
+C: Ao ouvir a música, senti uma grande emoção.
+S: Ao ouvir a música, senti uma grande emoção.
+
+C: É fundamental respeitar as opiniões dos outros.
+S: É fundamental respeitar as opiniões dos outros.
+
+C: Ela decidiu estudar para o concurso, mesmo tendo pouco tempo disponível.
+S: Ela decidiu estudar para o concurso, tendo pouco tempo disponível.
+
+C: Ao ler o livro, ele ficou emocionado com a história.
+S: Ao ler o livro, ele ficou emocionado.
+
+C: É importante fazer exercícios regularmente para manter a forma.
+S: É importante fazer exercícios regularmente, mantendo a forma.
+
+C: Ao perceber o perigo, eles correram para se proteger.
+S: Ao perceber o perigo, eles correram.
+
+C: Ela tentou convencer o amigo a ir ao cinema, mas ele preferiu ficar em casa.
+S: Ela tentou convencer o amigo a ir ao cinema, ele preferiu ficar em casa.
+
+C: Ouvir música relaxante ajuda a reduzir o estresse.
+S: Ouvir música relaxante ajuda a reduzir o estresse.
+
+C: Ao terminar o trabalho, ele foi embora rapidamente.
+S: Ao terminar o trabalho, ele foi embora.
+
+C: É essencial ter uma boa alimentação para garantir a saúde.
+S: É essencial ter uma boa alimentação, garantindo a saúde.
+
+C: Ao ver a confusão, ele decidiu não se envolver.
+S: Ao ver a confusão, ele decidiu não se envolver.
+
+C: Resolver problemas matemáticos ajuda a desenvolver o raciocínio lógico.
+S: Resolver problemas matemáticos ajuda a desenvolver o raciocínio lógico.
+
+C: Ele decidiu estudar bastante para passar no exame.
+S: Ele decidiu estudar bastante para passar no exame.
+
+C: O objetivo dela é fazer uma viagem pelo mundo.
+S: O objetivo dela é fazer uma viagem pelo mundo.
+
+C: Ao saber da notícia, ele ficou surpreso.
+S: Ao saber da notícia, ele ficou surpreso.
+
+C: Ela pretende ir à academia todos os dias para se manter saudável.
+S: Ela pretende ir à academia todos os dias para se manter saudável.
+
+C: Depois de terminar o trabalho, ela decidiu relaxar.
+S: Depois de terminar o trabalho, ela decidiu relaxar.
+
+C: Ao chegar em casa, ele percebeu que havia perdido as chaves.
+S: Ao chegar em casa, ele percebeu que havia perdido as chaves.
+
+C: Ele prometeu melhorar seu comportamento a partir de agora.
+S: Ele prometeu melhorar seu comportamento a partir de agora.
+
+C: Ao receber o presente, ela ficou muito feliz.
+S: Ao receber o presente, ela ficou muito feliz.
+
+C: Ela precisou correr para não perder o ônibus.
+S: Ela precisou correr para não perder o ônibus.
+
+C: Ao ver o filme, ele se emocionou.
+S: Ao ver o filme, ele se emocionou.
+
+C: Ela tinha a intenção de estudar medicina.
+S: Ela tinha intenção de estudar medicina.
+
+C: Eles precisavam voltar para casa antes do anoitecer.
+S: Eles precisavam voltar para casa antes do anoitecer.
+
+C: Ao perceber que estava atrasado, ele correu até a estação de trem.
+S: Ao perceber que estava atrasado, ele correu até a estação de trem.
+
+C: Ele acabou se envolvendo em muitos projetos diferentes.
+S: Ele acabou se envolvendo em muitos projetos diferentes.
+
+C: O objetivo dela era melhorar suas habilidades de escrita.
+S: O objetivo dela era melhorar suas habilidades de escrita.
+
+C: Ao ver o resultado, ele ficou extremamente feliz.
+S: Ao ver o resultado, ele ficou extremamente feliz.
+
+C: Você devia tentar fazer exercícios regularmente.
+S: Você devia tentar fazer exercícios regularmente.
+
+C: Ela não conseguia entender o motivo da briga.
+S: Ela não conseguia entender o motivo da briga.
+
+C: O livro conta a história de um famoso detetive.
+S: O livro conta a história de um famoso detetive.
+
+C: Ao ler o livro, ela se emocionou com o final.
+S: Ao ler o livro, ela se emocionou com o final.
+
+C: Ela tentou encontrar uma solução para o problema, mas não conseguiu.
+S: Ela tentou encontrar uma solução para o problema, mas não conseguiu.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: Ele quer estudar para obter um bom emprego.
+S: Ele quer estudar para obter um bom emprego.
+
+C: Ao perceber a aproximação da tempestade, todos correram para se abrigar.
+S: Ao perceber a aproximação da tempestade, todos correram para se abrigar.
+
+C: Ela sentiu uma grande tristeza ao receber a notícia.
+S: Ela sentiu uma grande tristeza ao receber a notícia.
+
+C: Ele decidiu viajar para expandir seus horizontes.
+S: Ele decidiu viajar para expandir seus horizontes.
+
+C: Ao terminar de ler o livro, ela ficou emocionada.
+S: Ao terminar de ler o livro, ela ficou emocionada.
+
+C: Eles planejaram fazer um piquenique no parque, mas acabou chovendo.
+S: Eles planejaram fazer um piquenique no parque, mas acabou chovendo.
+
+C: Ao completar o trabalho, ele se sentiu aliviado.
+S: Ao completar o trabalho, ele se sentiu aliviado.
+
+C: Ela pretende fazer um curso de culinária para aprender novas receitas.
+S: Ela pretende fazer um curso de culinária para aprender novas receitas.
+
+C: Ao acordar cedo todos os dias, consigo aproveitar mais o meu tempo.
+S: Ao acordar cedo todos os dias, consigo aproveitar mais o meu tempo.
+
+C: Os jogadores decidiram treinar mais horas por dia para melhorar seu desempenho.
+S: Os jogadores decidiram treinar mais horas por dia para melhorar seu desempenho.
+
+C: Ela costuma ler livros antes de dormir para relaxar e ter uma boa noite de sono.
+S: Ela costuma ler livros antes de dormir para relaxar e ter uma boa noite de sono.
+
+C: Caminhar dois quilômetros todos os dias ajuda a manter a forma.
+S: Caminhar dois quilômetros todos os dias ajuda a manter a forma.
+
+C: Ao fazer uma dieta balanceada, é possível alcançar o peso ideal.
+S: Ao fazer uma dieta balanceada, é possível alcançar o peso ideal.
+
+C: Ao estudar com dedicação, é possível conseguir boas notas nas provas.
+S: Ao estudar com dedicação, é possível conseguir boas notas nas provas.
+
+C: Ao economizar dinheiro, podemos realizar nossos sonhos mais facilmente.
+S: Ao economizar dinheiro, podemos realizar nossos sonhos mais facilmente.
+
+C: Ao praticar esportes regularmente, melhoramos nossa saúde física e mental.
+S: Ao praticar esportes regularmente, melhoramos nossa saúde física e mental.
+
+C: Ao se dedicar ao trabalho com afinco, é possível alcançar o sucesso profissional.
+S: Ao se dedicar ao trabalho com afinco, é possível alcançar o sucesso profissional.
+
+C: Ao aprender um novo idioma, abrimos portas para oportunidades de emprego.
+S: Ao aprender um novo idioma, abrimos portas para oportunidades de emprego.
+
+C: Ela tinha a intenção de se formar em medicina.
+S: Ela tinha a intenção de formar-se em medicina.
+
+C: Era necessário estudar muito para passar no exame.
+S: Era necessário estudar muito para passar o exame.
+
+C: Ele decidiu fazer uma pausa e descansar um pouco.
+S: Ele decidiu fazer uma pausa e descansar um pouco.
+
+C: Ao perceber a chegada do trem, ele correu para a plataforma.
+S: Ao perceber a chegada do trem, ele correu para a plataforma.
+
+C: Ela estava determinada a alcançar seus objetivos.
+S: Ela estava determinada a alcançar seus objetivos.
+
+C: Era importante ler atentamente todas as instruções.
+S: Era importante ler atentamente as instruções.
+
+C: Ao receber a notícia, ela começou a chorar de alegria.
+S: Ao receber a notícia, ela começou a chorar de alegria.
+
+C: Ele pretendia se tornar um grande empresário.
+S: Ele pretendia tornar-se um grande empresário.
+
+C: Foi necessário esperar muito tempo na fila.
+S: Foi necessário esperar muito tempo na fila.
+
+C: Ao ouvir a música, ele começou a dançar com animação.
+S: Ao ouvir a música, ele começou a dançar animadamente.
+
+C: Eu pretendo estudar medicina para ajudar as pessoas.
+S: Eu pretendo estudar medicina para ajudar as pessoas.
+
+C: Ao perceber a chuva forte, ela pegou o guarda-chuva e correu para dentro de casa.
+S: Ao perceber a chuva forte, ela pegou o guarda-chuva e correu para dentro de casa.
+
+C: É importante sempre seguir as regras de trânsito para evitar acidentes.
+S: É importante sempre seguir as regras de trânsito para evitar acidentes.
+
+C: Ela adora dançar, cantar e atuar em peças de teatro.
+S: Ela adora dançar, cantar e atuar em peças de teatro.
+
+C: Ao chegar em casa, ele preparou um delicioso jantar para a família.
+S: Ao chegar em casa, ele preparou um delicioso jantar para a família.
+
+C: Devemos sempre cuidar do meio ambiente para garantir um futuro melhor.
+S: Devemos sempre cuidar do meio ambiente para garantir um futuro melhor.
+
+C: Ao ouvir a música, ele começou a dançar animadamente.
+S: Ao ouvir a música, ele começou a dançar animadamente.
+
+C: É importante respeitar as opiniões diferentes para evitar conflitos.
+S: É importante respeitar as opiniões diferentes para evitar conflitos.
+
+C: Ao ver o resultado do exame, ele ficou aliviado.
+S: Ao ver o resultado do exame, ele ficou aliviado.
+
+C: Andar de bicicleta é uma ótima forma de se exercitar e preservar o meio ambiente.
+S: Andar de bicicleta é uma ótima forma de se exercitar e preservar o meio ambiente.
+
+C: Ele decidiu estudar para a prova de matemática.
+S: Ele decidiu estudar para a prova de matemática.
+
+C: Ao ver o resultado, ela ficou muito feliz.
+S: Ao ver o resultado, ela ficou muito feliz.
+
+C: A minha mãe gosta de cozinhar para a família.
+S: A minha mãe gosta de cozinhar para a família.
+
+C: Ao chegar em casa, ela encontrou um bilhete na porta.
+S: Ao chegar em casa, ela encontrou um bilhete na porta.
+
+C: Ela tentou consertar o carro, mas não conseguiu.
+S: Ela tentou consertar o carro, mas não conseguiu.
+
+C: Ao terminar o trabalho, ele foi para casa descansar.
+S: Ao terminar o trabalho, ele foi para casa descansar.
+
+C: Ele pretendia comprar um novo celular, mas desistiu da ideia.
+S: Ele pretendia comprar um novo celular, mas desistiu da ideia.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: Ele queria viajar para a praia, mas não tinha dinheiro.
+S: Ele queria viajar para a praia, mas não tinha dinheiro.
+
+C: Ao chegar ao supermercado, ela lembrou que tinha esquecido a lista em casa.
+S: Ao chegar ao supermercado, ela lembrou que tinha esquecido a lista em casa.
+
+C: Ao chegar em casa, ele percebeu que havia esquecido as chaves.
+S: Ao chegar em casa, ele percebeu o esquecimento das chaves.
+
+C: Ela decidiu estudar para o vestibular com antecedência.
+S: Ela decidiu estudar para o vestibular antecipadamente.
+
+C: Quando escureceu, acendemos as luzes do quarto.
+S: Ao escurecer, acendemos as luzes do quarto.
+
+C: Os atletas se preparam para competir nos Jogos Olímpicos de forma intensa.
+S: Os atletas se preparam intensamente para competir nos Jogos Olímpicos.
+
+C: Após terminar o trabalho, ele foi descansar no sofá.
+S: Depois de terminar o trabalho, ele foi descansar no sofá.
+
+C: Ao receber a notícia, ela ficou muito triste.
+S: Ao receber a notícia, ela se entristeceu.
+
+C: O professor explicou a matéria de forma clara.
+S: O professor explicou a matéria claramente.
+
+C: Encontrar um novo emprego tem sido um desafio para ele.
+S: Encontrar um novo emprego tem sido desafiante para ele.
+
+C: Após cozinhar o jantar, ela colocou a mesa.
+S: Depois de cozinhar o jantar, ela colocou a mesa.
+
+C: Ao acordar, ele percebeu que estava atrasado para o trabalho.
+S: Ao acordar, ele percebeu o atraso para o trabalho.
+
+C: Ele pretendia estudar durante a tarde toda.
+S: Ele pretendia estudar a tarde toda.
+
+C: Ao perceber o erro, ela se desculpou imediatamente.
+S: Percebendo o erro, ela se desculpou imediatamente.
+
+C: O objetivo é alcançar o primeiro lugar no campeonato.
+S: O objetivo é alcançar o primeiro lugar no campeonato.
+
+C: Ao observar o céu, ele viu várias estrelas brilhantes.
+S: Observando o céu, ele viu várias estrelas brilhantes.
+
+C: Ela costuma estudar todos os dias para se preparar para a prova.
+S: Ela costuma estudar todos os dias para se preparar para a prova.
+
+C: Ao terminar de comer, ele lavou a louça.
+S: Terminando de comer, ele lavou a louça.
+
+C: É importante respeitar as regras do trânsito.
+S: É importante respeitar as regras do trânsito.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ouvindo a música, ela começou a dançar.
+
+C: Ele planeja viajar para o exterior no próximo ano.
+S: Ele planeja viajar para o exterior no próximo ano.
+
+C: Ao terminar a corrida, ele se sentiu exausto.
+S: Terminando a corrida, ele se sentiu exausto.
+
+C: É importante estudar todos os dias para obter bons resultados.
+S: É importante estudar diariamente para obter bons resultados.
+
+C: Ao acordar cedo, consigo aproveitar mais o dia.
+S: Ao acordar cedo, consigo aproveitar melhor o dia.
+
+C: Ele decidiu ir ao cinema para relaxar um pouco.
+S: Ele decidiu ir ao cinema para relaxar.
+
+C: Ao ouvir a música, senti uma sensação de nostalgia.
+S: Ao ouvir a música, senti nostalgia.
+
+C: Ela tomou um banho quente para relaxar os músculos.
+S: Ela tomou um banho quente para relaxar.
+
+C: Ao passar pelo parque, vi muitas crianças brincando.
+S: Ao passar pelo parque, vi crianças brincando.
+
+C: Eu preciso ir ao supermercado para comprar alimentos.
+S: Eu preciso ir ao supermercado para comprar alimentos.
+
+C: Ao ganhar o prêmio, senti uma grande alegria.
+S: Ao ganhar o prêmio, senti alegria.
+
+C: Ela pediu desculpas por chegar atrasada.
+S: Ela pediu desculpas por chegar atrasada.
+
+C: Ao perceber a presença do ladrão, gritou por socorro.
+S: Ao perceber a presença do ladrão, gritou por ajuda.
+
+C: Após terminar a reunião, eles decidiram fazer uma pausa.
+S: Após terminarem a reunião, eles decidiram fazer uma pausa.
+
+C: Espero poder viajar para o exterior no próximo ano.
+S: Espero poder viajar para o exterior no próximo ano.
+
+C: Ao não encontrar a chave, ela percebeu que tinha esquecido em casa.
+S: Ao não encontrar a chave, ela percebeu ter esquecido em casa.
+
+C: Depois de lavar as mãos, ele secou-as com uma toalha.
+S: Depois de lavar as mãos, ele as secou com uma toalha.
+
+C: Ao ouvir o barulho do trovão, os cães começaram a latir.
+S: Ao ouvirem o barulho do trovão, os cães começaram a latir.
+
+C: Ao ver a tela quebrada, ele ficou chocado.
+S: Ao ver a tela quebrada, ele ficou chocado.
+
+C: Depois de completar o livro, ele decidiu publicá-lo.
+S: Depois de completar o livro, ele decidiu publicar.
+
+C: Ao não conseguir encontrar o endereço, eles decidiram pedir ajuda.
+S: Ao não conseguirem encontrar o endereço, eles decidiram pedir ajuda.
+
+C: Ao entender as instruções, ela começou a resolver o problema.
+S: Ao entender as instruções, ela começou a resolver o problema.
+
+C: Após terminar de ler o e-mail, ele respondeu imediatamente.
+S: Após terminar de ler o e-mail, ele o respondeu imediatamente.
+
+C: A sua intenção era estudar medicina.
+S: Ele queria estudar medicina.
+
+C: Ao chegar em casa, ela percebeu que havia esquecido a chave.
+S: Chegando em casa, ela percebeu que havia esquecido a chave.
+
+C: Ele decidiu se inscrever no curso de fotografia para aprimorar suas habilidades.
+S: Ele decidiu se inscrever no curso de fotografia para aprimorar suas habilidades.
+
+C: Após terminar o trabalho, ele decidiu descansar um pouco.
+S: Depois de terminar o trabalho, ele decidiu descansar um pouco.
+
+C: Ao saber da notícia, ela ficou extremamente feliz.
+S: Sabendo da notícia, ela ficou extremamente feliz.
+
+C: A intenção dele era comprar um carro novo.
+S: Ele pretendia comprar um carro novo.
+
+C: Ao receber o convite, ela aceitou prontamente.
+S: Recebendo o convite, ela aceitou prontamente.
+
+C: Após refletir sobre o assunto, ele mudou de opinião.
+S: Depois de refletir sobre o assunto, ele mudou de opinião.
+
+C: Ao ganhar o prêmio, ela comemorou com sua família.
+S: Ganhar o prêmio, ela comemorou com sua família.
+
+C: Ao notar a presença do ladrão, ela correu para chamar a polícia.
+S: Notando a presença do ladrão, ela correu para chamar a polícia.
+
+C: João decidiu estudar para o vestibular.
+S: João decidiu estudar.
+
+C: Antes de sair de casa, Maria lavou a louça.
+S: Antes de sair de casa, Maria lavou a louça.
+
+C: Ele tentou consertar a televisão, mas não conseguiu.
+S: Ele tentou consertar a televisão, mas não conseguiu.
+
+C: Ao ver o resultado do jogo, todos ficaram surpresos.
+S: Ao ver o resultado do jogo, todos ficaram surpresos.
+
+C: Lara gostaria de visitar a praia neste fim de semana.
+S: Lara gostaria de visitar a praia neste fim de semana.
+
+C: Após terminar o trabalho, Pedro foi para casa descansar.
+S: Após terminar o trabalho, Pedro foi para casa descansar.
+
+C: Ela decidiu sair com os amigos para comemorar seu aniversário.
+S: Ela decidiu sair com os amigos para comemorar seu aniversário.
+
+C: Depois de jantar, eles assistiram a um filme.
+S: Depois de jantar, eles assistiram a um filme.
+
+C: Lucas queria comprar um novo carro, mas não tinha dinheiro suficiente.
+S: Lucas queria comprar um novo carro, mas não tinha dinheiro suficiente.
+
+C: Após estudar bastante, Maria foi aprovada no concurso.
+S: Após estudar bastante, Maria foi aprovada no concurso.
+
+C: Ela estava estudando para a prova quando seu telefone tocou.
+S: Ela estudava para a prova quando seu telefone tocou.
+
+C: Ele continuou correndo mesmo estando cansado.
+S: Ele continuou correndo mesmo cansado.
+
+C: Após terminar os afazeres domésticos, ela decidiu descansar.
+S: Depois de terminar os afazeres domésticos, ela decidiu descansar.
+
+C: Ao se deparar com o problema, ele pensou em várias soluções.
+S: Ao se deparar com o problema, ele pensou em várias soluções.
+
+C: Ela pretende começar a malhar para ganhar massa muscular.
+S: Ela pretende começar a malhar para ganhar massa muscular.
+
+C: Ele se levantou da cadeira para saudar o professor.
+S: Ele levantou da cadeira para saudar o professor.
+
+C: Ao ver o acidente, ela chamou imediatamente a ambulância.
+S: Ao ver o acidente, ela chamou imediatamente a ambulância.
+
+C: Ela resolveu fazer aula de dança para se divertir.
+S: Ela resolveu fazer aula de dança para se divertir.
+
+C: Ele decidiu escrever um livro para compartilhar sua história.
+S: Ele decidiu escrever um livro para compartilhar sua história.
+
+C: Ao perceber o erro, ele corrigiu imediatamente.
+S: Ao perceber o erro, ele corrigiu imediatamente.
+
+C: Foi difícil encontrar o caminho de volta para casa.
+S: Foi difícil encontrar o caminho de volta para casa.
+
+C: Prometi ajudar a arrumar a casa depois da festa.
+S: Prometi ajudar a arrumar a casa depois da festa.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: Decidi ir ao supermercado comprar alguns alimentos.
+S: Decidi ir ao supermercado comprar alguns alimentos.
+
+C: Ela gostaria de aprender a tocar violão.
+S: Ela gostaria de aprender a tocar violão.
+
+C: Ao saber da notícia, ela ficou muito feliz.
+S: Ao saber da notícia, ela ficou muito feliz.
+
+C: Lembrei de comprar o presente para o aniversário dela.
+S: Lembrei de comprar o presente para o aniversário dela.
+
+C: Ao chegar em casa, ela preparou o jantar.
+S: Ao chegar em casa, ela preparou o jantar.
+
+C: Precisava estudar para a prova de matemática.
+S: Precisava estudar para a prova de matemática.
+
+C: Ajudei a pagar as contas no final do mês.
+S: Ajudei a pagar as contas no final do mês.
+
+C: Ele tentou alcançar o topo da montanha, mas estava muito cansado.
+S: Ele tentou alcançar o topo da montanha, mas muito cansado.
+
+C: Ao saber da notícia, ela ficou muito triste.
+S: Ao saber da notícia, ela muito triste.
+
+C: O objetivo do projeto é construir uma escola na comunidade.
+S: O objetivo do projeto é construir uma escola na comunidade.
+
+C: Ao acordar cedo, ele tem mais produtividade durante o dia.
+S: Ao acordar cedo, ele tem mais produtividade.
+
+C: Ana decidiu estudar medicina para ajudar as pessoas.
+S: Ana decidiu estudar medicina para ajudar.
+
+C: Fernanda gosta de assistir filmes de comédia para se divertir.
+S: Fernanda gosta de assistir filmes de comédia para divertir.
+
+C: Ao perceber o perigo, eles correram para se proteger.
+S: Ao perceber o perigo, eles correram para proteger.
+
+C: O plano era conseguir uma promoção no trabalho.
+S: O plano era conseguir uma promoção no trabalho.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou dançar.
+
+C: O desejo dele é viajar pelo mundo inteiro.
+S: O desejo dele é viajar pelo mundo.
+
+C: Ele decidiu sair para correr no parque.
+S: Ele decidiu sair correndo no parque.
+
+C: Ela prometeu estudar para a prova de matemática.
+S: Ela prometeu estudar para a prova.
+
+C: Ao ver o filme, ele se emocionou com o final.
+S: Vendo o filme, ele se emocionou com o final.
+
+C: Fui ao supermercado para comprar ingredientes para o jantar.
+S: Fui ao supermercado comprar ingredientes.
+
+C: Depois de ouvir a música, ele começou a cantarolar a melodia.
+S: Depois de ouvir a música, ele começou a cantarolar.
+
+C: Ela lamentou não ter ido à festa de aniversário.
+S: Ela lamentou não ter ido à festa.
+
+C: Ao sentir o cheiro da comida, meu estômago começou a roncar.
+S: Sentindo o cheiro da comida, meu estômago começou a roncar.
+
+C: Ele se esforçou para conseguir uma promoção no trabalho.
+S: Ele se esforçou para conseguir uma promoção.
+
+C: Depois de ganhar o jogo, eles comemoraram a vitória.
+S: Depois de ganhar o jogo, eles comemoraram.
+
+C: Ao chegar em casa, ele tomou um banho e trocou de roupa.
+S: Chegando em casa, ele tomou um banho e trocou de roupa.
+
+C: Ao chegar em casa, ele imediatamente se deu conta de que tinha esquecido a chave.
+S: Ao chegar em casa, ele imediatamente percebeu que tinha esquecido a chave.
+
+C: Depois de estudar por várias horas, ela finalmente entendeu o conceito.
+S: Depois de estudar por várias horas, ela finalmente entendeu.
+
+C: Ao ouvir a música, as lembranças da infância retornaram à sua mente.
+S: Ao ouvir a música, as lembranças da infância voltaram à sua mente.
+
+C: Ao perder o jogo, ele ficou desapontado e triste.
+S: Ao perder o jogo, ele ficou desapontado.
+
+C: Após terminar a tarefa, ela sentiu um grande alívio.
+S: Após terminar a tarefa, ela sentiu alívio.
+
+C: Ao acordar cedo, ele teve mais tempo para se preparar para o dia.
+S: Ao acordar cedo, ele teve mais tempo para se preparar.
+
+C: Ao ver a paisagem deslumbrante, eles se sentiram em paz.
+S: Ao ver a paisagem deslumbrante, eles se sentiram em paz.
+
+C: Ao receber a notícia, ele ficou muito feliz e comemorou.
+S: Ao receber a notícia, ele ficou muito feliz.
+
+C: Ao sentir o cheiro da comida, ele teve uma grande vontade de comer.
+S: Ao sentir o cheiro da comida, ele teve vontade de comer.
+
+C: Depois de comprar o bilhete, ele entrou no cinema.
+S: Depois de comprar o bilhete, ele entrou no cinema.
+
+C: Nós tínhamos a intenção de estudar para a prova.
+S: Nós tínhamos a intenção de estudar para a prova.
+
+C: Ele adorava jogar futebol todos os fins de semana.
+S: Ele adorava jogar futebol todos os fins de semana.
+
+C: Ao terminar o trabalho, ela decidiu descansar um pouco.
+S: Ao terminar o trabalho, ela decidiu descansar um pouco.
+
+C: É importante beber água ao longo do dia.
+S: É importante beber água ao longo do dia.
+
+C: Eles pretendem sair de férias no próximo mês.
+S: Eles pretendem sair de férias no próximo mês.
+
+C: Ao ouvir a música, senti uma onda de nostalgia.
+S: Ao ouvir a música, senti uma onda de nostalgia.
+
+C: Embora fôssemos no mesmo ônibus, nunca conversamos.
+S: Embora fôssemos no mesmo ônibus, nunca conversamos.
+
+C: Ela costuma acordar cedo todas as manhãs.
+S: Ela costuma acordar cedo todas as manhãs.
+
+C: Ao perceber o perigo, ele correu para se proteger.
+S: Ao perceber o perigo, ele correu para se proteger.
+
+C: É necessário fazer exercícios físicos regularmente.
+S: É necessário fazer exercícios físicos regularmente.
+
+C: Ele saiu para ir ao supermercado e comprar alguns mantimentos para o jantar.
+S: Ele saiu para comprar mantimentos para o jantar.
+
+C: Ao ouvir a música, ela começou a dançar animadamente.
+S: Ao ouvir a música, começou a dançar animadamente.
+
+C: Decidiram ir ao parque para aproveitar o dia ensolarado.
+S: Decidiram ir ao parque para aproveitar o dia ensolarado.
+
+C: Ao perceber a presença do ladrão, chamou imediatamente a polícia.
+S: Ao perceber a presença do ladrão, chamou imediatamente a polícia.
+
+C: Ela estudou muito para passar no exame de matemática.
+S: Ela estudou muito para passar no exame de matemática.
+
+C: Decidiu tirar férias e viajar para a praia.
+S: Decidiu tirar férias e viajar para a praia.
+
+C: Ao encontrar o livro na prateleira, decidiu comprá-lo.
+S: Ao encontrar o livro na prateleira, decidiu comprá-lo.
+
+C: Ele acordou cedo para correr no parque.
+S: Ele acordou cedo para correr no parque.
+
+C: Ao ver o pássaro voando, pegou a câmera para registrar o momento.
+S: Ao ver o pássaro voando, pegou a câmera para registrar o momento.
+
+C: Decidiram cozinhar juntos e preparar uma deliciosa refeição.
+S: Decidiram cozinhar juntos e preparar uma deliciosa refeição.
+
+C: Ele tem vontade de aprender violão.
+S: Ele tem vontade de aprender violão.
+
+C: Ao saber da notícia, ela ficou muito surpresa.
+S: Ao saber da notícia, ela ficou muito surpresa.
+
+C: Ele pretende fazer uma viagem de carro pela Europa.
+S: Ele pretende fazer uma viagem de carro pela Europa.
+
+C: Ao ouvir a música, ela começou a cantar junto.
+S: Ao ouvir a música, ela começou a cantar junto.
+
+C: Ela estava ansiosa para participar do evento.
+S: Ela estava ansiosa para participar do evento.
+
+C: Ao perceber o perigo, ele correu para se proteger.
+S: Ao perceber o perigo, ele correu para se proteger.
+
+C: Eles desejavam comer um bolo de chocolate.
+S: Eles desejavam comer um bolo de chocolate.
+
+C: Ao encontrar o presente, ela abriu imediatamente.
+S: Ao encontrar o presente, ela abriu imediatamente.
+
+C: Ele tinha o objetivo de se destacar na competição.
+S: Ele tinha o objetivo de se destacar na competição.
+
+C: Ao receber a proposta, ela aceitou sem pensar duas vezes.
+S: Ao receber a proposta, ela aceitou sem pensar duas vezes.
+
+C: Fui ao supermercado para comprar comida.
+S: Fui ao supermercado comprar comida.
+
+C: O médico recomendou que eu faça exercícios regularmente.
+S: O médico recomendou eu fazer exercícios regularmente.
+
+C: Ele saiu de casa para pegar o ônibus.
+S: Ele saiu de casa pegar o ônibus.
+
+C: Decidi estudar em outra cidade para ter mais oportunidades.
+S: Decidi estudar em outra cidade ter mais oportunidades.
+
+C: Ela passou a tarde lendo um livro interessante.
+S: Ela passou a tarde lendo um livro interessante.
+
+C: Fui ao cinema para assistir ao novo filme.
+S: Fui ao cinema assistir ao novo filme.
+
+C: Decidi mudar de emprego para ter um salário melhor.
+S: Decidi mudar de emprego ter um salário melhor.
+
+C: Ela pediu ajuda para resolver o problema.
+S: Ela pediu ajuda resolver o problema.
+
+C: Ele comprou um novo computador para trabalhar mais eficientemente.
+S: Ele comprou um novo computador trabalhar mais eficientemente.
+
+C: Decidi fazer uma dieta para perder peso.
+S: Decidi fazer uma dieta perder peso.
+
+C: Ela decidiu estudar para o exame.
+S: Ela decidiu estudar para o exame.
+
+C: O objetivo dele é conseguir um emprego novo.
+S: O objetivo dele é conseguir um emprego novo.
+
+C: Ao receber a notícia, ficamos surpresos.
+S: Ao receber a notícia, ficamos surpresos.
+
+C: É importante ler livros todos os dias.
+S: É importante ler livros todos os dias.
+
+C: Depois de terminar o trabalho, vou descansar.
+S: Depois de terminar o trabalho, vou descansar.
+
+C: Ao ouvir aquela música, comecei a dançar.
+S: Ao ouvir aquela música, comecei a dançar.
+
+C: Ela pretende viajar para a praia nas férias.
+S: Ela pretende viajar para a praia nas férias.
+
+C: Depois de comer jantar, vou assistir a um filme.
+S: Depois de comer jantar, vou assistir a um filme.
+
+C: Ao perceber o perigo, ele correu para salvar a criança.
+S: Ao perceber o perigo, ele correu para salvar a criança.
+
+C: É fundamental estudar para a prova com antecedência.
+S: É fundamental estudar para a prova com antecedência.
+
+C: A professora decidiu explicar novamente a matéria.
+S: A professora decidiu explicá-la novamente.
+
+C: Ela tentou encontrar uma solução para o problema.
+S: Ela tentou encontrá-la.
+
+C: Ele está ansioso para começar esse novo projeto.
+S: Ele está ansioso para começá-lo.
+
+C: Minha mãe sempre me incentivou a estudar.
+S: Minha mãe sempre incentivou-me a estudar.
+
+C: Os alunos começaram a preparar-se para a prova.
+S: Os alunos começaram a preparar-se para ela.
+
+C: Durante as férias, decidi viajar para a praia.
+S: Durante as férias, decidi viajar para lá.
+
+C: Eles optaram por comprar uma casa nova.
+S: Eles optaram por comprá-la.
+
+C: O professor explicou que era importante estudar para a prova.
+S: O professor explicou ser importante estudar para ela.
+
+C: A empresa decidiu contratar novos funcionários.
+S: A empresa decidiu contratá-los.
+
+C: Ela está ansiosa para participar do evento.
+S: Ela está ansiosa para participar dele.
+
+C: Eu planejo estudar medicina no futuro.
+S: Eu planejo estudar medicina.
+
+C: Ao chegar ao aeroporto, percebi que tinha perdido meu passaporte.
+S: Chegando ao aeroporto, percebi que tinha perdido meu passaporte.
+
+C: É importante que você revele a verdade.
+S: É importante revelar a verdade.
+
+C: Depois de terminar o trabalho, pude relaxar um pouco.
+S: Terminando o trabalho, pude relaxar um pouco.
+
+C: Ela prometeu me ajudar a pintar a casa.
+S: Ela prometeu ajudar a pintar a casa.
+
+C: Ao ver o filme, me emocionei bastante.
+S: Vendo o filme, me emocionei bastante.
+
+C: É necessário que todos preencham o formulário.
+S: É necessário preencher o formulário.
+
+C: Depois de comer, fui dar um passeio no parque.
+S: Comendo, fui dar um passeio no parque.
+
+C: Ele pretendia pedir demissão, mas mudou de ideia.
+S: Ele pretendia pedir demissão, mas mudou de ideia.
+
+C: Ao receber a notícia, fiquei surpreso.
+S: Recebendo a notícia, fiquei surpreso.
+
+C: Ele pretende estudar medicina para ajudar as pessoas.
+S: Ele pretende estudar medicina para ajudar as pessoas.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: É importante respeitar as regras do jogo.
+S: É importante respeitar as regras do jogo.
+
+C: Ao chegar em casa, ele percebeu que tinha esquecido a chave.
+S: Ao chegar em casa, ele percebeu que tinha esquecido a chave.
+
+C: Ele ama cozinhar pratos deliciosos para sua família.
+S: Ele ama cozinhar pratos deliciosos para sua família.
+
+C: Ao abrir a porta, ela viu um lindo presente.
+S: Ao abrir a porta, ela viu um lindo presente.
+
+C: É necessário ler os livros indicados pelo professor.
+S: É necessário ler os livros indicados pelo professor.
+
+C: Ao ver o pôr do sol, eles tiraram várias fotos.
+S: Ao ver o pôr do sol, eles tiraram várias fotos.
+
+C: Ela quer aprender a tocar violão para participar de uma banda.
+S: Ela quer aprender a tocar violão para participar de uma banda.
+
+C: Ao terminar a reunião, eles decidiram comemorar.
+S: Ao terminar a reunião, eles decidiram comemorar.
+
+C: Ele decidiu estudar para a prova que acontecerá na próxima semana.
+S: Ele decidiu estudar para a prova da próxima semana.
+
+C: Ao aprender a tocar violão, ela descobriu uma nova paixão.
+S: Ao aprender a tocar violão, ela descobriu uma nova paixão.
+
+C: É importante seguir as regras para evitar problemas.
+S: É importante seguir as regras para evitar problemas.
+
+C: Eles começaram a cantar e a dançar durante a festa.
+S: Eles começaram a cantar e dançar durante a festa.
+
+C: Ao avistar o pássaro, ele pegou sua câmera para fotografá-lo.
+S: Ao avistar o pássaro, ele pegou a câmera para fotografá-lo.
+
+C: Ela corria todos os dias para manter a forma física.
+S: Ela corria todos os dias para manter a forma.
+
+C: Ao terminar o trabalho, ele entregou-o para o chefe.
+S: Ao terminar o trabalho, ele o entregou para o chefe.
+
+C: É preciso estudar bastante para conseguir uma boa nota na prova.
+S: É preciso estudar bastante para conseguir uma boa nota na prova.
+
+C: Ao abrir a porta, ele encontrou uma surpresa.
+S: Ao abrir a porta, ele encontrou uma surpresa.
+
+C: Ela saiu correndo para pegar o ônibus que estava para partir.
+S: Ela saiu correndo para pegar o ônibus que ia partir.
+
+C: Ele tentou estudar para a prova, ler todos os livros necessários e fazer anotações.
+S: Ele tentou estudar para a prova, ler todos os livros necessários e fazer anotações.
+
+C: Ao perceber que estava atrasado para o trabalho, ele pulou da cama, tomou um banho rápido e vestiu-se correndo.
+S: Ao perceber que estava atrasado para o trabalho, ele pulou da cama, tomou um banho rápido e vestiu-se correndo.
+
+C: Ela estava cansada demais para cozinhar, lavar a louça e arrumar a casa toda sozinha.
+S: Ela estava cansada demais para cozinhar, lavar a louça e arrumar a casa toda sozinha.
+
+C: Antes de sair de casa, ele verificou se tinha as chaves, trancou todas as portas e desligou todas as luzes.
+S: Antes de sair de casa, ele verificou se tinha as chaves, trancou todas as portas e desligou todas as luzes.
+
+C: Ao terminar de ler o livro, ele escreveu uma resenha, fez um resumo e compartilhou sua opinião com os amigos.
+S: Ao terminar de ler o livro, ele escreveu uma resenha, fez um resumo e compartilhou sua opinião com os amigos.
+
+C: A música começou a tocar, as pessoas começaram a dançar e todos se divertiram na festa.
+S: A música começou a tocar, as pessoas começaram a dançar e todos se divertiram na festa.
+
+C: Ela visitou todos os museus, tirou fotos de todas as obras de arte e aprendeu muito sobre a história da cidade.
+S: Ela visitou todos os museus, tirou fotos de todas as obras de arte e aprendeu muito sobre a história da cidade.
+
+C: Ao acordar cedo, ele fez exercícios, tomou um café da manhã saudável e se preparou para o dia.
+S: Ao acordar cedo, ele fez exercícios, tomou um café da manhã saudável e se preparou para o dia.
+
+C: Ao entrar na sala de aula, ele cumprimentou os colegas, pegou o caderno e preparou-se para a aula.
+S: Ao entrar na sala de aula, ele cumprimentou os colegas, pegou o caderno e preparou-se para a aula.
+
+C: Ela foi até a livraria, comprou diversos livros e passou a tarde inteira lendo.
+S: Ela foi até a livraria, comprou diversos livros e passou a tarde inteira lendo.
+
+C: Eu gostaria de aprender a tocar piano.
+S: Eu gostaria de aprender a tocar piano.
+
+C: Nós decidimos ir ao cinema para assistir ao novo filme.
+S: Nós decidimos ir ao cinema para assistir ao novo filme.
+
+C: Ao ver o cachorro na rua, a criança correu para brincar com ele.
+S: Ao ver o cachorro na rua, a criança correu para brincar com ele.
+
+C: Ele pretende estudar medicina para ajudar as pessoas.
+S: Ele pretende estudar medicina para ajudar as pessoas.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: O objetivo dele é conseguir um emprego estável.
+S: O objetivo dele é conseguir um emprego estável.
+
+C: Ao sentir a chuva, eles correram para se abrigar.
+S: Ao sentir a chuva, eles correram para se abrigar.
+
+C: Eles planejam viajar para a Grécia nas férias.
+S: Eles planejam viajar para a Grécia nas férias.
+
+C: Ao terminar a leitura do livro, ela se sentiu inspirada.
+S: Ao terminar a leitura do livro, ela se sentiu inspirada.
+
+C: Precisamos estudar para passar na prova.
+S: Precisamos estudar para passar na prova.
+
+C: Ela gosta de nadar na praia.
+S: Ela gosta de nadar na praia.
+
+C: Meu objetivo é terminar minha tarefa hoje.
+S: Meu objetivo é terminar minha tarefa hoje.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou a dançar.
+
+C: Nós precisamos estudar para a prova.
+S: Nós precisamos estudar para a prova.
+
+C: Ela planeja comprar uma casa nova.
+S: Ela planeja comprar uma casa nova.
+
+C: Ao perceber o perigo, ele correu para se proteger.
+S: Ao perceber o perigo, ele correu para se proteger.
+
+C: O cachorro adora brincar no parque.
+S: O cachorro adora brincar no parque.
+
+C: Ao acordar cedo, ele se sente mais produtivo.
+S: Ao acordar cedo, ele se sente mais produtivo.
+
+C: Ela espera encontrar seu amigo no shopping.
+S: Ela espera encontrar seu amigo no shopping.
+
+C: Ao ver o presente, ela ficou muito feliz.
+S: Ao ver o presente, ela ficou muito feliz.
+
+C: Ele pretendia estudar medicina no exterior.
+S: Ele pretendia estudar medicina no exterior.
+
+C: Ao chegar em casa após um longo dia de trabalho, ela decidiu relaxar tomando um banho quente e lendo um livro.
+S: Ao chegar em casa após um longo dia de trabalho, ela decidiu relaxar tomando um banho quente e lendo um livro.
+
+C: O objetivo dele era conquistar o primeiro lugar na competição.
+S: O objetivo dele era conquistar o primeiro lugar na competição.
+
+C: Ao ver a chuva começar a cair, ela correu para dentro de casa para não se molhar.
+S: Ao ver a chuva começar a cair, ela correu para dentro de casa para não se molhar.
+
+C: Ele pensava em abrir seu próprio negócio no futuro.
+S: Ele pensava em abrir seu próprio negócio no futuro.
+
+C: Ao receber a notícia da promoção, ele comemorou animadamente com seus colegas de trabalho.
+S: Ao receber a notícia da promoção, ele comemorou animadamente com seus colegas de trabalho.
+
+C: O sonho dela era se tornar uma bailarina profissional.
+S: O sonho dela era se tornar uma bailarina profissional.
+
+C: Ao observar o pôr do sol no horizonte, ele sentiu uma profunda paz interior.
+S: Ao observar o pôr do sol no horizonte, ele sentiu uma profunda paz interior.
+
+C: Ela tinha vontade de aprender a tocar piano desde a infância.
+S: Ela tinha vontade de aprender a tocar piano desde a infância.
+
+C: Ao ouvir a música, ele se emocionou ao lembrar de momentos especiais em sua vida.
+S: Ao ouvir a música, ele se emocionou ao lembrar de momentos especiais em sua vida.
+
+C: Ele pretendia ganhar a competição, mas acabou desistindo.
+S: Ele pretendia ganhar a competição, mas acabou desistindo.
+
+C: Ao ver a comida deliciosa, ela não resistiu e comeu tudo.
+S: Ao ver a comida deliciosa, ela não resistiu e comeu tudo.
+
+C: Decidimos ir ao cinema, mas mudamos de ideia no último minuto.
+S: Decidimos ir ao cinema, mas mudamos de ideia no último minuto.
+
+C: Ao sair de casa, ela percebeu que tinha esquecido as chaves.
+S: Ao sair de casa, ela percebeu que tinha esquecido as chaves.
+
+C: Eles irão viajar de avião para o exterior.
+S: Eles irão viajar de avião para o exterior.
+
+C: Ao chegar ao aeroporto, o voo já havia sido cancelado.
+S: Ao chegar ao aeroporto, o voo já havia sido cancelado.
+
+C: Ele saiu de casa para comprar pão, leite e ovos.
+S: Ele saiu de casa para comprar pão, leite e ovos.
+
+C: Ao abrir a geladeira, ela percebeu que não tinha mais nada para comer.
+S: Ao abrir a geladeira, ela percebeu que não tinha mais nada para comer.
+
+C: Decidimos fazer um piquenique no parque, mas estava chovendo.
+S: Decidimos fazer um piquenique no parque, mas estava chovendo.
+
+C: Ao terminar o trabalho, ele decidiu comemorar com os amigos.
+S: Ao terminar o trabalho, ele decidiu comemorar com os amigos.
+
+C: Ela pretendia estudar medicina, mas desistiu por medo das dificuldades.
+S: Ela pretendia estudar medicina, mas desistiu por medo das dificuldades.
+
+C: Ao chegar em casa, ele encontrou um presente na porta.
+S: Ao chegar em casa, ele encontrou um presente na porta.
+
+C: Foi preciso esperar por horas até conseguir um táxi disponível.
+S: Foi preciso esperar por horas até conseguir um táxi disponível.
+
+C: Os alunos planejavam fazer uma viagem ao exterior, mas acabaram desistindo.
+S: Os alunos planejavam fazer uma viagem ao exterior, mas acabaram desistindo.
+
+C: Ao terminar de preparar o jantar, ela percebeu que estava sem gás.
+S: Ao terminar de preparar o jantar, ela percebeu que estava sem gás.
+
+C: Ele sempre quis aprender a tocar guitarra, mas nunca teve tempo.
+S: Ele sempre quis aprender a tocar guitarra, mas nunca teve tempo.
+
+C: Ao atravessar a rua, ele quase foi atropelado.
+S: Ao atravessar a rua, ele quase foi atropelado.
+
+C: O professor tentava explicar a matéria, mas os alunos não prestavam atenção.
+S: O professor tentava explicar a matéria, mas os alunos não prestavam atenção.
+
+C: Ao acordar, ela percebeu que estava atrasada para o trabalho.
+S: Ao acordar, ela percebeu que estava atrasada para o trabalho.
+
+C: Era necessário agir rápido antes que fosse tarde demais.
+S: Era necessário agir rápido antes que fosse tarde demais.
+
+C: Eu vou estudar para a prova.
+S: Vou estudar para a prova.
+
+C: Ela decidiu fazer uma viagem para o exterior.
+S: Decidiu fazer uma viagem para o exterior.
+
+C: Com o passar do tempo, ele se tornou mais confiante.
+S: Com o passar do tempo, tornou-se mais confiante.
+
+C: Eles pretendem comprar uma casa nova.
+S: Pretendem comprar uma casa nova.
+
+C: Ela gosta de ler livros de romance.
+S: Gosta de ler livros de romance.
+
+C: Ele costuma acordar cedo todos os dias.
+S: Costuma acordar cedo todos os dias.
+
+C: Nós precisamos terminar o trabalho até amanhã.
+S: Precisamos terminar o trabalho até amanhã.
+
+C: Ela é capaz de resolver qualquer problema.
+S: É capaz de resolver qualquer problema.
+
+C: Eles decidiram sair para jantar fora.
+S: Decidiram sair para jantar fora.
+
+C: Eu quero aprender a tocar piano.
+S: Quero aprender a tocar piano.
+
+C: Ele deseja ter um carro novo.
+S: Ele deseja ter um carro novo.
+
+C: Ao chegar em casa, ele preparou o jantar.
+S: Ao chegar em casa, ele preparou o jantar.
+
+C: É importante estudar para as provas finais.
+S: É importante estudar para as provas finais.
+
+C: Depois de terminar o trabalho, ele foi ao cinema.
+S: Depois de terminar o trabalho, ele foi ao cinema.
+
+C: Ela prometeu ligar assim que chegar em casa.
+S: Ela prometeu ligar assim que chegar em casa.
+
+C: Ao acordar, ele tomou um banho rápido.
+S: Ao acordar, ele tomou um banho rápido.
+
+C: Ela decidiu aprender a tocar piano.
+S: Ela decidiu aprender a tocar piano.
+
+C: Ao perceber a chuva, ele pegou o guarda-chuva.
+S: Ao perceber a chuva, ele pegou o guarda-chuva.
+
+C: É importante sempre manter a calma.
+S: É importante sempre manter a calma.
+
+C: Ao ver o acidente, ele ligou para a emergência.
+S: Ao ver o acidente, ele ligou para a emergência.
+
+C: Ele gosta de nadar no mar.
+S: Ele gosta de nadar no mar.
+
+C: A minha intenção é fazer uma viagem pelo Brasil.
+S: A minha intenção é fazer uma viagem pelo Brasil.
+
+C: Ao chegar em casa, ela começou a cozinhar o jantar.
+S: Ao chegar em casa, ela começou a cozinhar o jantar.
+
+C: Ele decidiu estudar para a prova, fazer um resumo e revisar todo o conteúdo.
+S: Ele decidiu estudar para a prova, fazer um resumo e revisar todo o conteúdo.
+
+C: Ela prometeu ajudar nas tarefas domésticas, lavar a roupa e arrumar a casa.
+S: Ela prometeu ajudar nas tarefas domésticas, lavar a roupa e arrumar a casa.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: Ele costuma acordar cedo para ir à academia.
+S: Ele costuma acordar cedo para ir à academia.
+
+C: Ela precisa terminar o trabalho, enviar por e-mail e imprimir uma cópia física.
+S: Ela precisa terminar o trabalho, enviar por e-mail e imprimir uma cópia física.
+
+C: Ao perceber o perigo, ele decidiu correr e chamar ajuda.
+S: Ao perceber o perigo, ele decidiu correr e chamar ajuda.
+
+C: Ele gostaria de aprender a tocar violão.
+S: Ele gostaria de aprender a tocar violão.
+
+C: Ele gostaria de participar do projeto.
+S: Ele gostaria participar do projeto.
+
+C: Ao ver o resultado, ela ficou surpresa.
+S: Ao ver o resultado, ela ficou surpresa.
+
+C: É difícil acreditar nessa história.
+S: É difícil acreditar nessa história.
+
+C: Ao sentir a dor, ele gritou.
+S: Ao sentir a dor, ele gritou.
+
+C: Eu quero aprender a tocar guitarra.
+S: Eu quero aprender tocar guitarra.
+
+C: Ao notar a presença dele, ela se afastou.
+S: Ao notar a presença dele, ela se afastou.
+
+C: É importante estudar antes da prova.
+S: É importante estudar antes da prova.
+
+C: Ao ouvir a música, ele começou a dançar.
+S: Ao ouvir a música, ele começou dançar.
+
+C: É melhor ir logo para a reunião.
+S: É melhor ir logo para a reunião.
+
+C: Ao perceber o perigo, ele correu para salvar a vida.
+S: Ao perceber o perigo, ele correu salvar a vida.
+
+C: Está na hora de sair do trabalho e ir para casa.
+S: Está na hora de sair do trabalho.
+
+C: É importante estudar diariamente para ter bons resultados.
+S: É importante estudar diariamente.
+
+C: Ao ver o animal ferido, ele chamou imediatamente o veterinário.
+S: Ao ver o animal ferido, ele chamou o veterinário.
+
+C: É necessário fazer uma reserva antecipada para garantir o lugar no restaurante.
+S: É necessário fazer uma reserva antecipada.
+
+C: Ao receber a notícia, ela ficou muito nervosa e começou a chorar.
+S: Ao receber a notícia, ela ficou muito nervosa.
+
+C: É fundamental ler o livro antes de assistir ao filme.
+S: É fundamental ler o livro.
+
+C: Ao perceber a presença da polícia, os suspeitos fugiram rapidamente.
+S: Ao perceber a presença da polícia, os suspeitos fugiram.
+
+C: É recomendado levar um agasalho extra para o passeio.
+S: É recomendado levar um agasalho extra.
+
+C: Ao ver o resultado do jogo, ele comemorou com seus amigos.
+S: Ao ver o resultado do jogo, ele comemorou.
+
+C: É obrigatório pagar a mensalidade até o dia 5 de cada mês.
+S: É obrigatório pagar a mensalidade até o dia 5.
+
+C: É importante estudar para o exame.
+S: É importante estudar para o exame.
+
+C: Ao perceber a chuva, ela decidiu levar um guarda-chuva.
+S: Ao perceber a chuva, ela decidiu levar um guarda-chuva.
+
+C: O cachorro correu para pegar a bola.
+S: O cachorro correu para pegar a bola.
+
+C: Ao ver o acidente, ele ligou para a polícia.
+S: Ao ver o acidente, ele ligou para a polícia.
+
+C: É necessário chegar na reunião no horário.
+S: É necessário chegar na reunião no horário.
+
+C: Ao sentir a fome, ela preparou um lanche.
+S: Ao sentir a fome, ela preparou um lanche.
+
+C: O gato pulou para cima da árvore.
+S: O gato pulou para cima da árvore.
+
+C: Ao acordar cedo, ele tem mais tempo para se arrumar.
+S: Ao acordar cedo, ele tem mais tempo para se arrumar.
+
+C: É bom beber água durante o dia.
+S: É bom beber água durante o dia.
+
+C: Ao ouvir o barulho, ele acordou assustado.
+S: Ao ouvir o barulho, ele acordou assustado.
+
+C: O objetivo dela é terminar a faculdade.
+S: Ela quer terminar a faculdade.
+
+C: Ao chegar em casa, ela percebeu que havia esquecido a chave.
+S: Chegando em casa, ela percebeu que havia esquecido a chave.
+
+C: Ele decidiu estudar muito para passar no exame.
+S: Ele decidiu estudar muito para passar no exame.
+
+C: Ele começou a trabalhar cedo para ganhar dinheiro.
+S: Ele começou a trabalhar cedo para ganhar dinheiro.
+
+C: Ao ouvir a música, ela se emocionou e começou a chorar.
+S: Ouvindo a música, ela se emocionou e começou a chorar.
+
+C: Ela precisa ligar para o médico e marcar uma consulta.
+S: Ela precisa ligar para o médico e marcar uma consulta.
+
+C: Ele gostaria de aprender a tocar piano.
+S: Ele gostaria de aprender a tocar piano.
+
+C: Ao ver a notícia, ele ficou preocupado e ligou para a família.
+S: Vendo a notícia, ele ficou preocupado e ligou para a família.
+
+C: O plano dele é viajar para a Europa nas férias.
+S: Ele planeja viajar para a Europa nas férias.
+
+C: Ao entrar na sala, ele cumprimentou os colegas e sentou-se.
+S: Entrando na sala, ele cumprimentou os colegas e sentou-se.
+
+C: Apesar de estar cansado, ele continuou a trabalhar.
+S: Mesmo cansado, ele continuou a trabalhar.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ouvindo a música, ela começou a dançar.
+
+C: Após terminar o trabalho, ele saiu para comemorar.
+S: Terminado o trabalho, ele saiu para comemorar.
+
+C: Ao ver o resultado, ela ficou surpresa.
+S: Vendo o resultado, ela ficou surpresa.
+
+C: Após tomar café da manhã, ele foi para o trabalho.
+S: Tomando café da manhã, ele foi para o trabalho.
+
+C: Ao receber a notícia, eles ficaram animados.
+S: Recebendo a notícia, eles ficaram animados.
+
+C: Após estudar muito, ela passou na prova.
+S: Estudando muito, ela passou na prova.
+
+C: Ao chegar em casa, ele ligou a televisão.
+S: Chegando em casa, ele ligou a televisão.
+
+C: Após lavar a roupa, ele estendeu no varal.
+S: Limpando a roupa, ele estendeu no varal.
+
+C: Ao abrir o presente, ela sorriu de alegria.
+S: Abrindo o presente, ela sorriu de alegria.
+
+C: Joana tentou estudar para o exame, mas estava muito cansada.
+S: Joana tentou estudar para o exame, mas estava muito cansada.
+
+C: Pedro gosta de correr todas as manhãs no parque.
+S: Pedro gosta de correr todas as manhãs no parque.
+
+C: O professor pediu aos alunos para entregarem o trabalho até sexta-feira.
+S: O professor pediu aos alunos para entregarem o trabalho até sexta-feira.
+
+C: Ele pretende aprender a tocar guitarra e piano.
+S: Ele pretende aprender a tocar guitarra e piano.
+
+C: Ela chamou um táxi para ir ao aeroporto e pegar o voo.
+S: Ela chamou um táxi para ir ao aeroporto e pegar o voo.
+
+C: Eles adoram comer pizza todas as sextas-feiras.
+S: Eles adoram comer pizza todas as sextas-feiras.
+
+C: Eu quero conhecer Paris e Roma nas minhas próximas férias.
+S: Eu quero conhecer Paris e Roma nas minhas próximas férias.
+
+C: Lucas decidiu estudar Direito e se tornar advogado.
+S: Lucas decidiu estudar Direito e se tornar advogado.
+
+C: O médico recomendou que ela fizesse exercícios físicos regularmente.
+S: O médico recomendou que ela fizesse exercícios físicos regularmente.
+
+C: Ela prometeu ajudar o irmão com a mudança no próximo final de semana.
+S: Ela prometeu ajudar o irmão com a mudança no próximo final de semana.
+

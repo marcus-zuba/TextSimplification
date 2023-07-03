@@ -1,0 +1,26 @@
+(4) Orações coordenadas
+
+b. Sindéticas
+
+1. Aditivas: expressam uma adição, uma sequência de informações; e, nem, não só, mas também, ...
+
+Regra: Dividir a sentença em tantos quantos forem os períodos, eliminando-se o
+marcador de coordenação e repetindo-se o núcleo do sujeito e o verbo (se oculto)
+para cada período, quando necessário.
+
+Exemplos:
+
+Complexa: O presidente da Câmara se disse "surpreendido" com a renúncia de Valdemar e elogiou a "bravura" de Valdemar.
+Simplificada: O presidente da Câmara se disse "surpreendido" com a renúncia de Valdemar. O presidente elogiou a "bravura" de Valdemar.
+
+Complexa: A Mesa da Câmara é um colegiado de sete deputados que administra a Casa e é presidido por Severino.
+Simplificada: A Mesa da Câmara é um colegiado de sete deputados que administra a Casa. A Mesa é presidida por Severino.
+
+Complexa: A Mesa tem de aprovar o parecer e enviá-lo ao plenário.
+Simplificada: A Mesa tem de aprovar o parecer. A Mesa tem de enviá-lo ao plenário.
+
+Complexa: Em meio à crise, Tarso Genro fez um aceno ao Campo Majoritário e visitou ontem o antecessor, José Genoino.
+Simplificada: Em meio à crise, Tarso Genro fez um aceno ao Campo Majoritário. Tarso Genro visitou ontem o antecessor, José Genoino.
+
+Complexa: Tarso Genro já foi prefeito de Porto Alegre e ministro da Secretaria Especial do Conselho de Desenvolvimento Econômico e Social da Presidência da República.
+Simplificada: Tarso Genro já foi prefeito de Porto Alegre. Tarso Genro já foi ministro da Secretaria Especial do Conselho de Desenvolvimento Econômico e Social da Presidência da República.

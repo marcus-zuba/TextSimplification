@@ -1,0 +1,35 @@
+(2) Orações subordinadas adjetivas (ou orações relativas)
+
+b. Restritivas: restringem, limitam a significação do seu antecedente (substantivo ou
+pronome). São indispensáveis ao significado da sentença e não se separam da
+oração principal por vírgula.
+
+Regra: Dividir a sentença em duas:
+1) Sentença para a cláusula subordinada, a qual terá como sujeito o núcleo do termo da
+oração principal restringido pela subordinada (ou o termo completo, caso o núcleo
+não seja suficiente), seguido da subordinada, propriamente dita, eliminando-se seu
+pronome relativo.
+2) Sentença original sem a cláusula subordinada.
+
+Exemplos:
+Complexa: O sol que se filtra através das folhas desenha no ar colunas de poeira.
+Simplificada: O sol se filtra através das folhas. O sol desenha no ar colunas de poeira.
+
+Observação (1): a construção da sentença para a cláusula relativa pode exigir a reprodução de outros termos da oração principal, como o objeto, bem como a alteração da ordem dos elementos para manter o principio S-V-0, por exemplo:
+
+Complexa: Os R$ 55,2 milhões dos supostos empréstimos que as empresas de Marcos Valério de Souza teriam tomado nos bancos Rural e BMG não foram integralmente destinados ao caixa dois do PT.
+Simplificada: As empresas de Marcos Valério de Souza teriam tomado R$ 55,2 milhões nos bancos Rural e BMG. Os R$ 55,2 milhões dos supostos empréstimos não foram integralmente destinados ao caixa dois do PT.
+
+Observação (2): se a cláusula subordinada restringir o objeto, a ordem das sentenças simplificadas deverá se inverter, por exemplo:
+
+Complexa: As outras são chamadas por apelidos ou designações que protegem suas identidades .
+Simplificada: As outras são chamadas por apelidos ou designações. Os apelidos ou designações protegem suas identidades.
+
+Complexa: O que amarra o debate é a abrangência das verbas que o programa deverá envolver .
+Simplificada: O que amarra o debate é a abrangência das verbas. O programa deverá envolver as verbas.
+
+Complexa: O motorista do carro de som que acompanhou o trajeto do presidente repetia a frase .
+Simplificada: O motorista do carro de som acompanhou o trajeto do presidente. O motorista repetia a frase.
+
+Complexa: O ministro das Comunicações ia atrás do primeiro pelotão de pessoas, regendo a banda Phenix com a batuta que tomou emprestada do maestro .
+Simplificada: O ministro das Comunicações ia atrás do primeiro pelotão de pessoas, regendo a banda Phenix com a batuta. O ministro tomou a batuta emprestada do maestro .

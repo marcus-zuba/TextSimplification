@@ -1,0 +1,38 @@
+- Aposto
+    - Enumerativo 
+    - Recapitulativo
+    - Especificador
+- Orações Subordinadas Adjetivas
+    - Explicativas
+    - Restritivas
+- Orações Subordinadas Adverbiais
+    - Causais
+    - Comparativas
+    - Concessivas
+    - Condicionais
+    - Consecutivas
+    - Finais
+    - Proporcionais
+    - Conformativas
+    - Temporais
+- Orações coordenadas
+    - Assindéticas
+    - Sindéticas
+        - Aditivas
+        - Adversativas
+        - Alternativas
+        - Conclusivas
+        - Explicativas
+- Orações reduzidas
+    - De infinitivo
+    - De gerúndio
+    - De particípio
+- Orações em voz passiva
+
+Total de regras: 24 
+Total de categorias: 2 (frases e parágrafos)
+
+1250 pares de cada regra-categoria: 
+2500 pares de cada regra
+
+total: 60 mil pares (40 mil treino - 10 mil teste - 10 mil val)

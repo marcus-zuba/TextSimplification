@@ -1,0 +1,4200 @@
+C: O aluno estudou para a prova e fez todos os exercícios.
+S: O aluno estudou para a prova. O aluno fez todos os exercícios.
+
+C: O time venceu o jogo e comemorou a vitória.
+S: O time venceu o jogo. O time comemorou a vitória.
+
+C: O carro apresentava problemas mecânicos e foi levado para a oficina.
+S: O carro apresentava problemas mecânicos. O carro foi levado para a oficina.
+
+C: A empresa contratou novos funcionários e treinou-os para o trabalho.
+S: A empresa contratou novos funcionários. A empresa treinou-os para o trabalho.
+
+C: A mãe preparou o jantar e arrumou a mesa.
+S: A mãe preparou o jantar. A mãe arrumou a mesa.
+
+C: O médico examinou o paciente e diagnosticou a doença.
+S: O médico examinou o paciente. O médico diagnosticou a doença.
+
+C: O vendedor fechou a venda e entregou o produto ao cliente.
+S: O vendedor fechou a venda. O vendedor entregou o produto ao cliente.
+
+C: A criança brincou no parque e se divertiu muito.
+S: A criança brincou no parque. A criança se divertiu muito.
+
+C: O professor explicou a matéria e tirou as dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou as dúvidas dos alunos.
+
+C: O casal viajou para a praia e aproveitou o sol e o mar.
+S: O casal viajou para a praia. O casal aproveitou o sol e o mar.
+
+C: A novela tem um elenco de grandes atores e uma trama emocionante.
+S: A novela tem um elenco de grandes atores. A novela tem uma trama emocionante.
+
+C: O time perdeu por goleada e o treinador foi demitido.
+S: O time perdeu por goleada. O treinador foi demitido.
+
+C: O cantor lançou um novo álbum e iniciou uma turnê mundial.
+S: O cantor lançou um novo álbum. O cantor iniciou uma turnê mundial.
+
+C: A empresa investiu em novas tecnologias e aumentou sua produtividade.
+S: A empresa investiu em novas tecnologias. A empresa aumentou sua produtividade.
+
+C: O professor deu uma palestra interessante e tirou dúvidas dos alunos.
+S: O professor deu uma palestra interessante. O professor tirou dúvidas dos alunos.
+
+C: O restaurante serve pratos deliciosos e possui um ambiente aconchegante.
+S: O restaurante serve pratos deliciosos. O restaurante possui um ambiente aconchegante.
+
+C: O filme foi aclamado pela crítica e ganhou diversos prêmios.
+S: O filme foi aclamado pela crítica. O filme ganhou diversos prêmios.
+
+C: O livro é uma história emocionante e possui personagens cativantes.
+S: O livro é uma história emocionante. O livro possui personagens cativantes.
+
+C: A cidade oferece diversas atrações turísticas e possui uma rica cultura.
+S: A cidade oferece diversas atrações turísticas. A cidade possui uma rica cultura.
+
+C: A festa foi animada e reuniu pessoas de diferentes idades.
+S: A festa foi animada. A festa reuniu pessoas de diferentes idades.
+
+C: Ele comprou uma nova casa e mobiliou todos os cômodos.
+S: Ele comprou uma nova casa. Ele mobiliou todos os cômodos.
+
+C: A festa será realizada no salão de festas do prédio e terá música ao vivo.
+S: A festa será realizada no salão de festas do prédio. A festa terá música ao vivo.
+
+C: O time venceu o campeonato estadual e garantiu vaga na competição nacional.
+S: O time venceu o campeonato estadual. O time garantiu vaga na competição nacional.
+
+C: Ela estudou muito para a prova e conseguiu a melhor nota da sala.
+S: Ela estudou muito para a prova. Ela conseguiu a melhor nota da sala.
+
+C: Ele saiu de casa correndo e perdeu o ônibus.
+S: Ele saiu de casa correndo. Ele perdeu o ônibus.
+
+C: O restaurante serve comida brasileira e italiana.
+S: O restaurante serve comida brasileira. O restaurante serve comida italiana.
+
+C: Ela comprou um vestido e um par de sapatos novos.
+S: Ela comprou um vestido. Ela comprou um par de sapatos novos.
+
+C: O filme é de ação e tem várias cenas de luta.
+S: O filme é de ação. O filme tem várias cenas de luta.
+
+C: Ele foi ao mercado e comprou tudo o que precisava.
+S: Ele foi ao mercado. Ele comprou tudo o que precisava.
+
+C: Ela acordou cedo e preparou o café da manhã.
+S: Ela acordou cedo. Ela preparou o café da manhã.
+
+C: O jogador marcou um gol e comemorou com a torcida.
+S: O jogador marcou um gol. O jogador comemorou com a torcida.
+
+C: A festa foi animada e durou até altas horas da madrugada.
+S: A festa foi animada. A festa durou até altas horas da madrugada.
+
+C: O livro é interessante e possui uma história emocionante.
+S: O livro é interessante. O livro possui uma história emocionante.
+
+C: O professor explicou a matéria e tirou dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou dúvidas dos alunos.
+
+C: O casal decidiu viajar para o exterior e conhecer novos países.
+S: O casal decidiu viajar para o exterior. O casal decidiu conhecer novos países.
+
+C: A comida estava deliciosa e todos elogiaram o chef.
+S: A comida estava deliciosa. Todos elogiaram o chef.
+
+C: O cachorro está com fome e quer comer sua ração.
+S: O cachorro está com fome. O cachorro quer comer sua ração.
+
+C: O filme foi um sucesso de bilheteria e recebeu boas críticas.
+S: O filme foi um sucesso de bilheteria. O filme recebeu boas críticas.
+
+C: O carro é confortável e possui vários recursos tecnológicos.
+S: O carro é confortável. O carro possui vários recursos tecnológicos.
+
+C: O time jogou bem e conquistou a vitória no último minuto.
+S: O time jogou bem. O time conquistou a vitória no último minuto.
+
+C: O aluno estudou para a prova e conseguiu uma nota alta.
+S: O aluno estudou para a prova. O aluno conseguiu uma nota alta.
+
+C: A festa foi um sucesso e todos ficaram felizes.
+S: A festa foi um sucesso. Todos ficaram felizes.
+
+C: A professora explicou a matéria e deu alguns exemplos práticos.
+S: A professora explicou a matéria. A professora deu alguns exemplos práticos.
+
+C: O paciente fez exames de sangue e deu entrada no hospital.
+S: O paciente fez exames de sangue. O paciente deu entrada no hospital.
+
+C: Eu fui ao mercado e comprei todos os itens da lista.
+S: Eu fui ao mercado. Eu comprei todos os itens da lista.
+
+C: O casal se casou no campo e teve uma cerimônia ao ar livre.
+S: O casal se casou no campo. O casal teve uma cerimônia ao ar livre.
+
+C: O cachorro latiu e acordou todos os vizinhos.
+S: O cachorro latiu. O cachorro acordou todos os vizinhos.
+
+C: O sol estava forte e as pessoas procuraram sombra.
+S: O sol estava forte. As pessoas procuraram sombra.
+
+C: As crianças brincaram no parque e se divertiram muito.
+S: As crianças brincaram no parque. As crianças se divertiram muito.
+
+C: O professor explicou a teoria e aplicou um exercício prático.
+S: O professor explicou a teoria. O professor aplicou um exercício prático.
+
+C: O professor explicou o conteúdo e passou alguns exercícios.
+S: O professor explicou o conteúdo. O professor passou alguns exercícios.
+
+C: Ele comprou pão e leite no supermercado.
+S: Ele comprou pão. Ele comprou leite no supermercado.
+
+C: Maria estuda inglês e francês na escola.
+S: Maria estuda inglês. Maria estuda francês na escola.
+
+C: João saiu de casa e foi ao trabalho de ônibus.
+S: João saiu de casa. João foi ao trabalho de ônibus.
+
+C: O filme foi emocionante e surpreendente.
+S: O filme foi emocionante. O filme foi surpreendente.
+
+C: Ana comprou uma blusa e uma calça na loja.
+S: Ana comprou uma blusa. Ana comprou uma calça na loja.
+
+C: Pedro gosta de jogar futebol e basquete nos finais de semana.
+S: Pedro gosta de jogar futebol. Pedro gosta de jogar basquete nos finais de semana.
+
+C: O carro estava sujo e com o pneu furado.
+S: O carro estava sujo. O carro estava com o pneu furado.
+
+C: Rafael comeu um sanduíche e tomou um suco no almoço.
+S: Rafael comeu um sanduíche. Rafael tomou um suco no almoço.
+
+C: Laura recebeu uma promoção no trabalho e comprou um carro novo.
+S: Laura recebeu uma promoção no trabalho. Laura comprou um carro novo.
+
+C: O aluno estudou para a prova e fez todos os exercícios.
+S: O aluno estudou para a prova. O aluno fez todos os exercícios.
+
+C: A empresa investiu em novas tecnologias e contratou mais funcionários.
+S: A empresa investiu em novas tecnologias. A empresa contratou mais funcionários.
+
+C: Ele comprou um presente para a mãe e escreveu uma carta de agradecimento.
+S: Ele comprou um presente para a mãe. Ele escreveu uma carta de agradecimento.
+
+C: O time treinou bastante e conseguiu vencer o jogo.
+S: O time treinou bastante. O time conseguiu vencer o jogo.
+
+C: A professora explicou o conteúdo e passou um exercício para os alunos.
+S: A professora explicou o conteúdo. A professora passou um exercício para os alunos.
+
+C: Ele limpou a casa e fez compras no supermercado.
+S: Ele limpou a casa. Ele fez compras no supermercado.
+
+C: O casal se conheceu em uma festa e começou a namorar.
+S: O casal se conheceu em uma festa. O casal começou a namorar.
+
+C: O governo aumentou os impostos e cortou gastos para equilibrar o orçamento.
+S: O governo aumentou os impostos. O governo cortou gastos para equilibrar o orçamento.
+
+C: Ela estudou inglês e francês durante o semestre.
+S: Ela estudou inglês durante o semestre. Ela estudou francês durante o semestre.
+
+C: Eles acordaram cedo e foram correr no parque.
+S: Eles acordaram cedo. Eles foram correr no parque.
+
+C: João gosta de jogar futebol e Maria gosta de dançar.
+S: João gosta de jogar futebol. Maria gosta de dançar.
+
+C: O carro está com o tanque vazio e o pneu furado.
+S: O carro está com o tanque vazio. O carro está com o pneu furado.
+
+C: Pedro comprou pão na padaria e leite no supermercado.
+S: Pedro comprou pão na padaria. Pedro comprou leite no supermercado.
+
+C: Marta é professora de matemática e Paulo é professor de história.
+S: Marta é professora de matemática. Paulo é professor de história.
+
+C: O filme é de ação e a série é de comédia.
+S: O filme é de ação. A série é de comédia.
+
+C: Ana comprou uma blusa amarela e uma saia rosa.
+S: Ana comprou uma blusa amarela. Ana comprou uma saia rosa.
+
+C: Pedro e João saíram para jantar e Maria e Laura foram ao cinema.
+S: Pedro e João saíram para jantar. Maria e Laura foram ao cinema.
+
+C: O time ganhou o campeonato e o técnico recebeu um prêmio.
+S: O time ganhou o campeonato. O técnico recebeu um prêmio.
+
+C: Carla viajou para Paris e Renato foi para Londres.
+S: Carla viajou para Paris. Renato foi para Londres.
+
+C: Lucas estuda música e Maria estuda pintura.
+S: Lucas estuda música. Maria estuda pintura.
+
+C: A reunião foi marcada para a próxima semana e todos os participantes foram informados.
+S: A reunião foi marcada para a próxima semana. Todos os participantes foram informados.
+
+C: O time perdeu o jogo e os jogadores ficaram muito frustrados.
+S: O time perdeu o jogo. Os jogadores ficaram muito frustrados.
+
+C: Ela comprou uma nova casa e está muito feliz com a compra.
+S: Ela comprou uma nova casa. Ela está muito feliz com a compra.
+
+C: Ele estudou muito para a prova e conseguiu uma boa nota.
+S: Ele estudou muito para a prova. Ele conseguiu uma boa nota.
+
+C: O evento foi cancelado e os ingressos serão reembolsados.
+S: O evento foi cancelado. Os ingressos serão reembolsados.
+
+C: Ele foi promovido no trabalho e ganhou um aumento salarial.
+S: Ele foi promovido no trabalho. Ele ganhou um aumento salarial.
+
+C: A viagem foi cancelada e todos tiveram que remarcar as passagens.
+S: A viagem foi cancelada. Todos tiveram que remarcar as passagens.
+
+C: Ela comprou um novo carro e saiu para dar uma volta com ele.
+S: Ela comprou um novo carro. Ela saiu para dar uma volta com ele.
+
+C: Ele acordou tarde e perdeu a primeira aula da manhã.
+S: Ele acordou tarde. Ele perdeu a primeira aula da manhã.
+
+C: O restaurante estava lotado e a espera estava demorada.
+S: O restaurante estava lotado. A espera estava demorada.
+
+C: O time ganhou o jogo e comemorou a vitória com uma festa.
+S: O time ganhou o jogo. O time comemorou a vitória com uma festa.
+
+C: O filme foi lançado e atraiu uma grande audiência.
+S: O filme foi lançado. O filme atraiu uma grande audiência.
+
+C: Ela comprou roupas novas e sapatos novos.
+S: Ela comprou roupas novas. Ela comprou sapatos novos.
+
+C: Ele estudou muito e obteve uma ótima nota na prova.
+S: Ele estudou muito. Ele obteve uma ótima nota na prova.
+
+C: O carro quebrou e teve que ser levado ao mecânico.
+S: O carro quebrou. O carro teve que ser levado ao mecânico.
+
+C: A festa estava animada e durou até altas horas da madrugada.
+S: A festa estava animada. A festa durou até altas horas da madrugada.
+
+C: O cachorro latiu e acordou todo mundo da casa.
+S: O cachorro latiu. O cachorro acordou todo mundo da casa.
+
+C: Ela fez uma dieta rigorosa e perdeu alguns quilos.
+S: Ela fez uma dieta rigorosa. Ela perdeu alguns quilos.
+
+C: O documento foi assinado e enviado por correio.
+S: O documento foi assinado. O documento foi enviado por correio.
+
+C: Ele foi ao supermercado e comprou tudo o que precisava.
+S: Ele foi ao supermercado. Ele comprou tudo o que precisava.
+
+C: A festa foi muito animada e todos se divertiram.
+S: A festa foi muito animada. Todos se divertiram.
+
+C: Ele estudou matemática e ciências para a prova.
+S: Ele estudou matemática. Ele estudou ciências para a prova.
+
+C: O filme foi um sucesso de público e de crítica.
+S: O filme foi um sucesso de público. O filme foi um sucesso de crítica.
+
+C: Ela comprou uma blusa e uma saia para combinar.
+S: Ela comprou uma blusa. Ela comprou uma saia para combinar.
+
+C: O carro é rápido e econômico.
+S: O carro é rápido. O carro é econômico.
+
+C: Elas cantaram e dançaram no palco.
+S: Elas cantaram no palco. Elas dançaram no palco.
+
+C: Ele comprará um livro e um CD no shopping.
+S: Ele comprará um livro no shopping. Ele comprará um CD no shopping.
+
+C: A cidade tem muitas praias e pontos turísticos.
+S: A cidade tem muitas praias. A cidade tem muitos pontos turísticos.
+
+C: Ele almoçou arroz e feijão no restaurante.
+S: Ele almoçou arroz no restaurante. Ele almoçou feijão no restaurante.
+
+C: Ela assistiu ao filme e leu o livro baseado nele.
+S: Ela assistiu ao filme. Ela leu o livro baseado nele.
+
+C: O aluno estudou para a prova e tirou uma nota boa.
+S: O aluno estudou para a prova. O aluno tirou uma nota boa.
+
+C: O cachorro latiu e assustou o gato.
+S: O cachorro latiu. O cachorro assustou o gato.
+
+C: Maria comprou uma camisa e um sapato novo.
+S: Maria comprou uma camisa. Maria comprou um sapato novo.
+
+C: João comeu uma maçã e uma banana.
+S: João comeu uma maçã. João comeu uma banana.
+
+C: O carro quebrou e o motorista teve que chamar um guincho.
+S: O carro quebrou. O motorista teve que chamar um guincho.
+
+C: A festa foi animada e todos se divertiram muito.
+S: A festa foi animada. Todos se divertiram muito.
+
+C: O pai cozinhou o jantar e a mãe arrumou a mesa.
+S: O pai cozinhou o jantar. A mãe arrumou a mesa.
+
+C: O time perdeu o jogo e o técnico foi criticado pela imprensa.
+S: O time perdeu o jogo. O técnico foi criticado pela imprensa.
+
+C: O aluno faltou às aulas e recebeu uma advertência.
+S: O aluno faltou às aulas. O aluno recebeu uma advertência.
+
+C: João comprou uma casa nova e se mudou no fim de semana.
+S: João comprou uma casa nova. João se mudou no fim de semana.
+
+C: João comprou uma maçã e Maria comprou uma laranja.
+S: João comprou uma maçã. Maria comprou uma laranja.
+
+C: O filme tem cenas de ação e cenas de suspense.
+S: O filme tem cenas de ação. O filme tem cenas de suspense.
+
+C: Ele foi ao supermercado e comprou leite e pão.
+S: Ele foi ao supermercado. Ele comprou leite. Ele comprou pão.
+
+C: A reunião foi cancelada e será remarcada para a próxima semana.
+S: A reunião foi cancelada. A reunião será remarcada para a próxima semana.
+
+C: O livro é interessante e possui uma trama envolvente.
+S: O livro é interessante. O livro possui uma trama envolvente.
+
+C: Ela pratica yoga e meditação para manter a mente e o corpo equilibrados.
+S: Ela pratica yoga. Ela pratica meditação. Ela faz isso para manter a mente e o corpo equilibrados.
+
+C: Eles viajaram para Paris e visitaram a Torre Eiffel e o Louvre.
+S: Eles viajaram para Paris. Eles visitaram a Torre Eiffel. Eles visitaram o Louvre.
+
+C: Comprei uma camiseta nova e um par de sapatos.
+S: Comprei uma camiseta nova. Comprei um par de sapatos.
+
+C: Ele estudou para a prova e tirou uma nota alta.
+S: Ele estudou para a prova. Ele tirou uma nota alta.
+
+C: A festa tinha música animada e comida deliciosa.
+S: A festa tinha música animada. A festa tinha comida deliciosa.
+
+C: O filme foi muito elogiado pela crítica e arrecadou milhões de dólares nas bilheterias.
+S: O filme foi muito elogiado pela crítica. O filme arrecadou milhões de dólares nas bilheterias.
+
+C: O professor explicou o conteúdo da aula e tirou dúvidas dos alunos.
+S: O professor explicou o conteúdo da aula. O professor tirou dúvidas dos alunos.
+
+C: O casal viajou para a praia e aproveitou o sol e o mar.
+S: O casal viajou para a praia. O casal aproveitou o sol e o mar.
+
+C: A empresa lançou um novo produto e aumentou suas vendas.
+S: A empresa lançou um novo produto. A empresa aumentou suas vendas.
+
+C: Minha mãe preparou um delicioso almoço e fez uma torta de sobremesa.
+S: Minha mãe preparou um delicioso almoço. Minha mãe fez uma torta de sobremesa.
+
+C: O atleta conquistou a medalha de ouro e quebrou o recorde mundial.
+S: O atleta conquistou a medalha de ouro. O atleta quebrou o recorde mundial.
+
+C: O candidato apresentou suas propostas e respondeu às perguntas da plateia.
+S: O candidato apresentou suas propostas. O candidato respondeu às perguntas da plateia.
+
+C: Ela comprou uma nova bolsa e um par de sapatos.
+S: Ela comprou uma nova bolsa. Ela comprou um par de sapatos.
+
+C: O time marcou um gol e garantiu a vitória no último minuto.
+S: O time marcou um gol. O time garantiu a vitória no último minuto.
+
+C: O livro foi lançado com grande festa e recebeu elogios dos leitores.
+S: O livro foi lançado com grande festa. O livro recebeu elogios dos leitores.
+
+C: O aluno estudou para a prova de matemática e fez exercícios de revisão.
+S: O aluno estudou para a prova de matemática. O aluno fez exercícios de revisão.
+
+C: A empresa lançou um novo produto e anunciou uma promoção para os clientes.
+S: A empresa lançou um novo produto. A empresa anunciou uma promoção para os clientes.
+
+C: O casal marcou um jantar romântico e assistiu a um filme depois.
+S: O casal marcou um jantar romântico. O casal assistiu a um filme depois.
+
+C: O jogador marcou um gol e comemorou com a torcida.
+S: O jogador marcou um gol. O jogador comemorou com a torcida.
+
+C: O bebê chorava e a mãe o acalmou com carinho.
+S: O bebê chorava. A mãe o acalmou com carinho.
+
+C: O estudante fez um intercâmbio e aprendeu uma nova língua.
+S: O estudante fez um intercâmbio. O estudante aprendeu uma nova língua.
+
+C: O cantor lançou um novo álbum e anunciou uma turnê mundial.
+S: O cantor lançou um novo álbum. O cantor anunciou uma turnê mundial.
+
+C: A equipe treinou intensamente e venceu o campeonato.
+S: A equipe treinou intensamente. A equipe venceu o campeonato.
+
+C: A empresa investiu em pesquisa e desenvolvimento e lançou um produto inovador.
+S: A empresa investiu em pesquisa e desenvolvimento. A empresa lançou um produto inovador.
+
+C: O escritor escreveu um novo livro e autografou para os fãs.
+S: O escritor escreveu um novo livro. O escritor autografou para os fãs.
+
+C: A festa estava animada e todos dançavam até altas horas da noite.
+S: A festa estava animada. Todos dançavam até altas horas da noite.
+
+C: Estávamos com muita fome e decidimos pedir uma pizza.
+S: Estávamos com muita fome. Decidimos pedir uma pizza.
+
+C: A reunião foi produtiva e foram tomadas várias decisões importantes.
+S: A reunião foi produtiva. Foram tomadas várias decisões importantes.
+
+C: Lucas é muito inteligente e sempre tira notas altas nas provas.
+S: Lucas é muito inteligente. Lucas sempre tira notas altas nas provas.
+
+C: O time jogou bem, mas acabou perdendo por 1 a 0.
+S: O time jogou bem. O time acabou perdendo por 1 a 0.
+
+C: Compramos os ingredientes e fizemos um delicioso bolo de chocolate.
+S: Compramos os ingredientes. Fizemos um delicioso bolo de chocolate.
+
+C: Fizemos uma viagem incrível e visitamos vários países da Europa.
+S: Fizemos uma viagem incrível. Visitamos vários países da Europa.
+
+C: Comprei os livros e comecei a ler todos no mesmo dia.
+S: Comprei os livros. Comecei a ler todos no mesmo dia.
+
+C: Amanhã teremos uma reunião importante e precisamos nos preparar bem.
+S: Amanhã teremos uma reunião importante. Precisamos nos preparar bem.
+
+C: André foi ao mercado e comprou todos os ingredientes para o jantar.
+S: André foi ao mercado. André comprou todos os ingredientes para o jantar.
+
+C: O jogador marcou um gol e comemorou com a torcida.
+S: O jogador marcou um gol. O jogador comemorou com a torcida.
+
+C: Ela estudou muito para a prova e obteve um bom resultado.
+S: Ela estudou muito para a prova. Ela obteve um bom resultado.
+
+C: O filme foi lançado no cinema e ganhou vários prêmios.
+S: O filme foi lançado no cinema. O filme ganhou vários prêmios.
+
+C: O político discursou na assembleia e apresentou suas propostas.
+S: O político discursou na assembleia. O político apresentou suas propostas.
+
+C: O casal viajou para a praia e aproveitou o sol.
+S: O casal viajou para a praia. O casal aproveitou o sol.
+
+C: Ele comprou uma passagem de avião e embarcou no voo.
+S: Ele comprou uma passagem de avião. Ele embarcou no voo.
+
+C: A criança brincou no parque e comeu um sorvete.
+S: A criança brincou no parque. A criança comeu um sorvete.
+
+C: O livro foi lançado e vendeu muitas cópias.
+S: O livro foi lançado. O livro vendeu muitas cópias.
+
+C: O time treinou muito e venceu o campeonato.
+S: O time treinou muito. O time venceu o campeonato.
+
+C: Ele estudou para a prova e tirou uma nota alta.
+S: Ele estudou para a prova. Ele tirou uma nota alta.
+
+C: A manifestação dos trabalhadores foi pacífica, mas a polícia agiu de forma truculenta.
+S: A manifestação dos trabalhadores foi pacífica. A polícia agiu de forma truculenta.
+
+C: O professor explicou a matéria e deu vários exemplos para facilitar o entendimento.
+S: O professor explicou a matéria. O professor deu vários exemplos para facilitar o entendimento.
+
+C: Ele estuda inglês e espanhol porque pretende viajar para vários países da América Latina.
+S: Ele estuda inglês. Ele estuda espanhol. Ele pretende viajar para vários países da América Latina.
+
+C: Ela é cantora profissional e compositora reconhecida internacionalmente.
+S: Ela é cantora profissional. Ela é compositora reconhecida internacionalmente.
+
+C: Eles comeram pizza e sorvete na festa de aniversário.
+S: Eles comeram pizza. Eles comeram sorvete na festa de aniversário.
+
+C: O livro é interessante e informativo, abordando diversos temas.
+S: O livro é interessante. O livro é informativo. O livro aborda diversos temas.
+
+C: O carro é confortável e tem um ótimo desempenho na estrada.
+S: O carro é confortável. O carro tem um ótimo desempenho na estrada.
+
+C: O evento contou com a presença de políticos e empresários renomados.
+S: O evento contou com a presença de políticos renomados. O evento contou com a presença de empresários renomados.
+
+C: Ele é inteligente e esforçado, sempre se destacando em suas atividades.
+S: Ele é inteligente. Ele é esforçado. Ele sempre se destaca em suas atividades.
+
+C: A comida estava deliciosa e o ambiente do restaurante era aconchegante.
+S: A comida estava deliciosa. O ambiente do restaurante era aconchegante.
+
+C: O aluno estudou muito para a prova e conseguiu tirar a nota máxima.
+S: O aluno estudou muito para a prova. O aluno conseguiu tirar a nota máxima.
+
+C: A casa é grande e tem um lindo jardim na frente.
+S: A casa é grande. A casa tem um lindo jardim na frente.
+
+C: João comprou uma moto nova e saiu para dar um passeio.
+S: João comprou uma moto nova. João saiu para dar um passeio.
+
+C: O filme foi bem recebido pela crítica e fez muito sucesso nas bilheterias.
+S: O filme foi bem recebido pela crítica. O filme fez muito sucesso nas bilheterias.
+
+C: Maria comprou uma blusa nova e combinou com a saia que ela já tinha.
+S: Maria comprou uma blusa nova. Maria combinou com a saia que ela já tinha.
+
+C: O projeto foi aprovado pelo comitê e será implementado em breve.
+S: O projeto foi aprovado pelo comitê. O projeto será implementado em breve.
+
+C: Ele estudou o dia inteiro e conseguiu resolver todos os exercícios.
+S: Ele estudou o dia inteiro. Ele conseguiu resolver todos os exercícios.
+
+C: O evento foi um sucesso e atraiu um grande público.
+S: O evento foi um sucesso. O evento atraiu um grande público.
+
+C: A sala estava cheia e todos prestaram atenção na palestra.
+S: A sala estava cheia. Todos prestaram atenção na palestra.
+
+C: Os alunos fizeram uma pesquisa e apresentaram os resultados para a turma.
+S: Os alunos fizeram uma pesquisa. Os alunos apresentaram os resultados para a turma.
+
+C: O carro é vermelho e tem quatro portas.
+S: O carro é vermelho. O carro tem quatro portas.
+
+C: Ele gosta de sorvete de chocolate e morango.
+S: Ele gosta de sorvete de chocolate. Ele gosta de sorvete de morango.
+
+C: Maria comprou uma blusa e uma saia na loja.
+S: Maria comprou uma blusa na loja. Maria comprou uma saia na loja.
+
+C: Pedro estudou matemática e física para a prova.
+S: Pedro estudou matemática para a prova. Pedro estudou física para a prova.
+
+C: O livro tem uma capa dura e ilustrações coloridas.
+S: O livro tem uma capa dura. O livro tem ilustrações coloridas.
+
+C: O cachorro é grande e tem pelos longos.
+S: O cachorro é grande. O cachorro tem pelos longos.
+
+C: Ela trabalha de segunda a sexta e descansa nos fins de semana.
+S: Ela trabalha de segunda a sexta. Ela descansa nos fins de semana.
+
+C: Eles foram ao cinema e jantaram em um restaurante.
+S: Eles foram ao cinema. Eles jantaram em um restaurante.
+
+C: O evento foi cancelado e remarcado para a próxima semana.
+S: O evento foi cancelado. O evento foi remarcado para a próxima semana.
+
+C: Meu pai comprou pão e leite no mercado.
+S: Meu pai comprou pão no mercado. Meu pai comprou leite no mercado.
+
+C: O presidente discutiu a proposta com seus assessores e aceitou implementá-la.
+S: O presidente discutiu a proposta com seus assessores. O presidente aceitou implementá-la.
+
+C: Os clientes reclamaram do atendimento e exigiram um reembolso.
+S: Os clientes reclamaram do atendimento. Os clientes exigiram um reembolso.
+
+C: O time marcou dois gols no primeiro tempo e venceu a partida.
+S: O time marcou dois gols no primeiro tempo. O time venceu a partida.
+
+C: Ela é talentosa no canto e na dança.
+S: Ela é talentosa no canto. Ela é talentosa na dança.
+
+C: Ele estudou muito para a prova e obteve uma nota alta.
+S: Ele estudou muito para a prova. Ele obteve uma nota alta.
+
+C: O professor explicou a matéria e deu alguns exemplos.
+S: O professor explicou a matéria. O professor deu alguns exemplos.
+
+C: Ela comprou uma blusa nova e uma calça jeans.
+S: Ela comprou uma blusa nova. Ela comprou uma calça jeans.
+
+C: O filme ganhou o prêmio de Melhor Roteiro e Melhor Direção.
+S: O filme ganhou o prêmio de Melhor Roteiro. O filme ganhou o prêmio de Melhor Direção.
+
+C: Eles visitaram Paris e Roma durante a viagem.
+S: Eles visitaram Paris durante a viagem. Eles visitaram Roma durante a viagem.
+
+C: O casal planejou a festa e organizou todos os detalhes.
+S: O casal planejou a festa. O casal organizou todos os detalhes.
+
+C: O presidente anunciou uma série de medidas para combater a crise econômica e prometeu investir na geração de empregos.
+S: O presidente anunciou uma série de medidas para combater a crise econômica. O presidente prometeu investir na geração de empregos.
+
+C: Os manifestantes bloquearam as ruas principais da cidade e exigiram a renúncia do prefeito.
+S: Os manifestantes bloquearam as ruas principais da cidade. Os manifestantes exigiram a renúncia do prefeito.
+
+C: A empresa lançou um novo produto e anunciou uma promoção especial para os primeiros compradores.
+S: A empresa lançou um novo produto. A empresa anunciou uma promoção especial para os primeiros compradores.
+
+C: O ator ganhou o prêmio de melhor performance no festival de cinema e dedicou o prêmio aos seus fãs.
+S: O ator ganhou o prêmio de melhor performance no festival de cinema. O ator dedicou o prêmio aos seus fãs.
+
+C: A escola oferece aulas de música e dança para os alunos interessados.
+S: A escola oferece aulas de música. A escola oferece aulas de dança para os alunos interessados.
+
+C: A escritora publicou um novo livro e realizou uma sessão de autógrafos na livraria.
+S: A escritora publicou um novo livro. A escritora realizou uma sessão de autógrafos na livraria.
+
+C: O time de futebol venceu o campeonato e comemorou o título com uma grande festa.
+S: O time de futebol venceu o campeonato. O time de futebol comemorou o título com uma grande festa.
+
+C: O cantor lançou um novo álbum e anunciou uma turnê mundial para promovê-lo.
+S: O cantor lançou um novo álbum. O cantor anunciou uma turnê mundial para promovê-lo.
+
+C: A empresa fechou uma parceria com outra empresa e expandiu sua atuação para novos mercados.
+S: A empresa fechou uma parceria com outra empresa. A empresa expandiu sua atuação para novos mercados.
+
+C: A cidade inaugurou um novo parque e ofereceu atividades para todas as idades.
+S: A cidade inaugurou um novo parque. A cidade ofereceu atividades para todas as idades.
+
+C: O cantor fez um show incrível e encantou o público com suas músicas.
+S: O cantor fez um show incrível. O cantor encantou o público com suas músicas.
+
+C: A equipe perdeu o jogo por culpa do nervosismo e da falta de concentração.
+S: A equipe perdeu o jogo por culpa do nervosismo. A equipe perdeu o jogo por culpa da falta de concentração.
+
+C: Ela comprou uma blusa nova e também um par de sapatos.
+S: Ela comprou uma blusa nova. Ela comprou também um par de sapatos.
+
+C: O filme é engraçado e também emocionante.
+S: O filme é engraçado. O filme é também emocionante.
+
+C: Ele estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ele estudou muito para a prova. Ele conseguiu tirar uma nota alta.
+
+C: A sala estava lotada e as pessoas assistiam atentamente à palestra.
+S: A sala estava lotada. As pessoas assistiam atentamente à palestra.
+
+C: Pedro foi à praia e aproveitou para surfar.
+S: Pedro foi à praia. Pedro aproveitou para surfar.
+
+C: Ela é inteligente e talentosa, uma combinação perfeita.
+S: Ela é inteligente. Ela é talentosa, uma combinação perfeita.
+
+C: O livro é interessante e também informativo.
+S: O livro é interessante. O livro é também informativo.
+
+C: Eu estudei bastante e consegui passar na prova.
+S: Eu estudei bastante. Eu consegui passar na prova.
+
+C: O jogador marcou um belo gol de cabeça e comemorou com seus colegas.
+S: O jogador marcou um belo gol de cabeça. O jogador comemorou com seus colegas.
+
+C: A empresa lançou um novo produto e espera aumentar suas vendas.
+S: A empresa lançou um novo produto. A empresa espera aumentar suas vendas.
+
+C: Maria foi ao mercado e comprou os ingredientes para fazer o jantar.
+S: Maria foi ao mercado. Maria comprou os ingredientes para fazer o jantar.
+
+C: João estudou durante a tarde e depois foi ao cinema com seus amigos.
+S: João estudou durante a tarde. João foi ao cinema com seus amigos.
+
+C: O time venceu a partida e agora está classificado para a próxima fase do campeonato.
+S: O time venceu a partida. O time está classificado para a próxima fase do campeonato.
+
+C: A empresa contratou um novo funcionário e ele começará a trabalhar na próxima semana.
+S: A empresa contratou um novo funcionário. O funcionário começará a trabalhar na próxima semana.
+
+C: Pedro preparou um jantar especial para sua esposa e depois assistiram a um filme juntos.
+S: Pedro preparou um jantar especial para sua esposa. Pedro e sua esposa assistiram a um filme juntos.
+
+C: O cachorro latiu durante a noite e acordou os vizinhos.
+S: O cachorro latiu durante a noite. O cachorro acordou os vizinhos.
+
+C: O casal viajou para a praia e aproveitou o sol e o mar.
+S: O casal viajou para a praia. O casal aproveitou o sol e o mar.
+
+C: O professor explicou a matéria e os alunos fizeram várias perguntas.
+S: O professor explicou a matéria. Os alunos fizeram várias perguntas.
+
+C: O time marcou dois gols no primeiro tempo e venceu a partida.
+S: O time marcou dois gols no primeiro tempo. O time venceu a partida.
+
+C: Ele estudou toda a noite e conseguiu tirar uma nota alta na prova.
+S: Ele estudou toda a noite. Ele conseguiu tirar uma nota alta na prova.
+
+C: Ela comprou uma camiseta nova e um par de sapatos.
+S: Ela comprou uma camiseta nova. Ela comprou um par de sapatos.
+
+C: Maria foi à padaria e comprou pão fresco.
+S: Maria foi à padaria. Maria comprou pão fresco.
+
+C: O carro estava com problemas mecânicos e precisou ser levado ao mecânico.
+S: O carro estava com problemas mecânicos. O carro precisou ser levado ao mecânico.
+
+C: Pedro saiu para caminhar e encontrou um amigo no parque.
+S: Pedro saiu para caminhar. Pedro encontrou um amigo no parque.
+
+C: João foi ao supermercado e comprou frutas e legumes.
+S: João foi ao supermercado. João comprou frutas e legumes.
+
+C: A empresa perdeu clientes e teve uma queda em suas vendas.
+S: A empresa perdeu clientes. A empresa teve uma queda em suas vendas.
+
+C: Maria foi à praia e aproveitou para tomar sol e nadar.
+S: Maria foi à praia. Maria aproveitou para tomar sol. Maria aproveitou para nadar.
+
+C: Ana estava cansada após o trabalho e foi dormir cedo.
+S: Ana estava cansada após o trabalho. Ana foi dormir cedo.
+
+C: Os alunos estudaram para a prova e revisaram suas anotações.
+S: Os alunos estudaram para a prova. Os alunos revisaram suas anotações.
+
+C: Eu comprei pão e leite no mercado.
+S: Eu comprei pão. Eu comprei leite no mercado.
+
+C: Ela saiu para passear com o cachorro e encontrou um amigo no parque.
+S: Ela saiu para passear com o cachorro. Ela encontrou um amigo no parque.
+
+C: O time treinou bastante e venceu o jogo no final.
+S: O time treinou bastante. O time venceu o jogo no final.
+
+C: Ela comprou uma camisa nova e um par de sapatos.
+S: Ela comprou uma camisa nova. Ela comprou um par de sapatos.
+
+C: Ele leu o livro inteiro e fez um resumo detalhado.
+S: Ele leu o livro inteiro. Ele fez um resumo detalhado.
+
+C: Eles organizaram uma festa surpresa e compraram um bolo delicioso.
+S: Eles organizaram uma festa surpresa. Eles compraram um bolo delicioso.
+
+C: Ela fez exercícios físicos e seguiu uma dieta balanceada.
+S: Ela fez exercícios físicos. Ela seguiu uma dieta balanceada.
+
+C: O casal viajou para a praia e aproveitou o sol e o mar.
+S: O casal viajou para a praia. O casal aproveitou o sol e o mar.
+
+C: Ele estudou muito e obteve uma ótima nota no exame.
+S: Ele estudou muito. Ele obteve uma ótima nota no exame.
+
+C: O professor explicou a matéria e tirou as dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou as dúvidas dos alunos.
+
+C: O filme foi emocionante e teve um final surpreendente.
+S: O filme foi emocionante. O filme teve um final surpreendente.
+
+C: O cachorro latiu e acordou os vizinhos.
+S: O cachorro latiu. O cachorro acordou os vizinhos.
+
+C: Ela saiu correndo e pegou o ônibus a tempo.
+S: Ela saiu correndo. Ela pegou o ônibus a tempo.
+
+C: O jogador marcou o gol e comemorou muito.
+S: O jogador marcou o gol. O jogador comemorou muito.
+
+C: Eu comprei uma blusa nova e uma calça jeans.
+S: Eu comprei uma blusa nova. Eu comprei uma calça jeans.
+
+C: Ela cantou no palco e encantou o público.
+S: Ela cantou no palco. Ela encantou o público.
+
+C: Ele estudou durante a tarde e fez a prova no final do dia.
+S: Ele estudou durante a tarde. Ele fez a prova no final do dia.
+
+C: O livro é interessante e tem uma história envolvente.
+S: O livro é interessante. O livro tem uma história envolvente.
+
+C: Ela cozinhou o jantar e arrumou a mesa.
+S: Ela cozinhou o jantar. Ela arrumou a mesa.
+
+C: Estava chovendo muito, mas mesmo assim fomos à praia.
+S: Estava chovendo muito. Fomos à praia.
+
+C: O aluno estudou bastante e conseguiu tirar uma boa nota.
+S: O aluno estudou bastante. O aluno conseguiu tirar uma boa nota.
+
+C: Comemos pizza e depois fomos ao cinema.
+S: Comemos pizza. Fomos ao cinema depois.
+
+C: Ele estava cansado, mas mesmo assim continuou trabalhando.
+S: Ele estava cansado. Ele continuou trabalhando.
+
+C: O cachorro latiu e acordou os vizinhos.
+S: O cachorro latiu. O cachorro acordou os vizinhos.
+
+C: Corremos no parque e depois nos alongamos.
+S: Corremos no parque. Nos alongamos depois.
+
+C: Ela estava com sono, mas mesmo assim decidiu ficar acordada.
+S: Ela estava com sono. Ela decidiu ficar acordada.
+
+C: O filme estava emocionante e nos fez chorar.
+S: O filme estava emocionante. O filme nos fez chorar.
+
+C: Ele ganhou o prêmio e comemorou com os amigos.
+S: Ele ganhou o prêmio. Ele comemorou com os amigos.
+
+C: A viagem foi longa, mas valeu a pena.
+S: A viagem foi longa. Valeu a pena.
+
+C: O time de futebol venceu a partida e comemorou a vitória no vestiário.
+S: O time de futebol venceu a partida. O time comemorou a vitória no vestiário.
+
+C: Ela comprou um novo vestido e combinou com os sapatos.
+S: Ela comprou um novo vestido. Ela combinou com os sapatos.
+
+C: O carro quebrou no meio da estrada e o motorista teve que chamar um guincho.
+S: O carro quebrou no meio da estrada. O motorista teve que chamar um guincho.
+
+C: O time marcou um gol no primeiro tempo e outro no segundo tempo.
+S: O time marcou um gol no primeiro tempo. O time marcou outro no segundo tempo.
+
+C: Ele estudou para o exame e tirou uma nota alta.
+S: Ele estudou para o exame. Ele tirou uma nota alta.
+
+C: Ela acordou cedo e preparou o café da manhã para a família.
+S: Ela acordou cedo. Ela preparou o café da manhã para a família.
+
+C: O professor deu uma palestra interessante e os alunos anotaram as informações importantes.
+S: O professor deu uma palestra interessante. Os alunos anotaram as informações importantes.
+
+C: Nós fomos ao supermercado e compramos tudo o que precisávamos.
+S: Nós fomos ao supermercado. Nós compramos tudo o que precisávamos.
+
+C: Ela ligou para o médico e marcou uma consulta.
+S: Ela ligou para o médico. Ela marcou uma consulta.
+
+C: O casal foi ao cinema e assistiu a um filme emocionante.
+S: O casal foi ao cinema. O casal assistiu a um filme emocionante.
+
+C: O time venceu a partida e comemorou a vitória com uma festa.
+S: O time venceu a partida. O time comemorou a vitória com uma festa.
+
+C: Os alunos estudaram para a prova e tiraram boas notas.
+S: Os alunos estudaram para a prova. Os alunos tiraram boas notas.
+
+C: Ela comprou roupas novas e sapatos novos para a viagem.
+S: Ela comprou roupas novas. Ela comprou sapatos novos para a viagem.
+
+C: Ele trabalhou o dia todo e estava cansado quando chegou em casa.
+S: Ele trabalhou o dia todo. Ele estava cansado quando chegou em casa.
+
+C: O sol brilhava no céu e as nuvens se dispersaram.
+S: O sol brilhava no céu. As nuvens se dispersaram.
+
+C: Eles estão namorando há muitos anos e decidiram se casar.
+S: Eles estão namorando há muitos anos. Eles decidiram se casar.
+
+C: Ela pediu desculpas pelo erro cometido e prometeu não repetir.
+S: Ela pediu desculpas pelo erro cometido. Ela prometeu não repetir.
+
+C: Ele comprou um carro novo e uma casa nova.
+S: Ele comprou um carro novo. Ele comprou uma casa nova.
+
+C: O filme foi muito elogiado pela crítica e teve uma boa bilheteria.
+S: O filme foi muito elogiado pela crítica. O filme teve uma boa bilheteria.
+
+C: Ela cantou uma música triste e emocionou a plateia.
+S: Ela cantou uma música triste. Ela emocionou a plateia.
+
+C: Ele estudou história e se formou em ciências sociais.
+S: Ele estudou história. Ele se formou em ciências sociais.
+
+C: O jogador marcou um gol e saiu machucado.
+S: O jogador marcou um gol. O jogador saiu machucado.
+
+C: O evento foi cancelado devido à chuva e será remarcado para a próxima semana.
+S: O evento foi cancelado devido à chuva. O evento será remarcado para a próxima semana.
+
+C: Ela comprou uma casa e vai se mudar no próximo mês.
+S: Ela comprou uma casa. Ela vai se mudar no próximo mês.
+
+C: Ele estudou muito para a prova e tirou uma nota alta.
+S: Ele estudou muito para a prova. Ele tirou uma nota alta.
+
+C: O livro foi lançado hoje e já está esgotado nas livrarias.
+S: O livro foi lançado hoje. O livro já está esgotado nas livrarias.
+
+C: Ela pintou o quarto de azul e comprou móveis novos.
+S: Ela pintou o quarto de azul. Ela comprou móveis novos.
+
+C: O cachorro correu pela rua e encontrou seu dono na esquina.
+S: O cachorro correu pela rua. O cachorro encontrou seu dono na esquina.
+
+C: Nós fomos ao cinema e comemos pizza depois.
+S: Nós fomos ao cinema. Nós comemos pizza depois.
+
+C: Ela ficou em casa e assistiu a um filme na televisão.
+S: Ela ficou em casa. Ela assistiu a um filme na televisão.
+
+C: Maria comprou uma maçã e um livro na livraria.
+S: Maria comprou uma maçã na livraria. Maria comprou um livro na livraria.
+
+C: O cachorro latiu e o gato miou durante a noite inteira.
+S: O cachorro latiu durante a noite inteira. O gato miou durante a noite inteira.
+
+C: João estudou matemática e ciências para a prova.
+S: João estudou matemática para a prova. João estudou ciências para a prova.
+
+C: O filme foi emocionante e engraçado.
+S: O filme foi emocionante. O filme foi engraçado.
+
+C: Ana cantou e dançou no palco.
+S: Ana cantou no palco. Ana dançou no palco.
+
+C: Pedro cozinhou o jantar e arrumou a sala.
+S: Pedro cozinhou o jantar. Pedro arrumou a sala.
+
+C: Maria comprou um vestido novo e um par de sapatos.
+S: Maria comprou um vestido novo. Maria comprou um par de sapatos.
+
+C: O time marcou um gol e ganhou o jogo.
+S: O time marcou um gol. O time ganhou o jogo.
+
+C: O aluno estudou para a prova e tirou uma nota alta.
+S: O aluno estudou para a prova. O aluno tirou uma nota alta.
+
+C: O casal saiu para jantar e depois assistir a um filme.
+S: O casal saiu para jantar. O casal saiu para assistir a um filme.
+
+C: Ele foi promovido no trabalho e recebeu um aumento salarial.
+S: Ele foi promovido no trabalho. Ele recebeu um aumento salarial.
+
+C: Ela comprou um vestido novo e um par de sapatos.
+S: Ela comprou um vestido novo. Ela comprou um par de sapatos.
+
+C: O evento foi um sucesso e todos os convidados elogiaram a organização.
+S: O evento foi um sucesso. Todos os convidados elogiaram a organização.
+
+C: O carro quebrou no meio da estrada e eles tiveram que chamar um guincho.
+S: O carro quebrou no meio da estrada. Eles tiveram que chamar um guincho.
+
+C: Ele estudou muito para a prova e conseguiu uma ótima nota.
+S: Ele estudou muito para a prova. Ele conseguiu uma ótima nota.
+
+C: O time perdeu o jogo e o treinador criticou a falta de empenho dos jogadores.
+S: O time perdeu o jogo. O treinador criticou a falta de empenho dos jogadores.
+
+C: Ela jantou em um restaurante chique e experimentou pratos deliciosos.
+S: Ela jantou em um restaurante chique. Ela experimentou pratos deliciosos.
+
+C: Ele saiu de casa sem guarda-chuva e acabou se molhando na chuva.
+S: Ele saiu de casa sem guarda-chuva. Ele acabou se molhando na chuva.
+
+C: Eles fizeram uma viagem incrível e tiraram muitas fotos.
+S: Eles fizeram uma viagem incrível. Eles tiraram muitas fotos.
+
+C: O time venceu o campeonato e comemorou com uma festa.
+S: O time venceu o campeonato. O time comemorou com uma festa.
+
+C: O jogador marcou dois gols e deu uma assistência para o companheiro.
+S: O jogador marcou dois gols. O jogador deu uma assistência para o companheiro.
+
+C: A equipe jogou bem e conquistou a vitória na partida.
+S: A equipe jogou bem. A equipe conquistou a vitória na partida.
+
+C: O professor explicou o conteúdo e passou uma tarefa para os alunos.
+S: O professor explicou o conteúdo. O professor passou uma tarefa para os alunos.
+
+C: O filme foi aclamado pela crítica e ganhou diversos prêmios.
+S: O filme foi aclamado pela crítica. O filme ganhou diversos prêmios.
+
+C: A cantora lançou um novo álbum e anunciou sua próxima turnê mundial.
+S: A cantora lançou um novo álbum. A cantora anunciou sua próxima turnê mundial.
+
+C: O empresário fechou um grande negócio e expandiu seus negócios internacionais.
+S: O empresário fechou um grande negócio. O empresário expandiu seus negócios internacionais.
+
+C: O ator interpretou o papel principal e recebeu elogios pela sua performance.
+S: O ator interpretou o papel principal. O ator recebeu elogios pela sua performance.
+
+C: A empresa aumentou seus lucros e contratou novos funcionários.
+S: A empresa aumentou seus lucros. A empresa contratou novos funcionários.
+
+C: A banda lançou um novo single e anunciou uma turnê pelo país.
+S: A banda lançou um novo single. A banda anunciou uma turnê pelo país.
+
+C: Os estudantes estudaram bastante e tiraram notas altas nas provas.
+S: Os estudantes estudaram bastante. Os estudantes tiraram notas altas nas provas.
+
+C: O aluno estudou para a prova e tirou uma nota alta.
+S: O aluno estudou para a prova. O aluno tirou uma nota alta.
+
+C: A equipe treinou duro e venceu o campeonato.
+S: A equipe treinou duro. A equipe venceu o campeonato.
+
+C: Comi pizza no jantar e fiquei satisfeito.
+S: Comi pizza no jantar. Fiquei satisfeito.
+
+C: O funcionário chegou atrasado e foi repreendido pelo chefe.
+S: O funcionário chegou atrasado. O funcionário foi repreendido pelo chefe.
+
+C: O casal saiu para jantar e assistiu a um filme depois.
+S: O casal saiu para jantar. O casal assistiu a um filme depois.
+
+C: Meu amigo comprou um carro novo e está muito feliz.
+S: Meu amigo comprou um carro novo. Meu amigo está muito feliz.
+
+C: O livro foi lançado ontem e já está esgotado nas livrarias.
+S: O livro foi lançado ontem. O livro já está esgotado nas livrarias.
+
+C: Fui à praia e tomei sol o dia inteiro.
+S: Fui à praia. Tomei sol o dia inteiro.
+
+C: O cachorro latiu e acordou o vizinho.
+S: O cachorro latiu. O cachorro acordou o vizinho.
+
+C: Meu pai trabalha duro e sempre chega tarde em casa.
+S: Meu pai trabalha duro. Meu pai sempre chega tarde em casa.
+
+C: Na reunião, discutiu-se a importância do projeto e decidiu-se pela sua aprovação.
+S: Na reunião, discutiu-se a importância do projeto. Na reunião, decidiu-se pela sua aprovação.
+
+C: O governo anunciou medidas para combater a corrupção e aumentar a transparência.
+S: O governo anunciou medidas para combater a corrupção. O governo anunciou medidas para aumentar a transparência.
+
+C: O país enfrenta problemas econômicos e sociais graves.
+S: O país enfrenta problemas econômicos. O país enfrenta problemas sociais graves.
+
+C: O candidato prometeu investir em educação e saúde durante a campanha eleitoral.
+S: O candidato prometeu investir em educação. O candidato prometeu investir em saúde durante a campanha eleitoral.
+
+C: O presidente assinou um acordo com o país vizinho e visitou a fronteira para fortalecer as relações bilaterais.
+S: O presidente assinou um acordo com o país vizinho. O presidente visitou a fronteira para fortalecer as relações bilaterais.
+
+C: Os governadores discutiram estratégias de combate ao crime e propuseram a criação de uma força-tarefa conjunta.
+S: Os governadores discutiram estratégias de combate ao crime. Os governadores propuseram a criação de uma força-tarefa conjunta.
+
+C: As empresas enfrentam dificuldades financeiras e precisam buscar alternativas para se manterem no mercado.
+S: As empresas enfrentam dificuldades financeiras. As empresas precisam buscar alternativas para se manterem no mercado.
+
+C: A equipe de futebol treinou duro durante a semana e venceu o campeonato.
+S: A equipe de futebol treinou duro durante a semana. A equipe de futebol venceu o campeonato.
+
+C: O livro aborda temas polêmicos e despertou debates acalorados entre os leitores.
+S: O livro aborda temas polêmicos. O livro despertou debates acalorados entre os leitores.
+
+C: A cantora lançou um novo álbum e iniciou uma turnê mundial para promovê-lo.
+S: A cantora lançou um novo álbum. A cantora iniciou uma turnê mundial para promovê-lo.
+
+C: O livro é interessante e o filme também é bom.
+S: O livro é interessante. O filme também é bom.
+
+C: Ele estudou muito para a prova e mesmo assim não passou.
+S: Ele estudou muito para a prova. Mesmo assim, não passou.
+
+C: Comprei uma camiseta nova e também ganhei um boné de presente.
+S: Comprei uma camiseta nova. Também ganhei um boné de presente.
+
+C: Ela trabalha durante o dia e estuda à noite.
+S: Ela trabalha durante o dia. Ela estuda à noite.
+
+C: Pedro gosta de jogar futebol e seu irmão gosta de basquete.
+S: Pedro gosta de jogar futebol. Seu irmão gosta de basquete.
+
+C: Fui ao mercado e comprei leite, pão e ovos.
+S: Fui ao mercado. Comprei leite, pão e ovos.
+
+C: Ele disse que estava cansado e não queria sair.
+S: Ele disse que estava cansado. Não queria sair.
+
+C: Meu amigo foi ao cinema e eu fui ao teatro.
+S: Meu amigo foi ao cinema. Eu fui ao teatro.
+
+C: Ela é inteligente e também é engraçada.
+S: Ela é inteligente. Também é engraçada.
+
+C: A festa foi animada e durou até altas horas da noite.
+S: A festa foi animada. Durou até altas horas da noite.
+
+C: Ela comprou uma maçã e um chocolate.
+S: Ela comprou uma maçã. Ela comprou um chocolate.
+
+C: Ele estudou matemática e física para a prova.
+S: Ele estudou matemática para a prova. Ele estudou física para a prova.
+
+C: Ela cantou uma música e dançou no palco.
+S: Ela cantou uma música no palco. Ela dançou no palco.
+
+C: O carro é vermelho e possui vidros escuros.
+S: O carro é vermelho. O carro possui vidros escuros.
+
+C: Ele correu pela praia e nadou no mar.
+S: Ele correu pela praia. Ele nadou no mar.
+
+C: Ela leu um livro interessante e assistiu a um filme emocionante.
+S: Ela leu um livro interessante. Ela assistiu a um filme emocionante.
+
+C: A festa foi animada e durou até altas horas.
+S: A festa foi animada. A festa durou até altas horas.
+
+C: Ele fez ginástica e meditou para relaxar.
+S: Ele fez ginástica para relaxar. Ele meditou para relaxar.
+
+C: Ela escreveu uma carta e enviou um e-mail para ele.
+S: Ela escreveu uma carta para ele. Ela enviou um e-mail para ele.
+
+C: O time ganhou o campeonato e comemorou a vitória.
+S: O time ganhou o campeonato. O time comemorou a vitória.
+
+C: O time perdeu o jogo, mas jogou muito bem.
+S: O time perdeu o jogo. O time jogou muito bem.
+
+C: Ele foi ao supermercado e comprou pão, leite e ovos.
+S: Ele foi ao supermercado. Ele comprou pão, leite e ovos.
+
+C: Ela estuda português e matemática na escola.
+S: Ela estuda português na escola. Ela estuda matemática na escola.
+
+C: O cachorro latiu e acordou todo mundo.
+S: O cachorro latiu. O cachorro acordou todo mundo.
+
+C: Ele saiu para caminhar e encontrou um amigo no parque.
+S: Ele saiu para caminhar. Ele encontrou um amigo no parque.
+
+C: Eu gosto de ler livros e assistir filmes.
+S: Eu gosto de ler livros. Eu gosto de assistir filmes.
+
+C: Ela estudou inglês e francês durante o verão.
+S: Ela estudou inglês durante o verão. Ela estudou francês durante o verão.
+
+C: Eles foram à praia e se divertiram muito.
+S: Eles foram à praia. Eles se divertiram muito.
+
+C: Ela está fazendo dieta e malhando todos os dias.
+S: Ela está fazendo dieta. Ela está malhando todos os dias.
+
+C: Ele comprou um carro novo e vendeu o antigo.
+S: Ele comprou um carro novo. Ele vendeu o antigo.
+
+C: João gosta de sorvete de chocolate e Maria prefere sorvete de morango.
+S: João gosta de sorvete de chocolate. Maria prefere sorvete de morango.
+
+C: O carro é vermelho e está estacionado em frente à casa.
+S: O carro é vermelho. O carro está estacionado em frente à casa.
+
+C: A festa foi animada e todos dançaram a noite toda.
+S: A festa foi animada. Todos dançaram a noite toda.
+
+C: Ele deve estudar para a prova e fazer o trabalho de casa.
+S: Ele deve estudar para a prova. Ele deve fazer o trabalho de casa.
+
+C: Comprei frutas e verduras na feira hoje de manhã.
+S: Comprei frutas na feira hoje de manhã. Comprei verduras na feira hoje de manhã.
+
+C: O filme é engraçado e emocionante ao mesmo tempo.
+S: O filme é engraçado. O filme é emocionante ao mesmo tempo.
+
+C: Minha mãe cozinha bem e sempre prepara pratos deliciosos.
+S: Minha mãe cozinha bem. Minha mãe sempre prepara pratos deliciosos.
+
+C: Ele é inteligente e simpático, sempre fazendo piadas engraçadas.
+S: Ele é inteligente. Ele é simpático, sempre fazendo piadas engraçadas.
+
+C: Ela trabalha de segunda a sexta-feira e descansa nos finais de semana.
+S: Ela trabalha de segunda a sexta-feira. Ela descansa nos finais de semana.
+
+C: Fui ao mercado e comprei pão, leite e ovos.
+S: Fui ao mercado. Comprei pão, leite e ovos.
+
+C: Ele foi eleito como presidente do clube e decidiu implementar novas medidas.
+S: Ele foi eleito como presidente do clube. Ele decidiu implementar novas medidas.
+
+C: O filme recebeu críticas positivas e foi um grande sucesso de bilheteria.
+S: O filme recebeu críticas positivas. O filme foi um grande sucesso de bilheteria.
+
+C: Eles viajaram para Paris e visitaram a Torre Eiffel.
+S: Eles viajaram para Paris. Eles visitaram a Torre Eiffel.
+
+C: A reunião foi cancelada e remarcada para a próxima semana.
+S: A reunião foi cancelada. A reunião foi remarcada para a próxima semana.
+
+C: Ela estudou durante a tarde e à noite foi ao cinema.
+S: Ela estudou durante a tarde. Ela à noite foi ao cinema.
+
+C: Ele pediu desculpas e tentou consertar o erro.
+S: Ele pediu desculpas. Ele tentou consertar o erro.
+
+C: Eles se conheceram em uma festa e depois começaram a namorar.
+S: Eles se conheceram em uma festa. Depois eles começaram a namorar.
+
+C: O projeto foi aprovado e será implementado no próximo mês.
+S: O projeto foi aprovado. O projeto será implementado no próximo mês.
+
+C: Ela comprou um livro novo e começou a lê-lo imediatamente.
+S: Ela comprou um livro novo. Ela começou a lê-lo imediatamente.
+
+C: Ele fez um curso de culinária e aprendeu a cozinhar pratos deliciosos.
+S: Ele fez um curso de culinária. Ele aprendeu a cozinhar pratos deliciosos.
+
+C: O aluno estudou muito para a prova e tirou a nota máxima.
+S: O aluno estudou muito para a prova. O aluno tirou a nota máxima.
+
+C: A reunião foi cancelada devido à falta de participantes e ao mau tempo.
+S: A reunião foi cancelada devido à falta de participantes. A reunião foi cancelada devido ao mau tempo.
+
+C: A empresa desenvolveu um novo produto e lançou no mercado.
+S: A empresa desenvolveu um novo produto. A empresa lançou no mercado.
+
+C: Ele foi ao supermercado e comprou todos os ingredientes para fazer o jantar.
+S: Ele foi ao supermercado. Ele comprou todos os ingredientes para fazer o jantar.
+
+C: Ela pediu desculpas e tentou consertar o erro que cometeu.
+S: Ela pediu desculpas. Ela tentou consertar o erro que cometeu.
+
+C: O time perdeu o jogo e foi eliminado do campeonato.
+S: O time perdeu o jogo. O time foi eliminado do campeonato.
+
+C: Ele comprou um presente para a mãe e entregou pessoalmente.
+S: Ele comprou um presente para a mãe. Ele entregou pessoalmente.
+
+C: A criança chorou e chamou pela mãe.
+S: A criança chorou. A criança chamou pela mãe.
+
+C: Ela ouviu a música e começou a dançar.
+S: Ela ouviu a música. Ela começou a dançar.
+
+C: O casal brigou e decidiu terminar o relacionamento.
+S: O casal brigou. O casal decidiu terminar o relacionamento.
+
+C: A empresa está expandindo seus negócios para outros países e está contratando funcionários estrangeiros.
+S: A empresa está expandindo seus negócios para outros países. A empresa está contratando funcionários estrangeiros.
+
+C: O livro foi lançado recentemente e já está sendo muito bem recebido pelos leitores.
+S: O livro foi lançado recentemente. O livro já está sendo muito bem recebido pelos leitores.
+
+C: A festa será realizada na praia e terá música ao vivo.
+S: A festa será realizada na praia. A festa terá música ao vivo.
+
+C: O atleta ganhou a medalha de ouro e bateu o recorde mundial.
+S: O atleta ganhou a medalha de ouro. O atleta bateu o recorde mundial.
+
+C: O filme foi indicado para diversos prêmios e recebeu críticas positivas da mídia especializada.
+S: O filme foi indicado para diversos prêmios. O filme recebeu críticas positivas da mídia especializada.
+
+C: Ele estudou medicina e se especializou em cardiologia.
+S: Ele estudou medicina. Ele se especializou em cardiologia.
+
+C: A cidade oferece diversas opções de lazer e entretenimento para os turistas.
+S: A cidade oferece diversas opções de lazer. A cidade oferece diversas opções de entretenimento para os turistas.
+
+C: O restaurante serve pratos típicos da região e possui uma extensa carta de vinhos.
+S: O restaurante serve pratos típicos da região. O restaurante possui uma extensa carta de vinhos.
+
+C: Ela trabalha como advogada e também como professora universitária.
+S: Ela trabalha como advogada. Ela também trabalha como professora universitária.
+
+C: O casal viajou para Paris e conheceu diversos pontos turísticos da cidade.
+S: O casal viajou para Paris. O casal conheceu diversos pontos turísticos da cidade.
+
+C: João comprou uma bicicleta nova e Pedro comprou um skate.
+S: João comprou uma bicicleta nova. Pedro comprou um skate.
+
+C: O carro de Maria quebrou e ela teve que chamar um guincho.
+S: O carro de Maria quebrou. Ela teve que chamar um guincho.
+
+C: Ana e João são irmãos gêmeos e estudam na mesma escola.
+S: Ana e João são irmãos gêmeos. Eles estudam na mesma escola.
+
+C: O time ganhou o jogo e comemorou a vitória no vestiário.
+S: O time ganhou o jogo. O time comemorou a vitória no vestiário.
+
+C: A festa foi muito animada e todos dançaram até tarde.
+S: A festa foi muito animada. Todos dançaram até tarde.
+
+C: Os alunos estudaram para a prova e conseguiram boas notas.
+S: Os alunos estudaram para a prova. Os alunos conseguiram boas notas.
+
+C: Carla comprou um vestido novo e um par de sapatos.
+S: Carla comprou um vestido novo. Carla comprou um par de sapatos.
+
+C: Os pais levaram as crianças para passear no parque e depois foram tomar sorvete.
+S: Os pais levaram as crianças para passear no parque. Os pais foram tomar sorvete.
+
+C: O time treinou muito e venceu o campeonato.
+S: O time treinou muito. O time venceu o campeonato.
+
+C: O filme foi emocionante e todos saíram do cinema com lágrimas nos olhos.
+S: O filme foi emocionante. Todos saíram do cinema com lágrimas nos olhos.
+
+C: A reunião foi cancelada e os participantes foram informados.
+S: A reunião foi cancelada. Os participantes foram informados.
+
+C: Ela estudou para a prova e conseguiu uma boa nota.
+S: Ela estudou para a prova. Ela conseguiu uma boa nota.
+
+C: O carro quebrou e eles tiveram que chamar um guincho.
+S: O carro quebrou. Eles tiveram que chamar um guincho.
+
+C: Ele comprou um livro e deu de presente para a irmã.
+S: Ele comprou um livro. Ele deu de presente para a irmã.
+
+C: Ela correu no parque e depois foi ao supermercado.
+S: Ela correu no parque. Depois ela foi ao supermercado.
+
+C: Os alunos estudaram para a prova e tiraram notas altas.
+S: Os alunos estudaram para a prova. Os alunos tiraram notas altas.
+
+C: Ele pediu ajuda e o professor explicou o exercício.
+S: Ele pediu ajuda. O professor explicou o exercício.
+
+C: A criança chorou e a mãe a consolou.
+S: A criança chorou. A mãe a consolou.
+
+C: Eles abriram o restaurante e começaram a atender os clientes.
+S: Eles abriram o restaurante. Eles começaram a atender os clientes.
+
+C: Ela comprou o ingresso e reservou um hotel para a viagem.
+S: Ela comprou o ingresso. Ela reservou um hotel para a viagem.
+
+C: Maria estudou muito para a prova e conseguiu a nota máxima.
+S: Maria estudou muito para a prova. Maria conseguiu a nota máxima.
+
+C: O time jogou com garra e conquistou a vitória.
+S: O time jogou com garra. O time conquistou a vitória.
+
+C: João saiu cedo de casa e chegou atrasado no trabalho.
+S: João saiu cedo de casa. João chegou atrasado no trabalho.
+
+C: Ana comprou o livro e começou a ler imediatamente.
+S: Ana comprou o livro. Ana começou a ler imediatamente.
+
+C: Marcos estudou todos os dias e tirou uma nota alta na prova.
+S: Marcos estudou todos os dias. Marcos tirou uma nota alta na prova.
+
+C: O paciente estava com dor e foi medicado pela enfermeira.
+S: O paciente estava com dor. O paciente foi medicado pela enfermeira.
+
+C: O gato brincou com a bola e logo se cansou.
+S: O gato brincou com a bola. O gato logo se cansou.
+
+C: O professor explicou a matéria e os alunos fizeram perguntas.
+S: O professor explicou a matéria. Os alunos fizeram perguntas.
+
+C: Carolina cozinhou o jantar e lavou a louça depois.
+S: Carolina cozinhou o jantar. Carolina lavou a louça depois.
+
+C: O Brasil ganhou a Copa do Mundo e comemorou intensamente.
+S: O Brasil ganhou a Copa do Mundo. O Brasil comemorou intensamente.
+
+C: O time marcou um gol nos últimos minutos e garantiu a vitória.
+S: O time marcou um gol nos últimos minutos. O time garantiu a vitória.
+
+C: Maria saiu correndo para pegar o ônibus e acabou tropeçando.
+S: Maria saiu correndo para pegar o ônibus. Maria acabou tropeçando.
+
+C: O professor explicou o conteúdo da aula e deixou os alunos fazerem perguntas.
+S: O professor explicou o conteúdo da aula. O professor deixou os alunos fazerem perguntas.
+
+C: Pedro estudou a noite toda para a prova e conseguiu tirar uma nota alta.
+S: Pedro estudou a noite toda para a prova. Pedro conseguiu tirar uma nota alta.
+
+C: As crianças foram à praia e se divertiram brincando na areia.
+S: As crianças foram à praia. As crianças se divertiram brincando na areia.
+
+C: O músico tocou várias músicas antigas e animou o público.
+S: O músico tocou várias músicas antigas. O músico animou o público.
+
+C: O carro estava com problemas no motor e acabou quebrando no meio da estrada.
+S: O carro estava com problemas no motor. O carro acabou quebrando no meio da estrada.
+
+C: O aluno entregou o trabalho atrasado e perdeu pontos na nota final.
+S: O aluno entregou o trabalho atrasado. O aluno perdeu pontos na nota final.
+
+C: O ator ensaiou várias vezes a cena e acertou todas as falas durante a apresentação.
+S: O ator ensaiou várias vezes a cena. O ator acertou todas as falas durante a apresentação.
+
+C: A empresa contratou funcionários novos e aumentou a produtividade no setor.
+S: A empresa contratou funcionários novos. A empresa aumentou a produtividade no setor.
+
+C: O jogador marcou um gol e comemorou com os torcedores.
+S: O jogador marcou um gol. O jogador comemorou com os torcedores.
+
+C: O filme é emocionante e tem uma ótima trilha sonora.
+S: O filme é emocionante. O filme tem uma ótima trilha sonora.
+
+C: A empresa contratou novos funcionários e aumentou sua produção.
+S: A empresa contratou novos funcionários. A empresa aumentou sua produção.
+
+C: O presidente discursou sobre os problemas do país e pediu união.
+S: O presidente discursou sobre os problemas do país. O presidente pediu união.
+
+C: A cantora lançou um novo álbum e anunciou uma turnê mundial.
+S: A cantora lançou um novo álbum. A cantora anunciou uma turnê mundial.
+
+C: O cachorro latiu durante a noite e acordou os vizinhos.
+S: O cachorro latiu durante a noite. O cachorro acordou os vizinhos.
+
+C: O livro tem uma história envolvente e personagens cativantes.
+S: O livro tem uma história envolvente. O livro tem personagens cativantes.
+
+C: A festa foi animada e durou a noite toda.
+S: A festa foi animada. A festa durou a noite toda.
+
+C: O professor explicou a matéria com clareza e tirou todas as dúvidas dos alunos.
+S: O professor explicou a matéria com clareza. O professor tirou todas as dúvidas dos alunos.
+
+C: A cidade possui belas praias e uma rica cultura local.
+S: A cidade possui belas praias. A cidade possui uma rica cultura local.
+
+C: Ela foi à academia e depois foi ao supermercado.
+S: Ela foi à academia. Ela foi ao supermercado.
+
+C: Ele assistiu ao filme e comeu pipoca durante a sessão.
+S: Ele assistiu ao filme. Ele comeu pipoca durante a sessão.
+
+C: Nós visitamos o parque e tiramos várias fotos lá.
+S: Nós visitamos o parque. Nós tiramos várias fotos lá.
+
+C: Ela comprou um vestido novo e também um par de sapatos.
+S: Ela comprou um vestido novo. Ela comprou também um par de sapatos.
+
+C: Eles estudaram para a prova e foram muito bem na avaliação.
+S: Eles estudaram para a prova. Eles foram muito bem na avaliação.
+
+C: Nós fomos à praia e aproveitamos o sol durante o dia todo.
+S: Nós fomos à praia. Nós aproveitamos o sol durante o dia todo.
+
+C: Ele foi ao cinema e assistiu a um filme de ação.
+S: Ele foi ao cinema. Ele assistiu a um filme de ação.
+
+C: Ela cantou no coral da escola e recebeu muitos aplausos.
+S: Ela cantou no coral da escola. Ela recebeu muitos aplausos.
+
+C: Eles viajaram para o exterior e conheceram vários países.
+S: Eles viajaram para o exterior. Eles conheceram vários países.
+
+C: Nós jantamos em um restaurante chique e depois fomos dançar.
+S: Nós jantamos em um restaurante chique. Nós fomos dançar depois.
+
+C: O músico apresentou suas novas composições e encantou o público com seu talento.
+S: O músico apresentou suas novas composições. O músico encantou o público com seu talento.
+
+C: O governo lançou um programa de incentivo ao empreendedorismo e prometeu investir recursos na capacitação de pequenos empresários.
+S: O governo lançou um programa de incentivo ao empreendedorismo. O governo prometeu investir recursos na capacitação de pequenos empresários.
+
+C: A empresa ampliou sua linha de produtos e conquistou novos clientes em diferentes regiões do país.
+S: A empresa ampliou sua linha de produtos. A empresa conquistou novos clientes em diferentes regiões do país.
+
+C: O cantor lançou um novo álbum e anunciou uma turnê internacional para promovê-lo.
+S: O cantor lançou um novo álbum. O cantor anunciou uma turnê internacional para promovê-lo.
+
+C: O atleta bateu o recorde mundial e conquistou a medalha de ouro nos Jogos Olímpicos.
+S: O atleta bateu o recorde mundial. O atleta conquistou a medalha de ouro nos Jogos Olímpicos.
+
+C: A cidade sediou um importante evento esportivo e recebeu a visita de diversas celebridades.
+S: A cidade sediou um importante evento esportivo. A cidade recebeu a visita de diversas celebridades.
+
+C: A empresa investiu em tecnologia e aumentou sua capacidade de produção.
+S: A empresa investiu em tecnologia. A empresa aumentou sua capacidade de produção.
+
+C: O artista lançou uma exposição de suas obras e recebeu elogios da crítica especializada.
+S: O artista lançou uma exposição de suas obras. O artista recebeu elogios da crítica especializada.
+
+C: O filme recebeu várias indicações ao prêmio de Melhor Filme e levou para casa a estatueta mais cobiçada da noite.
+S: O filme recebeu várias indicações ao prêmio de Melhor Filme. O filme levou para casa a estatueta mais cobiçada da noite.
+
+C: A banda lançou um novo single e anunciou uma turnê nacional para promovê-lo.
+S: A banda lançou um novo single. A banda anunciou uma turnê nacional para promovê-lo.
+
+C: A professora explicou a matéria e passou uma atividade para os alunos.
+S: A professora explicou a matéria. A professora passou uma atividade para os alunos.
+
+C: Eu adoro assistir filmes e ler livros.
+S: Eu adoro assistir filmes. Eu adoro ler livros.
+
+C: O cão latiu e os pássaros voaram assustados.
+S: O cão latiu. Os pássaros voaram assustados.
+
+C: Eu comprei uma camiseta e ganhei um boné de brinde.
+S: Eu comprei uma camiseta. Eu ganhei um boné de brinde.
+
+C: Ela estudou para a prova e conseguiu uma boa nota.
+S: Ela estudou para a prova. Ela conseguiu uma boa nota.
+
+C: Ele saiu de casa e foi ao supermercado.
+S: Ele saiu de casa. Ele foi ao supermercado.
+
+C: Ela tomou café da manhã e se arrumou para sair.
+S: Ela tomou café da manhã. Ela se arrumou para sair.
+
+C: Nós fizemos a apresentação e recebemos muitos aplausos.
+S: Nós fizemos a apresentação. Nós recebemos muitos aplausos.
+
+C: Ele acordou cedo e correu no parque.
+S: Ele acordou cedo. Ele correu no parque.
+
+C: Ela ligou para o amigo e marcou um encontro.
+S: Ela ligou para o amigo. Ela marcou um encontro.
+
+C: João comprou uma camisa nova e uma calça jeans.
+S: João comprou uma camisa nova. João comprou uma calça jeans.
+
+C: Maria saiu para jantar com suas amigas e depois foi ao cinema.
+S: Maria saiu para jantar com suas amigas. Maria foi ao cinema depois.
+
+C: O cachorro latiu e o gato miou.
+S: O cachorro latiu. O gato miou.
+
+C: Roberto mora em São Paulo e trabalha em Campinas.
+S: Roberto mora em São Paulo. Roberto trabalha em Campinas.
+
+C: O carro é vermelho e o caminhão é azul.
+S: O carro é vermelho. O caminhão é azul.
+
+C: Ana está estudando para o vestibular e se preparando para o ENEM.
+S: Ana está estudando para o vestibular. Ana está se preparando para o ENEM.
+
+C: O sol brilha durante o dia e a lua aparece durante a noite.
+S: O sol brilha durante o dia. A lua aparece durante a noite.
+
+C: Carlos comprou uma maçã verde e uma laranja madura.
+S: Carlos comprou uma maçã verde. Carlos comprou uma laranja madura.
+
+C: A música está alta e as pessoas estão dançando.
+S: A música está alta. As pessoas estão dançando.
+
+C: Joana foi ao supermercado e comprou pão, leite e ovos.
+S: Joana foi ao supermercado. Joana comprou pão. Joana comprou leite. Joana comprou ovos.
+
+C: A empresa contratou novos funcionários e investiu em treinamento.
+S: A empresa contratou novos funcionários. A empresa investiu em treinamento.
+
+C: O aluno estudou a matéria e fez uma revisão antes da prova.
+S: O aluno estudou a matéria. O aluno fez uma revisão antes da prova.
+
+C: A professora explicou o conteúdo e tirou as dúvidas dos estudantes.
+S: A professora explicou o conteúdo. A professora tirou as dúvidas dos estudantes.
+
+C: Ele foi ao mercado e comprou comida para o jantar.
+S: Ele foi ao mercado. Ele comprou comida para o jantar.
+
+C: Ela pintou a parede da sala e trocou os móveis de lugar.
+S: Ela pintou a parede da sala. Ela trocou os móveis de lugar.
+
+C: A equipe de vendas conquistou novos clientes e aumentou o faturamento.
+S: A equipe de vendas conquistou novos clientes. A equipe de vendas aumentou o faturamento.
+
+C: O filme teve uma boa bilheteria no fim de semana e recebeu críticas positivas.
+S: O filme teve uma boa bilheteria no fim de semana. O filme recebeu críticas positivas.
+
+C: O médico examinou o paciente e pediu alguns exames complementares.
+S: O médico examinou o paciente. O médico pediu alguns exames complementares.
+
+C: O time de futebol venceu o jogo e comemorou a vitória no vestiário.
+S: O time de futebol venceu o jogo. O time de futebol comemorou a vitória no vestiário.
+
+C: Os amigos combinaram de sair juntos e foram ao cinema.
+S: Os amigos combinaram de sair juntos. Os amigos foram ao cinema.
+
+C: João comprou uma bicicleta e Maria ganhou uma bicicleta de presente.
+S: João comprou uma bicicleta. Maria ganhou uma bicicleta de presente.
+
+C: O filme foi aclamado pela crítica e recebeu vários prêmios.
+S: O filme foi aclamado pela crítica. O filme recebeu vários prêmios.
+
+C: O restaurante serve comida italiana e comida japonesa.
+S: O restaurante serve comida italiana. O restaurante serve comida japonesa.
+
+C: O livro foi recomendado por um amigo e foi muito elogiado pelos leitores.
+S: O livro foi recomendado por um amigo. O livro foi muito elogiado pelos leitores.
+
+C: O time perdeu o jogo e o treinador foi demitido.
+S: O time perdeu o jogo. O treinador foi demitido.
+
+C: A empresa lançou um novo produto e conquistou um aumento significativo nas vendas.
+S: A empresa lançou um novo produto. A empresa conquistou um aumento significativo nas vendas.
+
+C: O cantor se apresentou no festival e emocionou o público presente.
+S: O cantor se apresentou no festival. O cantor emocionou o público presente.
+
+C: A exposição contou com obras de artistas famosos e atraiu um grande público.
+S: A exposição contou com obras de artistas famosos. A exposição atraiu um grande público.
+
+C: Ele estudou durante toda a noite e conseguiu tirar uma nota alta na prova.
+S: Ele estudou durante toda a noite. Ele conseguiu tirar uma nota alta na prova.
+
+C: O carro quebrou no meio da estrada e ele teve que chamar um guincho para rebocá-lo.
+S: O carro quebrou no meio da estrada. Ele teve que chamar um guincho para rebocá-lo.
+
+C: A professora explicou a matéria e passou exercícios para os alunos.
+S: A professora explicou a matéria. A professora passou exercícios para os alunos.
+
+C: O jogador marcou um gol e comemorou com a torcida.
+S: O jogador marcou um gol. O jogador comemorou com a torcida.
+
+C: Meu amigo comprou um carro novo e fez uma viagem de férias.
+S: Meu amigo comprou um carro novo. Meu amigo fez uma viagem de férias.
+
+C: Eu estudei para a prova e tirei uma boa nota.
+S: Eu estudei para a prova. Eu tirei uma boa nota.
+
+C: O cantor lançou um novo álbum e saiu em turnê pelo país.
+S: O cantor lançou um novo álbum. O cantor saiu em turnê pelo país.
+
+C: Comprei um livro novo e comecei a ler no mesmo dia.
+S: Comprei um livro novo. Comecei a ler no mesmo dia.
+
+C: A empresa fechou um grande contrato e contratou mais funcionários.
+S: A empresa fechou um grande contrato. A empresa contratou mais funcionários.
+
+C: O político deu um discurso emocionante e recebeu aplausos da plateia.
+S: O político deu um discurso emocionante. O político recebeu aplausos da plateia.
+
+C: A moça ganhou na loteria e decidiu viajar pelo mundo.
+S: A moça ganhou na loteria. A moça decidiu viajar pelo mundo.
+
+C: Meu pai comprou um novo celular e baixou vários aplicativos.
+S: Meu pai comprou um novo celular. Meu pai baixou vários aplicativos.
+
+C: O carro acelerou e ultrapassou o ônibus.
+S: O carro acelerou. O carro ultrapassou o ônibus.
+
+C: Ela estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ela estudou muito para a prova. Ela conseguiu tirar uma nota alta.
+
+C: O cachorro latiu e acordou toda a vizinhança.
+S: O cachorro latiu. O cachorro acordou toda a vizinhança.
+
+C: João comprou comida e ração para seu cachorro.
+S: João comprou comida. João comprou ração para seu cachorro.
+
+C: Ele trabalha durante o dia e estuda à noite.
+S: Ele trabalha durante o dia. Ele estuda à noite.
+
+C: Ela pintou as paredes da sala e do quarto.
+S: Ela pintou as paredes da sala. Ela pintou as paredes do quarto.
+
+C: Ele cantou e tocou guitarra na festa.
+S: Ele cantou. Ele tocou guitarra na festa.
+
+C: Eles brigaram e resolveram seus problemas.
+S: Eles brigaram. Eles resolveram seus problemas.
+
+C: O avião decolou e voou em direção ao seu destino.
+S: O avião decolou. O avião voou em direção ao seu destino.
+
+C: Eles dançaram e se divertiram a noite toda.
+S: Eles dançaram. Eles se divertiram a noite toda.
+
+C: Eu gosto de sorvete de chocolate e meu irmão prefere sorvete de baunilha.
+S: Eu gosto de sorvete de chocolate. Meu irmão prefere sorvete de baunilha.
+
+C: Neva muito no inverno e faz muito calor no verão.
+S: Neva muito no inverno. Faz muito calor no verão.
+
+C: Ela estuda medicina e ele é advogado.
+S: Ela estuda medicina. Ele é advogado.
+
+C: Ontem fui ao cinema e assisti a um filme de comédia.
+S: Ontem fui ao cinema. Assisti a um filme de comédia.
+
+C: Ele trabalha de segunda a sexta-feira e descansa nos finais de semana.
+S: Ele trabalha de segunda a sexta-feira. Descansa nos finais de semana.
+
+C: Gosto de ler romances e ele prefere livros de mistério.
+S: Gosto de ler romances. Ele prefere livros de mistério.
+
+C: Ela estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ela estudou muito para a prova. Conseguiu tirar uma nota alta.
+
+C: Eu gosto de viajar de avião e ele prefere viajar de carro.
+S: Eu gosto de viajar de avião. Ele prefere viajar de carro.
+
+C: Ela visitou Paris e conheceu a Torre Eiffel.
+S: Ela visitou Paris. Conheceu a Torre Eiffel.
+
+C: Ontem fui ao supermercado e comprei comida para a semana toda.
+S: Ontem fui ao supermercado. Comprei comida para a semana toda.
+
+C: O jogador marcou um gol de falta e comemorou com a torcida.
+S: O jogador marcou um gol de falta. O jogador comemorou com a torcida.
+
+C: O restaurante serve pratos típicos da região e também opções vegetarianas.
+S: O restaurante serve pratos típicos da região. O restaurante também serve opções vegetarianas.
+
+C: O filme foi muito elogiado pelo desempenho dos atores e pela direção do diretor.
+S: O filme foi muito elogiado pelo desempenho dos atores. O filme foi muito elogiado pela direção do diretor.
+
+C: A empresa lançou um novo produto no mercado e anunciou uma promoção especial.
+S: A empresa lançou um novo produto no mercado. A empresa anunciou uma promoção especial.
+
+C: O time perdeu o jogo e o técnico foi demitido logo em seguida.
+S: O time perdeu o jogo. O técnico foi demitido logo em seguida.
+
+C: O cantor lançou um novo álbum e sairá em turnê pelo país.
+S: O cantor lançou um novo álbum. O cantor sairá em turnê pelo país.
+
+C: A professora explicou a matéria com clareza e tirou as dúvidas dos alunos.
+S: A professora explicou a matéria com clareza. A professora tirou as dúvidas dos alunos.
+
+C: O escritor lançou um novo livro e autografou exemplares para os fãs.
+S: O escritor lançou um novo livro. O escritor autografou exemplares para os fãs.
+
+C: A cantora fez um dueto com uma artista internacional e o videoclipe foi um sucesso.
+S: A cantora fez um dueto com uma artista internacional. O videoclipe foi um sucesso.
+
+C: O político fez um pronunciamento sobre as medidas econômicas e recebeu críticas da oposição.
+S: O político fez um pronunciamento sobre as medidas econômicas. O político recebeu críticas da oposição.
+
+C: O time perdeu o jogo e ficou fora da competição.
+S: O time perdeu o jogo. O time ficou fora da competição.
+
+C: Maria comprou uma nova casa e vai se mudar no próximo mês.
+S: Maria comprou uma nova casa. Maria vai se mudar no próximo mês.
+
+C: João terminou o livro que estava lendo e começou a ler outro.
+S: João terminou o livro que estava lendo. João começou a ler outro.
+
+C: Os alunos fizeram a prova final e aguardam os resultados.
+S: Os alunos fizeram a prova final. Os alunos aguardam os resultados.
+
+C: O chefe elogiou o trabalho da equipe e deu um aumento para todos.
+S: O chefe elogiou o trabalho da equipe. O chefe deu um aumento para todos.
+
+C: As crianças brincaram no parque e depois foram tomar sorvete.
+S: As crianças brincaram no parque. As crianças foram tomar sorvete.
+
+C: O casal comprou um carro novo e planeja fazer uma viagem no verão.
+S: O casal comprou um carro novo. O casal planeja fazer uma viagem no verão.
+
+C: O cantor lançou um novo álbum e anunciou uma turnê mundial.
+S: O cantor lançou um novo álbum. O cantor anunciou uma turnê mundial.
+
+C: O restaurante serve pratos vegetarianos e opções sem glúten.
+S: O restaurante serve pratos vegetarianos. O restaurante serve opções sem glúten.
+
+C: O time venceu o campeonato e comemorou com uma festa.
+S: O time venceu o campeonato. O time comemorou com uma festa.
+
+C: A diretora do colégio parabenizou os alunos pela conquista na competição de matemática e destacou o empenho de cada um.
+S: A diretora do colégio parabenizou os alunos pela conquista na competição de matemática. A diretora destacou o empenho de cada um.
+
+C: Os turistas visitaram as principais atrações da cidade e aproveitaram para experimentar a gastronomia local.
+S: Os turistas visitaram as principais atrações da cidade. Os turistas aproveitaram para experimentar a gastronomia local.
+
+C: O professor explicou a matéria com clareza e respondeu às dúvidas dos alunos.
+S: O professor explicou a matéria com clareza. O professor respondeu às dúvidas dos alunos.
+
+C: O casal escolheu um destino exótico para a lua de mel e reservou um hotel de luxo.
+S: O casal escolheu um destino exótico para a lua de mel. O casal reservou um hotel de luxo.
+
+C: O atleta superou seus limites e conquistou a medalha de ouro na competição.
+S: O atleta superou seus limites. O atleta conquistou a medalha de ouro na competição.
+
+C: A empresa lançou um novo produto no mercado e divulgou uma campanha de marketing inovadora.
+S: A empresa lançou um novo produto no mercado. A empresa divulgou uma campanha de marketing inovadora.
+
+C: A cantora lançou um novo álbum e anunciou uma turnê mundial.
+S: A cantora lançou um novo álbum. A cantora anunciou uma turnê mundial.
+
+C: O jogador marcou um gol incrível e comemorou com seus colegas de equipe.
+S: O jogador marcou um gol incrível. O jogador comemorou com seus colegas de equipe.
+
+C: O governo implementou medidas para combater a corrupção e promover a transparência.
+S: O governo implementou medidas para combater a corrupção. O governo promoveu a transparência.
+
+C: A cidade sediou um grande evento esportivo e recebeu atletas de todo o mundo.
+S: A cidade sediou um grande evento esportivo. A cidade recebeu atletas de todo o mundo.
+
+C: O político fez várias promessas durante a campanha e recebeu o apoio de muitos eleitores.
+S: O político fez várias promessas durante a campanha. O político recebeu o apoio de muitos eleitores.
+
+C: O time jogou mal, perdeu o jogo e decepcionou os torcedores.
+S: O time jogou mal. O time perdeu o jogo. O time decepcionou os torcedores.
+
+C: O governo implementou novas políticas econômicas e aumentou os impostos.
+S: O governo implementou novas políticas econômicas. O governo aumentou os impostos.
+
+C: A empresa lançou um novo produto e aumentou suas vendas.
+S: A empresa lançou um novo produto. A empresa aumentou suas vendas.
+
+C: O filme recebeu várias críticas positivas e foi um sucesso de bilheteria.
+S: O filme recebeu várias críticas positivas. O filme foi um sucesso de bilheteria.
+
+C: O autor escreveu vários livros e ganhou vários prêmios literários.
+S: O autor escreveu vários livros. O autor ganhou vários prêmios literários.
+
+C: A professora deu uma palestra interessante e incentivou os alunos a se dedicarem aos estudos.
+S: A professora deu uma palestra interessante. A professora incentivou os alunos a se dedicarem aos estudos.
+
+C: O médico fez um diagnóstico preciso e recomendou um tratamento específico.
+S: O médico fez um diagnóstico preciso. O médico recomendou um tratamento específico.
+
+C: O casal comprou uma casa nova e planeja se mudar em breve.
+S: O casal comprou uma casa nova. O casal planeja se mudar em breve.
+
+C: O cantor lançou um novo álbum e anunciou uma turnê mundial.
+S: O cantor lançou um novo álbum. O cantor anunciou uma turnê mundial.
+
+C: O aluno estudou para a prova e revisou todas as matérias.
+S: O aluno estudou para a prova. O aluno revisou todas as matérias.
+
+C: A equipe marcou um gol e comemorou a vitória.
+S: A equipe marcou um gol. A equipe comemorou a vitória.
+
+C: A criança brincou no parque e comeu um sorvete.
+S: A criança brincou no parque. A criança comeu um sorvete.
+
+C: O casal viajou para a praia e aproveitou o sol.
+S: O casal viajou para a praia. O casal aproveitou o sol.
+
+C: O livro foi lançado ontem e já está na lista dos mais vendidos.
+S: O livro foi lançado ontem. O livro já está na lista dos mais vendidos.
+
+C: A equipe praticou todos os dias e ganhou o campeonato.
+S: A equipe praticou todos os dias. A equipe ganhou o campeonato.
+
+C: A moça comprou uma blusa e uma calça nova.
+S: A moça comprou uma blusa. A moça comprou uma calça nova.
+
+C: O casal conversou sobre a viagem e planejou todos os detalhes.
+S: O casal conversou sobre a viagem. O casal planejou todos os detalhes.
+
+C: O jogador marcou um gol e fez uma assistência.
+S: O jogador marcou um gol. O jogador fez uma assistência.
+
+C: A mulher comprou pão e leite no mercado.
+S: A mulher comprou pão. A mulher comprou leite no mercado.
+
+C: Fui ao supermercado e comprei arroz, feijão e carne.
+S: Fui ao supermercado. Comprei arroz. Comprei feijão. Comprei carne.
+
+C: O livro é interessante e envolvente, mas o final é decepcionante.
+S: O livro é interessante. O livro é envolvente. O final é decepcionante.
+
+C: Ele estudou muito e tirou uma nota alta na prova.
+S: Ele estudou muito. Ele tirou uma nota alta na prova.
+
+C: A escada estava quebrada e era perigoso subir.
+S: A escada estava quebrada. Era perigoso subir.
+
+C: Cheguei em casa, tomei banho, jantei e fui dormir.
+S: Cheguei em casa. Tomei banho. Jantei. Fui dormir.
+
+C: Ela é simpática e inteligente, mas tem pouca paciência.
+S: Ela é simpática. Ela é inteligente. Tem pouca paciência.
+
+C: Ele foi correr no parque, relaxar e aproveitar o dia de sol.
+S: Ele foi correr no parque. Foi relaxar. Foi aproveitar o dia de sol.
+
+C: O show foi emocionante e a plateia aplaudiu de pé.
+S: O show foi emocionante. A plateia aplaudiu de pé.
+
+C: Ele leu o livro, assistiu ao filme e comparou as duas versões.
+S: Ele leu o livro. Ele assistiu ao filme. Ele comparou as duas versões.
+
+C: Ela cantou, dançou e encantou o público com sua performance.
+S: Ela cantou. Ela dançou. Ela encantou o público com sua performance.
+
+C: A empresa lançou um novo produto e espera um aumento nas vendas.
+S: A empresa lançou um novo produto. A empresa espera um aumento nas vendas.
+
+C: O professor explicou a matéria e passou alguns exercícios para os alunos fazerem.
+S: O professor explicou a matéria. O professor passou alguns exercícios para os alunos fazerem.
+
+C: Pedro comprou uma camisa nova e combinou com uma calça jeans.
+S: Pedro comprou uma camisa nova. Pedro combinou com uma calça jeans.
+
+C: O time marcou um gol e logo em seguida sofreu um pênalti.
+S: O time marcou um gol. O time logo em seguida sofreu um pênalti.
+
+C: O jantar foi delicioso e a sobremesa estava incrível.
+S: O jantar foi delicioso. A sobremesa estava incrível.
+
+C: Ela estudou bastante para a prova e conseguiu uma nota alta.
+S: Ela estudou bastante para a prova. Ela conseguiu uma nota alta.
+
+C: O casal viajou para a praia e aproveitou o sol durante o dia todo.
+S: O casal viajou para a praia. O casal aproveitou o sol durante o dia todo.
+
+C: Compramos os ingressos para o show e ficamos na primeira fila.
+S: Compramos os ingressos para o show. Compramos ficamos na primeira fila.
+
+C: O acidente causou um grande congestionamento e atrasou o trânsito.
+S: O acidente causou um grande congestionamento. O acidente atrasou o trânsito.
+
+C: O músico tocou várias músicas antigas e encantou a plateia.
+S: O músico tocou várias músicas antigas. O músico encantou a plateia.
+
+C: O ator principal saiu do palco e o público ficou desapontado.
+S: O ator principal saiu do palco. O público ficou desapontado.
+
+C: Comprei uma nova camisa e também comprei uma calça nova.
+S: Comprei uma nova camisa. Comprei uma calça nova.
+
+C: Estudamos matemática e também estudamos ciências.
+S: Estudamos matemática. Estudamos ciências.
+
+C: O cachorro latiu alto e acordou toda a vizinhança.
+S: O cachorro latiu alto. O cachorro acordou toda a vizinhança.
+
+C: Fui ao mercado e comprei leite e pão.
+S: Fui ao mercado. Comprei leite. Comprei pão.
+
+C: Ela começou a cantar e todos ficaram admirados.
+S: Ela começou a cantar. Todos ficaram admirados.
+
+C: Ele levantou cedo e foi correr no parque.
+S: Ele levantou cedo. Ele foi correr no parque.
+
+C: Ela pediu uma pizza e também encomendou um refrigerante.
+S: Ela pediu uma pizza. Ela encomendou um refrigerante.
+
+C: Ele ligou o carro e saiu para trabalhar.
+S: Ele ligou o carro. Ele saiu para trabalhar.
+
+C: Vou ao supermercado e depois vou à farmácia.
+S: Vou ao supermercado. Vou à farmácia.
+
+C: A professora de inglês ensina gramática e vocabulário para os alunos.
+S: A professora de inglês ensina gramática para os alunos. A professora de inglês ensina vocabulário para os alunos.
+
+C: João comprou uma maçã e Maria comprou uma laranja.
+S: João comprou uma maçã. Maria comprou uma laranja.
+
+C: O carro é vermelho e possui um motor potente.
+S: O carro é vermelho. O carro possui um motor potente.
+
+C: O filme é interessante e tem uma ótima trilha sonora.
+S: O filme é interessante. O filme tem uma ótima trilha sonora.
+
+C: A empresa produz sapatos e bolsas de couro.
+S: A empresa produz sapatos de couro. A empresa produz bolsas de couro.
+
+C: O restaurante serve comida italiana e comida japonesa.
+S: O restaurante serve comida italiana. O restaurante serve comida japonesa.
+
+C: André estuda matemática e Júlia estuda história.
+S: André estuda matemática. Júlia estuda história.
+
+C: O parque possui um parquinho infantil e uma pista de caminhada.
+S: O parque possui um parquinho infantil. O parque possui uma pista de caminhada.
+
+C: O livro é interessante e tem uma bela ilustração na capa.
+S: O livro é interessante. O livro tem uma bela ilustração na capa.
+
+C: O time venceu o campeonato e o técnico foi premiado como o melhor do ano.
+S: O time venceu o campeonato. O técnico foi premiado como o melhor do ano.
+
+C: O avião decolou e sobrevoou a cidade antes de seguir seu destino.
+S: O avião decolou. O avião sobrevoou a cidade antes de seguir seu destino.
+
+C: Ela comprou o vestido vermelho e os sapatos dourados para a festa.
+S: Ela comprou o vestido vermelho. Ela comprou os sapatos dourados para a festa.
+
+C: Ele estudou matemática e ciências para a prova de amanhã.
+S: Ele estudou matemática. Ele estudou ciências para a prova de amanhã.
+
+C: O cachorro latiu e correu em direção ao portão.
+S: O cachorro latiu. O cachorro correu em direção ao portão.
+
+C: João pegou o ônibus errado e acabou se atrasando para o trabalho.
+S: João pegou o ônibus errado. João acabou se atrasando para o trabalho.
+
+C: Eles foram ao cinema e depois jantaram em um restaurante.
+S: Eles foram ao cinema. Eles jantaram em um restaurante.
+
+C: Ela leu o livro e assistiu ao filme baseado nele.
+S: Ela leu o livro. Ela assistiu ao filme baseado nele.
+
+C: O pai comprou os presentes e a mãe preparou a festa de aniversário.
+S: O pai comprou os presentes. A mãe preparou a festa de aniversário.
+
+C: O carro bateu em um poste e o motorista saiu ileso.
+S: O carro bateu em um poste. O motorista saiu ileso.
+
+C: Ela fez uma reserva no hotel e confirmou a passagem de avião.
+S: Ela fez uma reserva no hotel. Ela confirmou a passagem de avião.
+
+C: Maria é advogada e trabalha em um renomado escritório de advocacia.
+S: Maria é advogada. Maria trabalha em um renomado escritório de advocacia.
+
+C: Os alunos estudaram para a prova e conseguiram notas altas.
+S: Os alunos estudaram para a prova. Os alunos conseguiram notas altas.
+
+C: O carro é vermelho, tem 4 portas e ar condicionado.
+S: O carro é vermelho. O carro tem 4 portas. O carro tem ar condicionado.
+
+C: João gosta de tocar violão e cantar no chuveiro.
+S: João gosta de tocar violão. João gosta de cantar no chuveiro.
+
+C: O filme foi emocionante e recebeu diversos prêmios.
+S: O filme foi emocionante. O filme recebeu diversos prêmios.
+
+C: Compramos leite, pão e manteiga no mercado.
+S: Compramos leite. Compramos pão. Compramos manteiga no mercado.
+
+C: O livro é interessante, tem uma história cativante e personagens bem desenvolvidos.
+S: O livro é interessante. O livro tem uma história cativante. O livro tem personagens bem desenvolvidos.
+
+C: Ana é inteligente, simpática e bem-sucedida em sua carreira.
+S: Ana é inteligente. Ana é simpática. Ana é bem-sucedida em sua carreira.
+
+C: O jogo foi emocionante, teve muitos gols e jogadas incríveis.
+S: O jogo foi emocionante. O jogo teve muitos gols. O jogo teve jogadas incríveis.
+
+C: O restaurante serve comida deliciosa, tem um ambiente aconchegante e um ótimo atendimento.
+S: O restaurante serve comida deliciosa. O restaurante tem um ambiente aconchegante. O restaurante tem um ótimo atendimento.
+
+C: Joana comprou um novo vestido e uma bolsa combinando.
+S: Joana comprou um novo vestido. Joana comprou uma bolsa combinando.
+
+C: O carro está com a gasolina acabando e o pneu furado.
+S: O carro está com a gasolina acabando. O carro está com o pneu furado.
+
+C: O filme foi indicado ao prêmio de Melhor Roteiro e Melhor Direção.
+S: O filme foi indicado ao prêmio de Melhor Roteiro. O filme foi indicado ao prêmio de Melhor Direção.
+
+C: Lucas estudou durante toda a noite e conseguiu tirar uma boa nota na prova.
+S: Lucas estudou durante toda a noite. Lucas conseguiu tirar uma boa nota na prova.
+
+C: O restaurante serve pratos vegetarianos e pratos sem glúten.
+S: O restaurante serve pratos vegetarianos. O restaurante serve pratos sem glúten.
+
+C: Eles foram convidados para o casamento e para a festa de aniversário.
+S: Eles foram convidados para o casamento. Eles foram convidados para a festa de aniversário.
+
+C: O professor de matemática explicou a equação e resolveu um exemplo na lousa.
+S: O professor de matemática explicou a equação. O professor de matemática resolveu um exemplo na lousa.
+
+C: Ela comprou flores para a mãe e chocolates para o pai.
+S: Ela comprou flores para a mãe. Ela comprou chocolates para o pai.
+
+C: O livro tem uma história envolvente e personagens interessantes.
+S: O livro tem uma história envolvente. O livro tem personagens interessantes.
+
+C: Ele estudou francês e italiano durante as férias.
+S: Ele estudou francês durante as férias. Ele estudou italiano durante as férias.
+
+C: Meu pai comprou um carro novo e minha mãe ganhou uma promoção no trabalho.
+S: Meu pai comprou um carro novo. Minha mãe ganhou uma promoção no trabalho.
+
+C: A festa teve música ao vivo e uma decoração incrível.
+S: A festa teve música ao vivo. A festa teve uma decoração incrível.
+
+C: O projeto foi aprovado pelo comitê e será implementado em breve.
+S: O projeto foi aprovado pelo comitê. O projeto será implementado em breve.
+
+C: O jogador fez um gol de cabeça e ainda deu uma assistência.
+S: O jogador fez um gol de cabeça. O jogador ainda deu uma assistência.
+
+C: O livro foi lançado em várias línguas e já vendeu milhares de cópias.
+S: O livro foi lançado em várias línguas. O livro já vendeu milhares de cópias.
+
+C: A empresa abriu filiais em diferentes cidades e contratou novos funcionários.
+S: A empresa abriu filiais em diferentes cidades. A empresa contratou novos funcionários.
+
+C: O filme recebeu críticas positivas e foi indicado a vários prêmios.
+S: O filme recebeu críticas positivas. O filme foi indicado a vários prêmios.
+
+C: O restaurante oferece pratos vegetarianos e opções sem glúten.
+S: O restaurante oferece pratos vegetarianos. O restaurante oferece opções sem glúten.
+
+C: A equipe de marketing criou uma campanha publicitária e lançou nas redes sociais.
+S: A equipe de marketing criou uma campanha publicitária. A equipe de marketing lançou nas redes sociais.
+
+C: A exposição contou com obras de artistas famosos e atraiu um grande público.
+S: A exposição contou com obras de artistas famosos. A exposição atraiu um grande público.
+
+C: A festa estava animada e todos dançavam muito. 
+S: A festa estava animada. Todos dançavam muito.
+
+C: Ela estudou dia e noite para a prova de matemática. 
+S: Ela estudou dia e noite. Ela estudou para a prova de matemática.
+
+C: Ele foi ao supermercado e comprou leite, pão e ovos. 
+S: Ele foi ao supermercado. Ele comprou leite, pão e ovos.
+
+C: Comprei um vestido novo e uma bolsa para combinar. 
+S: Comprei um vestido novo. Comprei uma bolsa para combinar.
+
+C: Ele acordou cedo e foi correr no parque. 
+S: Ele acordou cedo. Ele foi correr no parque.
+
+C: Cheguei ao aeroporto e encontrei minha amiga na sala de espera. 
+S: Cheguei ao aeroporto. Encontrei minha amiga na sala de espera.
+
+C: Ela pediu ajuda e eu prontamente a auxiliei. 
+S: Ela pediu ajuda. Eu prontamente a auxiliei.
+
+C: Ele já escreveu dois livros e está trabalhando no terceiro. 
+S: Ele já escreveu dois livros. Ele está trabalhando no terceiro.
+
+C: Fui ao cinema e assisti um filme incrível. 
+S: Fui ao cinema. Assisti um filme incrível.
+
+C: Ele cozinhou o jantar e depois lavou a louça. 
+S: Ele cozinhou o jantar. Ele lavou a louça.
+
+C: O político fez uma promessa durante a campanha eleitoral e entregou cestas básicas para famílias carentes.
+S: O político fez uma promessa durante a campanha eleitoral. O político entregou cestas básicas para famílias carentes.
+
+C: O governador inaugurou uma nova escola e distribuiu bolsas de estudo para os alunos.
+S: O governador inaugurou uma nova escola. O governador distribuiu bolsas de estudo para os alunos.
+
+C: A empresa lançou um novo produto e anunciou uma promoção especial para os consumidores.
+S: A empresa lançou um novo produto. A empresa anunciou uma promoção especial para os consumidores.
+
+C: O cantor gravou um novo álbum e lançou um videoclipe.
+S: O cantor gravou um novo álbum. O cantor lançou um videoclipe.
+
+C: A empresa contratou novos funcionários e abriu filiais em diferentes cidades.
+S: A empresa contratou novos funcionários. A empresa abriu filiais em diferentes cidades.
+
+C: O atleta ganhou uma medalha de ouro e quebrou um recorde mundial.
+S: O atleta ganhou uma medalha de ouro. O atleta quebrou um recorde mundial.
+
+C: O presidente assinou um acordo internacional e participou de uma conferência.
+S: O presidente assinou um acordo internacional. O presidente participou de uma conferência.
+
+C: A cantora lançou um novo single e fez uma turnê mundial.
+S: A cantora lançou um novo single. A cantora fez uma turnê mundial.
+
+C: O escritor publicou um novo livro e realizou sessões de autógrafos.
+S: O escritor publicou um novo livro. O escritor realizou sessões de autógrafos.
+
+C: O time venceu o campeonato estadual e comemorou com uma festa.
+S: O time venceu o campeonato estadual. O time comemorou com uma festa.
+
+C: O aluno estudou para a prova e tirou uma nota alta.
+S: O aluno estudou para a prova. O aluno tirou uma nota alta.
+
+C: O professor explicou a matéria com clareza e passou exercícios para os alunos.
+S: O professor explicou a matéria com clareza. O professor passou exercícios para os alunos.
+
+C: João comprou uma camisa nova e um par de sapatos.
+S: João comprou uma camisa nova. João comprou um par de sapatos.
+
+C: A praia estava lotada, mas mesmo assim, conseguimos um lugar para nos sentar.
+S: A praia estava lotada. Mesmo assim, conseguimos um lugar para nos sentar.
+
+C: Eu fiz o trabalho, mesmo estando cansado e com pouco tempo.
+S: Eu fiz o trabalho. Eu estava cansado. Eu estava com pouco tempo.
+
+C: Ela cantava e dançava ao mesmo tempo no palco.
+S: Ela cantava no palco. Ela dançava no palco ao mesmo tempo.
+
+C: O entregador de pizza chegou correndo e suado na minha porta.
+S: O entregador de pizza chegou correndo na minha porta. O entregador de pizza chegou suado na minha porta.
+
+C: Maria está feliz, mas também um pouco preocupada com o resultado do exame.
+S: Maria está feliz. Maria está um pouco preocupada com o resultado do exame.
+
+C: Ele acordou cedo e tomou um banho antes de sair de casa.
+S: Ele acordou cedo. Ele tomou um banho antes de sair de casa.
+
+C: O time marcou um gol no último minuto e venceu o jogo.
+S: O time marcou um gol no último minuto. O time venceu o jogo.
+
+C: O time jogou com muita garra e conquistou a vitória.
+S: O time jogou com muita garra. O time conquistou a vitória.
+
+C: O livro é interessante e aborda temas importantes.
+S: O livro é interessante. O livro aborda temas importantes.
+
+C: A casa é grande e possui um lindo jardim.
+S: A casa é grande. A casa possui um lindo jardim.
+
+C: O restaurante serve pratos deliciosos e tem um ótimo serviço.
+S: O restaurante serve pratos deliciosos. O restaurante tem um ótimo serviço.
+
+C: O filme é emocionante e conta uma história envolvente.
+S: O filme é emocionante. O filme conta uma história envolvente.
+
+C: Ela é inteligente e dedicada nos estudos.
+S: Ela é inteligente. Ela é dedicada nos estudos.
+
+C: Eles são simpáticos e sempre ajudam os outros.
+S: Eles são simpáticos. Eles sempre ajudam os outros.
+
+C: A festa foi animada e todos se divertiram muito.
+S: A festa foi animada. Todos se divertiram muito.
+
+C: A viagem foi cansativa e demorada.
+S: A viagem foi cansativa. A viagem foi demorada.
+
+C: O trabalho foi concluído com sucesso e dentro do prazo.
+S: O trabalho foi concluído com sucesso. O trabalho foi concluído dentro do prazo.
+
+C: A empresa lançou um novo produto e espera aumentar suas vendas.
+S: A empresa lançou um novo produto. A empresa espera aumentar suas vendas.
+
+C: Maria comprou um celular novo e está muito feliz com ele.
+S: Maria comprou um celular novo. Maria está muito feliz com ele.
+
+C: O time treinou duro durante a semana e está pronto para o jogo de sábado.
+S: O time treinou duro durante a semana. O time está pronto para o jogo de sábado.
+
+C: João estudou muito para a prova e obteve uma nota alta.
+S: João estudou muito para a prova. João obteve uma nota alta.
+
+C: Pedro comprou roupas novas e sapatos novos para a festa.
+S: Pedro comprou roupas novas. Pedro comprou sapatos novos para a festa.
+
+C: Ana foi ao mercado e comprou todos os ingredientes para fazer um bolo.
+S: Ana foi ao mercado. Ana comprou todos os ingredientes para fazer um bolo.
+
+C: O casal discutiu bastante e decidiu terminar o relacionamento.
+S: O casal discutiu bastante. O casal decidiu terminar o relacionamento.
+
+C: O professor explicou a matéria com calma e os alunos entenderam bem.
+S: O professor explicou a matéria com calma. Os alunos entenderam bem.
+
+C: O médico fez todos os exames necessários e diagnosticou a doença.
+S: O médico fez todos os exames necessários. O médico diagnosticou a doença.
+
+C: O filme é de comédia e romance, agradando a todos os gostos.
+S: O filme é de comédia. O filme é de romance, agradando a todos os gostos.
+
+C: A estudante fez uma pesquisa sobre as causas da desigualdade de gênero e apresentou os resultados na sala de aula.
+S: A estudante fez uma pesquisa sobre as causas da desigualdade de gênero. A estudante apresentou os resultados na sala de aula.
+
+C: O time de futebol treinou intensamente durante a semana e venceu o jogo no domingo.
+S: O time de futebol treinou intensamente durante a semana. O time venceu o jogo no domingo.
+
+C: Maria comprou ingredientes para fazer um bolo e convidou seus amigos para o lanche.
+S: Maria comprou ingredientes para fazer um bolo. Maria convidou seus amigos para o lanche.
+
+C: Pedro assistiu a uma palestra sobre empreendedorismo e decidiu abrir seu próprio negócio.
+S: Pedro assistiu a uma palestra sobre empreendedorismo. Pedro decidiu abrir seu próprio negócio.
+
+C: O sol brilhou intensamente durante o dia e a temperatura aumentou consideravelmente.
+S: O sol brilhou intensamente durante o dia. A temperatura aumentou consideravelmente.
+
+C: João comprou um livro novo e começou a ler assim que chegou em casa.
+S: João comprou um livro novo. João começou a ler assim que chegou em casa.
+
+C: A empresa lançou um novo produto e divulgou em todas as redes sociais.
+S: A empresa lançou um novo produto. A empresa divulgou em todas as redes sociais.
+
+C: Carla viajou para o exterior e conheceu diversos países durante suas férias.
+S: Carla viajou para o exterior. Carla conheceu diversos países durante suas férias.
+
+C: O filme foi muito elogiado pela crítica e atraiu um grande público para os cinemas.
+S: O filme foi muito elogiado pela crítica. O filme atraiu um grande público para os cinemas.
+
+C: O professor explicou a matéria e passou uma lista de exercícios para os alunos resolverem.
+S: O professor explicou a matéria. O professor passou uma lista de exercícios para os alunos resolverem.
+
+C: A professora de matemática explicou a teoria da probabilidade e apresentou exemplos práticos.
+S: A professora de matemática explicou a teoria da probabilidade. A professora apresentou exemplos práticos.
+
+C: O evento será realizado no próximo sábado e contará com a presença de diversos convidados.
+S: O evento será realizado no próximo sábado. O evento contará com a presença de diversos convidados.
+
+C: O filme é baseado em uma história real e recebeu várias críticas positivas dos especialistas.
+S: O filme é baseado em uma história real. O filme recebeu várias críticas positivas dos especialistas.
+
+C: Nós podemos escolher entre a opção A e a opção B para resolver o problema.
+S: Nós podemos escolher entre a opção A. Nós podemos escolher entre a opção B para resolver o problema.
+
+C: Ele comprou uma nova casa e se mudou para lá no mês passado.
+S: Ele comprou uma nova casa. Ele se mudou para lá no mês passado.
+
+C: O restaurante serve pratos deliciosos e oferece um ambiente aconchegante aos clientes.
+S: O restaurante serve pratos deliciosos. O restaurante oferece um ambiente aconchegante aos clientes.
+
+C: A empresa lançou um novo produto e planeja expandir para outros mercados em breve.
+S: A empresa lançou um novo produto. A empresa planeja expandir para outros mercados em breve.
+
+C: O time de futebol marcou dois gols e garantiu a vitória no último jogo.
+S: O time de futebol marcou dois gols. O time de futebol garantiu a vitória no último jogo.
+
+C: Ela foi promovida no trabalho e recebeu um aumento salarial significativo.
+S: Ela foi promovida no trabalho. Ela recebeu um aumento salarial significativo.
+
+C: O livro foi muito bem recebido pelo público e recebeu diversos prêmios literários.
+S: O livro foi muito bem recebido pelo público. O livro recebeu diversos prêmios literários.
+
+C: O time venceu a partida e comemorou a conquista.
+S: O time venceu a partida. O time comemorou a conquista.
+
+C: Ela é uma excelente cantora e uma ótima dançarina.
+S: Ela é uma excelente cantora. Ela é uma ótima dançarina.
+
+C: João comprou um novo carro e viajou para a praia.
+S: João comprou um novo carro. João viajou para a praia.
+
+C: O restaurante oferece pratos saborosos e um ambiente agradável.
+S: O restaurante oferece pratos saborosos. O restaurante oferece um ambiente agradável.
+
+C: Ela estudou muito para a prova e conseguiu uma ótima nota.
+S: Ela estudou muito para a prova. Ela conseguiu uma ótima nota.
+
+C: Eles saíram para jantar e depois foram ao cinema.
+S: Eles saíram para jantar. Eles foram ao cinema.
+
+C: O livro é interessante e possui uma boa história.
+S: O livro é interessante. O livro possui uma boa história.
+
+C: Ele comprou uma nova casa e fez uma reforma completa nela.
+S: Ele comprou uma nova casa. Ele fez uma reforma completa nela.
+
+C: Ela assistiu ao filme e depois conversou sobre ele com os amigos.
+S: Ela assistiu ao filme. Ela conversou sobre ele com os amigos.
+
+C: O time liderou a partida e venceu por uma grande diferença de pontos.
+S: O time liderou a partida. O time venceu por uma grande diferença de pontos.
+
+C: O aluno estudou para a prova de matemática e fez todos os exercícios do livro.
+S: O aluno estudou para a prova de matemática. O aluno fez todos os exercícios do livro.
+
+C: A empresa contratou novos funcionários e expandiu sua sede para outro país.
+S: A empresa contratou novos funcionários. A empresa expandiu sua sede para outro país.
+
+C: O professor explicou a matéria com calma e tirou todas as dúvidas dos alunos.
+S: O professor explicou a matéria com calma. O professor tirou todas as dúvidas dos alunos.
+
+C: Ela comprou um vestido novo e sapatos de salto alto para a festa.
+S: Ela comprou um vestido novo. Ela comprou sapatos de salto alto para a festa.
+
+C: O atleta treinou duro durante meses e conquistou a medalha de ouro.
+S: O atleta treinou duro durante meses. O atleta conquistou a medalha de ouro.
+
+C: O casal viajou para a praia e aproveitou o sol e o mar.
+S: O casal viajou para a praia. O casal aproveitou o sol e o mar.
+
+C: O filme foi lançado nos cinemas e recebeu boas críticas dos espectadores.
+S: O filme foi lançado nos cinemas. O filme recebeu boas críticas dos espectadores.
+
+C: A empresa investiu em tecnologia e aumentou sua produtividade.
+S: A empresa investiu em tecnologia. A empresa aumentou sua produtividade.
+
+C: Ela comprou flores e chocolates para presentear sua mãe no Dia das Mães.
+S: Ela comprou flores. Ela comprou chocolates para presentear sua mãe no Dia das Mães.
+
+C: O professor deu uma palestra interessante e inspiradora aos alunos.
+S: O professor deu uma palestra interessante. O professor deu uma palestra inspiradora aos alunos.
+
+C: O time venceu o jogo e comemorou a vitória.
+S: O time venceu o jogo. O time comemorou a vitória.
+
+C: O professor explicou a matéria e tirou as dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou as dúvidas dos alunos.
+
+C: O livro conta a história de amor proibido entre duas famílias rivais.
+S: O livro conta a história de amor proibido. O livro fala sobre duas famílias rivais.
+
+C: O cantor lançou um novo álbum e anunciou uma turnê mundial.
+S: O cantor lançou um novo álbum. O cantor anunciou uma turnê mundial.
+
+C: Ele estudou durante a manhã e fez exercícios à tarde.
+S: Ele estudou durante a manhã. Ele fez exercícios à tarde.
+
+C: A empresa contratou novos funcionários e expandiu seus negócios.
+S: A empresa contratou novos funcionários. A empresa expandiu seus negócios.
+
+C: Ela comprou uma blusa nova e um par de sapatos.
+S: Ela comprou uma blusa nova. Ela comprou um par de sapatos.
+
+C: O carro quebrou no meio da estrada e tivemos que chamar o guincho.
+S: O carro quebrou no meio da estrada. Tivemos que chamar o guincho.
+
+C: Eles estudaram para a prova e conseguiram uma ótima nota.
+S: Eles estudaram para a prova. Eles conseguiram uma ótima nota.
+
+C: A mãe preparou o almoço e o pai lavou a louça.
+S: A mãe preparou o almoço. O pai lavou a louça.
+
+C: Eu gosto de ir ao cinema e também de assistir streaming em casa.
+S: Eu gosto de ir ao cinema. Eu gosto de assistir streaming em casa.
+
+C: A festa foi incrível, mas o trânsito estava horrível.
+S: A festa foi incrível. O trânsito estava horrível.
+
+C: Preciso comprar leite e pão na padaria.
+S: Preciso comprar leite. Preciso comprar pão na padaria.
+
+C: O filme foi muito emocionante e fez todos chorarem.
+S: O filme foi muito emocionante. O filme fez todos chorarem.
+
+C: Meu irmão estuda medicina e minha irmã estuda direito.
+S: Meu irmão estuda medicina. Minha irmã estuda direito.
+
+C: Eu adoro chocolate e também amo sorvete.
+S: Eu adoro chocolate. Eu amo sorvete.
+
+C: Ele gosta de correr no parque e nadar no mar.
+S: Ele gosta de correr no parque. Ele gosta de nadar no mar.
+
+C: A professora explicou a matéria e passou exercícios para os alunos resolverem.
+S: A professora explicou a matéria. A professora passou exercícios para os alunos resolverem.
+
+C: Comprei uma blusa nova e também um par de sapatos.
+S: Comprei uma blusa nova. Comprei um par de sapatos.
+
+C: O restaurante serve pizzas e massas deliciosas.
+S: O restaurante serve pizzas. O restaurante serve massas deliciosas.
+
+C: O time de futebol marcou um gol incrível e venceu a partida.
+S: O time de futebol marcou um gol incrível. O time venceu a partida.
+
+C: O cachorro latiu durante toda a noite e não deixou ninguém dormir.
+S: O cachorro latiu durante toda a noite. O cachorro não deixou ninguém dormir.
+
+C: Carolina foi à praia e tomou um banho de sol.
+S: Carolina foi à praia. Carolina tomou um banho de sol.
+
+C: O professor explicou a matéria e tirou as dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou as dúvidas dos alunos.
+
+C: Ana estudou para a prova e obteve uma ótima nota.
+S: Ana estudou para a prova. Ana obteve uma ótima nota.
+
+C: O carro ficou sem gasolina e parou no meio da estrada.
+S: O carro ficou sem gasolina. O carro parou no meio da estrada.
+
+C: O livro é interessante e tem uma história envolvente.
+S: O livro é interessante. O livro tem uma história envolvente.
+
+C: Luís trabalhou o dia inteiro e estava muito cansado à noite.
+S: Luís trabalhou o dia inteiro. Luís estava muito cansado à noite.
+
+C: A casa está limpa e arrumada para receber os convidados.
+S: A casa está limpa. A casa está arrumada para receber os convidados.
+
+C: Pedro comeu um sanduíche e bebeu um copo de suco.
+S: Pedro comeu um sanduíche. Pedro bebeu um copo de suco.
+
+C: Giovanni está estudando para a prova de matemática e Pedro está revisando para a prova de história.
+S: Giovanni está estudando para a prova de matemática. Pedro está revisando para a prova de história.
+
+C: Clara comprou uma maçã e um chocolate para o lanche da tarde.
+S: Clara comprou uma maçã para o lanche da tarde. Clara comprou um chocolate para o lanche da tarde.
+
+C: O aluno entregou sua lição de casa e recebeu um elogio da professora.
+S: O aluno entregou sua lição de casa. O aluno recebeu um elogio da professora.
+
+C: O jardineiro podou a grama e regou as plantas do jardim.
+S: O jardineiro podou a grama. O jardineiro regou as plantas do jardim.
+
+C: João comprou um livro e uma caneta para a escola.
+S: João comprou um livro para a escola. João comprou uma caneta para a escola.
+
+C: Maria fez uma pausa para o almoço e depois continuou trabalhando.
+S: Maria fez uma pausa para o almoço. Maria depois continuou trabalhando.
+
+C: Lucas foi ao mercado e comprou frutas e legumes para a semana.
+S: Lucas foi ao mercado. Lucas comprou frutas para a semana. Lucas comprou legumes para a semana.
+
+C: A equipe de futebol venceu o jogo e comemorou a vitória.
+S: A equipe de futebol venceu o jogo. A equipe comemorou a vitória.
+
+C: Camila terminou de ler o livro e decidiu iniciar outro.
+S: Camila terminou de ler o livro. Camila decidiu iniciar outro.
+
+C: Os alunos participaram do projeto e apresentaram seus resultados para a turma.
+S: Os alunos participaram do projeto. Os alunos apresentaram seus resultados para a turma.
+
+C: O time venceu todos os jogos e conquistou o título do campeonato.
+S: O time venceu todos os jogos. O time conquistou o título do campeonato.
+
+C: O livro é interessante e tem uma trama envolvente.
+S: O livro é interessante. O livro tem uma trama envolvente.
+
+C: Ela estudou muito e conseguiu passar na prova.
+S: Ela estudou muito. Ela conseguiu passar na prova.
+
+C: O carro é rápido e econômico.
+S: O carro é rápido. O carro é econômico.
+
+C: Ela foi ao supermercado e comprou tudo o que precisava.
+S: Ela foi ao supermercado. Ela comprou tudo o que precisava.
+
+C: Ele é inteligente e simpático.
+S: Ele é inteligente. Ele é simpático.
+
+C: A festa foi animada e todos se divertiram.
+S: A festa foi animada. Todos se divertiram.
+
+C: O filme é emocionante e tem ótimos efeitos especiais.
+S: O filme é emocionante. O filme tem ótimos efeitos especiais.
+
+C: O restaurante serve comida saborosa e possui um ambiente aconchegante.
+S: O restaurante serve comida saborosa. O restaurante possui um ambiente aconchegante.
+
+C: Ela é talentosa e dedicada ao seu trabalho.
+S: Ela é talentosa. Ela é dedicada ao seu trabalho.
+
+C: O jogador marcou um gol e comemorou com os colegas de time.
+S: O jogador marcou um gol. O jogador comemorou com os colegas de time.
+
+C: Ele estudou bastante para a prova e conseguiu tirar uma nota alta.
+S: Ele estudou bastante para a prova. Ele conseguiu tirar uma nota alta.
+
+C: A banda tocou suas músicas antigas e apresentou algumas novas canções no show.
+S: A banda tocou suas músicas antigas. A banda apresentou algumas novas canções no show.
+
+C: O político discursou sobre a economia e criticou as medidas do governo.
+S: O político discursou sobre a economia. O político criticou as medidas do governo.
+
+C: O professor explicou a matéria e tirou dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou dúvidas dos alunos.
+
+C: O casal viajou para a praia e aproveitou para descansar.
+S: O casal viajou para a praia. O casal aproveitou para descansar.
+
+C: A empresa lançou um novo produto e divulgou em suas redes sociais.
+S: A empresa lançou um novo produto. A empresa divulgou em suas redes sociais.
+
+C: Ele comprou um carro novo e deu o antigo para o irmão.
+S: Ele comprou um carro novo. Ele deu o antigo para o irmão.
+
+C: Ela fez um cronograma para o projeto e distribuiu as tarefas para a equipe.
+S: Ela fez um cronograma para o projeto. Ela distribuiu as tarefas para a equipe.
+
+C: A mãe preparou um bolo para a festa e decorou a casa com balões.
+S: A mãe preparou um bolo para a festa. A mãe decorou a casa com balões.
+
+C: O time empatou no primeiro tempo e marcou o gol da vitória no segundo tempo.
+S: O time empatou no primeiro tempo. O time marcou o gol da vitória no segundo tempo.
+
+C: Paulo é inteligente e estudioso.
+S: Paulo é inteligente. Paulo é estudioso.
+
+C: Os alunos foram à biblioteca e pegaram livros emprestados.
+S: Os alunos foram à biblioteca. Os alunos pegaram livros emprestados.
+
+C: O dia estava ensolarado e as flores estavam desabrochando.
+S: O dia estava ensolarado. As flores estavam desabrochando.
+
+C: Ela assistiu ao filme e depois comentou sobre ele.
+S: Ela assistiu ao filme. Ela comentou sobre ele.
+
+C: O cachorro latiu e saiu correndo pela porta.
+S: O cachorro latiu. O cachorro saiu correndo pela porta.
+
+C: Lucas comprou pão na padaria e leite no supermercado.
+S: Lucas comprou pão na padaria. Lucas comprou leite no supermercado.
+
+C: O carro quebrou e o motorista teve que chamar o guincho.
+S: O carro quebrou. O motorista teve que chamar o guincho.
+
+C: Ela estudou para a prova e tirou uma nota alta.
+S: Ela estudou para a prova. Ela tirou uma nota alta.
+
+C: Os amigos saíram para jantar e depois foram assistir a um filme.
+S: Os amigos saíram para jantar. Os amigos foram assistir a um filme.
+
+C: João comprou um livro e Maria ganhou um brinquedo.
+S: João comprou um livro. Maria ganhou um brinquedo.
+
+C: O carro estava sujo e tinha arranhões.
+S: O carro estava sujo. O carro tinha arranhões.
+
+C: Pedro saiu correndo e caiu no chão.
+S: Pedro saiu correndo. Pedro caiu no chão.
+
+C: Ana se maquiou e saiu para a festa.
+S: Ana se maquiou. Ana saiu para a festa.
+
+C: Marcos comprou um computador novo e vendeu o antigo.
+S: Marcos comprou um computador novo. Marcos vendeu o antigo.
+
+C: O filme foi emocionante e teve uma grande bilheteria.
+S: O filme foi emocionante. O filme teve uma grande bilheteria.
+
+C: O casamento foi lindo e todos os convidados se divertiram.
+S: O casamento foi lindo. Todos os convidados se divertiram.
+
+C: O sol estava forte e a praia estava lotada.
+S: O sol estava forte. A praia estava lotada.
+
+C: A empresa contratou novos funcionários e está expandindo.
+S: A empresa contratou novos funcionários. A empresa está expandindo.
+
+C: O céu estava estrelado e a lua brilhava intensamente.
+S: O céu estava estrelado. A lua brilhava intensamente.
+
+C: João comprou uma camisa nova e Maria ganhou uma bolsa.
+S: João comprou uma camisa nova. Maria ganhou uma bolsa.
+
+C: O filme foi emocionante, mas o final foi decepcionante.
+S: O filme foi emocionante. O final foi decepcionante.
+
+C: Os alunos estudaram para a prova e fizeram exercícios extras.
+S: Os alunos estudaram para a prova. Os alunos fizeram exercícios extras.
+
+C: O carro é vermelho e tem rodas pretas.
+S: O carro é vermelho. O carro tem rodas pretas.
+
+C: O restaurante serve comida italiana e comida japonesa.
+S: O restaurante serve comida italiana. O restaurante serve comida japonesa.
+
+C: Paula gosta de ler romances e assistir filmes de comédia.
+S: Paula gosta de ler romances. Paula gosta de assistir filmes de comédia.
+
+C: Ele jogou futebol no final de semana e fez um churrasco com os amigos.
+S: Ele jogou futebol no final de semana. Ele fez um churrasco com os amigos.
+
+C: Ela comprou uma nova câmera fotográfica e aprendeu a fazer fotos profissionais.
+S: Ela comprou uma nova câmera fotográfica. Ela aprendeu a fazer fotos profissionais.
+
+C: O dia estava ensolarado, mas no final choveu muito.
+S: O dia estava ensolarado. No final choveu muito.
+
+C: Ele estudou muito para a prova, mas acabou tirando uma nota baixa.
+S: Ele estudou muito para a prova. Ele acabou tirando uma nota baixa.
+
+C: João comprou um carro novo e Maria comprou uma casa nova.
+S: João comprou um carro novo. Maria comprou uma casa nova.
+
+C: O evento começou às 9h e terminou às 18h.
+S: O evento começou às 9h. O evento terminou às 18h.
+
+C: A empresa lançou um novo produto e contratou mais funcionários.
+S: A empresa lançou um novo produto. A empresa contratou mais funcionários.
+
+C: O filme foi dirigido por Pedro e escrito por Miguel.
+S: O filme foi dirigido por Pedro. O filme foi escrito por Miguel.
+
+C: A festa foi muito animada e todos dançaram a noite toda.
+S: A festa foi muito animada. Todos dançaram a noite toda.
+
+C: O restaurante serve comida italiana e comida japonesa.
+S: O restaurante serve comida italiana. O restaurante serve comida japonesa.
+
+C: O livro é interessante e tem personagens cativantes.
+S: O livro é interessante. O livro tem personagens cativantes.
+
+C: O time venceu o campeonato e ganhou um prêmio em dinheiro.
+S: O time venceu o campeonato. O time ganhou um prêmio em dinheiro.
+
+C: O novo computador é rápido e possui uma grande capacidade de armazenamento.
+S: O novo computador é rápido. O novo computador possui uma grande capacidade de armazenamento.
+
+C: O projeto foi aprovado pela diretoria e será implementado em breve.
+S: O projeto foi aprovado pela diretoria. O projeto será implementado em breve.
+
+C: Ela gosta de praia e também de montanha.
+S: Ela gosta de praia. Ela gosta de montanha.
+
+C: O livro é interessante, mas é muito longo.
+S: O livro é interessante. O livro é muito longo.
+
+C: Ele estava cansado, mas foi mesmo assim.
+S: Ele estava cansado. Ele foi mesmo assim.
+
+C: Ela estuda matemática e também física.
+S: Ela estuda matemática. Ela estuda física.
+
+C: O restaurante é conhecido pela comida deliciosa e também pelo ótimo atendimento.
+S: O restaurante é conhecido pela comida deliciosa. O restaurante é conhecido pelo ótimo atendimento.
+
+C: Ela gosta de chocolate e também de sorvete.
+S: Ela gosta de chocolate. Ela gosta de sorvete.
+
+C: Ele cantou no coro e também tocou violão na banda.
+S: Ele cantou no coro. Ele tocou violão na banda.
+
+C: O filme é emocionante, mas é muito longo.
+S: O filme é emocionante. O filme é muito longo.
+
+C: Ela estava cansada, mas foi mesmo assim.
+S: Ela estava cansada. Ela foi mesmo assim.
+
+C: Ele estuda história e também geografia.
+S: Ele estuda história. Ele estuda geografia.
+
+C: O time venceu a partida e comemorou muito.
+S: O time venceu a partida. O time comemorou muito.
+
+C: Ela estudou para a prova, mas não conseguiu passar.
+S: Ela estudou para a prova. Ela não conseguiu passar.
+
+C: O carro é azul e tem quatro portas.
+S: O carro é azul. O carro tem quatro portas.
+
+C: Ele acordou cedo e tomou café da manhã.
+S: Ele acordou cedo. Ele tomou café da manhã.
+
+C: O filme foi emocionante e fez todos chorarem.
+S: O filme foi emocionante. O filme fez todos chorarem.
+
+C: Ela foi ao supermercado e comprou comida.
+S: Ela foi ao supermercado. Ela comprou comida.
+
+C: Eles viajaram de avião e chegaram ao destino final.
+S: Eles viajaram de avião. Eles chegaram ao destino final.
+
+C: Elas correram no parque e depois descansaram.
+S: Elas correram no parque. Elas descansaram.
+
+C: Ele trabalha durante a semana e descansa nos finais de semana.
+S: Ele trabalha durante a semana. Ele descansa nos finais de semana.
+
+C: Nós estudamos muito e conseguimos passar na prova.
+S: Nós estudamos muito. Nós conseguimos passar na prova.
+
+C: A empresa contratou um novo gerente e aumentou seu investimento em marketing.
+S: A empresa contratou um novo gerente. A empresa aumentou seu investimento em marketing.
+
+C: O professor explicou a lição e tirou as dúvidas dos alunos.
+S: O professor explicou a lição. O professor tirou as dúvidas dos alunos.
+
+C: Ela estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ela estudou muito para a prova. Ela conseguiu tirar uma nota alta.
+
+C: O time marcou um gol nos minutos finais e garantiu a vitória.
+S: O time marcou um gol nos minutos finais. O time garantiu a vitória.
+
+C: Ele comprou uma casa nova e decorou todos os cômodos.
+S: Ele comprou uma casa nova. Ele decorou todos os cômodos.
+
+C: As crianças brincaram no parque e depois foram tomar sorvete.
+S: As crianças brincaram no parque. As crianças depois foram tomar sorvete.
+
+C: Ela fez uma viagem para a praia e aproveitou o sol e o mar.
+S: Ela fez uma viagem para a praia. Ela aproveitou o sol. Ela aproveitou o mar.
+
+C: O carro chegou atrasado e ainda estava sujo.
+S: O carro chegou atrasado. O carro ainda estava sujo.
+
+C: Ele é inteligente e esforçado, por isso sempre se destaca nos estudos.
+S: Ele é inteligente. Ele é esforçado. Por isso sempre se destaca nos estudos.
+
+C: Ela comprou uma blusa nova e combinou com uma saia de mesma cor.
+S: Ela comprou uma blusa nova. Ela combinou com uma saia de mesma cor.
+
+C: João comprou pão e Maria comprou leite.
+S: João comprou pão. Maria comprou leite.
+
+C: O carro está com problemas no motor e o freio não está funcionando corretamente.
+S: O carro está com problemas no motor. O carro freio não está funcionando corretamente.
+
+C: Pedro estudou matemática e Laura estudou história.
+S: Pedro estudou matemática. Laura estudou história.
+
+C: O filme é emocionante e tem uma ótima trilha sonora.
+S: O filme é emocionante. O filme tem uma ótima trilha sonora.
+
+C: O jogo foi cancelado porque choveu e o campo ficou alagado.
+S: O jogo foi cancelado porque choveu. O campo ficou alagado.
+
+C: Joana saiu para jantar com os amigos e voltou tarde da noite.
+S: Joana saiu para jantar com os amigos. Joana voltou tarde da noite.
+
+C: O cachorro é grande e tem o pelo macio.
+S: O cachorro é grande. O cachorro tem o pelo macio.
+
+C: O livro é interessante e tem uma bela capa.
+S: O livro é interessante. O livro tem uma bela capa.
+
+C: O time ganhou o campeonato e comemorou muito a vitória.
+S: O time ganhou o campeonato. O time comemorou muito a vitória.
+
+C: O restaurante serve comida japonesa e italiana.
+S: O restaurante serve comida japonesa. O restaurante serve comida italiana.
+
+C: Ele foi ao supermercado e comprou pão e leite.
+S: Ele foi ao supermercado. Ele comprou pão. Ele comprou leite.
+
+C: A festa foi ótima, mas estava muito cheia.
+S: A festa foi ótima. A festa estava muito cheia.
+
+C: Ela estudou muito para a prova e tirou uma nota alta.
+S: Ela estudou muito para a prova. Ela tirou uma nota alta.
+
+C: O filme foi emocionante, porém longo demais.
+S: O filme foi emocionante. O filme foi longo demais.
+
+C: Ele é inteligente e simpático.
+S: Ele é inteligente. Ele é simpático.
+
+C: Hoje está sol e calor.
+S: Hoje está sol. Hoje está calor.
+
+C: Ela cantou e dançou no palco.
+S: Ela cantou no palco. Ela dançou no palco.
+
+C: Ele viajou para a praia e descansou bastante.
+S: Ele viajou para a praia. Ele descansou bastante.
+
+C: Nós comemos pizza e batata frita para o jantar.
+S: Nós comemos pizza para o jantar. Nós comemos batata frita para o jantar.
+
+C: O livro é interessante, mas um pouco confuso.
+S: O livro é interessante. O livro é um pouco confuso.
+
+C: O time marcou dois gols no primeiro tempo, porém sofreu uma derrota no final da partida.
+S: O time marcou dois gols no primeiro tempo. O time sofreu uma derrota no final da partida.
+
+C: Ele estudou matemática durante toda a manhã e depois foi para a aula de ciências.
+S: Ele estudou matemática durante toda a manhã. Ele foi para a aula de ciências depois.
+
+C: Maria comprou um vestido novo e um par de sapatos para a festa.
+S: Maria comprou um vestido novo para a festa. Maria comprou um par de sapatos para a festa.
+
+C: O carro é preto, mas está precisando de uma lavagem.
+S: O carro é preto. O carro está precisando de uma lavagem.
+
+C: Janaina jogou basquete ontem à tarde e dormiu muito bem à noite.
+S: Janaina jogou basquete ontem à tarde. Janaina dormiu muito bem à noite.
+
+C: Marcos foi ao supermercado e comprou leite, pão e ovos.
+S: Marcos foi ao supermercado. Marcos comprou leite, pão e ovos.
+
+C: Pedro saiu para passear com o cachorro e depois foi para o parque.
+S: Pedro saiu para passear com o cachorro. Pedro foi para o parque depois.
+
+C: O livro é interessante, porém o final é um pouco decepcionante.
+S: O livro é interessante. O final é um pouco decepcionante.
+
+C: O sol estava brilhando, mas começou a chover de repente.
+S: O sol estava brilhando. Começou a chover de repente.
+
+C: Ana está trabalhando muito, mas ainda não conseguiu terminar o projeto.
+S: Ana está trabalhando muito. Ana ainda não conseguiu terminar o projeto.
+
+C: João comprou uma camiseta azul e uma calça jeans.
+    S: João comprou uma camiseta azul. João comprou uma calça jeans.
+
+C: Maria cantou uma música e dançou no palco.
+    S: Maria cantou uma música. Maria dançou no palco.
+
+C: Pedro chegou em casa e encontrou sua família reunida.
+    S: Pedro chegou em casa. Pedro encontrou sua família reunida.
+
+C: A empresa lançou um novo produto e anunciou um desconto especial.
+    S: A empresa lançou um novo produto. A empresa anunciou um desconto especial.
+
+C: Os amigos foram ao parque e brincaram de futebol.
+    S: Os amigos foram ao parque. Os amigos brincaram de futebol.
+
+C: O professor explicou a matéria e passou uma atividade.
+    S: O professor explicou a matéria. O professor passou uma atividade.
+
+C: Ana comprou frutas e legumes no mercado.
+    S: Ana comprou frutas. Ana comprou legumes no mercado.
+
+C: O casal viajou de avião e visitou vários países.
+    S: O casal viajou de avião. O casal visitou vários países.
+
+C: O carro quebrou no meio da estrada e o motorista chamou um guincho.
+    S: O carro quebrou no meio da estrada. O motorista chamou um guincho.
+
+C: O cachorro latiu e acordou toda a vizinhança.
+    S: O cachorro latiu. O cachorro acordou toda a vizinhança.
+
+C: A equipe de futebol do Brasil venceu o jogo por 3 a 0 e se classificou para a próxima fase.
+S: A equipe de futebol do Brasil venceu o jogo por 3 a 0. A equipe se classificou para a próxima fase.
+
+C: O aluno estudou muito para a prova e alcançou a nota máxima.
+S: O aluno estudou muito para a prova. O aluno alcançou a nota máxima.
+
+C: A casa é grande e possui um belo jardim.
+S: A casa é grande. A casa possui um belo jardim.
+
+C: Ela foi aprovada no concurso e agora tem um emprego estável.
+S: Ela foi aprovada no concurso. Ela agora tem um emprego estável.
+
+C: O livro é interessante e tem uma história envolvente.
+S: O livro é interessante. O livro tem uma história envolvente.
+
+C: O bolo é delicioso e foi feito com ingredientes naturais.
+S: O bolo é delicioso. O bolo foi feito com ingredientes naturais.
+
+C: Ele comprou uma casa nova e se mudou para um bairro tranquilo.
+S: Ele comprou uma casa nova. Ele se mudou para um bairro tranquilo.
+
+C: A cidade é famosa por suas praias paradisíacas e sua vida noturna agitada.
+S: A cidade é famosa por suas praias paradisíacas. A cidade é famosa por sua vida noturna agitada.
+
+C: O filme tem um elenco incrível e uma trama intrigante.
+S: O filme tem um elenco incrível. O filme tem uma trama intrigante.
+
+C: O restaurante serve pratos deliciosos e oferece um ótimo serviço.
+S: O restaurante serve pratos deliciosos. O restaurante oferece um ótimo serviço.
+
+C: A criança brincou no parque e pulou na piscina.
+S: A criança brincou no parque. A criança pulou na piscina.
+
+C: Ela gosta de música clássica e dança contemporânea.
+S: Ela gosta de música clássica. Ela gosta de dança contemporânea.
+
+C: O filme foi lançado no cinema e já está disponível em streaming.
+S: O filme foi lançado no cinema. O filme já está disponível em streaming.
+
+C: Ele estudou para a prova e tirou uma nota alta.
+S: Ele estudou para a prova. Ele tirou uma nota alta.
+
+C: A viagem foi cancelada e ele teve que remarcar todos os voos.
+S: A viagem foi cancelada. Ele teve que remarcar todos os voos.
+
+C: O time marcou um gol no último minuto e venceu a partida.
+S: O time marcou um gol no último minuto. O time venceu a partida.
+
+C: Ela comprou uma blusa nova e um par de sapatos.
+S: Ela comprou uma blusa nova. Ela comprou um par de sapatos.
+
+C: O livro foi lançado e já está na lista dos mais vendidos.
+S: O livro foi lançado. O livro já está na lista dos mais vendidos.
+
+C: Ele trabalha durante o dia e estuda à noite.
+S: Ele trabalha durante o dia. Ele estuda à noite.
+
+C: O restaurante oferece pratos vegetarianos e veganos.
+S: O restaurante oferece pratos vegetarianos. O restaurante oferece pratos veganos.
+
+C: A empresa lançou um novo produto e aumentou seu lucro.
+S: A empresa lançou um novo produto. A empresa aumentou seu lucro.
+
+C: O evento foi um sucesso e atraiu muitos participantes.
+S: O evento foi um sucesso. O evento atraiu muitos participantes.
+
+C: Ela estudou muito e conseguiu passar no exame.
+S: Ela estudou muito. Ela conseguiu passar no exame.
+
+C: O filme foi muito elogiado pelo público e fez grande sucesso de bilheteria.
+S: O filme foi muito elogiado pelo público. O filme fez grande sucesso de bilheteria.
+
+C: Ela comprou um carro novo e fez uma viagem incrível.
+S: Ela comprou um carro novo. Ela fez uma viagem incrível.
+
+C: Ele trabalhou duro e conquistou uma promoção.
+S: Ele trabalhou duro. Ele conquistou uma promoção.
+
+C: Eles se conheceram em uma festa e se tornaram bons amigos.
+S: Eles se conheceram em uma festa. Eles se tornaram bons amigos.
+
+C: O livro foi lançado em várias línguas e vendeu milhões de cópias.
+S: O livro foi lançado em várias línguas. O livro vendeu milhões de cópias.
+
+C: Ele comprou um presente para a irmã e fez uma surpresa.
+S: Ele comprou um presente para a irmã. Ele fez uma surpresa.
+
+C: Ela ganhou um prêmio e comemorou com a família.
+S: Ela ganhou um prêmio. Ela comemorou com a família.
+
+C: O time ganhou o jogo e comemorou a vitória.
+S: O time ganhou o jogo. O time comemorou a vitória.
+
+C: Eu fui ao mercado e comprei as frutas.
+S: Eu fui ao mercado. Eu comprei as frutas.
+
+C: Ela cantou uma música bonita e todos aplaudiram.
+S: Ela cantou uma música bonita. Todos aplaudiram.
+
+C: Ele estudou para a prova e tirou uma nota alta.
+S: Ele estudou para a prova. Ele tirou uma nota alta.
+
+C: O sol estava brilhando e o céu estava azul.
+S: O sol estava brilhando. O céu estava azul.
+
+C: Ele foi ao cinema e assistiu a um filme de ação.
+S: Ele foi ao cinema. Ele assistiu a um filme de ação.
+
+C: Ela comprou um vestido novo e usou no casamento.
+S: Ela comprou um vestido novo. Ela usou no casamento.
+
+C: O cachorro latiu e acordou todos os vizinhos.
+S: O cachorro latiu. O cachorro acordou todos os vizinhos.
+
+C: Ele levantou cedo e foi correr no parque.
+S: Ele levantou cedo. Ele foi correr no parque.
+
+C: Eles saíram para jantar e aproveitar a noite.
+S: Eles saíram para jantar. Eles aproveitaram a noite.
+
+C: O jogo estava muito disputado, mas o time da casa conseguiu marcar o gol da vitória.
+S: O jogo estava muito disputado. O time da casa conseguiu marcar o gol da vitória.
+
+C: Ela estudou muito para a prova e conseguiu uma excelente nota.
+S: Ela estudou muito para a prova. Ela conseguiu uma excelente nota.
+
+C: O governo anunciou um pacote de medidas econômicas para incentivar o crescimento do país e reduzir o desemprego.
+S: O governo anunciou um pacote de medidas econômicas para incentivar o crescimento do país. O governo anunciou um pacote de medidas econômicas para reduzir o desemprego.
+
+C: Ele comprou uma nova casa e também um carro novo.
+S: Ele comprou uma nova casa. Ele comprou um carro novo.
+
+C: Ela viajou para Paris e aproveitou para conhecer outros países da Europa.
+S: Ela viajou para Paris. Ela aproveitou para conhecer outros países da Europa.
+
+C: O projeto foi aprovado pela equipe técnica e será apresentado ao comitê de aprovação.
+S: O projeto foi aprovado pela equipe técnica. O projeto será apresentado ao comitê de aprovação.
+
+C: Ele estudou para a prova e fez anotações importantes durante a aula.
+S: Ele estudou para a prova. Ele fez anotações importantes durante a aula.
+
+C: O professor explicou a matéria e tirou todas as dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou todas as dúvidas dos alunos.
+
+C: Ela fez compras no mercado e preparou um delicioso jantar para a família.
+S: Ela fez compras no mercado. Ela preparou um delicioso jantar para a família.
+
+C: O presidente discursou sobre as conquistas do governo e agradeceu o apoio da população.
+S: O presidente discursou sobre as conquistas do governo. O presidente agradeceu o apoio da população.
+
+C: O show foi um sucesso e o público aplaudiu de pé.
+S: O show foi um sucesso. O público aplaudiu de pé.
+
+C: Ele estudou muito para o teste e tirou a nota máxima.
+S: Ele estudou muito para o teste. Ele tirou a nota máxima.
+
+C: Compramos os ingressos e chegamos ao cinema a tempo.
+S: Compramos os ingressos. Chegamos ao cinema a tempo.
+
+C: Ela fez a reserva do hotel e alugou um carro para a viagem.
+S: Ela fez a reserva do hotel. Ela alugou um carro para a viagem.
+
+C: Os convidados dançaram e se divertiram durante a festa.
+S: Os convidados dançaram. Os convidados se divertiram durante a festa.
+
+C: Ele comprou as passagens e fez as malas para a viagem.
+S: Ele comprou as passagens. Ele fez as malas para a viagem.
+
+C: Ela cantou a música e encantou a plateia com sua voz.
+S: Ela cantou a música. Ela encantou a plateia com sua voz.
+
+C: Ele limpou a casa e arrumou o jardim antes da chegada dos convidados.
+S: Ele limpou a casa. Ele arrumou o jardim antes da chegada dos convidados.
+
+C: Eles se conheceram no trabalho e depois começaram a namorar.
+S: Eles se conheceram no trabalho. Eles começaram a namorar.
+
+C: Ela comprou os ingredientes e preparou um delicioso jantar.
+S: Ela comprou os ingredientes. Ela preparou um delicioso jantar.
+
+C: O governo anunciou um aumento de impostos e a redução de gastos públicos.
+S: O governo anunciou um aumento de impostos. O governo anunciou a redução de gastos públicos.
+
+C: Meu pai comprou um carro novo e minha mãe ganhou um prêmio na loteria.
+S: Meu pai comprou um carro novo. Minha mãe ganhou um prêmio na loteria.
+
+C: O time marcou um gol no primeiro tempo e outro no segundo tempo.
+S: O time marcou um gol no primeiro tempo. O time marcou outro gol no segundo tempo.
+
+C: Eu estudei para a prova de matemática e para a prova de história.
+S: Eu estudei para a prova de matemática. Eu estudei para a prova de história.
+
+C: Ela fez uma viagem para Paris e outra para Londres.
+S: Ela fez uma viagem para Paris. Ela fez outra viagem para Londres.
+
+C: Ele comprou uma camisa nova e um par de sapatos novos.
+S: Ele comprou uma camisa nova. Ele comprou um par de sapatos novos.
+
+C: O filme teve uma grande bilheteria e recebeu críticas positivas.
+S: O filme teve uma grande bilheteria. O filme recebeu críticas positivas.
+
+C: Eu comi uma pizza inteira e ainda pedi uma sobremesa.
+S: Eu comi uma pizza inteira. Eu pedi uma sobremesa.
+
+C: Eles estudaram para a prova de inglês e para a prova de ciências.
+S: Eles estudaram para a prova de inglês. Eles estudaram para a prova de ciências.
+
+C: Ela comprou uma casa nova e reformou o apartamento antigo.
+S: Ela comprou uma casa nova. Ela reformou o apartamento antigo.
+
+C: A empresa lançou um novo produto e espera aumentar suas vendas.
+S: A empresa lançou um novo produto. A empresa espera aumentar suas vendas.
+
+C: O jogador marcou um gol e foi aplaudido pela torcida.
+S: O jogador marcou um gol. O jogador foi aplaudido pela torcida.
+
+C: A cantora lançou seu novo álbum e já está fazendo sucesso nas rádios.
+S: A cantora lançou seu novo álbum. A cantora já está fazendo sucesso nas rádios.
+
+C: O casal comprou uma casa nova e está se mudando no próximo mês.
+S: O casal comprou uma casa nova. O casal está se mudando no próximo mês.
+
+C: A professora deu uma aula interessante e os alunos prestaram atenção em cada palavra.
+S: A professora deu uma aula interessante. Os alunos prestaram atenção em cada palavra.
+
+C: O filme foi indicado ao Oscar e os atores estão muito felizes.
+S: O filme foi indicado ao Oscar. Os atores estão muito felizes.
+
+C: A empresa venceu uma licitação importante e agora terá mais projetos para desenvolver.
+S: A empresa venceu uma licitação importante. A empresa agora terá mais projetos para desenvolver.
+
+C: O governador assinou uma lei polêmica e gerou muitas críticas da oposição.
+S: O governador assinou uma lei polêmica. O governador gerou muitas críticas da oposição.
+
+C: O time de futebol ganhou o campeonato e comemorou com uma festa no estádio.
+S: O time de futebol ganhou o campeonato. O time comemorou com uma festa no estádio.
+
+C: A banda lançou um novo álbum e está fazendo uma turnê pelo país.
+S: A banda lançou um novo álbum. A banda está fazendo uma turnê pelo país.
+
+C: O time venceu todas as partidas e conquistou o campeonato.
+S: O time venceu todas as partidas. O time conquistou o campeonato.
+
+C: O carro é novo e possui ar condicionado.
+S: O carro é novo. O carro possui ar condicionado.
+
+C: Ele estudou muito e tirou a nota máxima na prova.
+S: Ele estudou muito. Ele tirou a nota máxima na prova.
+
+C: Fizemos uma compra online e recebemos o produto rapidamente.
+S: Fizemos uma compra online. Recebemos o produto rapidamente.
+
+C: Ele é inteligente e dedicado aos estudos.
+S: Ele é inteligente. Ele é dedicado aos estudos.
+
+C: Ela gosta de ler livros e assistir filmes.
+S: Ela gosta de ler livros. Ela gosta de assistir filmes.
+
+C: O restaurante serve comida italiana e francesa.
+S: O restaurante serve comida italiana. O restaurante serve comida francesa.
+
+C: Ele mora perto do trabalho e vai a pé todos os dias.
+S: Ele mora perto do trabalho. Ele vai a pé todos os dias.
+
+C: Ela comprou roupas novas e sapatos novos.
+S: Ela comprou roupas novas. Ela comprou sapatos novos.
+
+C: Ele viajou para o Brasil e visitou várias cidades.
+S: Ele viajou para o Brasil. Ele visitou várias cidades.
+
+C: Ela estudou para a prova de matemática e tirou uma nota alta.
+S: Ela estudou para a prova de matemática. Ela tirou uma nota alta.
+
+C: O cachorro latiu e acordou todos os vizinhos.
+S: O cachorro latiu. O cachorro acordou todos os vizinhos.
+
+C: O restaurante fica perto da praia e é muito popular entre os turistas.
+S: O restaurante fica perto da praia. O restaurante é muito popular entre os turistas.
+
+C: A mãe foi ao supermercado e comprou todos os itens da lista.
+S: A mãe foi ao supermercado. A mãe comprou todos os itens da lista.
+
+C: O filme ganhou o prêmio de Melhor Roteiro e de Melhor Ator.
+S: O filme ganhou o prêmio de Melhor Roteiro. O filme ganhou o prêmio de Melhor Ator.
+
+C: João saiu de casa correndo e pegou o ônibus a tempo.
+S: João saiu de casa correndo. João pegou o ônibus a tempo.
+
+C: Ela ligou para o namorado e disse que estava atrasada para o jantar.
+S: Ela ligou para o namorado. Ela disse que estava atrasada para o jantar.
+
+C: O professor explicou a matéria e deu vários exemplos.
+S: O professor explicou a matéria. O professor deu vários exemplos.
+
+C: O time treinou duro e venceu o campeonato.
+S: O time treinou duro. O time venceu o campeonato.
+
+C: O carro quebrou no meio da estrada e eles tiveram que chamar um guincho.
+S: O carro quebrou no meio da estrada. Eles tiveram que chamar um guincho.
+
+C: A empresa lançou um novo produto no mercado e esperava aumentar suas vendas.
+S: A empresa lançou um novo produto no mercado. A empresa esperava aumentar suas vendas.
+
+C: O time treinou com afinco para a partida de domingo e estava confiante em sua vitória.
+S: O time treinou com afinco para a partida de domingo. O time estava confiante em sua vitória.
+
+C: O estudante fez todas as tarefas, estudou para a prova e mesmo assim não obteve uma boa nota.
+S: O estudante fez todas as tarefas. O estudante estudou para a prova. O estudante mesmo assim não obteve uma boa nota.
+
+C: O funcionário chegou atrasado, pediu desculpas ao chefe e prometeu ser mais pontual futuramente.
+S: O funcionário chegou atrasado. O funcionário pediu desculpas ao chefe. O funcionário prometeu ser mais pontual futuramente.
+
+C: O casal viajou para Paris, fez um passeio de barco pelo Rio Sena e visitou as principais atrações turísticas.
+S: O casal viajou para Paris. O casal fez um passeio de barco pelo Rio Sena. O casal visitou as principais atrações turísticas.
+
+C: A aluna estudou para a prova, tirou uma boa nota e ficou satisfeita com seu desempenho.
+S: A aluna estudou para a prova. A aluna tirou uma boa nota. A aluna ficou satisfeita com seu desempenho.
+
+C: O paciente seguiu todas as indicações do médico, fez os exames solicitados e voltou para uma consulta de acompanhamento.
+S: O paciente seguiu todas as indicações do médico. O paciente fez os exames solicitados. O paciente voltou para uma consulta de acompanhamento.
+
+C: O atleta treinou duro, adotou uma alimentação saudável e conseguiu melhorar seu desempenho esportivo.
+S: O atleta treinou duro. O atleta adotou uma alimentação saudável. O atleta conseguiu melhorar seu desempenho esportivo.
+
+C: O filme foi aclamado pela crítica, recebeu várias premiações e atraiu um grande público aos cinemas.
+S: O filme foi aclamado pela crítica. O filme recebeu várias premiações. O filme atraiu um grande público aos cinemas.
+
+C: A equipe de marketing desenvolveu uma campanha publicitária, lançou-a nas redes sociais e alcançou milhares de visualizações.
+S: A equipe de marketing desenvolveu uma campanha publicitária. A equipe de marketing lançou-a nas redes sociais. A equipe de marketing alcançou milhares de visualizações.
+
+C: Ela comprou uma nova casa e contratou um arquiteto para reformá-la.
+S: Ela comprou uma nova casa. Ela contratou um arquiteto para reformá-la.
+
+C: O ator fez um discurso emocionante e recebeu uma grande ovação do público.
+S: O ator fez um discurso emocionante. O ator recebeu uma grande ovação do público.
+
+C: A empresa lançou um novo produto e divulgou-o nas redes sociais.
+S: A empresa lançou um novo produto. A empresa divulgou-o nas redes sociais.
+
+C: Ele estudou muito para a prova e tirou a melhor nota da turma.
+S: Ele estudou muito para a prova. Ele tirou a melhor nota da turma.
+
+C: O cantor compôs uma nova música e gravou-a em estúdio.
+S: O cantor compôs uma nova música. O cantor gravou-a em estúdio.
+
+C: Ela fez uma viagem incrível e registrou todos os momentos em fotos.
+S: Ela fez uma viagem incrível. Ela registrou todos os momentos em fotos.
+
+C: O time ganhou o campeonato e comemorou a vitória com uma festa animada.
+S: O time ganhou o campeonato. O time comemorou a vitória com uma festa animada.
+
+C: O livro foi lançado e recebeu críticas positivas da imprensa.
+S: O livro foi lançado. O livro recebeu críticas positivas da imprensa.
+
+C: Ele ganhou na loteria e decidiu viajar ao redor do mundo.
+S: Ele ganhou na loteria. Ele decidiu viajar ao redor do mundo.
+
+C: Ela entrou na universidade e iniciou o curso de Direito.
+S: Ela entrou na universidade. Ela iniciou o curso de Direito.
+
+C: A empresa contratou novos funcionários e abriu uma filial em outra cidade.
+S: A empresa contratou novos funcionários. A empresa abriu uma filial em outra cidade.
+
+C: Ele foi promovido e recebeu um aumento salarial.
+S: Ele foi promovido. Ele recebeu um aumento salarial.
+
+C: Ela comprou uma casa nova e fez uma reforma completa.
+S: Ela comprou uma casa nova. Ela fez uma reforma completa.
+
+C: O time de futebol venceu o campeonato e comemorou a vitória.
+S: O time de futebol venceu o campeonato. O time comemorou a vitória.
+
+C: O professor explicou a lição e passou uma lista de exercícios.
+S: O professor explicou a lição. O professor passou uma lista de exercícios.
+
+C: Ele estudou para a prova e conseguiu uma boa nota.
+S: Ele estudou para a prova. Ele conseguiu uma boa nota.
+
+C: Ela comprou uma passagem de avião e reservou um hotel para as férias.
+S: Ela comprou uma passagem de avião. Ela reservou um hotel para as férias.
+
+C: Eles se casaram e viajaram em lua de mel.
+S: Eles se casaram. Eles viajaram em lua de mel.
+
+C: Os alunos fizeram um trabalho em grupo e apresentaram para a turma.
+S: Os alunos fizeram um trabalho em grupo. Os alunos apresentaram para a turma.
+
+C: Ele ligou para a mãe e desejou feliz aniversário.
+S: Ele ligou para a mãe. Ele desejou feliz aniversário.
+
+C: A professora explicou a matéria e passou exercícios para os alunos resolverem.
+S: A professora explicou a matéria. A professora passou exercícios para os alunos resolverem.
+
+C: Ele comprou uma nova casa e reformou todo o interior.
+S: Ele comprou uma nova casa. Ele reformou todo o interior.
+
+C: O time de futebol ganhou o campeonato e comemorou a vitória no estádio.
+S: O time de futebol ganhou o campeonato. O time comemorou a vitória no estádio.
+
+C: João estudou muito para a prova e tirou uma nota alta.
+S: João estudou muito para a prova. João tirou uma nota alta.
+
+C: O restaurante serve pratos deliciosos e tem um ambiente acolhedor.
+S: O restaurante serve pratos deliciosos. O restaurante tem um ambiente acolhedor.
+
+C: Maria foi ao shopping e comprou roupas novas.
+S: Maria foi ao shopping. Maria comprou roupas novas.
+
+C: O avião decolou do aeroporto e voou para o destino sem problemas.
+S: O avião decolou do aeroporto. O avião voou para o destino sem problemas.
+
+C: O cachorro latiu muito e acordou todo mundo da casa.
+S: O cachorro latiu muito. O cachorro acordou todo mundo da casa.
+
+C: Ana e Pedro foram ao cinema e assistiram um filme de ação.
+S: Ana e Pedro foram ao cinema. Ana e Pedro assistiram um filme de ação.
+
+C: A festa foi animada e durou até altas horas da madrugada.
+S: A festa foi animada. A festa durou até altas horas da madrugada.
+
+C: O time ganhou o campeonato e comemorou a vitória com muita festa.
+S: O time ganhou o campeonato. O time comemorou a vitória com muita festa.
+
+C: Eu acordei cedo e me preparei para o dia de trabalho.
+S: Eu acordei cedo. Eu me preparei para o dia de trabalho.
+
+C: Ela estudou para a prova e conseguiu tirar uma nota alta.
+S: Ela estudou para a prova. Ela conseguiu tirar uma nota alta.
+
+C: Fui ao supermercado e comprei todos os ingredientes para fazer o jantar.
+S: Fui ao supermercado. Fui comprar todos os ingredientes para fazer o jantar.
+
+C: Você pode ir ao cinema e eu fico em casa assistindo televisão.
+S: Você pode ir ao cinema. Eu fico em casa assistindo televisão.
+
+C: Ele trabalha de dia e estuda à noite.
+S: Ele trabalha de dia. Ele estuda à noite.
+
+C: O sol estava brilhando e o céu estava claro.
+S: O sol estava brilhando. O céu estava claro.
+
+C: Eles viajaram para a praia e passaram o final de semana relaxando na areia.
+S: Eles viajaram para a praia. Eles passaram o final de semana relaxando na areia.
+
+C: Ela comprou um novo carro e saiu para dar uma volta pela cidade.
+S: Ela comprou um novo carro. Ela saiu para dar uma volta pela cidade.
+
+C: Eu estudei o dia todo e terminei todas as minhas tarefas.
+S: Eu estudei o dia todo. Eu terminei todas as minhas tarefas.
+
+C: A casa está bagunçada e suja, então precisamos limpar.
+S: A casa está bagunçada. A casa está suja. Precisamos limpar.
+
+C: Quero comer pizza e assistir um filme.
+S: Quero comer pizza. Quero assistir um filme.
+
+C: Ele estudou história e se formou em direito.
+S: Ele estudou história. Ele se formou em direito.
+
+C: Ela comprou uma blusa nova e um par de sapatos.
+S: Ela comprou uma blusa nova. Ela comprou um par de sapatos.
+
+C: O carro quebrou e precisamos chamar um guincho.
+S: O carro quebrou. Precisamos chamar um guincho.
+
+C: O sol brilhava no céu e as flores estavam bonitas.
+S: O sol brilhava no céu. As flores estavam bonitas.
+
+C: Ele correu no parque e nadou na piscina.
+S: Ele correu no parque. Ele nadou na piscina.
+
+C: Ela cozinha muito bem e adora experimentar novas receitas.
+S: Ela cozinha muito bem. Ela adora experimentar novas receitas.
+
+C: O cachorro latiu alto e pulou no sofá.
+S: O cachorro latiu alto. O cachorro pulou no sofá.
+
+C: Ele acordou tarde e perdeu o ônibus para o trabalho.
+S: Ele acordou tarde. Ele perdeu o ônibus para o trabalho.
+
+C: João comprou uma casa nova e Maria alugou um apartamento.
+S: João comprou uma casa nova. Maria alugou um apartamento.
+
+C: O time ganhou o campeonato e o treinador foi aplaudido pela torcida.
+S: O time ganhou o campeonato. O treinador foi aplaudido pela torcida.
+
+C: Ana estudou bastante para a prova e tirou uma boa nota.
+S: Ana estudou bastante para a prova. Ana tirou uma boa nota.
+
+C: O restaurante oferece pratos deliciosos e aconchegantes.
+S: O restaurante oferece pratos deliciosos. O restaurante oferece pratos aconchegantes.
+
+C: O filme foi premiado no festival e recebeu críticas positivas da imprensa.
+S: O filme foi premiado no festival. O filme recebeu críticas positivas da imprensa.
+
+C: O cachorro latiu e o gato correu para se esconder.
+S: O cachorro latiu. O gato correu para se esconder.
+
+C: A empresa lançou um novo produto e aumentou suas vendas.
+S: A empresa lançou um novo produto. A empresa aumentou suas vendas.
+
+C: O professor explicou a teoria e os alunos fizeram exercícios práticos.
+S: O professor explicou a teoria. Os alunos fizeram exercícios práticos.
+
+C: Os pais levaram as crianças ao parque e as deixaram brincar livremente.
+S: Os pais levaram as crianças ao parque. Os pais deixaram as crianças brincar livremente.
+
+C: A música tocou e todos começaram a dançar.
+S: A música tocou. Todos começaram a dançar.
+
+C: A empresa lançou um novo produto no mercado e espera aumentar suas vendas.
+S: A empresa lançou um novo produto no mercado. A empresa espera aumentar suas vendas.
+
+C: Maria fez uma viagem para a praia e aproveitou para descansar.
+S: Maria fez uma viagem para a praia. Maria aproveitou para descansar.
+
+C: O time de futebol venceu o jogo e comemorou a vitória.
+S: O time de futebol venceu o jogo. O time comemorou a vitória.
+
+C: João estuda e trabalha para garantir seu futuro.
+S: João estuda. João trabalha para garantir seu futuro.
+
+C: Os alunos estudam para as provas e se esforçam para obter boas notas.
+S: Os alunos estudam para as provas. Os alunos se esforçam para obter boas notas.
+
+C: Ela cozinhou um delicioso jantar e convidou os amigos para comerem juntos.
+S: Ela cozinhou um delicioso jantar. Ela convidou os amigos para comerem juntos.
+
+C: O motorista estava cansado e dormiu no volante.
+S: O motorista estava cansado. O motorista dormiu no volante.
+
+C: O professor explicou a matéria e tirou as dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou as dúvidas dos alunos.
+
+C: O time de basquete treinou intensamente e venceu o campeonato.
+S: O time de basquete treinou intensamente. O time venceu o campeonato.
+
+C: Eles foram ao cinema e assistiram a um filme incrível.
+S: Eles foram ao cinema. Eles assistiram a um filme incrível.
+
+C: Ela comprou uma camisa nova e também um par de sapatos.
+S: Ela comprou uma camisa nova. Ela comprou também um par de sapatos.
+
+C: O professor explicou a matéria e depois passou um exercício.
+S: O professor explicou a matéria. O professor depois passou um exercício.
+
+C: Maria saiu para trabalhar e deixou o filho na creche.
+S: Maria saiu para trabalhar. Maria deixou o filho na creche.
+
+C: João foi ao supermercado e comprou comida para o jantar.
+S: João foi ao supermercado. João comprou comida para o jantar.
+
+C: O casamento aconteceu na igreja e a festa foi na casa dos noivos.
+S: O casamento aconteceu na igreja. A festa foi na casa dos noivos.
+
+C: A professora explicou o conteúdo e deu uma revisão para a prova.
+S: A professora explicou o conteúdo. A professora deu uma revisão para a prova.
+
+C: Pedro caminhou até a padaria e comprou pão para o café da manhã.
+S: Pedro caminhou até a padaria. Pedro comprou pão para o café da manhã.
+
+C: Ana ligou para o médico e marcou uma consulta para a próxima semana.
+S: Ana ligou para o médico. Ana marcou uma consulta para a próxima semana.
+
+C: O time fez um gol e comemorou com a torcida.
+S: O time fez um gol. O time comemorou com a torcida.
+
+C: O filme começou às 19h e terminou às 21h.
+S: O filme começou às 19h. O filme terminou às 21h.
+
+C: João estudou para a prova e conseguiu uma nota alta.
+S: João estudou para a prova. João conseguiu uma nota alta.
+
+C: A comida estava deliciosa e o ambiente estava agradável.
+S: A comida estava deliciosa. O ambiente estava agradável.
+
+C: Ele correu para pegar o ônibus, mas o motorista fechou a porta na sua frente.
+S: Ele correu para pegar o ônibus. O motorista fechou a porta na sua frente.
+
+C: Marta comprou um novo vestido e também adquiriu um par de sapatos novos.
+S: Marta comprou um novo vestido. Marta adquiriu um par de sapatos novos.
+
+C: Ele pediu um cappuccino com chantilly e uma fatia de bolo de chocolate.
+S: Ele pediu um cappuccino com chantilly. Ele pediu uma fatia de bolo de chocolate.
+
+C: Carlos é estudante de medicina e trabalha meio período como garçom.
+S: Carlos é estudante de medicina. Carlos trabalha meio período como garçom.
+
+C: Passei o dia no parque e depois fui jantar com meus amigos.
+S: Passei o dia no parque. Depois fui jantar com meus amigos.
+
+C: Ela teve um bebê e decidiu tirar uma licença maternidade.
+S: Ela teve um bebê. Ela decidiu tirar uma licença maternidade.
+
+C: Maria saiu para correr e voltou para casa tarde da noite.
+S: Maria saiu para correr. Maria voltou para casa tarde da noite.
+
+C: Ele ligou para o médico e marcou uma consulta para a semana que vem.
+S: Ele ligou para o médico. Ele marcou uma consulta para a semana que vem.
+
+C: A empresa lançou um novo produto e investiu em marketing para divulgá-lo.
+S: A empresa lançou um novo produto. A empresa investiu em marketing para divulgá-lo.
+
+C: Ele estudou muito para a prova e conseguiu uma nota alta.
+S: Ele estudou muito para a prova. Ele conseguiu uma nota alta.
+
+C: Maria comprou uma casa nova e está feliz com a conquista.
+S: Maria comprou uma casa nova. Maria está feliz com a conquista.
+
+C: Os alunos entregaram o trabalho dentro do prazo e receberam elogios do professor.
+S: Os alunos entregaram o trabalho dentro do prazo. Os alunos receberam elogios do professor.
+
+C: Carlos saiu para jantar com os amigos e voltou tarde para casa.
+S: Carlos saiu para jantar com os amigos. Carlos voltou tarde para casa.
+
+C: O time marcou um gol nos minutos finais e venceu a partida.
+S: O time marcou um gol nos minutos finais. O time venceu a partida.
+
+C: João comprou um carro novo e agora pode viajar com mais conforto.
+S: João comprou um carro novo. João agora pode viajar com mais conforto.
+
+C: Paula preparou um jantar especial e convidou os vizinhos para comemorar.
+S: Paula preparou um jantar especial. Paula convidou os vizinhos para comemorar.
+
+C: O projeto foi aprovado e será implementado nas próximas semanas.
+S: O projeto foi aprovado. O projeto será implementado nas próximas semanas.
+
+C: A empresa contratou novos funcionários e precisa treiná-los para as novas tarefas.
+S: A empresa contratou novos funcionários. A empresa precisa treiná-los para as novas tarefas.
+
+C: O jogador marcou um gol e comemorou com os companheiros de equipe.
+S: O jogador marcou um gol. O jogador comemorou com os companheiros de equipe.
+
+C: O professor explicou a matéria e passou uma atividade para os alunos.
+S: O professor explicou a matéria. O professor passou uma atividade para os alunos.
+
+C: O time treinou duro e conquistou a vitória no jogo.
+S: O time treinou duro. O time conquistou a vitória no jogo.
+
+C: O cantor lançou um novo álbum e foi muito elogiado pela crítica.
+S: O cantor lançou um novo álbum. O cantor foi muito elogiado pela crítica.
+
+C: A empresa contratou novos funcionários e está expandindo seu negócio.
+S: A empresa contratou novos funcionários. A empresa está expandindo seu negócio.
+
+C: Os estudantes estudaram para a prova e tiraram notas altas.
+S: Os estudantes estudaram para a prova. Os estudantes tiraram notas altas.
+
+C: O casal comprou uma casa nova e está se mudando neste fim de semana.
+S: O casal comprou uma casa nova. O casal está se mudando neste fim de semana.
+
+C: A criança comeu todos os legumes e ganhou uma sobremesa como recompensa.
+S: A criança comeu todos os legumes. A criança ganhou uma sobremesa como recompensa.
+
+C: O político fez um discurso inspirador e conquistou o apoio de muitos eleitores.
+S: O político fez um discurso inspirador. O político conquistou o apoio de muitos eleitores.
+
+C: O time perdeu a primeira partida e está determinado a ganhar a próxima.
+S: O time perdeu a primeira partida. O time está determinado a ganhar a próxima.
+
+C: A empresa lançou um novo produto no mercado e espera um aumento significativo nas vendas.
+S: A empresa lançou um novo produto no mercado. A empresa espera um aumento significativo nas vendas.
+
+C: João chegou atrasado na reunião e pediu desculpas pelo ocorrido.
+S: João chegou atrasado na reunião. João pediu desculpas pelo ocorrido.
+
+C: A professora explicou a matéria em sala de aula e deixou os alunos fazerem perguntas.
+S: A professora explicou a matéria em sala de aula. A professora deixou os alunos fazerem perguntas.
+
+C: Meu pai comprou um carro novo e agora podemos viajar com mais conforto.
+S: Meu pai comprou um carro novo. Agora podemos viajar com mais conforto.
+
+C: Ele foi promovido no trabalho e recebeu um aumento no salário.
+S: Ele foi promovido no trabalho. Ele recebeu um aumento no salário.
+
+C: Fomos ao cinema e assistimos a um filme muito bom.
+S: Fomos ao cinema. Assistimos a um filme muito bom.
+
+C: O cachorro late toda vez que alguém passa na rua e assusta as crianças.
+S: O cachorro late toda vez que alguém passa na rua. O cachorro assusta as crianças.
+
+C: Ela comprou uma nova televisão para a sala e agora podemos assistir aos programas favoritos em uma tela maior.
+S: Ela comprou uma nova televisão para a sala. Agora podemos assistir aos programas favoritos em uma tela maior.
+
+C: Ele fez um pedido de desculpas pela atitude e prometeu mudar seu comportamento.
+S: Ele fez um pedido de desculpas pela atitude. Ele prometeu mudar seu comportamento.
+
+C: A empresa criou um novo departamento e contratou mais funcionários para atender à demanda.
+S: A empresa criou um novo departamento. A empresa contratou mais funcionários para atender à demanda.
+
+C: A casa estava silenciosa e escura.
+S: A casa estava silenciosa. A casa estava escura.
+
+C: Maria comprou uma camisa nova e um par de sapatos novos.
+S: Maria comprou uma camisa nova. Maria comprou um par de sapatos novos.
+
+C: O carro era azul e tinha um arranhão na porta.
+S: O carro era azul. O carro tinha um arranhão na porta.
+
+C: João estudou matemática e física para a prova.
+S: João estudou matemática. João estudou física para a prova.
+
+C: O professor explicou a matéria e passou exercícios para os alunos.
+S: O professor explicou a matéria. O professor passou exercícios para os alunos.
+
+C: A festa foi animada e durou até altas horas da madrugada.
+S: A festa foi animada. A festa durou até altas horas da madrugada.
+
+C: Os jogadores fizeram uma bela jogada e marcaram o gol da vitória.
+S: Os jogadores fizeram uma bela jogada. Os jogadores marcaram o gol da vitória.
+
+C: O filme tinha uma história intrigante e efeitos especiais impressionantes.
+S: O filme tinha uma história intrigante. O filme tinha efeitos especiais impressionantes.
+
+C: O restaurante servia comida italiana e francesa.
+S: O restaurante servia comida italiana. O restaurante servia comida francesa.
+
+C: A reunião discutiu os resultados do trimestre e planejou as metas para o próximo.
+S: A reunião discutiu os resultados do trimestre. A reunião planejou as metas para o próximo.
+
+C: O político fez um discurso inflamado e prometeu mudanças radicais.
+S: O político fez um discurso inflamado. O político prometeu mudanças radicais.
+
+C: A população está insatisfeita com os altos índices de desemprego e a falta de segurança.
+S: A população está insatisfeita com os altos índices de desemprego. A população está insatisfeita com a falta de segurança.
+
+C: A reunião foi longa e produtiva.
+S: A reunião foi longa. A reunião foi produtiva.
+
+C: A empresa está em crescimento e expandindo para novos mercados.
+S: A empresa está em crescimento. A empresa está expandindo para novos mercados.
+
+C: A reforma do sistema de saúde é urgente e necessária.
+S: A reforma do sistema de saúde é urgente. A reforma do sistema de saúde é necessária.
+
+C: O projeto foi aprovado e será implementado imediatamente.
+S: O projeto foi aprovado. O projeto será implementado imediatamente.
+
+C: O atleta treinou intensamente e conquistou a medalha de ouro.
+S: O atleta treinou intensamente. O atleta conquistou a medalha de ouro.
+
+C: O país está enfrentando uma crise econômica e política.
+S: O país está enfrentando uma crise econômica. O país está enfrentando uma crise política.
+
+C: O livro é interessante e bem escrito.
+S: O livro é interessante. O livro é bem escrito.
+
+C: O filme foi aclamado pela crítica e fez sucesso de bilheteria.
+S: O filme foi aclamado pela crítica. O filme fez sucesso de bilheteria.
+
+C: Eu gosto de ir ao cinema e também de assistir séries em casa.
+S: Eu gosto de ir ao cinema. Eu gosto de assistir séries em casa.
+
+C: Ele estudou muito para a prova e mesmo assim não conseguiu uma boa nota.
+S: Ele estudou muito para a prova. Ele mesmo assim não conseguiu uma boa nota.
+
+C: Nós saímos para jantar e depois fomos ao teatro.
+S: Nós saímos para jantar. Nós depois fomos ao teatro.
+
+C: Eu comprei leite e pão no mercado.
+S: Eu comprei leite. Eu comprei pão no mercado.
+
+C: Ele trabalha durante o dia e estuda à noite.
+S: Ele trabalha durante o dia. Ele estuda à noite.
+
+C: Ela cantou uma música triste e emocionou a plateia.
+S: Ela cantou uma música triste. Ela emocionou a plateia.
+
+C: Eles foram ao parque de diversões e se divertiram muito.
+S: Eles foram ao parque de diversões. Eles se divertiram muito.
+
+C: Nós viajamos para a praia e aproveitamos o sol.
+S: Nós viajamos para a praia. Nós aproveitamos o sol.
+
+C: Ele saiu correndo e deixou a porta aberta.
+S: Ele saiu correndo. Ele deixou a porta aberta.
+
+C: Ela comprou uma blusa nova e uma saia.
+S: Ela comprou uma blusa nova. Ela comprou uma saia.
+
+C: O filme teve uma ótima bilheteria e recebeu críticas positivas da imprensa especializada.
+S: O filme teve uma ótima bilheteria. O filme recebeu críticas positivas da imprensa especializada.
+
+C: Ela estudou durante toda a noite e conseguiu tirar uma nota alta na prova.
+S: Ela estudou durante toda a noite. Ela conseguiu tirar uma nota alta na prova.
+
+C: O trabalho foi entregue antes do prazo e ainda estava bem feito.
+S: O trabalho foi entregue antes do prazo. O trabalho estava bem feito.
+
+C: Ele comprou uma camisa nova e uma calça jeans no shopping.
+S: Ele comprou uma camisa nova. Ele comprou uma calça jeans no shopping.
+
+C: O restaurante serve pratos vegetarianos e pratos sem glúten.
+S: O restaurante serve pratos vegetarianos. O restaurante serve pratos sem glúten.
+
+C: Ela estuda inglês e francês na faculdade.
+S: Ela estuda inglês na faculdade. Ela estuda francês na faculdade.
+
+C: O livro foi publicado no Brasil e em outros países.
+S: O livro foi publicado no Brasil. O livro foi publicado em outros países.
+
+C: Ele perdeu o emprego e decidiu começar a trabalhar como freelancer.
+S: Ele perdeu o emprego. Ele decidiu começar a trabalhar como freelancer.
+
+C: Ela comprou uma maçã e uma laranja na feira.
+S: Ela comprou uma maçã na feira. Ela comprou uma laranja na feira.
+
+C: Eles assistiram a um filme e depois foram jantar.
+S: Eles assistiram a um filme. Eles foram jantar depois.
+
+C: O time venceu o campeonato e comemorou a vitória no estádio.
+S: O time venceu o campeonato. O time comemorou a vitória no estádio.
+
+C: João estudou durante toda a madrugada e conseguiu passar na prova.
+S: João estudou durante toda a madrugada. João conseguiu passar na prova.
+
+C: O restaurante serve comida italiana e também oferece opções vegetarianas.
+S: O restaurante serve comida italiana. O restaurante também oferece opções vegetarianas.
+
+C: Maria comprou uma casa nova e planeja se mudar no próximo mês.
+S: Maria comprou uma casa nova. Maria planeja se mudar no próximo mês.
+
+C: Pedro trabalha como engenheiro e também é músico nas horas vagas.
+S: Pedro trabalha como engenheiro. Pedro também é músico nas horas vagas.
+
+C: O livro conta a história de amor entre dois jovens e foi um grande sucesso de vendas.
+S: O livro conta a história de amor entre dois jovens. O livro foi um grande sucesso de vendas.
+
+C: O filme foi muito aplaudido pelo público e recebeu várias indicações ao prêmio de Melhor Filme.
+S: O filme foi muito aplaudido pelo público. O filme recebeu várias indicações ao prêmio de Melhor Filme.
+
+C: Ana estudou inglês e francês durante dois anos para conseguir um emprego no exterior.
+S: Ana estudou inglês durante dois anos. Ana estudou francês durante dois anos para conseguir um emprego no exterior.
+
+C: O casal viajou para a praia e aproveitou o sol e o mar durante uma semana inteira.
+S: O casal viajou para a praia. O casal aproveitou o sol e o mar durante uma semana inteira.
+
+C: O escritor lançou seu novo livro e fez uma sessão de autógrafos na livraria.
+S: O escritor lançou seu novo livro. O escritor fez uma sessão de autógrafos na livraria.
+
+C: O clima estava frio e chuvoso, mas as pessoas continuavam a sair de casa para trabalhar.
+S: O clima estava frio e chuvoso. As pessoas continuavam a sair de casa para trabalhar.
+
+C: O filme era longo e cansativo, por isso algumas pessoas decidiram sair no meio.
+S: O filme era longo e cansativo. Algumas pessoas decidiram sair no meio.
+
+C: O carro estava velho e quebrado, então decidi vender e comprar um novo.
+S: O carro estava velho e quebrado. Decidi vender e comprar um novo.
+
+C: Ela estava cansada e com fome, então resolveu pedir comida em casa.
+S: Ela estava cansada e com fome. Resolveu pedir comida em casa.
+
+C: O cão latia alto e incomodava os vizinhos, por isso decidi levá-lo para passear.
+S: O cão latia alto e incomodava os vizinhos. Decidi levá-lo para passear.
+
+C: A festa estava animada e cheia de gente, mas eu não estava com vontade de ficar.
+S: A festa estava animada e cheia de gente. Eu não estava com vontade de ficar.
+
+C: A comida estava deliciosa e bem temperada, por isso todos elogiaram o chef.
+S: A comida estava deliciosa e bem temperada. Todos elogiaram o chef.
+
+C: A praia estava lotada e com muito barulho, então preferi ir para um lugar mais tranquilo.
+S: A praia estava lotada e com muito barulho. Preferi ir para um lugar mais tranquilo.
+
+C: As crianças estavam brincando no parque e se divertindo muito, mas logo começou a chover.
+S: As crianças estavam brincando no parque e se divertindo muito. Logo começou a chover.
+
+C: A apresentação foi emocionante e bem executada, por isso todos aplaudiram de pé.
+S: A apresentação foi emocionante e bem executada. Todos aplaudiram de pé.
+
+C: João comprou uma camisa nova e um par de sapatos.
+S: João comprou uma camisa nova. João comprou um par de sapatos.
+
+C: O atleta ganhou uma medalha de ouro e bateu o recorde mundial.
+S: O atleta ganhou uma medalha de ouro. O atleta bateu o recorde mundial.
+
+C: Maria foi ao mercado e comprou pão e leite.
+S: Maria foi ao mercado. Maria comprou pão. Maria comprou leite.
+
+C: O filme foi premiado no festival e recebeu várias críticas positivas.
+S: O filme foi premiado no festival. O filme recebeu várias críticas positivas.
+
+C: Pedro estudou muito e tirou uma nota alta na prova.
+S: Pedro estudou muito. Pedro tirou uma nota alta na prova.
+
+C: O cantor lançou um novo álbum e saiu em turnê mundial.
+S: O cantor lançou um novo álbum. O cantor saiu em turnê mundial.
+
+C: Ana comprou um vestido novo e um par de brincos.
+S: Ana comprou um vestido novo. Ana comprou um par de brincos.
+
+C: O time de futebol venceu o campeonato e comemorou muito.
+S: O time de futebol venceu o campeonato. O time de futebol comemorou muito.
+
+C: O professor explicou a matéria e deu vários exemplos aos alunos.
+S: O professor explicou a matéria. O professor deu vários exemplos aos alunos.
+
+C: Os amigos viajaram juntos e se divertiram muito.
+S: Os amigos viajaram juntos. Os amigos se divertiram muito.
+
+C: O jogador fez um gol incrível e comemorou com seus companheiros de equipe.
+S: O jogador fez um gol incrível. O jogador comemorou com seus companheiros de equipe.
+
+C: O carro estava sujo de lama e precisava de uma lavagem.
+S: O carro estava sujo de lama. O carro precisava de uma lavagem.
+
+C: Maria comprou uma nova casa e começou a decorá-la imediatamente.
+S: Maria comprou uma nova casa. Maria começou a decorá-la imediatamente.
+
+C: O livro que estava procurando estava na estante da sala e o encontrou facilmente.
+S: O livro que estava procurando estava na estante da sala. O livro foi encontrado facilmente.
+
+C: O professor explicou a matéria com detalhes e tirou as dúvidas dos alunos.
+S: O professor explicou a matéria com detalhes. O professor tirou as dúvidas dos alunos.
+
+C: João perdeu o ônibus e teve que esperar uma hora pelo próximo.
+S: João perdeu o ônibus. João teve que esperar uma hora pelo próximo.
+
+C: A festa estava animada e todos dançavam alegremente.
+S: A festa estava animada. Todos dançavam alegremente.
+
+C: O cachorro latiu alto e acordou todos os vizinhos.
+S: O cachorro latiu alto. Todos os vizinhos foram acordados.
+
+C: Eles marcaram um encontro e foram jantar em um restaurante chique.
+S: Eles marcaram um encontro. Eles foram jantar em um restaurante chique.
+
+C: Ela comprou um vestido novo e usou no casamento da amiga.
+S: Ela comprou um vestido novo. Ela usou no casamento da amiga.
+
+C: Maria comprou pão e leite no mercado.
+S: Maria comprou pão. Maria comprou leite no mercado.
+
+C: João foi ao cinema e depois jantou em um restaurante.
+S: João foi ao cinema. João depois jantou em um restaurante.
+
+C: Ana estuda matemática e inglês na faculdade.
+S: Ana estuda matemática. Ana estuda inglês na faculdade.
+
+C: O cachorro correu no parque e brincou com outros cães.
+S: O cachorro correu no parque. O cachorro brincou com outros cães.
+
+C: Pedro e Carlos são irmãos e trabalham na mesma empresa.
+S: Pedro é irmão de Carlos. Pedro trabalha na mesma empresa. Carlos trabalha na mesma empresa.
+
+C: O time de futebol ganhou o campeonato e comemorou a vitória.
+S: O time de futebol ganhou o campeonato. O time de futebol comemorou a vitória.
+
+C: O livro é interessante e possui uma grande quantidade de informações.
+S: O livro é interessante. O livro possui uma grande quantidade de informações.
+
+C: O mar está calmo e as ondas estão batendo suavemente na praia.
+S: O mar está calmo. As ondas estão batendo suavemente na praia.
+
+C: As crianças brincaram no parquinho e depois foram tomar sorvete.
+S: As crianças brincaram no parquinho. As crianças depois foram tomar sorvete.
+
+C: A festa foi animada e durou até altas horas da noite.
+S: A festa foi animada. A festa durou até altas horas da noite.
+
+C: A equipe de futebol jogou muito bem e saiu vitoriosa no final do jogo.
+S: A equipe de futebol jogou muito bem. A equipe saiu vitoriosa no final do jogo.
+
+C: Ele comprou uma casa nova e está muito feliz com a aquisição.
+S: Ele comprou uma casa nova. Ele está muito feliz com a aquisição.
+
+C: O professor explicou a matéria de forma clara e os alunos entenderam tudo.
+S: O professor explicou a matéria de forma clara. Os alunos entenderam tudo.
+
+C: Ela estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ela estudou muito para a prova. Ela conseguiu tirar uma nota alta.
+
+C: O carro quebrou no meio da estrada e tiveram que chamar um guincho.
+S: O carro quebrou no meio da estrada. Tiveram que chamar um guincho.
+
+C: Ele trabalhou duro o dia inteiro e estava exausto quando chegou em casa.
+S: Ele trabalhou duro o dia inteiro. Ele estava exausto quando chegou em casa.
+
+C: Ela cantou uma música triste e emocionou a plateia inteira.
+S: Ela cantou uma música triste. Ela emocionou a plateia inteira.
+
+C: Eles viajaram para a praia e aproveitaram o sol durante todo o dia.
+S: Eles viajaram para a praia. Eles aproveitaram o sol durante todo o dia.
+
+C: O filme foi muito emocionante e fez muitas pessoas chorarem.
+S: O filme foi muito emocionante. O filme fez muitas pessoas chorarem.
+
+C: Ela comprou uma roupa nova e saiu para mostrar para os amigos.
+S: Ela comprou uma roupa nova. Ela saiu para mostrar para os amigos.
+
+C: O jogador marcou um gol e comemorou com os colegas.
+S: O jogador marcou um gol. O jogador comemorou com os colegas.
+
+C: Ela comprou uma camisa nova e uma calça jeans.
+S: Ela comprou uma camisa nova. Ela comprou uma calça jeans.
+
+C: O aluno estudou muito e conseguiu uma boa nota.
+S: O aluno estudou muito. O aluno conseguiu uma boa nota.
+
+C: A empresa aumentou a produção e contratou mais funcionários.
+S: A empresa aumentou a produção. A empresa contratou mais funcionários.
+
+C: Ele viajou para a praia e aproveitou para descansar.
+S: Ele viajou para a praia. Ele aproveitou para descansar.
+
+C: O professor explicou a matéria e tirou as dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou as dúvidas dos alunos.
+
+C: O casal se conheceu no cinema e depois foram jantar juntos.
+S: O casal se conheceu no cinema. Depois, foram jantar juntos.
+
+C: O filme foi lançado ontem e já está fazendo sucesso.
+S: O filme foi lançado ontem. O filme já está fazendo sucesso.
+
+C: Ela comprou flores e chocolates para presentear a mãe.
+S: Ela comprou flores. Ela comprou chocolates para presentear a mãe.
+
+C: Ele estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ele estudou muito para a prova. Ele conseguiu tirar uma nota alta.
+
+C: A equipe de futebol conquistou a vitória e comemorou muito.
+S: A equipe de futebol conquistou a vitória. A equipe comemorou muito.
+
+C: O paciente apresentou febre e dor de cabeça.
+S: O paciente apresentou febre. O paciente apresentou dor de cabeça.
+
+C: O professor explicou a matéria e tirou dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou dúvidas dos alunos.
+
+C: O filme foi bem recebido pela crítica e arrecadou milhões de dólares.
+S: O filme foi bem recebido pela crítica. O filme arrecadou milhões de dólares.
+
+C: A festa foi animada e todos dançaram a noite toda.
+S: A festa foi animada. Todos dançaram a noite toda.
+
+C: O político discursou sobre os problemas do país e prometeu soluções.
+S: O político discursou sobre os problemas do país. O político prometeu soluções.
+
+C: O carro parou no sinal vermelho e continuou o trajeto após o sinal ficar verde.
+S: O carro parou no sinal vermelho. O carro continuou o trajeto após o sinal ficar verde.
+
+C: A cidade recebeu muitos turistas durante o feriado e teve boa movimentação econômica.
+S: A cidade recebeu muitos turistas durante o feriado. A cidade teve boa movimentação econômica.
+
+C: O diretor convocou uma reunião e apresentou os resultados do trimestre.
+S: O diretor convocou uma reunião. O diretor apresentou os resultados do trimestre.
+
+C: Os alunos estudaram para a prova e alcançaram boas notas.
+S: Os alunos estudaram para a prova. Os alunos alcançaram boas notas.
+
+C: A empresa lançou um novo produto e espera aumentar as vendas.
+S: A empresa lançou um novo produto. A empresa espera aumentar as vendas.
+
+C: Ele estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ele estudou muito para a prova. Ele conseguiu tirar uma nota alta.
+
+C: Maria comprou um carro novo e pretendia viajar com ele.
+S: Maria comprou um carro novo. Maria pretendia viajar com ele.
+
+C: O time treinou bastante durante a semana e venceu o jogo.
+S: O time treinou bastante durante a semana. O time venceu o jogo.
+
+C: O filme fez muito sucesso e arrecadou milhões de dólares.
+S: O filme fez muito sucesso. O filme arrecadou milhões de dólares.
+
+C: João estudou francês e espanhol para se preparar para a viagem.
+S: João estudou francês. João estudou espanhol para se preparar para a viagem.
+
+C: Ela fez uma dieta rigorosa e perdeu vários quilos.
+S: Ela fez uma dieta rigorosa. Ela perdeu vários quilos.
+
+C: O restaurante contratou um chef renomado e melhorou a qualidade dos pratos.
+S: O restaurante contratou um chef renomado. O restaurante melhorou a qualidade dos pratos.
+
+C: O atleta se dedicou aos treinos e conquistou uma medalha de ouro.
+S: O atleta se dedicou aos treinos. O atleta conquistou uma medalha de ouro.
+
+C: O casal decidiu se casar e começar uma família.
+S: O casal decidiu se casar. O casal decidiu começar uma família.
+
+C: O aluno estudou para a prova de matemática e tirou uma nota excelente.
+S: O aluno estudou para a prova de matemática. O aluno tirou uma nota excelente.
+
+C: O jogador marcou o primeiro gol e comemorou levantando os braços.
+S: O jogador marcou o primeiro gol. O jogador comemorou levantando os braços.
+
+C: O carro é vermelho e possui um motor potente.
+S: O carro é vermelho. O carro possui um motor potente.
+
+C: A equipe treinou duro e conquistou a vitória no campeonato.
+S: A equipe treinou duro. A equipe conquistou a vitória no campeonato.
+
+C: A empresa lançou um novo produto e recebeu muitos elogios dos consumidores.
+S: A empresa lançou um novo produto. A empresa recebeu muitos elogios dos consumidores.
+
+C: O cantor lançou seu novo álbum e iniciou uma turnê mundial.
+S: O cantor lançou seu novo álbum. O cantor iniciou uma turnê mundial.
+
+C: A criança ganhou um presente e ficou muito feliz.
+S: A criança ganhou um presente. A criança ficou muito feliz.
+
+C: O casal se conheceu na faculdade e se casaram depois de alguns anos.
+S: O casal se conheceu na faculdade. O casal se casaram depois de alguns anos.
+
+C: O político discursou no evento e mencionou suas propostas de governo.
+S: O político discursou no evento. O político mencionou suas propostas de governo.
+
+C: O artista pintou um quadro e o colocou à venda em uma galeria de arte.
+S: O artista pintou um quadro. O artista o colocou à venda em uma galeria de arte.
+
+C: O time venceu a partida e comemorou a vitória no vestiário.
+S: O time venceu a partida. O time comemorou a vitória no vestiário.
+
+C: A professora passou uma lição de casa e marcou uma prova para a próxima semana.
+S: A professora passou uma lição de casa. A professora marcou uma prova para a próxima semana.
+
+C: A empresa está contratando novos funcionários e expandindo seus negócios para outro país.
+S: A empresa está contratando novos funcionários. A empresa está expandindo seus negócios para outro país.
+
+C: O político fez um discurso inspirador e prometeu melhorias para a população.
+S: O político fez um discurso inspirador. O político prometeu melhorias para a população.
+
+C: A cidade construiu um novo parque e inaugurou uma biblioteca pública.
+S: A cidade construiu um novo parque. A cidade inaugurou uma biblioteca pública.
+
+C: A cantora lançou um novo álbum e anunciou uma turnê internacional.
+S: A cantora lançou um novo álbum. A cantora anunciou uma turnê internacional.
+
+C: O restaurante serve pratos vegetarianos e opções sem glúten para atender todas as preferências alimentares.
+S: O restaurante serve pratos vegetarianos. O restaurante serve opções sem glúten para atender todas as preferências alimentares.
+
+C: O filme foi premiado em um festival de cinema e recebeu elogios da crítica especializada.
+S: O filme foi premiado em um festival de cinema. O filme recebeu elogios da crítica especializada.
+
+C: A exposição conta com obras de artistas renomados e está aberta ao público até o final do mês.
+S: A exposição conta com obras de artistas renomados. A exposição está aberta ao público até o final do mês.
+
+C: O livro foi lançado em várias línguas e já vendeu milhões de cópias ao redor do mundo.
+S: O livro foi lançado em várias línguas. O livro já vendeu milhões de cópias ao redor do mundo.
+
+C: Ele estudou a noite toda para a prova e mesmo assim não conseguiu passar.
+S: Ele estudou a noite toda para a prova. Ele mesmo assim não conseguiu passar.
+
+C: O cachorro latiu a noite toda e acordou os vizinhos.
+S: O cachorro latiu a noite toda. O cachorro acordou os vizinhos.
+
+C: Ela correu para pegar o ônibus, mas acabou perdendo-o.
+S: Ela correu para pegar o ônibus. Ela acabou perdendo-o.
+
+C: Ele saiu correndo e tropeçou no meio do caminho.
+S: Ele saiu correndo. Ele tropeçou no meio do caminho.
+
+C: O time venceu o jogo por três gols de diferença e garantiu sua classificação para a próxima fase.
+S: O time venceu o jogo por três gols de diferença. O time garantiu sua classificação para a próxima fase.
+
+C: Ela brigou com a amiga e não consegue mais falar com ela.
+S: Ela brigou com a amiga. Ela não consegue mais falar com ela.
+
+C: O sol estava forte, mas mesmo assim eles foram à praia.
+S: O sol estava forte. Eles mesmo assim foram à praia.
+
+C: Ele comprou um novo computador e agora pode trabalhar mais rápido.
+S: Ele comprou um novo computador. Ele agora pode trabalhar mais rápido.
+
+C: Ela estava cansada, mas ainda assim continuou estudando.
+S: Ela estava cansada. Ela ainda assim continuou estudando.
+
+C: Ele quebrou o vidro da janela e terá que pagar pelo conserto.
+S: Ele quebrou o vidro da janela. Ele terá que pagar pelo conserto.
+
+C: O aluno estudou para a prova e fez uma revisão dos conteúdos.
+S: O aluno estudou para a prova. O aluno fez uma revisão dos conteúdos.
+
+C: A equipe treinou intensamente durante toda a semana e conseguiu a vitória.
+S: A equipe treinou intensamente durante toda a semana. A equipe conseguiu a vitória.
+
+C: Marcos preparou o jantar e arrumou a mesa para receber os convidados.
+S: Marcos preparou o jantar. Marcos arrumou a mesa para receber os convidados.
+
+C: Os jogadores do time rival foram punidos e suspensos do próximo jogo.
+S: Os jogadores do time rival foram punidos. Os jogadores do time rival foram suspensos do próximo jogo.
+
+C: Pedro foi ao supermercado e comprou os ingredientes para fazer o bolo.
+S: Pedro foi ao supermercado. Pedro comprou os ingredientes para fazer o bolo.
+
+C: As crianças brincaram no parque e se divertiram muito no playground.
+S: As crianças brincaram no parque. As crianças se divertiram muito no playground.
+
+C: O casal jantou em um restaurante italiano e experimentou pratos típicos.
+S: O casal jantou em um restaurante italiano. O casal experimentou pratos típicos.
+
+C: A professora explicou a matéria e tirou dúvidas dos alunos.
+S: A professora explicou a matéria. A professora tirou dúvidas dos alunos.
+
+C: O jogador marcou um gol e comemorou com os colegas de time.
+S: O jogador marcou um gol. O jogador comemorou com os colegas de time.
+
+C: O cantor lançou um novo álbum e fez uma turnê mundial para divulgar as músicas.
+S: O cantor lançou um novo álbum. O cantor fez uma turnê mundial para divulgar as músicas.
+
+C: Ele estudou bastante para a prova e conseguiu tirar uma nota alta.
+S: Ele estudou bastante para a prova. Ele conseguiu tirar uma nota alta.
+
+C: O time treinou duro durante toda a semana e venceu o jogo no final.
+S: O time treinou duro durante toda a semana. O time venceu o jogo no final.
+
+C: Ela comprou uma blusa nova e uma calça jeans na loja.
+S: Ela comprou uma blusa nova. Ela comprou uma calça jeans na loja.
+
+C: João saiu para passear com o cachorro e depois foi ao supermercado.
+S: João saiu para passear com o cachorro. João foi depois ao supermercado.
+
+C: O filme foi muito emocionante e teve um final surpreendente.
+S: O filme foi muito emocionante. O filme teve um final surpreendente.
+
+C: Maria ligou para Marcos e pediu ajuda com o trabalho de matemática.
+S: Maria ligou para Marcos. Maria pediu ajuda com o trabalho de matemática.
+
+C: Eles dançaram a noite toda e se divertiram muito na festa.
+S: Eles dançaram a noite toda. Eles se divertiram muito na festa.
+
+C: O livro é interessante e também muito educativo.
+S: O livro é interessante. O livro é também muito educativo.
+
+C: Ele foi ao médico e recebeu o diagnóstico de gripe.
+S: Ele foi ao médico. Ele recebeu o diagnóstico de gripe.
+
+C: Ela estudou para o teste e conseguiu a melhor nota da turma.
+S: Ela estudou para o teste. Ela conseguiu a melhor nota da turma.
+
+C: Eu gosto de música pop e danço todos os dias.
+S: Eu gosto de música pop. Eu danço todos os dias.
+
+C: Ele comprou uma camisa azul e uma calça jeans.
+S: Ele comprou uma camisa azul. Ele comprou uma calça jeans.
+
+C: A praia estava lotada e o sol estava forte.
+S: A praia estava lotada. O sol estava forte.
+
+C: Ela estudou para a prova de matemática e tirou uma nota boa.
+S: Ela estudou para a prova de matemática. Ela tirou uma nota boa.
+
+C: Fui ao supermercado e comprei pão, leite e ovos.
+S: Fui ao supermercado. Comprei pão, leite e ovos.
+
+C: Ele foi ao cinema e assistiu a um filme de ação.
+S: Ele foi ao cinema. Assistiu a um filme de ação.
+
+C: O Brasil ganhou o jogo e se classificou para a próxima fase.
+S: O Brasil ganhou o jogo. O Brasil se classificou para a próxima fase.
+
+C: Ela fez exercícios físicos e emagreceu alguns quilos.
+S: Ela fez exercícios físicos. Ela emagreceu alguns quilos.
+
+C: O restaurante serviu um prato delicioso e o atendimento foi excelente.
+S: O restaurante serviu um prato delicioso. O atendimento foi excelente.
+
+C: Ela escreveu um livro e ganhou um prêmio literário.
+S: Ela escreveu um livro. Ela ganhou um prêmio literário.
+
+C: O time de futebol venceu a partida e comemorou a vitória nos vestiários.
+S: O time de futebol venceu a partida. O time de futebol comemorou a vitória nos vestiários.
+
+C: O livro é interessante e envolvente, fazendo com que o leitor não queira parar de ler.
+S: O livro é interessante. O livro é envolvente, fazendo com que o leitor não queira parar de ler.
+
+C: Carlos foi ao supermercado e comprou pão e leite para o café da manhã.
+S: Carlos foi ao supermercado. Carlos comprou pão para o café da manhã. Carlos comprou leite para o café da manhã.
+
+C: O casal decidiu viajar para a praia e aproveitar o feriado prolongado.
+S: O casal decidiu viajar para a praia. O casal decidiu aproveitar o feriado prolongado.
+
+C: Ana estudou muito para a prova e alcançou uma excelente nota.
+S: Ana estudou muito para a prova. Ana alcançou uma excelente nota.
+
+C: A banda tocou várias músicas e emocionou o público presente.
+S: A banda tocou várias músicas. A banda emocionou o público presente.
+
+C: O restaurante serviu um delicioso jantar e ofereceu sobremesa de cortesia.
+S: O restaurante serviu um delicioso jantar. O restaurante ofereceu sobremesa de cortesia.
+
+C: Pedro praticou exercícios físicos e se sentiu revigorado no final do dia.
+S: Pedro praticou exercícios físicos. Pedro se sentiu revigorado no final do dia.
+
+C: O filme foi muito elogiado pela crítica e conquistou diversos prêmios.
+S: O filme foi muito elogiado pela crítica. O filme conquistou diversos prêmios.
+
+C: Maria conheceu um novo restaurante e experimentou pratos típicos da culinária local.
+S: Maria conheceu um novo restaurante. Maria experimentou pratos típicos da culinária local.
+
+C: A candidata prometeu melhorar a educação e investir em saúde.
+S: A candidata prometeu melhorar a educação. A candidata prometeu investir em saúde.
+
+C: Ele assistiu ao filme e leu o livro.
+S: Ele assistiu ao filme. Ele leu o livro.
+
+C: O time venceu o jogo e comemorou a vitória.
+S: O time venceu o jogo. O time comemorou a vitória.
+
+C: Ela comprou um vestido e um par de sapatos.
+S: Ela comprou um vestido. Ela comprou um par de sapatos.
+
+C: O paciente está se recuperando e seguirá uma dieta balanceada.
+S: O paciente está se recuperando. O paciente seguirá uma dieta balanceada.
+
+C: Eles visitaram o museu e fizeram um passeio de barco.
+S: Eles visitaram o museu. Eles fizeram um passeio de barco.
+
+C: A empresa contratou novos funcionários e expandiu seus negócios.
+S: A empresa contratou novos funcionários. A empresa expandiu seus negócios.
+
+C: O professor explicou a matéria e tirou dúvidas dos alunos.
+S: O professor explicou a matéria. O professor tirou dúvidas dos alunos.
+
+C: Ela viajou para Paris e conheceu a Torre Eiffel.
+S: Ela viajou para Paris. Ela conheceu a Torre Eiffel.
+
+C: O ciclista pedalou por horas e completou a prova.
+S: O ciclista pedalou por horas. O ciclista completou a prova.
+

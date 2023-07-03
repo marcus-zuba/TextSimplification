@@ -1,0 +1,17 @@
+(6) Orações em voz passiva
+
+Regra: Transformar a sentença na voz ativa.
+
+Exemplos:
+
+Complexa: Essa escolha deve ser feita eventualmente por Lula.
+Simplificada: Lula deve, eventualmente, fazer essa escolha.
+
+Complexa: As transferências foram feitas pela empresa Boston Comercial e Participações por meio de uma conta CC-5.
+Simplificada: A empresa Boston Comercial e Participações fez as transferências por meio de uma conta CC-5.
+
+Complexa: O pássaro foi libertado pela menina.
+Simplificada: A menina libertou o pássaro.
+
+Complexa: Uma estratégia de mitigação de riscos foi implementada pela equipe de desenvolvimento, visando reduzir a exposição a potenciais ameaças e garantir a segurança do sistema.
+Simplificada: A equipe de desenvolvimento implementou uma estratégia de mitigação de riscos, com o objetivo de reduzir a exposição a potenciais ameaças e garantir a segurança do sistema.

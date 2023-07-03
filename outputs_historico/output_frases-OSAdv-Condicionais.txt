@@ -1,0 +1,4030 @@
+C: Caso a chuva continue, o jogo será cancelado.
+S: Se a chuva continuar, o jogo será cancelado.
+
+C: A menos que você estude, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: Se não pagar as contas em dia, terá que pagar juros.
+S: Caso não pague as contas em dia, terá que pagar juros.
+
+C: Sem que haja uma solução, a situação ficará cada vez pior.
+S: Caso não haja uma solução, a situação ficará cada vez pior.
+
+C: Desde que tenha dinheiro, poderá comprar o que quiser.
+S: Caso tenha dinheiro, poderá comprar o que quiser.
+
+C: Contanto que chegue a tempo, poderá participar da reunião.
+S: Caso chegue a tempo, poderá participar da reunião.
+
+C: A não ser que peçam desculpas, não vou perdoá-los.
+S: Caso não peçam desculpas, não vou perdoá-los.
+
+C: Caso não encontre a chave, não conseguirá abrir a porta.
+S: Se não encontrar a chave, não conseguirá abrir a porta.
+
+C: Exceto se chover, a festa será ao ar livre.
+S: Caso não chova, a festa será ao ar livre.
+
+C: Caso não compre ingressos com antecedência, não conseguirá entrar no cinema.
+S: Se não comprar ingressos com antecedência, não conseguirá entrar no cinema.
+
+C: O evento será cancelado se chover no dia.
+S: Se chover no dia, o evento será cancelado.
+
+C: A viagem será adiada a menos que consigamos os documentos necessários a tempo.
+S: Se não conseguirmos os documentos necessários a tempo, a viagem será adiada.
+
+C: Sem que haja uma modificação na legislação, não podemos implementar essa medida.
+S: Se não houver uma modificação na legislação, não podemos implementar essa medida.
+
+C: A menos que você estude bastante, não será aprovado no exame.
+S: Se você não estudar bastante, não será aprovado no exame.
+
+C: Caso você não esteja satisfeito com o produto, poderá solicitar o reembolso.
+S: Se você não estiver satisfeito com o produto, poderá solicitar o reembolso.
+
+C: A não ser que você me peça desculpas, não irei perdoá-lo.
+S: Se você não me pedir desculpas, não irei perdoá-lo.
+
+C: Desde que respeite as regras, você poderá participar do evento.
+S: Se você respeitar as regras, poderá participar do evento.
+
+C: Exceto se houver uma emergência, não saia de casa durante a tempestade.
+S: Se não houver uma emergência, não saia de casa durante a tempestade.
+
+C: Contanto que você se esforce, conseguirá alcançar seus objetivos.
+S: Se você se esforçar, conseguirá alcançar seus objetivos.
+
+C: A menos que receba uma proposta melhor, continuarei trabalhando nessa empresa.
+S: Se não receber uma proposta melhor, continuarei trabalhando nessa empresa.
+
+C: Caso chova muito, o jogo será cancelado.
+S: Se chover muito, o jogo será cancelado.
+
+C: A menos que você estude, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: Sem que haja um acordo entre as partes, não será possível resolver o conflito.
+S: Se não houver um acordo entre as partes, não será possível resolver o conflito.
+
+C: Salvo engano, o resultado do teste será divulgado amanhã.
+S: Se não houver engano, o resultado do teste será divulgado amanhã.
+
+C: Desde que você esteja pronto, podemos começar a reunião.
+S: Se você estiver pronto, podemos começar a reunião.
+
+C: A menos que você colabore, não conseguiremos concluir o projeto a tempo.
+S: Se você não colaborar, não conseguiremos concluir o projeto a tempo.
+
+C: Caso o time perca, o técnico será demitido.
+S: Se o time perder, o técnico será demitido.
+
+C: Exceto em casos de emergência, não é permitido sair durante a aula.
+S: Se não for em caso de emergência, não é permitido sair durante a aula.
+
+C: Contanto que você estude, vai conseguir alcançar suas metas.
+S: Se você estudar, vai conseguir alcançar suas metas.
+
+C: A menos que você se esforce, não terá bons resultados.
+S: Se você não se esforçar, não terá bons resultados.
+
+C: Caso chova amanhã, irei de guarda-chuva para o trabalho.
+S: Irei de guarda-chuva para o trabalho caso chova amanhã.
+
+C: Sem que estude, ela não vai passar na prova.
+S: Ela não vai passar na prova sem estudar.
+
+C: A menos que você me convide, não irei à festa.
+S: Não irei à festa a menos que você me convide.
+
+C: Se ele não chegar a tempo, perderemos o voo.
+S: Perderemos o voo se ele não chegar a tempo.
+
+C: Exceto se mudar de ideia, não irei ao cinema.
+S: Não irei ao cinema exceto se mudar de ideia.
+
+C: Contanto que você me ajude, terminaremos o trabalho hoje.
+S: Terminaremos o trabalho hoje contanto que você me ajude.
+
+C: Desde que não haja imprevistos, estaremos lá amanhã.
+S: Estaremos lá amanhã desde que não haja imprevistos.
+
+C: A não ser que ele me peça desculpas, não vou perdoá-lo.
+S: Não vou perdoá-lo a menos que ele me peça desculpas.
+
+C: Caso ela se atrase, não poderemos começar a reunião.
+S: Não poderemos começar a reunião caso ela se atrase.
+
+C: Salvo se houver um imprevisto, estaremos presentes na festa.
+S: Estaremos presentes na festa salvo se houver um imprevisto.
+
+C: Não irei à festa se chover.
+S: Se chover, não irei à festa.
+
+C: A menos que compremos mais comida, ficaremos sem comida para a próxima semana.
+S: Se não comprarmos mais comida, ficaremos sem comida para a próxima semana.
+
+C: Ficarei em casa caso meu pai não permita que eu saia.
+S: Se meu pai não permitir que eu saia, ficarei em casa.
+
+C: A não ser que estudem bastante, não irão passar no exame.
+S: Se não estudarem bastante, não irão passar no exame.
+
+C: Sem que o motorista pare o carro, eu não consigo descer.
+S: Se o motorista não parar o carro, eu não consigo descer.
+
+C: Desde que você me prometa não contar a ninguém, eu vou te contar um segredo.
+S: Se você me prometer não contar a ninguém, eu vou te contar um segredo.
+
+C: A menos que você traga o livro amanhã, não conseguirá participar da discussão.
+S: Se você não trouxer o livro amanhã, não conseguirá participar da discussão.
+
+C: Caso esse plano dê certo, teremos lucros enormes.
+S: Se esse plano der certo, teremos lucros enormes.
+
+C: Exceto se você venha comigo, não irei à festa.
+S: Se você não vier comigo, não irei à festa.
+
+C: Contanto que você me ajude, conseguiremos terminar o projeto a tempo.
+S: Se você me ajudar, conseguiremos terminar o projeto a tempo.
+
+C: Caso chova amanhã, iremos para o cinema.
+S: Iremos para o cinema caso chova amanhã.
+
+C: Se você estudar bastante, passará no exame.
+S: Passará no exame se você estudar bastante.
+
+C: A não ser que ele chegue a tempo, perderemos o voo.
+S: Perderemos o voo a menos que ele chegue a tempo.
+
+C: Sem que haja uma solução, o problema continuará se agravando.
+S: O problema continuará se agravando sem que haja uma solução.
+
+C: Desde que você me ajude, conseguiremos finalizar o projeto no prazo.
+S: Conseguiremos finalizar o projeto no prazo desde que você me ajude.
+
+C: A menos que ele se desculpe, não vou perdoá-lo.
+S: Não vou perdoá-lo a menos que ele se desculpe.
+
+C: Caso ela ganhe o concurso, ficará famosa.
+S: Ficará famosa caso ela ganhe o concurso.
+
+C: Exceto se ele mudar seu comportamento, não continuarei sendo seu amigo.
+S: Não continuarei sendo seu amigo exceto se ele mudar seu comportamento.
+
+C: Contanto que você cumpra suas responsabilidades, poderá sair mais cedo.
+S: Poderá sair mais cedo contanto que você cumpra suas responsabilidades.
+
+C: A não ser que ele tome uma atitude, a situação não vai melhorar.
+S: A situação não vai melhorar a menos que ele tome uma atitude.
+
+C: Se estudarmos bastante, iremos passar no exame.
+S: Iremos passar no exame se estudarmos bastante.
+
+C: Caso chova, não iremos ao parque.
+S: Não iremos ao parque caso chova.
+
+C: Se ele não pagar a dívida, o banco irá cobrar juros.
+S: O banco irá cobrar juros se ele não pagar a dívida.
+
+C: A menos que sejam dez horas, não sairemos de casa.
+S: Não sairemos de casa a menos que sejam dez horas.
+
+C: É proibido entrar sem que se tenha autorização.
+S: É proibido entrar se não tivermos autorização.
+
+C: Caso você não se apresse, perderemos o ônibus.
+S: Perderemos o ônibus caso você não se apresse.
+
+C: Se ele não acordar cedo, irá se atrasar para o trabalho.
+S: Irá se atrasar para o trabalho se ele não acordar cedo.
+
+C: A menos que ele peça desculpas, não iremos perdoá-lo.
+S: Não iremos perdoá-lo a menos que ele peça desculpas.
+
+C: Sem que haja um acordo, não poderemos prosseguir com o projeto.
+S: Não poderemos prosseguir com o projeto sem que haja um acordo.
+
+C: Caso não haja transporte público, teremos que ir de carro.
+S: Teremos que ir de carro caso não haja transporte público.
+
+C: Caso chova, vamos cancelar o piquenique.
+S: Vamos cancelar o piquenique se chover.
+
+C: Se o resultado for positivo, comemoraremos.
+S: Comemoraremos se o resultado for positivo.
+
+C: A menos que ele estude mais, não passará na prova.
+S: Se ele não estudar mais, não passará na prova.
+
+C: Se não encontrarmos as chaves, ficaremos trancados para fora.
+S: Ficaremos trancados para fora se não encontrarmos as chaves.
+
+C: A menos que você chegue a tempo, perderá o ônibus.
+S: Se você não chegar a tempo, perderá o ônibus.
+
+C: Caso se sinta doente, procure um médico.
+S: Procure um médico caso se sinta doente.
+
+C: Se eu ganhar na loteria, viajarei ao redor do mundo.
+S: Viajarei ao redor do mundo se eu ganhar na loteria.
+
+C: A menos que você estude, não irá melhorar suas notas.
+S: Se você não estudar, não irá melhorar suas notas.
+
+C: Caso eu me esqueça, lembre-me de ligar para a minha mãe.
+S: Lembre-me de ligar para a minha mãe caso eu me esqueça.
+
+C: Se não houver nenhum problema, o projeto será concluído a tempo.
+S: O projeto será concluído a tempo se não houver nenhum problema.
+
+C: Caso você não estude, não irá passar na prova.
+S: Se você não estudar, não irá passar na prova.
+
+C: A menos que chova, iremos à praia no sábado.
+S: Se não chover, iremos à praia no sábado.
+
+C: Sem que você peça desculpas, não irei te perdoar.
+S: Se você não pedir desculpas, não irei te perdoar.
+
+C: Caso faça sol amanhã, irei fazer uma caminhada.
+S: Se fizer sol amanhã, irei fazer uma caminhada.
+
+C: A menos que você me ajude, não vou conseguir terminar o trabalho.
+S: Se você não me ajudar, não vou conseguir terminar o trabalho.
+
+C: Sem que eu durma o suficiente, não consigo me concentrar.
+S: Se eu não dormir o suficiente, não consigo me concentrar.
+
+C: Caso você não compre os ingressos, não poderemos ir ao concerto.
+S: Se você não comprar os ingressos, não poderemos ir ao concerto.
+
+C: A menos que você fale logo, vou embora sem você.
+S: Se você não falar logo, vou embora sem você.
+
+C: Sem que você me ajude, não consigo carregar essa caixa.
+S: Se você não me ajudar, não consigo carregar essa caixa.
+
+C: Caso você não estude, não conseguiremos passar na prova juntos.
+S: Se você não estudar, não conseguiremos passar na prova juntos.
+
+C: A partida será cancelada se chover muito.
+S: Se chover muito, a partida será cancelada.
+
+C: Sem uma alimentação balanceada, é difícil manter uma boa saúde.
+S: É difícil manter uma boa saúde sem uma alimentação balanceada.
+
+C: Caso a empresa não cumpra as normas de segurança, poderá ser multada.
+S: Caso a empresa não cumpra as normas de segurança, poderá ser multada.
+
+C: A menos que estude bastante, não vai passar na prova.
+S: Se não estudar bastante, não vai passar na prova.
+
+C: Eles não podem sair de casa sem que os pais autorizem.
+S: Se os pais não autorizarem, eles não podem sair de casa.
+
+C: Se você não pagar a conta, não poderá utilizar os serviços novamente.
+S: Caso não pague a conta, não poderá utilizar os serviços novamente.
+
+C: Desde que sejam obedecidas as regras, é permitido participar do evento.
+S: É permitido participar do evento desde que sejam obedecidas as regras.
+
+C: Exceto se houver algum imprevisto, estarei presente na reunião.
+S: Estarei presente na reunião, exceto se houver algum imprevisto.
+
+C: Caso o vendedor não chegue a tempo, cancelaremos o pedido.
+S: Cancelaremos o pedido caso o vendedor não chegue a tempo.
+
+C: A não ser que estudemos, não passaremos na prova.
+S: Se não estudarmos, não passaremos na prova.
+
+C: Caso a chuva continue, cancelaremos o passeio.
+S: Se a chuva continuar, cancelaremos o passeio.
+
+C: A menos que você estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: Se não houver vagas, não poderemos fazer a reserva.
+S: Caso não haja vagas, não poderemos fazer a reserva.
+
+C: A não ser que você chegue cedo, não garantiremos seu lugar.
+S: Caso você não chegue cedo, não garantiremos seu lugar.
+
+C: Contanto que você me ajude, poderemos terminar mais rápido.
+S: Se você me ajudar, poderemos terminar mais rápido.
+
+C: Desde que você pague antecipadamente, seu pedido será enviado.
+S: Se você pagar antecipadamente, seu pedido será enviado.
+
+C: Exceto se você tiver o ingresso, não poderá entrar no show.
+S: Caso você não tenha o ingresso, não poderá entrar no show.
+
+C: A menos que você coloque o cinto, não podemos sair.
+S: Se você não colocar o cinto, não podemos sair.
+
+C: Caso a temperatura caia, acenderemos a lareira.
+S: Se a temperatura cair, acenderemos a lareira.
+
+C: Se você não lavar a louça, não poderá usar a cozinha.
+S: A menos que você lave a louça, não poderá usar a cozinha.
+
+C: Quando eu terminar os estudos, irei viajar pelo mundo.
+S: Irei viajar pelo mundo quando eu terminar os estudos.
+
+C: Se você me ajudar, conseguirei resolver o problema rapidamente.
+S: Conseguirei resolver o problema rapidamente se você me ajudar.
+
+C: Espero que chova amanhã, para que eu possa ficar em casa.
+S: Para que eu possa ficar em casa, espero que chova amanhã.
+
+C: Caso você não queira comer pizza, podemos pedir comida chinesa.
+S: Podemos pedir comida chinesa caso você não queira comer pizza.
+
+C: A menos que você estude para a prova, não conseguirá uma boa nota.
+S: Não conseguirá uma boa nota a menos que você estude para a prova.
+
+C: Se não chover, iremos fazer um piquenique no parque.
+S: Iremos fazer um piquenique no parque se não chover.
+
+C: A não ser que você chegue cedo, perderemos o início do filme.
+S: Perderemos o início do filme a não ser que você chegue cedo.
+
+C: Desde que você traga o ingresso, poderá entrar no show.
+S: Poderá entrar no show desde que você traga o ingresso.
+
+C: Caso não haja transporte público, teremos que pegar um táxi.
+S: Teremos que pegar um táxi caso não haja transporte público.
+
+C: Exceto se você tiver uma desculpa válida, não poderá faltar à aula.
+S: Não poderá faltar à aula exceto se você tiver uma desculpa válida.
+
+C: Caso chova, irei levar meu guarda-chuva.
+S: Se chover, irei levar meu guarda-chuva.
+
+C: Exceto se houver algum imprevisto, estarei lá.
+S: Se não houver algum imprevisto, estarei lá.
+
+C: A menos que estudem, não vão passar no exame.
+S: Se não estudarem, não vão passar no exame.
+
+C: Sem que você peça desculpas, não vou perdoar.
+S: Se você não pedir desculpas, não vou perdoar.
+
+C: Desde que você cumpra sua promessa, continuaremos sendo amigos.
+S: Se você cumprir sua promessa, continuaremos sendo amigos.
+
+C: Contanto que você chegue a tempo, podemos sair juntos.
+S: Se você chegar a tempo, podemos sair juntos.
+
+C: Salvo se houver alguma emergência, não sairei de casa hoje.
+S: Se não houver alguma emergência, não sairei de casa hoje.
+
+C: A não ser que você me ajude, não vou conseguir terminar o projeto.
+S: Se você não me ajudar, não vou conseguir terminar o projeto.
+
+C: Caso você tenha alguma dúvida, pode me ligar a qualquer momento.
+S: Se você tiver alguma dúvida, pode me ligar a qualquer momento.
+
+C: Se não fizermos um bom trabalho, seremos demitidos.
+S: Se não fizermos um bom trabalho, seremos demitidos.
+
+C: Caso você não estude para a prova, é bastante provável que tire uma nota baixa.
+S: Se você não estudar para a prova, é bastante provável que tire uma nota baixa.
+
+C: Sem que alguém me ajude, será difícil concluir o projeto a tempo.
+S: Se ninguém me ajudar, será difícil concluir o projeto a tempo.
+
+C: A menos que você se esforce, não conseguirá alcançar seus objetivos.
+S: Se você não se esforçar, não conseguirá alcançar seus objetivos.
+
+C: Desde que você tenha permissão, pode participar da reunião.
+S: Se você tiver permissão, pode participar da reunião.
+
+C: Exceto se estiver chovendo, irei ao parque amanhã.
+S: Se não estiver chovendo, irei ao parque amanhã.
+
+C: A não ser que você peça desculpas, não vou perdoar seu comportamento.
+S: Se você não pedir desculpas, não vou perdoar seu comportamento.
+
+C: Caso você não encontre o caminho, peça ajuda ao GPS.
+S: Se você não encontrar o caminho, peça ajuda ao GPS.
+
+C: Contanto que você respeite as regras, pode frequentar o clube.
+S: Se você respeitar as regras, pode frequentar o clube.
+
+C: Salvo se o voo seja cancelado, chegarei a tempo para a reunião.
+S: Se o voo não for cancelado, chegarei a tempo para a reunião.
+
+C: Se você não pagar as contas, ficará com o fornecimento de energia cortado.
+S: Caso você não pague as contas, ficará com o fornecimento de energia cortado.
+
+C: A seleção será eliminada da competição se não vencer o próximo jogo.
+S: Se a seleção não vencer o próximo jogo, será eliminada da competição.
+
+C: Caso a empresa não cumpra as metas estabelecidas, perderá o contrato.
+S: Se a empresa não cumprir as metas estabelecidas, perderá o contrato.
+
+C: Sem que as condições melhorem, não podemos retomar as atividades normais.
+S: Se as condições não melhorarem, não podemos retomar as atividades normais.
+
+C: A criança só irá ao parque de diversões se fizer todas as tarefas da escola.
+S: Se a criança fizer todas as tarefas da escola, irá ao parque de diversões.
+
+C: A menos que o preço seja reduzido, não irei comprar o produto.
+S: Se o preço não for reduzido, não irei comprar o produto.
+
+C: Caso não haja nenhuma outra opção, iremos para o plano B.
+S: Se não houver nenhuma outra opção, iremos para o plano B.
+
+C: A prova será cancelada, desde que haja algum tipo de fraude.
+S: Se houver algum tipo de fraude, a prova será cancelada.
+
+C: O acidente seria evitado, a não ser que o motorista estivesse distraído.
+S: Se o motorista não estivesse distraído, o acidente seria evitado.
+
+C: Exceto se chover, faremos o passeio no parque.
+S: Se não chover, faremos o passeio no parque.
+
+C: Contanto que tenhamos combustível, podemos seguir viagem.
+S: Se tivermos combustível, podemos seguir viagem.
+
+C: Caso a empresa não cumpra as leis trabalhistas, ela poderá ser multada.
+S: Se a empresa não cumprir as leis trabalhistas, então ela poderá ser multada.
+
+C: Se não chover amanhã, vamos passear no parque.
+S: Caso não chova amanhã, vamos passear no parque.
+
+C: A menos que você estude, não conseguirá passar na prova.
+S: Se você não estudar, então não conseguirá passar na prova.
+
+C: Desde que ele seja honesto, podemos confiar nele.
+S: Se ele for honesto, então podemos confiar nele.
+
+C: Exceto se continuar chovendo, iremos à praia amanhã.
+S: Se não continuar chovendo, então iremos à praia amanhã.
+
+C: Salvo se houver algum imprevisto, a reunião acontecerá às 14h.
+S: Se não houver algum imprevisto, então a reunião acontecerá às 14h.
+
+C: A não ser que sejam convidados, eles não comparecerão à festa.
+S: Se não forem convidados, então eles não comparecerão à festa.
+
+C: Desde que você me ajude, conseguiremos terminar o trabalho a tempo.
+S: Se você me ajudar, então conseguiremos terminar o trabalho a tempo.
+
+C: Contanto que eles paguem a taxa, poderão participar do evento.
+S: Se eles pagarem a taxa, então poderão participar do evento.
+
+C: Caso você queira desistir, me avise com antecedência.
+S: Se você quiser desistir, então me avise com antecedência.
+
+C: Se chover, não iremos ao parque.
+S: Não iremos ao parque, se chover.
+
+C: A menos que ela estude, não passará na prova.
+S: Se ela não estudar, não passará na prova.
+
+C: Caso você não queira ir, eu vou sozinho.
+S: Eu vou sozinho, caso você não queira ir.
+
+C: Sem que ele peça desculpas, eu não o perdoarei.
+S: Eu não o perdoarei, sem que ele peça desculpas.
+
+C: Desde que ele me ajude, eu farei o trabalho.
+S: Eu farei o trabalho, desde que ele me ajude.
+
+C: Contanto que sejam respeitosos, os alunos podem sair da sala.
+S: Os alunos podem sair da sala, contanto que sejam respeitosos.
+
+C: A menos que haja provas conclusivas, não podemos acusá-lo.
+S: Não podemos acusá-lo, a menos que haja provas conclusivas.
+
+C: Caso você não chegue a tempo, o show começará sem você.
+S: O show começará sem você, caso você não chegue a tempo.
+
+C: Sem que ela estude mais, não conseguirá passar de ano.
+S: Não conseguirá passar de ano, sem que ela estude mais.
+
+C: Desde que você se comprometa a ajudar, aceito sua proposta.
+S: Aceito sua proposta, desde que você se comprometa a ajudar.
+
+C: Caso chova amanhã, irei levar o guarda-chuva.
+S: Se chover amanhã, irei levar o guarda-chuva.
+
+C: A menos que estudem para a prova, não irão tirar boas notas.
+S: Se não estudarem para a prova, não irão tirar boas notas.
+
+C: Exceto se me convidarem, não irei à festa.
+S: Se não me convidarem, não irei à festa.
+
+C: Desde que você me acompanhe, eu irei àquele evento.
+S: Se você me acompanhar, eu irei àquele evento.
+
+C: A não ser que termine o trabalho a tempo, você não poderá sair.
+S: Se não terminar o trabalho a tempo, você não poderá sair.
+
+C: Sem que você estude, não conseguirá passar na prova.
+S: Se você não estudar, não conseguirá passar na prova.
+
+C: Contanto que você me ajude, eu conseguirei realizar o projeto.
+S: Se você me ajudar, eu conseguirei realizar o projeto.
+
+C: Caso haja algum imprevisto, irei cancelar a viagem.
+S: Se houver algum imprevisto, irei cancelar a viagem.
+
+C: A menos que compre o ingresso antecipadamente, não conseguirá entrar no show.
+S: Se não comprar o ingresso antecipadamente, não conseguirá entrar no show.
+
+C: Exceto se o trânsito estiver livre, não conseguiremos chegar a tempo.
+S: Se o trânsito não estiver livre, não conseguiremos chegar a tempo.
+
+C: Caso você não estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: A menos que chova, iremos à praia.
+S: Se não chover, iremos à praia.
+
+C: Sem que você ligue, não vou sair de casa.
+S: Se você não ligar, não vou sair de casa.
+
+C: Desde que esteja tudo bem, irei ao evento.
+S: Se estiver tudo bem, irei ao evento.
+
+C: A não ser que acorde cedo, não conseguirá chegar a tempo.
+S: Se não acordar cedo, não conseguirá chegar a tempo.
+
+C: Exceto se ganhar na loteria, não comprarei uma casa nova.
+S: Se não ganhar na loteria, não comprarei uma casa nova.
+
+C: Contanto que esteja disponível, posso trabalhar no fim de semana.
+S: Se estiver disponível, posso trabalhar no fim de semana.
+
+C: Caso o voo atrase, perderemos a conexão.
+S: Se o voo atrasar, perderemos a conexão.
+
+C: Salvo se haja alguma emergência, não sairei de casa à noite.
+S: Se não houver alguma emergência, não sairei de casa à noite.
+
+C: A menos que você me ligue, não saberemos onde nos encontrar.
+S: Se você não me ligar, não saberemos onde nos encontrar.
+
+C: Caso a empresa não cumpra as metas estabelecidas, os funcionários serão demitidos.
+S: Os funcionários serão demitidos, caso a empresa não cumpra as metas estabelecidas.
+
+C: Sem que chova nos próximos dias, não será possível irrigar as plantações.
+S: Não será possível irrigar as plantações, caso não chova nos próximos dias.
+
+C: A menos que haja um acordo entre as partes, o processo judicial continuará.
+S: O processo judicial continuará, caso não haja um acordo entre as partes.
+
+C: Se o aluno estudar com dedicação, terá boas notas na prova.
+S: O aluno terá boas notas na prova, se estudar com dedicação.
+
+C: Caso você perca o ônibus, terá que esperar o próximo.
+S: Você terá que esperar o próximo ônibus, caso perca o ônibus.
+
+C: Sem que o governo tome medidas para combater a corrupção, a situação só irá piorar.
+S: A situação só irá piorar, caso o governo não tome medidas para combater a corrupção.
+
+C: A não ser que você traga o dinheiro, não poderemos resolver o problema.
+S: Não poderemos resolver o problema, a menos que você traga o dinheiro.
+
+C: Desde que eu tenha tempo disponível, posso te ajudar com o projeto.
+S: Posso te ajudar com o projeto, desde que eu tenha tempo disponível.
+
+C: Exceto se você for convidado, não poderá entrar na festa.
+S: Não poderá entrar na festa, exceto se você for convidado.
+
+C: Contanto que você respeite as regras, pode utilizar a biblioteca.
+S: Pode utilizar a biblioteca, contanto que você respeite as regras.
+
+C: Se chover amanhã, irei levar um guarda-chuva.
+S: Irei levar um guarda-chuva se chover amanhã.
+
+C: Caso você não estude, irá tirar notas baixas.
+S: Se você não estudar, irá tirar notas baixas.
+
+C: A menos que você se apresse, perderemos o ônibus.
+S: Se você não se apressar, perderemos o ônibus.
+
+C: Sem que você me avise, não irei à festa.
+S: Se você não me avisar, não irei à festa.
+
+C: Desde que você me ajude, conseguiremos finalizar o projeto a tempo.
+S: Se você me ajudar, conseguiremos finalizar o projeto a tempo.
+
+C: Contanto que você pague o aluguel, não haverá problemas.
+S: Se você pagar o aluguel, não haverá problemas.
+
+C: Exceto se você estudar muito, não passará na prova.
+S: Se você não estudar muito, não passará na prova.
+
+C: A menos que esteja com muita fome, não coma tudo.
+S: Se não estiver com muita fome, não coma tudo.
+
+C: Caso não haja gasolina suficiente, o carro não irá funcionar.
+S: Se não houver gasolina suficiente, o carro não irá funcionar.
+
+C: Salvo se houver uma emergência, não ligue para mim durante a reunião.
+S: Se não houver uma emergência, não ligue para mim durante a reunião.
+
+C: Caso ela não estude, não passará no exame.
+S: Se ela não estudar, não passará no exame.
+
+C: A menos que ele chegue a tempo, perderá a reunião.
+S: Se ele não chegar a tempo, perderá a reunião.
+
+C: Sem que chova, não poderemos regar as plantas.
+S: Se não chover, não poderemos regar as plantas.
+
+C: Exceto que ele mude de opinião, não iremos ao cinema.
+S: Se ele não mudar de opinião, não iremos ao cinema.
+
+C: Desde que você concorde, poderemos continuar.
+S: Se você concordar, poderemos continuar.
+
+C: A não ser que me paguem, não farei o trabalho.
+S: Se não me pagarem, não farei o trabalho.
+
+C: Contanto que ele se esforce, terá sucesso.
+S: Se ele se esforçar, terá sucesso.
+
+C: Caso não haja mais ingressos, não poderemos ir ao show.
+S: Se não houver mais ingressos, não poderemos ir ao show.
+
+C: Salvo se ela desista, ela vencerá o concurso.
+S: Se ela não desistir, vencerá o concurso.
+
+C: A menos que estudem juntas, não passarão na prova.
+S: Se não estudarem juntas, não passarão na prova.
+
+C: Se você estudar bastante, passará na prova.
+S: Passará na prova se você estudar bastante.
+
+C: A casa será vendida, exceto se o comprador desistir do negócio.
+S: Exceto se o comprador desistir do negócio, a casa será vendida.
+
+C: Caso você não me encontre em casa, estarei no trabalho.
+S: Estarei no trabalho caso você não me encontre em casa.
+
+C: A festa será cancelada, a menos que chova.
+S: A menos que chova, a festa será cancelada.
+
+C: Se eu tivesse estudado mais, teria passado na prova.
+S: Teria passado na prova se eu tivesse estudado mais.
+
+C: A viagem será adiada, a menos que todos confirmem presença.
+S: A menos que todos confirmem presença, a viagem será adiada.
+
+C: Caso o resultado seja positivo, devemos comemorar.
+S: Devemos comemorar caso o resultado seja positivo.
+
+C: Se não formos rápido, perderemos o ônibus.
+S: Perderemos o ônibus se não formos rápido.
+
+C: O evento não acontecerá sem que haja patrocinadores.
+S: Se não houver patrocinadores, o evento não acontecerá.
+
+C: A loja estará fechada, salvo se houver algum imprevisto.
+S: Salvo se houver algum imprevisto, a loja estará fechada.
+
+C: A viagem será cancelada caso chova muito.
+S: Caso chova muito, a viagem será cancelada.
+
+C: Ele se atrasará para o jantar se o trânsito estiver congestionado.
+S: Se o trânsito estiver congestionado, ele se atrasará para o jantar.
+
+C: A palestra só será realizada se houver público suficiente.
+S: Se não houver público suficiente, a palestra não será realizada.
+
+C: Sem que estudem bastante, eles não conseguirão passar no exame.
+S: Se não estudarem bastante, eles não conseguirão passar no exame.
+
+C: A menos que ele ganhe na loteria, não poderá comprar uma casa nova.
+S: Se ele não ganhar na loteria, não poderá comprar uma casa nova.
+
+C: Caso você não pegue guarda-chuva, vai se molhar na chuva.
+S: Se você não pegar guarda-chuva, vai se molhar na chuva.
+
+C: Exceto se fizer um orçamento, não saberá o custo total da viagem.
+S: Se não fizer um orçamento, não saberá o custo total da viagem.
+
+C: Ele não entrará no cinema sem que mostre o ingresso.
+S: Se não mostrar o ingresso, ele não entrará no cinema.
+
+C: A não ser que conversem sobre o problema, eles não encontrarão uma solução.
+S: Se não conversarem sobre o problema, eles não encontrarão uma solução.
+
+C: Contanto que estudem, eles passarão no vestibular.
+S: Se estudarem, eles passarão no vestibular.
+
+C: Ele só vai devolver o dinheiro se eu pagar a dívida hoje.
+S: Se eu não pagar a dívida hoje, ele não vai devolver o dinheiro.
+
+C: Não saia de casa sem que eu te avise.
+S: Se eu não te avisar, não saia de casa.
+
+C: Ele irá lhe ajudar a menos que você seja desagradável com ele.
+S: Se você for desagradável com ele, ele não irá lhe ajudar.
+
+C: Vou te emprestar o livro desde que você o devolva em uma semana.
+S: Se você não devolver o livro em uma semana, não vou te emprestar.
+
+C: Não compre esse carro sem que eu faça uma revisão nele.
+S: Se eu não fizer uma revisão no carro, não compre.
+
+C: A menos que chova, irei ao parque amanhã.
+S: Se não chover, irei ao parque amanhã.
+
+C: Se você não estudar, irá tirar uma nota baixa.
+S: Se você tirar uma nota baixa, é porque não estudou.
+
+C: Não faça isso a não ser que eu te peça.
+S: Se eu não te pedir, não faça isso.
+
+C: Não abra a caixa sem que eu te diga o que tem dentro.
+S: Se eu não te disser o que tem dentro, não abra a caixa.
+
+C: Caso você se atrase, irei sem você.
+S: Se você se atrasar, irei sem você.
+
+C: Se eu não estudar, irei reprovar na prova.
+S: Caso eu não estude, irei reprovar na prova.
+
+C: A menos que chova, irei sair para caminhar.
+S: Se não chover, irei sair para caminhar.
+
+C: Sem que você me explique, não vou entender o assunto.
+S: Caso você não me explique, não vou entender o assunto.
+
+C: Contanto que você me ajude, iremos terminar o trabalho a tempo.
+S: Se você me ajudar, iremos terminar o trabalho a tempo.
+
+C: Se você não pagar a conta, não poderá entrar no restaurante.
+S: Caso você não pague a conta, não poderá entrar no restaurante.
+
+C: A menos que você me dê uma resposta satisfatória, não irei aceitar o convite.
+S: Se você não me der uma resposta satisfatória, não irei aceitar o convite.
+
+C: Sem que tenhamos todas as informações necessárias, não podemos tomar uma decisão.
+S: Caso não tenhamos todas as informações necessárias, não podemos tomar uma decisão.
+
+C: Desde que você siga as instruções, terá sucesso no projeto.
+S: Se você seguir as instruções, terá sucesso no projeto.
+
+C: A não ser que você estude com afinco, não irá passar no exame.
+S: Caso você não estude com afinco, não irá passar no exame.
+
+C: Salvo se houver um imprevisto, irei comparecer à reunião.
+S: Caso não haja um imprevisto, irei comparecer à reunião.
+
+C: Caso não chova, iremos ao parque amanhã.
+S: Se não chover, iremos ao parque amanhã.
+
+C: A menos que estudemos, não passaremos na prova.
+S: Se não estudarmos, não passaremos na prova.
+
+C: A menos que ela peça desculpas, não irei falar com ela.
+S: Se ela não pedir desculpas, não irei falar com ela.
+
+C: Exceto se ele chegar a tempo, não poderemos sair.
+S: Se ele não chegar a tempo, não poderemos sair.
+
+C: Caso ele queira ir ao cinema, podemos marcar para mais tarde.
+S: Se ele quiser ir ao cinema, podemos marcar para mais tarde.
+
+C: A não ser que você se esforce, não conseguirá alcançar seus objetivos.
+S: Se você não se esforçar, não conseguirá alcançar seus objetivos.
+
+C: Desde que você me ajude, conseguirei terminar o trabalho a tempo.
+S: Se você me ajudar, conseguirei terminar o trabalho a tempo.
+
+C: Contanto que você estude, terá bons resultados.
+S: Se você estudar, terá bons resultados.
+
+C: Caso o carro quebre, teremos que chamar um guincho.
+S: Se o carro quebrar, teremos que chamar um guincho.
+
+C: Salvo se houver imprevistos, a reunião ocorrerá amanhã.
+S: Se não houver imprevistos, a reunião ocorrerá amanhã.
+
+C: O evento será adiado, caso chova durante a tarde.
+S: Caso chova durante a tarde, o evento será adiado.
+
+C: Sem que haja uma solução viável, o projeto não poderá ser concluído.
+S: Se não houver uma solução viável, o projeto não poderá ser concluído.
+
+C: A menos que você estude bastante, não irá passar no exame.
+S: Se você não estudar bastante, não irá passar no exame.
+
+C: Caso ele não apareça até as 10 horas, cancelaremos a reunião.
+S: Se ele não aparecer até as 10 horas, cancelaremos a reunião.
+
+C: Sem que a equipe esteja completa, não iniciaremos o projeto.
+S: Se a equipe não estiver completa, não iniciaremos o projeto.
+
+C: A não ser que você tenha uma desculpa plausível, não aceitarei seu pedido.
+S: Se você não tiver uma desculpa plausível, não aceitarei seu pedido.
+
+C: Exceto se o voo estiver atrasado, chegaremos a tempo para o compromisso.
+S: Se o voo não estiver atrasado, chegaremos a tempo para o compromisso.
+
+C: Desde que tenhamos o apoio dos acionistas, expandiremos nossas operações.
+S: Se tivermos o apoio dos acionistas, expandiremos nossas operações.
+
+C: Contanto que você siga as instruções, não terá problemas.
+S: Se você seguir as instruções, não terá problemas.
+
+C: Salvo se existam imprevistos, concluiremos o projeto antes do prazo.
+S: Se não existirem imprevistos, concluiremos o projeto antes do prazo.
+
+C: O evento será cancelado se chover no dia.
+S: Se chover no dia, o evento será cancelado.
+
+C: Caso você estude bastante, terá boas notas nas provas.
+S: Se você estudar bastante, terá boas notas nas provas.
+
+C: A menos que ela chegue a tempo, perderá o voo.
+S: Se ela não chegar a tempo, perderá o voo.
+
+C: Sem que ele pague a dívida, não terá seu nome limpo.
+S: Se ele não pagar a dívida, não terá seu nome limpo.
+
+C: Caso eu não esteja em casa, deixe o pacote na portaria.
+S: Se eu não estiver em casa, deixe o pacote na portaria.
+
+C: A não ser que tenhamos um plano alternativo, o projeto não será aprovado.
+S: Se não tivermos um plano alternativo, o projeto não será aprovado.
+
+C: Desde que você siga as instruções corretamente, terá sucesso.
+S: Se você seguir as instruções corretamente, terá sucesso.
+
+C: Exceto se chover, iremos à praia amanhã.
+S: Se não chover, iremos à praia amanhã.
+
+C: Contanto que façam o trabalho a tempo, não precisarão fazer a prova.
+S: Se fizerem o trabalho a tempo, não precisarão fazer a prova.
+
+C: Salvo se ele desista, continuará tentando.
+S: Se ele não desistir, continuará tentando.
+
+C: Se chover amanhã, não irei à praia.
+S: Não irei à praia se chover amanhã.
+
+C: A menos que você estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: Caso eu ganhe na loteria, irei viajar pelo mundo.
+S: Se eu ganhar na loteria, irei viajar pelo mundo.
+
+C: Sem que você peça desculpas, não irei te perdoar.
+S: Se você não pedir desculpas, não irei te perdoar.
+
+C: Contanto que você esteja aqui, tudo ficará bem.
+S: Se você estiver aqui, tudo ficará bem.
+
+C: A não ser que você me ajude, não conseguirei terminar a tarefa.
+S: Se você não me ajudar, não conseguirei terminar a tarefa.
+
+C: Desde que você chegue a tempo, podemos começar a reunião.
+S: Se você chegar a tempo, podemos começar a reunião.
+
+C: Caso eu não coma, vou ficar com fome.
+S: Se eu não comer, vou ficar com fome.
+
+C: Salvo se haja algum imprevisto, estarei lá.
+S: Se não houver algum imprevisto, estarei lá.
+
+C: A menos que você se importe, não me incomodarei.
+S: Se você não se importar, não me incomodarei.
+
+C: Sem que a população seja vacinada, não será possível controlar a disseminação do vírus.
+S: Se a população não for vacinada, não será possível controlar a disseminação do vírus.
+
+C: Caso o trabalho seja entregue até amanhã, irei revisá-lo e dar o meu parecer.
+S: Se o trabalho for entregue até amanhã, irei revisá-lo e dar o meu parecer.
+
+C: A menos que estudemos com afinco, não iremos passar na prova.
+S: Se não estudarmos com afinco, não iremos passar na prova.
+
+C: Exceto se houver uma emergência, não podemos sair do escritório durante o expediente.
+S: Se não houver uma emergência, não podemos sair do escritório durante o expediente.
+
+C: Desde que você me ajude, conseguiremos terminar o projeto a tempo.
+S: Se você me ajudar, conseguiremos terminar o projeto a tempo.
+
+C: A não ser que você tenha uma justificativa válida, não receberá a licença.
+S: Se você não tiver uma justificativa válida, não receberá a licença.
+
+C: Contanto que o pagamento seja efetuado até a data estipulada, não serão aplicadas multas.
+S: Se o pagamento for efetuado até a data estipulada, não serão aplicadas multas.
+
+C: Salvo se houver algum imprevisto, o evento ocorrerá conforme o planejado.
+S: Se não houver algum imprevisto, o evento ocorrerá conforme o planejado.
+
+C: A menos que você estude bastante, não será aprovado no exame.
+S: Se você não estudar bastante, não será aprovado no exame.
+
+C: Caso haja alguma mudança nos planos, avisarei com antecedência.
+S: Se houver alguma mudança nos planos, avisarei com antecedência.
+
+C: Se chover, iremos ao cinema.
+S: Iremos ao cinema se chover.
+
+C: Caso você não estude, vai reprovar na prova.
+S: Se você não estudar, vai reprovar na prova.
+
+C: A menos que o time ganhe o jogo, não avançará para a próxima fase.
+S: Se o time não ganhar o jogo, não avançará para a próxima fase.
+
+C: Sem que você me peça desculpas, não vou te perdoar.
+S: Se você não me pedir desculpas, não vou te perdoar.
+
+C: Contanto que você me ajude, terminarei o projeto a tempo.
+S: Terminarei o projeto a tempo contanto que você me ajude.
+
+C: Desde que você tenha paciência comigo, eu aceito te ensinar.
+S: Eu aceito te ensinar desde que você tenha paciência comigo.
+
+C: Salvo se houver uma emergência, não me ligue durante a reunião.
+S: Não me ligue durante a reunião, a menos que haja uma emergência.
+
+C: Exceto se tivermos mais informações, não podemos tomar uma decisão.
+S: Não podemos tomar uma decisão exceto se tivermos mais informações.
+
+C: A menos que você mude de atitude, não poderemos ser amigos novamente.
+S: Não poderemos ser amigos novamente a menos que você mude de atitude.
+
+C: A não ser que haja uma greve, o ônibus passará na hora certa.
+S: O ônibus passará na hora certa a menos que haja uma greve.
+
+C: Caso você não estude, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: Exceto se chover, iremos ao parque.
+S: Se não chover, iremos ao parque.
+
+C: Desde que você traga o ingresso, podemos assistir ao filme juntos.
+S: Se você trouxer o ingresso, podemos assistir ao filme juntos.
+
+C: A não ser que você me ajude, não conseguirei terminar o trabalho a tempo.
+S: Se você não me ajudar, não conseguirei terminar o trabalho a tempo.
+
+C: Fique em casa caso esteja doente.
+S: Se estiver doente, fique em casa.
+
+C: A menos que você mude sua atitude, não teremos mais contato.
+S: Se você não mudar sua atitude, não teremos mais contato.
+
+C: Contanto que você siga as regras, não haverá problemas.
+S: Se você seguir as regras, não haverá problemas.
+
+C: Salvo se houver imprevistos, chegaremos a tempo para o evento.
+S: Se não houver imprevistos, chegaremos a tempo para o evento.
+
+C: Se a tempestade for muito forte, cancelaremos o passeio.
+S: Caso a tempestade seja muito forte, cancelaremos o passeio.
+
+C: A menos que você pague a dívida, não poderá obter um empréstimo.
+S: Se você não pagar a dívida, não poderá obter um empréstimo.
+
+C: Tomaremos café da manhã juntos, desde que acorde cedo.
+S: Se acordar cedo, tomaremos café da manhã juntos.
+
+C: Sem que a equipe faça seu trabalho, o projeto não será concluído.
+S: Se a equipe não fizer seu trabalho, o projeto não será concluído.
+
+C: A menos que tire notas boas, não poderá participar da viagem.
+S: Se não tirar notas boas, não poderá participar da viagem.
+
+C: Caso treine muito, conseguirá alcançar seus objetivos.
+S: Se treinar muito, conseguirá alcançar seus objetivos.
+
+C: Exceto se estudar bastante, não passará na prova.
+S: Se não estudar bastante, não passará na prova.
+
+C: Contanto que esteja de bom humor, sairei com você.
+S: Se estiver de bom humor, sairei com você.
+
+C: A não ser que chova, iremos ao parque no domingo.
+S: Se não chover, iremos ao parque no domingo.
+
+C: Caso não chegue a tempo, perderá o voo.
+S: Se não chegar a tempo, perderá o voo.
+
+C: Desde que você me ajude, conseguiremos terminar o projeto.
+S: Se você me ajudar, conseguiremos terminar o projeto.
+
+C: Salvo se tiver algum imprevisto, irei à reunião amanhã.
+S: Se não tiver algum imprevisto, irei à reunião amanhã.
+
+C: Caso chova amanhã, iremos cancelar o piquenique no parque.
+S: Iremos cancelar o piquenique no parque se chover amanhã.
+
+C: Se você não estudar, vai tirar notas baixas nas provas.
+S: Vai tirar notas baixas nas provas se não estudar.
+
+C: A menos que ela aceite o convite, não iremos à festa.
+S: Não iremos à festa se ela não aceitar o convite.
+
+C: Se não houver trânsito, chegaremos ao aeroporto em 20 minutos.
+S: Chegaremos ao aeroporto em 20 minutos se não houver trânsito.
+
+C: A não ser que ele mude de opinião, não iremos fechar o negócio.
+S: Não iremos fechar o negócio se ele não mudar de opinião.
+
+C: Se você não levar o guarda-chuva, poderá se molhar na chuva.
+S: Poderá se molhar na chuva se você não levar o guarda-chuva.
+
+C: Desde que você chegue até as 9h, poderemos sair a tempo para o trabalho.
+S: Poderemos sair a tempo para o trabalho desde que você chegue até as 9h.
+
+C: A menos que eles venham para a reunião, não conseguiremos tomar uma decisão.
+S: Não conseguiremos tomar uma decisão se eles não vierem para a reunião.
+
+C: Se não fizermos o pagamento até o prazo estabelecido, teremos que pagar multa.
+S: Teremos que pagar multa se não fizermos o pagamento até o prazo estabelecido.
+
+C: Caso ela não responda ao e-mail, tentaremos ligar para ela.
+S: Tentaremos ligar para ela caso ela não responda ao e-mail.
+
+C: Caso o tempo melhore, iremos fazer um piquenique no parque.
+S: Se o tempo melhorar, iremos fazer um piquenique no parque.
+
+C: A não ser que estudemos agora, não conseguiremos passar na prova.
+S: Se não estudarmos agora, não conseguiremos passar na prova.
+
+C: Sem que haja uma solução viável, não poderemos resolver esse problema.
+S: Se não houver uma solução viável, não poderemos resolver esse problema.
+
+C: Desde que você me ajude, conseguiremos terminar o projeto a tempo.
+S: Se você me ajudar, conseguiremos terminar o projeto a tempo.
+
+C: A menos que a economia se recupere, não teremos crescimento no próximo ano.
+S: Se a economia não se recuperar, não teremos crescimento no próximo ano.
+
+C: Contanto que ele me pague, eu irei realizar o trabalho.
+S: Se ele me pagar, eu irei realizar o trabalho.
+
+C: Caso ele não venha, teremos que remarcar a reunião.
+S: Se ele não vier, teremos que remarcar a reunião.
+
+C: Salvo engano, eles já partiram para a viagem.
+S: Se não estiver enganado, eles já partiram para a viagem.
+
+C: Exceto se chover, o evento será realizado ao ar livre.
+S: Se não chover, o evento será realizado ao ar livre.
+
+C: A não ser que tenhamos uma solução rápida, o problema irá se agravar.
+S: Se não tivermos uma solução rápida, o problema irá se agravar.
+
+C: Caso chova amanhã, não irei à praia.
+S: Se chover amanhã, não irei à praia.
+
+C: A empresa irá à falência se não tomar medidas para reduzir os custos.
+S: Se a empresa não tomar medidas para reduzir os custos, irá à falência.
+
+C: A menos que compre ingressos antecipadamente, não poderá entrar no show.
+S: Se não comprar ingressos antecipadamente, não poderá entrar no show.
+
+C: Sem que estude bastante, não conseguirá passar na prova.
+S: Se não estudar bastante, não conseguirá passar na prova.
+
+C: Caso não haja vaga no estacionamento, teremos que procurar outro lugar para estacionar o carro.
+S: Se não houver vaga no estacionamento, teremos que procurar outro lugar para estacionar o carro.
+
+C: Exceto se tome remédio, não irá melhorar da gripe.
+S: Se não tomar remédio, não irá melhorar da gripe.
+
+C: A menos que haja luz no caminho, será difícil encontrar o atalho.
+S: Se não houver luz no caminho, será difícil encontrar o atalho.
+
+C: Caso não faça exercícios regularmente, não terá um bom condicionamento físico.
+S: Se não fizer exercícios regularmente, não terá um bom condicionamento físico.
+
+C: Sem que sejam feitas mudanças no sistema, os erros vão continuar acontecendo.
+S: Se não forem feitas mudanças no sistema, os erros vão continuar acontecendo.
+
+C: A menos que pare de fumar, sua saúde vai piorar cada vez mais.
+S: Se não parar de fumar, sua saúde vai piorar cada vez mais.
+
+C: Agirei de acordo com sua vontade, desde que seja razoável.
+S: Se for razoável, agirei de acordo com sua vontade.
+
+C: Ele não sairá de casa, a menos que chova muito.
+S: Se não chover muito, ele não sairá de casa.
+
+C: Não comprarei o carro, sem que você me dê garantias.
+S: Se você não me der garantias, não comprarei o carro.
+
+C: Sairei mais cedo, contanto que termine minhas tarefas.
+S: Se terminar minhas tarefas, sairei mais cedo.
+
+C: Eles não viajarão, caso não tenham dinheiro.
+S: Se não tiverem dinheiro, eles não viajarão.
+
+C: Não tomarei decisões precipitadas, a não ser que seja necessário.
+S: Se não for necessário, não tomarei decisões precipitadas.
+
+C: Ela não se casará, exceto se encontrar a pessoa certa.
+S: Se encontrar a pessoa certa, ela se casará.
+
+C: Não sairei de casa, salvo se for muito importante.
+S: Se não for muito importante, não sairei de casa.
+
+C: Ele não aceitará o convite, a menos que sua esposa concorde.
+S: Se sua esposa não concordar, ele não aceitará o convite.
+
+C: Não melhoraremos nossas condições de vida, caso não busquemos oportunidades de crescimento.
+S: Se não buscarmos oportunidades de crescimento, não melhoraremos nossas condições de vida.
+
+C: Sempre que chove, eu levo meu guarda-chuva.
+S: Eu levo meu guarda-chuva sempre que chove.
+
+C: A menos que ela estude, não conseguirá passar na prova.
+S: Se ela não estudar, então não conseguirá passar na prova.
+
+C: Caso o voo seja cancelado, pedirei reembolso.
+S: Pedirei reembolso caso o voo seja cancelado.
+
+C: Se você não se apressar, perderemos o ônibus.
+S: Perderemos o ônibus se você não se apressar.
+
+C: A não ser que ele me peça desculpas, não irei perdoá-lo.
+S: Não irei perdoá-lo a menos que ele me peça desculpas.
+
+C: Desde que estudem com dedicação, conseguirão boas notas.
+S: Conseguirão boas notas desde que estudem com dedicação.
+
+C: Exceto quando chove, eu saio para correr todas as manhãs.
+S: Eu saio para correr todas as manhãs, exceto quando chove.
+
+C: Contanto que ele pague o aluguel em dia, não teremos problemas.
+S: Não teremos problemas contanto que ele pague o aluguel em dia.
+
+C: A menos que você vá comigo, não irei à festa.
+S: Se você não for comigo, então não irei à festa.
+
+C: Se não houver vagas disponíveis, teremos que procurar em outro lugar.
+S: Teremos que procurar em outro lugar se não houver vagas disponíveis.
+
+C: Embora eu estude bastante, não consegui tirar uma nota alta na prova.
+S: Se não consegui tirar uma nota alta na prova, mesmo estudando bastante.
+
+C: Se o tempo estiver bom, vamos dar um passeio no parque.
+S: Vamos dar um passeio no parque se o tempo estiver bom.
+
+C: A menos que você faça sua parte, o projeto não será concluído a tempo.
+S: Se você não fizer sua parte, o projeto não será concluído a tempo.
+
+C: Caso você queira, eu posso te ajudar com a mudança.
+S: Se você quiser, eu posso te ajudar com a mudança.
+
+C: Se não chover amanhã, podemos ir à praia.
+S: Podemos ir à praia se não chover amanhã.
+
+C: A não ser que você estude, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: Se você não calar a boca, vou parar de falar com você.
+S: Vou parar de falar com você se você não calar a boca.
+
+C: A menos que você peça desculpas, não vou te perdoar.
+S: Se você não pedir desculpas, não vou te perdoar.
+
+C: Caso isso aconteça novamente, vamos ter que tomar medidas mais severas.
+S: Se isso acontecer novamente, vamos ter que tomar medidas mais severas.
+
+C: Se não tivermos água, não poderemos tomar banho.
+S: Não poderemos tomar banho se não tivermos água.
+
+C: Se você estudar, conseguirá passar na prova.
+S: Se conseguir passar na prova, estudar.
+
+C: A menos que chova, iremos ao parque.
+S: Se não chover, iremos ao parque.
+
+C: Caso ela se atrasasse, perderia o voo.
+S: Se ela se atrasasse, perderia o voo.
+
+C: Sem que ele se desculpe, não vou perdoá-lo.
+S: Se ele não se desculpar, não vou perdoá-lo.
+
+C: Se você não se exercitar, não ficará saudável.
+S: Se não ficar saudável, você não se exercitar.
+
+C: A não ser que você pague em dinheiro, não aceitaremos o pagamento.
+S: Se não pagar em dinheiro, não aceitaremos o pagamento.
+
+C: Contanto que ela estude, terá boas notas.
+S: Se tiver boas notas, estudar.
+
+C: Desde que você me ajude, conseguiremos terminar o projeto a tempo.
+S: Se conseguirmos terminar o projeto a tempo, me ajude.
+
+C: Exceto se você ganhar na loteria, não poderá comprar uma casa nova.
+S: Se não ganhar na loteria, não poderá comprar uma casa nova.
+
+C: Caso você se esqueça do aniversário dela, ela ficará chateada.
+S: Se ela ficar chateada, você se esquecerá do aniversário dela.
+
+C: Se você estudar bastante, passará no vestibular.
+S: Passará no vestibular se estudar bastante.
+
+C: A menos que chova, irei à praia amanhã.
+S: Se não chover, irei à praia amanhã.
+
+C: Sem que ele se desculpasse, eu não o perdoaria.
+S: Se ele não se desculpasse, eu não o perdoaria.
+
+C: Caso você queira, podemos ir ao cinema juntos.
+S: Se você quiser, podemos ir ao cinema juntos.
+
+C: A não ser que haja um imprevisto, estarei lá na reunião.
+S: Se não houver um imprevisto, estarei lá na reunião.
+
+C: Desde que você se comprometa a ajudar, aceito trabalhar em equipe.
+S: Se você se comprometer a ajudar, aceito trabalhar em equipe.
+
+C: Contanto que você pague a entrada, eu vou ao show com você.
+S: Se você pagar a entrada, eu vou ao show com você.
+
+C: Exceto se a situação mudar, não pretendo cancelar a viagem.
+S: Se a situação não mudar, não pretendo cancelar a viagem.
+
+C: A menos que você se desculpe pelo que fez, não poderemos seguir em frente.
+S: Se você não se desculpar pelo que fez, não poderemos seguir em frente.
+
+C: Caso você precise de ajuda, estou aqui para te apoiar.
+S: Se você precisar de ajuda, estou aqui para te apoiar.
+
+C: Ela só aceitará o convite se ele estiver presente.
+S: Se ele não estiver presente, ela não aceitará o convite.
+
+C: A festa acontecerá no jardim a menos que chova.
+S: Se chover, a festa não acontecerá no jardim.
+
+C: Sem que haja uma solução para o problema, não poderemos avançar.
+S: Se não houver uma solução para o problema, não poderemos avançar.
+
+C: Caso o contrato seja assinado, teremos acesso aos documentos.
+S: Se o contrato for assinado, teremos acesso aos documentos.
+
+C: A menos que ele se desculpe, não iremos mais falar com ele.
+S: Se ele não se desculpar, não iremos mais falar com ele.
+
+C: Se não estudarmos, não passaremos na prova.
+S: Caso não estudemos, não passaremos na prova.
+
+C: A não ser que você apareça, a festa não será a mesma.
+S: Se você não aparecer, a festa não será a mesma.
+
+C: Ele só vai ao cinema se o filme for de ação.
+S: Se o filme não for de ação, ele não vai ao cinema.
+
+C: A menos que tenhamos todos os documentos, não poderemos finalizar o contrato.
+S: Se não tivermos todos os documentos, não poderemos finalizar o contrato.
+
+C: Sem que ele responda às perguntas, não poderemos encerrar a entrevista.
+S: Se ele não responder às perguntas, não poderemos encerrar a entrevista.
+
+C: A festa será cancelada, caso chova no dia do evento.
+S: Caso chova no dia do evento, a festa será cancelada.
+
+C: Sem que você estude, não conseguirá passar na prova.
+S: Se você não estudar, não conseguirá passar na prova.
+
+C: A menos que eu receba um aumento, irei procurar outro emprego.
+S: Se eu não receber um aumento, irei procurar outro emprego.
+
+C: A viagem será adiada, desde que as condições climáticas sejam desfavoráveis.
+S: Desde que as condições climáticas sejam desfavoráveis, a viagem será adiada.
+
+C: O plano não será implementado, exceto se houver o apoio da maioria dos funcionários.
+S: Exceto se houver o apoio da maioria dos funcionários, o plano não será implementado.
+
+C: Ficaremos em casa, a não ser que o convite seja irrecusável.
+S: A não ser que o convite seja irrecusável, ficaremos em casa.
+
+C: A menos que você esteja disposto a se esforçar, não alcançará seus objetivos.
+S: Se você não estiver disposto a se esforçar, não alcançará seus objetivos.
+
+C: Contanto que você respeite as regras, poderá participar do evento.
+S: Se você respeitar as regras, poderá participar do evento.
+
+C: A menos que você se apresse, perderá o ônibus.
+S: Se você não se apressar, perderá o ônibus.
+
+C: A empresa terá prejuízos, caso não ocorra um aumento nas vendas.
+S: Caso não ocorra um aumento nas vendas, a empresa terá prejuízos.
+
+C: Se você estudar bastante, terá boas notas.
+S: Terá boas notas se estudar bastante.
+
+C: A não ser que chova, iremos ao parque.
+S: Iremos ao parque, a menos que chova.
+
+C: Caso ele não chegue a tempo, começaremos sem ele.
+S: Começaremos sem ele, caso ele não chegue a tempo.
+
+C: Sem que você me ajude, não conseguirei terminar o trabalho.
+S: Não conseguirei terminar o trabalho sem sua ajuda.
+
+C: A menos que você se dedique, não alcançará seus objetivos.
+S: Não alcançará seus objetivos, a menos que se dedique.
+
+C: Se chover amanhã, o passeio será cancelado.
+S: O passeio será cancelado se chover amanhã.
+
+C: Exceto se você me ajudar, não conseguirei terminar a tarefa.
+S: Não conseguirei terminar a tarefa, exceto se você me ajudar.
+
+C: Desde que você estude, passará na prova.
+S: Passará na prova, desde que estude.
+
+C: A não ser que encontre uma solução, o problema continuará.
+S: O problema continuará, a menos que encontre uma solução.
+
+C: Caso você não queira ir, podemos cancelar o passeio.
+S: Podemos cancelar o passeio, caso você não queira ir.
+
+C: Se ela estudar bastante, passará no exame.
+S: Passará no exame se estudar bastante.
+
+C: Caso a chuva pare, faremos um piquenique.
+S: Faremos um piquenique caso a chuva pare.
+
+C: A menos que você termine o trabalho a tempo, não poderá sair.
+S: Não poderá sair a menos que você termine o trabalho a tempo.
+
+C: Se você me ajudar, eu te darei uma recompensa.
+S: Eu te darei uma recompensa se você me ajudar.
+
+C: Caso você se atrase, eu começarei a reunião sem você.
+S: Eu começarei a reunião sem você caso você se atrase.
+
+C: A menos que você se comporte bem, não ganhará um presente.
+S: Não ganhará um presente a menos que você se comporte bem.
+
+C: Se ele se esforçar mais, terá sucesso.
+S: Terá sucesso se ele se esforçar mais.
+
+C: Caso eles não compareçam à festa, sentirei falta deles.
+S: Sentirei falta deles caso eles não compareçam à festa.
+
+C: A menos que você pratique todos os dias, não ficará bom no instrumento.
+S: Não ficará bom no instrumento a menos que você pratique todos os dias.
+
+C: Se você ligar para mim, eu te ajudarei com o problema.
+S: Eu te ajudarei com o problema se você ligar para mim.
+
+C: O evento será cancelado se chover no dia.
+S: Se chover no dia, o evento será cancelado.
+
+C: Sem a sua ajuda, não conseguiremos terminar o projeto a tempo.
+S: Se não tivermos a sua ajuda, não conseguiremos terminar o projeto a tempo.
+
+C: Caso você não pague a conta, teremos que cortar o serviço.
+S: Se você não pagar a conta, teremos que cortar o serviço.
+
+C: A menos que a temperatura suba, não irei à praia.
+S: Se a temperatura não subir, não irei à praia.
+
+C: Se não estudarmos, tiraremos notas baixas na prova.
+S: Se não estudarmos, tiraremos notas baixas na prova.
+
+C: A menos que você me peça desculpas, não irei te perdoar.
+S: Se você não me pedir desculpas, não irei te perdoar.
+
+C: Caso você chegue tarde, iremos embora sem você.
+S: Se você chegar tarde, iremos embora sem você.
+
+C: Sem que eu tenha terminado meu trabalho, não poderei sair.
+S: Se eu não tiver terminado meu trabalho, não poderei sair.
+
+C: A menos que você me empreste dinheiro, não conseguirei pagar as contas.
+S: Se você não me emprestar dinheiro, não conseguirei pagar as contas.
+
+C: Sem que a situação melhore, não investirei no negócio.
+S: Se a situação não melhorar, não investirei no negócio.
+
+C: Se a temperatura cair abaixo de zero, os tubos de água congelarão.
+S: Os tubos de água congelarão se a temperatura cair abaixo de zero.
+
+C: Caso você não termine seu trabalho até amanhã, não poderá participar da reunião.
+S: Se você não terminar seu trabalho até amanhã, não poderá participar da reunião.
+
+C: A não ser que chova, nós iremos ao parque de diversões.
+S: Se não chover, nós iremos ao parque de diversões.
+
+C: Sem que você estude, não conseguirá passar no exame.
+S: Se você não estudar, não conseguirá passar no exame.
+
+C: A menos que você se esforce, não terá sucesso.
+S: Se você não se esforçar, não terá sucesso.
+
+C: Se eu ganhar na loteria, viajarei pelo mundo.
+S: Eu viajarei pelo mundo se ganhar na loteria.
+
+C: Caso não haja nenhum problema, a reunião acontecerá conforme agendado.
+S: A reunião acontecerá conforme agendado caso não haja nenhum problema.
+
+C: Sem que você peça desculpas, não poderei perdoar você.
+S: Não poderei perdoar você sem que você peça desculpas.
+
+C: A não ser que você estude, não conseguirá passar de ano.
+S: Se você não estudar, não conseguirá passar de ano.
+
+C: Se eles não chegarem a tempo, perderão o voo.
+S: Perderão o voo se eles não chegarem a tempo.
+
+C: Eu vou ficar em casa se chover.
+S: Se chover, eu vou ficar em casa.
+
+C: Sem que você estude, você não vai passar na prova.
+S: Se você não estudar, você não vai passar na prova.
+
+C: A menos que você se desculpe, não vamos falar com você.
+S: Se você não se desculpar, não vamos falar com você.
+
+C: Caso você erre o caminho, peça ajuda.
+S: Se você errar o caminho, peça ajuda.
+
+C: Desde que você cumpra as regras, poderá participar do evento.
+S: Se você cumprir as regras, poderá participar do evento.
+
+C: Contanto que você chegue a tempo, não terá problemas.
+S: Se você chegar a tempo, não terá problemas.
+
+C: Exceto se você tiver uma boa desculpa, não vamos aceitar seu atraso.
+S: Se você não tiver uma boa desculpa, não vamos aceitar seu atraso.
+
+C: A menos que você ganhe na loteria, não poderá comprar uma casa nova.
+S: Se você não ganhar na loteria, não poderá comprar uma casa nova.
+
+C: Caso você não entenda a tarefa, peça ajuda ao professor.
+S: Se você não entender a tarefa, peça ajuda ao professor.
+
+C: Sem que você estude, não vai conseguir uma boa nota na prova.
+S: Se você não estudar, não vai conseguir uma boa nota na prova.
+
+C: Caso a chuva continue, irei levar um guarda-chuva.
+S: Se a chuva continuar, irei levar um guarda-chuva.
+
+C: A menos que você estude, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: Sem que haja melhoria nas condições de trabalho, os funcionários não terão aumento salarial.
+S: Se não houver melhoria nas condições de trabalho, os funcionários não terão aumento salarial.
+
+C: Se não lavar as mãos, não poderá entrar na sala de cirurgia.
+S: Caso não lave as mãos, não poderá entrar na sala de cirurgia.
+
+C: Contanto que tenhamos dinheiro, poderemos viajar nas férias.
+S: Se tivermos dinheiro, poderemos viajar nas férias.
+
+C: A menos que tenha uma boa desculpa, você será punido.
+S: Se não tiver uma boa desculpa, você será punido.
+
+C: Desde que você siga as regras, não teremos problemas.
+S: Se você seguir as regras, não teremos problemas.
+
+C: Caso não tenha tempo para fazer a tarefa, avise o professor.
+S: Se não tiver tempo para fazer a tarefa, avise o professor.
+
+C: A menos que chova muito, faremos um piquenique no parque.
+S: Se não chover muito, faremos um piquenique no parque.
+
+C: Sem que haja interesse dos alunos, as aulas se tornam monótonas.
+S: Se não houver interesse dos alunos, as aulas se tornam monótonas.
+
+C: O professor permitirá o uso de calculadoras durante a prova, desde que os alunos não as utilizem para trapacear.
+S: Desde que os alunos não as utilizem para trapacear, o professor permitirá o uso de calculadoras durante a prova.
+
+C: Sem que tenha estudado bastante, ela não passará no exame.
+S: Se ela não tiver estudado bastante, então não passará no exame.
+
+C: A menos que você chegue a tempo, não poderá participar do evento.
+S: Se você não chegar a tempo, então não poderá participar do evento.
+
+C: Caso chova durante o passeio, teremos que cancelá-lo.
+S: Se chover durante o passeio, então teremos que cancelá-lo.
+
+C: Exceto se você me convencer, não irei mudar de ideia.
+S: Se você não me convencer, então não irei mudar de ideia.
+
+C: Contanto que você siga as regras, poderá usar o equipamento.
+S: Se você seguir as regras, então poderá usar o equipamento.
+
+C: A não ser que você conserte o problema, teremos que chamar um profissional.
+S: Se você não consertar o problema, então teremos que chamar um profissional.
+
+C: Salvo se houver uma emergência, não poderei comparecer à reunião.
+S: Se não houver uma emergência, então não poderei comparecer à reunião.
+
+C: Caso você esteja com fome, pode comer algo da geladeira.
+S: Se você estiver com fome, então pode comer algo da geladeira.
+
+C: Desde que respeitemos as regras, seremos bem-vindos.
+S: Se respeitarmos as regras, então seremos bem-vindos.
+
+C: Se chover amanhã, cancelaremos o evento.
+S: Cancelaremos o evento se chover amanhã.
+
+C: Caso ele não estude para a prova, ele não passará.
+S: Ele não passará caso não estude para a prova.
+
+C: Sem sua ajuda, não conseguiremos terminar o projeto a tempo.
+S: Não conseguiremos terminar o projeto a tempo sem sua ajuda.
+
+C: A menos que você compre ingressos antecipadamente, não entrará na festa.
+S: Você não entrará na festa a menos que compre ingressos antecipadamente.
+
+C: Se você não praticar, não vai conseguir tocar bem o instrumento.
+S: Não vai conseguir tocar bem o instrumento se não praticar.
+
+C: Exceto se houver imprevistos, o voo sairá conforme o horário previsto.
+S: O voo sairá conforme o horário previsto, exceto se houver imprevistos.
+
+C: Desde que sejam cumpridas todas as regras, poderemos participar do torneio.
+S: Poderemos participar do torneio desde que sejam cumpridas todas as regras.
+
+C: A não ser que tenhamos combustível suficiente, não conseguiremos chegar ao destino.
+S: Não conseguiremos chegar ao destino a não ser que tenhamos combustível suficiente.
+
+C: Contanto que você faça sua parte, alcançaremos o sucesso.
+S: Alcançaremos o sucesso contanto que você faça sua parte.
+
+C: Salvo se houver uma proposta melhor, aceitaremos essa oferta.
+S: Aceitaremos essa oferta salvo se houver uma proposta melhor.
+
+C: A festa será cancelada, caso chova no sábado.
+S: Caso chova no sábado, a festa será cancelada.
+
+C: Se você não estudar, não terá um bom desempenho na prova.
+S: Se não estudar, não terá um bom desempenho na prova.
+
+C: A viagem será adiada, a menos que consigamos comprar as passagens com desconto.
+S: A menos que consigamos comprar as passagens com desconto, a viagem será adiada.
+
+C: Sem que haja uma redução nos gastos, não será possível equilibrar as contas.
+S: Se não houver uma redução nos gastos, não será possível equilibrar as contas.
+
+C: Caso não seja enviada a documentação completa, seu pedido de visto será negado.
+S: Se não for enviada a documentação completa, seu pedido de visto será negado.
+
+C: A menos que a cidade invista em transporte público de qualidade, o trânsito continuará caótico.
+S: Se a cidade não investir em transporte público de qualidade, o trânsito continuará caótico.
+
+C: Sem que sejam feitas as devidas reformas, o prédio continuará apresentando problemas estruturais.
+S: Se não forem feitas as devidas reformas, o prédio continuará apresentando problemas estruturais.
+
+C: Caso você queira sair, pode pegar minha chave emprestada.
+S: Se você quiser sair, pode pegar minha chave emprestada.
+
+C: A menos que as condições melhorem, não irei participar do evento.
+S: Se as condições não melhorarem, não irei participar do evento.
+
+C: Sem que sejam tomadas medidas urgentes, a empresa faliu.
+S: Se não forem tomadas medidas urgentes, a empresa faliu.
+
+C: Caso a empresa não cumpra com os prazos de entrega, teremos que procurar outro fornecedor.
+S: Se a empresa não cumprir com os prazos de entrega, teremos que procurar outro fornecedor.
+
+C: A não ser que você estude bastante, não vai passar na prova.
+S: Se você não estudar bastante, não vai passar na prova.
+
+C: Sem que haja um consenso entre todos, não poderemos avançar com o projeto.
+S: Se não houver um consenso entre todos, não poderemos avançar com o projeto.
+
+C: Desde que você se comporte bem, poderá sair para brincar.
+S: Se você se comportar bem, poderá sair para brincar.
+
+C: Exceto se chover muito, iremos ao parque amanhã.
+S: Se não chover muito, iremos ao parque amanhã.
+
+C: Contanto que você estude, poderá usar o computador.
+S: Se você estudar, poderá usar o computador.
+
+C: A menos que você tenha dinheiro, não poderá comprar o produto.
+S: Se você não tiver dinheiro, não poderá comprar o produto.
+
+C: A não ser que você me peça desculpas, não vou te perdoar.
+S: Se você não me pedir desculpas, não vou te perdoar.
+
+C: Caso não haja vagas no estacionamento, teremos que procurar outro lugar para estacionar.
+S: Se não houver vagas no estacionamento, teremos que procurar outro lugar para estacionar.
+
+C: Sem que você estude, não vai aprender a matéria.
+S: Se você não estudar, não vai aprender a matéria.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Cancelaremos o passeio se chover amanhã.
+
+C: Sem que haja um acordo entre todas as partes envolvidas, não será possível resolver o problema.
+S: Não será possível resolver o problema sem que haja um acordo entre todas as partes envolvidas.
+
+C: Caso você não estude para a prova, é provável que tire uma nota baixa.
+S: É provável que você tire uma nota baixa caso não estude para a prova.
+
+C: Exceto se houver algum imprevisto, faremos a viagem no próximo final de semana.
+S: Faremos a viagem no próximo final de semana, exceto se houver algum imprevisto.
+
+C: A menos que a empresa reduza os preços, não conseguiremos fechar o negócio.
+S: Não conseguiremos fechar o negócio, a menos que a empresa reduza os preços.
+
+C: Desde que você prometa não fazer isso novamente, darei uma segunda chance.
+S: Darei uma segunda chance desde que você prometa não fazer isso novamente.
+
+C: Contanto que você traga os documentos necessários, poderá participar da reunião.
+S: Poderá participar da reunião contanto que você traga os documentos necessários.
+
+C: A não ser que tenhamos alguma emergência, iremos ao cinema amanhã.
+S: Iremos ao cinema amanhã, a não ser que tenhamos alguma emergência.
+
+C: Salvo se surgirem imprevistos, terminaremos o projeto até o final da semana.
+S: Terminaremos o projeto até o final da semana, salvo se surgirem imprevistos.
+
+C: A menos que você acorde cedo, perderá o ônibus para o trabalho.
+S: Perderá o ônibus para o trabalho, a menos que você acorde cedo.
+
+C: Caso chova, iremos cancelar o passeio.
+S: Iremos cancelar o passeio se chover.
+
+C: Sem que haja uma solução, o problema continuará.
+S: O problema continuará se não houver uma solução.
+
+C: Desde que você termine o trabalho, poderá sair mais cedo.
+S: Você poderá sair mais cedo desde que termine o trabalho.
+
+C: A menos que ele estude, não passará na prova.
+S: Se ele não estudar, não passará na prova.
+
+C: Contanto que chegue a tempo, poderá participar da reunião.
+S: Poderá participar da reunião contanto que chegue a tempo.
+
+C: A não ser que tenha autorização, não entre na sala.
+S: Não entre na sala a menos que tenha autorização.
+
+C: Salvo engano, ele estará aqui amanhã.
+S: Ele estará aqui amanhã, salvo engano.
+
+C: Caso ela não venha, teremos que cancelar o evento.
+S: Teremos que cancelar o evento caso ela não venha.
+
+C: Exceto por ele, todos chegarão atrasados.
+S: Todos chegarão atrasados, exceto por ele.
+
+C: Caso você queira, podemos marcar uma nova data.
+S: Podemos marcar uma nova data caso você queira.
+
+C: Caso chova, vamos cancelar o passeio.
+S: Se chover, vamos cancelar o passeio.
+
+C: Sem que haja um acordo entre as partes, não poderemos chegar a uma solução.
+S: Se não houver um acordo entre as partes, não poderemos chegar a uma solução.
+
+C: A menos que estudemos bastante, não conseguiremos passar na prova.
+S: Se não estudarmos bastante, não conseguiremos passar na prova.
+
+C: Desde que você termine suas tarefas, poderá sair para se divertir.
+S: Se você terminar suas tarefas, poderá sair para se divertir.
+
+C: Caso ele não venha, teremos que encontrar outra pessoa para o trabalho.
+S: Se ele não vier, teremos que encontrar outra pessoa para o trabalho.
+
+C: Exceto se fizermos uma pausa, não vamos conseguir terminar o trabalho a tempo.
+S: Se não fizermos uma pausa, não vamos conseguir terminar o trabalho a tempo.
+
+C: A menos que você estude, não será aprovado na disciplina.
+S: Se você não estudar, não será aprovado na disciplina.
+
+C: Contanto que você esteja presente, podemos começar a reunião.
+S: Se você estiver presente, podemos começar a reunião.
+
+C: A não ser que você acorde cedo, perderá o ônibus.
+S: Se você não acordar cedo, perderá o ônibus.
+
+C: Caso não haja vagas disponíveis, teremos que procurar em outro lugar.
+S: Se não houver vagas disponíveis, teremos que procurar em outro lugar.
+
+C: Caso o aluno estude diariamente, ele terá melhores notas nas provas.
+S: Se o aluno estudar diariamente, ele terá melhores notas nas provas.
+
+C: Exceto se chover muito, iremos à praia amanhã.
+S: Se não chover muito, iremos à praia amanhã.
+
+C: A menos que eu encontre um trabalho melhor, eu continuarei neste emprego.
+S: Se eu não encontrar um trabalho melhor, eu continuarei neste emprego.
+
+C: Sem que tenhamos uma autorização, não podemos entrar na sala.
+S: Se não tivermos uma autorização, não podemos entrar na sala.
+
+C: Desde que você esteja disposto a ajudar, aceitaremos sua participação.
+S: Se você estiver disposto a ajudar, aceitaremos sua participação.
+
+C: A não ser que você me peça desculpas, não vou te perdoar.
+S: Se você não me pedir desculpas, não vou te perdoar.
+
+C: Caso você não chegue a tempo, iremos embora sem você.
+S: Se você não chegar a tempo, iremos embora sem você.
+
+C: Contanto que você estude bastante, você vai passar no exame.
+S: Se você estudar bastante, você vai passar no exame.
+
+C: Salvo se me pedirem ajuda, não vou interferir na situação.
+S: Se não me pedirem ajuda, não vou interferir na situação.
+
+C: A menos que você se esforce, nunca vai alcançar seus objetivos.
+S: Se você não se esforçar, nunca vai alcançar seus objetivos.
+
+C: A partida será adiada caso chova muito.
+S: Caso chova muito, a partida será adiada.
+
+C: Sem que estudem bastante, eles não irão passar no exame.
+S: Se eles não estudarem bastante, então não irão passar no exame.
+
+C: A menos que compremos os ingressos antecipadamente, corremos o risco de ficar sem lugar.
+S: Se não comprarmos os ingressos antecipadamente, então corremos o risco de ficar sem lugar.
+
+C: Ela só aceitará o convite se o horário permitir.
+S: Ela só aceitará o convite se o horário permitir.
+
+C: Caso você não se exercite regularmente, sua saúde pode ser afetada.
+S: Se você não se exercitar regularmente, então sua saúde pode ser afetada.
+
+C: A não ser que tenhamos um plano B, não podemos arriscar.
+S: Se não tivermos um plano B, então não podemos arriscar.
+
+C: Desde que mantenhamos a calma, tudo vai dar certo.
+S: Se mantivermos a calma, então tudo vai dar certo.
+
+C: Contanto que você termine o trabalho, pode sair mais cedo.
+S: Se você terminar o trabalho, então pode sair mais cedo.
+
+C: Salvo se houver algum imprevisto, estaremos presentes na reunião.
+S: Se não houver algum imprevisto, então estaremos presentes na reunião.
+
+C: A menos que você mude de atitude, não poderemos continuar juntos.
+S: Se você não mudar de atitude, então não poderemos continuar juntos.
+
+C: A festa será cancelada, caso chova no dia do evento.
+S: Caso chova no dia do evento, a festa será cancelada.
+
+C: Sem que haja um acordo prévio, não poderemos prosseguir com o projeto.
+S: Não poderemos prosseguir com o projeto, sem que haja um acordo prévio.
+
+C: Desde que você cumpra os requisitos, será aceito no programa de intercâmbio.
+S: Será aceito no programa de intercâmbio, desde que você cumpra os requisitos.
+
+C: Contanto que a entrega seja feita até a data limite, não haverá problemas.
+S: Não haverá problemas, contanto que a entrega seja feita até a data limite.
+
+C: A menos que estudem para a prova, não conseguirão uma boa nota.
+S: Se não estudarem para a prova, então não conseguirão uma boa nota.
+
+C: Caso não sigam as regras, serão penalizados.
+S: Serão penalizados, caso não sigam as regras.
+
+C: Exceto se tiverem autorização, não poderão entrar na sala.
+S: Se não tiverem autorização, então não poderão entrar na sala.
+
+C: A não ser que apareça uma solução viável, teremos que adiar o projeto.
+S: Teremos que adiar o projeto, a não ser que apareça uma solução viável.
+
+C: Salvo se houver mudança de planos, o evento acontecerá como planejado.
+S: O evento acontecerá como planejado, salvo se houver mudança de planos.
+
+C: Se não chegarem a tempo, perderão o voo.
+S: Perderão o voo, se não chegarem a tempo.
+
+C: Caso o tempo esteja bom, faremos um piquenique no parque.
+S: Faremos um piquenique no parque, caso o tempo esteja bom.
+
+C: Não irei à festa se não me convidarem.
+S: Se não me convidarem, não irei à festa.
+
+C: A viagem será cancelada a menos que todos confirmem a presença.
+S: Se todos não confirmarem a presença, a viagem será cancelada.
+
+C: Sem que o problema seja resolvido, não poderemos prosseguir com o projeto.
+S: Não poderemos prosseguir com o projeto, se o problema não for resolvido.
+
+C: A menos que estudemos, não passaremos na prova.
+S: Se não estudarmos, não passaremos na prova.
+
+C: Contanto que ele esteja disponível, marcarei uma reunião com ele.
+S: Marcarei uma reunião com ele, contanto que ele esteja disponível.
+
+C: A não ser que você me peça desculpas, não irei te perdoar.
+S: Se você não me pedir desculpas, não irei te perdoar.
+
+C: Desde que você traga um acompanhante, poderá ir à festa.
+S: Você poderá ir à festa, desde que traga um acompanhante.
+
+C: Caso não encontre as chaves, não conseguirei abrir a porta.
+S: Não conseguirei abrir a porta, caso não encontre as chaves.
+
+C: Exceto se você me ajudar, não conseguiremos terminar o projeto a tempo.
+S: Não conseguiremos terminar o projeto a tempo, exceto se você me ajudar.
+
+C: Embora estivesse cansado, ele continuou estudando até tarde da noite.
+S: Ele continuou estudando até tarde da noite, mesmo estando cansado.
+
+C: Se fizer sol amanhã, iremos à praia.
+S: Iremos à praia amanhã se fizer sol.
+
+C: A menos que chova, faremos o piquenique no parque.
+S: Faremos o piquenique no parque, a menos que chova.
+
+C: Caso a reunião seja cancelada, avisem-me imediatamente.
+S: Avisem-me imediatamente caso a reunião seja cancelada.
+
+C: Sem que ele estude para a prova, vai ser difícil passar.
+S: Vai ser difícil passar sem que ele estude para a prova.
+
+C: Desde que você me ajude, conseguiremos terminar o projeto a tempo.
+S: Conseguiremos terminar o projeto a tempo desde que você me ajude.
+
+C: A menos que ele mude de atitude, não irei mais conversar com ele.
+S: Não irei mais conversar com ele a menos que ele mude de atitude.
+
+C: Contanto que você não se atrase, podemos sair agora mesmo.
+S: Podemos sair agora mesmo contanto que você não se atrase.
+
+C: Se não treinarmos bastante, não teremos chances de ganhar o campeonato.
+S: Não teremos chances de ganhar o campeonato se não treinarmos bastante.
+
+C: Salvo algumas exceções, os alunos são obrigados a usar uniforme na escola.
+S: Os alunos são obrigados a usar uniforme na escola, salvo algumas exceções.
+
+C: Se você estudar bastante, vai passar no exame.
+
+S: Vai passar no exame se você estudar bastante.
+
+C: A menos que ele pague a dívida, não poderá entrar no clube.
+
+S: Não poderá entrar no clube a menos que ele pague a dívida.
+
+C: Caso chova amanhã, cancelaremos o passeio.
+
+S: Cancelaremos o passeio caso chova amanhã.
+
+C: Sem que você termine suas tarefas, não poderá sair para brincar.
+
+S: Não poderá sair para brincar sem que você termine suas tarefas.
+
+C: A menos que ela compre os ingressos, não iremos ao concerto.
+
+S: Não iremos ao concerto a menos que ela compre os ingressos.
+
+C: Se você não correr, não vai conseguir alcançá-los.
+
+S: Não vai conseguir alcançá-los se você não correr.
+
+C: Caso ele não estude, vai tirar notas baixas.
+
+S: Vai tirar notas baixas caso ele não estude.
+
+C: Sem que você me ajude, não vou conseguir terminar a tarefa a tempo.
+
+S: Não vou conseguir terminar a tarefa a tempo sem que você me ajude.
+
+C: A menos que ele treine todos os dias, não será selecionado para o time.
+
+S: Não será selecionado para o time a menos que ele treine todos os dias.
+
+C: Caso você não acorde cedo, perderá o ônibus.
+
+S: Perderá o ônibus caso você não acorde cedo.
+
+C: O jogo será adiado caso chova muito durante a tarde.
+S: Caso chova muito durante a tarde, o jogo será adiado.
+
+C: Sem que você estude, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: A menos que você chegue a tempo, iremos embora sem você.
+S: Se você não chegar a tempo, iremos embora sem você.
+
+C: A não ser que eu tenha comido muito, vou aceitar a sobremesa.
+S: Se eu não tiver comido muito, vou aceitar a sobremesa.
+
+C: Espero que ele não descubra que eu disse isso.
+S: Se ele descobrir que eu disse isso, será um problema.
+
+C: Vamos começar a viagem contanto que o tempo permita.
+S: Se o tempo permitir, vamos começar a viagem.
+
+C: A menos que você pague a dívida, não poderei te emprestar dinheiro.
+S: Se você não pagar a dívida, não poderei te emprestar dinheiro.
+
+C: Desde que você siga as instruções, não terá problemas.
+S: Se você seguir as instruções, não terá problemas.
+
+C: Caso ele se atrase, começaremos sem ele.
+S: Se ele se atrasar, começaremos sem ele.
+
+C: Salvo se ocorra alguma emergência, não cancele sua viagem.
+S: Se não ocorrer alguma emergência, não cancele sua viagem.
+
+C: Se chover amanhã, vou levar meu guarda-chuva.
+S: Vou levar meu guarda-chuva se chover amanhã.
+
+C: Caso você não pague a conta, não iremos mais te servir.
+S: Não iremos mais te servir caso você não pague a conta.
+
+C: Sem que estudem bastante, não passarão no exame.
+S: Não passarão no exame sem que estudem bastante.
+
+C: A menos que ele me peça desculpas, não vou perdoá-lo.
+S: Não vou perdoá-lo a menos que ele me peça desculpas.
+
+C: Se eu tiver tempo, irei ao cinema.
+S: Irei ao cinema se eu tiver tempo.
+
+C: Caso não haja mais ingressos, não poderemos assistir ao show.
+S: Não poderemos assistir ao show caso não haja mais ingressos.
+
+C: Sem que ganhem a partida, não serão campeões.
+S: Não serão campeões sem que ganhem a partida.
+
+C: A menos que ela estude, não será aprovada no vestibular.
+S: Não será aprovada no vestibular a menos que ela estude.
+
+C: Se eu não conseguir chegar a tempo, vocês podem ir sem mim.
+S: Vocês podem ir sem mim se eu não conseguir chegar a tempo.
+
+C: Caso ele não compareça à reunião, não teremos conclusões definidas.
+S: Não teremos conclusões definidas caso ele não compareça à reunião.
+
+C: Se você estudar bastante, passará no exame.
+S: Passará no exame se estudar bastante.
+
+C: Caso você queira, podemos sair para jantar.
+S: Podemos sair para jantar caso você queira.
+
+C: Sem que ele tenha estudado, não será aprovado na prova.
+S: Não será aprovado na prova sem ter estudado.
+
+C: A menos que chova, iremos à praia.
+S: Iremos à praia caso não chova.
+
+C: Desde que chegue cedo, poderá participar da reunião.
+S: Poderá participar da reunião desde que chegue cedo.
+
+C: A não ser que compre os ingressos, não iremos ao cinema.
+S: Não iremos ao cinema a menos que compre os ingressos.
+
+C: Exceto se você me peça, não irei te ajudar.
+S: Não irei te ajudar exceto se você me peça.
+
+C: Contanto que você pague a conta, jantaremos no restaurante.
+S: Jantaremos no restaurante contanto que você pague a conta.
+
+C: Caso não tenha dinheiro, não poderá fazer a viagem.
+S: Não poderá fazer a viagem caso não tenha dinheiro.
+
+C: Se você não se importar, posso ler seu livro.
+S: Posso ler seu livro se você não se importar.
+
+C: Se chover amanhã, a partida será cancelada.
+S: A partida será cancelada se chover amanhã.
+
+C: Caso você não estude, vai tirar uma nota baixa no teste.
+S: Se você não estudar, vai tirar uma nota baixa no teste.
+
+C: Se eu ganhar na loteria, vou viajar pelo mundo.
+S: Vou viajar pelo mundo se eu ganhar na loteria.
+
+C: Caso você não chegue a tempo, vamos embora sem você.
+S: Vamos embora sem você caso você não chegue a tempo.
+
+C: Se o trânsito estiver congestionado, chegaremos atrasados.
+S: Chegaremos atrasados se o trânsito estiver congestionado.
+
+C: Caso você não coma sua salada, não terá sobremesa.
+S: Não terá sobremesa caso você não coma sua salada.
+
+C: Se você não lavar a louça, não poderá sair para brincar.
+S: Não poderá sair para brincar se você não lavar a louça.
+
+C: Caso a temperatura caia abaixo de zero, haverá neve.
+S: Haverá neve caso a temperatura caia abaixo de zero.
+
+C: Se você não estudar para a prova, não vai passar.
+S: Não vai passar se você não estudar para a prova.
+
+C: Caso não haja comida suficiente, precisaremos pedir mais.
+S: Precisaremos pedir mais caso não haja comida suficiente.
+
+C: Caso o tempo permita, irei ao cinema.
+S: Irei ao cinema, caso o tempo permita.
+
+C: Sem que haja boa gestão, o negócio está fadado ao fracasso.
+S: O negócio está fadado ao fracasso, sem que haja boa gestão.
+
+C: A menos que você estude, não passará na prova.
+S: Se você não estudar, então não passará na prova.
+
+C: Caso ele ganhe na loteria, viajará pelo mundo.
+S: Ele viajará pelo mundo, caso ganhe na loteria.
+
+C: A não ser que você compre os ingressos, não poderemos assistir ao show.
+S: Se você não comprar os ingressos, então não poderemos assistir ao show.
+
+C: Sem que você treine todos os dias, não conseguirá alcançar seus objetivos.
+S: Você não conseguirá alcançar seus objetivos, sem que treine todos os dias.
+
+C: A menos que chova, iremos fazer um piquenique amanhã.
+S: Iremos fazer um piquenique amanhã, se não chover.
+
+C: Se você não pagar a conta a tempo, terá que enfrentar as consequências.
+S: Terá que enfrentar as consequências, se você não pagar a conta a tempo.
+
+C: Caso você perca o ônibus, terá que esperar o próximo.
+S: Terá que esperar o próximo ônibus, caso você perca.
+
+C: A menos que você estude, não será aprovado no exame.
+S: Se você não estudar, então não será aprovado no exame.
+
+C: Quando chove, o gramado fica molhado.
+S: O gramado fica molhado quando chove.
+
+C: Caso você não se apresse, perderemos o ônibus.
+S: Se você não se apressar, perderemos o ônibus.
+
+C: A menos que estudemos, não passaremos na prova.
+S: Se não estudarmos, não passaremos na prova.
+
+C: Sem que você avise, não poderemos te esperar.
+S: Se você não avisar, não poderemos te esperar.
+
+C: Exceto se você pagar adiantado, não reservaremos o quarto para você.
+S: Se você não pagar adiantado, não reservaremos o quarto para você.
+
+C: Contanto que você esteja presente, a reunião irá acontecer.
+S: Se você estiver presente, a reunião irá acontecer.
+
+C: A não ser que chova, iremos à praia amanhã.
+S: Se não chover, iremos à praia amanhã.
+
+C: Caso você não melhore, precisará ir ao médico.
+S: Se você não melhorar, precisará ir ao médico.
+
+C: Desde que você estude, conseguirá aprender o assunto.
+S: Se você estudar, conseguirá aprender o assunto.
+
+C: A menos que você queira, não iremos ao cinema.
+S: Se você não quiser, não iremos ao cinema.
+
+C: Caso a equipe ganhe todos os jogos, eles serão considerados campeões.
+S: Se a equipe ganhar todos os jogos, eles serão considerados campeões.
+
+C: A menos que você estude, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: Se o tempo estiver bom, iremos à praia.
+S: Caso o tempo esteja bom, iremos à praia.
+
+C: Sem que ele me peça desculpas, eu não vou perdoá-lo.
+S: Se ele não me pedir desculpas, eu não vou perdoá-lo.
+
+C: Desde que você estude, terá boas notas.
+S: Caso você estude, terá boas notas.
+
+C: A não ser que chova, o evento será realizado no jardim.
+S: Caso não chova, o evento será realizado no jardim.
+
+C: Exceto se você pagar adiantado, não farei o trabalho.
+S: Caso você não pague adiantado, não farei o trabalho.
+
+C: Contanto que você traga o material, podemos começar a aula.
+S: Caso você traga o material, podemos começar a aula.
+
+C: Caso você tenha alguma dúvida, pode me perguntar.
+S: Se você tiver alguma dúvida, pode me perguntar.
+
+C: Salvo se ele me convencer do contrário, continuarei com minha opinião.
+S: Caso ele não me convença do contrário, continuarei com minha opinião.
+
+C: Se você estudar com dedicação, conseguirá boas notas.
+S: Conseguirá boas notas se estudar com dedicação.
+
+C: Caso chova amanhã, vamos cancelar o passeio.
+S: Vamos cancelar o passeio caso chova amanhã.
+
+C: Sem que você peça desculpas, não poderemos continuar a amizade.
+S: Não poderemos continuar a amizade sem que você peça desculpas.
+
+C: A menos que o transporte chegue a tempo, perderemos o voo.
+S: Perderemos o voo a menos que o transporte chegue a tempo.
+
+C: Desde que você se comporte bem, ganhará um presente.
+S: Ganhará um presente desde que você se comporte bem.
+
+C: Exceto se você tenha uma justificativa válida, não poderá faltar à aula.
+S: Não poderá faltar à aula exceto se você tenha uma justificativa válida.
+
+C: Contanto que você cumpra as regras, poderá fazer parte do clube.
+S: Poderá fazer parte do clube contanto que você cumpra as regras.
+
+C: A menos que você tenha dinheiro suficiente, não poderá comprar o carro.
+S: Não poderá comprar o carro a menos que você tenha dinheiro suficiente.
+
+C: Salvo se você tenha uma emergência, não ligue para mim após as 10h.
+S: Não ligue para mim após as 10h salvo se você tenha uma emergência.
+
+C: A não ser que você estude para a prova, irá tirar uma nota baixa.
+S: Irá tirar uma nota baixa a não ser que você estude para a prova.
+
+C: Caso chova hoje à noite, iremos ao cinema amanhã.
+S: Se chover hoje à noite, iremos ao cinema amanhã.
+
+C: Sem que você estude, irá tirar notas baixas nas provas.
+S: Se você não estudar, irá tirar notas baixas nas provas.
+
+C: A menos que a empresa aumente os salários, os funcionários podem entrar em greve.
+S: Se a empresa não aumentar os salários, os funcionários podem entrar em greve.
+
+C: Desde que você esteja em casa até a meia-noite, não terá problemas.
+S: Se você estiver em casa até a meia-noite, não terá problemas.
+
+C: A não ser que sejam tomadas medidas urgentes, o meio ambiente continuará se deteriorando.
+S: Se não forem tomadas medidas urgentes, o meio ambiente continuará se deteriorando.
+
+C: Salvo se haja um contratempo, chegaremos a tempo para o jantar.
+S: Se não houver um contratempo, chegaremos a tempo para o jantar.
+
+C: Caso a temperatura fique abaixo de zero, as plantas podem morrer.
+S: Se a temperatura ficar abaixo de zero, as plantas podem morrer.
+
+C: Contanto que você estude com dedicação, poderá passar no exame.
+S: Se você estudar com dedicação, poderá passar no exame.
+
+C: Exceto se houver alguma emergência, não sairemos de casa hoje.
+S: Se não houver alguma emergência, não sairemos de casa hoje.
+
+C: A menos que você se esforce, não conseguirá alcançar seus objetivos.
+S: Se você não se esforçar, não conseguirá alcançar seus objetivos.
+
+C: Se ele não estudar, não passará no exame.
+S: Se não estudar, não passará no exame.
+
+C: A menos que chova, iremos ao parque.
+S: Se não chover, iremos ao parque.
+
+C: Sem que você me explique, não vou entender.
+S: Se você não me explicar, não vou entender.
+
+C: Caso o projeto seja aprovado, iremos comemorar.
+S: Se o projeto for aprovado, iremos comemorar.
+
+C: A não ser que ela peça desculpas, não vou perdoá-la.
+S: Se ela não pedir desculpas, não vou perdoá-la.
+
+C: Desde que você venha, iremos ao cinema.
+S: Se você vier, iremos ao cinema.
+
+C: Contanto que ela compre os ingressos, iremos ao show.
+S: Se ela comprar os ingressos, iremos ao show.
+
+C: Exceto se você me convencer, não mudarei de opinião.
+S: Se você não me convencer, não mudarei de opinião.
+
+C: Salvo se ele mudar de ideia, não iremos viajar juntos.
+S: Se ele não mudar de ideia, não iremos viajar juntos.
+
+C: A menos que ela termine o trabalho, não sairemos daqui.
+S: Se ela não terminar o trabalho, não sairemos daqui.
+
+C: Se não estudar, não passará no exame.
+S: Se não passar no exame, é porque não estudou.
+
+C: Caso chova, irei de guarda-chuva.
+S: Se chover, irei de guarda-chuva.
+
+C: A menos que economizem, não conseguirão viajar.
+S: Se não economizarem, não conseguirão viajar.
+
+C: Sem que termine o trabalho, não poderá sair.
+S: Se não terminar o trabalho, não poderá sair.
+
+C: Contanto que esteja pronto, podemos partir agora.
+S: Se estiver pronto, podemos partir agora.
+
+C: Desde que chegue a tempo, poderá participar do evento.
+S: Se chegar a tempo, poderá participar do evento.
+
+C: Salvo se mude de ideia, não irei ao encontro.
+S: Se não mudar de ideia, não irei ao encontro.
+
+C: A não ser que se esforçe, não conquistará seus objetivos.
+S: Se não se esforçar, não conquistará seus objetivos.
+
+C: Caso não tenha dinheiro, não poderá comprar o presente.
+S: Se não tiver dinheiro, não poderá comprar o presente.
+
+C: Exceto se haja uma emergência, não ligue para mim durante a reunião.
+S: Se não houver uma emergência, não ligue para mim durante a reunião.
+
+C: Se chover amanhã, não irei ao parque.
+S: Não irei ao parque se chover amanhã.
+
+C: Caso ela me ligue, direi a ela que estou ocupado.
+S: Direi a ela que estou ocupado caso ela me ligue.
+
+C: Sem que estudem bastante, não passarão na prova.
+S: Não passarão na prova sem estudarem bastante.
+
+C: A menos que compre um presente, não irei à festa.
+S: Não irei à festa a menos que compre um presente.
+
+C: Contanto que pague a entrada, poderá entrar no show.
+S: Poderá entrar no show contanto que pague a entrada.
+
+C: Desde que termine o trabalho, poderá sair mais cedo.
+S: Poderá sair mais cedo desde que termine o trabalho.
+
+C: A não ser que estude, não entenderá as aulas.
+S: Não entenderá as aulas a menos que estude.
+
+C: Salvo engano, a reunião será na próxima segunda-feira.
+S: A reunião será na próxima segunda-feira salvo engano.
+
+C: Caso não encontre as chaves, ficarei trancado fora de casa.
+S: Ficarei trancado fora de casa caso não encontre as chaves.
+
+C: A menos que chegue a tempo, perderá o voo.
+S: Perderá o voo a menos que chegue a tempo.
+
+C: Caso não chova, iremos ao parque.
+S: Se não chover, iremos ao parque.
+
+C: A menos que ele estude, não passará no exame.
+S: Se ele não estudar, não passará no exame.
+
+C: Sem que resolva esse problema, não poderá seguir em frente.
+S: Se não resolver esse problema, não poderá seguir em frente.
+
+C: Contanto que ela esteja presente, poderemos começar a reunião.
+S: Se ela estiver presente, poderemos começar a reunião.
+
+C: Exceto se o trânsito estiver engarrafado, chegaremos a tempo.
+S: Se o trânsito não estiver engarrafado, chegaremos a tempo.
+
+C: Desde que ele peça desculpas, poderemos perdoá-lo.
+S: Se ele pedir desculpas, poderemos perdoá-lo.
+
+C: A menos que faça exercícios regularmente, não conseguirá perder peso.
+S: Se não fizer exercícios regularmente, não conseguirá perder peso.
+
+C: Salvo se haja uma emergência, o evento será realizado.
+S: Se não houver uma emergência, o evento será realizado.
+
+C: A não ser que estudem mais, não passarão de ano.
+S: Se não estudarem mais, não passarão de ano.
+
+C: Caso eles cheguem a um acordo, poderemos resolver o problema.
+S: Se eles chegarem a um acordo, poderemos resolver o problema.
+
+C: Vou pagar a conta se você me emprestar dinheiro.
+S: Se você me emprestar dinheiro, vou pagar a conta.
+
+C: A festa será cancelada, a menos que chova.
+S: Se não chover, a festa será cancelada.
+
+C: A viagem será adiada caso o voo seja cancelado.
+S: Caso o voo seja cancelado, a viagem será adiada.
+
+C: A encomenda não será entregue sem que o pagamento seja efetuado.
+S: Se o pagamento não for efetuado, a encomenda não será entregue.
+
+C: Não haverá desconto a menos que o cliente apresente o cupom.
+S: Se o cliente não apresentar o cupom, não haverá desconto.
+
+C: As aulas serão suspensas caso haja greve dos professores.
+S: Caso haja greve dos professores, as aulas serão suspensas.
+
+C: A palestra só será realizada se houver inscrições suficientes.
+S: Se não houver inscrições suficientes, a palestra não será realizada.
+
+C: O projeto não será aprovado sem que seja feita uma revisão.
+S: Se não for feita uma revisão, o projeto não será aprovado.
+
+C: Ele não tomaria essa decisão a menos que estivesse desesperado.
+S: Se ele não estiver desesperado, não tomaria essa decisão.
+
+C: A promoção só será válida se o cliente apresentar o cartão fidelidade.
+S: Se o cliente não apresentar o cartão fidelidade, a promoção não será válida.
+
+C: O time só vai ganhar o campeonato se treinar duro.
+S: Se o time não treinar duro, não vai ganhar o campeonato.
+
+C: A viagem será cancelada caso chova no dia.
+S: Caso chova no dia, a viagem será cancelada.
+
+C: A empresa vai contratar mais funcionários, a não ser que o orçamento não permita.
+S: Se o orçamento não permitir, a empresa não vai contratar mais funcionários.
+
+C: O político só irá participar do debate se for convidado.
+S: Se o político não for convidado, não irá participar do debate.
+
+C: A festa será adiada se não tivermos um local adequado.
+S: Se não tivermos um local adequado, a festa será adiada.
+
+C: Ele só vai desistir do projeto se encontrar uma solução melhor.
+S: Se ele não encontrar uma solução melhor, não vai desistir do projeto.
+
+C: A venda do produto será liberada assim que os testes forem concluídos.
+S: Assim que os testes forem concluídos, a venda do produto será liberada.
+
+C: A reunião será cancelada desde que o chefe não possa comparecer.
+S: Desde que o chefe não possa comparecer, a reunião será cancelada.
+
+C: O evento será realizado contanto que existam patrocinadores suficientes.
+S: Contanto que existam patrocinadores suficientes, o evento será realizado.
+
+C: A empresa irá contratar mais profissionais, salvo se houver problemas financeiros.
+S: Se houver problemas financeiros, a empresa não irá contratar mais profissionais.
+
+C: Caso chova amanhã, não iremos ao parque.
+S: Se chover amanhã, então não iremos ao parque.
+
+C: A menos que estudes mais, não conseguirás passar na prova.
+S: Se não estudares mais, então não conseguirás passar na prova.
+
+C: Se você não fizer o trabalho, eu não irei ajudar.
+S: Caso não faças o trabalho, eu não irei ajudar.
+
+C: Sem que eu tenha garantias, não irei investir no projeto.
+S: Se eu não tiver garantias, então não irei investir no projeto.
+
+C: A não ser que chegue a tempo, não vou ao cinema.
+S: Se não chegares a tempo, então não irei ao cinema.
+
+C: Contanto que você se comporte bem, poderá sair mais tarde.
+S: Caso te comportes bem, poderás sair mais tarde.
+
+C: Se não houver vagas disponíveis, teremos que aguardar.
+S: Caso não haja vagas disponíveis, teremos que aguardar.
+
+C: Exceto se você pagar a multa, não poderá retirar o documento.
+S: Se não pagares a multa, então não poderás retirar o documento.
+
+C: Desde que você cumpra todas as regras, terá direito ao benefício.
+S: Caso cumpras todas as regras, terás direito ao benefício.
+
+C: Se não houver resposta até amanhã, cancelaremos o evento.
+S: Caso não haja resposta até amanhã, cancelaremos o evento.
+
+C: Se você estudar bastante, passará na prova.
+S: Passará na prova se estudar bastante.
+
+C: A menos que ele esteja muito ocupado, irá ao cinema comigo.
+S: Irá ao cinema comigo, a menos que esteja muito ocupado.
+
+C: Se você não fizer a tarefa, ficará de castigo.
+S: Ficará de castigo se não fizer a tarefa.
+
+C: Caso chova amanhã, não iremos ao parque.
+S: Não iremos ao parque caso chova amanhã.
+
+C: A não ser que ela melhore, não poderá sair de casa.
+S: Não poderá sair de casa, a não ser que ela melhore.
+
+C: Desde que tenha dinheiro, viajarei nas férias.
+S: Viajarei nas férias, desde que tenha dinheiro.
+
+C: Contanto que ele se comporte bem, ganhará um presente.
+S: Ganhará um presente, contanto que ele se comporte bem.
+
+C: A menos que minha mãe permita, não poderei dormir na casa do meu amigo.
+S: Não poderei dormir na casa do meu amigo, a menos que minha mãe permita.
+
+C: Se você não estudar, não passará de ano.
+S: Não passará de ano se não estudar.
+
+C: Caso eu encontre um emprego, poderei viajar nas férias.
+S: Poderei viajar nas férias, caso encontre um emprego.
+
+C: Se chover amanhã, não iremos à praia.
+S: Não iremos à praia se chover amanhã.
+
+C: Caso você queira, podemos marcar um encontro.
+S: Podemos marcar um encontro caso você queira.
+
+C: A menos que estudemos, não seremos aprovados na prova.
+S: Não seremos aprovados na prova a menos que estudemos.
+
+C: Desde que tenha dinheiro, você poderá comprar o que quiser.
+S: Você poderá comprar o que quiser desde que tenha dinheiro.
+
+C: Exceto se ela resolver ajudar, não conseguiremos terminar o projeto a tempo.
+S: Não conseguiremos terminar o projeto a tempo exceto se ela resolver ajudar.
+
+C: Contanto que você me prometa que não vai mentir, eu aceito ajudar.
+S: Eu aceito ajudar contanto que você me prometa que não vai mentir.
+
+C: A não ser que ele acorde cedo, perderá o ônibus.
+S: Ele perderá o ônibus a não ser que acorde cedo.
+
+C: Se não praticar, não conseguirá melhorar suas habilidades.
+S: Não conseguirá melhorar suas habilidades se não praticar.
+
+C: A menos que economizemos dinheiro, não poderemos viajar nas férias.
+S: Não poderemos viajar nas férias a menos que economizemos dinheiro.
+
+C: Caso ele não faça a tarefa, não será recompensado.
+S: Não será recompensado caso ele não faça a tarefa.
+
+C: Caso o tempo esteja bom, iremos à praia amanhã.
+S: Se o tempo estiver bom, iremos à praia amanhã.
+
+C: A menos que você estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: Sem que ele acorde cedo, sempre se atrasa para o trabalho.
+S: Se ele não acordar cedo, sempre se atrasa para o trabalho.
+
+C: Caso não haja combustível suficiente, o carro não irá funcionar.
+S: Se não houver combustível suficiente, o carro não irá funcionar.
+
+C: A menos que venda todas as sua ações, não terá o dinheiro que precisa.
+S: Se não vender todas as suas ações, não terá o dinheiro que precisa.
+
+C: Sem que tome um café, sempre fica sonolento de manhã.
+S: Se não tomar um café, sempre fica sonolento de manhã.
+
+C: Caso não tenha dinheiro, não poderá comprar o presente.
+S: Se não tiver dinheiro, não poderá comprar o presente.
+
+C: A menos que conserte o vazamento, a água continuará desperdiçada.
+S: Se não consertar o vazamento, a água continuará desperdiçada.
+
+C: Sem que se exercite diariamente, nunca perderá peso.
+S: Se não se exercitar diariamente, nunca perderá peso.
+
+C: Caso não faça a inscrição, não poderá participar do evento.
+S: Se não fizer a inscrição, não poderá participar do evento.
+
+C: A reunião será cancelada se chover muito.
+S: Se chover muito, a reunião será cancelada.
+
+C: Sem que você estude, não passará no exame.
+S: Se você não estudar, não passará no exame.
+
+C: A menos que você aceite as condições, não teremos um acordo.
+S: Se você não aceitar as condições, não teremos um acordo.
+
+C: Ela fará a viagem contanto que tenha dinheiro.
+S: Se ela tiver dinheiro, fará a viagem.
+
+C: Caso você não chegue antes das 8h, perderá o voo.
+S: Se você não chegar antes das 8h, perderá o voo.
+
+C: O projeto será aprovado desde que atenda aos requisitos.
+S: Se o projeto atender aos requisitos, será aprovado.
+
+C: Exceto se pagarmos adiantado, não teremos acesso ao evento.
+S: Se não pagarmos adiantado, não teremos acesso ao evento.
+
+C: Salvo se as condições mudarem, não poderemos continuar.
+S: Se as condições não mudarem, não poderemos continuar.
+
+C: A não ser que você se desculpe, não falarei com você.
+S: Se você não se desculpar, não falarei com você.
+
+C: A menos que você melhore sua performance, será substituído.
+S: Se você não melhorar sua performance, será substituído.
+
+C: Se você não estudar, não conseguirá passar na prova.
+S: Não conseguirá passar na prova se você não estudar.
+
+C: A menos que você compre os ingressos antecipadamente, não garantiremos a sua entrada.
+S: Não garantiremos a sua entrada, a menos que você compre os ingressos antecipadamente.
+
+C: Caso chova, o evento será cancelado.
+S: O evento será cancelado caso chova.
+
+C: Não sairei de casa sem que você me dê uma explicação.
+S: Não sairei de casa se você não me der uma explicação.
+
+C: A não ser que você estude, não conquistará boas notas.
+S: Não conquistará boas notas a não ser que você estude.
+
+C: Sem que haja um acordo entre as partes, não será possível fechar o negócio.
+S: Não será possível fechar o negócio sem que haja um acordo entre as partes.
+
+C: Contanto que você cumpra todas as regras, poderá participar do evento.
+S: Poderá participar do evento contanto que você cumpra todas as regras.
+
+C: Desde que você chegue a tempo, não haverá problemas.
+S: Não haverá problemas desde que você chegue a tempo.
+
+C: Exceto se você tenha uma justificativa plausível, não aceitaremos sua ausência.
+S: Não aceitaremos sua ausência exceto se você tenha uma justificativa plausível.
+
+C: Caso você não tenha dinheiro, não poderá comprar o produto.
+S: Não poderá comprar o produto caso você não tenha dinheiro.
+
+C: A viagem será cancelada se o voo for cancelado devido às condições meteorológicas.
+S: Se o voo for cancelado devido às condições meteorológicas, a viagem será cancelada.
+
+C: Caso a empresa não cumpra os prazos de entrega, os clientes ficarão insatisfeitos.
+S: Se a empresa não cumprir os prazos de entrega, os clientes ficarão insatisfeitos.
+
+C: A menos que ele estude bastante, não irá passar no exame.
+S: Se ele não estudar bastante, não irá passar no exame.
+
+C: Se você não pagar a conta até o dia 10, terá que pagar juros.
+S: Se você não pagar a conta até o dia 10, terá que pagar juros.
+
+C: Não iremos fazer a viagem se não conseguirmos as passagens aéreas em promoção.
+S: Se não conseguirmos as passagens aéreas em promoção, não iremos fazer a viagem.
+
+C: Caso o fornecedor não cumpra o contrato, teremos que procurar um novo fornecedor.
+S: Se o fornecedor não cumprir o contrato, teremos que procurar um novo fornecedor.
+
+C: A menos que você me ajude, não conseguirei terminar o projeto a tempo.
+S: Se você não me ajudar, não conseguirei terminar o projeto a tempo.
+
+C: Se não chover amanhã, poderemos fazer um piquenique.
+S: Se não chover amanhã, poderemos fazer um piquenique.
+
+C: Caso o presidente renuncie, o vice-presidente assumirá o cargo.
+S: Se o presidente renunciar, o vice-presidente assumirá o cargo.
+
+C: Não iremos à praia se estiver chovendo.
+S: Se estiver chovendo, não iremos à praia.
+
+C: Ele só vai ao cinema se o filme for de ação.
+S: Se o filme não for de ação, ele não vai ao cinema.
+
+C: A praia só fica lotada se fizer sol.
+S: Se não fizer sol, a praia não fica lotada.
+
+C: Amanhã só irei ao parque se chover.
+S: Se não chover, amanhã não irei ao parque.
+
+C: Ela só vai aceitar o emprego se o salário for bom.
+S: Se o salário não for bom, ela não vai aceitar o emprego.
+
+C: Os jogadores só comemoram o gol se vencerem o jogo.
+S: Se não vencerem o jogo, os jogadores não comemoram o gol.
+
+C: O carro só liga se a bateria estiver carregada.
+S: Se a bateria não estiver carregada, o carro não liga.
+
+C: A festa só acontece se todos confirmarem presença.
+S: Se todos não confirmarem presença, a festa não acontece.
+
+C: Ele só vai viajar nas férias se tiver dinheiro suficiente.
+S: Se não tiver dinheiro suficiente, ele não vai viajar nas férias.
+
+C: O filme só será lançado se tiver muita expectativa do público.
+S: Se não tiver muita expectativa do público, o filme não será lançado.
+
+C: A empresa só contrata novos funcionários se precisar de mais mão de obra.
+S: Se não precisar de mais mão de obra, a empresa não contrata novos funcionários.
+
+C: A festa será cancelada, caso chova.
+S: Caso chova, a festa será cancelada.
+
+C: Sem que ele estude, não passará na prova.
+S: Se ele não estudar, não passará na prova.
+
+C: A menos que você me ajude, não conseguirei fazer isso sozinho.
+S: Se você não me ajudar, não conseguirei fazer isso sozinho.
+
+C: Se você não chegar a tempo, perderá o voo.
+S: Caso você não chegue a tempo, perderá o voo.
+
+C: Exceto se alterarmos o plano, não teremos sucesso.
+S: A não ser que alteremos o plano, não teremos sucesso.
+
+C: Contanto que você esteja disposto a aprender, eu te ensinarei.
+S: Se você estiver disposto a aprender, eu te ensinarei.
+
+C: A menos que você esteja preparado, não entrará no palco.
+S: Caso você não esteja preparado, não entrará no palco.
+
+C: Desde que você me ajude, eu aceitarei o desafio.
+S: Se você me ajudar, eu aceitarei o desafio.
+
+C: Se ele não falar a verdade, será punido.
+S: Caso ele não fale a verdade, será punido.
+
+C: A não ser que você compre o ingresso, não poderá entrar no show.
+S: Se você não comprar o ingresso, não poderá entrar no show.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Iremos ao cinema se chover amanhã.
+
+C: A não ser que ela abra mão dos seus direitos, não haverá acordo.
+S: Não haverá acordo a menos que ela abra mão dos seus direitos.
+
+C: Caso você venha me buscar, sairei com você.
+S: Sairei com você caso você venha me buscar.
+
+C: Exceto se ele chegar a tempo, não poderemos sair juntos.
+S: Não poderemos sair juntos exceto se ele chegar a tempo.
+
+C: Desde que você esteja presente, a festa será um sucesso.
+S: A festa será um sucesso desde que você esteja presente.
+
+C: Contanto que você estude, irá se sair bem na prova.
+S: Irá se sair bem na prova contanto que você estude.
+
+C: A menos que eu durma cedo, estarei cansado amanhã.
+S: Estarei cansado amanhã a menos que eu durma cedo.
+
+C: Salvo se haja algum imprevisto, nós viajaremos amanhã.
+S: Nós viajaremos amanhã salvo se haja algum imprevisto.
+
+C: Sem que você peça desculpas, eu não vou perdoar.
+S: Eu não vou perdoar sem que você peça desculpas.
+
+C: Se você não estiver presente, adiaremos a reunião.
+S: Adiaremos a reunião se você não estiver presente.
+
+C: Caso chova, iremos de carro para o jogo.
+S: Se chover, iremos de carro para o jogo.
+
+C: Exceto se houver algum imprevisto, o evento acontecerá no próximo sábado.
+S: Se não houver algum imprevisto, o evento acontecerá no próximo sábado.
+
+C: Sem que você estude, será difícil passar no exame.
+S: Se você não estudar, será difícil passar no exame.
+
+C: Contanto que você chegue a tempo, poderá participar da reunião.
+S: Se você chegar a tempo, poderá participar da reunião.
+
+C: Desde que você me ajude, conseguiremos terminar o trabalho mais rápido.
+S: Se você me ajudar, conseguiremos terminar o trabalho mais rápido.
+
+C: A menos que você se desculpe, não vou te perdoar.
+S: Se você não se desculpar, não vou te perdoar.
+
+C: A não ser que você passe na entrevista, não conseguirá o emprego.
+S: Se você não passar na entrevista, não conseguirá o emprego.
+
+C: Salvo se você mude de ideia, não conseguiremos resolver o problema.
+S: Se você não mudar de ideia, não conseguiremos resolver o problema.
+
+C: Caso você não queira ir ao cinema, podemos assistir a um filme em casa.
+S: Se você não quiser ir ao cinema, podemos assistir a um filme em casa.
+
+C: Se houver necessidade, podemos pedir ajuda.
+S: Caso haja necessidade, podemos pedir ajuda.
+
+C: Se chover no fim de semana, não iremos à praia.
+S: Não iremos à praia se chover no fim de semana.
+
+C: Contanto que você estude, passará na prova.
+S: Passará na prova contanto que você estude.
+
+C: A menos que ele se desculpe, não irei perdoá-lo.
+S: Não irei perdoá-lo a menos que ele se desculpe.
+
+C: Sem que você me ajude, não conseguiremos terminar a tempo.
+S: Não conseguiremos terminar a tempo sem que você me ajude.
+
+C: Caso não haja transporte público, vamos de carro.
+S: Vamos de carro caso não haja transporte público.
+
+C: Desde que ele tenha dinheiro, irá viajar nas férias.
+S: Irá viajar nas férias desde que ele tenha dinheiro.
+
+C: Exceto se ele chegar atrasado, todos os convidados já estarão lá.
+S: Todos os convidados já estarão lá exceto se ele chegar atrasado.
+
+C: A não ser que você estude, não vai conseguir boas notas.
+S: Não vai conseguir boas notas a não ser que você estude.
+
+C: Salvo se haja uma emergência, não posso cancelar a reunião.
+S: Não posso cancelar a reunião salvo se haja uma emergência.
+
+C: A menos que você me peça desculpas, não vou te perdoar.
+S: Não vou te perdoar a menos que você me peça desculpas.
+
+C: Eu irei ao cinema se o filme for interessante.
+S: Se o filme for interessante, eu irei ao cinema.
+
+C: A professora explicou que não passará a matéria se os alunos não estudarem.
+S: A professora explicou que se os alunos não estudarem, não passará a matéria.
+
+C: Ela só participará da reunião se receber o convite oficial.
+S: Se ela receber o convite oficial, só participará da reunião.
+
+C: O evento será cancelado caso chova no dia.
+S: Caso chova no dia, o evento será cancelado.
+
+C: Se você não terminar suas tarefas, não poderá sair para brincar.
+S: Se você não terminar suas tarefas, então não poderá sair para brincar.
+
+C: Ele só aceitará o emprego se o salário for maior.
+S: Se o salário for maior, ele só aceitará o emprego.
+
+C: A festa será realizada no jardim, a menos que chova.
+S: Se não chover, a festa será realizada no jardim.
+
+C: Se você continuar se comportando mal, será punido.
+S: Se você continuar se comportando mal, então será punido.
+
+C: Amanhã teremos um dia de folga, desde que terminemos todas as tarefas hoje.
+S: Se terminarmos todas as tarefas hoje, amanhã teremos um dia de folga.
+
+C: Caso você não me ajude, não conseguirei concluir o projeto a tempo.
+S: Se você não me ajudar, então não conseguirei concluir o projeto a tempo.
+
+C: Caso chova durante o jogo, a partida será adiada.
+S: Se chover durante o jogo, a partida será adiada.
+
+C: Exceto se o pagamento for feito à vista, não aceitaremos cheque.
+S: Se o pagamento não for feito à vista, não aceitaremos cheque.
+
+C: Contanto que você cumpra todas as tarefas, terá um bônus no final do mês.
+S: Se você cumprir todas as tarefas, terá um bônus no final do mês.
+
+C: A menos que você estude bastante, não vai tirar boas notas.
+S: Se você não estudar bastante, não vai tirar boas notas.
+
+C: Desde que você me ajude com o trabalho, eu te empresto meu carro.
+S: Se você me ajudar com o trabalho, eu te empresto meu carro.
+
+C: A não ser que você saiba cozinhar, não conseguirá fazer esse prato.
+S: Se você não souber cozinhar, não conseguirá fazer esse prato.
+
+C: Salvo se você tiver uma justificativa válida, não poderá faltar à aula.
+S: Se você não tiver uma justificativa válida, não poderá faltar à aula.
+
+C: Caso você chegue atrasado, a porta estará fechada e não poderá entrar.
+S: Se você chegar atrasado, a porta estará fechada e não poderá entrar.
+
+C: Se o semáforo estiver vermelho, pare o carro.
+S: Caso o semáforo esteja vermelho, pare o carro.
+
+C: A menos que você tenha uma boa desculpa, não poderei te desculpar.
+S: Se você não tiver uma boa desculpa, não poderei te desculpar.
+
+C: O evento será cancelado, caso chova muito.
+S: Caso chova muito, o evento será cancelado.
+
+C: Sem que você estude, não irá passar na prova.
+S: Se você não estudar, não irá passar na prova.
+
+C: A menos que haja um milagre, não seremos campeões.
+S: Se não houver um milagre, não seremos campeões.
+
+C: O espetáculo só terá início se todas as cadeiras estiverem ocupadas.
+S: Se todas as cadeiras estiverem ocupadas, o espetáculo só terá início.
+
+C: Salvo engano, o filme será lançado no próximo mês.
+S: Se não houver engano, o filme será lançado no próximo mês.
+
+C: Desde que você esteja seguro, pode seguir em frente.
+S: Se você estiver seguro, pode seguir em frente.
+
+C: Contanto que você traga o documento, poderá participar da reunião.
+S: Se você trouxer o documento, poderá participar da reunião.
+
+C: A não ser que haja uma emergência, não saia do prédio.
+S: Se não houver uma emergência, não saia do prédio.
+
+C: Caso encontremos uma solução, o problema será resolvido.
+S: Se encontrarmos uma solução, o problema será resolvido.
+
+C: Exceto por um detalhe, o trabalho ficou perfeito.
+S: Se não fosse por um detalhe, o trabalho ficou perfeito.
+
+C: Caso chegue atrasado, você não poderá entrar na sala de aula.
+S: Se você chegar atrasado, não poderá entrar na sala de aula.
+
+C: Se não estudar para a prova, você não vai passar.
+S: Caso não estude para a prova, você não vai passar.
+
+C: A menos que chova, iremos ao parque.
+S: Se não chover, iremos ao parque.
+
+C: Talvez eu vá à festa, desde que esteja me sentindo bem.
+S: Caso esteja me sentindo bem, talvez eu vá à festa.
+
+C: Se você não se comportar, será punido.
+S: Caso você não se comporte, será punido.
+
+C: Salvo se houver algum imprevisto, chegarão em breve.
+S: Caso não haja algum imprevisto, chegarão em breve.
+
+C: Contanto que você me ajude, conseguiremos terminar o trabalho a tempo.
+S: Caso você me ajude, conseguiremos terminar o trabalho a tempo.
+
+C: A menos que tenhamos mais informações, não podemos tomar uma decisão.
+S: Caso não tenhamos mais informações, não podemos tomar uma decisão.
+
+C: Caso não tenha dinheiro, não poderá comprar o ingresso.
+S: Se não tiver dinheiro, não poderá comprar o ingresso.
+
+C: Exceto se você tiver uma razão válida, não aceitaremos o seu pedido.
+S: Caso não tenha uma razão válida, não aceitaremos o seu pedido.
+
+C: Se chover durante o evento, a festa será cancelada.
+S: A festa será cancelada se chover durante o evento.
+
+C: A menos que estudem para a prova, eles não alcançarão notas altas.
+S: Se eles não estudarem para a prova, então não alcançarão notas altas.
+
+C: Caso não haja vagas disponíveis, os interessados poderão se inscrever em uma lista de espera.
+S: Os interessados poderão se inscrever em uma lista de espera caso não haja vagas disponíveis.
+
+C: Sem que haja um acordo entre as partes, o processo não pode ser resolvido.
+S: O processo não pode ser resolvido sem que haja um acordo entre as partes.
+
+C: A não ser que ele melhore seu desempenho, será reprovado na disciplina.
+S: Se ele não melhorar seu desempenho, então será reprovado na disciplina.
+
+C: Desde que você chegue a tempo, poderemos sair juntos.
+S: Poderemos sair juntos desde que você chegue a tempo.
+
+C: Exceto se você tiver uma ótima justificativa, não poderá faltar à reunião.
+S: Você não poderá faltar à reunião exceto se tiver uma ótima justificativa.
+
+C: Contanto que você me ajude, conseguiremos terminar o trabalho a tempo.
+S: Conseguiremos terminar o trabalho a tempo contanto que você me ajude.
+
+C: Se ele não se esforçar mais, não alcançará seus objetivos.
+S: Não alcançará seus objetivos se ele não se esforçar mais.
+
+C: A menos que você siga as instruções, não conseguirá montar o móvel corretamente.
+S: Não conseguirá montar o móvel corretamente a menos que siga as instruções.
+
+C: Se eu tiver tempo, irei ao cinema.
+S: Irei ao cinema se tiver tempo.
+
+C: Sem que o projeto seja aprovado, não podemos dar andamento.
+S: Não podemos dar andamento sem que o projeto seja aprovado.
+
+C: Caso você não estude, irá tirar notas baixas.
+S: Você irá tirar notas baixas caso não estude.
+
+C: Se chover amanhã, não irei ao parque.
+S: Não irei ao parque se chover amanhã.
+
+C: A menos que você me peça desculpas, não vou perdoar.
+S: Não vou perdoar a menos que você me peça desculpas.
+
+C: Caso não haja interesse, cancelaremos o evento.
+S: Cancelaremos o evento caso não haja interesse.
+
+C: Exceto se você tiver motivo justificável, não aceitarei sua ausência.
+S: Não aceitarei sua ausência exceto se você tiver motivo justificável.
+
+C: Desde que você se comprometa a estudar, eu te darei o livro.
+S: Eu te darei o livro desde que você se comprometa a estudar.
+
+C: Se você não fizer a inscrição a tempo, perderá a vaga.
+S: Perderá a vaga se você não fizer a inscrição a tempo.
+
+C: A menos que você me ajude, não conseguirei terminar o trabalho.
+S: Não conseguirei terminar o trabalho a menos que você me ajude.
+
+C: Caso chova amanhã, não irei ao parque.
+S: Se chover amanhã, então não irei ao parque.
+
+C: A menos que estudemos, não passaremos na prova.
+S: Se não estudarmos, então não passaremos na prova.
+
+C: Se você não terminar seu trabalho a tempo, não receberá o bônus.
+S: Caso você não termine seu trabalho a tempo, não receberá o bônus.
+
+C: A menos que você traga o documento necessário, não poderá entrar.
+S: Se você não trouxer o documento necessário, então não poderá entrar.
+
+C: Caso o produto seja defeituoso, você pode devolvê-lo para obter um reembolso.
+S: Se o produto for defeituoso, então você pode devolvê-lo para obter um reembolso.
+
+C: Se não pagarmos nossas contas a tempo, teremos que pagar juros.
+S: Caso não paguemos nossas contas a tempo, teremos que pagar juros.
+
+C: Sem que você faça um curso de especialização, não conseguirá um emprego melhor.
+S: Caso você não faça um curso de especialização, não conseguirá um emprego melhor.
+
+C: A não ser que você siga as instruções corretamente, não obterá os resultados esperados.
+S: Se você não seguir as instruções corretamente, então não obterá os resultados esperados.
+
+C: Caso você compre o ingresso antecipadamente, pagará um preço mais baixo.
+S: Se você comprar o ingresso antecipadamente, então pagará um preço mais baixo.
+
+C: A menos que você treine regularmente, não verá melhorias em sua performance.
+S: Se você não treinar regularmente, então não verá melhorias em sua performance.
+
+C: Caso chova, iremos cancelar o evento.
+S: Se chover, iremos cancelar o evento.
+
+C: Exceto se você estudar, não vai passar na prova.
+S: Se você não estudar, não vai passar na prova.
+
+C: Desde que você me ajude, posso terminar a tarefa mais rápido.
+S: Se você me ajudar, posso terminar a tarefa mais rápido.
+
+C: A menos que você acorde cedo, vai perder o ônibus.
+S: Se você não acordar cedo, vai perder o ônibus.
+
+C: Sem que eu tenha dinheiro, não posso comprar o presente.
+S: Se eu não tiver dinheiro, não posso comprar o presente.
+
+C: Caso a temperatura caia, vou vestir um casaco.
+S: Se a temperatura cair, vou vestir um casaco.
+
+C: Contanto que você estude, irá se sair bem na prova.
+S: Se você estudar, irá se sair bem na prova.
+
+C: A não ser que você corra, não vai conseguir chegar a tempo.
+S: Se você não correr, não vai conseguir chegar a tempo.
+
+C: Se não houver sinal, não poderemos fazer a ligação.
+S: Se não houver sinal, não poderemos fazer a ligação.
+
+C: Caso ela não aceite, vamos ter que encontrar outra solução.
+S: Se ela não aceitar, vamos ter que encontrar outra solução.
+
+C: Caso chova amanhã, iremos cancelar o passeio.
+S: Se chover amanhã, iremos cancelar o passeio.
+
+C: Sem que estudem muito, não conseguirão boas notas.
+S: Se não estudarem muito, não conseguirão boas notas.
+
+C: A menos que ele mude de ideia, não iremos conseguir convencê-lo.
+S: Se ele não mudar de ideia, não iremos conseguir convencê-lo.
+
+C: Caso não cheguemos a um acordo, iremos precisar de um mediador.
+S: Se não chegarmos a um acordo, iremos precisar de um mediador.
+
+C: A não ser que você se apresse, vamos chegar atrasados.
+S: Se você não se apressar, vamos chegar atrasados.
+
+C: Contanto que você pague a entrada, poderá entrar na festa.
+S: Se você pagar a entrada, poderá entrar na festa.
+
+C: Salvo engano, o livro foi lançado há dois meses.
+S: Se não me engano, o livro foi lançado há dois meses.
+
+C: Exceto por esse detalhe, tudo estava perfeito.
+S: Se não fosse por esse detalhe, tudo estava perfeito.
+
+C: Desde que você me ajude, conseguiremos terminar o trabalho a tempo.
+S: Se você me ajudar, conseguiremos terminar o trabalho a tempo.
+
+C: Digo que não farei isso a menos que você peça desculpas.
+S: Digo que se você não pedir desculpas, não farei isso.
+
+C: Se chover, levo meu guarda-chuva.
+S: Levo meu guarda-chuva se chover.
+
+C: Caso você não estude, não irá passar na prova.
+S: Não irá passar na prova caso você não estude.
+
+C: A menos que ele mude de opinião, não iremos concordar com ele.
+S: Não iremos concordar com ele a menos que ele mude de opinião.
+
+C: Sem que você me explique o motivo, não irei te ajudar.
+S: Não irei te ajudar sem que você me explique o motivo.
+
+C: Desde que você chegue antes das 10h, poderemos sair juntos.
+S: Poderemos sair juntos desde que você chegue antes das 10h.
+
+C: Contanto que você me avise com antecedência, eu posso te buscar no aeroporto.
+S: Eu posso te buscar no aeroporto contanto que você me avise com antecedência.
+
+C: A menos que ele se desculpe, não irei perdoá-lo.
+S: Não irei perdoá-lo a menos que ele se desculpe.
+
+C: Caso você não aceite minhas condições, não poderemos fazer negócios.
+S: Não poderemos fazer negócios caso você não aceite minhas condições.
+
+C: Se você me der seu endereço, eu te envio o presente.
+S: Eu te envio o presente se você me der seu endereço.
+
+C: Sem que você me deposite o dinheiro, não vou prosseguir com a compra.
+S: Não vou prosseguir com a compra sem que você me deposite o dinheiro.
+
+C: Caso chova, não iremos ao parque.
+S: Se chover, não iremos ao parque.
+
+C: Sem que você estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: A menos que eu ganhe na loteria, não irei viajar.
+S: Se eu não ganhar na loteria, não irei viajar.
+
+C: Caso você me perdoe, continuaremos amigos.
+S: Se você me perdoar, continuaremos amigos.
+
+C: A não ser que ele se desculpe, não vou perdoá-lo.
+S: Se ele não se desculpar, não vou perdoá-lo.
+
+C: Desde que você chegue cedo, poderá participar da reunião.
+S: Se você chegar cedo, poderá participar da reunião.
+
+C: Contanto que você me ajude, conseguiremos terminar o projeto a tempo.
+S: Se você me ajudar, conseguiremos terminar o projeto a tempo.
+
+C: Exceto se você corra rápido, não alcançará o ônibus.
+S: Se você não correr rápido, não alcançará o ônibus.
+
+C: Caso ele fale a verdade, não haverá consequências.
+S: Se ele falar a verdade, não haverá consequências.
+
+C: Salvo se você pegue um guarda-chuva, vai se molhar na chuva.
+S: Se você não pegar um guarda-chuva, vai se molhar na chuva.
+
+C: Caso chova, vamos levar guarda-chuvas.
+S: Vamos levar guarda-chuvas caso chova.
+
+C: Sem que estudem, não passarão na prova.
+S: Não passarão na prova sem que estudem.
+
+C: A menos que ela venha, não iremos ao cinema.
+S: Não iremos ao cinema a menos que ela venha.
+
+C: Se não chover, faremos um piquenique no parque.
+S: Faremos um piquenique no parque se não chover.
+
+C: Caso você falte, eu vou sozinho ao evento.
+S: Eu vou sozinho ao evento caso você falte.
+
+C: Sem que ele estude, não conseguirá uma boa nota.
+S: Não conseguirá uma boa nota sem que ele estude.
+
+C: Se não tivermos as ferramentas adequadas, não conseguiremos realizar o trabalho.
+S: Não conseguiremos realizar o trabalho se não tivermos as ferramentas adequadas.
+
+C: A menos que você compre o bilhete, não entrará no cinema.
+S: Não entrará no cinema a menos que você compre o bilhete.
+
+C: Caso ela não goste da comida, podemos pedir outra opção.
+S: Podemos pedir outra opção caso ela não goste da comida.
+
+C: Sem que ele peça desculpas, não irei perdoá-lo.
+S: Não irei perdoá-lo sem que ele peça desculpas.
+
+C: Os alunos ganharão um prêmio se tirarem notas altas na prova.
+S: Se os alunos tirarem notas altas na prova, ganharão um prêmio.
+
+C: Sem que chova, não poderemos regar as plantas.
+S: Se não chover, não poderemos regar as plantas.
+
+C: Caso você esteja ocupado, podemos marcar um outro dia para a reunião.
+S: Se você estiver ocupado, podemos marcar um outro dia para a reunião.
+
+C: A menos que termine o trabalho a tempo, não poderá ir para o evento.
+S: Se não terminar o trabalho a tempo, não poderá ir para o evento.
+
+C: Desde que não haja problemas, o projeto será concluído dentro do prazo.
+S: Se não houver problemas, o projeto será concluído dentro do prazo.
+
+C: Salvo se encontrem uma solução, a empresa irá à falência.
+S: Se não encontrarem uma solução, a empresa irá à falência.
+
+C: Contanto que você estude, terá boas notas na escola.
+S: Se você estudar, terá boas notas na escola.
+
+C: A não ser que sejam convidados, eles não irão à festa.
+S: Se não forem convidados, eles não irão à festa.
+
+C: Caso não encontrem o caminho, peçam ajuda.
+S: Se não encontrarem o caminho, peçam ajuda.
+
+C: Exceto se chover, faremos um piquenique no parque amanhã.
+S: Se não chover, faremos um piquenique no parque amanhã.
+
+C: O evento será cancelado se chover muito.
+S: Se chover muito, o evento será cancelado.
+
+C: A empresa não irá contratar mais funcionários a menos que tenha um aumento nas vendas.
+S: Se não tiver um aumento nas vendas, a empresa não irá contratar mais funcionários.
+
+C: Sem que você estude, não conseguirá boas notas.
+S: Se você não estudar, não conseguirá boas notas.
+
+C: Não poderemos viajar a menos que arrumemos alguém para cuidar do nosso cachorro.
+S: Se não arrumarmos alguém para cuidar do nosso cachorro, não poderemos viajar.
+
+C: A menos que você me ajude, não conseguiremos terminar a tempo.
+S: Se você não me ajudar, não conseguiremos terminar a tempo.
+
+C: Será impossível chegar ao topo da montanha sem que tenhamos um guia experiente.
+S: Se não tivermos um guia experiente, será impossível chegar ao topo da montanha.
+
+C: Ela não vai pagar a multa a menos que receba uma explicação.
+S: Se não receber uma explicação, ela não vai pagar a multa.
+
+C: A não ser que você compre o ingresso antecipadamente, não conseguirá entrar no show.
+S: Se você não comprar o ingresso antecipadamente, não conseguirá entrar no show.
+
+C: A prova será cancelada contanto que haja uma falha no sistema.
+S: Se houver uma falha no sistema, a prova será cancelada.
+
+C: A menos que você compre os ingredientes, não poderemos fazer o bolo.
+S: Se você não comprar os ingredientes, não poderemos fazer o bolo.
+
+C: Caso chova amanhã, irei de carro para o trabalho.
+S: Se chover amanhã, irei de carro para o trabalho.
+
+C: Exceto se a reunião for cancelada, estarei presente.
+S: Se a reunião não for cancelada, estarei presente.
+
+C: A menos que estudem mais, não passarão na prova.
+S: Se não estudarem mais, não passarão na prova.
+
+C: Sem que ele me peça desculpas, não o perdoarei.
+S: Se ele não me pedir desculpas, não o perdoarei.
+
+C: Caso você não queira ir ao cinema, podemos ficar em casa.
+S: Se você não quiser ir ao cinema, podemos ficar em casa.
+
+C: Desde que você me ajude, conseguiremos concluir o projeto.
+S: Se você me ajudar, conseguiremos concluir o projeto.
+
+C: Contanto que você chegue a tempo, poderemos sair juntos.
+S: Se você chegar a tempo, poderemos sair juntos.
+
+C: A não ser que ele melhore seu desempenho, será reprovado.
+S: Se ele não melhorar seu desempenho, será reprovado.
+
+C: Salvo se houver algum imprevisto, a festa será realizada sábado.
+S: Se não houver algum imprevisto, a festa será realizada sábado.
+
+C: A menos que você traga o documento, não poderá entrar.
+S: Se você não trouxer o documento, não poderá entrar.
+
+C: Se o tempo estiver bom, iremos à praia.
+S: Iremos à praia se o tempo estiver bom.
+
+C: A menos que ele termine o trabalho, não poderemos sair.
+S: Não poderemos sair a menos que ele termine o trabalho.
+
+C: Caso haja algum problema, iremos resolver imediatamente.
+S: Iremos resolver imediatamente caso haja algum problema.
+
+C: Sem que eles estudem, não irão passar na prova.
+S: Não irão passar na prova sem que eles estudem.
+
+C: A não ser que você me ajude, não conseguirei terminar a tempo.
+S: Não conseguirei terminar a tempo a não ser que você me ajude.
+
+C: Desde que ele pague a taxa, poderá usar o serviço.
+S: Poderá usar o serviço desde que ele pague a taxa.
+
+C: Contanto que você siga as instruções corretamente, conseguirá fazer o trabalho.
+S: Conseguirá fazer o trabalho contanto que você siga as instruções corretamente.
+
+C: Exceto se houver algum imprevisto, a reunião será realizada amanhã.
+S: A reunião será realizada amanhã exceto se houver algum imprevisto.
+
+C: Salvo quando chove, costumo sair para correr todas as manhãs.
+S: Costumo sair para correr todas as manhãs salvo quando chove.
+
+C: A menos que ele decida mudar de carreira, continuará trabalhando na empresa.
+S: Continuará trabalhando na empresa a menos que ele decida mudar de carreira.
+
+C: Caso você estude bastante, terá boas notas.
+S: Se você estudar bastante, terá boas notas.
+
+C: A menos que chova muito, iremos à praia.
+S: Se não chover muito, iremos à praia.
+
+C: Sem que você peça desculpas, não irei perdoá-lo.
+S: Se você não pedir desculpas, não irei perdoá-lo.
+
+C: Exceto se você chegar atrasado, poderá participar da reunião.
+S: Se você não chegar atrasado, poderá participar da reunião.
+
+C: Desde que você traga o dinheiro, comprarei o presente.
+S: Se você trouxer o dinheiro, comprarei o presente.
+
+C: A menos que haja um problema, o evento acontecerá no sábado.
+S: Se não houver um problema, o evento acontecerá no sábado.
+
+C: Caso você se desculpe, eu te perdoarei.
+S: Se você se desculpar, eu te perdoarei.
+
+C: Contanto que você faça a tarefa, eu te darei um doce.
+S: Se você fizer a tarefa, eu te darei um doce.
+
+C: Salvo se você desista, continuarei apoiando você.
+S: Se você não desistir, continuarei apoiando você.
+
+C: A não ser que você esteja doente, espero que venha à festa.
+S: Se você não estiver doente, espero que venha à festa.
+
+C: Caso chova, eu vou levar meu guarda-chuva.
+S: Eu vou levar meu guarda-chuva, caso chova.
+
+C: A menos que você estude, não terá sucesso na prova.
+S: Se você não estudar, então não terá sucesso na prova.
+
+C: Sem que haja interesse mútuo, não pode haver um relacionamento saudável.
+S: Se não houver interesse mútuo, então não pode haver um relacionamento saudável.
+
+C: Se não ficarmos atentos, perderemos o ônibus.
+S: Perderemos o ônibus, se não ficarmos atentos.
+
+C: A não ser que faça sol, não iremos à praia.
+S: Se não fizer sol, então não iremos à praia.
+
+C: Caso você chegue atrasado, não entrará na sala de aula.
+S: Você não entrará na sala de aula, caso chegue atrasado.
+
+C: A menos que ganhemos na loteria, não poderemos comprar uma casa nova.
+S: Se não ganharmos na loteria, então não poderemos comprar uma casa nova.
+
+C: Sem que você me peça desculpas, não irei te perdoar.
+S: Se você não me pedir desculpas, então não irei te perdoar.
+
+C: Se não cuidarmos do meio ambiente, teremos graves consequências.
+S: Teremos graves consequências, se não cuidarmos do meio ambiente.
+
+C: A menos que estudem juntos, não irão tirar uma boa nota.
+S: Se não estudarem juntos, então não irão tirar uma boa nota.
+
+C: Se chover muito, o evento será cancelado.
+S: Caso chova muito, o evento será cancelado.
+
+C: A menos que estude, você não vai passar no exame.
+S: Se você não estudar, você não vai passar no exame.
+
+C: Sem que haja diálogo, não haverá solução para o problema.
+S: Caso não haja diálogo, não haverá solução para o problema.
+
+C: Desde que você se comporte bem, poderá sair para brincar.
+S: Caso você se comporte bem, poderá sair para brincar.
+
+C: Exceto se houver necessidade, não gaste dinheiro desnecessariamente.
+S: Caso não haja necessidade, não gaste dinheiro desnecessariamente.
+
+C: Contanto que você chegue a tempo, poderá participar do evento.
+S: Caso você chegue a tempo, poderá participar do evento.
+
+C: A menos que fique doente, você terá que ir à escola.
+S: Se você não ficar doente, você terá que ir à escola.
+
+C: A não ser que venda tudo, não poderá comprar o que deseja.
+S: Se você não vender tudo, não poderá comprar o que deseja.
+
+C: Caso não sejam pagas as parcelas, o contrato será cancelado.
+S: Se não forem pagas as parcelas, o contrato será cancelado.
+
+C: Salvo se haja outra opção, teremos que aceitar essa proposta.
+S: Caso não haja outra opção, teremos que aceitar essa proposta.
+
+C: Caso chova, irei de guarda-chuva.
+S: Irei de guarda-chuva caso chova.
+
+C: Sem que termine o trabalho, não poderemos descansar.
+S: Não poderemos descansar sem que termine o trabalho.
+
+C: A menos que viesse a festa, não me divertiria.
+S: Não me divertiria a menos que viesse à festa.
+
+C: A não ser que estude, não terá sucesso na prova.
+S: Não terá sucesso na prova a não ser que estude.
+
+C: Desde que me convidem, irei à festa.
+S: Irei à festa desde que me convidem.
+
+C: A menos que economize dinheiro, não poderá comprar o carro novo.
+S: Não poderá comprar o carro novo a menos que economize dinheiro.
+
+C: Exceto que seja estritamente necessário, evite sair de casa.
+S: Evite sair de casa exceto que seja estritamente necessário.
+
+C: Caso não aceitem as condições, cancelarei o contrato.
+S: Cancelarei o contrato caso não aceitem as condições.
+
+C: A menos que tome cuidado, pode se machucar.
+S: Pode se machucar a menos que tome cuidado.
+
+C: Contanto que chegue a tempo, poderá entrar na sala de aula.
+S: Poderá entrar na sala de aula contanto que chegue a tempo.
+
+C: Se você não estudar, não vai passar na prova.
+S: Não vai passar na prova se você não estudar.
+
+C: A menos que chova, iremos ao parque.
+S: Iremos ao parque a menos que chova.
+
+C: Caso você se atrase, vamos sair sem você.
+S: Vamos sair sem você caso você se atrase.
+
+C: A não ser que ganhe na loteria, não será possível viajar.
+S: Não será possível viajar a não ser que ganhe na loteria.
+
+C: Desde que você me ajude, conseguiremos terminar a tempo.
+S: Conseguiremos terminar a tempo desde que você me ajude.
+
+C: Sem que haja uma solução, o problema irá persistir.
+S: O problema irá persistir sem que haja uma solução.
+
+C: Contanto que você traga o dinheiro, poderá participar do evento.
+S: Poderá participar do evento contanto que você traga o dinheiro.
+
+C: Caso não tenha nenhum compromisso, podemos sair para jantar.
+S: Podemos sair para jantar caso não tenha nenhum compromisso.
+
+C: Salvo se tiver um motivo muito importante, não irei ao evento.
+S: Não irei ao evento salvo se tiver um motivo muito importante.
+
+C: A menos que haja um imprevisto, chegaremos a tempo.
+S: Chegaremos a tempo a menos que haja um imprevisto.
+
+C: Se chover no domingo, a festa será cancelada.
+S: A festa será cancelada se chover no domingo.
+
+C: Caso você não estude, irá tirar uma nota baixa na prova.
+S: Se você não estudar, irá tirar uma nota baixa na prova.
+
+C: Sem que haja um acordo entre as partes, o negócio não será fechado.
+S: O negócio não será fechado sem que haja um acordo entre as partes.
+
+C: A menos que você chegue a tempo, não iremos ao cinema.
+S: Não iremos ao cinema a menos que você chegue a tempo.
+
+C: O motorista não poderá dirigir, exceto se estiver habilitado.
+S: O motorista não poderá dirigir, exceto se estiver habilitado.
+
+C: Desde que você traga o bolo, eu faço os salgadinhos.
+S: Eu faço os salgadinhos desde que você traga o bolo.
+
+C: Contanto que você não se atrase, o ônibus não vai sair sem você.
+S: O ônibus não vai sair sem você contanto que você não se atrase.
+
+C: A não ser que você participe ativamente, não terá voz nas decisões.
+S: Não terá voz nas decisões a não ser que você participe ativamente.
+
+C: Se você não pegar o guarda-chuva, vai se molhar na chuva.
+S: Você vai se molhar na chuva se não pegar o guarda-chuva.
+
+C: Salvo engano, ele estará aqui até as 18 horas.
+S: Ele estará aqui até as 18 horas, salvo engano.
+
+C: Caso chova, não iremos ao parque.
+S: Não iremos ao parque, caso chova.
+
+C: Sem que você estude, não conseguirá passar na prova.
+S: Se você não estudar, não conseguirá passar na prova.
+
+C: A menos que sejam amigos, eles não se ajudam.
+S: Se eles não forem amigos, eles não se ajudam.
+
+C: Desde que você chegue cedo, poderemos sair mais cedo.
+S: Se você chegar cedo, poderemos sair mais cedo.
+
+C: Contanto que você pague a taxa, poderá participar do evento.
+S: Se você pagar a taxa, poderá participar do evento.
+
+C: A não ser que você queira, não vamos ao restaurante.
+S: Se você não quiser, não vamos ao restaurante.
+
+C: Salvo indicação contrária, o prazo é de uma semana.
+S: Se não houver indicação contrária, o prazo é de uma semana.
+
+C: Caso você esteja doente, não vá à escola.
+S: Se você estiver doente, não vá à escola.
+
+C: Exceto se chover, iremos à praia amanhã.
+S: Se não chover, iremos à praia amanhã.
+
+C: A menos que eles estranhem, não vamos contar a novidade.
+S: Se eles não estranharem, não vamos contar a novidade.
+
+C: Ela só irá à festa se o tempo estiver bom.
+S: Se o tempo estiver bom, ela irá à festa.
+
+C: Sem que haja provas concretas, ele não será considerado culpado.
+S: Se não houver provas concretas, ele não será considerado culpado.
+
+C: A menos que você estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: Eles só vão ao cinema caso tenham dinheiro.
+S: Se tiverem dinheiro, eles vão ao cinema.
+
+C: A não ser que você chegue a tempo, perderemos o voo.
+S: Se você não chegar a tempo, perderemos o voo.
+
+C: Se não chover amanhã, faremos um piquenique.
+S: Caso não chova amanhã, faremos um piquenique.
+
+C: Desde que você me ajude, conseguiremos terminar o projeto.
+S: Se você me ajudar, conseguiremos terminar o projeto.
+
+C: Contanto que siga as regras, poderá participar do jogo.
+S: Se você seguir as regras, poderá participar do jogo.
+
+C: A menos que estudemos, tiraremos notas baixas.
+S: Se não estudarmos, tiraremos notas baixas.
+
+C: Não será possível abrir a porta, exceto se tiver a chave.
+S: Não será possível abrir a porta, a não ser que tenha a chave.
+
+C: Se você estudar bastante, passará no exame.
+S: Passará no exame se estudar bastante.
+
+C: Sem que você me peça desculpas, não irei perdoá-lo.
+S: Não irei perdoá-lo sem que me peça desculpas.
+
+C: A menos que chova, iremos fazer um piquenique no parque.
+S: Iremos fazer um piquenique no parque, a menos que chova.
+
+C: Caso você chegue atrasado, não poderá entrar na sala de aula.
+S: Não poderá entrar na sala de aula caso chegue atrasado.
+
+C: Desde que se comporte bem, poderá sair para brincar com os amigos.
+S: Poderá sair para brincar com os amigos desde que se comporte bem.
+
+C: Contanto que termine o trabalho até amanhã, poderá folgar no final de semana.
+S: Poderá folgar no final de semana contanto que termine o trabalho até amanhã.
+
+C: A menos que siga as regras, será expulso do clube.
+S: Será expulso do clube a menos que siga as regras.
+
+C: Se você não acordar cedo, perderá o ônibus.
+S: Perderá o ônibus se não acordar cedo.
+
+C: Caso não encontre o endereço, me avise que eu te ajudo.
+S: Me avise caso não encontre o endereço que eu te ajudo.
+
+C: Desde que não estrague a surpresa, podemos te contar o plano.
+S: Podemos te contar o plano desde que não estrague a surpresa.
+
+C: Caso o tempo permita, iremos ao parque.
+S: Se o tempo permitir, iremos ao parque.
+
+C: Se não estudar, não passará na prova.
+S: Caso não estude, não passará na prova.
+
+C: Sem que haja consenso entre todos, não tomaremos uma decisão.
+S: Caso não haja consenso entre todos, não tomaremos uma decisão.
+
+C: A menos que compre os ingressos, não iremos ao cinema.
+S: Se não comprar os ingressos, não iremos ao cinema.
+
+C: Caso o trânsito esteja congestionado, vamos pegar a rota alternativa.
+S: Se o trânsito estiver congestionado, vamos pegar a rota alternativa.
+
+C: Se não chover, faremos um piquenique no parque.
+S: Caso não chova, faremos um piquenique no parque.
+
+C: Sem que tenha uma autorização, não poderá entrar no prédio.
+S: Caso não tenha uma autorização, não poderá entrar no prédio.
+
+C: A menos que se esforce, não alcançará seus objetivos.
+S: Se não se esforçar, não alcançará seus objetivos.
+
+C: Caso se percam, liguem para mim.
+S: Se se perderem, liguem para mim.
+
+C: Se não cuidarmos do meio ambiente, teremos consequências graves.
+S: Caso não cuidemos do meio ambiente, teremos consequências graves.
+
+C: A empresa continuará investindo em projetos de sustentabilidade, desde que haja retorno financeiro.
+S: Se houver retorno financeiro, a empresa continuará investindo em projetos de sustentabilidade.
+
+C: A reunião será cancelada caso não haja quórum suficiente.
+S: Caso não haja quórum suficiente, a reunião será cancelada.
+
+C: O aluno será reprovado na disciplina sem que entregue todos os trabalhos.
+S: Se não entregar todos os trabalhos, o aluno será reprovado na disciplina.
+
+C: O evento será realizado ao ar livre, a menos que chova.
+S: Se chover, o evento não será realizado ao ar livre.
+
+C: Ele só ajudará no projeto se for remunerado.
+S: Se não for remunerado, ele não ajudará no projeto.
+
+C: A empresa não concederá aumento de salário, a não ser que haja resultados positivos.
+S: Se não houver resultados positivos, a empresa não concederá aumento de salário.
+
+C: Ela fará o curso de pós-graduação, desde que consiga uma bolsa de estudos.
+S: Se conseguir uma bolsa de estudos, ela fará o curso de pós-graduação.
+
+C: O paciente será operado sem que haja complicações.
+S: Se não houver complicações, o paciente será operado.
+
+C: O time vencerá o jogo contanto que jogue bem.
+S: Se jogar bem, o time vencerá o jogo.
+
+C: Eu não sairei de casa caso esteja chovendo.
+S: Caso esteja chovendo, eu não sairei de casa.
+
+C: Ela só vai ao cinema se chover.
+S: Se chover, ela só vai ao cinema.
+
+C: Sem que ele estude, não vai passar na prova.
+S: Se ele não estudar, não vai passar na prova.
+
+C: Se você não deixar o carro em casa, vai se atrasar.
+S: Se você não deixar o carro em casa, vai se atrasar.
+
+C: Não vou sair, a menos que você vá junto.
+S: Se você não for junto, não vou sair.
+
+C: Caso você não queira jantar fora, podemos pedir comida.
+S: Se você não quiser jantar fora, podemos pedir comida.
+
+C: Sem que entendam as instruções, não conseguirão montar o móvel.
+S: Se não entenderem as instruções, não conseguirão montar o móvel.
+
+C: A menos que ela ligue, não vou saber o que aconteceu.
+S: Se ela não ligar, não vou saber o que aconteceu.
+
+C: Caso não tenhamos luz, usaremos velas.
+S: Se não tivermos luz, usaremos velas.
+
+C: Se você não pagar a fatura, terá a energia cortada.
+S: Se não pagar a fatura, terá a energia cortada.
+
+C: Sem que ele peça desculpas, não vamos fazer as pazes.
+S: Se ele não pedir desculpas, não vamos fazer as pazes.
+
+C: Se não estudar bastante, não vai conseguir passar no exame.
+S: Não vai conseguir passar no exame se não estudar bastante.
+
+C: Caso necessário, chame um médico.
+S: Chame um médico caso seja necessário.
+
+C: Sem que haja uma solução para o problema, não podemos avançar.
+S: Não podemos avançar sem que haja uma solução para o problema.
+
+C: A menos que chova, iremos ao parque.
+S: Iremos ao parque a menos que chova.
+
+C: Se o trânsito estiver congestionado, vou chegar atrasado.
+S: Vou chegar atrasado se o trânsito estiver congestionado.
+
+C: Caso esqueça suas chaves, não conseguirá entrar em casa.
+S: Não conseguirá entrar em casa caso esqueça suas chaves.
+
+C: Sem que haja uma melhora na economia, não teremos crescimento.
+S: Não teremos crescimento sem que haja uma melhora na economia.
+
+C: A menos que chova muito, faremos o passeio de barco.
+S: Faremos o passeio de barco a menos que chova muito.
+
+C: Se não pagar a conta, terá que arcar com as consequências.
+S: Terá que arcar com as consequências se não pagar a conta.
+
+C: Caso precise de ajuda, estarei disponível.
+S: Estarei disponível caso precise de ajuda.
+
+C: Roberto irá aceitar a proposta de trabalho se o salário for bom.
+S: Se o salário for bom, Roberto irá aceitar a proposta de trabalho.
+
+C: Sem que ela estude bastante, não conseguirá passar na prova.
+S: Se ela não estudar bastante, não conseguirá passar na prova.
+
+C: A menos que o time treine duro, não terão chance de vencer o campeonato.
+S: Se o time não treinar duro, não terão chance de vencer o campeonato.
+
+C: Caso você não me pague até amanhã, entrarei com uma ação judicial.
+S: Se você não me pagar até amanhã, entrarei com uma ação judicial.
+
+C: A não ser que você estude, não vai conseguir alcançar boas notas.
+S: Se você não estudar, não vai conseguir alcançar boas notas.
+
+C: Sem os documentos necessários, não será possível realizar a matrícula.
+S: Se não tiver os documentos necessários, não será possível realizar a matrícula.
+
+C: A menos que ele pare de fumar, sua saúde irá piorar cada vez mais.
+S: Se ele não parar de fumar, sua saúde irá piorar cada vez mais.
+
+C: Caso você se atrase, começaremos a reunião sem você.
+S: Se você se atrasar, começaremos a reunião sem você.
+
+C: Sem que você me peça desculpas, não irei perdoá-lo.
+S: Se você não me pedir desculpas, não irei perdoá-lo.
+
+C: A não ser que chova, iremos ao parque no final de semana.
+S: Se não chover, iremos ao parque no final de semana.
+
+C: Se o tempo melhorar, faremos um passeio no parque.
+S: Faremos um passeio no parque se o tempo melhorar.
+
+C: A menos que você estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: Caso ela não venha à reunião, teremos que remarcar.
+S: Teremos que remarcar a reunião caso ela não venha.
+
+C: Sem que haja financiamento, o projeto não poderá ser concluído.
+S: O projeto não poderá ser concluído sem que haja financiamento.
+
+C: A menos que você pague a taxa, sua inscrição não será confirmada.
+S: Sua inscrição não será confirmada a menos que você pague a taxa.
+
+C: Caso não haja nenhuma objeção, seguiremos em frente com o plano.
+S: Seguiremos em frente com o plano caso não haja nenhuma objeção.
+
+C: Se a temperatura cair, acenda a lareira.
+S: Acenda a lareira se a temperatura cair.
+
+C: A menos que você acorde cedo, perderá o ônibus.
+S: Você perderá o ônibus a menos que acorde cedo.
+
+C: Caso o avião atrase, teremos que adiar a reunião.
+S: Teremos que adiar a reunião caso o avião atrase.
+
+C: Sem que haja um acordo, não poderemos assinar o contrato.
+S: Não poderemos assinar o contrato sem que haja um acordo.
+
+C: Se você estudar bastante, irá passar no exame.
+S: Caso você estude bastante, irá passar no exame.
+
+C: Sem uma alimentação saudável, é difícil manter a boa saúde.
+S: Caso não se tenha uma alimentação saudável, é difícil manter a boa saúde.
+
+C: Exceto se chover, faremos um piquenique no parque.
+S: Caso não chova, faremos um piquenique no parque.
+
+C: A menos que você chegue a tempo, não poderá participar da reunião.
+S: Se você não chegar a tempo, não poderá participar da reunião.
+
+C: Desde que você me ajude com as tarefas, eu irei te acompanhar na festa.
+S: Caso você me ajude com as tarefas, eu irei te acompanhar na festa.
+
+C: A não ser que acorde cedo, você perderá o ônibus.
+S: Se você não acordar cedo, você perderá o ônibus.
+
+C: Contanto que não chova, poderemos sair para caminhar no parque.
+S: Se não chover, poderemos sair para caminhar no parque.
+
+C: Caso você não entenda as instruções, peça ajuda ao professor.
+S: Se você não entender as instruções, peça ajuda ao professor.
+
+C: A menos que você estude, não conseguirá boas notas.
+S: Se você não estudar, não conseguirá boas notas.
+
+C: Salvo se ocorra algum imprevisto, a viagem será tranquila.
+S: Caso não ocorra algum imprevisto, a viagem será tranquila.
+
+C: O evento será adiado se chover durante o dia.
+S: Se chover durante o dia, o evento será adiado.
+
+C: A entrevista será cancelada caso o entrevistado não compareça.
+S: Caso o entrevistado não compareça, a entrevista será cancelada.
+
+C: A viagem será cancelada exceto se conseguirmos um desconto nas passagens.
+S: Exceto se conseguirmos um desconto nas passagens, a viagem será cancelada.
+
+C: Não sairemos sem que você confirme sua presença.
+S: Se você não confirmar sua presença, não sairemos.
+
+C: Ele não será selecionado a menos que se destaque nas próximas competições.
+S: Se ele não se destacar nas próximas competições, ele não será selecionado.
+
+C: A obra não será entregue sem que todos os pagamentos sejam realizados.
+S: Se todos os pagamentos não forem realizados, a obra não será entregue.
+
+C: Não iremos ao cinema sem que o filme seja interessante.
+S: Se o filme não for interessante, não iremos ao cinema.
+
+C: A empresa não fechará sem que uma decisão seja tomada pela diretoria.
+S: Se uma decisão não for tomada pela diretoria, a empresa não fechará.
+
+C: Não compraremos o carro a menos que o vendedor reduza o preço.
+S: Se o vendedor não reduzir o preço, não compraremos o carro.
+
+C: Não seguiremos o plano sem que seja aprovado pelos superiores.
+S: Se o plano não for aprovado pelos superiores, não o seguiremos.
+
+C: Caso chova amanhã, vou levar meu guarda-chuva.
+S: Vou levar meu guarda-chuva caso chova amanhã.
+
+C: A menos que você estude, não vai passar na prova.
+S: Se você não estudar, então não vai passar na prova.
+
+C: Sem que ele me peça desculpas, não vou perdoá-lo.
+S: Se ele não me pedir desculpas, então não vou perdoá-lo.
+
+C: Contanto que eu tenha tempo, participarei da reunião.
+S: Se eu tiver tempo, então participarei da reunião.
+
+C: A não ser que ele mude sua atitude, não conseguiremos trabalhar juntos.
+S: Se ele não mudar sua atitude, então não conseguiremos trabalhar juntos.
+
+C: Desde que você chegue no horário, poderemos começar a reunião.
+S: Se você chegar no horário, então poderemos começar a reunião.
+
+C: Caso você não queira ir ao cinema, podemos fazer outra atividade.
+S: Se você não quiser ir ao cinema, então podemos fazer outra atividade.
+
+C: Exceto se houver uma emergência, não ligue para mim durante a reunião.
+S: Se não houver uma emergência, então não ligue para mim durante a reunião.
+
+C: Salvo se houver uma promoção, não irei comprar o produto.
+S: Se não houver uma promoção, então não irei comprar o produto.
+
+C: Caso ele não venha à festa, ficarei decepcionado.
+S: Se ele não vier à festa, então ficarei decepcionado.
+
+C: Caso chova amanhã, iremos ao cinema.
+S: Iremos ao cinema caso chova amanhã.
+
+C: A menos que você estude, não passará na prova.
+S: Se você não estudar, não passará na prova.
+
+C: Sem que haja uma solução, o problema continuará.
+S: O problema continuará se não houver uma solução.
+
+C: Desde que chegue cedo, poderá participar da reunião.
+S: Poderá participar da reunião desde que chegue cedo.
+
+C: Contanto que traga o dinheiro, poderá participar do evento.
+S: Poderá participar do evento contanto que traga o dinheiro.
+
+C: Exceto se houver uma emergência, não quero ser interrompido.
+S: Não quero ser interrompido exceto se houver uma emergência.
+
+C: A menos que se esforce, não conseguirá alcançar seus objetivos.
+S: Não conseguirá alcançar seus objetivos a menos que se esforce.
+
+C: A não ser que se desculpe, não aceitarei suas desculpas.
+S: Não aceitarei suas desculpas a não ser que se desculpe.
+
+C: Caso não pague a multa, terá seu carro apreendido.
+S: Terá seu carro apreendido caso não pague a multa.
+
+C: Caso não encontre a chave, não poderemos entrar em casa.
+S: Não poderemos entrar em casa caso não encontre a chave.
+
+C: O evento será cancelado se chover muito.
+S: Se chover muito, o evento será cancelado.
+
+C: Ele não vai viajar a menos que consiga comprar as passagens.
+S: Se ele não conseguir comprar as passagens, ele não vai viajar.
+
+C: Sem que ele estude bastante, não vai passar no exame.
+S: Se ele não estudar bastante, não vai passar no exame.
+
+C: Ela só vai ao cinema caso tenha dinheiro para o ingresso.
+S: Se ela tiver dinheiro para o ingresso, ela só vai ao cinema.
+
+C: A entrevista será marcada desde que envie o currículo.
+S: Se enviar o currículo, a entrevista será marcada.
+
+C: Ela não vai à festa a menos que seus amigos também vão.
+S: Se seus amigos não forem, ela não vai à festa.
+
+C: Sem que ele termine as tarefas, não poderá sair de casa.
+S: Se ele não terminar as tarefas, não poderá sair de casa.
+
+C: A menos que ela acorde cedo, sempre chega atrasada no trabalho.
+S: Se ela não acordar cedo, sempre chega atrasada no trabalho.
+
+C: Caso você perca o ônibus, terá que esperar o próximo.
+S: Se você perder o ônibus, terá que esperar o próximo.
+
+C: Sem o seu apoio, não venceremos a competição.
+S: Se não tivermos o seu apoio, não venceremos a competição.
+
+C: Se você estudar com afinco, terá um bom desempenho nas provas.
+S: Terá um bom desempenho nas provas se estudar com afinco.
+
+C: Caso não haja intervenção imediata, o problema se agravará.
+S: O problema se agravará caso não haja intervenção imediata.
+
+C: A empresa só irá contratar novos funcionários se a demanda aumentar.
+S: Se a demanda aumentar, a empresa irá contratar novos funcionários.
+
+C: Sem que haja uma solução viável, o projeto não poderá ser concluído.
+S: O projeto não poderá ser concluído sem uma solução viável.
+
+C: A menos que você chegue cedo, não vai conseguir um bom lugar.
+S: Se você não chegar cedo, não vai conseguir um bom lugar.
+
+C: Saia agora, a menos que queira perder o ônibus.
+S: Se não quiser perder o ônibus, saia agora.
+
+C: A menos que estude, não vai passar no exame.
+S: Se não estudar, não vai passar no exame.
+
+C: Caso chova amanhã, não faremos o passeio.
+S: Não faremos o passeio se chover amanhã.
+
+C: Sem que ele me peça desculpas, não vou perdoá-lo.
+S: Não vou perdoá-lo se ele não me pedir desculpas.
+
+C: Caso contrarie as regras, será punido.
+S: Será punido caso contrarie as regras.
+
+C: Se chover amanhã, vamos cancelar o churrasco.
+S: Vamos cancelar o churrasco se chover amanhã.
+
+C: A menos que ganhe na loteria, não irei viajar.
+S: Se não ganhar na loteria, não irei viajar.
+
+C: Caso você me ajude, conseguirei terminar o trabalho mais rápido.
+S: Conseguirei terminar o trabalho mais rápido se você me ajudar.
+
+C: Desde que você esteja lá, eu irei à festa.
+S: Irei à festa desde que você esteja lá.
+
+C: Contanto que você estude, terá boas notas.
+S: Terá boas notas contanto que você estude.
+
+C: A não ser que haja uma emergência, não me ligue.
+S: Não me ligue a não ser que haja uma emergência.
+
+C: Salvo se ele apareça, a reunião será adiada.
+S: A reunião será adiada salvo se ele apareça.
+
+C: A menos que você peça desculpas, não vou perdoar.
+S: Não vou perdoar a menos que você peça desculpas.
+
+C: Caso eu encontre ingressos, irei ao show.
+S: Irei ao show caso eu encontre ingressos.
+
+C: Exceto se ela mudar de ideia, não vamos nos encontrar.
+S: Não vamos nos encontrar exceto se ela mudar de ideia.
+
+C: A diretora dará um aumento de salário aos funcionários, caso eles atinjam a meta de vendas.
+S: Caso os funcionários atinjam a meta de vendas, a diretora dará um aumento de salário.
+
+C: Se chover, cancelaremos o passeio.
+S: Cancelaremos o passeio se chover.
+
+C: A empresa só contratará novos funcionários, desde que estejam qualificados.
+S: Desde que estejam qualificados, a empresa só contratará novos funcionários.
+
+C: A menos que você estude, não conseguirá boas notas.
+S: Se você não estudar, não conseguirá boas notas.
+
+C: Sem que trabalhemos em equipe, não alcançaremos bons resultados.
+S: Não alcançaremos bons resultados sem trabalharmos em equipe.
+
+C: O voo será cancelado, a não ser que as condições meteorológicas melhorem.
+S: A não ser que as condições meteorológicas melhorem, o voo será cancelado.
+
+C: Contanto que você faça o pagamento em dia, não haverá juros adicionais.
+S: Não haverá juros adicionais contanto que você faça o pagamento em dia.
+
+C: Caso não haja energia elétrica, não poderemos realizar a reunião.
+S: Não poderemos realizar a reunião caso não haja energia elétrica.
+
+C: Exceto se houver autorização do diretor, não é permitido entrar na sala de reuniões.
+S: Não é permitido entrar na sala de reuniões exceto se houver autorização do diretor.
+
+C: Salvo se você tiver uma justificativa plausível, não aceitarei seu pedido.
+S: Não aceitarei seu pedido salvo se você tiver uma justificativa plausível.
+
+C: Caso não encontre o documento, não será possível concluir o relatório.
+S: Se não encontrar o documento, não será possível concluir o relatório.
+
+C: A menos que chova, iremos à praia amanhã.
+S: Se não chover, iremos à praia amanhã.
+
+C: Sem que me paguem adiantado, não iniciarei o trabalho.
+S: Se não me pagarem adiantado, não iniciarei o trabalho.
+
+C: Caso não haja vagas no hotel, teremos que procurar outro lugar para ficar.
+S: Se não houver vagas no hotel, teremos que procurar outro lugar para ficar.
+
+C: A menos que pratiquemos todos os dias, não vamos melhorar no esporte.
+S: Se não praticarmos todos os dias, não vamos melhorar no esporte.
+
+C: Sem que você me explique o motivo, não vou concordar com a decisão.
+S: Se você não me explicar o motivo, não vou concordar com a decisão.
+
+C: Caso o produto não esteja disponível, podemos encomendar para você.
+S: Se o produto não estiver disponível, podemos encomendar para você.
+
+C: A menos que haja aprovação da diretoria, não poderemos implementar essa mudança.
+S: Se não houver aprovação da diretoria, não poderemos implementar essa mudança.
+
+C: Sem que estudemos, não vamos tirar uma nota boa na prova.
+S: Se não estudarmos, não vamos tirar uma nota boa na prova.
+
+C: Caso você não chegue a tempo, iremos sem você.
+S: Se você não chegar a tempo, iremos sem você.
+
+C: Caso você não estude para a prova, não vai tirar uma boa nota.
+S: Se você não estudar para a prova, então não vai tirar uma boa nota.
+
+C: A menos que você chegue a tempo, não poderemos sair juntos.
+S: Se você não chegar a tempo, então não poderemos sair juntos.
+
+C: Sem que haja um acordo mútuo, não poderemos avançar no projeto.
+S: Se não houver um acordo mútuo, então não poderemos avançar no projeto.
+
+C: Exceto se você me pedir desculpas, não irei te perdoar.
+S: Se você não me pedir desculpas, então não irei te perdoar.
+
+C: Desde que você me ajude, conseguiremos terminar o trabalho mais rápido.
+S: Se você me ajudar, então conseguiremos terminar o trabalho mais rápido.
+
+C: Contanto que você siga as regras, poderá participar do jogo.
+S: Se você seguir as regras, então poderá participar do jogo.
+
+C: A menos que chova, podemos fazer o passeio ao ar livre.
+S: Se não chover, então podemos fazer o passeio ao ar livre.
+
+C: Caso você queira viajar, precisará comprar uma passagem de avião.
+S: Se você quiser viajar, então precisará comprar uma passagem de avião.
+
+C: Sem que você pratique, não conseguirá melhorar suas habilidades.
+S: Se você não praticar, então não conseguirá melhorar suas habilidades.
+
+C: Exceto se você se esforçar, não alcançará seus objetivos.
+S: Se você não se esforçar, então não alcançará seus objetivos.
+
+C: O evento será cancelado se chover durante toda a tarde.
+S: Se chover durante toda a tarde, o evento será cancelado.
+
+C: O professor dará uma prova surpresa caso os alunos não estudem para o teste.
+S: Caso os alunos não estudem para o teste, o professor dará uma prova surpresa.
+
+C: O pedido será entregue sem a taxa de entrega, desde que o valor seja acima de R$ 50,00.
+S: Desde que o valor seja acima de R$ 50,00, o pedido será entregue sem a taxa de entrega.
+
+C: Maria só irá à festa se Paulo também for.
+S: Se Paulo também for, Maria irá à festa.
+
+C: Os descontos serão aplicados somente se o código promocional for inserido no momento da compra.
+S: Somente se o código promocional for inserido no momento da compra, os descontos serão aplicados.
+
+C: Não conseguiremos entrar no prédio a menos que tenhamos a senha correta.
+S: A menos que tenhamos a senha correta, não conseguiremos entrar no prédio.
+
+C: O projeto não será aprovado caso não atenda aos requisitos estabelecidos.
+S: Caso o projeto não atenda aos requisitos estabelecidos, não será aprovado.
+
+C: João só poderá viajar se conseguir tirar férias no trabalho.
+S: Se conseguir tirar férias no trabalho, João poderá viajar.
+
+C: Não poderemos participar da competição a menos que paguemos a taxa de inscrição.
+S: A menos que paguemos a taxa de inscrição, não poderemos participar da competição.
+
+C: O show será cancelado se houver um problema técnico no palco.
+S: Se houver um problema técnico no palco, o show será cancelado.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Iremos ao cinema se chover amanhã.
+
+C: Caso você não estude, não passará na prova.
+S: Não passará na prova caso não estude.
+
+C: A menos que ele acorde cedo, perderá o ônibus.
+S: Perderá o ônibus a menos que acorde cedo.
+
+C: Sem que ela estude, não entenderá a matéria.
+S: Não entenderá a matéria sem que estude.
+
+C: Desde que você se comporte bem, poderá sair à noite.
+S: Poderá sair à noite desde que se comporte bem.
+
+C: Exceto se chover, faremos um piquenique no parque.
+S: Faremos um piquenique no parque exceto se chover.
+
+C: A não ser que ele melhore, não poderá jogar futebol.
+S: Não poderá jogar futebol a não ser que melhore.
+
+C: Caso ele não estude, não será aprovado no exame.
+S: Não será aprovado no exame caso não estude.
+
+C: Contanto que ela estude, poderá participar da viagem.
+S: Poderá participar da viagem contanto que estude.
+
+C: Salvo se ele chegar a tempo, a palestra já terá começado.
+S: A palestra já terá começado salvo se ele chegar a tempo.
+
+C: Não iremos ao parque se estiver chovendo.
+S: Se estiver chovendo, então não iremos ao parque.
+
+C: A empresa não irá investir nesse projeto caso não haja garantia de retorno.
+S: Caso não haja garantia de retorno, a empresa não irá investir nesse projeto.
+
+C: Ela só irá ao cinema se o filme for de ação.
+S: Se o filme for de ação, ela irá ao cinema.
+
+C: Só continuarei a festa se tiver música animada.
+S: Se não tiver música animada, não continuarei a festa.
+
+C: Os alunos não assistirão à aula se o professor faltar.
+S: Caso o professor falte, os alunos não assistirão à aula.
+
+C: Só iremos viajar se o tempo estiver bom.
+S: Se o tempo estiver bom, iremos viajar.
+
+C: Eles não comprarão a casa se não conseguirem um empréstimo.
+S: Caso não consigam um empréstimo, eles não comprarão a casa.
+
+C: A reunião será adiada se não houver participação suficiente dos membros.
+S: Caso não haja participação suficiente dos membros, a reunião será adiada.
+
+C: A provação não ocorrerá se o aluno não estudar.
+S: Se o aluno não estudar, a provação não ocorrerá.
+
+C: Só conseguirei o emprego se passar na entrevista.
+S: Se passar na entrevista, só conseguirei o emprego.
+

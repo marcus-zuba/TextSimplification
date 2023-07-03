@@ -1,0 +1,4110 @@
+C: Ao acordar cedo, Samuel conseguiu ir à academia antes do trabalho.
+S: Samuel acordou cedo. Samuel conseguiu ir à academia antes do trabalho.
+
+C: Enquanto estudava para a prova, Maria recebeu um telefonema importante.
+S: Maria estava estudando para a prova. Maria recebeu um telefonema importante.
+
+C: Assim que terminar de trabalhar, vou encontrar meus amigos no bar.
+S: Vou terminar de trabalhar. Vou encontrar meus amigos no bar.
+
+C: Logo que chegarem em casa, as crianças devem fazer a lição de casa.
+S: As crianças chegarem em casa. As crianças devem fazer a lição de casa.
+
+C: Até que o sol se ponha, podemos aproveitar a praia.
+S: O sol ainda não se pôs. Podemos aproveitar a praia.
+
+C: Depois de jantar, vamos assistir a um filme no cinema.
+S: Vamos jantar. Vamos assistir a um filme no cinema.
+
+C: Desde que combinamos, ele não me deu mais notícias.
+S: Combinamos. Ele não me deu mais notícias.
+
+C: Apenas começou a chover quando já estávamos no meio do caminho.
+S: Já estávamos no meio do caminho. Começou a chover.
+
+C: Mal saí de casa e já peguei um engarrafamento enorme.
+S: Saí de casa. Peguei um engarrafamento enorme.
+
+C: Sempre que assisto a esse filme, me emociono.
+S: Assisto a esse filme. Me emociono.
+
+C: Ao assistir ao filme, percebi que não tinha entendido o enredo.
+S: Assisti ao filme e percebi que não tinha entendido o enredo.
+
+C: Enquanto eu estudava para a prova, recebi uma ligação importante.
+S: Eu estudava para a prova quando recebi uma ligação importante.
+
+C: Depois de terminar o trabalho, fui tomar um café.
+S: Terminei o trabalho e fui tomar um café.
+
+C: Mal o sol se pôs, começou a chover.
+S: O sol se pôs e começou a chover.
+
+C: Sempre que vou à praia, fico feliz.
+S: Vou à praia e fico feliz.
+
+C: Cada vez que leio esse livro, aprendo algo novo.
+S: Leio esse livro e aprendo algo novo.
+
+C: Até que terminei o curso, não consegui um emprego.
+S: Terminei o curso e não consegui um emprego.
+
+C: Desde que comecei a dieta, perdi 5 quilos.
+S: Comecei a dieta e perdi 5 quilos.
+
+C: Antes que acabasse o filme, adormeci.
+S: O filme acabou e adormeci.
+
+C: Assim que a campainha tocou, fui atender a porta.
+S: A campainha tocou e fui atender a porta.
+
+C: Ao chegar em casa, ela tomou um banho relaxante.
+S: Ela chegou em casa e tomou um banho relaxante.
+
+C: Quando terminar de estudar, me avise.
+S: Me avise quando terminar de estudar.
+
+C: Depois de jantar, assistimos a um filme.
+S: Jantamos e assistimos a um filme em seguida.
+
+C: Sempre que chove, ela fica triste.
+S: Ela fica triste sempre que chove.
+
+C: Enquanto esperava o ônibus, ele leu um livro.
+S: Ele esperava o ônibus e leu um livro.
+
+C: Até que a situação melhore, vamos ter que ser pacientes.
+S: Vamos ter que ser pacientes até que a situação melhore.
+
+C: Mal ela saiu de casa, começou a chover.
+S: Ela saiu de casa e começou a chover imediatamente.
+
+C: Antes que o sol nasça, vamos partir.
+S: Vamos partir antes que o sol nasça.
+
+C: Assim que terminar de cozinhar, me avise.
+S: Me avise assim que terminar de cozinhar.
+
+C: Cada vez que vejo esse filme, me emociono.
+S: Sempre que vejo esse filme, me emociono.
+
+C: Ao chegar em casa, percebi que havia esquecido a chave.
+S: Percebi que havia esquecido a chave ao chegar em casa.
+
+C: Enquanto estudava para a prova, meu celular tocou.
+S: Meu celular tocou enquanto estudava para a prova.
+
+C: Assim que terminei de jantar, fui para o cinema.
+S: Terminei de jantar e fui para o cinema.
+
+C: Logo que acordou, ele tomou um banho.
+S: Ele acordou e tomou um banho logo em seguida.
+
+C: Até que você termine suas tarefas, não poderá sair.
+S: Você não poderá sair até que termine suas tarefas.
+
+C: Depois de terminar o trabalho, vou descansar um pouco.
+S: Vou descansar um pouco depois de terminar o trabalho.
+
+C: Desde que começou a chover, não saí de casa.
+S: Não saí de casa desde que começou a chover.
+
+C: Apenas saímos quando o sol começou a aparecer.
+S: Saímos quando o sol começou a aparecer apenas.
+
+C: Mal cheguei em casa, recebi uma ligação importante.
+S: Recebi uma ligação importante assim que cheguei em casa.
+
+C: Sempre que estudo até tarde, fico com sono no dia seguinte.
+S: Fico com sono no dia seguinte sempre que estudo até tarde.
+
+C: Quando começou a chover, eles correram para se abrigar.
+S: Eles correram para se abrigar começou a chover.
+
+C: Sempre que ele se atrasava, o professor ficava irritado.
+S: O professor ficava irritado sempre que ele se atrasava.
+
+C: Assim que terminar o trabalho, irei descansar.
+S: Irei descansar assim que terminar o trabalho.
+
+C: Mal acordei, tomei café da manhã.
+S: Tomei café da manhã mal acordei.
+
+C: Depois de terminar os estudos, ele conseguiu um bom emprego.
+S: Ele conseguiu um bom emprego depois de terminar os estudos.
+
+C: Desde que começou a pandemia, as pessoas estão mais cuidadosas.
+S: As pessoas estão mais cuidadosas desde que começou a pandemia.
+
+C: Até que chegue o dia da viagem, vamos fazer os preparativos.
+S: Vamos fazer os preparativos até que chegue o dia da viagem.
+
+C: Cada vez que ouço essa música, me lembro do meu passado.
+S: Me lembro do meu passado cada vez que ouço essa música.
+
+C: Antes que anoiteça, devemos acampar.
+S: Devemos acampar antes que anoiteça.
+
+C: Logo que abriu a porta, ela sorriu para mim.
+S: Ela sorriu para mim logo que abriu a porta.
+
+C: Ao chegar em casa, percebi que havia esquecido a chave dentro do carro.
+S: Percebi que havia esquecido a chave dentro do carro ao chegar em casa.
+
+C: Assim que terminar de comer, irei para a academia.
+S: Terminarei de comer e, em seguida, irei para a academia.
+
+C: Sempre que chove, meu cachorro fica com medo.
+S: Meu cachorro fica com medo quando chove.
+
+C: Mal acordei, já comecei a trabalhar.
+S: Acordei e, logo em seguida, comecei a trabalhar.
+
+C: Cada vez que assisto a esse filme, descubro algo novo.
+S: Ao assistir a esse filme, descubro algo novo a cada vez.
+
+C: Desde que começou a estudar, seu desempenho melhorou significativamente.
+S: Seu desempenho melhorou significativamente desde que começou a estudar.
+
+C: Depois de falar com ele, percebi que estava enganado.
+S: Percebi que estava enganado depois de falar com ele.
+
+C: Até que ele termine o trabalho, não podemos entregar o projeto.
+S: Não podemos entregar o projeto até que ele termine o trabalho.
+
+C: Antes que chegasse atrasado, decidi sair mais cedo de casa.
+S: Decidi sair mais cedo de casa antes que chegasse atrasado.
+
+C: Logo que terminar de lavar a louça, irei descansar um pouco.
+S: Terminarei de lavar a louça e, em seguida, irei descansar um pouco.
+
+C: Pedro começou a estudar quando chegou em casa.
+S: Pedro chegou em casa. Pedro começou a estudar.
+
+C: Ana sempre liga para os pais antes de dormir.
+S: Ana liga para os pais antes de dormir.
+
+C: O avião decolou assim que os passageiros entraram.
+S: Os passageiros entraram. O avião decolou.
+
+C: Ele fez um lanche enquanto assistia televisão.
+S: Ele assistia televisão. Ele fez um lanche.
+
+C: Ela só vai ao supermercado quando está chovendo.
+S: Está chovendo. Ela vai ao supermercado.
+
+C: Eles sempre visitam os avós depois que saem da escola.
+S: Eles saem da escola. Eles visitam os avós.
+
+C: O show começou mal o público chegou ao teatro.
+S: O público chegou ao teatro. O show começou.
+
+C: Maria sempre estuda antes que seus amigos cheguem em casa.
+S: Maria estuda. Seus amigos chegam em casa.
+
+C: João sempre corre antes de tomar café da manhã.
+S: João corre antes de tomar café da manhã.
+
+C: Ele só foi viajar depois que terminou de trabalhar.
+S: Terminou de trabalhar. Ele foi viajar.
+
+C: Depois que terminou a reunião, o presidente convocou uma coletiva de imprensa.
+S: O presidente terminou a reunião. Em seguida, ele convocou uma coletiva de imprensa.
+
+C: Quando chegar em casa, não se esqueça de ligar para sua mãe.
+S: Chegue em casa e não se esqueça de ligar para sua mãe.
+
+C: Assim que acordou, João tomou café da manhã e saiu para trabalhar.
+S: João acordou, tomou café da manhã e saiu para trabalhar.
+
+C: Mal começou a chover, as pessoas correram para se abrigar.
+S: Começou a chover e as pessoas correram para se abrigar.
+
+C: Cada vez que ouve uma música triste, ela se emociona.
+S: Ela ouve uma música triste e se emociona.
+
+C: Sempre que chego tarde em casa, minha mãe fica preocupada.
+S: Chego tarde em casa e minha mãe fica preocupada.
+
+C: Antes que termine o prazo, precisamos entregar o relatório.
+S: Termine o prazo e precisamos entregar o relatório.
+
+C: Logo que abriram as portas da loja, as pessoas entraram correndo.
+S: Abriram as portas da loja e as pessoas entraram correndo.
+
+C: Depois de estudar por horas, finalmente entendi a matéria.
+S: Estudei por horas e finalmente entendi a matéria.
+
+C: Desde que conheci essa música, não consigo parar de ouvi-la.
+S: Conheci essa música e não consigo parar de ouvi-la.
+
+C: Ao finalizar o trabalho, ela foi para casa.
+S: Ela finalizou o trabalho. 
+
+C: Quando ele viu o resultado, ficou surpreso.
+S: Ele viu o resultado. 
+
+C: Enquanto estudava, Ana tomava café.
+S: Ana estudava. 
+
+C: Sempre que chovia, eles cancelavam o piquenique.
+S: Chovia. 
+
+C: Depois que apareceu o sol, eles foram para a praia.
+S: Apareceu o sol. 
+
+C: Até que o show começasse, eles esperaram pacientemente.
+S: O show começou. 
+
+C: Logo que terminou o livro, ela começou a ler outro.
+S: Terminou o livro. 
+
+C: Assim que acordou, ele se levantou da cama.
+S: Ele acordou. 
+
+C: Cada vez que ela ouvia essa música, chorava.
+S: Ela ouviu essa música. 
+
+C: Mal o filme começou, eles já riram.
+S: O filme começou.
+
+C: João chegou em casa depois que saímos para o cinema.
+S: Saímos para o cinema. João chegou em casa.
+
+C: Alessandra começou a estudar depois que terminou o trabalho.
+S: Terminou o trabalho. Alessandra começou a estudar.
+
+C: Quando recebeu a notícia, Lucas ficou muito feliz.
+S: Lucas recebeu a notícia. Lucas ficou muito feliz.
+
+C: Maria foi à praia enquanto Pedro ficou em casa estudando.
+S: Pedro ficou em casa estudando. Maria foi à praia.
+
+C: Logo que acordou, Pedro tomou um banho e saiu para trabalhar.
+S: Pedro acordou. Pedro tomou um banho e saiu para trabalhar.
+
+C: Depois que terminou de ler o livro, André começou a escrever sua resenha.
+S: André terminou de ler o livro. André começou a escrever sua resenha.
+
+C: Sempre que viaja a trabalho, Pedro fica hospedado em hotéis.
+S: Pedro viaja a trabalho. Pedro fica hospedado em hotéis.
+
+C: Antes que fosse tarde demais, João decidiu pedir desculpas.
+S: João decidiu pedir desculpas. Ainda não era tarde demais.
+
+C: Cada vez que chove, as ruas ficam alagadas.
+S: Chove. As ruas ficam alagadas.
+
+C: Mal chegou em casa, Carla começou a preparar o jantar.
+S: Carla chegou em casa. Carla começou a preparar o jantar.
+
+C: Quando a chuva parar, iremos ao parque.
+S: Iremos ao parque.
+
+C: Assim que terminar o expediente, vou para casa.
+S: Vou para casa.
+
+C: Sempre que chove, eu fico em casa.
+S: Eu fico em casa.
+
+C: Depois de estudar, tire um tempo para descansar.
+S: Tire um tempo para descansar.
+
+C: Logo que terminar o jogo, irei te buscar.
+S: Irei te buscar.
+
+C: Mal saímos de casa, começou a chover.
+S: Começou a chover.
+
+C: Cada vez que eu te vejo, meu coração dispara.
+S: Meu coração dispara.
+
+C: Antes que eu me esqueça, quero te dizer algo.
+S: Quero te dizer algo.
+
+C: Desde que ele chegou, não paramos de rir.
+S: Não paramos de rir.
+
+C: Até que todos estejam prontos, não poderemos começar.
+S: Não poderemos começar.
+
+C: Ao chegar em casa, percebi que havia esquecido a chave.
+S: Cheguei em casa e percebi que havia esquecido a chave.
+
+C: Enquanto estudava para a prova, os amigos me chamaram para sair.
+S: Estudava para a prova e os amigos me chamaram para sair.
+
+C: Assim que começou a chover, corri para pegar o guarda-chuva.
+S: Começou a chover e corri para pegar o guarda-chuva.
+
+C: Mal acordei, tomei um café da manhã rápido.
+S: Acordei e tomei um café da manhã rápido.
+
+C: Até que minha irmã chegasse em casa, fiquei esperando ansiosamente.
+S: Minha irmã chegou em casa e fiquei esperando ansiosamente.
+
+C: Cada vez que viajo, sinto saudades de casa.
+S: Viajo e sinto saudades de casa.
+
+C: Depois de jantar, fomos dar uma volta pelo parque.
+S: Jantamos e fomos dar uma volta pelo parque.
+
+C: Desde que comecei a praticar yoga, tenho me sentido mais relaxado.
+S: Comecei a praticar yoga e tenho me sentido mais relaxado.
+
+C: Logo que terminou a reunião, saímos do escritório.
+S: Terminou a reunião e saímos do escritório.
+
+C: Antes que o sol se pusesse, fizemos um passeio de barco.
+S: O sol se pôs e fizemos um passeio de barco.
+
+C: Ao chegar em casa, percebi que tinha esquecido as chaves.
+S: Cheguei em casa e percebi que tinha esquecido as chaves.
+
+C: Enquanto estudava para o exame, recebi uma ligação importante.
+S: Estudava para o exame e recebi uma ligação importante.
+
+C: Assim que começou a chover, corri para pegar um guarda-chuva.
+S: Começou a chover e corri para pegar um guarda-chuva.
+
+C: Até que o sol se pôs, continuamos na praia.
+S: O sol se pôs e continuamos na praia.
+
+C: Depois de terminar o trabalho, vou sair com meus amigos.
+S: Terminando o trabalho, vou sair com meus amigos.
+
+C: Desde que comecei a fazer exercícios, me sinto mais saudável.
+S: Comecei a fazer exercícios e desde então me sinto mais saudável.
+
+C: Apenas quando a festa acabou, percebi que perdi meu celular.
+S: A festa acabou e apenas então percebi que perdi meu celular.
+
+C: Mal chegamos ao restaurante, o garçom nos atendeu.
+S: Chegamos ao restaurante e o garçom nos atendeu imediatamente.
+
+C: Sempre que chove, minha avó fecha todas as janelas.
+S: Chove e minha avó fecha todas as janelas.
+
+C: Cada vez que viajo, me sinto renovado.
+S: Viajo e me sinto renovado a cada vez.
+
+C: Depois que chegarmos ao escritório, vamos discutir o projeto.
+S: Vamos discutir o projeto quando chegarmos ao escritório.
+
+C: Assim que começou a chover, corremos para dentro de casa.
+S: Começou a chover e corremos para dentro de casa.
+
+C: Ana sempre quebra a dieta toda vez que vê um bolo de chocolate.
+S: Ana quebra a dieta toda vez que vê um bolo de chocolate.
+
+C: Preciso terminar esse relatório antes que o prazo acabe.
+S: O prazo está acabando, então preciso terminar esse relatório.
+
+C: Enviarei o documento assim que receber a aprovação do meu chefe.
+S: Receberei a aprovação do meu chefe e enviarei o documento.
+
+C: Mal cheguei em casa e já tive que sair novamente.
+S: Cheguei em casa e tive que sair novamente.
+
+C: Sempre que posso, ajudo meus amigos com seus projetos.
+S: Ajudo meus amigos com seus projetos sempre que posso.
+
+C: Depois que ela se mudou para outra cidade, perdemos o contato.
+S: Ela se mudou para outra cidade e perdemos o contato.
+
+C: Antes que ele chegue, vamos preparar tudo para a festa.
+S: Vamos preparar tudo para a festa antes que ele chegue.
+
+C: Sempre que assisto a um filme de terror, tenho pesadelos à noite.
+S: Tenho pesadelos à noite sempre que assisto a um filme de terror.
+
+C: Caminhou devagar enquanto ouvia o som dos pássaros.
+S: Caminhou devagar. Ouviu o som dos pássaros.
+
+C: Depois que terminou de comer, foram todos para casa.
+S: Terminou de comer. Em seguida, foram todos para casa.
+
+C: Assim que acordou, Tomás percebeu que estava atrasado.
+S: Tomás acordou. Percebeu que estava atrasado.
+
+C: Enquanto estudava para a prova, Ana também fazia anotações.
+S: Estudava para a prova. Ana fazia anotações.
+
+C: Mal chegou em casa, João começou a arrumar suas coisas.
+S: Chegou em casa. João começou a arrumar suas coisas.
+
+C: Sempre que chove, eu fico em casa assistindo filmes.
+S: Chove. Eu fico em casa assistindo filmes.
+
+C: Logo que começou a chover, todos correram para se abrigar.
+S: Começou a chover. Todos correram para se abrigar.
+
+C: Até que terminei de ler o livro, já era tarde.
+S: Terminei de ler o livro. Já era tarde.
+
+C: Depois de comprar o ingresso, entrou no cinema.
+S: Comprou o ingresso. Entrou no cinema.
+
+C: Desde que começou a dieta, perdeu muitos quilos.
+S: Começou a dieta. Perdeu muitos quilos.
+
+C: João chegou atrasado para a reunião porque perdeu o ônibus.
+S: João perdeu o ônibus. Ele chegou atrasado para a reunião.
+
+C: Maria descobriu que estava grávida depois que fez o teste de gravidez.
+S: Maria fez o teste de gravidez. Em seguida, ela descobriu que estava grávida.
+
+C: Paulo começou a estudar francês assim que foi aceito em um programa de intercâmbio.
+S: Paulo foi aceito em um programa de intercâmbio. Em seguida, ele começou a estudar francês.
+
+C: As crianças brincaram no parque enquanto esperavam pelos pais.
+S: As crianças esperavam pelos pais. Elas brincaram no parque.
+
+C: Laura comprou um novo computador depois que o antigo quebrou.
+S: O antigo computador quebrou. Em seguida, Laura comprou um novo.
+
+C: O trânsito ficou congestionado sempre que chovia.
+S: Chovia. O trânsito ficava congestionado.
+
+C: Pedro estudou até tarde para a prova antes que viajasse de férias.
+S: Pedro viajou de férias. Antes disso, ele estudou até tarde para a prova.
+
+C: Daniel recebeu uma promoção antes que completasse dois anos na empresa.
+S: Daniel completou dois anos na empresa. Em seguida, ele recebeu uma promoção.
+
+C: Fernanda saiu correndo quando ouviu o barulho de um trovão.
+S: Fernanda ouviu o barulho de um trovão. Em seguida, ela saiu correndo.
+
+C: Os turistas tiraram fotos enquanto visitavam as atrações turísticas da cidade.
+S: Os turistas visitavam as atrações turísticas da cidade. Eles tiraram fotos.
+
+C: O dia estava chuvoso quando ela decidiu ficar em casa.
+S: Ela decidiu ficar em casa. O dia estava chuvoso.
+
+C: Depois que terminou o trabalho, ele foi para casa.
+S: Ele terminou o trabalho. Em seguida, ele foi para casa.
+
+C: Sempre que chove, a grama fica molhada.
+S: A grama fica molhada quando chove.
+
+C: Logo que acordei, tomei um café.
+S: Eu acordei e logo em seguida tomei um café.
+
+C: Até que ele volte, não vamos iniciar o projeto.
+S: Não vamos iniciar o projeto até que ele volte.
+
+C: Cada vez que o telefone toca, meu coração dispara.
+S: Meu coração dispara cada vez que o telefone toca.
+
+C: Desde que começaram as aulas, ela tem estudado todos os dias.
+S: Ela tem estudado todos os dias desde que começaram as aulas.
+
+C: Assim que chegou em casa, ela recebeu uma ligação importante.
+S: Ela chegou em casa e logo em seguida recebeu uma ligação importante.
+
+C: Antes que saia, avise-me.
+S: Avise-me antes de sair.
+
+C: Mal saiu de casa, começou a chover.
+S: Começou a chover assim que ela saiu de casa.
+
+C: Assim que terminou a reunião, Ana ligou para o cliente.
+S: Ana terminou a reunião. Em seguida, Ana ligou para o cliente.
+
+C: Enquanto esperava o ônibus, Maria leu um livro.
+S: Maria esperava o ônibus. Enquanto isso, Maria leu um livro.
+
+C: Ao chegar em casa, percebi que tinha esquecido as chaves.
+S: Cheguei em casa. Percebi que tinha esquecido as chaves.
+
+C: Sempre que chove, eu fico em casa.
+S: Chove. Eu fico em casa.
+
+C: Depois que saiu do trabalho, Lucas foi ao supermercado.
+S: Lucas saiu do trabalho. Depois, Lucas foi ao supermercado.
+
+C: Mal acordou, Isabel já estava atrasada para o compromisso.
+S: Isabel acordou. Isabel já estava atrasada para o compromisso.
+
+C: Cada vez que viajo, sinto saudades da minha família.
+S: Viajo. Sinto saudades da minha família.
+
+C: Antes que escurecesse, o casal resolveu fazer uma caminhada.
+S: Escureceu. O casal resolveu fazer uma caminhada.
+
+C: Desde que começou a academia, João perdeu peso.
+S: João começou a academia. Desde então, João perdeu peso.
+
+C: Logo que a comida ficou pronta, todos se sentaram à mesa.
+S: A comida ficou pronta. Logo após, todos se sentaram à mesa.
+
+C: Ana estudará para o exame antes que o professor chegue.
+S: O professor chegará. Em seguida, Ana estudará para o exame.
+
+C: Encontrei minha chave depois que procurei por toda a casa.
+S: Procurei por toda a casa. Em seguida, encontrei minha chave.
+
+C: Sempre que chove, João guarda o guarda-chuva.
+S: Choveu. João guardou o guarda-chuva.
+
+C: Maria pagará as contas assim que receber o salário.
+S: Maria receberá o salário. Em seguida, pagará as contas.
+
+C: Vou sair de casa no momento em que minha mãe voltar do trabalho.
+S: Minha mãe voltará do trabalho. Em seguida, sairei de casa.
+
+C: Ele telefonará para mim assim que chegar ao escritório.
+S: Ele chegará ao escritório. Em seguida, telefonará para mim.
+
+C: Sempre que o telefone toca, Pedro atende prontamente.
+S: O telefone tocou. Pedro atendeu prontamente.
+
+C: Depois que terminar de ler o livro, Ana o emprestará para a amiga.
+S: Ana terminará de ler o livro. Em seguida, o emprestará para a amiga.
+
+C: Assim que terminarmos o trabalho, iremos ao cinema.
+S: Terminaremos o trabalho. Em seguida, iremos ao cinema.
+
+C: Ele só me chama quando precisa de ajuda.
+S: Ele precisa de ajuda. Então, me chama.
+
+C: Pedro saiu correndo quando viu o ônibus chegando.
+S: Pedro viu o ônibus chegando. Pedro saiu correndo.
+
+C: Ana estudou bastante até que conseguiu passar no exame.
+S: Ana conseguiu passar no exame. Ana estudou bastante.
+
+C: Carlos voltou para casa assim que começou a chover.
+S: Carlos começou a chover. Carlos voltou para casa.
+
+C: Maria comprou um novo carro mal recebeu o seu salário.
+S: Maria recebeu o seu salário. Maria comprou um novo carro.
+
+C: O telefone tocou cada vez que alguém ligava.
+S: Alguém ligava. O telefone tocou.
+
+C: João estava cansado depois de trabalhar a noite inteira.
+S: João trabalhou a noite inteira. João estava cansado.
+
+C: Laura foi ao supermercado antes que a chuva começasse.
+S: A chuva começou. Laura foi ao supermercado.
+
+C: Cláudio saiu de casa logo que terminou de tomar café.
+S: Cláudio terminou de tomar café. Cláudio saiu de casa.
+
+C: Fernanda acordou tarde sempre que dormia pouco.
+S: Fernanda dormia pouco. Fernanda acordou tarde.
+
+C: Paulo ficou feliz cada vez que recebeu elogios.
+S: Paulo recebeu elogios. Paulo ficou feliz.
+
+C: Quando o sol se põe, o céu fica cheio de estrelas brilhantes.
+S: O sol se põe. O céu fica cheio de estrelas brilhantes.
+
+C: Assim que terminei de comer, fui tomar um banho.
+S: Terminei de comer. Fui tomar um banho.
+
+C: Enquanto caminhava pela rua, vi uma loja de doces.
+S: Caminhava pela rua. Vi uma loja de doces.
+
+C: Depois de estudar durante a tarde toda, decidi sair com meus amigos à noite.
+S: Estudei durante a tarde toda. Decidi sair com meus amigos à noite.
+
+C: Desde que comecei a trabalhar neste projeto, tenho visto um grande progresso.
+S: Comecei a trabalhar neste projeto. Tenho visto um grande progresso.
+
+C: Mal terminei de ler o livro, já comecei a ler outro.
+S: Terminei de ler o livro. Já comecei a ler outro.
+
+C: Sempre que chove, eu gosto de ficar em casa e assistir filmes.
+S: Chove. Eu gosto de ficar em casa e assistir filmes.
+
+C: Cada vez que vejo aquele filme, me emociono muito.
+S: Vejo aquele filme. Me emociono muito.
+
+C: Logo que acordei, percebi que estava atrasado para o trabalho.
+S: Acordei. Percebi que estava atrasado para o trabalho.
+
+C: Antes que o sol se ponha, quero dar um passeio na praia.
+S: O sol se põe. Quero dar um passeio na praia.
+
+C: Ao chegar em casa, João tomou um banho e se deitou.
+S: João chegou em casa. João tomou um banho e se deitou.
+
+C: Assim que o sol se pôs, as estrelas começaram a aparecer no céu.
+S: O sol se pôs. As estrelas começaram a aparecer no céu.
+
+C: Enquanto estudava, Maria ouviu um barulho estranho vindo da cozinha.
+S: Maria estudava. Maria ouviu um barulho estranho vindo da cozinha.
+
+C: Sempre que vou à praia, levo protetor solar.
+S: Vou à praia. Levo protetor solar.
+
+C: Antes que o filme começasse, comprei pipoca e refrigerante.
+S: O filme começaria. Comprei pipoca e refrigerante.
+
+C: Ao acordar, percebi que estava atrasado para o trabalho.
+S: Acordei. Percebi que estava atrasado para o trabalho.
+
+C: Mal chegou em casa, Pedro começou a arrumar a bagunça.
+S: Pedro chegou em casa. Pedro começou a arrumar a bagunça.
+
+C: Logo que acendeu a luz, o menino se assustou com a sombra na parede.
+S: Acendeu a luz. O menino se assustou com a sombra na parede.
+
+C: Cada vez que chove, o jardim fica cheio de poças d'água.
+S: Chove. O jardim fica cheio de poças d'água.
+
+C: Depois de jantar, Maria lavou a louça e arrumou a cozinha.
+S: Jantei. Lavei a louça e arrumei a cozinha.
+
+C: Joana comprou um presente para o namorado quando estava viajando em Paris.
+S: Joana estava viajando em Paris. Joana comprou um presente para o namorado.
+
+C: Depois que a chuva parou, as crianças foram brincar no parque.
+S: A chuva parou. Em seguida, as crianças foram brincar no parque.
+
+C: Quando o sol se pôs, o céu ficou cheio de estrelas.
+S: O sol se pôs. O céu ficou cheio de estrelas.
+
+C: Logo que a campainha tocou, todos correram para atender a porta.
+S: A campainha tocou. Todos correram para atender a porta.
+
+C: Depois que terminou o filme, decidimos ir jantar fora.
+S: Terminou o filme. Em seguida, decidimos ir jantar fora.
+
+C: Quando o alarme disparou, todos evacuaram o prédio.
+S: O alarme disparou. Todos evacuaram o prédio.
+
+C: Assim que acordou, Maria tomou um banho e se vestiu.
+S: Maria acordou. Maria tomou um banho e se vestiu.
+
+C: Até que o sol se ponha, podemos aproveitar mais um dia na praia.
+S: O sol se pôr. Podemos aproveitar mais um dia na praia.
+
+C: Mal começou a chover, a praia ficou vazia.
+S: Começou a chover. A praia ficou vazia.
+
+C: Cada vez que ouço essa música, me lembro do nosso primeiro encontro.
+S: Ouo essa música. Me lembro do nosso primeiro encontro.
+
+C: Ao chegar em casa, ele imediatamente ligou para sua mãe.
+S: Ele chegou em casa e imediatamente ligou para sua mãe.
+
+C: Depois que estudou muito, ela se sentiu confiante para o exame.
+S: Ela estudou muito e se sentiu confiante para o exame.
+
+C: Quando ouviu a música, ela começou a dançar.
+S: Ela ouviu a música e começou a dançar.
+
+C: Enquanto chovia lá fora, eles continuaram a jogar cartas.
+S: Estava chovendo lá fora e eles continuaram a jogar cartas.
+
+C: Assim que terminou o trabalho, ele enviou o relatório por e-mail.
+S: Ele terminou o trabalho e enviou o relatório por e-mail.
+
+C: Até que os convidados chegassem, ela preparou a comida.
+S: Os convidados ainda não tinham chegado e ela preparou a comida.
+
+C: Depois de escovar os dentes, ele foi para a cama.
+S: Ele escovou os dentes e foi para a cama.
+
+C: Desde que começou a academia, ela tem se sentido mais saudável.
+S: Ela começou a academia e tem se sentido mais saudável.
+
+C: Mal ele fechou os olhos, começou a sonhar.
+S: Assim que ele fechou os olhos, começou a sonhar.
+
+C: Sempre que ouve a música, ele se emociona.
+S: Ele ouve a música e sempre se emociona.
+
+C: Ela só vai começar o trabalho quando terminar esse projeto.
+S: Ela terminará esse projeto. Em seguida, começará o trabalho.
+
+C: Ele sempre liga para os pais antes de sair de viagem.
+S: Ele liga para os pais antes de sair de viagem.
+
+C: Sarah continua a estudar até que entenda completamente a matéria.
+S: Sarah estuda até entender completamente a matéria.
+
+C: Eles mal tinham chegado em casa quando começou a chover.
+S: Eles chegaram em casa. Em seguida, começou a chover.
+
+C: Paulo sempre se exercita cada vez que acorda cedo.
+S: Paulo se exercita quando acorda cedo.
+
+C: Quando João chegar em casa, ele irá te ligar.
+S: João irá te ligar.
+
+C: Ela sempre lê um livro antes de dormir.
+S: Ela lê um livro antes de dormir.
+
+C: Lucas esperou até que todos os convidados chegassem para iniciar a festa de aniversário.
+S: Lucas esperou todos os convidados chegarem. Em seguida, iniciou a festa de aniversário.
+
+C: Elas só saem de casa depois que terminam todas as tarefas.
+S: Elas terminam todas as tarefas. Em seguida, saem de casa.
+
+C: Enquanto estudava para a prova, Pedro recebeu uma ligação importante.
+S: Pedro recebeu uma ligação importante enquanto estudava para a prova.
+
+C: Depois que terminou seus estudos, Maria encontrou um emprego.
+S: Maria terminou seus estudos. Em seguida, ela encontrou um emprego.
+
+C: Enquanto chovia lá fora, eu assistia a um filme dentro de casa.
+S: Chovia lá fora. Eu assistia a um filme dentro de casa.
+
+C: Assim que acabei de jantar, fui dar um passeio.
+S: Eu acabei de jantar. Em seguida, fui dar um passeio.
+
+C: Sempre que chove, eu fico em casa.
+S: Chove. Eu fico em casa.
+
+C: Antes de sair de casa, Tomás escovou os dentes.
+S: Tomás saiu de casa. Ele escovou os dentes antes de sair.
+
+C: Até que o sol se pôs, as crianças brincaram no parque.
+S: O sol se pôs. As crianças brincaram no parque até esse momento.
+
+C: Cada vez que ela me liga, eu fico feliz.
+S: Ela me liga. Eu fico feliz cada vez que isso acontece.
+
+C: Mal chegou em casa, ele foi direto para o quarto.
+S: Ele chegou em casa e foi direto para o quarto.
+
+C: Desde que começou a chover, as ruas ficaram alagadas.
+S: Começou a chover. As ruas ficaram alagadas desde então.
+
+C: Depois que ela terminar de estudar, vamos sair para jantar.
+S: Ela vai terminar de estudar. Em seguida, vamos sair para jantar.
+
+C: Assim que o sol se pôs, as estrelas começaram a brilhar no céu.
+S: O sol se pôs. As estrelas começaram a brilhar no céu.
+
+C: Enquanto estudava para a prova, João percebeu que estava com fome.
+S: João estudava para a prova. João percebeu que estava com fome.
+
+C: Sempre que chove, eu fico em casa assistindo filmes.
+S: Chove. Eu fico em casa assistindo filmes.
+
+C: Logo que a campainha tocou, meu cachorro começou a latir.
+S: A campainha tocou. Meu cachorro começou a latir.
+
+C: Antes que saia, não se esqueça de trancar a porta.
+S: Saia. Não se esqueça de trancar a porta.
+
+C: Cada vez que o telefone toca, meu coração dispara.
+S: O telefone toca. Meu coração dispara.
+
+C: Depois de terminar o trabalho, ela saiu para comemorar.
+S: Terminou o trabalho. Ela saiu para comemorar.
+
+C: Desde que começou a dieta, ela perdeu 5 quilos.
+S: Começou a dieta. Ela perdeu 5 quilos.
+
+C: Mal ele saiu, começou a chover.
+S: Ele saiu. Começou a chover.
+
+C: Até que o ônibus chegue, vou continuar esperando aqui.
+S: O ônibus chegue. Vou continuar esperando aqui.
+
+C: O jogo foi cancelado devido à chuva que começou a cair.
+S: A chuva começou a cair e o jogo foi cancelado.
+
+C: Carlos comprou um carro assim que recebeu o salário.
+S: Carlos recebeu o salário e comprou um carro.
+
+C: Ana saiu correndo depois que ouviu o barulho.
+S: Ana ouviu o barulho e saiu correndo.
+
+C: O vendedor só entrega os produtos quando recebe o pagamento.
+S: O vendedor recebe o pagamento e entrega os produtos.
+
+C: Os alunos estudam bastante antes que façam o exame final.
+S: Os alunos fazem o exame final após estudarem bastante.
+
+C: Os alunos poderão sair assim que terminarem a prova.
+S: Os alunos terminarão a prova e poderão sair.
+
+C: O professor explicou o conteúdo várias vezes até que todos entendessem.
+S: O professor explicou o conteúdo várias vezes. Todos entenderam.
+
+C: O time marcou o gol logo que o jogo começou.
+S: O jogo começou e o time marcou o gol.
+
+C: Maria ligou para Pedro sempre que precisava de ajuda.
+S: Maria precisava de ajuda e ligou para Pedro.
+
+C: A festa começou assim que todos chegaram.
+S: Todos chegaram e a festa começou.
+
+C: Após terminar a aula, a aluna foi para casa estudar.
+S: A aluna terminou a aula. A aluna foi para casa estudar.
+
+C: Sempre que chove, ela lembra da infância feliz na fazenda.
+S: Choveu. Ela lembra da infância feliz na fazenda.
+
+C: Quando o sol se põe, as estrelas começam a aparecer no céu.
+S: O sol se pôs. As estrelas começaram a aparecer no céu.
+
+C: Enquanto o professor explicava a matéria, os alunos faziam anotações.
+S: O professor explicava a matéria. Os alunos faziam anotações.
+
+C: Logo que terminou o trabalho, ela foi para a academia malhar.
+S: Ela terminou o trabalho. Ela foi para a academia malhar.
+
+C: Cada vez que ele viaja, ele traz lembranças especiais.
+S: Ele viajou. Ele trouxe lembranças especiais.
+
+C: Antes que eu chegue ao aeroporto, verifique se trago o passaporte.
+S: Eu chegarei ao aeroporto. Verifique se trago o passaporte.
+
+C: Assim que o filme acabar, podemos sair para jantar.
+S: O filme acabou. Podemos sair para jantar.
+
+C: Mal ela abriu a porta, o gato pulou em seu colo.
+S: Ela abriu a porta. O gato pulou em seu colo.
+
+C: Depois que ele terminou de estudar, ele foi dormir.
+S: Ele terminou de estudar. Ele foi dormir.
+
+C: No momento em que a chuva começou a cair, todos correram para se abrigar.
+S: A chuva começou a cair. Todos correram para se abrigar.
+
+C: Enquanto o sol se punha, o céu se encheu de cores vibrantes.
+S: O sol se punha. O céu se encheu de cores vibrantes.
+
+C: Assim que o alarme tocou, todos evacuaram o prédio imediatamente.
+S: O alarme tocou. Todos evacuaram o prédio imediatamente.
+
+C: Logo que o professor chegou à sala, os alunos se levantaram para saudá-lo.
+S: O professor chegou à sala. Os alunos se levantaram para saudá-lo.
+
+C: Até que os resultados sejam divulgados, não podemos tomar nenhuma decisão.
+S: Os resultados ainda não foram divulgados. Não podemos tomar nenhuma decisão.
+
+C: Depois de me formar na faculdade, pretendo fazer um intercâmbio.
+S: Eu pretendo fazer um intercâmbio depois de me formar na faculdade.
+
+C: Desde que comecei a praticar exercícios físicos, minha saúde melhorou consideravelmente.
+S: Eu comecei a praticar exercícios físicos. Minha saúde melhorou consideravelmente.
+
+C: Apenas quando todos os convidados chegarem, começaremos a festa de aniversário.
+S: Nós só começaremos a festa de aniversário quando todos os convidados chegarem.
+
+C: Cada vez que assisto a esse filme, descubro algo novo e emocionante.
+S: Eu assisto a esse filme várias vezes. Eu sempre descubro algo novo e emocionante.
+
+C: Antes que você saia, lembre-se de trancar a porta.
+S: Lembre-se de trancar a porta antes que você saia.
+
+C: Ana começou a cantar quando a platéia aplaudiu.
+S: A platéia aplaudiu. Ana começou a cantar.
+
+C: João ficou chateado assim que viu o resultado do teste.
+S: João viu o resultado do teste. João ficou chateado.
+
+C: Maria esperou até que o ônibus chegasse.
+S: O ônibus chegou. Maria esperou.
+
+C: Pedro sempre quebra o vaso cada vez que limpa a sala.
+S: Pedro limpa a sala. Pedro sempre quebra o vaso.
+
+C: Laura ligou para a polícia mal ouviu o barulho.
+S: Laura ouviu o barulho. Laura ligou para a polícia.
+
+C: A festa começou depois que todos chegaram.
+S: Todos chegaram. A festa começou.
+
+C: Eles saíram de casa antes que escurecesse.
+S: Escureceu. Eles saíram de casa.
+
+C: Amanda pediu desculpas assim que percebeu o erro.
+S: Amanda percebeu o erro. Amanda pediu desculpas.
+
+C: Carlos comprou um celular novo desde que recebeu o aumento.
+S: Carlos recebeu o aumento. Carlos comprou um celular novo.
+
+C: Os alunos estudaram até que acabasse o tempo da prova.
+S: Acabou o tempo da prova. Os alunos estudaram.
+
+C: Enquanto eu estudava para a prova, meu celular tocou.
+S: Eu estava estudando para a prova. Meu celular tocou.
+
+C: Assim que ele terminou de ler o livro, começou a escrever sua resenha.
+S: Ele terminou de ler o livro. Em seguida, começou a escrever sua resenha.
+
+C: Antes que eu saísse de casa, certifiquei-me de que tinha colocado meu casaco.
+S: Eu certifiquei-me de que tinha colocado meu casaco. Em seguida, saí de casa.
+
+C: Sempre que chove, as ruas ficam alagadas.
+S: Quando chove, as ruas ficam alagadas.
+
+C: Mal ela acordou, começou a preparar o café da manhã.
+S: Ela acordou. Em seguida, começou a preparar o café da manhã.
+
+C: Depois de sair do trabalho, fui direto para casa.
+S: Eu saí do trabalho. Em seguida, fui direto para casa.
+
+C: Desde que ele começou a trabalhar nessa empresa, sua vida mudou completamente.
+S: Ele começou a trabalhar nessa empresa. Sua vida mudou completamente.
+
+C: Cada vez que jantamos fora, gastamos muito dinheiro.
+S: Quando jantamos fora, gastamos muito dinheiro.
+
+C: Até que ele consiga um emprego, continuará procurando.
+S: Ele continuará procurando um emprego. Até que consiga, não irá parar.
+
+C: Depois que ele chegou em casa, ligou para sua mãe.
+S: Ele chegou em casa. Em seguida, ligou para sua mãe.
+
+C: Ana estudou bastante antes de fazer a prova e obteve um alto resultado.
+S: Ana fez a prova depois de estudar bastante e obteve um alto resultado.
+
+C: João só descansou depois que terminou todas as suas tarefas.
+S: João terminou todas as suas tarefas. Em seguida, descansou.
+
+C: Maria ligou para a polícia assim que viu o acidente.
+S: Maria viu o acidente. Em seguida, ligou para a polícia.
+
+C: Mateus começou a correr mal terminou de comer.
+S: Mateus terminou de comer. Em seguida, começou a correr.
+
+C: Laura sempre que vai nadar, leva sua câmera para tirar fotos.
+S: Laura vai nadar e leva sua câmera para tirar fotos.
+
+C: Miguel saiu de casa antes que sua mãe acordasse.
+S: Miguel saiu de casa. Sua mãe ainda não havia acordado.
+
+C: Júlia viajou para o exterior logo que recebeu uma bolsa de estudos.
+S: Júlia recebeu uma bolsa de estudos. Em seguida, viajou para o exterior.
+
+C: Os alunos saíram da sala de aula assim que o sinal tocou.
+S: O sinal tocou. Em seguida, os alunos saíram da sala de aula.
+
+C: Lucas foi ao mercado sempre que precisava comprar mantimentos.
+S: Lucas precisava comprar mantimentos e foi ao mercado.
+
+C: Sofia aprendeu a andar de bicicleta depois que seu pai lhe deu uma bicicleta nova.
+S: Sofia ganhou uma bicicleta nova. Em seguida, aprendeu a andar de bicicleta.
+
+C: Após terminar o trabalho, João foi descansar no parque.
+S: João terminou o trabalho. João foi descansar no parque.
+
+C: Enquanto estiver estudando, não quero ser interrompido.
+S: Eu não quero ser interrompido. Eu estiver estudando.
+
+C: Sempre que chove, o trânsito fica caótico.
+S: O trânsito fica caótico. Chove.
+
+C: Assim que o sol se pôs, as estrelas começaram a aparecer.
+S: O sol se pôs. As estrelas começaram a aparecer.
+
+C: Antes que saia de casa, não se esqueça de pegar a chave.
+S: Não se esqueça de pegar a chave. Saia de casa.
+
+C: Cada vez que vou à praia, me divirto muito.
+S: Eu me divirto muito. Eu vou à praia.
+
+C: Mal entraram no parque, as crianças começaram a correr.
+S: As crianças começaram a correr. Elas mal entraram no parque.
+
+C: Até que a chuva pare, não vamos sair de casa.
+S: Nós não vamos sair de casa. A chuva pare.
+
+C: Depois de fazer um lanche, vamos continuar a viagem.
+S: Nós vamos continuar a viagem. Nós fazermos um lanche.
+
+C: Desde que começou a trabalhar, Pedro não tem tido tempo para descansar.
+S: Pedro não tem tido tempo para descansar. Ele começou a trabalhar.
+
+C: Enquanto estudava para o exame, Ana estava bastante nervosa.
+S: Ana estudava para o exame. Ana estava bastante nervosa.
+
+C: Sempre que chove, ele se atrasa para o trabalho.
+S: Ele se atrasa para o trabalho sempre que chove.
+
+C: Depois que terminar o projeto, irei tirar férias.
+S: Irei tirar férias depois de terminar o projeto.
+
+C: Assim que o sol nasceu, os pássaros começaram a cantar.
+S: Os pássaros começaram a cantar assim que o sol nasceu.
+
+C: Antes que a comida esfrie, vamos começar a comer.
+S: Vamos começar a comer antes que a comida esfrie.
+
+C: Mal ela chegou em casa, começou a chover.
+S: Começou a chover mal ela chegou em casa.
+
+C: Cada vez que o telefone toca, ela se assusta.
+S: Ela se assusta cada vez que o telefone toca.
+
+C: Desde que começou a correr todos os dias, ele perdeu peso.
+S: Ele perdeu peso desde que começou a correr todos os dias.
+
+C: Até que ele pague a dívida, não poderá sair do país.
+S: Ele não poderá sair do país até que ele pague a dívida.
+
+C: Depois que lavar as roupas, vou passá-las.
+S: Vou passar as roupas depois de lavá-las.
+
+C: Quando cheguei em casa, já era tarde da noite e todos estavam dormindo.
+S: Cheguei em casa tarde da noite. Todos já estavam dormindo.
+
+C: Assim que terminar de estudar, vou sair para me divertir.
+S: Terminando de estudar, vou sair para me divertir.
+
+C: Enquanto esperava o ônibus, começou a chover.
+S: Esperei o ônibus e começou a chover.
+
+C: Até que todos estejam prontos, não podemos começar a reunião.
+S: Todos têm que estar prontos para começarmos a reunião.
+
+C: Depois de terminarmos o almoço, vamos dar um passeio.
+S: Terminaremos o almoço e daremos um passeio.
+
+C: Desde que ela chegou, estou mais feliz.
+S: Ela chegou e estou mais feliz.
+
+C: Apenas termine de escrever o relatório e poderá ir para casa.
+S: Termine de escrever o relatório e poderá ir para casa.
+
+C: Mal acordei e já me senti cansado.
+S: Acordei e já me senti cansado.
+
+C: Sempre que assisto filmes de terror, tenho pesadelos.
+S: Quando assisto filmes de terror, tenho pesadelos.
+
+C: Cada vez que escuto essa música, me lembro do meu ex.
+S: Quando escuto essa música, me lembro do meu ex.
+
+C: Ao chegar em casa, ela imediatamente ligou para sua amiga.
+S: Ela chegou em casa. Ela imediatamente ligou para sua amiga.
+
+C: Depois que terminou a reunião, ele saiu do escritório.
+S: Ele terminou a reunião. Em seguida, ele saiu do escritório.
+
+C: Logo que o sol nasceu, os pássaros começaram a cantar.
+S: O sol nasceu. Os pássaros começaram a cantar.
+
+C: Assim que acordou, ela verificou o celular em busca de mensagens.
+S: Ela acordou. Ela verificou o celular em busca de mensagens.
+
+C: Enquanto estudava para a prova, ele ouvia música no fone de ouvido.
+S: Ele estudava para a prova. Ele ouvia música no fone de ouvido.
+
+C: Antes que o ônibus chegasse, eles decidiram caminhar até o trabalho.
+S: O ônibus estava para chegar. Eles decidiram caminhar até o trabalho.
+
+C: Mal o filme começou, ele adormeceu no sofá.
+S: O filme começou. Ele adormeceu no sofá.
+
+C: Cada vez que encontrava sua vizinha no elevador, ela evitava olhar nos olhos dela.
+S: Ela encontrava sua vizinha no elevador. Ela evitava olhar nos olhos dela.
+
+C: Sempre que chovia, ele colocava o guarda-chuva na mochila.
+S: Chovia. Ele colocava o guarda-chuva na mochila.
+
+C: Ela sentiu-se aliviada depois que recebeu a notícia de que passou no exame.
+S: Ela recebeu a notícia de que passou no exame. Ela sentiu-se aliviada.
+
+C: Depois que terminou seus estudos, Maria decidiu fazer um intercâmbio.
+S: Maria terminou seus estudos e decidiu fazer um intercâmbio.
+
+C: Quando começou a chover, todos correram para se abrigar.
+S: Começou a chover e todos correram para se abrigar.
+
+C: Logo que acordei, percebi que estava atrasado para o trabalho.
+S: Acordei e percebi que estava atrasado para o trabalho.
+
+C: Enquanto assistia ao filme, João adormeceu na poltrona.
+S: João assistia ao filme e adormeceu na poltrona.
+
+C: Antes que fosse tarde, Maria decidiu tomar uma decisão.
+S: Foi tarde e Maria decidiu tomar uma decisão.
+
+C: Assim que o telefone tocou, ela atendeu imediatamente.
+S: O telefone tocou e ela atendeu imediatamente.
+
+C: Cada vez que visito meus avós, ganho presentes deles.
+S: Visitando meus avós, ganho presentes deles.
+
+C: Desde que começou a trabalhar, Carlos tem se dedicado ao máximo.
+S: Carlos começou a trabalhar e tem se dedicado ao máximo.
+
+C: Mal fechei a porta de casa, percebi que tinha esquecido as chaves.
+S: Fechei a porta de casa e percebi que tinha esquecido as chaves.
+
+C: Sempre que vou à praia, aproveito para tomar sol e nadar.
+S: Vou à praia, aproveito para tomar sol e nadar.
+
+C: Ao chegar em casa, João percebeu que havia esquecido a chave.
+S: João chegou em casa e percebeu que havia esquecido a chave.
+
+C: Enquanto esperava o ônibus, começou a chover.
+S: Começou a chover enquanto esperava o ônibus.
+
+C: Logo que acordou, Maria tomou café da manhã.
+S: Maria acordou e tomou café da manhã.
+
+C: Depois que terminou o trabalho, João foi ao supermercado.
+S: João terminou o trabalho e foi ao supermercado.
+
+C: Sempre que viaja para o exterior, ela faz compras.
+S: Ela viaja para o exterior e faz compras.
+
+C: Até que consiga um emprego, ele continuará procurando.
+S: Ele continuará procurando até conseguir um emprego.
+
+C: Mal acordei, percebi que estava atrasado.
+S: Acordei e percebi que estava atrasado.
+
+C: Cada vez que assisto esse filme, choro no final.
+S: Assisti esse filme e choro no final.
+
+C: Antes que a festa comece, vamos comprar os ingredientes.
+S: A festa vai começar e vamos comprar os ingredientes antes.
+
+C: Desde que começou a estudar, ele tem se saído muito bem nas provas.
+S: Ele começou a estudar e tem se saído muito bem nas provas.
+
+C: Ao chegar em casa, Maria imediatamente começou a fazer o jantar.
+S: Maria chegou em casa e imediatamente começou a fazer o jantar.
+
+C: Depois que terminou de estudar, João foi ao supermercado comprar comida para o jantar.
+S: João terminou de estudar e foi ao supermercado comprar comida para o jantar.
+
+C: Sempre que chove, eu levo um guarda-chuva.
+S: Quando chove, eu levo um guarda-chuva.
+
+C: Logo que acordou, Pedro fez sua cama e arrumou seu quarto.
+S: Pedro acordou, fez sua cama e arrumou seu quarto.
+
+C: Até que a comida estivesse pronta, os convidados ficaram conversando na sala.
+S: A comida estava sendo preparada e os convidados ficaram conversando na sala.
+
+C: Quando estava a caminho do trabalho, Carla encontrou uma amiga no ônibus.
+S: Carla estava a caminho do trabalho e encontrou uma amiga no ônibus.
+
+C: Assim que as luzes se apagaram, começou o espetáculo.
+S: As luzes se apagaram e começou o espetáculo.
+
+C: Cada vez que vamos ao cinema, compramos pipoca.
+S: Sempre que vamos ao cinema, compramos pipoca.
+
+C: Mal saiu de casa, Lucas percebeu que estava chovendo.
+S: Logo que saiu de casa, Lucas percebeu que estava chovendo.
+
+C: Antes que o sol se pusesse, todos voltaram para o acampamento.
+S: O sol estava prestes a se pôr e todos voltaram para o acampamento.
+
+C: Depois de terminar a reunião, eles foram almoçar juntos no restaurante.
+S: Eles terminaram a reunião. Depois, eles foram almoçar juntos no restaurante.
+
+C: Enquanto estudava para a prova, ela ouvia música para relaxar.
+S: Ela estudava para a prova. Enquanto isso, ela ouvia música para relaxar.
+
+C: Assim que acordou, ele tomou um banho e se vestiu.
+S: Ele acordou. Assim que isso aconteceu, ele tomou um banho e se vestiu.
+
+C: Quando terminar o trabalho, vamos sair para comemorar.
+S: Vamos sair para comemorar. Isso vai acontecer quando você terminar o trabalho.
+
+C: Depois que choveu, o sol apareceu e o ar ficou mais fresco.
+S: Choveu. Depois disso, o sol apareceu e o ar ficou mais fresco.
+
+C: Sempre que viaja para o exterior, ele faz questão de experimentar a comida local.
+S: Ele viaja para o exterior. Sempre que isso acontece, ele faz questão de experimentar a comida local.
+
+C: Enquanto a música tocava, as pessoas dançavam animadamente.
+S: A música tocava. Enquanto isso, as pessoas dançavam animadamente.
+
+C: Logo que chegou em casa, ele ligou para avisar que estava bem.
+S: Ele chegou em casa. Logo que isso aconteceu, ele ligou para avisar que estava bem.
+
+C: Antes de sair de casa, ela conferiu se tinha levado todos os documentos.
+S: Ela saiu de casa. Antes disso, ela conferiu se tinha levado todos os documentos.
+
+C: Depois que terminou o filme, ela comentou sobre a história com os amigos.
+S: Ela terminou o filme. Depois disso, ela comentou sobre a história com os amigos.
+
+C: Depois que terminar o trabalho, vamos sair para comemorar.
+S: Vamos sair para comemorar quando terminarmos o trabalho.
+
+C: Sempre que chove, a grama do jardim fica molhada.
+S: A grama do jardim fica molhada quando chove.
+
+C: Assim que o sol se pôs, começou a chover.
+S: Começou a chover logo depois do sol se pôr.
+
+C: Antes que o filme comece, vamos comprar os ingressos.
+S: Vamos comprar os ingressos antes do filme começar.
+
+C: Enquanto estudava para a prova, ela fez anotações importantes.
+S: Ela fez anotações importantes enquanto estudava para a prova.
+
+C: Logo que acordou, ela tomou um banho.
+S: Ela tomou um banho assim que acordou.
+
+C: Mal chegamos em casa, começou a chover.
+S: Começou a chover logo depois de chegarmos em casa.
+
+C: Cada vez que tocava uma música familiar, ele se emocionava.
+S: Ele se emocionava sempre que tocava uma música familiar.
+
+C: Até que aprenda a dirigir, ele vai precisar de carona.
+S: Ele vai precisar de carona até aprender a dirigir.
+
+C: Desde que começou o inverno, as temperaturas estão mais baixas.
+S: As temperaturas estão mais baixas desde o começo do inverno.
+
+C: Pedro estudou durante várias horas antes de fazer a prova.
+S: Pedro fez a prova. Pedro estudou durante várias horas.
+
+C: Enquanto caminhava pela praia, Maria encontrou uma concha bonita.
+S: Maria caminhava pela praia. Maria encontrou uma concha bonita.
+
+C: Mal terminou o jantar, Lucas foi para o quarto estudar.
+S: Lucas terminou o jantar. Lucas foi para o quarto estudar.
+
+C: Cada vez que chove, os alunos ficam ansiosos para voltar para casa.
+S: Chove. Os alunos ficam ansiosos para voltar para casa.
+
+C: Assim que acordou, João tomou um banho e se arrumou.
+S: João acordou. João tomou um banho e se arrumou.
+
+C: Antes que o sol se pusesse, os pássaros já estavam voando de volta para o ninho.
+S: O sol se pôs. Os pássaros já estavam voando de volta para o ninho.
+
+C: Sempre que vai ao supermercado, Maria compra chocolates.
+S: Maria vai ao supermercado. Maria compra chocolates.
+
+C: Logo que chegou em casa, André ligou para a mãe para contar as novidades.
+S: André chegou em casa. André ligou para a mãe para contar as novidades.
+
+C: Enquanto assistia ao filme, Joana começou a sentir sono.
+S: Joana assistia ao filme. Joana começou a sentir sono.
+
+C: Depois de terminar o trabalho, Marcos foi para casa descansar.
+S: Marcos terminou o trabalho. Marcos foi para casa descansar.
+
+C: Ao chegar em casa, ele tomou um banho quente.
+S: Ele chegou em casa. Ele tomou um banho quente.
+
+C: Enquanto estudava para a prova, ela bebia café.
+S: Ela estudava para a prova. Ela bebia café.
+
+C: Assim que o sol se pôs, as estrelas começaram a aparecer.
+S: O sol se pôs. As estrelas começaram a aparecer.
+
+C: Logo que o telefone tocou, ela atendeu.
+S: O telefone tocou. Ela atendeu.
+
+C: Até que a chuva parasse, eles ficaram dentro de casa.
+S: A chuva parou. Eles ficaram dentro de casa.
+
+C: Depois de terminar os estudos, ele conseguiu um bom emprego.
+S: Ele terminou os estudos. Ele conseguiu um bom emprego.
+
+C: Desde que começou a fazer exercícios, ele perdeu peso.
+S: Ele começou a fazer exercícios. Ele perdeu peso.
+
+C: Apenas quando o sol nasceu, ele decidiu ir embora.
+S: O sol nasceu. Ele decidiu ir embora.
+
+C: Mal ela entrou em casa, começou a chover.
+S: Ela entrou em casa. Começou a chover.
+
+C: Cada vez que ele visitava a cidade, encontrava velhos amigos.
+S: Ele visitava a cidade. Encontrava velhos amigos.
+
+C: Ao chegar em casa depois do trabalho, João encontrou um bilhete da esposa informando que saiu para jantar com as amigas.
+S: João chegou em casa depois do trabalho. João encontrou um bilhete da esposa informando que saiu para jantar com as amigas.
+
+C: Maria saiu correndo quando percebeu que estava atrasada para a reunião.
+S: Maria percebeu que estava atrasada para a reunião. Maria saiu correndo.
+
+C: Encontrei o livro que estava procurando assim que entrei na biblioteca.
+S: Entrei na biblioteca. Encontrei o livro que estava procurando.
+
+C: Sempre que chove, meu cachorro se esconde embaixo da cama.
+S: Choveu. Meu cachorro se escondeu embaixo da cama.
+
+C: Até que o sol se ponha, vamos continuar aproveitando a praia.
+S: Vamos continuar aproveitando a praia. O sol ainda não se pôs.
+
+C: Mal começou a festa, o telefone tocou e todos se assustaram.
+S: O telefone tocou. Todos se assustaram. A festa mal começou.
+
+C: Cada vez que falo com ela, me sinto mais feliz.
+S: Falei com ela. Me sinto mais feliz a cada vez.
+
+C: Antes que o filme comece, vamos comprar algumas pipocas.
+S: Vamos comprar algumas pipocas. O filme não começou ainda.
+
+C: Desde que ele se mudou para a cidade, não o vejo mais.
+S: Ele se mudou para a cidade. Não o vejo mais desde então.
+
+C: Logo que a campainha tocou, corri para abrir a porta.
+S: A campainha tocou. Corri para abrir a porta.
+
+C: Enquanto lia o livro, ela se emocionou com a história.
+S: Ela lia o livro e se emocionou com a história.
+
+C: Ele sempre quebra as regras quando ninguém está olhando.
+S: Ele quebra as regras quando ninguém está olhando.
+
+C: Depois que terminar o trabalho, irei descansar um pouco.
+S: Terminarei o trabalho e irei descansar um pouco.
+
+C: Sempre que chove, ela fica triste.
+S: Chovendo, ela fica triste.
+
+C: Assim que cheguei em casa, liguei para ela.
+S: Cheguei em casa e liguei para ela.
+
+C: Cada vez que vejo aquele filme, choro.
+S: Vendo aquele filme, choro.
+
+C: Até que a situação melhore, não podemos tomar uma decisão.
+S: A situação não melhora e não podemos tomar uma decisão.
+
+C: Antes que o sol se ponha, vamos para a praia.
+S: O sol não se põe e vamos para a praia.
+
+C: Logo que ela acordar, vamos sair para passear.
+S: Ela acorda e vamos sair para passear.
+
+C: Mal ela começou a estudar, já desistiu.
+S: Ela começou a estudar e já desistiu.
+
+C: Ao chegar em casa, Maria percebeu que tinha esquecido as chaves na sua mesa de trabalho.
+S: Maria chegou em casa. Maria percebeu que tinha esquecido as chaves na sua mesa de trabalho.
+
+C: Enquanto estudava para a prova, Pedro recebeu uma ligação urgente do seu chefe.
+S: Pedro estudava para a prova. Pedro recebeu uma ligação urgente do seu chefe.
+
+C: Assim que terminou de jantar, Ana foi para o seu quarto descansar.
+S: Ana terminou de jantar. Ana foi para o seu quarto descansar.
+
+C: Até que a chuva parasse, Lucas decidiu não sair de casa.
+S: Lucas decidiu não sair de casa. A chuva parasse.
+
+C: Depois de ouvir a música no rádio, Carlos começou a cantarolar a melodia.
+S: Carlos ouviu a música no rádio. Carlos começou a cantarolar a melodia.
+
+C: Desde que começou a praticar yoga, Carla tem se sentido mais relaxada.
+S: Carla começou a praticar yoga. Carla tem se sentido mais relaxada.
+
+C: Apenas quando os convidados chegaram, a festa realmente começou.
+S: Os convidados chegaram. A festa realmente começou.
+
+C: Mal terminei o trabalho, meu chefe pediu por um relatório extra.
+S: Eu terminei o trabalho. Meu chefe pediu por um relatório extra.
+
+C: Sempre que chove, as crianças brincam dentro de casa.
+S: Chove. As crianças brincam dentro de casa.
+
+C: Cada vez que viajo para a praia, me sinto mais revigorado.
+S: Eu viajo para a praia. Eu me sinto mais revigorado.
+
+C: Após terminar seus estudos, Maria decidiu fazer um intercâmbio na França.
+S: Maria terminou seus estudos. Maria decidiu fazer um intercâmbio na França.
+
+C: Enquanto esperávamos o ônibus, começou a chover forte.
+S: Nós esperávamos o ônibus. Começou a chover forte.
+
+C: Assim que o sol se pôs, as estrelas começaram a aparecer no céu.
+S: O sol se pôs. As estrelas começaram a aparecer no céu.
+
+C: Ele sempre que ia à praia, trazia um sanduíche para o lanche.
+S: Ele ia à praia. Ele trazia um sanduíche para o lanche.
+
+C: Ela mal chegou em casa, e já começou a arrumar as malas para viajar.
+S: Ela chegou em casa. Ela começou a arrumar as malas para viajar.
+
+C: Antes que o filme começasse, compramos pipoca e refrigerante.
+S: O filme começou. Nós compramos pipoca e refrigerante.
+
+C: Cada vez que a campainha tocava, o cachorro latia sem parar.
+S: A campainha tocava. O cachorro latia sem parar.
+
+C: Depois de pegar o diploma, ele decidiu abrir seu próprio negócio.
+S: Ele pegou o diploma. Ele decidiu abrir seu próprio negócio.
+
+C: Desde que começou a malhar, ele perdeu cinco quilos.
+S: Ele começou a malhar. Ele perdeu cinco quilos.
+
+C: Logo que acordou, ela tomou café da manhã e foi para o trabalho.
+S: Ela acordou. Ela tomou café da manhã e foi para o trabalho.
+
+C: Depois de estudar por horas, ela finalmente entendeu o conceito.
+S: Ela estudou por horas. Ela finalmente entendeu o conceito.
+
+C: Antes de dormir, lembre-se de desligar todas as luzes.
+S: Lembre-se de desligar todas as luzes. Antes de dormir.
+
+C: Sempre que chove, ele se esquece de levar o guarda-chuva.
+S: Ele se esquece de levar o guarda-chuva. Sempre que chove.
+
+C: Assim que terminar a reunião, irei para casa.
+S: Terminarei a reunião. Irei para casa.
+
+C: Enquanto esperava o ônibus, ela lia um livro.
+S: Ela esperava o ônibus. Ela lia um livro.
+
+C: Cada vez que a vejo, fico mais apaixonado.
+S: Vejo-a. Fico mais apaixonado.
+
+C: Mal terminei de comer, já senti sono.
+S: Terminei de comer. Já senti sono.
+
+C: Desde que começou a dieta, ela perdeu 5 quilos.
+S: Ela começou a dieta. Ela perdeu 5 quilos.
+
+C: Logo que chegar do trabalho, vou tomar um banho.
+S: Chegarei do trabalho. Vou tomar um banho.
+
+C: Até que me prove o contrário, não acredito em nada.
+S: Prove-me o contrário. Não acredito em nada.
+
+C: Ao terminar os exercícios, ele decidiu ir para casa.
+S: Ele terminou os exercícios e decidiu ir para casa.
+
+C: Enquanto estudava para a prova, ela ouvia música.
+S: Ela estudava para a prova e ouvia música.
+
+C: Assim que o sol nasceu, os pássaros começaram a cantar.
+S: O sol nasceu. Em seguida, os pássaros começaram a cantar.
+
+C: Logo que chegou ao aeroporto, ele ligou para avisar que estava lá.
+S: Ele chegou ao aeroporto. Em seguida, ligou para avisar que estava lá.
+
+C: Até que a chuva pare, não podemos sair de casa.
+S: A chuva não parou. Portanto, não podemos sair de casa.
+
+C: Depois de ganhar o prêmio, ela comemorou com os amigos.
+S: Ela ganhou o prêmio. Em seguida, comemorou com os amigos.
+
+C: Desde que começou a trabalhar, ele tem se dedicado muito.
+S: Ele começou a trabalhar. Desde então, tem se dedicado muito.
+
+C: Apenas quando ele chegou em casa, percebeu que tinha esquecido a chave.
+S: Ele chegou em casa e percebeu que tinha esquecido a chave.
+
+C: Mal ele saiu de casa, começou a chover.
+S: Ele saiu de casa e começou a chover.
+
+C: Sempre que vou à praia, levo protetor solar.
+S: Eu vou à praia e levo protetor solar.
+
+C: Anderson foi para a praia quando o sol apareceu.
+S: O sol apareceu. Anderson foi para a praia.
+
+C: Após terminar as tarefas, Maria vai descansar.
+S: Maria termina as tarefas. Maria vai descansar.
+
+C: Sempre que chove, a grama fica mais verde.
+S: Chove. A grama fica mais verde.
+
+C: Enquanto estudava para a prova, João ouviu música.
+S: João estudava para a prova. João ouviu música.
+
+C: Logo que acordou, Joana tomou um café da manhã reforçado.
+S: Joana acordou. Joana tomou um café da manhã reforçado.
+
+C: Depois de fazer exercícios, Pedro percebeu que estava cansado.
+S: Pedro fez exercícios. Pedro percebeu que estava cansado.
+
+C: Antes que o sol se pusesse, Ana decidiu fotografar o pôr do sol.
+S: O sol se pôs. Ana decidiu fotografar o pôr do sol.
+
+C: Sempre que a campainha toca, os cachorros começam a latir.
+S: A campainha toca. Os cachorros começam a latir.
+
+C: Mal terminei de almoçar, começou a chover.
+S: Terminei de almoçar. Começou a chover.
+
+C: Cada vez que o telefone toca, meu coração dispara.
+S: O telefone toca. Meu coração dispara.
+
+C: Cheguei ao escritório depois que o sol já tinha se posto.
+S: O sol já tinha se posto quando cheguei ao escritório.
+
+C: Ele sempre se atrapalha quando está nervoso.
+S: Ele se atrapalha quando está nervoso.
+
+C: Estudaremos até que as provas comecem.
+S: As provas vão começar, então estudaremos até lá.
+
+C: Assim que acabar de jantar, ligue para mim.
+S: Acabe de jantar e ligue para mim.
+
+C: Mal saímos de casa quando começou a chover.
+S: Começou a chover assim que saímos de casa.
+
+C: Antes que termine o filme, quero ir ao banheiro.
+S: Quero ir ao banheiro antes que o filme termine.
+
+C: Cada vez que ela liga, meu coração dispara.
+S: Meu coração dispara quando ela liga.
+
+C: Desde que começou a trabalhar aqui, ele se destacou.
+S: Ele se destacou desde que começou a trabalhar aqui.
+
+C: Sempre que preciso de ajuda, ele está lá por mim.
+S: Ele está lá por mim sempre que preciso de ajuda.
+
+C: Logo que viu o resultado, ela comemorou muito.
+S: Ela comemorou muito logo que viu o resultado.
+
+C: Ao acordar cedo, Ana conseguiu chegar a tempo para a reunião.
+S: Ana acordou cedo. Ana conseguiu chegar a tempo para a reunião.
+
+C: Enquanto estudava para o exame, João percebeu que estava com fome.
+S: João estudava para o exame. João percebeu que estava com fome.
+
+C: Assim que terminou a apresentação, o público aplaudiu entusiasticamente.
+S: Terminou a apresentação. O público aplaudiu entusiasticamente.
+
+C: Logo que saiu de casa, Maria percebeu que estava chovendo.
+S: Maria saiu de casa. Maria percebeu que estava chovendo.
+
+C: Até que o ônibus chegue, podemos aproveitar para conversar.
+S: O ônibus ainda não chegou. Podemos aproveitar para conversar.
+
+C: Depois de terminar o trabalho, Joana foi para casa descansar.
+S: Joana terminou o trabalho. Joana foi para casa descansar.
+
+C: Desde que começou a dieta, Pedro já perdeu 5 quilos.
+S: Pedro começou a dieta. Pedro já perdeu 5 quilos.
+
+C: Apenas terminou de jantar, Carolina recebeu uma ligação importante.
+S: Carolina terminou de jantar. Carolina recebeu uma ligação importante.
+
+C: Mal começou a chover, todos correram para se abrigar.
+S: Começou a chover. Todos correram para se abrigar.
+
+C: Sempre que viaja, Lucas aproveita para conhecer novos lugares.
+S: Lucas viaja. Lucas aproveita para conhecer novos lugares.
+
+C: Depois que terminou sua reunião, o presidente saiu do prédio.
+S: O presidente terminou sua reunião. Em seguida, saiu do prédio.
+
+C: Enquanto lia o livro, o menino chorou de emoção.
+S: O menino lia o livro. Chorou de emoção.
+
+C: Assim que o sol se pôs, o céu ficou escuro.
+S: O sol se pôs. Em seguida, o céu ficou escuro.
+
+C: Quando cheguei em casa, minha mãe já tinha preparado o jantar.
+S: Cheguei em casa. Minha mãe já tinha preparado o jantar.
+
+C: Mal o filme começou, o protagonista morreu.
+S: O filme começou. Em seguida, o protagonista morreu.
+
+C: Cada vez que chove, as plantas ficam mais bonitas.
+S: Chove. As plantas ficam mais bonitas.
+
+C: Antes que anoiteça, vamos para casa.
+S: Anoitece. Vamos para casa.
+
+C: Logo que terminar o trabalho, vou dar uma volta no parque.
+S: Terminar o trabalho. Em seguida, vou dar uma volta no parque.
+
+C: Desde que começou a chover, não paramos de ouvir trovões.
+S: Começou a chover. Não paramos de ouvir trovões.
+
+C: Até que em fim chegou a tão esperada notícia.
+S: Chegou a tão esperada notícia.
+
+C: Ao sair de casa cedo, percebi que havia esquecido a chave.
+S: Saí de casa cedo e percebi que havia esquecido a chave.
+
+C: Enquanto estudava para a prova, ouvi um barulho alto do lado de fora.
+S: Estudava para a prova e ouvi um barulho alto do lado de fora.
+
+C: Assim que o sinal abriu, os carros começaram a se mover.
+S: O sinal abriu e os carros começaram a se mover.
+
+C: Logo que a chuva parou, saímos para caminhar no parque.
+S: A chuva parou e saímos para caminhar no parque.
+
+C: Até que todas as pessoas cheguem, não começaremos a reunião.
+S: Todas as pessoas precisam chegar para começarmos a reunião.
+
+C: Depois de terminar o trabalho, assisti a um filme no cinema.
+S: Terminei o trabalho e assisti a um filme no cinema.
+
+C: Desde que iniciamos o projeto, temos trabalhado intensamente.
+S: Iniciamos o projeto e temos trabalhado intensamente.
+
+C: Apenas quando o sol se pôs, as estrelas começaram a aparecer no céu.
+S: O sol se pôs e as estrelas começaram a aparecer no céu.
+
+C: Mal saí de casa, começou a chover forte.
+S: Sai de casa e começou a chover forte.
+
+C: Sempre que faz calor, eu vou à praia.
+S: Faz calor e eu vou à praia.
+
+C: Ao chegar em casa, ele percebeu que tinha perdido a carteira.
+S: Ele chegou em casa e percebeu que tinha perdido a carteira.
+
+C: Enquanto esperávamos o ônibus, começou a chover.
+S: Esperávamos o ônibus e começou a chover.
+
+C: Assim que terminar de trabalhar, irei ao supermercado.
+S: Terminando de trabalhar, irei ao supermercado.
+
+C: Até que ele se desculpe, não vou perdoá-lo.
+S: Ele ainda não se desculpou, então não vou perdoá-lo.
+
+C: Depois de estudar durante horas, finalmente entendeu o conceito.
+S: Estudou durante horas e finalmente entendeu o conceito.
+
+C: Desde que comecei a me exercitar, sinto-me mais saudável.
+S: Comecei a me exercitar e agora sinto-me mais saudável.
+
+C: Apenas depois que ela chegou em casa, percebeu que tinha esquecido as chaves.
+S: Ela chegou em casa e percebeu que tinha esquecido as chaves.
+
+C: Mal ele saiu, começou a chover.
+S: Ele saiu e começou a chover.
+
+C: Sempre que ela viaja, traz presentes para nós.
+S: Ela viaja e sempre traz presentes para nós.
+
+C: Cada vez que ouço essa música, lembro-me da minha infância.
+S: Ouço essa música e sempre lembro-me da minha infância.
+
+C: Depois que terminou o trabalho, ela foi para casa.
+S: Ela terminou o trabalho. Em seguida, ela foi para casa.
+
+C: Sempre que vai à praia, ele leva protetor solar.
+S: Ele vai à praia. Ele sempre leva protetor solar.
+
+C: Quando chove, ela fica em casa.
+S: Ela fica em casa. Chove.
+
+C: Enquanto estudava, ele ouvia música.
+S: Ele estudava. Ele ouvia música.
+
+C: Assim que acordou, ele tomou um banho.
+S: Ele acordou. Em seguida, ele tomou um banho.
+
+C: Logo que chegou ao escritório, ela começou a trabalhar.
+S: Ela chegou ao escritório. Em seguida, ela começou a trabalhar.
+
+C: Antes que saísse de casa, ele verificou se tinha as chaves.
+S: Ele saiu de casa. Antes disso, ele verificou se tinha as chaves.
+
+C: Cada vez que vai ao cinema, ela come pipoca.
+S: Ela vai ao cinema. Ela come pipoca sempre que vai.
+
+C: Mal viu o resultado, ele ficou chocado.
+S: Ele viu o resultado. Em seguida, ele ficou chocado.
+
+C: Desde que começou a chover, eles não saem de casa.
+S: Começou a chover. Eles não saem de casa desde então.
+
+C: Apesar de ter estudado muito, Maria não conseguiu passar na prova.
+S: Maria estudou muito, mas não conseguiu passar na prova.
+
+C: Enquanto estava chovendo lá fora, eu assistia TV dentro de casa.
+S: Estava chovendo lá fora. Eu assistia TV dentro de casa.
+
+C: Assim que terminar de trabalhar, vou sair com meus amigos.
+S: Vou sair com meus amigos depois de terminar de trabalhar.
+
+C: Como não tinha dinheiro, João não pôde comprar o presente de aniversário para sua mãe.
+S: João não pôde comprar o presente de aniversário para sua mãe por não ter dinheiro.
+
+C: Até que chegue o seu aniversário, vamos fazer vários planos.
+S: Vamos fazer vários planos até o seu aniversário chegar.
+
+C: Depois de voltar da viagem, eu vou compartilhar minhas fotos nas redes sociais.
+S: Eu vou compartilhar minhas fotos nas redes sociais depois de voltar da viagem.
+
+C: Desde que começou a trabalhar, Pedro tem se sentido mais realizado.
+S: Pedro tem se sentido mais realizado desde que começou a trabalhar.
+
+C: Apenas comi uma fatia de bolo, porque estava de dieta.
+S: Estava de dieta. Apenas comi uma fatia de bolo.
+
+C: Mal cheguei em casa e já recebi uma ligação importante.
+S: Recebi uma ligação importante logo que cheguei em casa.
+
+C: Sempre que chove, eu me lembro da minha infância.
+S: Eu me lembro da minha infância sempre que chove.
+
+C: Maria foi ao supermercado quando acabaram os ovos em casa.
+S: Os ovos acabaram em casa. Maria foi ao supermercado.
+
+C: Ele só começou a estudar depois que perdeu o emprego.
+S: Ele perdeu o emprego. Em seguida, ele só começou a estudar.
+
+C: Sempre que chove, ele coloca o guarda-chuva na bolsa.
+S: Chove. Ele coloca o guarda-chuva na bolsa.
+
+C: Ela mal chegou em casa e já ligou para os amigos.
+S: Ela chegou em casa. Ela já ligou para os amigos.
+
+C: Antes que o sol se ponha, vamos para a praia.
+S: O sol vai se pôr. Vamos para a praia antes.
+
+C: Assim que terminar o trabalho, vou sair para jantar.
+S: Vou terminar o trabalho. Em seguida, vou sair para jantar.
+
+C: Cada vez que ouço essa música, lembro do meu ex-namorado.
+S: Ouço essa música. Lembro do meu ex-namorado.
+
+C: Ele sempre acorda cedo quando tem compromissos importantes.
+S: Tem compromissos importantes. Ele sempre acorda cedo.
+
+C: Depois que saímos do cinema, fomos tomar um sorvete.
+S: Saímos do cinema. Fomos tomar um sorvete depois.
+
+C: Logo que acordei, tomei café da manhã.
+S: Acordei. Tomei café da manhã logo em seguida.
+
+C: Maria só conseguiu descansar quando terminou todas as suas tarefas.
+S: Maria terminou todas as suas tarefas. Em seguida, Maria conseguiu descansar.
+
+C: Depois que a chuva parou, pudemos sair para passear.
+S: A chuva parou. Em seguida, pudemos sair para passear.
+
+C: Ele se atrasou, pois pegou um engarrafamento na estrada.
+S: Ele pegou um engarrafamento na estrada. Em seguida, ele se atrasou.
+
+C: Quando chegamos ao supermercado, já estava fechado.
+S: Nós chegamos ao supermercado. O supermercado já estava fechado.
+
+C: Ela só tomou o remédio depois que o médico receitou.
+S: O médico receitou o remédio. Em seguida, ela tomou o remédio.
+
+C: Encontrei meu amigo na rua enquanto voltava do trabalho.
+S: Eu voltei do trabalho. Encontrei meu amigo na rua.
+
+C: Ela sempre se atrasava quando tinha que pegar o ônibus.
+S: Ela tinha que pegar o ônibus. Sempre se atrasava.
+
+C: Antes que o sol se pusesse, aproveitamos o dia na praia.
+S: O sol se pôs. Aproveitamos o dia na praia.
+
+C: Sempre que ele chegava em casa, seu cachorro o recebia com alegria.
+S: Ele chegava em casa. Seu cachorro o recebia com alegria.
+
+C: Ele mal sentou na cadeira quando recebeu uma ligação urgente.
+S: Ele recebeu uma ligação urgente. Mal sentou na cadeira.
+
+C: Ao terminar a reunião, o professor deu instruções sobre o trabalho.
+S: O professor terminou a reunião. O professor deu instruções sobre o trabalho.
+ 
+C: Enquanto assistia ao filme, ela percebeu que já o tinha visto antes.
+S: Ela assistia ao filme. Ela percebeu que já o tinha visto antes.
+
+C: Assim que acordei, tomei café da manhã.
+S: Eu acordei. Eu tomei café da manhã.
+
+C: Até que a chuva pare, não sairemos de casa.
+S: A chuva não parou. Não sairemos de casa.
+
+C: Depois de estudar, ele foi dar uma volta no parque.
+S: Ele estudou. Em seguida, ele foi dar uma volta no parque.
+
+C: Desde que comecei a praticar esportes, me sinto mais saudável.
+S: Eu comecei a praticar esportes. Eu me sinto mais saudável.
+
+C: Cada vez que a vejo, meu coração dispara.
+S: Eu vejo ela. Meu coração dispara.
+
+C: Antes que escureça, precisamos terminar o trabalho.
+S: Vai escurecer. Precisamos terminar o trabalho.
+
+C: Mal terminei a prova, recebi a notícia da minha aprovação.
+S: Eu terminei a prova. Eu recebi a notícia da minha aprovação.
+
+C: Sempre que chove, eu esqueço meu guarda-chuva em casa.
+S: Choveu. Eu esqueci meu guarda-chuva em casa.
+
+C: Maria foi fazer compras quando o supermercado abriu.
+S: O supermercado abriu. Maria foi fazer compras.
+
+C: João chegou à festa assim que os convidados começaram a chegar.
+S: Os convidados começaram a chegar. João chegou à festa.
+
+C: Ana só saiu de casa depois que parou de chover.
+S: Parou de chover. Ana só saiu de casa.
+
+C: Pedro sempre quebra o relógio quando está consertando.
+S: Pedro está consertando. Pedro sempre quebra o relógio.
+
+C: Os alunos só poderão fazer a prova depois que terminarem o exercício.
+S: Os alunos terminarem o exercício. Os alunos só poderão fazer a prova.
+
+C: Roberta sempre fica triste quando assiste a filmes de drama.
+S: Roberta assiste a filmes de drama. Roberta sempre fica triste.
+
+C: Marcelo foi ao dentista logo que acordou com uma dor de dente.
+S: Marcelo acordou com uma dor de dente. Marcelo foi ao dentista.
+
+C: As crianças começaram a brincar assim que chegaram à praia.
+S: As crianças chegaram à praia. As crianças começaram a brincar.
+
+C: O motorista só vai iniciar a viagem depois que todos estiverem a bordo.
+S: Todos estiverem a bordo. O motorista só vai iniciar a viagem.
+
+C: Lucas sempre dorme mal quando toma café muito tarde da noite.
+S: Lucas toma café muito tarde da noite. Lucas sempre dorme mal.
+
+C: Ao chegar em casa, Rodrigo tomou um banho e descansou.
+S: Rodrigo chegou em casa. Rodrigo tomou um banho e descansou.
+
+C: Enquanto estudava para a prova, Maria fez anotações importantes.
+S: Maria estudava para a prova. Maria fez anotações importantes.
+
+C: Logo que o sol se pôs, os pássaros começaram a cantar.
+S: O sol se pôs. Os pássaros começaram a cantar.
+
+C: Sempre que eu como chocolate, fico feliz.
+S: Eu como chocolate. Eu fico feliz.
+
+C: Depois de ligar o computador, Pedro começou a trabalhar.
+S: Pedro ligou o computador. Pedro começou a trabalhar.
+
+C: Até que as crianças acordem, não podemos fazer barulho.
+S: As crianças ainda não acordaram. Não podemos fazer barulho.
+
+C: Cada vez que chove, eu fico protelando minhas tarefas.
+S: Chove. Eu acabo protelando minhas tarefas.
+
+C: Assim que terminou de ler o livro, João emprestou para sua amiga.
+S: João terminou de ler o livro. João emprestou para sua amiga.
+
+C: Mal acabou de comer, Bruno já queria sobremesa.
+S: Bruno acabou de comer. Bruno já queria sobremesa.
+
+C: Desde que começou a academia, Carla já perdeu 5 quilos.
+S: Carla começou a academia. Carla já perdeu 5 quilos.
+
+C: Quando saímos para jantar, o restaurante estava lotado.
+S: Saímos para jantar. O restaurante estava lotado.
+
+C: Assim que o sol se pôs, a temperatura caiu rapidamente.
+S: O sol se pôs. A temperatura caiu rapidamente.
+
+C: Sempre que chove, eu levo um guarda-chuva.
+S: Chove. Eu levo um guarda-chuva.
+
+C: Mal terminei de ler o livro, comecei a ler outro.
+S: Terminei de ler o livro. Comecei a ler outro.
+
+C: Cada vez que você me liga, fico feliz.
+S: Você me liga. Fico feliz.
+
+C: Antes que eu me esqueça, tenho que te contar uma coisa.
+S: Eu me esqueço. Tenho que te contar uma coisa.
+
+C: Depois que ela saiu, eu fui para a sala de reuniões.
+S: Ela saiu. Eu fui para a sala de reuniões.
+
+C: Até que ele encontre um emprego, continuará procurando.
+S: Ele encontra um emprego. Continuará procurando.
+
+C: Desde que começou a chover, as ruas estão alagadas.
+S: Começou a chover. As ruas estão alagadas.
+
+C: Apenas estudei algumas horas, mas consegui passar na prova.
+S: Eu estudei algumas horas. Consegui passar na prova.
+
+C: Ana saiu correndo quando viu a chuva começar.
+S: Ana viu a chuva começar e saiu correndo.
+
+C: Carlos pegou um guarda-chuva assim que percebeu que estava chovendo.
+S: Carlos percebeu que estava chovendo e pegou um guarda-chuva.
+
+C: Maria chega sempre que todos já estão indo embora.
+S: Todos estão indo embora quando Maria chega.
+
+C: João só vai ao cinema quando tem filmes de ação.
+S: Só tem filmes de ação quando João vai ao cinema.
+
+C: Laura só come sobremesa depois que termina a refeição principal.
+S: Laura termina a refeição principal antes de comer sobremesa.
+
+C: Marcos sempre atrasa quando tem uma reunião importante.
+S: Sempre tem uma reunião importante quando Marcos atrasa.
+
+C: Rafael só compra roupas novas quando estão em promoção.
+S: As roupas estão em promoção quando Rafael compra roupas novas.
+
+C: Amanda só liga para seus pais quando precisa de dinheiro.
+S: Amanda precisa de dinheiro quando liga para seus pais.
+
+C: Paulo começa a estudar assim que chega em casa.
+S: Paulo chega em casa e começa a estudar.
+
+C: Luiza só dorme depois que lê algumas páginas de um livro.
+S: Luiza lê algumas páginas de um livro antes de dormir.
+
+C: Depois que terminou a reunião, o presidente fez um pronunciamento.
+S: O presidente terminou a reunião. Em seguida, fez um pronunciamento.
+
+C: Sempre que chove, as ruas ficam alagadas.
+S: Quando chove, as ruas ficam alagadas.
+
+C: Mal o sol se pôs, as estrelas começaram a aparecer no céu.
+S: O sol se pôs. Em seguida, as estrelas começaram a aparecer no céu.
+
+C: Até que se entregue o relatório, não poderemos prosseguir com o projeto.
+S: Não poderemos prosseguir com o projeto até que se entregue o relatório.
+
+C: Cada vez que ouço essa música, me lembro da minha infância.
+S: Quando ouço essa música, me lembro da minha infância.
+
+C: Logo que chegamos à praia, começamos a montar as barracas.
+S: Chegamos à praia. Em seguida, começamos a montar as barracas.
+
+C: Desde que começou a trabalhar nessa empresa, ele tem se dedicado muito.
+S: Ele começou a trabalhar nessa empresa. Desde então, tem se dedicado muito.
+
+C: Assim que a festa acabar, iremos embora.
+S: A festa acabará. Em seguida, iremos embora.
+
+C: Antes que você saia, preciso conversar com você.
+S: Não posso deixar você sair antes de conversar com você.
+
+C: Depois de estudar bastante, ela conseguiu passar no exame.
+S: Ela estudou bastante. Em seguida, conseguiu passar no exame.
+
+C: Depois que terminar de trabalhar, vou ao supermercado.
+S: Vou ao supermercado depois de terminar de trabalhar.
+
+C: Sempre que chove, meu cachorro se esconde debaixo da cama.
+S: Meu cachorro se esconde debaixo da cama quando chove.
+
+C: Assim que ele chegou em casa, ligou para a namorada.
+S: Ele chegou em casa e ligou para a namorada.
+
+C: Antes que o sol se ponha, quero tirar algumas fotos.
+S: Quero tirar algumas fotos antes do sol se pôr.
+
+C: Enquanto ela estudava para a prova, eu assistia TV.
+S: Eu assistia TV enquanto ela estudava para a prova.
+
+C: Mal ela acordou, já começou a arrumar a casa.
+S: Ela acordou e começou a arrumar a casa.
+
+C: Cada vez que ele viaja a trabalho, fica saudoso da família.
+S: Ele fica saudoso da família sempre que viaja a trabalho.
+
+C: Logo que sair do trabalho, vou encontrar meus amigos.
+S: Vou encontrar meus amigos logo que sair do trabalho.
+
+C: Até que a chuva pare, não vou sair de casa.
+S: Não vou sair de casa até a chuva parar.
+
+C: Desde que comprei o carro novo, não tive problemas com ele.
+S: Não tive problemas com o carro novo desde que o comprei.
+
+C: Ao chegar à festa, ela percebeu que estava atrasada.
+S: Ela chegou à festa e percebeu que estava atrasada.
+
+C: Enquanto estudava para a prova, ele recebeu uma ligação importante.
+S: Ele estudava para a prova e recebeu uma ligação importante.
+
+C: Assim que a chuva parou, saímos para caminhar.
+S: A chuva parou e saímos para caminhar.
+
+C: Até que seu pai chegue, você precisa ficar em casa.
+S: Você precisa ficar em casa até que seu pai chegue.
+
+C: Depois de jantar, ela foi para o quarto descansar.
+S: Ela jantou e foi para o quarto descansar.
+
+C: Desde que começou a trabalhar, ele tem se esforçado bastante.
+S: Ele começou a trabalhar e tem se esforçado bastante.
+
+C: Apenas quando ele saiu, percebi que estava sozinho.
+S: Ele saiu e eu percebi que estava sozinho.
+
+C: Mal o filme começou, ela adormeceu.
+S: O filme começou e ela adormeceu.
+
+C: Sempre que ela viaja, ele sente saudades.
+S: Ela viaja e ele sente saudades.
+
+C: Cada vez que ele vê um filme de terror, fica assustado.
+S: Ele vê um filme de terror e fica assustado.
+
+C: Assim que o sol se pôs, os morcegos começaram a voar.
+S: O sol se pôs. Os morcegos começaram a voar.
+
+C: Cada vez que chove, eu fico em casa.
+S: Chove. Eu fico em casa.
+
+C: Antes que o resultado seja anunciado, todos estão ansiosos.
+S: O resultado ainda não foi anunciado. Todos estão ansiosos.
+
+C: Mal terminei de ler o livro, comecei a escrever a resenha.
+S: Terminei de ler o livro. Comecei a escrever a resenha.
+
+C: Desde que começou a trabalhar na empresa, ele nunca se atrasou.
+S: Ele começou a trabalhar na empresa. Nunca se atrasou.
+
+C: Até que ele peça desculpas, não vou falar com ele.
+S: Ele ainda não pediu desculpas. Não vou falar com ele.
+
+C: Enquanto eu estudava, meu irmão assistia televisão.
+S: Eu estudava. Meu irmão assistia televisão.
+
+C: Depois que ela se formou, conseguiu um bom emprego.
+S: Ela se formou. Conseguiu um bom emprego.
+
+C: Sempre que viajo, gosto de experimentar comidas típicas do local.
+S: Estou viajando. Gosto de experimentar comidas típicas do local.
+
+C: Logo que acordei, percebi que estava atrasado.
+S: Acordei. Percebi que estava atrasado.
+
+C: Enquanto lia o livro, ela se emocionou com a história.
+S: Ela leu o livro e se emocionou com a história.
+
+C: Assim que terminar de estudar, podemos sair para jantar.
+S: Terminando de estudar, podemos sair para jantar.
+
+C: Depois de estudar muito, ele passou na prova.
+S: Ele estudou muito e passou na prova.
+
+C: Sempre que chove, eles cancelam o passeio.
+S: Chovendo, eles cancelam o passeio.
+
+C: Logo que acordar, lembre-se de tomar seu remédio.
+S: Ao acordar, lembre-se de tomar seu remédio.
+
+C: Até que ela termine sua tarefa, não podemos sair.
+S: Ela terminando sua tarefa, podemos sair.
+
+C: Antes que eu chegue em casa, não jogue fora a correspondência.
+S: Eu ainda não cheguei em casa, não jogue fora a correspondência.
+
+C: Cada vez que ela vai à praia, ela fica mais bronzeada.
+S: Ela vai à praia e fica mais bronzeada.
+
+C: Mal ele saiu de casa, começou a chover.
+S: Apenas saiu de casa e começou a chover.
+
+C: Desde que eu comi aquela comida, não me senti bem.
+S: Eu comi aquela comida e não me senti bem.
+
+C: Maria foi ao supermercado depois que terminou o trabalho.
+S: Maria terminou o trabalho. Em seguida, Maria foi ao supermercado.
+
+C: Luisa sempre que viaja, leva sua câmera fotográfica.
+S: Luisa viaja. Luisa leva sua câmera fotográfica.
+
+C: Pedro saiu correndo antes que a chuva começasse.
+S: A chuva começou. Pedro saiu correndo antes.
+
+C: João mal chegou em casa, começou a chover.
+S: João chegou em casa. Em seguida, começou a chover.
+
+C: Ana só saiu de casa depois que tomou café da manhã.
+S: Ana tomou café da manhã. Em seguida, Ana saiu de casa.
+
+C: Fernando esperou até que os convidados chegassem para começar a festa.
+S: Os convidados chegaram. Fernando começou a festa.
+
+C: André sempre que vai à praia, leva protetor solar.
+S: André vai à praia. André leva protetor solar.
+
+C: Laura esperava ansiosamente até que o ônibus chegasse.
+S: O ônibus chegou. Laura esperava ansiosamente.
+
+C: Carlos saiu de casa logo que acabou a reunião.
+S: A reunião acabou. Carlos saiu de casa.
+
+C: Mariana voltou para casa assim que escureceu.
+S: Escureceu. Mariana voltou para casa.
+
+C: Ao chegar em casa, percebi que tinha esquecido as chaves.
+S: Cheguei em casa e percebi que tinha esquecido as chaves.
+
+C: Enquanto estudava para a prova, ela recebeu uma ligação importante.
+S: Ela recebeu uma ligação importante enquanto estudava para a prova.
+
+C: Assim que terminar de comer, vamos ao cinema.
+S: Vamos ao cinema depois que terminar de comer.
+
+C: Logo que acordei, percebi que estava atrasado.
+S: Acordei e percebi que estava atrasado.
+
+C: Até que o sol se pôs, as crianças brincaram no parque.
+S: As crianças brincaram no parque até o sol se pôr.
+
+C: Depois de assistir ao filme, fomos jantar em um restaurante.
+S: Assistimos ao filme e em seguida fomos jantar em um restaurante.
+
+C: Desde que começou a chover, decidi ficar em casa.
+S: Decidi ficar em casa desde que começou a chover.
+
+C: Apenas viu o acidente quando já era tarde demais.
+S: Viu o acidente quando já era tarde demais.
+
+C: Mal começou a comer e já se sentiu satisfeito.
+S: Começou a comer e já se sentiu satisfeito.
+
+C: Sempre que chove, eles cancelam o jogo de futebol.
+S: Eles cancelam o jogo de futebol sempre que chove.
+
+C: Ao chegar em casa, ela preparou o jantar enquanto assistia à televisão.
+S: Ela chegou em casa. Ela preparou o jantar enquanto assistia à televisão.
+
+C: O motorista só percebeu o acidente quando já era tarde demais.
+S: O motorista percebeu o acidente quando já era tarde demais.
+
+C: Depois que terminou de estudar, ela fez uma pausa para tomar café.
+S: Ela terminou de estudar. Em seguida, ela fez uma pausa para tomar café.
+
+C: Assim que o sol se pôs, as luzes da cidade se acenderam.
+S: O sol se pôs. Em seguida, as luzes da cidade se acenderam.
+
+C: Enquanto caminhava no parque, ela avistou um pássaro raro.
+S: Ela caminhava no parque. Ela avistou um pássaro raro.
+
+C: Mal percebi, o tempo já tinha passado.
+S: Eu mal percebi. O tempo já tinha passado.
+
+C: Cada vez que ouço essa música, me lembro da minha infância.
+S: Eu ouço essa música e me lembro da minha infância.
+
+C: Antes que pudesse reagir, ele foi surpreendido pela notícia.
+S: Ele pudesse reagir. Em seguida, ele foi surpreendido pela notícia.
+
+C: Logo que amanheceu, eles partiram para a viagem.
+S: Amanheceu. Em seguida, eles partiram para a viagem.
+
+C: Ele sempre que podia, ajudava os mais necessitados.
+S: Ele ajudava os mais necessitados sempre que podia.
+
+C: Ao sair de casa, ela percebeu que havia esquecido as chaves.
+S: Ela saiu de casa e percebeu que havia esquecido as chaves.
+
+C: Enquanto estudava para a prova, o telefone tocou várias vezes.
+S: Ele estudava para a prova e o telefone tocou várias vezes.
+
+C: Assim que terminou de jantar, ela ligou para o namorado.
+S: Ela terminou de jantar e ligou para o namorado.
+
+C: Logo que acordou, ele tomou um banho e se vestiu.
+S: Ele acordou, tomou um banho e se vestiu.
+
+C: Até que a chuva pare, não podemos sair.
+S: A chuva não parou, então não podemos sair.
+
+C: Depois de finalizar o projeto, ele foi comemorar com os amigos.
+S: Ele finalizou o projeto e foi comemorar com os amigos.
+
+C: Desde que comprou o carro novo, ela não parou de viajar.
+S: Ela comprou o carro novo e não parou de viajar.
+
+C: Apenas quando ele chegou em casa, percebeu que havia esquecido a carteira.
+S: Ele chegou em casa e percebeu que havia esquecido a carteira.
+
+C: Mal saiu de casa, começou a chover.
+S: Ele saiu de casa e começou a chover.
+
+C: Sempre que ela vai ao cinema, compra pipoca.
+S: Ela vai ao cinema e compra pipoca.
+
+C: Ao sair de casa, João percebeu que havia esquecido a chave.
+S: João saiu de casa. João percebeu que havia esquecido a chave.
+
+C: Enquanto estudava para a prova, Maria recebeu uma ligação importante.
+S: Maria estudava para a prova. Maria recebeu uma ligação importante.
+
+C: Depois de terminar o trabalho, Joana decidiu tirar um cochilo.
+S: Joana terminou o trabalho. Em seguida, Joana decidiu tirar um cochilo.
+
+C: Sempre que bate a saudade, ela volta para sua cidade natal.
+S: Ela bate a saudade. Ela volta para sua cidade natal.
+
+C: Assim que viu o filme, Pedro recomendou para seus amigos.
+S: Pedro viu o filme. Pedro recomendou para seus amigos.
+
+C: Mal começou a chover, os alunos correram para se abrigar.
+S: Começou a chover. Os alunos correram para se abrigar.
+
+C: Até que chegasse a hora de dormir, eles aproveitaram o tempo livre.
+S: Chegou a hora de dormir. Eles aproveitaram o tempo livre.
+
+C: Depois que o jogo acabou, todos comemoraram a vitória.
+S: O jogo acabou. Em seguida, todos comemoraram a vitória.
+
+C: Logo que abriu a porta, ele viu que tinha uma carta esperando por ele.
+S: Ele abriu a porta. Ele viu que tinha uma carta esperando por ele.
+
+C: Antes que partisse, ela se despediu de todos os amigos.
+S: Ela partiu. Ela se despediu de todos os amigos.
+
+C: Enquanto estudava para a prova, João percebeu que estava com fome.
+S: João estudava para a prova. João percebeu que estava com fome.
+
+C: Sempre que chove, a rua fica alagada.
+S: Chove. A rua fica alagada.
+
+C: Antes que saísse de casa, Maria verificou se tinha trancado a porta.
+S: Maria verificou se tinha trancado a porta. Em seguida, Maria saiu de casa.
+
+C: Logo que o sol nasceu, os pássaros começaram a cantar.
+S: O sol nasceu. Os pássaros começaram a cantar.
+
+C: Assim que terminar o trabalho, irei ao cinema.
+S: Terminarei o trabalho. Irei ao cinema.
+
+C: Cada vez que Joana visita a família, ela traz um presente.
+S: Joana visita a família. Joana traz um presente.
+
+C: Durante a festa, Lucas dançou sem parar.
+S: Lucas dançou sem parar.
+
+C: Enquanto esperávamos o ônibus, começou a chover.
+S: Esperávamos o ônibus. Começou a chover.
+
+C: Mal acordou, Pedro tomou café da manhã.
+S: Pedro acordou. Pedro tomou café da manhã.
+
+C: Depois de terminar meu projeto, vou descansar.
+S: Terminarei meu projeto. Em seguida, vou descansar.
+
+C: Ao sair de casa, Antônio percebeu que estava chovendo e voltou para pegar um guarda-chuva.
+S: Antônio saiu de casa. Antônio percebeu que estava chovendo e voltou para pegar um guarda-chuva.
+
+C: Enquanto estudava para a prova, Maria percebeu que estava com fome e foi até a cozinha fazer um lanche.
+S: Maria estava estudando para a prova. Maria percebeu que estava com fome e foi até a cozinha fazer um lanche.
+
+C: Assim que acordou, João ligou para o médico e marcou uma consulta.
+S: João acordou. João ligou para o médico e marcou uma consulta.
+
+C: Logo que terminou o trabalho, Laura foi para a academia fazer exercícios.
+S: Laura terminou o trabalho. Laura foi para a academia fazer exercícios.
+
+C: Até que a festa acabasse, Ana dançou sem parar.
+S: A festa acabou. Ana dançou sem parar.
+
+C: Depois de tomar café da manhã, Lucas foi correr no parque.
+S: Lucas tomou café da manhã. Lucas foi correr no parque.
+
+C: Desde que começou a estudar inglês, Pedro tem se sentido mais confiante para conversar com estrangeiros.
+S: Pedro começou a estudar inglês. Pedro tem se sentido mais confiante para conversar com estrangeiros.
+
+C: Apenas quando chegou em casa, Carlos se deu conta de que havia esquecido a carteira no trabalho.
+S: Carlos chegou em casa. Carlos se deu conta de que havia esquecido a carteira no trabalho.
+
+C: Mal saiu da loja, Sandra percebeu que tinha esquecido de comprar leite.
+S: Sandra saiu da loja. Sandra percebeu que tinha esquecido de comprar leite.
+
+C: Sempre que viaja para o exterior, Joana estuda sobre as tradições e costumes do país que irá visitar.
+S: Joana viaja para o exterior. Joana estuda sobre as tradições e costumes do país que irá visitar.
+
+C: Assim que chegar em casa, vou começar a estudar.
+S: Vou começar a estudar quando chegar em casa.
+
+C: Enquanto assistia ao filme, percebi que estava com fome.
+S: Percebi que estava com fome enquanto assistia ao filme.
+
+C: Depois que terminarmos o jantar, iremos ao cinema.
+S: Iremos ao cinema depois que terminarmos o jantar.
+
+C: Logo que acordar, farei exercícios físicos.
+S: Farei exercícios físicos logo que acordar.
+
+C: Sempre que chove, eu fico em casa.
+S: Eu fico em casa sempre que chove.
+
+C: Cada vez que escuto essa música, me faz lembrar da minha infância.
+S: Essa música me faz lembrar da minha infância cada vez que escuto.
+
+C: Mal cheguei em casa, recebi a notícia.
+S: Recebi a notícia mal cheguei em casa.
+
+C: Até que a festa acabe, vamos aproveitar ao máximo.
+S: Vamos aproveitar ao máximo até que a festa acabe.
+
+C: Antes que ele chegue, vamos preparar tudo.
+S: Vamos preparar tudo antes que ele chegue.
+
+C: Desde que começou o jogo, estou assistindo pela televisão.
+S: Estou assistindo o jogo pela televisão desde que ele começou.
+
+C: A festa começou quando todos os convidados chegaram.
+S: Todos os convidados chegaram. A festa começou.
+
+C: Ele saiu correndo assim que viu a chuva começar.
+S: Ele viu a chuva começar. Ele saiu correndo.
+
+C: Eles só vão ao parque quando o tempo está bom.
+S: O tempo está bom. Eles vão ao parque.
+
+C: Comecei a ler o livro após assistir ao filme.
+S: Eu assisti ao filme. Comecei a ler o livro.
+
+C: Ela sempre liga para ele quando está triste.
+S: Ela está triste. Ela sempre liga para ele.
+
+C: Ele mal terminou de comer quando teve que sair correndo.
+S: Ele teve que sair correndo. Ele mal terminou de comer.
+
+C: A equipe se preparou antes que o jogo começasse.
+S: O jogo começou. A equipe se preparou.
+
+C: Sempre que ouço essa música, me lembro dela.
+S: Eu ouço essa música. Me lembro dela.
+
+C: Ele estava cansado depois de trabalhar o dia todo.
+S: Ele trabalhou o dia todo. Ele estava cansado.
+
+C: Ela sempre chora quando assiste a filmes tristes.
+S: Ela assiste a filmes tristes. Ela sempre chora.
+
+C: Ao chegar em casa, percebi que tinha deixado as chaves do carro no escritório.
+S: Percebi que tinha deixado as chaves do carro no escritório.
+
+C: Enquanto chovia lá fora, eu assistia a um filme no conforto do sofá.
+S: Eu assistia a um filme no conforto do sofá.
+
+C: Assim que o sinal verde acendeu, os carros começaram a se mover novamente.
+S: O sinal verde acendeu e os carros começaram a se mover novamente.
+
+C: Logo que terminar o trabalho, vou ligar para você.
+S: Vou ligar para você assim que terminar o trabalho.
+
+C: Até que o sol se pôr, continuaremos a caminhar pela praia.
+S: Continuaremos a caminhar pela praia até o sol se pôr.
+
+C: Depois de fazer exercícios, sempre tomo um banho quente.
+S: Sempre tomo um banho quente depois de fazer exercícios.
+
+C: Desde que comecei a estudar música, me sinto mais feliz.
+S: Me sinto mais feliz desde que comecei a estudar música.
+
+C: Apenas sentei na cadeira quando percebi que estava quebrada.
+S: Percebi que a cadeira estava quebrada apenas quando sentei nela.
+
+C: Mal comecei a ler o livro e já estou gostando da história.
+S: Comecei a ler o livro e já estou gostando da história.
+
+C: Sempre que como comida apimentada, minha boca fica ardendo.
+S: Minha boca sempre fica ardendo quando como comida apimentada.
+
+C: A professora interrompeu a aula quando o telefone tocou.
+S: O telefone tocou. A professora interrompeu a aula.
+
+C: Enquanto esperava o ônibus, ela leu um livro.
+S: Ela esperava o ônibus. Ela leu um livro.
+
+C: Depois que terminou o jantar, ele foi dar uma caminhada.
+S: Ele terminou o jantar. Em seguida, ele foi dar uma caminhada.
+
+C: Sempre que chove, eu fico em casa.
+S: Chove. Eu fico em casa.
+
+C: Mal saí de casa, começou a chover.
+S: Saí de casa. Começou a chover.
+
+C: Antes que o sol nasça, vou acordar cedo.
+S: O sol vai nascer. Vou acordar cedo.
+
+C: A cada vez que ela me liga, eu fico feliz.
+S: Ela me liga. Eu fico feliz.
+
+C: Logo que a comida ficou pronta, todos se reuniram na mesa.
+S: A comida ficou pronta. Todos se reuniram na mesa.
+
+C: Assim que pegar o ônibus, me avise.
+S: Me avise. Pegar o ônibus.
+
+C: Desde que começou a trabalhar, ele não teve mais férias.
+S: Ele começou a trabalhar. Ele não teve mais férias.
+
+C: Ao chegar em casa, João encontrou sua mãe preparando o jantar.
+S: João chegou em casa e encontrou sua mãe preparando o jantar.
+
+C: Enquanto estudava para a prova, Maria recebeu uma ligação de seu amigo.
+S: Maria estudava para a prova e recebeu uma ligação de seu amigo.
+
+C: Assim que o sol se pôs, as estrelas começaram a aparecer no céu.
+S: O sol se pôs e as estrelas começaram a aparecer no céu.
+
+C: Mal terminou de comer, Pedro levantou-se da mesa e foi embora.
+S: Pedro terminou de comer e levantou-se da mesa, indo embora.
+
+C: Sempre que chove, eu fico em casa assistindo filmes.
+S: Quando chove, eu fico em casa assistindo filmes.
+
+C: Cada vez que ela sorria, meu coração se enchia de alegria.
+S: Quando ela sorria, meu coração se enchia de alegria.
+
+C: Antes que amanhecesse, os pássaros já começavam a cantar.
+S: Os pássaros começavam a cantar antes de amanhecer.
+
+C: Desde que começou a estudar música, Lucas tem se sentido mais realizado.
+S: Lucas começou a estudar música e tem se sentido mais realizado.
+
+C: Logo que acordou, Ana lembrou-se do sonho que teve durante a noite.
+S: Ana acordou e lembrou-se do sonho que teve durante a noite.
+
+C: Até que ele chegasse, os convidados estavam entretidos na festa.
+S: Os convidados estavam entretidos na festa até que ele chegasse.
+
+C: Ao chegar em casa, ela percebeu que haviam roubado seus pertences.
+S: Ela chegou em casa e percebeu que haviam roubado seus pertences.
+
+C: Enquanto estudava para a prova, o telefone tocou.
+S: Ela estava estudando para a prova quando o telefone tocou.
+
+C: Assim que a campainha tocou, ele abriu a porta.
+S: A campainha tocou e ele abriu a porta.
+
+C: Até que termine de ler o livro, não quero interrupções.
+S: Ele não quer interrupções até terminar de ler o livro.
+
+C: Depois de falar com os clientes, ela enviou o relatório.
+S: Ela falou com os clientes e enviou o relatório.
+
+C: Desde que começou a chover, ele ficou em casa.
+S: Ele ficou em casa desde que começou a chover.
+
+C: Apenas termine as tarefas antes de ir embora.
+S: Termine as tarefas antes de ir embora.
+
+C: Mal eles sentaram na mesa, a comida chegou.
+S: Eles sentaram na mesa e a comida chegou.
+
+C: Sempre que ouço essa música, me lembro de você.
+S: Eu me lembro de você sempre que ouço essa música.
+
+C: Cada vez que ela sai de casa, passa pela padaria.
+S: Ela passa pela padaria sempre que sai de casa.
+
+C: Quando cheguei em casa, percebi que tinha esquecido as chaves.
+S: Cheguei em casa e percebi que tinha esquecido as chaves.
+
+C: Assim que terminar de trabalhar, irei ao supermercado.
+S: Terminarei de trabalhar e irei ao supermercado.
+
+C: Antes de sair, lembrei-me de pegar o guarda-chuva.
+S: Lembrei-me de pegar o guarda-chuva antes de sair.
+
+C: Sempre que chove, eu fico em casa assistindo filme.
+S: Chove e eu fico em casa assistindo filme.
+
+C: Logo que acordei, percebi que estava atrasado para o compromisso.
+S: Acordei e percebi que estava atrasado para o compromisso.
+
+C: Enquanto esperava o ônibus, li um livro.
+S: Esperei o ônibus e li um livro.
+
+C: Depois que terminei de comer, lavei a louça.
+S: Terminei de comer e lavei a louça.
+
+C: Mal comecei a estudar e já fiquei sem energia.
+S: Comecei a estudar e fiquei sem energia.
+
+C: Até que eu termine de arrumar a sala, não vou sair.
+S: Vou terminar de arrumar a sala para depois sair.
+
+C: Cada vez que vejo aquele filme, choro.
+S: Vejo aquele filme e choro sempre que.
+
+C: Depois que terminou a aula, Maria foi para casa.
+S: Maria terminou a aula. Em seguida, Maria foi para casa.
+
+C: Sempre que chove, o trânsito fica caótico.
+S: Chove. O trânsito fica caótico.
+
+C: Assim que acordou, João tomou café da manhã.
+S: João acordou. Em seguida, João tomou café da manhã.
+
+C: Enquanto lia o livro, ela se emocionou.
+S: Ela lia o livro. Ela se emocionou.
+
+C: Até que a chuva pare, não vamos sair de casa.
+S: A chuva não parou. Não vamos sair de casa.
+
+C: Mal começou a festa, ele já foi embora.
+S: A festa começou. Ele já foi embora.
+
+C: Cada vez que vejo aquela foto, me lembro dela.
+S: Vejo aquela foto. Me lembro dela.
+
+C: Antes que você chegue, eu vou preparar o jantar.
+S: Você não chegou. Eu vou preparar o jantar.
+
+C: Desde que começou a trabalhar, ele se sente mais realizado.
+S: Ele começou a trabalhar. Ele se sente mais realizado.
+
+C: Logo que terminou a prova, ela comemorou a vitória.
+S: Ela terminou a prova. Ela comemorou a vitória.
+
+C: Ao chegar em casa, Fernando encontrou sua mãe no telefone e decidiu esperar para cumprimentá-la.
+S: Fernando chegou em casa e encontrou sua mãe no telefone. Ele decidiu esperar para cumprimentá-la.
+
+C: Enquanto estudava para a prova, Maria recebeu uma ligação importante do seu chefe.
+S: Maria estudava para a prova. Ela recebeu uma ligação importante do seu chefe.
+
+C: Assim que começou a chover, Ana correu para dentro de casa.
+S: Começou a chover. Em seguida, Ana correu para dentro de casa.
+
+C: Até que o sol se ponha, vamos aproveitar a praia.
+S: Vamos aproveitar a praia até que o sol se ponha.
+
+C: Depois de ter jantado, Pedro foi para o cinema com os amigos.
+S: Pedro jantou. Em seguida, ele foi para o cinema com os amigos.
+
+C: Desde que começou a trabalhar no novo emprego, Maria está muito mais feliz.
+S: Maria começou a trabalhar no novo emprego. Desde então, ela está muito mais feliz.
+
+C: Apenas terminar de comer, Lucas foi para o quarto descansar.
+S: Lucas terminou de comer. Em seguida, ele foi para o quarto descansar.
+
+C: Mal saiu de casa, João percebeu que tinha esquecido as chaves.
+S: João saiu de casa. Mal saiu, ele percebeu que tinha esquecido as chaves.
+
+C: Sempre que chove, eu me sinto nostálgico.
+S: Quando chove, eu me sinto nostálgico.
+
+C: Cada vez que ouço essa música, lembro da minha infância.
+S: Quando ouço essa música, lembro da minha infância.
+
+C: Ana chegou em casa depois que o sol já tinha se posto.
+S: O sol já tinha se posto quando Ana chegou em casa.
+
+C: O telefone tocou enquanto eu estava tomando banho.
+S: Eu estava tomando banho quando o telefone tocou.
+
+C: Marcos começou a estudar logo que terminou o jantar.
+S: Marcos terminou o jantar e começou a estudar.
+
+C: Quando o sinal verde acendeu, os carros começaram a se mover.
+S: Os carros começaram a se mover quando o sinal verde acendeu.
+
+C: Maria terminou a tarefa antes que o professor chegasse.
+S: O professor ainda não tinha chegado quando Maria terminou a tarefa.
+
+C: Pedro saiu correndo assim que ouviu o barulho.
+S: Pedro ouviu o barulho e saiu correndo.
+
+C: Enquanto eu dirigia, vi um acidente de carro.
+S: Vi um acidente de carro enquanto dirigia.
+
+C: Ela só começou a chorar depois que recebeu a notícia.
+S: Ela recebeu a notícia e começou a chorar.
+
+C: Sempre que ela via um cachorro, começava a rir.
+S: Ela começava a rir sempre que via um cachorro.
+
+C: Ele só foi embora depois de dizer adeus a todos os amigos.
+S: Ele disse adeus a todos os amigos antes de ir embora.
+
+C: Ao chegar em casa, João encontrou sua mãe preparando o jantar e decidiu ajudá-la.
+S: João chegou em casa e encontrou sua mãe preparando o jantar. Ele decidiu ajudá-la.
+
+C: Enquanto estudava para a prova, Maria recebeu uma ligação de sua melhor amiga.
+S: Maria estava estudando para a prova. Ela recebeu uma ligação de sua melhor amiga.
+
+C: Assim que acordei, percebi que estava atrasado para o trabalho.
+S: Acordei e percebi que estava atrasado para o trabalho.
+
+C: Logo que chegaram ao restaurante, Ana e Pedro pediram uma mesa para dois.
+S: Ana e Pedro chegaram ao restaurante. Eles pediram uma mesa para dois.
+
+C: Até que a chuva pare, vamos ficar em casa assistindo filmes.
+S: Vamos ficar em casa assistindo filmes até a chuva parar.
+
+C: Depois de se exercitar, Joana tomou um banho e relaxou no sofá.
+S: Joana se exercitou. Depois, ela tomou um banho e relaxou no sofá.
+
+C: Desde que começou a trabalhar, João tem se sentido muito cansado.
+S: João começou a trabalhar. Desde então, ele tem se sentido muito cansado.
+
+C: Apenas uma vez por semana, Marcos sai com os amigos para jogar futebol.
+S: Marcos sai com os amigos para jogar futebol apenas uma vez por semana.
+
+C: Mal terminou de estudar, Helena recebeu uma ligação importante.
+S: Helena terminou de estudar. Mal ela recebeu uma ligação importante.
+
+C: Sempre que chove, o trânsito fica caótico na cidade.
+S: O trânsito fica caótico na cidade sempre que chove.
+
+C: Ao chegar em casa, ela tomou um banho e foi dormir.
+S: Ela chegou em casa. Ela tomou um banho e foi dormir.
+
+C: Assim que o avião pousou, os passageiros começaram a aplaudir.
+S: O avião pousou. Os passageiros começaram a aplaudir.
+
+C: Enquanto estudava para a prova, ele percebeu que tinha esquecido o livro.
+S: Ele estudava para a prova. Ele percebeu que tinha esquecido o livro.
+
+C: Antes de sair de casa, ela verificou se tinha trancado a porta.
+S: Ela saiu de casa. Ela verificou se tinha trancado a porta.
+
+C: Mal terminou o trabalho, ele foi buscar os filhos na escola.
+S: Ele terminou o trabalho. Ele foi buscar os filhos na escola.
+
+C: Sempre que chove, ela guarda as roupas no varal.
+S: Chove. Ela guarda as roupas no varal.
+
+C: Cada vez que o telefone toca, ela fica ansiosa.
+S: O telefone toca. Ela fica ansiosa.
+
+C: Depois que o filme acabou, eles foram jantar fora.
+S: O filme acabou. Eles foram jantar fora.
+
+C: Desde que começou a dieta, ela perdeu dez quilos.
+S: Ela começou a dieta. Ela perdeu dez quilos.
+
+C: Até que ele termine o trabalho, não podemos sair.
+S: Ele terminar o trabalho. Nós não podemos sair.
+
+C: Ao chegar ao restaurante, percebi que estava lotado.
+S: Cheguei ao restaurante e percebi que estava lotado.
+
+C: Enquanto estudava para a prova, meu celular tocou várias vezes.
+S: Estudava para a prova e meu celular tocou várias vezes.
+
+C: Assim que terminar de ler o livro, vou começar a assistir à série.
+S: Terminando de ler o livro, vou começar a assistir à série.
+
+C: Logo que o ônibus chegou, corri para não perder.
+S: O ônibus chegou e corri para não perder.
+
+C: Até que encontre um emprego, vou continuar enviando currículos.
+S: Enquanto não encontro um emprego, vou continuar enviando currículos.
+
+C: Depois de sair do trabalho, vou ao supermercado fazer compras.
+S: Saio do trabalho e vou ao supermercado fazer compras.
+
+C: Desde que comecei a fazer exercícios regularmente, perdi peso.
+S: Comecei a fazer exercícios regularmente e perdi peso.
+
+C: Mal o sol nasceu, as pessoas já estavam nas ruas.
+S: O sol nasceu e as pessoas já estavam nas ruas.
+
+C: Sempre que chove, eu levo um guarda-chuva.
+S: Quando chove, eu levo um guarda-chuva.
+
+C: Antes que você vá embora, preciso te contar algo importante.
+S: Vá embora e preciso te contar algo importante.
+
+C: Ao chegar em casa, Maria percebeu que tinha esquecido as chaves.
+S: Maria chegou em casa e percebeu que tinha esquecido as chaves.
+
+C: Depois que terminou o trabalho, João foi tomar um banho.
+S: João terminou o trabalho e foi tomar um banho.
+
+C: Sempre que chove, as ruas ficam alagadas.
+S: Quando chove, as ruas ficam alagadas.
+
+C: Assim que o telefone tocou, Ana atendeu imediatamente.
+S: O telefone tocou e Ana atendeu imediatamente.
+
+C: Laura saiu de casa cada vez que a mãe a repreendia.
+S: Laura saía de casa quando a mãe a repreendia.
+
+C: Antes que a festa começasse, Camila arrumou todos os detalhes da decoração.
+S: A festa começou e Camila arrumou todos os detalhes da decoração.
+
+C: Mal chegamos ao cinema, o filme já havia começado.
+S: Chegamos ao cinema e o filme já havia começado.
+
+C: Enquanto estudava para as provas, Pedro ouvia música para relaxar.
+S: Pedro estudava para as provas e ouvia música para relaxar.
+
+C: Depois que acordou, Lucas tomou um café da manhã reforçado.
+S: Lucas acordou e tomou um café da manhã reforçado.
+
+C: Sempre que a campainha toca, Pedro vai atender a porta.
+S: Quando a campainha toca, Pedro vai atender a porta.
+
+C: Ele saiu correndo quando ouviu o barulho do trovão.
+S: Ele ouviu o barulho do trovão. Ele saiu correndo.
+
+C: Assim que terminou de comer, ela foi embora.
+S: Ela terminou de comer. Ela foi embora.
+
+C: Sempre que chove, meu cachorro se esconde embaixo da cama.
+S: Chove. Meu cachorro se esconde embaixo da cama.
+
+C: Logo que acordou, ele tomou um banho.
+S: Ele acordou. Ele tomou um banho.
+
+C: Antes de sair de casa, ela pegou a chave do carro.
+S: Ela saiu de casa. Ela pegou a chave do carro.
+
+C: Mal chegou ao trabalho, ele recebeu uma ligação urgente.
+S: Ele chegou ao trabalho. Ele recebeu uma ligação urgente.
+
+C: Cada vez que vai à praia, ela fica feliz.
+S: Vai à praia. Ela fica feliz.
+
+C: Só começarei o trabalho quando tiver todas as informações necessárias.
+S: Terei todas as informações necessárias. Começarei o trabalho.
+
+C: Depois de estudar por horas, ele finalmente entendeu o conceito.
+S: Ele estudou por horas. Ele finalmente entendeu o conceito.
+
+C: Desde que chegou à cidade, ele tem explorado todos os pontos turísticos.
+S: Ele chegou à cidade. Ele tem explorado todos os pontos turísticos.
+
+C: João começou a estudar medicina assim que terminou o ensino médio.
+S: João terminou o ensino médio. Em seguida, começou a estudar medicina.
+
+C: Maria sempre vai ao supermercado toda vez que precisa fazer as compras do mês.
+S: Maria precisa fazer as compras do mês. Em seguida, vai ao supermercado.
+
+C: O filme só começará quando todos estiverem sentados nas cadeiras.
+S: Todos estarão sentados nas cadeiras. Em seguida, o filme começará.
+
+C: Marcos sempre liga para sua mãe antes de dormir.
+S: Marcos vai dormir. Antes disso, sempre liga para sua mãe.
+
+C: O avião partirá assim que todos os passageiros estiverem a bordo.
+S: Todos os passageiros estarão a bordo. Em seguida, o avião partirá.
+
+C: Laura esperou até que a chuva parasse para sair de casa.
+S: A chuva parou. Em seguida, Laura saiu de casa.
+
+C: Louise foi para o hospital mal acordou com febre alta.
+S: Louise acordou com febre alta. Mal isso aconteceu, ela foi para o hospital.
+
+C: Roberto sempre estuda antes que seus amigos cheguem para a festa.
+S: Os amigos de Roberto vão chegar para a festa. Antes disso, ele sempre estuda.
+
+C: Isabel ligou para sua mãe logo que recebeu a notícia sobre a promoção.
+S: Isabel recebeu a notícia sobre a promoção. Logo em seguida, ligou para sua mãe.
+
+C: Joana sempre toma banho depois que chega da academia.
+S: Joana chega da academia. Depois disso, sempre toma banho.
+
+C: A aula começou quando o professor entrou na sala e cumprimentou os alunos.
+S: O professor entrou na sala e cumprimentou os alunos. A aula começou.
+
+C: Ela esperou até que o sol se pusesse para sair do escritório.
+S: O sol se pôs. Ela saiu do escritório.
+
+C: Depois que ela terminou de estudar, foi dormir.
+S: Ela terminou de estudar. Em seguida, ela foi dormir.
+
+C: Quando ouviu a notícia, ele imediatamente ligou para a polícia.
+S: Ele ouviu a notícia. Ele imediatamente ligou para a polícia.
+
+C: Enquanto ele trabalhava no computador, sua irmã assistia TV.
+S: Ele trabalhava no computador. Sua irmã assistia TV.
+
+C: Sempre que chove, ela leva um guarda-chuva.
+S: Chove. Ela leva um guarda-chuva.
+
+C: Mal saiu de casa, já começou a chover.
+S: Ele saiu de casa. Já começou a chover.
+
+C: Ele ficou esperando até que o ônibus chegasse.
+S: O ônibus chegou. Ele ficou esperando.
+
+C: Cada vez que ela viaja, liga para a família.
+S: Ela viaja. Liga para a família.
+
+C: Antes que anoitecesse, ele resolveu voltar para casa.
+S: Anoiteceu. Ele resolveu voltar para casa.
+
+C: Enquanto a chuva caia lá fora, as crianças brincavam dentro de casa.
+S: As crianças brincavam dentro de casa. (A chuva caía lá fora.)
+
+C: Sempre que ele me vê, sorri e acena.
+S: Ele sorri e acena quando me vê.
+
+C: Depois que terminarem a reunião, podemos ir almoçar juntos.
+S: Podemos ir almoçar juntos depois que terminarem a reunião.
+
+C: Antes de sair de casa, verifique se fechou todas as janelas.
+S: Verifique se fechou todas as janelas antes de sair de casa.
+
+C: Assim que o sol nascer, partiremos para a praia.
+S: Partiremos para a praia assim que o sol nascer.
+
+C: Até que todos cheguem, não começaremos a festa.
+S: Não começaremos a festa até que todos cheguem.
+
+C: Mal ele chegou em casa, começou a chover.
+S: Começou a chover mal ele chegou em casa.
+
+C: Logo que terminou o trabalho, foi descansar.
+S: Foi descansar logo que terminou o trabalho.
+
+C: Cada vez que ele me liga, fico ansioso.
+S: Fico ansioso cada vez que ele me liga.
+
+C: Desde que se mudaram para cá, eles estão mais felizes.
+S: Eles estão mais felizes desde que se mudaram para cá.
+
+C: Ao chegar em casa, Maria encontrou sua mãe assistindo TV.
+S: Maria chegou em casa e encontrou sua mãe assistindo TV.
+
+C: Enquanto estudava para a prova, João recebeu uma ligação importante.
+S: João estudava para a prova e recebeu uma ligação importante.
+
+C: Assim que terminou de cozinhar, Ana convidou seus amigos para jantar.
+S: Ana terminou de cozinhar e convidou seus amigos para jantar.
+
+C: Logo que acordou, Pedro tomou um banho rápido e se vestiu.
+S: Pedro acordou, tomou um banho rápido e se vestiu.
+
+C: Até que consiga um emprego fixo, Lucas continuará fazendo bicos.
+S: Lucas continuará fazendo bicos até conseguir um emprego fixo.
+
+C: Depois de muito tempo esperando, finalmente o ônibus chegou.
+S: O ônibus chegou depois de muito tempo esperando.
+
+C: Desde que começou a dieta, Luísa perdeu alguns quilos.
+S: Luísa começou a dieta e perdeu alguns quilos.
+
+C: Apenas quando Maria chegou em casa percebeu que tinha esquecido a chave.
+S: Maria chegou em casa e apenas então percebeu que tinha esquecido a chave.
+
+C: Mal terminou de estudar, João recebeu a ligação do seu professor.
+S: João terminou de estudar e mal recebeu a ligação do seu professor.
+
+C: Cada vez que chove, Carolina busca abrigo sob a marquise.
+S: Carolina busca abrigo sob a marquise cada vez que chove.
+
+C: Depois que terminar a reunião, vamos sair para comemorar.
+S: Vamos sair para comemorar após terminar a reunião.
+
+C: Quando chegar em casa, ligue para sua mãe.
+S: Ligue para sua mãe quando chegar em casa.
+
+C: Assim que ele abrir a loja, podemos fazer as compras.
+S: Podemos fazer as compras assim que ele abrir a loja.
+
+C: Até que a aula termine, não podemos sair.
+S: Não podemos sair até que a aula termine.
+
+C: Ela queria telefonar para ele antes que fosse tarde demais.
+S: Antes que fosse tarde demais, ela queria telefonar para ele.
+
+C: Logo que a chuva parar, podemos ir ao parque.
+S: Podemos ir ao parque logo que a chuva parar.
+
+C: Sempre que ele me liga, fico feliz.
+S: Fico feliz sempre que ele me liga.
+
+C: Cada vez que ele fala, eu presto atenção.
+S: Eu presto atenção cada vez que ele fala.
+
+C: Mal cheguei em casa, comecei a fazer a janta.
+S: Comecei a fazer a janta mal cheguei em casa.
+
+C: Desde que comecei a estudar inglês, tenho melhorado minha pronúncia.
+S: Tenho melhorado minha pronúncia desde que comecei a estudar inglês.
+
+C: Quando chegou em casa, ele encontrou um presente na porta.
+S: Ele chegou em casa e encontrou um presente na porta.
+
+C: Enquanto assistia ao filme, ele comia pipoca.
+S: Ele assistia ao filme e comia pipoca.
+
+C: Assim que acordou, ela correu para o trabalho.
+S: Ela acordou e correu para o trabalho.
+
+C: Logo que terminou de estudar, ele foi se encontrar com os amigos.
+S: Ele terminou de estudar e foi se encontrar com os amigos.
+
+C: Até que a chuva parasse, eles não saíram de casa.
+S: A chuva não parava e eles não saíram de casa.
+
+C: Depois de terminar de cozinhar, ela chamou a família para jantar.
+S: Ela terminou de cozinhar e chamou a família para jantar.
+
+C: Desde que começou a praticar esportes, ele se sente mais saudável.
+S: Ele começou a praticar esportes e se sente mais saudável.
+
+C: Apenas queria descansar um pouco antes de começar a trabalhar.
+S: Ele queria descansar um pouco antes de começar a trabalhar.
+
+C: Mal chegou em casa, ele recebeu uma ligação importante.
+S: Ele chegou em casa e recebeu uma ligação importante.
+
+C: Sempre que vai à praia, ela leva protetor solar.
+S: Ela vai à praia e leva protetor solar.
+
+C: Ao sair do trabalho no fim da tarde, Maria pegou o ônibus lotado para voltar para casa.
+S: Maria saiu do trabalho no fim da tarde. Maria pegou o ônibus lotado para voltar para casa.
+
+C: Quando o sol se põe, as estrelas começam a aparecer no céu.
+S: O sol se põe. As estrelas começam a aparecer no céu.
+
+C: Assim que o telefone tocou, João atendeu imediatamente.
+S: O telefone tocou. João atendeu imediatamente.
+
+C: Logo que terminou a aula, os alunos correram para a saída da escola.
+S: A aula terminou. Os alunos correram para a saída da escola.
+
+C: Ele sempre chega atrasado quando tem compromissos importantes.
+S: Ele chega atrasado. Ele tem compromissos importantes.
+
+C: Mal começou a chover, as árvores começaram a balançar com o vento.
+S: Começou a chover. As árvores começaram a balançar com o vento.
+
+C: Cada vez que ouço essa música, me lembro da minha infância.
+S: Eu ouço essa música. Eu me lembro da minha infância.
+
+C: Antes que o sol nasça, é necessário acordar cedo.
+S: O sol nasce. É necessário acordar cedo.
+
+C: Cristiano Ronaldo marcou um gol assim que entrou em campo.
+S: Cristiano Ronaldo entrou em campo. Cristiano Ronaldo marcou um gol.
+
+C: A festa só começará depois que todos os convidados chegarem.
+S: Todos os convidados chegarem. A festa só começará.
+
+C: Após terminar o trabalho, João foi ao supermercado.
+S: João terminou o trabalho e foi ao supermercado.
+
+C: Sempre que chove, eu levo um guarda-chuva.
+S: Quando chove, eu levo um guarda-chuva.
+
+C: Assim que o telefone tocou, ela atendeu.
+S: O telefone tocou e ela atendeu.
+
+C: Enquanto estudava, ele ouvia música.
+S: Ele estudava e ouvia música.
+
+C: Antes que eu chegasse, eles já haviam partido.
+S: Eles já haviam partido antes de eu chegar.
+
+C: Desde que começou a chover, ele não sai mais de casa.
+S: Ele não sai mais de casa desde que começou a chover.
+
+C: Logo que acordou, ele tomou café da manhã.
+S: Ele acordou e tomou café da manhã.
+
+C: Cada vez que ela me vê, sorri.
+S: Quando ela me vê, sorri.
+
+C: Mal saiu de casa, ele percebeu que havia esquecido a carteira.
+S: Ele saiu de casa e percebeu que havia esquecido a carteira.
+
+C: Até que o sol se ponha, não voltaremos para casa.
+S: Não voltaremos para casa até o sol se pôr.
+
+C: Ao chegar em casa, percebi que tinha esquecido as chaves.
+S: Cheguei em casa e percebi que tinha esquecido as chaves.
+
+C: Enquanto estudava para o exame, meu celular tocou.
+S: Estudava para o exame quando meu celular tocou.
+
+C: Assim que o sol saiu, as pessoas começaram a se exercitar.
+S: O sol saiu e as pessoas começaram a se exercitar.
+
+C: Mal terminei de comer quando começou a chover.
+S: Terminei de comer e começou a chover.
+
+C: Sempre que vou à praia, levo protetor solar.
+S: Vou à praia e levo protetor solar.
+
+C: Antes que você vá embora, quero te falar algo.
+S: Você vai embora e quero te falar algo.
+
+C: Cada vez que vejo aquele filme, choro no final.
+S: Vejo aquele filme e choro no final.
+
+C: Depois de acordar, tomei um banho e me arrumei.
+S: Acordei e tomei um banho e me arrumei.
+
+C: Desde que comecei a praticar esportes, minha saúde melhorou.
+S: Comecei a praticar esportes e minha saúde melhorou.
+
+C: Até que cheguei atrasado, o ônibus ainda não tinha passado.
+S: Cheguei atrasado e o ônibus ainda não tinha passado.
+
+C: Joana chegou em casa depois que escureceu.
+S: Escureceu e Joana chegou em casa.
+
+C: Enquanto estudava para a prova, Pedro recebeu uma ligação importante.
+S: Pedro recebeu uma ligação importante. Ele estava estudando para a prova.
+
+C: Sempre que chove, a rua alaga.
+S: A rua alaga quando chove.
+
+C: Assim que acordou, Maria fez café da manhã.
+S: Maria fez café da manhã. Ela acabara de acordar.
+
+C: Matheus foi ao mercado antes que fechasse.
+S: O mercado fechou e Matheus foi antes disso.
+
+C: Maria terminou de comer e em seguida saiu do restaurante.
+S: Maria saiu do restaurante após terminar de comer.
+
+C: Eu mal cheguei em casa e já tenho que sair de novo.
+S: Eu tenho que sair de novo logo que cheguei em casa.
+
+C: Logo que começou a chover, todos foram para dentro.
+S: Todos foram para dentro quando começou a chover.
+
+C: Sempre que vou ao parque, vejo muitas crianças brincando.
+S: Vejo muitas crianças brincando quando vou ao parque.
+
+C: A maratona terminou e os corredores receberam suas medalhas.
+S: Os corredores receberam suas medalhas após a maratona terminar.
+
+C: Durante a saída de emergência do prédio, todos os funcionários precisam seguir as instruções rapidamente.
+S: Todos os funcionários precisam seguir as instruções rapidamente durante a saída de emergência do prédio.
+
+C: Após a reunião com os investidores, o CEO anunciou a expansão da empresa para o mercado internacional.
+S: O CEO anunciou a expansão da empresa para o mercado internacional após a reunião com os investidores.
+
+C: Sempre que chove, os pássaros se abrigam embaixo das árvores.
+S: Os pássaros se abrigam embaixo das árvores sempre que chove.
+
+C: Assim que o sol se põe, as luzes da cidade se acendem.
+S: As luzes da cidade se acendem assim que o sol se põe.
+
+C: Até que termine o trabalho, não podemos sair.
+S: Não podemos sair até que termine o trabalho.
+
+C: Depois de tomar um banho, ele se sentiu mais relaxado.
+S: Ele se sentiu mais relaxado depois de tomar um banho.
+
+C: Desde que começou a praticar exercícios, ela perdeu peso e ganhou mais energia.
+S: Ela perdeu peso e ganhou mais energia desde que começou a praticar exercícios.
+
+C: Mal o filme começou, o público ficou em silêncio.
+S: O público ficou em silêncio mal o filme começou.
+
+C: Cada vez que ouço essa música, lembro-me da minha infância.
+S: Lembro-me da minha infância cada vez que ouço essa música.
+
+C: Antes que o dia amanheça, os trabalhadores já estão a caminho do escritório.
+S: Os trabalhadores já estão a caminho do escritório antes que o dia amanheça.
+
+C: Maria foi para a escola assim que terminou o café da manhã.
+S: Maria terminou o café da manhã e foi para a escola.
+
+C: Ele sempre que vai ao parque, leva seu cachorro.
+S: Ele vai ao parque e sempre leva seu cachorro.
+
+C: Ana esperou até que o ônibus chegasse.
+S: O ônibus chegou e Ana esperou.
+
+C: João mal chegou em casa, e já recebeu uma ligação.
+S: João chegou em casa e imediatamente recebeu uma ligação.
+
+C: Assim que a aula terminou, Laura foi para casa.
+S: A aula terminou e Laura foi para casa.
+
+C: Todo mundo ficou chocado quando soube da notícia.
+S: A notícia deixou todo mundo chocado.
+
+C: Logo que acordou, Pedro tomou um banho.
+S: Pedro acordou e tomou um banho imediatamente.
+
+C: Antes que iniciasse a reunião, eles prepararam as apresentações.
+S: Eles prepararam as apresentações antes de iniciar a reunião.
+
+C: Sempre que chove, ela leva um guarda-chuva.
+S: Chove e ela sempre leva um guarda-chuva.
+
+C: Depois que terminou o jogo, eles comemoraram a vitória.
+S: Eles terminaram o jogo e comemoraram a vitória em seguida.
+
+C: Assim que o sol se pôs, o frio ficou mais intenso.
+S: O sol se pôs. O frio ficou mais intenso.
+
+C: Enquanto estudava para a prova, ele percebeu que estava ficando sem tempo.
+S: Ele estava estudando para a prova. Ele percebeu que estava ficando sem tempo.
+
+C: Logo que começou a chover, as pessoas correram para se abrigar.
+S: Começou a chover. As pessoas correram para se abrigar.
+
+C: Sempre que meu telefone toca, eu me assusto.
+S: Meu telefone toca. Eu me assusto.
+
+C: Depois que o filme acabou, fomos jantar em um restaurante.
+S: O filme acabou. Fomos jantar em um restaurante.
+
+C: Mal o professor começou a explicar, eu já entendi a matéria.
+S: O professor começou a explicar. Eu já entendi a matéria.
+
+C: Cada vez que minha mãe cozinha, a casa fica cheia de um cheiro delicioso.
+S: Minha mãe cozinha. A casa fica cheia de um cheiro delicioso.
+
+C: Até que enfim você chegou! Estava te esperando há horas.
+S: Você chegou. Estava te esperando há horas.
+
+C: Antes que escureça, vamos dar uma volta no parque.
+S: Escurece. Vamos dar uma volta no parque.
+
+C: Desde que comecei a fazer exercícios, me sinto mais saudável.
+S: Comecei a fazer exercícios. Me sinto mais saudável.
+
+C: Ana estudou até tarde, porque tinha uma prova importante no dia seguinte.
+S: Ana tinha uma prova importante no dia seguinte. Ana estudou até tarde.
+
+C: Ao chegar em casa, Maria percebeu que tinha esquecido as chaves do carro no trabalho.
+S: Maria chegou em casa. Maria percebeu que tinha esquecido as chaves do carro no trabalho.
+
+C: João sempre liga para sua mãe quando está viajando.
+S: João está viajando. João sempre liga para sua mãe.
+
+C: Depois que terminaram de jantar, os convidados foram embora.
+S: Os convidados terminaram de jantar. Em seguida, os convidados foram embora.
+
+C: Carlos foi ao supermercado antes que fechasse.
+S: Antes que fechasse, Carlos foi ao supermercado.
+
+C: Maria saiu correndo assim que viu o ônibus se aproximando.
+S: Maria viu o ônibus se aproximando. Maria saiu correndo.
+
+C: Quando chegar em casa, ligue para mim.
+S: Chegue em casa. Ligue para mim.
+
+C: Pedro sempre se atrasa quando tem uma reunião importante.
+S: Pedro tem uma reunião importante. Pedro sempre se atrasa.
+
+C: Logo que o sol apareceu, as crianças foram brincar no parque.
+S: O sol apareceu. Em seguida, as crianças foram brincar no parque.
+
+C: Assim que acordar, lembre-se de tomar seu remédio.
+S: Acorde. Lembre-se de tomar seu remédio.
+
+C: Ao chegar em casa mais tarde do trabalho, percebi que tinha esquecido as chaves.
+S: Cheguei em casa mais tarde do trabalho. Percebi que tinha esquecido as chaves.
+
+C: Enquanto ela estudava para a prova, sua irmã assistia à televisão.
+S: Ela estudava para a prova. Sua irmã assistia à televisão.
+
+C: Assim que o sol apareceu, as crianças correram para brincar no parque.
+S:O sol apareceu. As crianças correram para brincar no parque.
+
+C: Logo que acordou, ele tomou um banho e se vestiu.
+S:Ele acordou. Tomou um banho e se vestiu.
+
+C: Até que a chuva parasse, eles não sairiam de casa.
+S: A chuva não parou. Eles não sairão de casa.
+
+C: Depois de terminar o trabalho, ela foi para a academia.
+S: Terminou o trabalho. Ela foi para a academia.
+
+C: Desde que começou a dieta, ela perdeu peso.
+S: Começou a dieta. Ela perdeu peso.
+
+C: Apenas quando o telefone tocou, ela percebeu que era tarde da noite.
+S: O telefone tocou. Ela percebeu que era tarde da noite.
+
+C: Mal ele saiu de casa, começou a chover.
+S: Ele saiu de casa. Começou a chover.
+
+C: Sempre que ela vai à praia, traz conchas como lembrança.
+S: Ela vai à praia. Traz conchas como lembrança.
+
+C: Ao chegar em casa depois do trabalho, Joana tomou um banho relaxante.
+S: Joana chegou em casa. Joana tomou um banho relaxante.
+
+C: Enquanto estudava para a prova, Luiz ouvia música para se concentrar melhor.
+S: Luiz estudava para a prova. Luiz ouvia música para se concentrar melhor.
+
+C: Logo que o telefone tocou, Marcos correu para atender.
+S: O telefone tocou. Marcos correu para atender.
+
+C: Sempre que vai ao supermercado, Carla faz uma lista de compras.
+S: Carla vai ao supermercado. Carla faz uma lista de compras.
+
+C: Cada vez que ouve uma música triste, Laura fica emocionada.
+S: Laura ouve uma música triste. Laura fica emocionada.
+
+C: Antes que o sol nascesse, as flores já estavam abertas.
+S: O sol nasce. As flores já estavam abertas.
+
+C: Assim que acordei, tomei um café da manhã reforçado.
+S: Acordei. Tomei um café da manhã reforçado.
+
+C: Mal terminou de jantar, o telefone começou a tocar.
+S: Terminou de jantar. O telefone começou a tocar.
+
+C: Depois de assistir ao filme, Pedro comentou sobre a história com os amigos.
+S: Assistiu ao filme. Pedro comentou sobre a história com os amigos.
+
+C: Desde que começou a chover, os pássaros se abrigaram nos ninhos.
+S: Começou a chover. Os pássaros se abrigaram nos ninhos.
+
+C: Ao terminar seus estudos, Maria pretende fazer um intercâmbio na Europa.
+S: Maria pretende fazer um intercâmbio na Europa depois de terminar seus estudos.
+
+C: Enquanto a chuva caía, as crianças brincavam no parque.
+S: As crianças brincavam no parque enquanto a chuva caía.
+
+C: Assim que recebermos o relatório, poderemos analisar os resultados.
+S: Poderemos analisar os resultados assim que recebermos o relatório.
+
+C: Até que todos cheguem, vamos esperar aqui.
+S: Vamos esperar aqui até que todos cheguem.
+
+C: Depois de jantar, ela foi dar uma volta no parque.
+S: Ela foi dar uma volta no parque depois de jantar.
+
+C: Desde que começou a estudar, sua vida mudou completamente.
+S: Sua vida mudou completamente desde que começou a estudar.
+
+C: Apenas acordei quando o sol já estava alto no céu.
+S: Acordei apenas quando o sol já estava alto no céu.
+
+C: Mal pisou na areia da praia, ele correu para o mar.
+S: Ele correu para o mar mal pisou na areia da praia.
+
+C: Sempre que ela lhe pede algo, ele nunca recusa.
+S: Ele nunca recusa quando ela lhe pede algo.
+
+C: Cada vez que vejo um filme de terror, fico com medo de dormir.
+S: Fico com medo de dormir cada vez que vejo um filme de terror.
+
+C: Ele começou a estudar quando terminou o trabalho.
+S: Ele terminou o trabalho. Em seguida, ele começou a estudar.
+
+C: Ela foi ao cinema depois que jantou com os amigos.
+S: Ela jantou com os amigos. Em seguida, ela foi ao cinema.
+
+C: Eles ficaram felizes assim que receberam as boas notícias.
+S: Eles receberam as boas notícias. Em seguida, eles ficaram felizes.
+
+C: Eu só vou ao supermercado quando estiver com tempo.
+S: Eu estou com tempo. Então, eu vou ao supermercado.
+
+C: O trânsito ficou caótico sempre que chovia.
+S: Chovia. Então, o trânsito ficava caótico.
+
+C: A equipe venceu todas as partidas antes de chegar à final.
+S: A equipe chegou à final. Antes disso, eles venceram todas as partidas.
+
+C: Ela sempre se atrasa quando precisa pegar o ônibus.
+S: Ela precisa pegar o ônibus. Então, ela sempre se atrasa.
+
+C: Os alunos só saem da sala depois que o professor autoriza.
+S: O professor autoriza. Em seguida, os alunos saem da sala.
+
+C: Eu só assisto televisão quando termino todas as tarefas.
+S: Eu termino todas as tarefas. Em seguida, eu assisto televisão.
+
+C: Ela só leva o guarda-chuva quando há previsão de chuva.
+S: Há previsão de chuva. Então, ela leva o guarda-chuva.
+
+C: Ao sair de casa, ele pegou o guarda-chuva, pois estava chovendo.
+S: Ele saiu de casa. Estava chovendo, então ele pegou o guarda-chuva.
+
+C: Quando cheguei no escritório, a reunião já tinha acabado.
+S: Eu cheguei no escritório. A reunião já tinha acabado.
+
+C: Enquanto estudava para a prova, ela percebeu que estava sem caneta.
+S: Ela estudava para a prova. Percebeu que estava sem caneta.
+
+C: Logo que acordei, tomei café da manhã.
+S: Acordei e tomei café da manhã.
+
+C: Depois que ele chegou em casa, ligou para a namorada.
+S: Ele chegou em casa. Ligou para a namorada em seguida.
+
+C: Sempre que a temperatura cai, ela sente frio.
+S: A temperatura cai, então ela sente frio.
+
+C: Até que termine o trabalho, não será possível descansar.
+S: Não será possível descansar até que termine o trabalho.
+
+C: Antes que o sol se pôr, vamos fazer um passeio.
+S: Vamos fazer um passeio antes do sol se pôr.
+
+C: Assim que eu receber a resposta, te aviso.
+S: Recebo a resposta e te aviso.
+
+C: Mal ele viu o resultado, começou a comemorar.
+S: Ele viu o resultado. Começou a comemorar em seguida.
+
+C: Depois de fazer um longo discurso, o presidente recebeu uma grande ovação da plateia.
+S: O presidente fez um longo discurso. Em seguida, recebeu uma grande ovação da plateia.
+
+C: Enquanto caminhava pela rua, João encontrou um antigo amigo.
+S: João caminhava pela rua. Nesse momento, encontrou um antigo amigo.
+
+C: Assim que acordou, Ana percebeu que estava atrasada para o trabalho.
+S: Ana acordou e percebeu que estava atrasada para o trabalho.
+
+C: Depois que a chuva parar, poderemos sair para passear.
+S: A chuva vai parar. Em seguida, poderemos sair para passear.
+
+C: Sempre que chove, eu fico triste.
+S: Quando chove, eu fico triste.
+
+C: Enquanto estudava para a prova, Maria recebeu uma ligação importante.
+S: Maria estava estudando para a prova. Nesse momento, recebeu uma ligação importante.
+
+C: Cada vez que vejo aquele filme, me emociono.
+S: Sempre que vejo aquele filme, me emociono.
+
+C: Ao atravessar a rua, tome cuidado com os carros.
+S: Atravesse a rua com cuidado, tomando cuidado com os carros.
+
+C: Mal começou a chover, as pessoas correram para se abrigar.
+S: Assim que começou a chover, as pessoas correram para se abrigar.
+
+C: Até que você termine de comer, não vamos sair daqui.
+S: Vamos esperar você terminar de comer para sairmos daqui.
+
+C: Cheguei atrasado porque perdi o ônibus.
+S: Perdi o ônibus. Cheguei atrasado.
+
+C: Assim que acordei, tomei café da manhã.
+S: Acordei. Tomei café da manhã.
+
+C: Encontrei minha amiga enquanto caminhava no parque.
+S: Caminhava no parque. Encontrei minha amiga.
+
+C: Sempre que chove, levo meu guarda-chuva.
+S: Chove. Levo meu guarda-chuva.
+
+C: Logo que acabou a aula, fui para casa.
+S: Acabou a aula. Fui para casa.
+
+C: Depois que terminei de ler o livro, emprestei para um amigo.
+S: Terminei de ler o livro. Emprestei para um amigo.
+
+C: Cada vez que ouço essa música, lembro do meu ex-namorado.
+S: Ouço essa música. Lembro do meu ex-namorado.
+
+C: Assim que terminei o trabalho, enviei por e-mail.
+S: Terminei o trabalho. Enviei por e-mail.
+
+C: Encontro meus amigos antes que o restaurante feche.
+S: Restaurante fecha. Encontro meus amigos.
+
+C: Mal comecei a estudar quando recebi uma ligação urgente.
+S: Comecei a estudar. Recebi uma ligação urgente.
+
+C: Maria comprou um novo carro assim que recebeu seu bônus de final de ano.
+S: Maria recebeu seu bônus de final de ano. Em seguida, Maria comprou um novo carro.
+
+C: Ana sempre fazia exercícios todas as manhãs antes de ir para o trabalho.
+S: Ana fazia exercícios todas as manhãs. Em seguida, Ana ia para o trabalho.
+
+C: O cachorro começou a latir tão logo ouviu o barulho do portão.
+S: O cachorro ouviu o barulho do portão. Em seguida, o cachorro começou a latir.
+
+C: Paula sempre estudava quando chegava em casa depois da aula.
+S: Paula chegava em casa depois da aula. Em seguida, Paula estudava.
+
+C: Ele só comeu a sobremesa depois que terminou o jantar.
+S: Ele terminou o jantar. Em seguida, ele comeu a sobremesa.
+
+C: Quando o telefone tocou, ela rapidamente atendeu.
+S: O telefone tocou. Em seguida, ela rapidamente atendeu.
+
+C: Sempre que chove, eu deixo as janelas fechadas.
+S: Choveu. Em seguida, eu deixei as janelas fechadas.
+
+C: Depois de tirar o sapato, ele sentou-se no sofá.
+S: Ele tirou o sapato. Em seguida, ele sentou-se no sofá.
+
+C: Maria saiu correndo assim que viu o ônibus se aproximando.
+S: Maria viu o ônibus se aproximando. Em seguida, Maria saiu correndo.
+
+C: Assim que acordei, tomei um banho e me vesti.
+S: Acordei. Em seguida, tomei um banho e me vesti.
+
+C: João começou a jogar futebol assim que chegou em casa.
+S: João chegou em casa. Em seguida, João começou a jogar futebol.
+
+C: Maria sempre que viaja, fica ansiosa.
+S: Maria viaja. Maria fica ansiosa.
+
+C: Os alunos estudaram até que o professor chegasse.
+S: Os alunos estudaram. O professor chegou.
+
+C: Carlos foi ao supermercado depois que saiu do trabalho.
+S: Carlos saiu do trabalho. Em seguida, Carlos foi ao supermercado.
+
+C: Paula mal terminou de comer e já foi embora.
+S: Paula terminou de comer. Em seguida, Paula foi embora.
+
+C: O telefone tocou enquanto eu estava tomando banho.
+S: Eu estava tomando banho. O telefone tocou.
+
+C: Carlos só saiu de casa quando o sol já estava se pondo.
+S: O sol já estava se pondo. Carlos saiu de casa.
+
+C: Eu só começo a trabalhar depois que tomo um café.
+S: Eu tomo um café. Em seguida, eu começo a trabalhar.
+
+C: Pedro sempre que vai a uma festa, se diverte muito.
+S: Pedro vai a uma festa. Pedro se diverte muito.
+
+C: Ela só comprou o livro depois que leu as críticas.
+S: Ela leu as críticas. Em seguida, ela comprou o livro.
+
+C: Depois de terminar o trabalho, ela foi para casa descansar.
+    S: Ela terminou o trabalho. Em seguida, foi para casa descansar.
+
+    C: Quando a festa acabou, eles foram embora.
+    S: A festa acabou. Em seguida, eles foram embora.
+
+    C: Assim que a luz voltou, eles continuaram a assistir ao filme.
+    S: A luz voltou. Em seguida, eles continuaram a assistir ao filme.
+
+    C: Antes que o sol nascesse, eles já estavam prontos para partir.
+    S: O sol ainda não havia nascido. Em seguida, eles já estavam prontos para partir.
+
+    C: Sempre que chove, ele leva o guarda-chuva.
+    S: Chove. Em seguida, ele leva o guarda-chuva.
+
+    C: Cada vez que ela sai, a maçã cai da árvore.
+    S: Ela sai. Em seguida, a maçã cai da árvore.
+
+    C: Mal o sinal verde acendeu, os carros começaram a se mover.
+    S: O sinal verde acendeu. Em seguida, os carros começaram a se mover.
+
+    C: Enquanto ela estudava, o telefone tocou várias vezes.
+    S: Ela estudava. Durante esse tempo, o telefone tocou várias vezes.
+
+    C: Logo que acordou, ele tomou um banho.
+    S: Ele acordou. Em seguida, ele tomou um banho.
+
+    C: Até que a chuva pare, eles vão ficar em casa.
+    S: A chuva ainda não parou. Até lá, eles vão ficar em casa.
+
+C: O carro parou quando acabou o combustível.
+S: O combustível acabou. O carro parou.
+
+C: João estudou bastante antes de fazer a prova.
+S: João fez a prova. João estudou bastante antes.
+
+C: Ela só vai ao cinema quando tem filmes de ação.
+S: Tem filmes de ação. Ela só vai ao cinema.
+
+C: O tempo melhorou depois que a chuva parou.
+S: A chuva parou. O tempo melhorou.
+
+C: Os alunos sempre estudam quando têm provas.
+S: Têm provas. Os alunos sempre estudam.
+
+C: Ele sempre liga para mãe antes de dormir.
+S: Ele liga para mãe. Ele sempre liga antes de dormir.
+
+C: Maria saiu correndo quando viu o cachorro.
+S: Ela viu o cachorro. Maria saiu correndo.
+
+C: O avião decolou assim que a pista foi liberada.
+S: A pista foi liberada. O avião decolou assim que.
+
+C: Eles só começam a trabalhar depois que chegam no escritório.
+S: Chegam no escritório. Eles só começam a trabalhar depois que.
+
+C: O cachorro latiu toda vez que ouviu um barulho.
+S: Ouviu um barulho. O cachorro latiu toda vez que.
+
+C: Enquanto ela estudava para a prova, eu fui ao supermercado.
+S: Eu fui ao supermercado. 
+
+C: Assim que a chuva parar, faremos um piquenique no parque.
+S: Faremos um piquenique no parque.
+
+C: Até que ele termine de ler o livro, não poderemos discutir sobre o final.
+S: Não poderemos discutir sobre o final.
+
+C: Depois de terminar o trabalho, ela saiu para jantar com os amigos.
+S: Ela saiu para jantar com os amigos.
+
+C: Desde que cheguei em casa, percebi que algo estava errado.
+S: Percebi que algo estava errado.
+
+C: Apenas quando todos estiverem prontos, começaremos a reunião.
+S: Começaremos a reunião.
+
+C: Mal acordou, ele sentiu uma dor de cabeça intensa.
+S: Ele sentiu uma dor de cabeça intensa.
+
+C: Sempre que esfria, meus músculos doem.
+S: Meus músculos doem.
+
+C: Cada vez que ela diz uma piada, todos riem muito.
+S: Todos riem muito.
+
+C: Antes que eu me esqueça, preciso te contar uma novidade.
+S: Preciso te contar uma novidade.
+
+C: Depois que terminei de estudar, fui para a academia.
+S: Terminei de estudar. Em seguida, fui para a academia.
+
+C: Enquanto caminhava no parque, vi um pássaro voando.
+S: Caminhava no parque. Vi um pássaro voando.
+
+C: Mal acordei, tomei um café da manhã rápido antes de sair.
+S: Acordei e tomei um café da manhã rápido antes de sair.
+
+C: Sempre que chove, eu levo um guarda-chuva.
+S: Chove e eu levo um guarda-chuva.
+
+C: Depois que ele me contou a novidade, fiquei muito feliz.
+S: Ele me contou a novidade. Fiquei muito feliz.
+
+C: Assim que terminar o trabalho, vou descansar um pouco.
+S: Terminar o trabalho. Vou descansar um pouco.
+
+C: Logo que o filme terminar, vamos jantar.
+S: O filme vai terminar. Vamos jantar.
+
+C: Cada vez que ouço essa música, me emociono.
+S: Ouço essa música e me emociono.
+
+C: Até que as aulas comecem, irei viajar com minha família.
+S: As aulas ainda não começaram. Irei viajar com minha família.
+
+C: Antes que a comida esfrie, vamos começar a comer.
+S: A comida acabou de ser servida. Vamos começar a comer.
+
+C: Maria terminou de estudar quando o sol estava se pondo.
+S: O sol estava se pondo. Maria terminou de estudar.
+
+C: Depois que Pedro chegou em casa, ele tomou um banho e jantou.
+S: Pedro chegou em casa. Em seguida, ele tomou um banho e jantou.
+
+C: Quando começou a chover, as crianças correram para dentro de casa.
+S: Começou a chover. As crianças correram para dentro de casa.
+
+C: O jogador marcou um gol assim que entrou em campo.
+S: O jogador entrou em campo. Em seguida, marcou um gol.
+
+C: Antes que o filme começasse, comprei uma pipoca.
+S: O filme começou. Antes disso, comprei uma pipoca.
+
+C: Sempre que viajava para o exterior, ela comprava presentes para a família.
+S: Ela viajava para o exterior. Sempre comprava presentes para a família.
+
+C: Logo que acordei, tomei um café da manhã reforçado.
+S: Acordei. Em seguida, tomei um café da manhã reforçado.
+
+C: Enquanto eu estudava, meu irmão assistia TV.
+S: Eu estudava. Meu irmão assistia TV.
+
+C: Cada vez que ouço essa música, lembro-me da minha infância.
+S: Ouvir essa música. Cada vez lembro-me da minha infância.
+
+C: Mal ela saiu de casa, começou a chover.
+S: Ela saiu de casa. Mal isso aconteceu, começou a chover.
+
+C: Ao chegar em casa, ela notou que havia deixado as chaves dentro do carro.
+S: Ela chegou em casa e notou que havia deixado as chaves dentro do carro.
+
+C: Enquanto estudava para a prova, o telefone tocou várias vezes.
+S: Ele estudava para a prova e o telefone tocou várias vezes.
+
+C: Assim que a empresa abriu as inscrições, muitos candidatos se candidataram.
+S: A empresa abriu as inscrições e muitos candidatos se candidataram.
+
+C: Até que o sol se pôs, eles continuaram a fazer piquenique na praia.
+S: Eles fizeram piquenique na praia até que o sol se pôs.
+
+C: Depois de terminar o trabalho, ela decidiu relaxar assistindo a um filme.
+S: Ela terminou o trabalho e decidiu relaxar assistindo a um filme.
+
+C: Desde que se mudou para a cidade, ele se sente mais feliz.
+S: Ele se mudou para a cidade e se sente mais feliz.
+
+C: Apenas quando chegou ao aeroporto, ele percebeu que havia esquecido seu passaporte.
+S: Ele chegou ao aeroporto e percebeu que havia esquecido seu passaporte.
+
+C: Mal saiu de casa, ele foi pego na chuva.
+S: Ele saiu de casa e foi pego na chuva.
+
+C: Sempre que vai ao mercado, ela compra frutas e legumes frescos.
+S: Ela vai ao mercado e compra frutas e legumes frescos.
+
+C: Cada vez que ouve música, ele se lembra da sua infância.
+S: Ele ouve música e se lembra da sua infância.
+
+C: Depois que terminou as tarefas, ele foi ao cinema.
+S: Ele terminou as tarefas. Em seguida, ele foi ao cinema.
+
+C: Sempre que chove, ela fica em casa.
+S: Chove. Ela fica em casa.
+
+C: Até que ele termine o trabalho, não poderá sair.
+S: Ele ainda não terminou o trabalho. Ele não poderá sair.
+
+C: Assim que receber a resposta, avise-me.
+S: Receba a resposta. Avise-me.
+
+C: Enquanto estudava para a prova, ela tomou café.
+S: Ela estudava para a prova. Ela tomou café.
+
+C: Logo que acordou, ela fez exercícios físicos.
+S: Ela acordou. Ela fez exercícios físicos.
+
+C: Mal o sol se pôs, os pássaros começaram a cantar.
+S: O sol se pôs. Os pássaros começaram a cantar.
+
+C: Cada vez que escuto essa música, me emociono.
+S: Escuto essa música. Me emociono.
+
+C: Antes que os convidados chegassem, ela preparou a comida.
+S: Os convidados não chegaram. Ela preparou a comida.
+
+C: Desde que começou a chover, o trânsito ficou caótico.
+S: Começou a chover. O trânsito ficou caótico.
+
+C: Enquanto esperava o ônibus, a chuva começou a cair.
+S: A chuva começou a cair enquanto eu esperava o ônibus.
+
+C: Sempre que ouço essa música, me lembro da minha infância.
+S: Essa música me faz lembrar da minha infância sempre que eu a ouço.
+
+C: Depois de estudar muito, ela conseguiu passar no exame.
+S: Ela estudou muito e conseguiu passar no exame.
+
+C: Logo que acordei, percebi que tinha perdido meu telefone.
+S: Assim que acordei, percebi que tinha perdido meu telefone.
+
+C: Até que você peça desculpas, não vou falar com você.
+S: Eu não vou falar com você até que você peça desculpas.
+
+C: Antes que a aula comece, vamos revisar o conteúdo.
+S: Vamos revisar o conteúdo antes de a aula começar.
+
+C: Cada vez que assisto a esse filme, choro no final.
+S: Eu choro no final toda vez que assisto a esse filme.
+
+C: Mal ela ouviu a notícia, correu para contar para os amigos.
+S: Assim que ela ouviu a notícia, correu para contar para os amigos.
+
+C: Desde que conheci você, minha vida mudou para melhor.
+S: Minha vida mudou para melhor desde que eu conheci você.
+
+C: Depois que ganhou na loteria, ela decidiu viajar pelo mundo.
+S: Ela decidiu viajar pelo mundo depois de ganhar na loteria.
+
+C: Depois que o sol se pôs, as estrelas começaram a brilhar no céu.
+S: O sol se pôs. Em seguida, as estrelas começaram a brilhar no céu.
+
+C: Enquanto esperava o ônibus, ela conversava com uma amiga.
+S: Ela esperava o ônibus. Ela conversava com uma amiga.
+
+C: Assim que terminou a aula, ele foi para casa.
+S: Ele terminou a aula. Em seguida, ele foi para casa.
+
+C: Mal o show acabou, as pessoas aplaudiram entusiasmadas.
+S: O show acabou. Em seguida, as pessoas aplaudiram entusiasmadas.
+
+C: Sempre que chove, ele lembra de dias tristes.
+S: Chove. Ele lembra de dias tristes.
+
+C: Antes que você vá embora, gostaria de lhe dar uma lembrança.
+S: Você vai embora. Eu gostaria de lhe dar uma lembrança.
+
+C: Cada vez que ela sorri, todos ao redor ficam felizes.
+S: Ela sorri. Todos ao redor ficam felizes.
+
+C: Enquanto estudava para a prova, ela perdeu a noção do tempo.
+S: Ela estudava para a prova. Ela perdeu a noção do tempo.
+
+C: Logo que o telefone tocou, ele atendeu rapidamente.
+S: O telefone tocou. Em seguida, ele atendeu rapidamente.
+
+C: Até que a chuva pare, não podemos sair de casa.
+S: A chuva não parou. Não podemos sair de casa.
+
+C: Quando chegou em casa, Maria imediatamente ligou para o seu amigo.
+S: Maria chegou em casa. Maria imediatamente ligou para o seu amigo.
+
+C: Enquanto estudava para a prova, João percebeu que havia esquecido o material em casa.
+S: João estudava para a prova. João percebeu que havia esquecido o material em casa.
+
+C: Assim que acordou, Ana tomou um banho e se arrumou para o trabalho.
+S: Ana acordou. Ana tomou um banho e se arrumou para o trabalho.
+
+C: Logo que terminou o filme, Lucas desligou a televisão e foi dormir.
+S: Lucas terminou o filme. Lucas desligou a televisão e foi dormir.
+
+C: Até que a chuva parasse, as crianças não saíram para brincar no parque.
+S: As crianças não saíram para brincar no parque. A chuva parou.
+
+C: Depois de terminar o trabalho, Pedro fez uma pausa para tomar um café.
+S: Pedro terminou o trabalho. Pedro fez uma pausa para tomar um café.
+
+C: Desde que começou a dieta, Mariana perdeu 5 quilos.
+S: Mariana começou a dieta. Mariana perdeu 5 quilos.
+
+C: Apenas quando a bateria acabou é que Joana percebeu que não tinha levado o carregador.
+S: A bateria acabou. Joana percebeu que não tinha levado o carregador.
+
+C: Mal o sol nasceu, as pessoas já estavam nas ruas.
+S: O sol nasceu. As pessoas já estavam nas ruas.
+
+C: Sempre que vou ao supermercado, eu compro uma barra de chocolate.
+S: Eu vou ao supermercado. Eu compro uma barra de chocolate.
+
+C: Ao acordar cedo, ela conseguiu terminar todas as tarefas antes do almoço.
+S: Ela acordou cedo. Ela conseguiu terminar todas as tarefas antes do almoço.
+
+C: Enquanto estudava para a prova, ele percebeu que estava sem lápis.
+S: Ele estudava para a prova. Ele percebeu que estava sem lápis.
+
+C: Assim que ele chegou em casa, ligou para a mãe.
+S: Ele chegou em casa. Ele ligou para a mãe.
+
+C: Logo que o sol se pôs, a temperatura começou a cair.
+S: O sol se pôs. A temperatura começou a cair.
+
+C: Até que o avião decolasse, ela ficou ansiosa.
+S: O avião decolou. Ela ficou ansiosa.
+
+C: Depois de sair do trabalho, ele foi para a academia.
+S: Ele saiu do trabalho. Ele foi para a academia.
+
+C: Desde que começou a chover, ele cancelou o passeio ao parque.
+S: Começou a chover. Ele cancelou o passeio ao parque.
+
+C: Apenas quando ele chegou ao cinema é que percebeu que havia esquecido o ingresso.
+S: Ele chegou ao cinema. Ele percebeu que havia esquecido o ingresso.
+
+C: Mal ele saiu de casa, começou a chover.
+S: Ele saiu de casa. Começou a chover.
+
+C: Sempre que ela está triste, ela assiste a um filme para animar-se.
+S: Ela está triste. Ela assiste a um filme para animar-se.
+
+C: Pedro chegou atrasado porque perdeu o ônibus.
+S: Pedro perdeu o ônibus. Pedro chegou atrasado.
+
+C: Enquanto estudava para a prova, Maria recebeu uma ligação importante.
+S: Maria recebeu uma ligação importante. Maria estudava para a prova.
+
+C: Antes de sair de casa, verifique se pegou as chaves.
+S: Verifique se pegou as chaves. Antes de sair de casa.
+
+C: Assim que acordou, João tomou um banho.
+S: João acordou. João tomou um banho.
+
+C: Sempre que chove, a rua fica alagada.
+S: A rua fica alagada. Chove.
+
+C: Depois de assistir ao filme, eles foram jantar.
+S: Eles foram jantar. Assistiram ao filme.
+
+C: Mal terminou de comer, ela começou a estudar.
+S: Ela terminou de comer. Ela começou a estudar.
+
+C: Cada vez que se encontra com ele, ela fica nervosa.
+S: Ela se encontra com ele. Ela fica nervosa.
+
+C: Até que todos cheguem, a festa não começará.
+S: A festa não começará. Todos ainda não chegaram.
+
+C: Desde que começou a praticar esportes, ela se sente mais saudável.
+S: Ela começou a praticar esportes. Ela se sente mais saudável.
+
+C: Depois que terminou de estudar, João foi para a academia.
+S: João terminou de estudar. Em seguida, João foi para a academia.
+
+C: Enquanto assistia ao filme, Maria recebeu uma ligação importante.
+S: Maria assistia ao filme. Durante o filme, Maria recebeu uma ligação importante.
+
+C: Assim que o sol nasceu, os pássaros começaram a cantar.
+S: O sol nasceu. Em seguida, os pássaros começaram a cantar.
+
+C: Até que termine o trabalho, não podemos sair.
+S: O trabalho ainda não terminou. Não podemos sair.
+
+C: Depois de limpar a casa, Pedro foi tomar banho.
+S: Pedro limpou a casa. Em seguida, Pedro foi tomar banho.
+
+C: Desde que chegou à cidade, Ana tem explorado os pontos turísticos.
+S: Ana chegou à cidade. Desde então, Ana tem explorado os pontos turísticos.
+
+C: Cada vez que o telefone toca, minha mãe atende.
+S: O telefone toca. Sempre que isso acontece, minha mãe atende.
+
+C: Mal saiu de casa, Ricardo percebeu que tinha esquecido a carteira.
+S: Ricardo saiu de casa. Logo em seguida, Ricardo percebeu que tinha esquecido a carteira.
+
+C: Antes que anoiteça, precisamos terminar o passeio.
+S: A noite ainda não chegou. Precisamos terminar o passeio antes disso.
+
+C: Sempre que chove, a rua fica alagada.
+S: Chove. Sempre que isso acontece, a rua fica alagada.
+
+C: Enquanto a tempestade se aproximava, os surfistas deixaram o mar.
+S: A tempestade se aproximava. Os surfistas deixaram o mar.
+
+C: Assim que a campainha tocou, o cachorro começou a latir.
+S: A campainha tocou. O cachorro começou a latir.
+
+C: Depois que terminaram o trabalho, os amigos foram jantar juntos.
+S: Eles terminaram o trabalho. Os amigos foram jantar juntos.
+
+C: Logo que amanheceu, os pássaros começaram a cantar.
+S: Amanheceu. Os pássaros começaram a cantar.
+
+C: Cada vez que chove, a rua fica alagada.
+S: Chove. A rua fica alagada.
+
+C: Antes que o sol se pusesse, ele fez um pedido especial.
+S: O sol se pôs. Ele fez um pedido especial.
+
+C: Mal acordei, tomei um café forte.
+S: Acordei. Tomei um café forte.
+
+C: Sempre que ela vê um cachorro, ela fica feliz.
+S: Ela vê um cachorro. Ela fica feliz.
+
+C: Desde que começou a dieta, ela perdeu 5 quilos.
+S: Ela começou a dieta. Ela perdeu 5 quilos.
+
+C: Até que ela termine de estudar, não poderá sair.
+S: Ela terminar de estudar. Ela não poderá sair.
+
+C: Ao chegar à festa, Maria encontrou várias pessoas conversando na sala.
+S: Maria chegou à festa. Maria encontrou várias pessoas conversando na sala.
+
+C: Assim que terminou de ler o livro, Pedro decidiu emprestá-lo para um amigo.
+S: Pedro terminou de ler o livro. Pedro decidiu emprestá-lo para um amigo.
+
+C: Depois que conseguiu o emprego, João começou a se preparar para a mudança.
+S: João conseguiu o emprego. Em seguida, João começou a se preparar para a mudança.
+
+C: Sempre que chove, as ruas ficam alagadas.
+S: Quando chove, as ruas ficam alagadas.
+
+C: Antes de começar a estudar para a prova, Ana ligou para sua amiga para pedir ajuda.
+S: Ana ligou para sua amiga. Ana começou a estudar para a prova.
+
+C: Enquanto fazia o jantar, Maria ouviu uma música que a deixou nostálgica.
+S: Maria fazia o jantar. Maria ouviu uma música que a deixou nostálgica.
+
+C: Cada vez que viaja, Pedro sente saudades de sua família.
+S: Quando viaja, Pedro sente saudades de sua família.
+
+C: Mal chegou ao trabalho, João recebeu uma ligação urgente.
+S: João chegou ao trabalho. João recebeu uma ligação urgente.
+
+C: Logo que acordou, Maria tomou um banho e se arrumou para sair.
+S: Maria acordou. Maria tomou um banho e se arrumou para sair.
+
+C: Até que consiga um novo emprego, Carla vai fazer trabalhos temporários.
+S: Carla vai fazer trabalhos temporários. Carla ainda não conseguiu um novo emprego.
+
+C: Depois que terminou a reunião, João saiu correndo para o aeroporto.
+S: João terminou a reunião. Em seguida, João saiu correndo para o aeroporto.
+
+C: Quando a chuva parar, podemos sair para dar uma caminhada.
+S: A chuva vai parar. Podemos sair para dar uma caminhada.
+
+C: Assim que o sol nascer, iremos acampar na praia.
+S: O sol vai nascer. Iremos acampar na praia.
+
+C: Sempre que toma café, Maria se lembra do cheiro da casa da avó.
+S: Maria toma café. Maria se lembra do cheiro da casa da avó.
+
+C: Mal o telefone tocou, ele atendeu rapidamente.
+S: O telefone tocou. Ele atendeu rapidamente.
+
+C: Antes que termine o ano, precisamos finalizar esse projeto.
+S: O ano vai terminar. Precisamos finalizar esse projeto.
+
+C: Enquanto você estiver fora, vou cuidar do seu cachorro.
+S: Você vai estar fora. Vou cuidar do seu cachorro.
+
+C: Logo que acordar, não se esqueça de tomar seu remédio.
+S: Você vai acordar. Não se esqueça de tomar seu remédio.
+
+C: Cada vez que ouço essa música, sinto uma nostalgia inexplicável.
+S: Eu ouço essa música. Sinto uma nostalgia inexplicável.
+
+C: Até que ele se desculpe, não vou falar com ele novamente.
+S: Ele vai se desculpar. Não vou falar com ele novamente.
+
+C: Ao chegar em casa, Maria percebeu que tinha esquecido a chave.
+S: Maria chegou em casa e percebeu que tinha esquecido a chave.
+
+C: Enquanto estudava para a prova, João recebeu uma ligação importante.
+S: João estudava para a prova e recebeu uma ligação importante.
+
+C: Apenas quando a chuva parar, poderemos sair de casa.
+S: Só poderemos sair de casa quando a chuva parar.
+
+C: Logo que terminar de trabalhar, irei ao supermercado.
+S: Terminando de trabalhar, irei ao supermercado.
+
+C: Antes que você chegue, vou preparar o jantar.
+S: Vou preparar o jantar antes de você chegar.
+
+C: Cada vez que a campainha toca, o cachorro late.
+S: A campainha toca e o cachorro late.
+
+C: Assim que terminar de ler esse livro, vou começar outro.
+S: Terminando de ler esse livro, vou começar outro.
+
+C: Mal ele chegou em casa, começou a chover.
+S: Ele chegou em casa e começou a chover.
+
+C: Sempre que vou à praia, levo protetor solar.
+S: Vou à praia e levo protetor solar.
+
+C: Até que ele peça desculpas, não irei falar com ele.
+S: Não irei falar com ele até que ele peça desculpas.
+
+C: Ao sair da reunião, João percebeu que estava chovendo e decidiu pegar o guarda-chuva.
+S: João saiu da reunião. João percebeu que estava chovendo e decidiu pegar o guarda-chuva.
+
+C: Depois que terminou o trabalho, Maria foi para casa e assistiu televisão.
+S: Maria terminou o trabalho. Em seguida, Maria foi para casa e assistiu televisão.
+
+C: Quando chegou ao restaurante, Ana viu que estava lotado e decidiu ir a outro lugar.
+S: Ana chegou ao restaurante. Ana viu que estava lotado e decidiu ir a outro lugar.
+
+C: Assim que acordou, Paulo fez exercícios físicos e tomou café da manhã.
+S: Paulo acordou. Paulo fez exercícios físicos e tomou café da manhã.
+
+C: Antes de sair de casa, Pedro verificou se tinha as chaves e o celular.
+S: Pedro saiu de casa. Pedro verificou se tinha as chaves e o celular.
+
+C: Cada vez que terminava um livro, Carla escolhia outro para ler.
+S: Carla terminava um livro. Carla escolhia outro para ler.
+
+C: Mal chegou na estação, o ônibus partiu e Joana teve que esperar o próximo.
+S: Joana chegou na estação. O ônibus partiu e Joana teve que esperar o próximo.
+
+C: Sempre que via filmes de suspense, Felipe ficava tenso e ansioso.
+S: Felipe via filmes de suspense. Felipe ficava tenso e ansioso.
+
+C: Logo que começou a chover, as pessoas correram para se abrigar.
+S: Começou a chover. As pessoas correram para se abrigar.
+
+C: Enquanto estudava para a prova, Lucas fez algumas anotações importantes.
+S: Lucas estudava para a prova. Lucas fez algumas anotações importantes.
+
+C: Quando Ana chegou em casa, já estava escuro.
+S: Ana chegou em casa. Já estava escuro.
+
+C: Depois que o sol se pôs, o céu ficou estrelado.
+S: O sol se pôs. O céu ficou estrelado.
+
+C: Sempre que chove, eu fico em casa.
+S: Chove. Eu fico em casa.
+
+C: Assim que a reunião acabar, iremos almoçar.
+S: A reunião acabou. Iremos almoçar.
+
+C: Antes que você saia, preciso falar com você.
+S: Você sair. Preciso falar com você.
+
+C: Cada vez que vou à praia, me divirto muito.
+S: Vou à praia. Me divirto muito.
+
+C: Logo que acordei, percebi que estava atrasado.
+S: Acordei. Percebi que estava atrasado.
+
+C: Enquanto eu estudava, meu colega assistia televisão.
+S: Eu estudava. Meu colega assistia televisão.
+
+C: Depois de se exercitar, ela ficou cansada.
+S: Ela se exercitar. Ficou cansada.
+
+C: Desde que começou a chover, o trânsito ficou mais intenso.
+S: Começou a chover. O trânsito ficou mais intenso.
+
+C: Enquanto estudava para o exame, ele percebeu que estava faltando informações importantes.
+S: Ele estudou para o exame. Ele percebeu que estava faltando informações importantes.
+
+C: Assim que o sol brilhou, as crianças correram para brincar no parque.
+S: O sol brilhou. As crianças correram para brincar no parque.
+
+C: Antes que eles cheguem, eu já terei terminado o trabalho.
+S: Eles ainda não chegaram. Eu já terminei o trabalho.
+
+C: Cada vez que chove, a rua alaga.
+S: Chove. A rua alaga.
+
+C: Mal ele saiu de casa, começou a chover.
+S: Ele saiu de casa. Começou a chover.
+
+C: Desde que começaram a monitorar as atividades, os resultados melhoraram.
+S: Começaram a monitorar as atividades. Os resultados melhoraram.
+
+C: Logo que abriram as inscrições, os ingressos se esgotaram rapidamente.
+S: Abriram as inscrições. Os ingressos se esgotaram rapidamente.
+
+C: Até que o ônibus chegue, eu vou esperar aqui.
+S: O ônibus ainda não chegou. Eu vou esperar aqui.
+
+C: Depois de terminar o jantar, eles assistiram a um filme.
+S: Terminaram o jantar. Eles assistiram a um filme.
+
+C: Sempre que viajo para a praia, aproveito para tomar sol.
+S: Viajo para a praia. Aproveito para tomar sol.
+
+C: Ele estudou até tarde para a prova, mas não conseguiu passar.
+S: Ele estudou até tarde para a prova. Ele não conseguiu passar.
+
+C: Maria começou a chorar quando viu o cachorro abandonado.
+S: Maria viu o cachorro abandonado. Maria começou a chorar.
+
+C: João só foi à festa depois que terminou de trabalhar.
+S: João terminou de trabalhar. Em seguida, João foi à festa.
+
+C: Ela sempre leva guarda-chuva quando sai de casa.
+S: Ela sai de casa. Ela sempre leva guarda-chuva.
+
+C: Assim que a aula acabou, os alunos saíram correndo.
+S: A aula acabou. Em seguida, os alunos saíram correndo.
+
+C: Ele só come carne quando está em um churrasco.
+S: Ele está em um churrasco. Ele só come carne.
+
+C: Ela sempre liga para a mãe antes de dormir.
+S: Ela liga para a mãe. Ela sempre liga antes de dormir.
+
+C: Depois que terminou a palestra, o palestrante respondeu às perguntas do público.
+S: O palestrante respondeu às perguntas do público. Ele terminou a palestra.
+
+C: Ele mal chegou em casa quando recebeu uma ligação do trabalho.
+S: Ele recebeu uma ligação do trabalho. Ele mal chegou em casa.
+
+C: Antes que o filme começasse, todos compraram pipoca.
+S: Todos compraram pipoca. O filme começou.
+
+C: Ao chegar em casa depois do trabalho, João encontrou sua família reunida na sala.
+S: João chegou em casa depois do trabalho. João encontrou sua família reunida na sala.
+
+C: Enquanto estudava para a prova, Maria recebeu uma ligação do seu melhor amigo.
+S: Maria estudava para a prova. Maria recebeu uma ligação do seu melhor amigo.
+
+C: Assim que acordou, Pedro tomou café da manhã.
+S: Pedro acordou. Pedro tomou café da manhã.
+
+C: Até que a chuva pare, não poderemos sair de casa.
+S: A chuva não parou. Não podemos sair de casa.
+
+C: Depois de terminar o trabalho, Carla saiu para jantar com os amigos.
+S: Carla terminou o trabalho. Carla saiu para jantar com os amigos.
+
+C: Desde que começou a dieta, Lucas perdeu 5 quilos.
+S: Lucas começou a dieta. Lucas perdeu 5 quilos.
+
+C: Mal o sol nasceu, as pessoas começaram a fazer exercícios na praia.
+S: O sol nasceu. As pessoas começaram a fazer exercícios na praia.
+
+C: Sempre que vai ao cinema, Pedro escolhe assistir filmes de ação.
+S: Pedro vai ao cinema. Pedro escolhe assistir filmes de ação.
+
+C: Cada vez que o telefone toca, Joana se assusta.
+S: O telefone toca. Joana se assusta.
+
+C: Antes que termine o dia, Luisa precisa entregar o relatório.
+S: O dia vai terminar. Luisa precisa entregar o relatório.
+

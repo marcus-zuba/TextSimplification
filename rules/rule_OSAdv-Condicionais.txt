@@ -1,0 +1,42 @@
+(3) Orações subordinadas adverbiais
+
+d. Condicionais: indicam a situação necessária à ocorrência ou não da ação do verbo
+da principal: se, sem que, caso, exceto, salvo, desde que, contanto que, a menos
+que, a não ser que, etc.
+
+1) Regra: Não DIVIDIR.
+ ->  Manter a ordem: condição -> efeito.
+Exemplos:
+
+Complexa: O lançamento de Emilia é a ameaça que Leonel Brizola faz ao PT, caso os dois partidos não cheguem a um amplo acordo sobre aliança nacional e acordos eleitorais em alguns Estados.
+Simplificada: Caso os dois partidos não cheguem a um amplo acordo sobre aliança nacional e acordos eleitorais em alguns Estados, o lançamento de Emilia é a ameaça que Leonel Brizola faz ao PT.
+
+Complexa: Caso o dinheiro seja considerado "sujo", obtido por meio de fraude em licitações ou desvio de recursos públicos, por exemplo, a Justiça norte-americana pode determinar o congelamento de eventuais depósitos ainda remanescentes em bancos norte-americanos.
+Simplificada: Caso o dinheiro seja considerado "sujo", obtido por meio de fraude em licitações ou desvio de recursos públicos, por exemplo, a Justiça norte-americana pode determinar o congelamento de eventuais depósitos ainda remanescentes em bancos norte-americanos.
+
+Regra para discurso indireto: Não dividir a sentença.
+  -> Manter a ordem: condição -> efeito.
+
+Exemplos:
+
+Complexa: Covas disse que perderia sua linha de argumentação contra a Lei Kandir, se aceitasse essa compensação.
+Simplificada: Covas disse que se aceitasse essa compensação, perderia sua linha de argumentação contra a Lei Kandir.
+
+Regra para condição com negação (por exemplo, marcadores 'a menos que', 'sem
+que', etc.): Não dividir a sentença, iniciá-la com a condição negada (precedida pelo
+marcador 'SE') e finalizada com o efeito (precedido pelo marcador 'ENTÃO').
+ -> Manter a ordem: condição -> efeito.
+
+Exemplos:
+
+Complexa: Palocci disse também que não é preciso discutir a questão com o FMI , a menos que as circunstâncias obriguem o governo a mudar de idéia .
+Simplificada: Palocci disse também que se as circunstâncias não obrigarem o governo a mudar de idéia , então não é preciso discutir a questão com o FMI.
+
+Complexa: Não se avança sem que se juntem as forças .
+Simplificada: Se não se juntarem as forcas, então não se avança .
+
+Complexa: Uma ordem daquelas não seria dada sem que tivesse sido passada por seus superiores .
+Simplificada: Se uma ordem daquelas não tivesse sido passada por seus superiores, então não seria dada .
+
+Complexa: Apóio o candidato do meu partido , a menos que seja o Malan .
+Simplificada: Se o candidato não for Malan, então apóio o candidato do meu partido.

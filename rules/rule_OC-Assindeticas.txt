@@ -1,0 +1,11 @@
+(4) Orações coordenadas
+
+a. Assindéticas
+
+Regra: Dividir a sentença em tantos quantos forem os períodos, eliminando-se o
+delimitador de período e repetindo-se o núcleo do sujeito e o verbo (se oculto) para cada período, quando necessário.
+
+Exemplos:
+
+Complexa: João subiu pela velha escada de madeira mal iluminada, chegou a uma espécie de salão.
+Simplificada: João subiu pela velha escada de madeira mal iluminada. João chegou a uma espécie de salão.

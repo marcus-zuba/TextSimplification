@@ -1,0 +1,26 @@
+(4) Orações coordenadas
+
+b. Sindéticas
+
+5. Explicativas: indicam uma justificativa ou uma explicação ao fato expresso na
+primeira oração: porque, pois (anteposto ao verbo), que, etc.
+Regra: Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada.
+2) Sentença para a cláusula subordinada, excluindo-se o marcador de explicação e
+incluindo-se 'ISSO OCORRE PORQUE' no tempo verbal apropriado. Pode ser
+necessário explicitar o sujeito, constituído do núcleo do termo da oração
+principal, bem como o verbo ou objeto (caso estejam ocultos).
+
+Exemplos:
+
+Complexa: O senador não teve medo de dizer as coisas , pois sabia que a obra só seria publicada após sua morte .
+Simplificada: O senador não teve medo de dizer as coisas. Isso ocorreu porque o senador sabia que a obra só seria publicada após sua morte .
+
+Complexa: Não está na hora ainda de fazer um documento , pois não sabemos quais serão todos os partidos que comporão a frente .
+Simplificada: Não está na hora ainda de fazer um documento. Isso ocorre porque não sabemos quais serão todos os partidos que comporão a frente.
+
+Complexa: Senti a necessidade de fazer uma música especial , porque o pessoal estava fazendo letra em cima de músicas da jovem guarda .
+Simplificada: Senti a necessidade de fazer uma música especial. Isso ocorreu porque o pessoal estava fazendo letra em cima de músicas da jovem guarda.
+
+Complexa: A última esperança de sensibilizar os governantes é Vossa Santidade , porque o problema aflige toda a classe policial .
+Simplificada: A última esperança de sensibilizar os governantes é Vossa Santidade. Isso ocorre porque o problema aflige toda a classe policial .

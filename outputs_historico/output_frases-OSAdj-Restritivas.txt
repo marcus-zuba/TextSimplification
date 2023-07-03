@@ -1,0 +1,4933 @@
+C: A casa que está localizada na esquina é a minha.
+S: A casa está localizada na esquina. A casa é minha.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro eu comprei ontem. O livro é muito interessante.
+
+C: A pessoa que ganhou o prêmio é meu vizinho.
+S: A pessoa ganhou o prêmio. A pessoa é meu vizinho.
+
+C: O cachorro que late toda noite perturba os vizinhos.
+S: O cachorro late toda noite. O cachorro perturba os vizinhos.
+
+C: A estrada que leva à praia está cheia de buracos.
+S: A estrada leva à praia. A estrada está cheia de buracos.
+
+C: O restaurante que serve comida italiana fica no centro da cidade.
+S: O restaurante serve comida italiana. O restaurante fica no centro da cidade.
+
+C: A música que tocou no rádio é do meu cantor favorito.
+S: A música tocou no rádio. A música é do meu cantor favorito.
+
+C: O passeio que fizemos no parque foi muito divertido.
+S: O passeio fizemos no parque. O passeio foi muito divertido.
+
+C: A casa que foi vendida por um preço alto era muito bonita.
+S: A casa foi vendida por um preço alto. A casa era muito bonita.
+
+C: O livro que foi lançado recentemente está fazendo muito sucesso.
+S: O livro foi lançado recentemente. O livro está fazendo muito sucesso.
+
+C: O livro que comprei ontem tem uma história interessante.
+S: O livro tem uma história interessante. 
+
+C: O aluno que tirou a nota máxima recebeu um prêmio.
+S: O aluno recebeu um prêmio. 
+
+C: A casa em que moro é muito espaçosa.
+S: A casa é muito espaçosa. 
+
+C: As flores que comprei hoje estão perfumando o ambiente.
+S: As flores estão perfumando o ambiente. 
+
+C: O filme que assisti ontem foi emocionante.
+S: O filme foi emocionante. 
+
+C: O carro que comprei recentemente está fazendo muito sucesso.
+S: O carro está fazendo muito sucesso. 
+
+C: O cachorro que encontrei na rua estava faminto.
+S: O cachorro estava faminto. 
+
+C: O restaurante que visitei no final de semana serve comida deliciosa.
+S: O restaurante serve comida deliciosa. 
+
+C: O computador que comprei possui uma grande capacidade de armazenamento.
+S: O computador possui uma grande capacidade de armazenamento. 
+
+C: A música que ouvi na rádio me animou bastante.
+S: A música me animou bastante.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Eu comprei ontem.
+
+C: A cidade onde nasci é pequena.
+S: A cidade é pequena. Eu nasci lá.
+
+C: O carro que está estacionado na rua é do meu vizinho.
+S: O carro é do meu vizinho. Ele está estacionado na rua.
+
+C: As notícias que ouvi no rádio são preocupantes.
+S: As notícias são preocupantes. Eu ouvi no rádio.
+
+C: A música que está tocando é minha favorita.
+S: A música é minha favorita. Ela está tocando.
+
+C: O cachorro que vi no parque era muito fofo.
+S: O cachorro era muito fofo. Eu vi no parque.
+
+C: O filme que assisti ontem foi incrível.
+S: O filme foi incrível. Eu assisti ontem.
+
+C: A pessoa com quem conversei era muito simpática.
+S: A pessoa era muito simpática. Eu conversei com ela.
+
+C: A praia onde costumo ir nas férias fica no nordeste.
+S: A praia fica no nordeste. Eu costumo ir nas férias.
+
+C: O restaurante que visitei no fim de semana tinha uma comida deliciosa.
+S: O restaurante tinha uma comida deliciosa. Eu visitei no fim de semana.
+
+C: A casa que está na esquina é amarela.
+S: A casa está na esquina. A casa é amarela.
+
+C: O livro que comprei é muito interessante.
+S: O livro comprei. O livro é muito interessante.
+
+C: O professor que ensina matemática é muito competente.
+S: O professor ensina matemática. O professor é muito competente.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: A praia que visitamos nas férias era paradisíaca.
+S: A praia visitamos nas férias. A praia era paradisíaca.
+
+C: A música que ouvi na rádio era muito animada.
+S: A música ouvi na rádio. A música era muito animada.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei. O carro é vermelho.
+
+C: A cidade que visitei no fim de semana era encantadora.
+S: A cidade visitei no fim de semana. A cidade era encantadora.
+
+C: O filme que assisti no cinema foi indicado ao Oscar.
+S: O filme assisti no cinema. O filme foi indicado ao Oscar.
+
+C: A roupa que comprei na loja estava com preço reduzido.
+S: A roupa comprei na loja. A roupa estava com preço reduzido.
+
+C: O livro que estava na prateleira é muito antigo.
+S: O livro estava na prateleira. O livro é muito antigo.
+
+C: Os alunos que estudam com dedicação conseguem boas notas.
+S: Os alunos estudam com dedicação. Os alunos conseguem boas notas.
+
+C: O cachorro que mordeu o carteiro foi punido.
+S: O cachorro mordeu o carteiro. O cachorro foi punido.
+
+C: A casa que foi construída recentemente é muito bonita.
+S: A casa foi construída recentemente. A casa é muito bonita.
+
+C: A pessoa que está ao telefone é minha mãe.
+S: A pessoa está ao telefone. A pessoa é minha mãe.
+
+C: O carro que está estacionado na rua é do meu vizinho.
+S: O carro está estacionado na rua. O carro é do meu vizinho.
+
+C: A comida que eu preparei está deliciosa.
+S: A comida eu preparei. A comida está deliciosa.
+
+C: O filme que ganhou o Oscar é muito emocionante.
+S: O filme ganhou o Oscar. O filme é muito emocionante.
+
+C: As flores que estão no jardim foram plantadas pela minha avó.
+S: As flores estão no jardim. As flores foram plantadas pela minha avó.
+
+C: Os pássaros que cantam todas as manhãs tornam o ambiente mais agradável.
+S: Os pássaros cantam todas as manhãs. Os pássaros tornam o ambiente mais agradável.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: As roupas que estão na lavanderia precisam ser lavadas.
+S: As roupas estão na lavanderia. As roupas precisam ser lavadas.
+
+C: A pessoa que encontramos ontem é famosa.
+S: A pessoa encontramos ontem. A pessoa é famosa.
+
+C: Os alunos que estudam muito costumam tirar notas altas.
+S: Os alunos estudam muito. Os alunos costumam tirar notas altas.
+
+C: O cachorro que está latindo é do vizinho.
+S: O cachorro está latindo. O cachorro é do vizinho.
+
+C: O problema que você me contou hoje de manhã é complexo.
+S: O problema você me contou hoje de manhã. O problema é complexo.
+
+C: O filme que assisti ontem foi emocionante.
+S: O filme assisti ontem. O filme foi emocionante.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música ouvi no rádio. A música é muito animada.
+
+C: O carro que comprei recentemente é muito econômico.
+S: O carro comprei recentemente. O carro é muito econômico.
+
+C: O bolo que minha avó fez estava delicioso.
+S: O bolo minha avó fez. O bolo estava delicioso.
+
+C: A casa que meu avô construiu próximo à praia é maravilhosa.
+S: A casa é maravilhosa. Meu avô construiu próximo à praia.
+
+C: O livro que comprei ontem na livraria é muito interessante.
+S: O livro é muito interessante. Comprei ontem na livraria.
+
+C: A coruja que vi no parque à noite estava voando silenciosamente.
+S: A coruja estava voando silenciosamente. Vi no parque à noite.
+
+C: As roupas que estão na lavanderia precisam ser retiradas hoje.
+S: As roupas precisam ser retiradas hoje. Estão na lavanderia.
+
+C: A música que tocou no rádio agora é minha favorita.
+S: A música é minha favorita. Tocou no rádio agora.
+
+C: A rua que leva à praia é muito movimentada durante o verão.
+S: A rua é muito movimentada durante o verão. Leva à praia.
+
+C: O time que venceu o campeonato tem jogadores muito talentosos.
+S: O time tem jogadores muito talentosos. Venceu o campeonato.
+
+C: O quadro que comprei para minha sala combina com a decoração.
+S: O quadro combina com a decoração. Comprei para minha sala.
+
+C: A pessoa que me ajudou a carregar as malas foi muito gentil.
+S: A pessoa foi muito gentil. Me ajudou a carregar as malas.
+
+C: O cachorro que encontrei perdido na rua é muito brincalhão.
+S: O cachorro é muito brincalhão. Encontrei perdido na rua.
+
+C: A casa que fica ao lado da minha é muito bonita.
+S: A casa fica ao lado da minha. A casa é muito bonita.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: A menina que ganhou a competição é muito talentosa.
+S: A menina ganhou a competição. A menina é muito talentosa.
+
+C: O cachorro que está latindo é muito bravo.
+S: O cachorro está latindo. O cachorro é muito bravo.
+
+C: A praia que visitei durante as férias é muito bonita.
+S: A praia visitei durante as férias. A praia é muito bonita.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor ensina matemática. O professor é muito inteligente.
+
+C: A música que estava tocando é muito animada.
+S: A música estava tocando. A música é muito animada.
+
+C: A cidade que visitei no último verão é muito acolhedora.
+S: A cidade visitei no último verão. A cidade é muito acolhedora.
+
+C: O filme que assisti no cinema é muito emocionante.
+S: O filme assisti no cinema. O filme é muito emocionante.
+
+C: A comida que provei no restaurante é muito saborosa.
+S: A comida provei no restaurante. A comida é muito saborosa.
+
+C: O livro que comprei é muito interessante.
+S: O livro é muito interessante. Eu comprei o livro.
+
+C: A vizinha que mora ao lado tem um cachorro barulhento.
+S: A vizinha tem um cachorro barulhento. A vizinha mora ao lado.
+
+C: A cidade que visitei no verão era muito bonita.
+S: A cidade era muito bonita. Eu visitei a cidade no verão.
+
+C: O time que venceu o campeonato é muito habilidoso.
+S: O time é muito habilidoso. O time venceu o campeonato.
+
+C: As flores que florescem na primavera são lindas.
+S: As flores são lindas. As flores florescem na primavera.
+
+C: O carro que comprei é muito econômico.
+S: O carro é muito econômico. Eu comprei o carro.
+
+C: A praia que visitamos nas férias era muito movimentada.
+S: A praia era muito movimentada. Nós visitamos a praia nas férias.
+
+C: Os alunos que estudaram para a prova tiraram notas boas.
+S: Os alunos tiraram notas boas. Os alunos estudaram para a prova.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música é muito animada. Eu ouvi a música no rádio.
+
+C: A comida que experimentei no restaurante estava deliciosa.
+S: A comida estava deliciosa. Eu experimentei a comida no restaurante.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria é muito interessante.
+
+C: A pessoa que ganhou o prêmio é meu amigo.
+S: A pessoa ganhou o prêmio é meu amigo.
+
+C: Os jogadores que treinam todos os dias são os mais dedicados.
+S: Os jogadores treinam todos os dias são os mais dedicados.
+
+C: A cidade onde nasci é muito bonita.
+S: A cidade nasci é muito bonita.
+
+C: O carro que meu pai comprou é azul.
+S: O carro meu pai comprou é azul.
+
+C: O filme que assisti no cinema é muito emocionante.
+S: O filme assisti no cinema é muito emocionante.
+
+C: O professor que ensina matemática é muito bom.
+S: O professor ensina matemática é muito bom.
+
+C: A praia onde passei as férias é linda.
+S: A praia passei as férias é linda.
+
+C: O quadro que vi no museu é uma obra de arte.
+S: O quadro vi no museu é uma obra de arte.
+
+C: A música que escutei no rádio é a minha preferida.
+S: A música escutei no rádio é a minha preferida.
+
+C: O aluno que estudou bastante conseguiu tirar uma boa nota na prova.
+S: O aluno estudou bastante. O aluno conseguiu tirar uma boa nota na prova.
+
+C: A casa em que moro é muito bonita.
+S: A casa que moro é muito bonita.
+
+C: A empresa cujos funcionários fizeram greve ficou paralisada por uma semana.
+S: A empresa ficou paralisada por uma semana. Os funcionários fizeram greve.
+
+C: O livro que li foi muito emocionante.
+S: O livro foi muito emocionante. Eu li o livro.
+
+C: A rua onde passei minha infância é cheia de lembranças.
+S: A rua passei minha infância é cheia de lembranças.
+
+C: A apresentação do grupo de dança que assisti ontem foi incrível.
+S: A apresentação do grupo de dança foi incrível. Eu assisti ontem.
+
+C: O ator cuja performance foi premiada recebeu muitos elogios.
+S: O ator recebeu muitos elogios. Sua performance foi premiada.
+
+C: A cidade onde nasci é pequena, mas acolhedora.
+S: A cidade nasci é pequena. A cidade é acolhedora.
+
+C: O carro que comprei é azul e bastante econômico.
+S: O carro comprei é azul. O carro é bastante econômico.
+
+C: A música cuja letra é inspiradora me emociona.
+S: A música me emociona. A letra é inspiradora.
+
+C: A criança que mora ao lado sempre chora muito.
+S: A criança mora ao lado. A criança sempre chora muito.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: A casa que foi construída há 100 anos ainda está de pé.
+S: A casa foi construída há 100 anos. A casa ainda está de pé.
+
+C: A cidade onde nasci é pequena.
+S: A cidade nasci é pequena. A cidade é pequena.
+
+C: O carro que meu pai comprou é azul.
+S: O carro meu pai comprou é azul. O carro é azul.
+
+C: A música que toca no rádio é a minha favorita.
+S: A música toca no rádio. A música é a minha favorita.
+
+C: O amigo que conheci na faculdade é muito inteligente.
+S: O amigo conheci na faculdade. O amigo é muito inteligente.
+
+C: O restaurante onde fui ontem serve comida italiana.
+S: O restaurante fui ontem. O restaurante serve comida italiana.
+
+C: A praia que visitamos no verão é muito bonita.
+S: A praia visitamos no verão. A praia é muito bonita.
+
+C: A série que estou assistindo na Netflix é viciante.
+S: A série estou assistindo na Netflix. A série é viciante.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: Eu comprei um livro ontem. O livro é muito interessante.
+
+C: A casa cujo telhado está quebrado precisa ser consertada.
+S: O telhado da casa está quebrado. A casa precisa ser consertada.
+
+C: O filme que ganhou o Oscar foi dirigido por um brasileiro.
+S: Um brasileiro dirigiu o filme que ganhou o Oscar.
+
+C: O aluno que estudou muito passou no exame.
+S: O aluno passou no exame. O aluno estudou muito.
+
+C: A praia onde passamos as férias é muito bonita.
+S: Nós passamos as férias em uma praia. A praia é muito bonita.
+
+C: O carro em que eu estava quebrou na estrada.
+S: Eu estava em um carro. O carro quebrou na estrada.
+
+C: As roupas que estavam no varal foram molhadas pela chuva.
+S: As roupas estavam no varal. A chuva molhou as roupas.
+
+C: A comida que eu comi no restaurante estava deliciosa.
+S: Eu comi uma comida no restaurante. A comida estava deliciosa.
+
+C: A cidade onde eu nasci é muito pequena.
+S: Eu nasci em uma cidade. A cidade é muito pequena.
+
+C: O quadro que está pendurado na parede foi pintado por minha avó.
+S: Minha avó pintou um quadro. O quadro está pendurado na parede.
+
+C: A casa que fica na esquina é amarela.
+S: A casa fica na esquina. A casa é amarela.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: A pessoa que mora ao lado é minha amiga.
+S: A pessoa mora ao lado. A pessoa é minha amiga.
+
+C: O carro que bati na semana passada será consertado em breve.
+S: O carro bati na semana passada. O carro será consertado em breve.
+
+C: O restaurante que frequento sempre serve comida deliciosa.
+S: O restaurante frequento sempre. O restaurante serve comida deliciosa.
+
+C: A música que ouvi na rádio é a minha favorita.
+S: A música ouvi na rádio. A música é a minha favorita.
+
+C: A cidade que visitei no verão passado é muito bonita.
+S: A cidade visitei no verão passado. A cidade é muito bonita.
+
+C: O filme que assisti no cinema é baseado em um livro.
+S: O filme assisti no cinema. O filme é baseado em um livro.
+
+C: O parque que fica perto da minha casa é perfeito para caminhar.
+S: O parque fica perto da minha casa. O parque é perfeito para caminhar.
+
+C: A pessoa que ganhou o prêmio foi muito sorteada.
+S: A pessoa ganhou o prêmio. A pessoa foi muito sorteada.
+
+C: O livro que comprei ontem na livraria é muito interessante.
+S: O livro que comprei ontem na livraria é muito interessante.
+
+C: As pessoas que moram nesta rua são muito amigáveis.
+S: As pessoas que moram nesta rua são muito amigáveis.
+
+C: O carro que ele comprou é vermelho.
+S: O carro que ele comprou é vermelho.
+
+C: Os alunos que estudam muito sempre tiram boas notas.
+S: Os alunos que estudam muito sempre tiram boas notas.
+
+C: A cidade que visitei nas férias tem belas praias.
+S: A cidade que visitei nas férias tem belas praias.
+
+C: O celular que estou usando agora é novo.
+S: O celular que estou usando agora é novo.
+
+C: As músicas que ela canta são lindas.
+S: As músicas que ela canta são lindas.
+
+C: Os livros que estão na estante são de mistério.
+S: Os livros que estão na estante são de mistério.
+
+C: O cachorro que vi no parque é muito brincalhão.
+S: O cachorro que vi no parque é muito brincalhão.
+
+C: Os filmes que assisti no cinema foram emocionantes.
+S: Os filmes que assisti no cinema foram emocionantes.
+
+C: Os carros que estavam estacionados na rua foram multados.
+S: Os carros foram multados.
+C: O livro que eu comprei na loja estava em promoção.
+S: O livro estava em promoção.
+C: As crianças que brincavam no parque estavam felizes.
+S: As crianças estavam felizes.
+C: A música que toca no rádio é a minha favorita.
+S: A música é a minha favorita.
+C: O vestido que ela usou na festa era muito bonito.
+S: O vestido era muito bonito.
+C: O cachorro que mora na casa ao lado late a noite toda.
+S: O cachorro late a noite toda.
+C: Os prédios que foram construídos naquele terreno são modernos.
+S: Os prédios são modernos.
+C: As pessoas que estavam na fila conseguiram ingressos para o show.
+S: As pessoas conseguiram ingressos para o show.
+C: O filme que ganhou o prêmio de melhor do ano foi muito elogiado.
+S: O filme foi muito elogiado.
+C: Os alunos que estudam naquela escola têm boas oportunidades.
+S: Os alunos têm boas oportunidades.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Eu comprei ontem.
+
+C: A menina que mora ao lado estuda piano.
+S: A menina estuda piano. Ela mora ao lado.
+
+C: O cachorro que encontramos na rua é muito simpático.
+S: O cachorro é muito simpático. Nós encontramos na rua.
+
+C: O filme que ganhou o prêmio foi dirigido por um brasileiro.
+S: O filme foi dirigido por um brasileiro. Ele ganhou o prêmio.
+
+C: As plantas que estão na varanda precisam ser regadas todos os dias.
+S: As plantas precisam ser regadas todos os dias. Elas estão na varanda.
+
+C: O carro que comprei recentemente é vermelho.
+S: O carro é vermelho. Eu comprei recentemente.
+
+C: A comida que você preparou estava deliciosa.
+S: A comida estava deliciosa. Você preparou.
+
+C: A festa que aconteceu na semana passada foi muito animada.
+S: A festa foi muito animada. Ela aconteceu na semana passada.
+
+C: A música que tocou na rádio é minha favorita.
+S: A música é minha favorita. Ela tocou na rádio.
+
+C: O pacote que chegou hoje pela manhã veio de um amigo.
+S: O pacote veio de um amigo. Ele chegou hoje pela manhã.
+
+C: O livro que está na estante é meu.
+S: O livro está na estante. O livro é meu.
+
+C: O cachorro que fugiu do quintal foi encontrado na rua.
+S: O cachorro fugiu do quintal. O cachorro foi encontrado na rua.
+
+C: A casa que foi construída no ano passado está à venda.
+S: A casa foi construída no ano passado. A casa está à venda.
+
+C: A música que tocou no rádio é minha preferida.
+S: A música tocou no rádio. A música é minha preferida.
+
+C: O filme que ganhou o prêmio de melhor do ano será exibido no cinema.
+S: O filme ganhou o prêmio de melhor do ano. O filme será exibido no cinema.
+
+C: A pessoa que você conheceu na festa é minha irmã.
+S: A pessoa você conheceu na festa. A pessoa é minha irmã.
+
+C: O lugar onde eu fui de férias é lindo.
+S: O lugar eu fui de férias. O lugar é lindo.
+
+C: O time de futebol que ganhou o campeonato é o meu favorito.
+S: O time de futebol ganhou o campeonato. O time é o meu favorito.
+
+C: A comida que eu preparei ficou deliciosa.
+S: A comida eu preparei. A comida ficou deliciosa.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa me ajudou. A pessoa foi muito gentil.
+
+C: O livro que comprei ontem foi muito bom.
+S: Comprei um livro ontem. O livro foi muito bom.
+
+C: A casa em que ela mora é muito bonita.
+S: Ela mora em uma casa. A casa é muito bonita.
+
+C: O carro que eu dirijo tem um ótimo desempenho.
+S: Eu dirijo um carro. O carro tem um ótimo desempenho.
+
+C: A pessoa de quem estou falando é muito inteligente.
+S: Estou falando de uma pessoa. A pessoa é muito inteligente.
+
+C: O filme que assisti no cinema foi emocionante.
+S: Assisti um filme no cinema. O filme foi emocionante.
+
+C: O lugar onde nos encontramos é muito aconchegante.
+S: Nos encontramos em um lugar. O lugar é muito aconchegante.
+
+C: A música que tocou no rádio é minha favorita.
+S: Tocou uma música no rádio. A música é minha favorita.
+
+C: O prato que degustei no restaurante estava delicioso.
+S: Degustei um prato no restaurante. O prato estava delicioso.
+
+C: A pessoa a quem pedi ajuda foi muito gentil.
+S: Pedi ajuda a uma pessoa. A pessoa foi muito gentil.
+
+C: A cidade onde nasci é pequena, mas muito acolhedora.
+S: Nasci em uma cidade. A cidade é pequena, mas muito acolhedora.
+
+C: O filme que eu assisti ontem era muito emocionante.
+S: Eu assisti um filme ontem. O filme era muito emocionante.
+
+C: A casa onde ela mora é muito bonita.
+S: Ela mora em uma casa. A casa é muito bonita.
+
+C: O livro que eu comprei tem uma história interessante.
+S: Eu comprei um livro. O livro tem uma história interessante.
+
+C: A música que ele está ouvindo é muito animada.
+S: Ele está ouvindo uma música. A música é muito animada.
+
+C: O restaurante onde nós jantamos tem uma comida deliciosa.
+S: Nós jantamos em um restaurante. O restaurante tem uma comida deliciosa.
+
+C: A pessoa que inventou esse aplicativo é muito inteligente.
+S: Alguém inventou esse aplicativo. A pessoa é muito inteligente.
+
+C: O vestido que ela está usando é muito elegante.
+S: Ela está usando um vestido. O vestido é muito elegante.
+
+C: O time que ganhou o campeonato foi muito competente.
+S: Um time ganhou o campeonato. O time foi muito competente.
+
+C: A cidade onde eu nasci é muito bonita.
+S: Eu nasci em uma cidade. A cidade é muito bonita.
+
+C: O quadro que está pendurado na parede é muito bonito.
+S: Tem um quadro pendurado na parede. O quadro é muito bonito.
+
+C: O livro que comprei na livraria tem uma capa muito bonita.
+S: O livro tem uma capa muito bonita. Eu comprei na livraria.
+
+C: O cachorro que encontrei na rua estava perdido.
+S: O cachorro estava perdido. Eu encontrei na rua.
+
+C: A casa que eles construíram no campo é muito grande.
+S: A casa é muito grande. Eles construíram no campo.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor é muito inteligente. Ele ensina matemática.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música é a minha favorita. Tocou no rádio.
+
+C: A cor que escolhi para pintar a parede é azul.
+S: A cor é azul. Eu escolhi para pintar a parede.
+
+C: A cidade que visitei nas férias tem praias maravilhosas.
+S: A cidade tem praias maravilhosas. Eu visitei nas férias.
+
+C: O bolo que comi na festa estava delicioso.
+S: O bolo estava delicioso. Eu comi na festa.
+
+C: O carro que meu pai comprou é vermelho.
+S: O carro é vermelho. Meu pai comprou.
+
+C: A roupa que comprei na loja ficou perfeita em mim.
+S: A roupa ficou perfeita em mim. Eu comprei na loja.
+
+C: Os livros que estão na estante são muito antigos.
+S: Os livros estão na estante. Os livros são muito antigos.
+
+C: A casa onde mora o meu amigo fica perto da praia.
+S: A casa mora o meu amigo. A casa fica perto da praia.
+
+C: A camiseta que comprei ontem está suja.
+S: A camiseta comprei ontem. A camiseta está suja.
+
+C: O filme que assisti ontem era muito emocionante.
+S: O filme assisti ontem. O filme era muito emocionante.
+
+C: O carro que comprei é da cor vermelha.
+S: O carro comprei. O carro é da cor vermelha.
+
+C: A comida que você preparou estava deliciosa.
+S: A comida você preparou. A comida estava deliciosa.
+
+C: A lista de livros que ela indicou para leitura é muito interessante.
+S: A lista de livros ela indicou para leitura. A lista é muito interessante.
+
+C: A festa onde encontramos o João foi muito animada.
+S: A festa encontramos o João. A festa foi muito animada.
+
+C: O filme que assisti ontem à noite foi indicado ao Oscar.
+S: O filme assisti ontem à noite. O filme foi indicado ao Oscar.
+
+C: O livro que li recentemente tem um final surpreendente.
+S: O livro li recentemente. O livro tem um final surpreendente.
+
+C: As pessoas que moram perto da praia têm mais oportunidades de praticar esportes aquáticos.
+S: As pessoas que moram perto da praia têm mais oportunidades. As pessoas podem praticar esportes aquáticos.
+
+C: O livro que eu comprei ontem tem uma capa muito bonita.
+S: O livro que eu comprei ontem tem uma capa muito bonita.
+
+C: O time que venceu o campeonato foi muito aplaudido pelo público.
+S: O time que venceu o campeonato foi muito aplaudido pelo público.
+
+C: Os pássaros que voam alto são difíceis de serem avistados.
+S: Os pássaros que voam alto são difíceis de serem avistados.
+
+C: A música que ele compôs é muito emocionante.
+S: A música que ele compôs é muito emocionante.
+
+C: O filme que ganhou o Oscar foi um grande sucesso de bilheteria.
+S: O filme que ganhou o Oscar foi um grande sucesso de bilheteria.
+
+C: As plantas que precisam de muita luz solar devem ser colocadas perto da janela.
+S: As plantas que precisam de muita luz solar devem ser colocadas perto da janela.
+
+C: O carro que eu aluguei era muito confortável.
+S: O carro que eu aluguei era muito confortável.
+
+C: Os alunos que estudam com dedicação costumam ter melhores notas.
+S: Os alunos que estudam com dedicação costumam ter melhores notas.
+
+C: O cachorro que latiu durante a noite acordou toda a vizinhança.
+S: O cachorro que latiu durante a noite acordou toda a vizinhança.
+
+C: O livro que comprei na livraria é muito interessante.
+S: Comprei o livro na livraria. O livro é muito interessante.
+
+C: A pessoa que mora ao lado da minha casa é muito simpática.
+S: A pessoa que mora ao lado da minha casa é muito simpática.
+
+C: O cachorro que fugiu do quintal foi encontrado no parque.
+S: O cachorro fugiu do quintal. O cachorro foi encontrado no parque.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade que visitei nas férias é muito bonita.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música que tocou no rádio é a minha favorita.
+
+C: O prato que eu comi no restaurante estava delicioso.
+S: O prato que eu comi no restaurante estava delicioso.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme que assisti no cinema foi muito emocionante.
+
+C: A comida que eu pedi no delivery estava fria.
+S: A comida que eu pedi no delivery estava fria.
+
+C: A pessoa que me ajudou no trabalho é muito competente.
+S: A pessoa que me ajudou no trabalho é muito competente.
+
+C: O carro que comprei é novo e econômico.
+S: O carro que comprei é novo e econômico.
+
+C: A casa que foi construída há mais de cem anos tem uma arquitetura única.
+S: A casa foi construída há mais de cem anos. A casa tem uma arquitetura única.
+
+C: As pessoas que moram naquela rua são muito amigáveis.
+S: As pessoas moram naquela rua. As pessoas são muito amigáveis.
+
+C: O livro que eu li recentemente foi muito emocionante.
+S: O livro eu li recentemente. O livro foi muito emocionante.
+
+C: O cachorro que foi resgatado das ruas agora tem um lar amoroso.
+S: O cachorro foi resgatado das ruas. O cachorro tem um lar amoroso agora.
+
+C: Os documentos que foram encontrados foram encaminhados para análise.
+S: Os documentos foram encontrados. Os documentos foram encaminhados para análise.
+
+C: O carro que comprei recentemente apresentou um defeito grave.
+S: O carro comprei recentemente. O carro apresentou um defeito grave.
+
+C: A música que ouvi no rádio me lembrou da minha infância.
+S: A música ouvi no rádio. A música me lembrou da minha infância.
+
+C: A criança que tirou notas altas em todas as provas recebeu um prêmio.
+S: A criança tirou notas altas em todas as provas. A criança recebeu um prêmio.
+
+C: As flores que foram plantadas no jardim estão desabrochando.
+S: As flores foram plantadas no jardim. As flores estão desabrochando.
+
+C: O filme que assisti no cinema me fez refletir sobre a vida.
+S: O filme assisti no cinema. O filme me fez refletir sobre a vida.
+
+C: O livro que estava na prateleira caiu no chão.
+S: O livro estava na prateleira. O livro caiu no chão.
+
+C: A pessoa que eu conheci ontem é muito simpática.
+S: A pessoa que eu conheci ontem é muito simpática.
+
+C: O time que ganhou o jogo comemorou a vitória.
+S: O time ganhou o jogo. O time comemorou a vitória.
+
+C: As flores que estão no jardim precisam ser regadas todos os dias.
+S: As flores estão no jardim. As flores precisam ser regadas todos os dias.
+
+C: O carro que comprei recentemente é muito confortável.
+S: O carro que comprei recentemente é muito confortável.
+
+C: A cidade que visitamos no ano passado era muito bonita.
+S: A cidade que visitamos no ano passado era muito bonita.
+
+C: A música que estava tocando no rádio era a minha favorita.
+S: A música estava tocando no rádio. A música era a minha favorita.
+
+C: A casa que foi construída há muitos anos precisa de reparos.
+S: A casa foi construída há muitos anos. A casa precisa de reparos.
+
+C: O prato que pedi no restaurante estava delicioso.
+S: O prato pedi no restaurante. O prato estava delicioso.
+
+C: A bicicleta que ganhei de presente é vermelha.
+S: A bicicleta ganhei de presente é vermelha.
+
+C: A escola que fica perto da minha casa oferece cursos de idiomas.
+S: A escola fica perto da minha casa. A escola oferece cursos de idiomas.
+
+C: As crianças que estudam muito conseguem boas notas.
+S: As crianças estudam muito. As crianças conseguem boas notas.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: O cachorro que mora ao lado do meu quintal late a noite toda.
+S: O cachorro mora ao lado do meu quintal. O cachorro late a noite toda.
+
+C: O professor que ensina matemática na minha escola é muito inteligente.
+S: O professor ensina matemática na minha escola. O professor é muito inteligente.
+
+C: A cidade que visitei nas férias possui praias maravilhosas.
+S: A cidade visitei nas férias. A cidade possui praias maravilhosas.
+
+C: A música que estava tocando no rádio é minha favorita.
+S: A música estava tocando no rádio. A música é minha favorita.
+
+C: A casa que foi construída na colina tem uma vista incrível.
+S: A casa foi construída na colina. A casa tem uma vista incrível.
+
+C: O carro que comprei no mês passado é muito econômico.
+S: O carro comprei no mês passado. O carro é muito econômico.
+
+C: O filme que assisti ontem no cinema foi emocionante.
+S: O filme assisti ontem no cinema. O filme foi emocionante.
+
+C: A mulher que estava no parque era alta e loira.
+S: A mulher estava no parque. A mulher era alta e loira.
+
+C: O cachorro que foi adotado pelo menino é muito brincalhão.
+S: O cachorro foi adotado pelo menino. O cachorro é muito brincalhão.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro eu comprei ontem. O livro é muito interessante.
+
+C: O restaurante que fica perto da minha casa serve comida italiana.
+S: O restaurante fica perto da minha casa. O restaurante serve comida italiana.
+
+C: O computador que ganhei de presente é muito rápido.
+S: O computador ganhei de presente. O computador é muito rápido.
+
+C: O carro que bateu na árvore estava em alta velocidade.
+S: O carro bateu na árvore. O carro estava em alta velocidade.
+
+C: A mulher que mora ao lado tem dois gatos.
+S: A mulher mora ao lado. A mulher tem dois gatos.
+
+C: O filme que assisti ontem foi muito emocionante.
+S: O filme assisti ontem. O filme foi muito emocionante.
+
+C: O amigo que me emprestou dinheiro é muito generoso.
+S: O amigo me emprestou dinheiro. O amigo é muito generoso.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor ensina matemática. O professor é muito inteligente.
+
+C: O carro que estava estacionado na rua foi levado pelo guincho.
+S: O carro estava estacionado na rua. O carro foi levado pelo guincho.
+
+C: A pessoa que ganhou o prêmio é muito feliz.
+S: A pessoa ganhou o prêmio. A pessoa é muito feliz.
+
+C: A rua que leva ao parque é muito movimentada.
+S: A rua leva ao parque. A rua é muito movimentada.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro eu comprei ontem. O livro é muito interessante.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música tocou no rádio. A música é a minha favorita.
+
+C: A pessoa que é honesta não mente.
+S: A pessoa é honesta. A pessoa não mente.
+
+C: O filme que eu vou assistir hoje é de terror.
+S: O filme eu vou assistir hoje. O filme é de terror.
+
+C: O trabalho que eu fiz foi muito elogiado.
+S: O trabalho eu fiz. O trabalho foi muito elogiado.
+
+C: A empresa que está contratando é muito conceituada.
+S: A empresa está contratando. A empresa é muito conceituada.
+
+C: O aluno que tirou a nota máxima foi premiado.
+S: O aluno tirou a nota máxima. O aluno foi premiado.
+
+C: As pessoas que estão esperando na fila são pacientes.
+S: As pessoas estão esperando na fila. As pessoas são pacientes.
+
+C: A empresa que foi fundada em 1990 está em expansão.
+S: A empresa foi fundada em 1990. A empresa está em expansão.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: A casa que é azul pertence ao meu vizinho.
+S: A casa é azul. A casa pertence ao meu vizinho.
+
+C: As crianças que brincam no parque são felizes.
+S: As crianças brincam no parque. As crianças são felizes.
+
+C: O aluno que ganhou o prêmio é muito dedicado.
+S: O aluno ganhou o prêmio. O aluno é muito dedicado.
+
+C: A cidade que visitei nas minhas férias é linda.
+S: A cidade visitei nas minhas férias. A cidade é linda.
+
+C: O carro que foi roubado foi recuperado pela polícia.
+S: O carro foi roubado. O carro foi recuperado pela polícia.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música tocou no rádio. A música é a minha favorita.
+
+C: O filme que assisti no cinema é emocionante.
+S: O filme assisti no cinema. O filme é emocionante.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+      
+C: O homem que estava na porta era meu vizinho.
+S: O homem estava na porta. O homem era meu vizinho.
+      
+C: A casa em que moro é pequena.
+S: A casa em que moro é pequena.
+      
+C: A música que ouvi no rádio era muito animada.
+S: A música ouvi no rádio era muito animada.
+      
+C: As pessoas que estavam na festa se divertiram muito.
+S: As pessoas estavam na festa. As pessoas se divertiram muito.
+      
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante estava deliciosa.
+      
+C: O cachorro que mora na rua é muito brincalhão.
+S: O cachorro mora na rua é muito brincalhão.
+      
+C: O carro que comprei é um modelo antigo.
+S: O carro comprei é um modelo antigo.
+      
+C: A roupa que usei na festa era muito elegante.
+S: A roupa usei na festa era muito elegante.
+      
+C: A cidade em que nasci é pequena.
+S: A cidade em que nasci é pequena.
+
+C: A cidade que eu nasci é bastante pequena.
+S: Eu nasci em uma cidade bastante pequena.
+
+C: O aluno que estudou muito tirou uma nota alta na prova.
+S: O aluno estudou muito. O aluno tirou uma nota alta na prova.
+
+C: O carro que foi roubado nunca foi encontrado.
+S: O carro foi roubado. O carro nunca foi encontrado.
+
+C: A música que tocou na festa era muito animada.
+S: A música que tocou na festa era muito animada.
+
+C: A criança que estava chorando no parque foi consolada pela mãe.
+S: A criança estava chorando no parque. A criança foi consolada pela mãe.
+
+C: O livro que eu estou lendo é muito interessante.
+S: O livro que eu estou lendo é muito interessante.
+
+C: O time que venceu o campeonato foi aclamado pelos torcedores.
+S: O time venceu o campeonato. O time foi aclamado pelos torcedores.
+
+C: A casa que foi construída ao lado da minha é muito bonita.
+S: A casa foi construída ao lado da minha. A casa é muito bonita.
+
+C: O prato que foi servido no restaurante era delicioso.
+S: O prato foi servido no restaurante. O prato era delicioso.
+
+C: A pessoa que ganhou o prêmio ficou muito feliz.
+S: A pessoa ganhou o prêmio. A pessoa ficou muito feliz.
+
+C: A casa que fica na esquina é muito bonita.
+S: A casa fica na esquina. A casa é muito bonita.
+
+C: O livro que comprei no fim de semana é muito interessante.
+S: O livro comprei no fim de semana. O livro é muito interessante.
+
+C: A praia que vamos nas férias é paradisíaca.
+S: A praia vamos nas férias. A praia é paradisíaca.
+
+C: A música que ouvi no rádio é minha favorita.
+S: A música ouvi no rádio. A música é minha favorita.
+
+C: A cidade que visitei no verão é cheia de história.
+S: A cidade visitei no verão. A cidade é cheia de história.
+
+C: O filme que assisti ontem à noite foi muito emocionante.
+S: O filme assisti ontem à noite. O filme foi muito emocionante.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: O carro que dirigi no final de semana era muito rápido.
+S: O carro dirigi no final de semana. O carro era muito rápido.
+
+C: A festa que fui no sábado foi incrível.
+S: A festa fui no sábado. A festa foi incrível.
+
+C: A roupa que comprei na loja era muito cara.
+S: A roupa comprei na loja. A roupa era muito cara.
+
+C: O livro que comprei na livraria é muito interessante.
+    S: O livro comprei na livraria. O livro é muito interessante.
+
+    C: A pessoa que me ajudou no trabalho é muito competente.
+    S: A pessoa me ajudou no trabalho. A pessoa é muito competente.
+
+    C: O cachorro que encontramos na rua estava perdido.
+    S: O cachorro encontramos na rua. O cachorro estava perdido.
+
+    C: A música que ouvi ontem é da minha banda favorita.
+    S: A música ouvi ontem. A música é da minha banda favorita.
+
+    C: O computador que comprei custou muito caro.
+    S: O computador comprei. O computador custou muito caro.
+
+    C: A casa que visitei no fim de semana era muito bonita.
+    S: A casa visitei no fim de semana. A casa era muito bonita.
+
+    C: A comida que comi no restaurante era deliciosa.
+    S: A comida comi no restaurante. A comida era deliciosa.
+
+    C: O filme que assisti no cinema foi emocionante.
+    S: O filme assisti no cinema. O filme foi emocionante.
+
+    C: A pessoa que ganhou o prêmio era muito talentosa.
+    S: A pessoa ganhou o prêmio. A pessoa era muito talentosa.
+
+    C: O livro que emprestei a ela é o meu favorito.
+    S: O livro emprestei a ela. O livro é o meu favorito.
+
+C: A menina que mora na casa ao lado é minha melhor amiga.
+S: A menina mora na casa ao lado. A menina é minha melhor amiga.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro eu comprei ontem. O livro é muito interessante.
+
+C: O cachorro que foi adotado pelo casal é muito brincalhão.
+S: O cachorro foi adotado pelo casal. O cachorro é muito brincalhão.
+
+C: O jogo que passou na televisão foi muito emocionante.
+S: O jogo passou na televisão. O jogo foi muito emocionante.
+
+C: A música que tocou na festa é minha favorita.
+S: A música tocou na festa. A música é minha favorita.
+
+C: O celular que eu ganhei no meu aniversário é muito moderno.
+S: O celular eu ganhei no meu aniversário. O celular é muito moderno.
+
+C: A casa que foi construída no final da rua é muito bonita.
+S: A casa foi construída no final da rua. A casa é muito bonita.
+
+C: O filme que assisti no cinema é uma comédia romântica.
+S: O filme assisti no cinema. O filme é uma comédia romântica.
+
+C: O livro que estudei para o exame me ajudou muito.
+S: O livro estudei para o exame. O livro me ajudou muito.
+
+C: O carro que foi comprado pelo meu pai é vermelho.
+S: O carro foi comprado pelo meu pai. O carro é vermelho.
+
+C: O livro que comprei na livraria tem uma linda capa.
+S: O livro comprei na livraria. O livro tem uma linda capa.
+
+C: As pessoas que moram perto do parque costumam caminhar todos os dias.
+S: As pessoas moram perto do parque. As pessoas costumam caminhar todos os dias.
+
+C: O aluno que fez a prova com tranquilidade tirou a melhor nota.
+S: O aluno fez a prova com tranquilidade. O aluno tirou a melhor nota.
+
+C: O carro que comprei recentemente está apresentando problemas mecânicos.
+S: O carro comprei recentemente. O carro está apresentando problemas mecânicos.
+
+C: O cachorro que encontrei na rua estava perdido.
+S: O cachorro encontrei na rua. O cachorro estava perdido.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música ouvi no rádio. A música é muito animada.
+
+C: O quadro que comprei na galeria de arte é uma obra de arte.
+S: O quadro comprei na galeria de arte. O quadro é uma obra de arte.
+
+C: A casa que visitei no final de semana é muito bonita.
+S: A casa visitei no final de semana. A casa é muito bonita.
+
+C: A cidade que visitei nas férias possui praias maravilhosas.
+S: A cidade visitei nas férias. A cidade possui praias maravilhosas.
+
+C: O restaurante que comi ontem tem um ótimo serviço.
+S: O restaurante comi ontem. O restaurante tem um ótimo serviço.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: A casa onde moro é muito bonita.
+S: A casa moro é muito bonita.
+
+C: A pessoa que me ajudou é minha amiga.
+S: A pessoa me ajudou é minha amiga.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme assisti no cinema. O filme foi emocionante.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei é vermelho.
+
+C: A cidade onde nasci é pequena.
+S: A cidade nasci é pequena.
+
+C: O restaurante onde jantamos serve comida italiana.
+S: O restaurante jantamos serve comida italiana.
+
+C: O cachorro que ganhei de presente é muito brincalhão.
+S: O cachorro ganhei de presente é muito brincalhão.
+
+C: O computador que comprei tem um processador rápido.
+S: O computador comprei tem um processador rápido.
+
+C: A pessoa que venceu a competição recebeu um prêmio.
+S: A pessoa venceu a competição recebeu um prêmio.
+
+C: A fotografia que ganhou o prêmio retrata uma cena de família no parque.
+S: A fotografia ganhou o prêmio. A fotografia retrata uma cena de família no parque.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: A cidade onde cresci está localizada no interior do país.
+S: A cidade cresci está localizada no interior do país. A cidade está localizada no interior do país.
+
+C: O carro que estava estacionado na rua foi roubado.
+S: O carro estava estacionado na rua. O carro foi roubado.
+
+C: As pessoas que moram naquele bairro são muito amigáveis.
+S: As pessoas moram naquele bairro. As pessoas são muito amigáveis.
+
+C: A música que ouvi no rádio é a minha favorita.
+S: A música ouvi no rádio. A música é a minha favorita.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema. O filme foi muito emocionante.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: O livro que estou lendo é muito envolvente.
+S: O livro estou lendo. O livro é muito envolvente.
+
+C: A série que estreou na televisão possui um enredo intrigante.
+S: A série estreou na televisão. A série possui um enredo intrigante.
+
+C: O aluno que estudou muito conseguiu tirar uma boa nota na prova.
+S: O aluno estudou muito. O aluno conseguiu tirar uma boa nota na prova.
+
+C: A casa que fica ao lado do supermercado é amarela.
+S: A casa fica ao lado do supermercado. A casa é amarela.
+
+C: A empresa que contratou o novo funcionário está localizada no centro da cidade.
+S: A empresa contratou o novo funcionário. A empresa está localizada no centro da cidade.
+
+C: O livro que li nas férias era muito emocionante.
+S: O livro li nas férias. O livro era muito emocionante.
+
+C: A cidade que visitei nas férias tinha belas praias.
+S: A cidade visitei nas férias. A cidade tinha belas praias.
+
+C: O carro que comprei no ano passado foi roubado.
+S: O carro comprei no ano passado. O carro foi roubado.
+
+C: A música que tocou na rádio é muito popular.
+S: A música tocou na rádio. A música é muito popular.
+
+C: O jogador que marcou o gol da vitória é muito talentoso.
+S: O jogador marcou o gol da vitória. O jogador é muito talentoso.
+
+C: O filme que assisti no cinema ontem foi emocionante.
+S: O filme assisti no cinema ontem. O filme foi emocionante.
+
+C: O professor que ensina Matemática tem um método de ensino inovador.
+S: O professor ensina Matemática. O professor tem um método de ensino inovador.
+
+C: A mulher que estava sentada à minha frente no ônibus tinha um livro interessante.
+S: A mulher estava sentada à minha frente no ônibus. A mulher tinha um livro interessante.
+
+C: O bairro onde ele mora é tranquilo e seguro.
+S: Ele mora em um bairro tranquilo e seguro. O bairro é onde ele mora.
+
+C: Os alunos que estudam até tarde geralmente têm melhores notas.
+S: Os alunos estudam até tarde. Os alunos têm melhores notas.
+
+C: A empresa que oferece os melhores benefícios é a que todos querem trabalhar.
+S: A empresa oferece os melhores benefícios. A empresa todos querem trabalhar.
+
+C: O cachorro que encontramos na rua não tinha coleira.
+S: O cachorro encontramos na rua. O cachorro não tinha coleira.
+
+C: As flores que minha mãe ganhou são muito bonitas.
+S: As flores minha mãe ganhou. As flores são muito bonitas.
+
+C: O carro que ele comprou no mês passado já apresentou problemas.
+S: O carro ele comprou no mês passado. O carro já apresentou problemas.
+
+C: O professor que ensina matemática é muito exigente.
+S: O professor ensina matemática. O professor é muito exigente.
+
+C: A música que tocou no rádio me trouxe lembranças.
+S: A música tocou no rádio. A música me trouxe lembranças.
+
+C: A cidade onde nasci é pequena, mas muito acolhedora.
+S: Eu nasci em uma cidade pequena, mas muito acolhedora. A cidade é onde nasci.
+
+C: O livro que comprei na livraria hoje é muito interessante.
+S: O livro comprei na livraria hoje. O livro é muito interessante.
+
+C: As pessoas que moram nessa rua são muito amigáveis.
+S: As pessoas moram nessa rua. As pessoas são muito amigáveis.
+
+C: O cachorro que encontrei no parque é muito brincalhão.
+S: O cachorro encontrei no parque. O cachorro é muito brincalhão.
+
+C: O artista que pintou essa obra de arte é muito talentoso.
+S: O artista pintou essa obra de arte. O artista é muito talentoso.
+
+C: A roupa que comprei na loja ficou perfeita em mim.
+S: A roupa comprei na loja. A roupa ficou perfeita em mim.
+
+C: O professor que deu aula hoje é muito experiente.
+S: O professor deu aula hoje. O professor é muito experiente.
+
+C: A música que tocou na rádio é muito animada.
+S: A música tocou na rádio. A música é muito animada.
+
+C: A casa que visitei no final de semana é muito bonita.
+S: A casa visitei no final de semana. A casa é muito bonita.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: A paisagem que vi durante a viagem era deslumbrante.
+S: A paisagem vi durante a viagem. A paisagem era deslumbrante.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: A casa em que moro é antiga.
+S: A casa moro é antiga. A casa é antiga.
+
+C: O cachorro que encontramos na rua estava ferido.
+S: O cachorro encontramos na rua. O cachorro estava ferido.
+
+C: A música que o cantor apresentou era emocionante.
+S: A música o cantor apresentou. A música era emocionante.
+
+C: A empresa para a qual eu trabalho é muito renomada.
+S: A empresa eu trabalho é muito renomada. A empresa é muito renomada.
+
+C: O filme que assisti no cinema foi muito bom.
+S: O filme assisti no cinema. O filme foi muito bom.
+
+C: O lugar onde eu nasci é uma pequena cidade.
+S: O lugar eu nasci é uma pequena cidade. O lugar é uma pequena cidade.
+
+C: O trabalho que entreguei hoje foi bem feito.
+S: O trabalho entreguei hoje. O trabalho foi bem feito.
+
+C: A pessoa com quem conversei era muito simpática.
+S: A pessoa conversei era muito simpática. A pessoa era muito simpática.
+
+C: O computador que comprei é muito rápido.
+S: O computador comprei. O computador é muito rápido.
+
+C: O livro que estava na prateleira é muito interessante.
+S: O livro estava na prateleira. O livro é muito interessante.
+
+C: O aluno que tirou a maior nota ganhou um prêmio.
+S: O aluno tirou a maior nota. O aluno ganhou um prêmio.
+
+C: A cidade onde nasci é bastante movimentada.
+S: A cidade nasci. A cidade é bastante movimentada.
+
+C: As flores que estão no jardim são lindas.
+S: As flores estão no jardim. As flores são lindas.
+
+C: A comida que você preparou ficou deliciosa.
+S: A comida você preparou. A comida ficou deliciosa.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei. O carro é vermelho.
+
+C: A música que tocou na rádio é do meu cantor favorito.
+S: A música tocou na rádio. A música é do meu cantor favorito.
+
+C: O presente que ganhei no meu aniversário foi uma surpresa.
+S: O presente ganhei no meu aniversário. O presente foi uma surpresa.
+
+C: O espetáculo que assisti no teatro foi incrível.
+S: O espetáculo assisti no teatro. O espetáculo foi incrível.
+
+C: A pessoa que estava na fila da frente era muito alta.
+S: A pessoa estava na fila da frente. A pessoa era muito alta.
+
+C: A praia que visitei no último verão era muito bonita.
+S: A praia era muito bonita.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa foi muito gentil.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro é muito interessante.
+
+C: A rua onde moro é bem tranquila.
+S: A rua é bem tranquila.
+
+C: O restaurante que experimentei ontem tinha comida deliciosa.
+S: O restaurante tinha comida deliciosa.
+
+C: O carro que comprei recentemente é muito econômico.
+S: O carro é muito econômico.
+
+C: A música que ouvi no rádio era muito animada.
+S: A música era muito animada.
+
+C: A loja onde comprei minha roupa favorita está em outro bairro.
+S: A loja está em outro bairro.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme foi muito emocionante.
+
+C: A cidade onde nasci tem uma paisagem deslumbrante.
+S: A cidade tem uma paisagem deslumbrante.
+
+C: O livro que comprei na livraria tem uma história interessante.
+S: O livro tem uma história interessante. Eu comprei o livro na livraria.
+
+C: As pessoas que moram naquela rua são muito simpáticas.
+S: As pessoas são muito simpáticas. Elas moram naquela rua.
+
+C: A música que ouvi no rádio é minha favorita.
+S: A música é minha favorita. Eu ouvi no rádio.
+
+C: O cachorro que vi no parque estava brincando com uma bolinha.
+S: O cachorro estava brincando com uma bolinha. Eu vi no parque.
+
+C: A casa que visitei ontem é muito bonita.
+S: A casa é muito bonita. Eu visitei ontem.
+
+C: Os filmes que assisti no cinema eram muito emocionantes.
+S: Os filmes eram muito emocionantes. Eu assisti no cinema.
+
+C: As pessoas que trabalham nessa empresa são muito competentes.
+S: As pessoas são muito competentes. Elas trabalham nessa empresa.
+
+C: O carro que comprei recentemente é muito econômico.
+S: O carro é muito econômico. Eu comprei recentemente.
+
+C: O restaurante que fui no final de semana serve comida deliciosa.
+S: O restaurante serve comida deliciosa. Eu fui no final de semana.
+
+C: As crianças que estudam nessa escola são muito inteligentes.
+S: As crianças são muito inteligentes. Elas estudam nessa escola.
+
+C: O livro que comprei na livraria possui uma bela capa.
+S: O livro comprei na livraria. O livro possui uma bela capa.
+
+C: A casa em que moro é muito bonita.
+S: A casa moro é muito bonita.
+
+C: A pessoa que conheci na festa é muito simpática.
+S: A pessoa conheci na festa é muito simpática.
+
+C: O computador que comprei era muito caro.
+S: O computador comprei era muito caro.
+
+C: A comida que experimentei no restaurante era deliciosa.
+S: A comida experimentei no restaurante era deliciosa.
+
+C: A música que ouvi no rádio era muito animada.
+S: A música ouvi no rádio era muito animada.
+
+C: Os sapatos que comprei são muito confortáveis.
+S: Os sapatos comprei são muito confortáveis.
+
+C: A cidade em que nasci é pequena, mas acolhedora.
+S: A cidade nasci é pequena, mas acolhedora.
+
+C: O filme que assisti no cinema era emocionante.
+S: O filme assisti no cinema era emocionante.
+
+C: A pessoa que falou comigo foi muito gentil.
+S: A pessoa falou comigo foi muito gentil.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro é muito interessante. Comprei na livraria.
+
+C: As pessoas que moram naquela casa são muito amigáveis.
+S: As pessoas são muito amigáveis. Moram naquela casa.
+
+C: O carro que vi na rua é muito bonito.
+S: O carro é muito bonito. Vi na rua.
+
+C: Os gatos que estão no jardim são muito fofos.
+S: Os gatos são muito fofos. Estão no jardim.
+
+C: O filme que assisti ontem foi muito emocionante.
+S: O filme foi muito emocionante. Assisti ontem.
+
+C: As pinturas que vi no museu são muito impressionantes.
+S: As pinturas são muito impressionantes. Vi no museu.
+
+C: Os jogadores que marcaram os gols são muito talentosos.
+S: Os jogadores são muito talentosos. Marcaram os gols.
+
+C: A música que ouvi na rádio é muito animada.
+S: A música é muito animada. Ouvi na rádio.
+
+C: Os pratos que experimentei no restaurante são muito saborosos.
+S: Os pratos são muito saborosos. Experimentei no restaurante.
+
+C: As árvores que estão no parque são muito altas.
+S: As árvores são muito altas. Estão no parque.
+
+C: Os livros que estavam na estante foram emprestados para o meu amigo.
+S: Os livros estavam na estante. Os livros foram emprestados para o meu amigo.
+
+C: A comida que eu comprei no mercado estava estragada.
+S: A comida estava estragada. A comida foi comprada no mercado.
+
+C: O cachorro que mora na casa ao lado late a noite toda.
+S: O cachorro mora na casa ao lado. O cachorro late a noite toda.
+
+C: As flores que estão no jardim foram regadas pela manhã.
+S: As flores estão no jardim. As flores foram regadas pela manhã.
+
+C: O carro que eu dirijo é muito econômico.
+S: O carro que eu dirijo. O carro é muito econômico.
+
+C: As pessoas que chegaram atrasadas perderam o começo do filme.
+S: As pessoas chegaram atrasadas. As pessoas perderam o começo do filme.
+
+C: A roupa que eu vesti hoje está suja.
+S: A roupa que eu vesti hoje. A roupa está suja.
+
+C: As músicas que ele escreve são sempre muito populares.
+S: As músicas ele escreve. As músicas são sempre muito populares.
+
+C: O quadro que está pendurado na parede foi pintado por um artista famoso.
+S: O quadro está pendurado na parede. O quadro foi pintado por um artista famoso.
+
+C: O livro que você me emprestou é muito interessante.
+S: O livro você me emprestou. O livro é muito interessante.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: Eu comprei um livro ontem. O livro é muito interessante.
+
+C: As pessoas que participaram do evento receberam um certificado.
+S: As pessoas participaram do evento. As pessoas receberam um certificado.
+
+C: O carro que atingiu o poste ficou completamente destruído.
+S: Um carro atingiu o poste. O carro ficou completamente destruído.
+
+C: A música que tocou na rádio foi muito tocada nas festas.
+S: Uma música tocou na rádio. A música foi muito tocada nas festas.
+
+C: O computador que eu comprei é muito rápido.
+S: Eu comprei um computador. O computador é muito rápido.
+
+C: O filme que eu assisti ontem tinha um final inesperado.
+S: Eu assisti um filme ontem. O filme tinha um final inesperado.
+
+C: A camisa que eu comprei na loja não serviu em mim.
+S: Eu comprei uma camisa na loja. A camisa não serviu em mim.
+
+C: A aluna que ganhou o prêmio estudou muito para a prova.
+S: A aluna ganhou o prêmio. A aluna estudou muito para a prova.
+
+C: O artigo que eu li no jornal tinha muitas informações interessantes.
+S: Eu li um artigo no jornal. O artigo tinha muitas informações interessantes.
+
+C: O cachorro que fugiu do quintal foi encontrado na rua.
+S: Um cachorro fugiu do quintal. O cachorro foi encontrado na rua.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Eu comprei ontem.
+
+C: A pessoa que está aqui é o meu irmão.
+S: A pessoa é o meu irmão. Ela está aqui.
+
+C: A casa que fica na esquina é a minha.
+S: A casa é a minha. Ela fica na esquina.
+
+C: O carro que bateu no poste está todo amassado.
+S: O carro está todo amassado. Ele bateu no poste.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme foi emocionante. Eu assisti no cinema.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida estava deliciosa. Eu comi no restaurante.
+
+C: A música que tocaram na festa era animada.
+S: A música era animada. Tocaram-na na festa.
+
+C: O cachorro que vi no parque era muito fofo.
+S: O cachorro era muito fofo. Eu vi no parque.
+
+C: O vestido que experimentei na loja me serviu perfeitamente.
+S: O vestido me serviu perfeitamente. Eu experimentei na loja.
+
+C: A carta que recebi hoje era muito importante.
+S: A carta era muito importante. Eu recebi hoje.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro eu comprei ontem. O livro é muito interessante.
+
+C: As pessoas que moram no meu prédio são muito amigáveis.
+S: As pessoas moram no meu prédio. As pessoas são muito amigáveis.
+
+C: A casa que foi construída há 100 anos é considerada um patrimônio histórico.
+S: A casa foi construída há 100 anos. A casa é considerada um patrimônio histórico.
+
+C: O cachorro que encontrei na rua é muito dócil.
+S: O cachorro encontrei na rua. O cachorro é muito dócil.
+
+C: A comida que eu fiz para o jantar ficou deliciosa.
+S: A comida eu fiz para o jantar. A comida ficou deliciosa.
+
+C: A música que tocou durante a festa era muito animada.
+S: A música tocou durante a festa. A música era muito animada.
+
+C: O carro que comprei recentemente é muito econômico.
+S: O carro comprei recentemente. O carro é muito econômico.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema. O filme foi muito emocionante.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade visitei nas férias. A cidade é muito bonita.
+
+C: A blusa que comprei na promoção estava com um preço ótimo.
+S: A blusa comprei na promoção. A blusa estava com um preço ótimo.
+
+C: O homem que estava sentado na praça era o suspeito do crime.
+S: O homem estava sentado na praça. O homem era o suspeito do crime.
+
+C: As crianças que brincavam no parque estavam muito felizes.
+S: As crianças estavam brincando no parque. As crianças estavam muito felizes.
+
+C: A casa que foi construída recentemente tem um lindo jardim.
+S: A casa foi construída recentemente. A casa tem um lindo jardim.
+
+C: O livro que eu li ontem era muito interessante.
+S: O livro eu li ontem. O livro era muito interessante.
+
+C: A empresa que foi fundada há 10 anos é líder de mercado.
+S: A empresa foi fundada há 10 anos. A empresa é líder de mercado.
+
+C: A cachorra que encontramos na rua foi adotada por nós.
+S: A cachorra encontramos na rua. A cachorra foi adotada por nós.
+
+C: O filme que ganhou o Oscar é um drama emocionante.
+S: O filme ganhou o Oscar. O filme é um drama emocionante.
+
+C: O aluno que tirou a melhor nota é o vencedor do prêmio.
+S: O aluno tirou a melhor nota. O aluno é o vencedor do prêmio.
+
+C: A comida que estava no armário estava estragada.
+S: A comida estava no armário. A comida estava estragada.
+
+C: A roupa que comprei na loja ficou perfeita em mim.
+S: A roupa comprei na loja. A roupa ficou perfeita em mim.
+
+C: O rapaz que ganhou o prêmio é muito talentoso.
+S: O rapaz ganhou o prêmio. O rapaz é muito talentoso.
+
+C: As pessoas que moram perto do parque têm sorte.
+S: As pessoas moram perto do parque. As pessoas têm sorte.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo. O livro é muito interessante.
+
+C: Os filmes que foram indicados ao Oscar são imperdíveis.
+S: Os filmes foram indicados ao Oscar. Os filmes são imperdíveis.
+
+C: A rua que leva ao shopping está congestionada.
+S: A rua leva ao shopping. A rua está congestionada.
+
+C: A música que ela cantou no show é muito popular.
+S: A música ela cantou no show. A música é muito popular.
+
+C: Os alunos que estudaram bastante tiraram notas altas na prova.
+S: Os alunos estudaram bastante. Os alunos tiraram notas altas na prova.
+
+C: A casa que foi construída há muitos anos está precisando de reformas.
+S: A casa foi construída há muitos anos. A casa está precisando de reformas.
+
+C: O time que venceu o campeonato fez uma grande comemoração.
+S: O time venceu o campeonato. O time fez uma grande comemoração.
+
+C: A comida que eu preparei ficou deliciosa.
+S: A comida eu preparei. A comida ficou deliciosa.
+
+C: O livro que ela comprou na livraria é muito interessante.
+S: Ela comprou um livro na livraria. O livro é muito interessante.
+
+C: As perguntas que ele fez durante a palestra foram relevantes.
+S: Ele fez perguntas durante a palestra. As perguntas foram relevantes.
+
+C: O carro que ele comprou tem um bom desempenho na estrada.
+S: Ele comprou um carro. O carro tem um bom desempenho na estrada.
+
+C: O filme que assisti no cinema foi premiado.
+S: Assisti a um filme no cinema. O filme foi premiado.
+
+C: O computador que eu uso para trabalhar é muito rápido.
+S: Eu uso um computador para trabalhar. O computador é muito rápido.
+
+C: A música que ela tocou no piano é linda.
+S: Ela tocou uma música no piano. A música é linda.
+
+C: As roupas que comprei na loja são de boa qualidade.
+S: Comprei roupas na loja. As roupas são de boa qualidade.
+
+C: O restaurante que fomos para jantar tem comida deliciosa.
+S: Fomos a um restaurante para jantar. O restaurante tem comida deliciosa.
+
+C: A casa que ele mora é muito bonita.
+S: Ele mora em uma casa. A casa é muito bonita.
+
+C: A praia que visitamos nas férias é paradisíaca.
+S: Visitamos uma praia nas férias. A praia é paradisíaca.
+
+C: Os livros que estão na prateleira são meus.
+S: Os livros estão na prateleira. Os livros são meus.
+
+C: As crianças que brincam no parque são felizes.
+S: As crianças brincam no parque. As crianças são felizes.
+
+C: O cachorro que está latindo é meu.
+S: O cachorro está latindo. O cachorro é meu.
+
+C: Os alunos que estudam com dedicação conseguem boas notas.
+S: Os alunos estudam com dedicação. Os alunos conseguem boas notas.
+
+C: Os filmes que ganharam prêmios são muito bons.
+S: Os filmes ganharam prêmios. Os filmes são muito bons.
+
+C: Os jogadores que treinaram bastante são os melhores.
+S: Os jogadores treinaram bastante. Os jogadores são os melhores.
+
+C: A comida que eu preparei ficou muito saborosa.
+S: A comida eu preparei. A comida ficou muito saborosa.
+
+C: As flores que foram regadas diariamente estão bonitas.
+S: As flores foram regadas diariamente. As flores estão bonitas.
+
+C: As roupas que estão na lavanderia precisam ser lavadas.
+S: As roupas estão na lavanderia. As roupas precisam ser lavadas.
+
+C: Os carros que passam na rua estão em alta velocidade.
+S: Os carros passam na rua. Os carros estão em alta velocidade.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: Eu comprei um livro ontem. O livro é muito interessante.
+
+C: A casa onde ela mora é enorme.
+S: Ela mora em uma casa. A casa é enorme.
+
+C: A pessoa que falou comigo era muito simpática.
+S: Alguém falou comigo. Essa pessoa era muito simpática.
+
+C: O carro que eu dirijo é vermelho.
+S: Eu dirijo um carro. O carro é vermelho.
+
+C: O computador que eu comprei não funciona mais.
+S: Eu comprei um computador. O computador não funciona mais.
+
+C: A cidade onde eu nasci é pequena.
+S: Eu nasci em uma cidade. A cidade é pequena.
+
+C: O filme que eu assisti ontem foi emocionante.
+S: Eu assisti um filme ontem. O filme foi emocionante.
+
+C: A música que estou ouvindo agora é muito bonita.
+S: Estou ouvindo uma música agora. A música é muito bonita.
+
+C: A pessoa que eu amo é muito especial para mim.
+S: Eu amo alguém. Essa pessoa é muito especial para mim.
+
+C: A praia onde passamos as férias é linda.
+S: Passamos as férias em uma praia. A praia é linda.
+
+C: Os livros que estão na prateleira são todos do gênero de terror.
+S: Os livros estão na prateleira. Os livros são todos do gênero de terror.
+
+C: O cachorro que foi adotado pela família é muito brincalhão.
+S: O cachorro foi adotado pela família. O cachorro é muito brincalhão.
+
+C: A casa que foi construída no alto do morro tem uma vista incrível.
+S: A casa foi construída no alto do morro. A casa tem uma vista incrível.
+
+C: As pessoas que estão esperando o ônibus estão ficando impacientes.
+S: As pessoas estão esperando o ônibus. As pessoas estão ficando impacientes.
+
+C: O carro que foi roubado ainda não foi encontrado.
+S: O carro foi roubado. O carro ainda não foi encontrado.
+
+C: As flores que foram plantadas no jardim estão começando a desabrochar.
+S: As flores foram plantadas no jardim. As flores estão começando a desabrochar.
+
+C: O filme que foi indicado ao Oscar é baseado em uma história real.
+S: O filme foi indicado ao Oscar. O filme é baseado em uma história real.
+
+C: A empresa que está contratando novos funcionários oferece bons benefícios.
+S: A empresa está contratando novos funcionários. A empresa oferece bons benefícios.
+
+C: A música que toca na rádio é um sucesso nas paradas de sucesso.
+S: A música toca na rádio. A música é um sucesso nas paradas de sucesso.
+
+C: A comida que foi servida no restaurante estava deliciosa.
+S: A comida foi servida no restaurante. A comida estava deliciosa.
+
+C: A criança que estava chorando foi consolada pela mãe.
+S: A criança estava chorando. A criança foi consolada pela mãe.
+
+C: A casa que foi construída no alto da montanha tem uma vista deslumbrante.
+S: A casa foi construída no alto da montanha. A casa tem uma vista deslumbrante.
+
+C: A pessoa que ganhou o prêmio é muito inteligente.
+S: A pessoa ganhou o prêmio. A pessoa é muito inteligente.
+
+C: O carro que eu comprei no mês passado está na oficina.
+S: O carro eu comprei no mês passado. O carro está na oficina.
+
+C: Os filmes que eu assisti no final de semana foram muito bons.
+S: Os filmes eu assisti no final de semana. Os filmes foram muito bons.
+
+C: A comida que eu preparei para o jantar estava deliciosa.
+S: A comida eu preparei para o jantar. A comida estava deliciosa.
+
+C: A música que tocou na rádio é minha favorita.
+S: A música tocou na rádio. A música é minha favorita.
+
+C: O livro que estou lendo no momento é muito interessante.
+S: O livro estou lendo no momento. O livro é muito interessante.
+
+C: O cachorro que está latindo é meu vizinho.
+S: O cachorro está latindo. O cachorro é meu vizinho.
+
+C: A casa que foi vendida estava em péssimo estado de conservação.
+S: A casa foi vendida. A casa estava em péssimo estado de conservação.
+
+C: O jornalista que escreveu a matéria recebeu um prêmio.
+S: O jornalista escreveu a matéria. O jornalista recebeu um prêmio.
+
+C: Os estudantes que estudaram muito foram aprovados.
+S: Os estudantes estudaram muito. Os estudantes foram aprovados.
+
+C: A música que toca no rádio é muito bonita.
+S: A música toca no rádio. A música é muito bonita.
+
+C: A empresa que fechou um contrato com a prefeitura é muito bem conceituada.
+S: A empresa fechou um contrato com a prefeitura. A empresa é muito bem conceituada.
+
+C: A casa que foi construída naquela rua é a mais bonita do bairro.
+S: A casa foi construída naquela rua. A casa é a mais bonita do bairro.
+
+C: O livro que eu li foi escrito por um autor famoso.
+S: O livro eu li. O livro foi escrito por um autor famoso.
+
+C: O filme que assisti ontem foi emocionante.
+S: O filme assisti ontem. O filme foi emocionante.
+
+C: O cachorro que adotamos é muito brincalhão.
+S: O cachorro adotamos. O cachorro é muito brincalhão.
+
+C: A cidade que visitei nas férias era muito bonita.
+S: A cidade visitei nas férias. A cidade era muito bonita.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: Os livros que estavam na estante foram emprestados para os alunos.
+S: Os livros estavam na estante. Os livros foram emprestados para os alunos.
+
+C: O carro que estava estacionado na rua foi roubado.
+S: O carro estava estacionado na rua. O carro foi roubado.
+
+C: As pessoas que estavam no cinema aplaudiram o final do filme.
+S: As pessoas estavam no cinema. As pessoas aplaudiram o final do filme.
+
+C: O cachorro que estava no quintal pulou o muro.
+S: O cachorro estava no quintal. O cachorro pulou o muro.
+
+C: A rua que leva ao parque está bloqueada.
+S: A rua leva ao parque. A rua está bloqueada.
+
+C: A casa que foi construída em 1890 desabou durante a tempestade.
+S: A casa foi construída em 1890. A casa desabou durante a tempestade.
+
+C: As pessoas que estavam na sala de espera foram chamadas pelo médico.
+S: As pessoas estavam na sala de espera. As pessoas foram chamadas pelo médico.
+
+C: A comida que estava na geladeira estragou.
+S: A comida estava na geladeira. A comida estragou.
+
+C: Os alunos que estudam na biblioteca têm acesso a mais livros.
+S: Os alunos estudam na biblioteca. Os alunos têm acesso a mais livros.
+
+C: O computador que estava na mesa foi consertado pelo técnico.
+S: O computador estava na mesa. O computador foi consertado pelo técnico.
+
+C: A casa que tem o telhado verde é a mais bonita do bairro.
+S: A casa tem o telhado verde. A casa é a mais bonita do bairro.
+
+C: O aluno que tirou a melhor nota ganhou um prêmio.
+S: O aluno tirou a melhor nota. O aluno ganhou um prêmio.
+
+C: O livro que li recentemente é muito interessante.
+S: O livro li recentemente. O livro é muito interessante.
+
+C: O cachorro que foi adotado pelo João é muito brincalhão.
+S: O cachorro foi adotado pelo João. O cachorro é muito brincalhão.
+
+C: A cidade que visitei nas férias é muito turística.
+S: A cidade visitei nas férias. A cidade é muito turística.
+
+C: O carro que foi roubado é um modelo antigo.
+S: O carro foi roubado. O carro é um modelo antigo.
+
+C: A comida que foi preparada pela minha avó estava deliciosa.
+S: A comida foi preparada pela minha avó. A comida estava deliciosa.
+
+C: A música que ouvi no rádio é do meu cantor favorito.
+S: A música ouvi no rádio. A música é do meu cantor favorito.
+
+C: O quadro que está na parede é uma obra de arte.
+S: O quadro está na parede. O quadro é uma obra de arte.
+
+C: A planta que está na sala precisa de mais luz solar.
+S: A planta está na sala. A planta precisa de mais luz solar.
+
+C: A casa que fica na esquina é antiga.
+S: A casa fica na esquina. A casa é antiga.
+
+C: A pessoa que ganhou o prêmio é minha irmã.
+S: A pessoa ganhou o prêmio. A pessoa é minha irmã.
+
+C: A comida que eu comi no restaurante estava deliciosa.
+S: A comida eu comi no restaurante. A comida estava deliciosa.
+
+C: O gato que está no jardim é branco.
+S: O gato está no jardim. O gato é branco.
+
+C: A música que ouvi no rádio é do meu artista favorito.
+S: A música ouvi no rádio. A música é do meu artista favorito.
+
+C: A camisa que comprei na loja é azul.
+S: A camisa comprei na loja. A camisa é azul.
+
+C: O livro que li na semana passada era muito interessante.
+S: O livro li na semana passada. O livro era muito interessante.
+
+C: A pessoa que está sentada ao meu lado é minha irmã.
+S: A pessoa está sentada ao meu lado. A pessoa é minha irmã.
+
+C: O carro que vi na rua era vermelho.
+S: O carro vi na rua. O carro era vermelho.
+
+C: O cachorro que está brincando no parque é muito fofo.
+S: O cachorro está brincando no parque. O cachorro é muito fofo.
+
+C: A mulher que estava segurando o guarda-chuva colorido sorria para todos.
+S: A mulher estava segurando o guarda-chuva colorido. A mulher sorria para todos.
+
+C: O cachorro que foi adotado pelo casal latia todas as noites.
+S: O cachorro foi adotado pelo casal. O cachorro latia todas as noites.
+
+C: O cientista que descobriu a cura para a doença recebeu um prêmio.
+S: O cientista descobriu a cura para a doença. O cientista recebeu um prêmio.
+
+C: A cidade que possui muitos parques é um excelente destino turístico.
+S: A cidade possui muitos parques. A cidade é um excelente destino turístico.
+
+C: O livro que eu estava lendo tinha uma história emocionante.
+S: O livro eu estava lendo. O livro tinha uma história emocionante.
+
+C: A música que tocou no rádio era a minha favorita.
+S: A música tocou no rádio. A música era a minha favorita.
+
+C: O menino que chegou atrasado perdeu a primeira aula.
+S: O menino chegou atrasado. O menino perdeu a primeira aula.
+
+C: A planta que estava na janela precisava de mais sol.
+S: A planta estava na janela. A planta precisava de mais sol.
+
+C: A criança que estava chorando foi consolada pela mãe.
+S: A criança estava chorando. A criança foi consolada pela mãe.
+
+C: O carro que estava estacionado na rua foi multado.
+S: O carro estava estacionado na rua. O carro foi multado.
+
+C: A casa que eu comprei no ano passado fica perto da praia.
+S: A casa que eu comprei no ano passado fica perto da praia.
+
+C: O livro que estou lendo agora foi escrito por um autor famoso.
+S: O livro que estou lendo agora foi escrito por um autor famoso.
+
+C: O cachorro que morava na rua foi adotado por uma família.
+S: O cachorro que morava na rua foi adotado por uma família.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música que ouvi no rádio é muito animada.
+
+C: O filme que assisti no cinema foi indicado ao Oscar.
+S: O filme que assisti no cinema foi indicado ao Oscar.
+
+C: A paisagem que vi durante a viagem era deslumbrante.
+S: A paisagem que vi durante a viagem era deslumbrante.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor que ensina matemática é muito inteligente.
+
+C: O restaurante que fui ontem tem uma comida deliciosa.
+S: O restaurante que fui ontem tem uma comida deliciosa.
+
+C: A foto que tirei no parque ficou muito bonita.
+S: A foto que tirei no parque ficou muito bonita.
+
+C: A blusa que comprei na loja estava em promoção.
+S: A blusa que comprei na loja estava em promoção.
+
+C: Os alunos que estudaram muito conseguiram notas altas nas provas.
+S: Os alunos estudaram muito. Os alunos conseguiram notas altas nas provas.
+
+C: O vídeo que viralizou nas redes sociais mostra um cachorro fazendo truques incríveis.
+S: O vídeo viralizou nas redes sociais. O vídeo mostra um cachorro fazendo truques incríveis.
+
+C: O livro que ganhei de presente é muito interessante.
+S: O livro ganhei de presente é muito interessante. 
+
+C: A casa que foi construída há 100 anos tem um estilo arquitetônico único.
+S: A casa foi construída há 100 anos. A casa tem um estilo arquitetônico único.
+
+C: O restaurante que serve comida italiana é o meu favorito.
+S: O restaurante serve comida italiana. O restaurante é o meu favorito.
+
+C: As pessoas que moram perto do parque podem desfrutar da natureza todos os dias.
+S: As pessoas moram perto do parque. As pessoas podem desfrutar da natureza todos os dias.
+
+C: O filme que ganhou o prêmio de melhor na categoria drama é emocionante.
+S: O filme ganhou o prêmio de melhor na categoria drama. O filme é emocionante.
+
+C: O carro que conheci no salão do automóvel é muito luxuoso.
+S: O carro conheci no salão do automóvel é muito luxuoso. 
+
+C: O time de futebol que ganhou o campeonato é o mais talentoso.
+S: O time de futebol ganhou o campeonato. O time é o mais talentoso.
+
+C: O país que visitei no último verão tem praias lindas.
+S: O país visitei no último verão tem praias lindas.
+
+C: O livro que comprei na feira é muito interessante.
+S: O livro comprei na feira é muito interessante.
+
+C: O menino que estava chorando recebeu um abraço da professora.
+S: O menino estava chorando recebeu um abraço da professora.
+
+C: A casa onde nasci fica localizada na mesma rua.
+S: A casa nasci fica localizada na mesma rua.
+
+C: A música que tocou na rádio é a minha favorita.
+S: A música tocou na rádio é a minha favorita.
+
+C: A cidade onde passei as férias é linda.
+S: A cidade passei as férias é linda.
+
+C: O carro que bateu no poste tinha alta velocidade.
+S: O carro bateu no poste tinha alta velocidade.
+
+C: A menina que ganhou o concurso é muito talentosa.
+S: A menina ganhou o concurso é muito talentosa.
+
+C: O bairro onde cresci é muito tranquilo.
+S: O bairro cresci é muito tranquilo.
+
+C: As flores que plantei no jardim estão florescendo.
+S: As flores plantei no jardim estão florescendo.
+
+C: O cachorro que fugiu do quintal foi encontrado na rua.
+S: O cachorro fugiu do quintal foi encontrado na rua.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: As pessoas que moram naquela casa são muito simpáticas.
+S: As pessoas moram naquela casa. As pessoas são muito simpáticas.
+
+C: O carro que meu irmão comprou é vermelho.
+S: O carro meu irmão comprou. O carro é vermelho.
+
+C: As flores que minha mãe ganhou são lindas.
+S: As flores minha mãe ganhou. As flores são lindas.
+
+C: A música que tocou no rádio é muito animada.
+S: A música tocou no rádio. A música é muito animada.
+
+C: O restaurante que fomos ontem é muito bom.
+S: O restaurante fomos ontem. O restaurante é muito bom.
+
+C: As crianças que brincam no parque são muito barulhentas.
+S: As crianças brincam no parque. As crianças são muito barulhentas.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor ensina matemática. O professor é muito inteligente.
+
+C: O filme que assisti no cinema é muito emocionante.
+S: O filme assisti no cinema. O filme é muito emocionante.
+
+C: O cão que encontrei na rua é muito fofo.
+S: O cão encontrei na rua. O cão é muito fofo.
+
+C: A casa em que ele mora é muito bonita.
+S: A casa é muito bonita. Ele mora nela.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro é muito interessante. Estou lendo ele.
+
+C: A pessoa com quem ela está falando é sua irmã.
+S: A pessoa é sua irmã. Ela está falando com ela.
+
+C: O carro que ele comprou é vermelho.
+S: O carro é vermelho. Ele comprou ele.
+
+C: O filme que assisti ontem foi incrível.
+S: O filme foi incrível. Assisti ele ontem.
+
+C: O jogo em que ele participou foi muito emocionante.
+S: O jogo foi muito emocionante. Ele participou dele.
+
+C: O gato que mora na casa ao lado é muito fofo.
+S: O gato é muito fofo. Mora na casa ao lado.
+
+C: A árvore que está no parque é muito alta.
+S: A árvore é muito alta. Está no parque.
+
+C: O computador que ela está usando é muito rápido.
+S: O computador é muito rápido. Ela está usando ele.
+
+C: O aluno com quem ela conversou é muito inteligente.
+S: O aluno é muito inteligente. Ela conversou com ele.
+
+C: Os alunos que estudaram durante o feriado conseguiram notas altas.
+S: Os alunos estudaram durante o feriado. Os alunos conseguiram notas altas.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: A cidade que visitei no verão tem praias lindas.
+S: A cidade visitei no verão. A cidade tem praias lindas.
+
+C: O filme que assisti no final de semana foi emocionante.
+S: O filme assisti no final de semana. O filme foi emocionante.
+
+C: O cachorro que adotei na semana passada é muito brincalhão.
+S: O cachorro adotei na semana passada. O cachorro é muito brincalhão.
+
+C: A música que ouvi no rádio me lembra bons momentos.
+S: A música ouvi no rádio. A música me lembra bons momentos.
+
+C: O edifício que foi inaugurado recentemente tem uma arquitetura moderna.
+S: O edifício foi inaugurado recentemente. O edifício tem uma arquitetura moderna.
+
+C: A comida que experimentei no restaurante novo estava deliciosa.
+S: A comida experimentei no restaurante novo. A comida estava deliciosa.
+
+C: O livro que li durante as férias me fez refletir muito.
+S: O livro li durante as férias. O livro me fez refletir muito.
+
+C: A cidade que nasci tem um clima muito quente.
+S: A cidade nasci. A cidade tem um clima muito quente.
+
+C: A criança que ganhou o prêmio estava muito feliz.
+S: A criança ganhou o prêmio. A criança estava muito feliz.
+
+C: O livro que você me indicou era muito interessante.
+S: O livro você me indicou. O livro era muito interessante.
+
+C: A cidade onde nasci é muito acolhedora.
+S: A cidade eu nasci. A cidade é muito acolhedora.
+
+C: Os animais que vivem nas florestas são protegidos por leis.
+S: Os animais vivem nas florestas. Os animais são protegidos por leis.
+
+C: O carro que comprei é azul.
+S: O carro comprei. O carro é azul.
+
+C: Os estudantes que se dedicam aos estudos têm bons resultados.
+S: Os estudantes se dedicam aos estudos. Os estudantes têm bons resultados.
+
+C: A comida que minha mãe preparou estava deliciosa.
+S: A comida minha mãe preparou. A comida estava deliciosa.
+
+C: A pessoa que encontramos na praia era muito simpática.
+S: A pessoa encontramos na praia. A pessoa era muito simpática.
+
+C: O filme que assisti ontem foi muito emocionante.
+S: O filme assisti ontem. O filme foi muito emocionante.
+
+C: A música que tocou na rádio era minha favorita.
+S: A música tocou na rádio. A música era minha favorita.
+
+C: A casa que foi construída há 10 anos está em ruínas.
+S: A casa foi construída há 10 anos. A casa está em ruínas.
+
+C: A pessoa que roubou minha bolsa fugiu pela porta dos fundos.
+S: A pessoa roubou minha bolsa. A pessoa fugiu pela porta dos fundos.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: O cão que encontramos na rua estava perdido.
+S: O cão encontramos na rua. O cão estava perdido.
+
+C: A cidade que visitamos no verão era muito bonita.
+S: A cidade visitamos no verão. A cidade era muito bonita.
+
+C: O quadro que vi no museu era uma obra de arte.
+S: O quadro vi no museu. O quadro era uma obra de arte.
+
+C: A ideia que você me deu foi muito boa.
+S: A ideia você me deu. A ideia foi muito boa.
+
+C: A comida que experimentei no restaurante estava deliciosa.
+S: A comida experimentei no restaurante. A comida estava deliciosa.
+
+C: A música que ouvi na rádio era muito animada.
+S: A música ouvi na rádio. A música era muito animada.
+
+C: O filme que assistimos no cinema era de suspense.
+S: O filme assistimos no cinema. O filme era de suspense.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Eu comprei ontem.
+
+C: A criança que estava chorando recebeu um abraço.
+S: A criança recebeu um abraço. A criança estava chorando.
+
+C: O carro que bateu no poste ficou danificado.
+S: O carro ficou danificado. O carro bateu no poste.
+
+C: A casa que foi construída naquela rua é muito bonita.
+S: A casa é muito bonita. A casa foi construída naquela rua.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa foi muito gentil. A pessoa me ajudou.
+
+C: A música que estava tocando era muito animada.
+S: A música era muito animada. A música estava tocando.
+
+C: O computador que eu comprei está com problema.
+S: O computador está com problema. Eu comprei.
+
+C: A comida que eu preparei ficou deliciosa.
+S: A comida ficou deliciosa. Eu preparei.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme foi emocionante. Eu assisti no cinema.
+
+C: O professor que explica com clareza é muito bom.
+S: O professor é muito bom. Ele explica com clareza.
+
+C: As crianças que moram na rua têm dificuldades para conseguir comida.
+S: As crianças moram na rua. As crianças têm dificuldades para conseguir comida.
+
+C: O livro que eu comprei é muito interessante.
+S: Eu comprei o livro. O livro é muito interessante.
+
+C: Os alunos que estudam com afinco conseguem obter boas notas.
+S: Os alunos estudam com afinco. Os alunos conseguem obter boas notas.
+
+C: A casa que fica na esquina foi vendida.
+S: A casa fica na esquina. A casa foi vendida.
+
+C: Os animais que vivem na floresta são protegidos por leis ambientais.
+S: Os animais vivem na floresta. Os animais são protegidos por leis ambientais.
+
+C: A fruta que está na geladeira estragou.
+S: A fruta está na geladeira. A fruta estragou.
+
+C: A música que tocou na festa era muito animada.
+S: A música tocou na festa. A música era muito animada.
+
+C: O carro que está estacionado na rua foi multado.
+S: O carro está estacionado na rua. O carro foi multado.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: Eu assisti o filme no cinema. O filme foi muito emocionante.
+
+C: Os livros que estão na estante foram organizados por gênero.
+S: Os livros estão na estante. Os livros foram organizados por gênero.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Eu comprei ontem.
+
+C: A pessoa que mora ao lado está fazendo muito barulho.
+S: A pessoa está fazendo muito barulho. Ela mora ao lado.
+
+C: O filme que assisti no cinema foi premiado.
+S: O filme foi premiado. Eu assisti no cinema.
+
+C: O carro que comprei é novo.
+S: O carro é novo. Eu comprei.
+
+C: A cidade que visitei nas férias é linda.
+S: A cidade é linda. Eu visitei nas férias.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música é a minha favorita. Ela tocou no rádio.
+
+C: A comida que eu fiz para o jantar está deliciosa.
+S: A comida está deliciosa. Eu fiz para o jantar.
+
+C: A praia que visitamos no verão é muito bonita.
+S: A praia é muito bonita. Nós visitamos no verão.
+
+C: O cachorro que encontrei no parque estava perdido.
+S: O cachorro estava perdido. Eu encontrei no parque.
+
+C: A blusa que comprei na loja está na moda.
+S: A blusa está na moda. Eu comprei na loja.
+
+C: As flores que estão no jardim são muito bonitas.
+S: As flores estão no jardim. As flores são muito bonitas.
+
+C: O livro que ganhei de presente tem uma história emocionante.
+S: O livro ganhei de presente. O livro tem uma história emocionante.
+
+C: Os alunos que participaram da feira de ciências ganharam prêmios.
+S: Os alunos participaram da feira de ciências. Os alunos ganharam prêmios.
+
+C: A música que tocou no rádio me fez lembrar da minha infância.
+S: A música tocou no rádio. A música me fez lembrar da minha infância.
+
+C: As crianças que brincavam no parque estavam muito felizes.
+S: As crianças brincavam no parque. As crianças estavam muito felizes.
+
+C: Os carros que passaram pela rua estavam em alta velocidade.
+S: Os carros passaram pela rua. Os carros estavam em alta velocidade.
+
+C: As casas que foram construídas naquele bairro são muito bonitas.
+S: As casas foram construídas naquele bairro. As casas são muito bonitas.
+
+C: Os presentes que receberam no Natal deixaram as crianças animadas.
+S: Os presentes receberam no Natal. Os presentes deixaram as crianças animadas.
+
+C: Os filmes que assisti no cinema foram todos muito interessantes.
+S: Os filmes assisti no cinema. Os filmes foram todos muito interessantes.
+
+C: Os cachorros que estão no parque estão brincando uns com os outros.
+S: Os cachorros estão no parque. Os cachorros estão brincando uns com os outros.
+
+C: O cachorro que mora na casa ao lado late a noite toda.
+S: O cachorro mora na casa ao lado. O cachorro late a noite toda.
+
+C: As fotos que tirei durante a viagem estão no meu álbum.
+S: As fotos tirei durante a viagem estão no meu álbum. 
+
+C: A festa que organizei foi um sucesso.
+S: A festa organizei foi um sucesso.
+
+C: O filme que assisti no cinema era muito emocionante.
+S: O filme assisti no cinema era muito emocionante.
+
+C: A pessoa que está falando com você é minha irmã.
+S: A pessoa está falando com você é minha irmã.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei é vermelho.
+
+C: O livro que estou lendo tem uma história interessante.
+S: O livro estou lendo tem uma história interessante.
+
+C: A rua que passa em frente à minha casa é muito movimentada.
+S: A rua passa em frente à minha casa é muito movimentada.
+
+C: O prato que pedi no restaurante estava delicioso.
+S: O prato pedi no restaurante estava delicioso.
+
+C: A pessoa que ganhou o prêmio foi meu amigo.
+S: A pessoa ganhou o prêmio foi meu amigo.
+
+C: O livro que comprei ontem tem uma capa muito bonita.
+S: O livro tem uma capa muito bonita. Comprei ontem.
+
+C: As pessoas que moram neste bairro são muito simpáticas.
+S: As pessoas moram neste bairro. São muito simpáticas.
+
+C: O filme que você me recomendou é realmente bom.
+S: O filme é realmente bom. Você me recomendou.
+
+C: A música que tocou na rádio esta manhã é minha favorita.
+S: A música tocou na rádio esta manhã. É minha favorita.
+
+C: O restaurante que fui ontem serve comida italiana autêntica.
+S: O restaurante serve comida italiana autêntica. Fui ontem.
+
+C: A casa que está à venda na esquina é muito grande.
+S: A casa está à venda na esquina. É muito grande.
+
+C: A flor que colhi no jardim está perfumada.
+S: A flor colhi no jardim. Está perfumada.
+
+C: O cachorro que adotei recentemente já está se adaptando bem.
+S: O cachorro adotei recentemente. Já está se adaptando bem.
+
+C: A empresa que trabalho oferece ótimos benefícios aos funcionários.
+S: A empresa trabalho oferece ótimos benefícios aos funcionários.
+
+C: O quadro que vi na exposição é uma obra de arte incrível.
+S: O quadro vi na exposição. É uma obra de arte incrível.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante. (não há alteração)
+
+C: A casa em que cresci foi demolida.
+S: A casa em que cresci foi demolida. (não há alteração)
+
+C: Os alunos que estudam na biblioteca são dedicados.
+S: Os alunos que estudam na biblioteca são dedicados. (não há alteração)
+
+C: O celular que eu perdi tinha muitas fotos importantes.
+S: O celular que eu perdi tinha muitas fotos importantes. (não há alteração)
+
+C: Os filmes que ganharam o Oscar são ótimos.
+S: Os filmes que ganharam o Oscar são ótimos. (não há alteração)
+
+C: A música que você está ouvindo é minha favorita.
+S: A música que você está ouvindo é minha favorita. (não há alteração)
+
+C: O carro que eu dirijo pertence ao meu pai.
+S: O carro que eu dirijo pertence ao meu pai. (não há alteração)
+
+C: As pessoas que moram naquele prédio são simpáticas.
+S: As pessoas que moram naquele prédio são simpáticas. (não há alteração)
+
+C: O filme que assisti ontem à noite era muito chato.
+S: O filme que assisti ontem à noite era muito chato. (não há alteração)
+
+C: O livro que você me emprestou é incrível.
+S: O livro que você me emprestou é incrível. (não há alteração)
+
+C: Os alunos que estudam com dedicação sempre obtêm boas notas.
+S: Os alunos estudam com dedicação. Os alunos sempre obtêm boas notas.
+
+C: A casa que foi construída há muitos anos precisa de reformas.
+S: A casa foi construída há muitos anos. A casa precisa de reformas.
+
+C: A mulher que trabalha em nosso escritório possui grande experiência.
+S: A mulher trabalha em nosso escritório. A mulher possui grande experiência.
+
+C: O livro que li recentemente foi muito interessante.
+S: O livro li recentemente. O livro foi muito interessante.
+
+C: O computador que comprei na semana passada apresentou problemas.
+S: O computador comprei na semana passada. O computador apresentou problemas.
+
+C: As flores que estão no jardim precisam ser regadas diariamente.
+S: As flores estão no jardim. As flores precisam ser regadas diariamente.
+
+C: A pessoa que ganhou a competição recebeu um prêmio incrível.
+S: A pessoa ganhou a competição. A pessoa recebeu um prêmio incrível.
+
+C: O carro que estava estacionado na rua foi danificado.
+S: O carro estava estacionado na rua. O carro foi danificado.
+
+C: O cachorro que encontramos no parque estava perdido.
+S: O cachorro encontramos no parque. O cachorro estava perdido.
+
+C: O prato que experimentei no restaurante estava delicioso.
+S: O prato experimentei no restaurante. O prato estava delicioso.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Comprei ontem.
+
+C: A casa que foi construída há anos está em péssimo estado.
+S: A casa está em péssimo estado. Foi construída há anos.
+
+C: O professor que ensina matemática é muito exigente.
+S: O professor é muito exigente. Ensina matemática.
+
+C: O filme que assisti no cinema é emocionante.
+S: O filme é emocionante. Assisti no cinema.
+
+C: A música que ouvi na rádio é muito animada.
+S: A música é muito animada. Ouvi na rádio.
+
+C: O cachorro que encontrei na rua é muito dócil.
+S: O cachorro é muito dócil. Encontrei na rua.
+
+C: A pessoa que ganhou o prêmio é muito talentosa.
+S: A pessoa é muito talentosa. Ganhou o prêmio.
+
+C: O time que venceu o campeonato é muito habilidoso.
+S: O time é muito habilidoso. Venceu o campeonato.
+
+C: O restaurante que visitei no final de semana é muito aconchegante.
+S: O restaurante é muito aconchegante. Visitei no final de semana.
+
+C: O bolo que comi no aniversário estava delicioso.
+S: O bolo estava delicioso. Comi no aniversário.
+
+C: As flores que estão no jardim são muito bonitas.
+S: As flores estão no jardim. As flores são muito bonitas.
+
+C: O livro que li ontem era muito interessante.
+S: O livro li ontem. O livro era muito interessante.
+
+C: O cachorro que latiu durante a noite assustou os vizinhos.
+S: O cachorro latiu durante a noite. O cachorro assustou os vizinhos.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: A casa que foi construída naquela rua é muito antiga.
+S: A casa foi construída naquela rua. A casa é muito antiga.
+
+C: A mulher que trabalha na loja é muito simpática.
+S: A mulher trabalha na loja. A mulher é muito simpática.
+
+C: O carro que comprei é azul.
+S: O carro comprei é azul.
+
+C: O filme que assisti ontem foi muito emocionante.
+S: O filme assisti ontem. O filme foi muito emocionante.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor ensina matemática. O professor é muito inteligente.
+
+C: A cidade que visitei nas férias era muito bonita.
+S: A cidade visitei nas férias. A cidade era muito bonita.
+
+C: A casa que foi construída há 100 anos é um patrimônio histórico.
+S: A casa foi construída há 100 anos. A casa é um patrimônio histórico.
+
+C: O livro que estou lendo tem mais de 500 páginas.
+S: O livro estou lendo tem mais de 500 páginas. O livro tem mais de 500 páginas.
+
+C: A pessoa que ganhar o prêmio receberá uma viagem para o exterior.
+S: A pessoa ganhará o prêmio. A pessoa receberá uma viagem para o exterior.
+
+C: As roupas que estão na lavanderia precisam ser passadas.
+S: As roupas estão na lavanderia. As roupas precisam ser passadas.
+
+C: O filme que eu assisti ontem foi muito emocionante.
+S: O filme eu assisti ontem foi muito emocionante. O filme foi muito emocionante.
+
+C: O aluno que estudou bastante tirou uma nota alta na prova.
+S: O aluno estudou bastante. O aluno tirou uma nota alta na prova.
+
+C: O cachorro que está latindo é o da vizinha.
+S: O cachorro está latindo. O cachorro é o da vizinha.
+
+C: O computador que comprei este mês já está apresentando problemas.
+S: O computador comprei este mês. O computador já está apresentando problemas.
+
+C: A música que eu gosto de ouvir é essa.
+S: A música eu gosto de ouvir é essa. A música é essa.
+
+C: O restaurante que eu recomendo tem uma comida deliciosa.
+S: O restaurante eu recomendo tem uma comida deliciosa. O restaurante tem uma comida deliciosa.
+
+C: A mulher que trabalha naquela empresa é muito competente.
+S: A mulher trabalha naquela empresa. A mulher é muito competente.
+
+C: Os livros que estão na estante são meus.
+S: Os livros estão na estante. Os livros são meus.
+
+C: O filme que assisti ontem no cinema foi muito emocionante.
+S: O filme assisti ontem no cinema. O filme foi muito emocionante.
+
+C: As pessoas que moram nesta rua são muito simpáticas.
+S: As pessoas moram nesta rua. As pessoas são muito simpáticas.
+
+C: O cachorro que está brincando no parque é do vizinho.
+S: O cachorro está brincando no parque. O cachorro é do vizinho.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: Os jogadores que venceram o jogo foram premiados.
+S: Os jogadores venceram o jogo. Os jogadores foram premiados.
+
+C: Os alunos que estudam naquela escola são muito dedicados.
+S: Os alunos estudam naquela escola. Os alunos são muito dedicados.
+
+C: A música que ouvi no rádio é a minha favorita.
+S: A música ouvi no rádio. A música é a minha favorita.
+
+C: Os produtos que estão na prateleira são de alta qualidade.
+S: Os produtos estão na prateleira. Os produtos são de alta qualidade.
+
+C: As crianças que moram naquela rua são muito amigas.
+S: As crianças moram naquela rua. As crianças são muito amigas.
+
+C: O livro que ganhei de presente é muito interessante.
+S: O livro ganhei de presente. O livro é muito interessante.
+
+C: Os alimentos que comprei no mercado estão estragados.
+S: Os alimentos comprei no mercado. Os alimentos estão estragados.
+
+C: A casa que foi construída na esquina é muito bonita.
+S: A casa foi construída na esquina. A casa é muito bonita.
+
+C: O cachorro que encontramos na rua estava perdido.
+S: O cachorro encontramos na rua. O cachorro estava perdido.
+
+C: O carro que comprei no ano passado está com problemas. 
+S: O carro comprei no ano passado. O carro está com problemas.
+
+C: A música que tocou na rádio é muito animada.
+S: A música tocou na rádio. A música é muito animada.
+
+C: O filme que assisti no cinema foi muito bom.
+S: O filme assisti no cinema. O filme foi muito bom.
+
+C: O livro que estou lendo é muito envolvente.
+S: O livro estou lendo. O livro é muito envolvente.
+
+C: A pessoa que ganhou a competição é muito talentosa.
+S: A pessoa ganhou a competição. A pessoa é muito talentosa.
+
+C: O livro que comprei na livraria possui uma capa dura e ilustrações coloridas.
+S: O livro possui uma capa dura e ilustrações coloridas. Eu comprei o livro na livraria.
+
+C: A criança que encontrei na rua estava chorando e com fome.
+S: A criança estava chorando e com fome. Eu encontrei a criança na rua.
+
+C: O cachorro que adotei no abrigo é muito brincalhão e carinhoso.
+S: O cachorro é muito brincalhão e carinhoso. Eu adotei o cachorro no abrigo.
+
+C: O filme que assistimos no cinema é baseado em uma história real.
+S: O filme é baseado em uma história real. Nós assistimos o filme no cinema.
+
+C: O carro que comprei na concessionária tem ar-condicionado e vidros elétricos.
+S: O carro tem ar-condicionado e vidros elétricos. Eu comprei o carro na concessionária.
+
+C: A menina que ganhou o prêmio é muito inteligente e dedicada.
+S: A menina é muito inteligente e dedicada. Ela ganhou o prêmio.
+
+C: A música que ouvi no rádio é muito animada e empolgante.
+S: A música é muito animada e empolgante. Eu ouvi a música no rádio.
+
+C: O restaurante que visitei com meus amigos tem um ótimo cardápio e um ambiente agradável.
+S: O restaurante tem um ótimo cardápio e um ambiente agradável. Eu visitei o restaurante com meus amigos.
+
+C: A cidade que visitei nas férias tem praias lindas e uma cultura rica.
+S: A cidade tem praias lindas e uma cultura rica. Eu a visitei nas férias.
+
+C: O computador que comprei na loja é rápido e possui uma grande capacidade de armazenamento.
+S: O computador é rápido e possui uma grande capacidade de armazenamento. Eu o comprei na loja.
+
+C: A casa que fica na esquina é a minha.
+S: A casa fica na esquina. A casa é a minha.
+
+C: Os livros que estão na estante são de literatura.
+S: Os livros estão na estante. Os livros são de literatura.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei. O carro é vermelho.
+
+C: As roupas que comprei são de marca.
+S: As roupas comprei. As roupas são de marca.
+
+C: O restaurante que fomos ontem tinha uma comida deliciosa.
+S: O restaurante fomos ontem. O restaurante tinha uma comida deliciosa.
+
+C: O filme que assisti no cinema era de suspense.
+S: O filme assisti no cinema. O filme era de suspense.
+
+C: A cidade que visitei nas férias era muito bonita.
+S: A cidade visitei nas férias. A cidade era muito bonita.
+
+C: A música que ouvi no rádio era animada.
+S: A música ouvi no rádio. A música era animada.
+
+C: Os amigos que encontrei na festa são muito divertidos.
+S: Os amigos encontrei na festa. Os amigos são muito divertidos.
+
+C: A tela que o artista pintou é impressionante.
+S: A tela o artista pintou. A tela é impressionante.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem é muito interessante.
+
+C: A pessoa que ganhou o concurso vai receber um prêmio.
+S: A pessoa ganhou o concurso vai receber um prêmio.
+
+C: O lugar onde vamos passar as férias é paradisíaco.
+S: O lugar vamos passar as férias é paradisíaco.
+
+C: A comida que ela preparou estava deliciosa.
+S: A comida ela preparou estava deliciosa.
+
+C: O cachorro que encontrei na rua estava perdido.
+S: O cachorro encontrei na rua estava perdido.
+
+C: O carro que ele comprou é muito luxuoso.
+S: O carro ele comprou é muito luxuoso.
+
+C: O filme que assisti ontem é um dos melhores do ano.
+S: O filme assisti ontem é um dos melhores do ano.
+
+C: A música que ela cantou foi muito emocionante.
+S: A música ela cantou foi muito emocionante.
+
+C: O trabalho que ele entregou estava bem feito.
+S: O trabalho ele entregou estava bem feito.
+
+C: O prédio onde moro tem uma vista incrível da cidade.
+S: O prédio moro tem uma vista incrível da cidade.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: A cidade onde nasci fica no interior do país.
+S: A cidade nasci. A cidade fica no interior do país.
+
+C: A música que ouvi no rádio é a minha favorita.
+S: A música ouvi no rádio. A música é a minha favorita.
+
+C: A pessoa que me emprestou dinheiro é meu melhor amigo.
+S: A pessoa me emprestou dinheiro. A pessoa é meu melhor amigo.
+
+C: O animal que escapou do zoológico foi capturado hoje.
+S: O animal escapou do zoológico. O animal foi capturado hoje.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: A casa onde moro é muito grande.
+S: A casa moro. A casa é muito grande.
+
+C: A pessoa que ganhou o prêmio é minha vizinha.
+S: A pessoa ganhou o prêmio. A pessoa é minha vizinha.
+
+C: O filme que assisti no cinema é muito engraçado.
+S: O filme assisti no cinema. O filme é muito engraçado.
+
+C: A música que estava tocando na festa era animada.
+S: A música estava tocando na festa. A música era animada.
+
+C: A menina que estava brincando no parque caiu e machucou o joelho.
+S: A menina estava brincando no parque. A menina caiu e machucou o joelho.
+
+C: Os livros que estão na estante são os meus preferidos.
+S: Os livros estão na estante. Os livros são os meus preferidos.
+
+C: O professor que ensinou matemática foi muito exigente.
+S: O professor ensinou matemática. O professor foi muito exigente.
+
+C: A casa que foi construída há 50 anos precisa passar por reformas.
+S: A casa foi construída há 50 anos. A casa precisa passar por reformas.
+
+C: As flores que foram plantadas no jardim estão bonitas.
+S: As flores foram plantadas no jardim. As flores estão bonitas.
+
+C: O carro que foi comprado recentemente apresentou problemas mecânicos.
+S: O carro foi comprado recentemente. O carro apresentou problemas mecânicos.
+
+C: A comida que foi servida no restaurante estava deliciosa.
+S: A comida foi servida no restaurante. A comida estava deliciosa.
+
+C: A música que tocou na rádio é minha favorita.
+S: A música tocou na rádio. A música é minha favorita.
+
+C: O filme que foi indicado ao prêmio é muito emocionante.
+S: O filme foi indicado ao prêmio. O filme é muito emocionante.
+
+C: O cachorro que foi adotado estava abandonado nas ruas.
+S: O cachorro foi adotado. O cachorro estava abandonado nas ruas.
+
+C: O livro que li ontem é muito interessante.
+S: O livro li ontem é muito interessante.
+
+C: A música que ouvimos no carro é minha favorita.
+S: A música ouvimos no carro é minha favorita.
+
+C: O filme que assistimos no cinema foi premiado.
+S: O filme assistimos no cinema foi premiado.
+
+C: O cachorro que encontramos na rua é muito fofo.
+S: O cachorro encontramos na rua é muito fofo.
+
+C: A casa que visitei no final de semana é muito bonita.
+S: A casa visitei no final de semana é muito bonita.
+
+C: O prato que comi no restaurante estava delicioso.
+S: O prato comi no restaurante estava delicioso.
+
+C: A pessoa que conheci na festa é muito simpática.
+S: A pessoa conheci na festa é muito simpática.
+
+C: O quadro que vi na exposição é uma obra-prima.
+S: O quadro vi na exposição é uma obra-prima.
+
+C: O vestido que experimentei na loja ficou perfeito em mim.
+S: O vestido experimentei na loja ficou perfeito em mim.
+
+C: A comida que provei no buffet estava muito saborosa.
+S: A comida provei no buffet estava muito saborosa.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Comprei ontem.
+
+C: A casa em que moro fica perto da praia.
+S: A casa fica perto da praia. Moro nela.
+
+C: A pessoa que encontramos no parque estava perdida.
+S: A pessoa estava perdida. Encontramos no parque.
+
+C: O carro que ganhei de presente é vermelho.
+S: O carro é vermelho. Ganhei de presente.
+
+C: O cachorro que encontramos na rua estava faminto.
+S: O cachorro estava faminto. Encontramos na rua.
+
+C: A escola que frequento é muito bem conceituada.
+S: A escola é muito bem conceituada. Frequento.
+
+C: O filme que assisti ontem à noite foi emocionante.
+S: O filme foi emocionante. Assisti ontem à noite.
+
+C: O parque que visitei nas férias estava lotado.
+S: O parque estava lotado. Visitei nas férias.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida estava deliciosa. Comi no restaurante.
+
+C: A música que ouvi na rádio foi um grande sucesso.
+S: A música foi um grande sucesso. Ouvir na rádio.
+
+C: A casa que fica ao lado da minha é amarela.
+S: A casa ao lado da minha é amarela.
+
+C: O livro que li ontem era muito interessante.
+S: O livro que li ontem era interessante.
+
+C: A comida que minha avó faz é deliciosa.
+S: A comida que minha avó faz é deliciosa.
+
+C: A pessoa que ganhou o prêmio é meu amigo.
+S: A pessoa que ganhou o prêmio é meu amigo.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade que visitei nas férias é bonita.
+
+C: O carro que comprei é azul.
+S: O carro que comprei é azul.
+
+C: O cachorro que encontrei na rua está perdido.
+S: O cachorro que encontrei na rua está perdido.
+
+C: A música que ouvi no rádio é minha favorita.
+S: A música que ouvi no rádio é minha favorita.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme que assisti no cinema foi emocionante.
+
+C: A pessoa que conheci no evento é famosa.
+S: A pessoa que conheci no evento é famosa.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+
+C: O cachorro que fugiu do quintal foi encontrado na rua.
+S: O cachorro fugiu do quintal. O cachorro foi encontrado na rua.
+
+C: As letras que estão na parede formam uma frase.
+S: As letras estão na parede. As letras formam uma frase.
+
+C: O computador que quebrou ontem será consertado hoje.
+S: O computador quebrou ontem. O computador será consertado hoje.
+
+C: A música que tocou no rádio é minha favorita.
+S: A música tocou no rádio. A música é minha favorita.
+
+C: O país que ganhou a competição receberá um prêmio em dinheiro.
+S: O país ganhou a competição. O país receberá um prêmio em dinheiro.
+
+C: A mulher que mora ao lado da minha casa tem um gato.
+S: A mulher mora ao lado da minha casa. A mulher tem um gato.
+
+C: O aluno que estudou bastante tirou uma boa nota na prova.
+S: O aluno estudou bastante. O aluno tirou uma boa nota na prova.
+
+C: A criança que brincou no parque se sujou toda.
+S: A criança brincou no parque. A criança se sujou toda.
+
+C: A árvore que plantamos no jardim está crescendo rápido.
+S: A árvore plantamos no jardim. A árvore está crescendo rápido.
+
+C: O livro que comprei ontem na livraria é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+C: A pessoa que ganhou o prêmio está muito feliz.
+S: A pessoa que ganhou o prêmio está muito feliz.
+C: Os alunos que estudaram bastante conseguiram boas notas.
+S: Os alunos que estudaram bastante conseguiram boas notas.
+C: A casa que foi construída há dez anos precisa de reforma.
+S: A casa que foi construída há dez anos precisa de reforma.
+C: O filme que assisti ontem à noite foi emocionante.
+S: O filme que assisti ontem à noite foi emocionante.
+C: A música que ouvi no rádio hoje de manhã é linda.
+S: A música que ouvi no rádio hoje de manhã é linda.
+C: O carro que comprei no mês passado já apresentou problemas.
+S: O carro que comprei no mês passado já apresentou problemas.
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade que visitei nas férias é muito bonita.
+C: O livro que li nas férias tinha uma história envolvente.
+S: O livro que li nas férias tinha uma história envolvente.
+C: O cachorro que adotei é muito brincalhão.
+S: O cachorro que adotei é muito brincalhão.
+
+C: O livro que eu comprei na semana passada está muito interessante.
+S: Eu comprei um livro na semana passada. O livro está muito interessante.
+
+C: O cachorro que mora na casa ao lado é muito barulhento.
+S: O cachorro mora na casa ao lado. O cachorro é muito barulhento.
+
+C: A menina que ganhou o concurso é minha amiga.
+S: A menina ganhou o concurso. A menina é minha amiga.
+
+C: As flores que estão no jardim são muito bonitas.
+S: As flores estão no jardim. As flores são muito bonitas.
+
+C: O carro que ele comprou é um modelo esportivo.
+S: Ele comprou um carro. O carro é um modelo esportivo.
+
+C: A cidade onde eu nasci é muito tranquila.
+S: Eu nasci em uma cidade. A cidade é muito tranquila.
+
+C: A rua que leva à praia está interditada.
+S: A rua leva à praia. A rua está interditada.
+
+C: A música que tocou na rádio é minha favorita.
+S: Tocou uma música na rádio. A música é minha favorita.
+
+C: O restaurante que eu fui ontem serve uma comida deliciosa.
+S: Eu fui em um restaurante ontem. O restaurante serve uma comida deliciosa.
+
+C: A pessoa que está aguardando na fila é minha irmã.
+S: A pessoa está aguardando na fila. A pessoa é minha irmã.
+
+C: A casa que foi construída há mais de 100 anos está em excelente estado de conservação.
+S: A casa foi construída há mais de 100 anos. A casa está em excelente estado de conservação.
+
+C: A mulher que estava usando um vestido vermelho chamou minha atenção.
+S: A mulher estava usando um vestido vermelho. A mulher chamou minha atenção.
+
+C: O carro que foi roubado na semana passada ainda não foi encontrado.
+S: O carro foi roubado na semana passada. O carro ainda não foi encontrado.
+
+C: Os livros que comprei na livraria são todos de autores brasileiros.
+S: Os livros comprei na livraria. Os livros são todos de autores brasileiros.
+
+C: O garoto que ganhou o prêmio é muito talentoso.
+S: O garoto ganhou o prêmio. O garoto é muito talentoso.
+
+C: A praia que visitamos no verão passado era linda.
+S: A praia visitamos no verão passado. A praia era linda.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música ouvi no rádio. A música é muito animada.
+
+C: As pessoas que estavam na festa se divertiram muito.
+S: As pessoas estavam na festa. As pessoas se divertiram muito.
+
+C: O restaurante que fomos ontem servia comidas deliciosas.
+S: O restaurante fomos ontem. O restaurante servia comidas deliciosas.
+
+C: A árvore que plantei no jardim ainda é pequena.
+S: A árvore plantei no jardim. A árvore ainda é pequena.
+
+C: A professora que ensina matemática é muito exigente.
+S: A professora ensina matemática. A professora é muito exigente.
+
+C: Os livros que estão na prateleira são todos meus.
+S: Os livros estão na prateleira. Os livros são todos meus.
+
+C: A música que você está ouvindo é muito bonita.
+S: A música está ouvindo. A música é muito bonita.
+
+C: O filme que assisti ontem foi muito emocionante.
+S: O filme assisti ontem. O filme foi muito emocionante.
+
+C: Os presentes que ganhei no meu aniversário foram todos especiais.
+S: Os presentes ganhei no meu aniversário. Os presentes foram todos especiais.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: O carro que comprei é muito econômico.
+S: O carro comprei. O carro é muito econômico.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade visitei nas férias. A cidade é muito bonita.
+
+C: Os sapatos que comprei são muito confortáveis.
+S: Os sapatos comprei. Os sapatos são muito confortáveis.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa me ajudou. A pessoa foi muito gentil.
+
+C: O livro que comprei ontem tem uma história fascinante.
+S: O livro tem uma história fascinante. Eu comprei ontem.
+
+C: As crianças que brincam no parque são muito felizes.
+S: As crianças brincam no parque. Elas são muito felizes.
+
+C: O aluno que estudou bastante tirou a nota mais alta da turma.
+S: O aluno tirou a nota mais alta da turma. Ele estudou bastante.
+
+C: O carro que bateu no poste ficou completamente destruído.
+S: O carro ficou completamente destruído. Ele bateu no poste.
+
+C: A cidade que visitei no ano passado era muito bonita.
+S: A cidade era muito bonita. Eu visitei no ano passado.
+
+C: O filme que ganhou o prêmio é baseado em fatos reais.
+S: O filme ganhou o prêmio. Ele é baseado em fatos reais.
+
+C: A mulher que mora ao lado é muito simpática.
+S: A mulher é muito simpática. Ela mora ao lado.
+
+C: O cão que encontramos na rua estava abandonado.
+S: O cão estava abandonado. Nós encontramos na rua.
+
+C: O restaurante que fomos ontem tinha excelente comida.
+S: O restaurante tinha excelente comida. Nós fomos ontem.
+
+C: A música que ouvi no rádio é do meu artista favorito.
+S: A música é do meu artista favorito. Eu ouvi no rádio.
+
+C: A casa que fica na rua principal é grande.
+S: A casa fica na rua principal. A casa é grande.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo. O livro é muito interessante.
+
+C: A pessoa que ganhou o prêmio foi meu amigo.
+S: A pessoa ganhou o prêmio. A pessoa é meu amigo.
+
+C: Os sapatos que comprei são de couro.
+S: Os sapatos comprei. Os sapatos são de couro.
+
+C: O carro que bati ficou completamente destruído.
+S: O carro bati. O carro ficou completamente destruído.
+
+C: A ponte que atravessa o rio é muito antiga.
+S: A ponte atravessa o rio. A ponte é muito antiga.
+
+C: A música que escuto todos os dias é do meu cantor favorito.
+S: A música escuto todos os dias. A música é do meu cantor favorito.
+
+C: A pessoa que mora ao lado é minha vizinha.
+S: A pessoa mora ao lado. A pessoa é minha vizinha.
+
+C: O filme que assisti ontem foi muito emocionante.
+S: O filme assisti ontem. O filme foi muito emocionante.
+
+C: O animal que vi no parque era um veado.
+S: O animal vi no parque. O animal era um veado.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria é muito interessante.
+
+C: A casa em que moro fica perto da praia.
+S: A casa moro fica perto da praia.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante estava deliciosa.
+
+C: O carro que meu vizinho comprou é muito bonito.
+S: O carro meu vizinho comprou é muito bonito.
+
+C: A música que ouvi no rádio é a minha favorita.
+S: A música ouvi no rádio é a minha favorita.
+
+C: A roupa que escolhi para a festa é muito elegante.
+S: A roupa escolhi para a festa é muito elegante.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema foi muito emocionante.
+
+C: A pessoa com quem falei no telefone foi muito simpática.
+S: A pessoa falei no telefone foi muito simpática.
+
+C: O time de futebol que ganhou o campeonato foi o melhor.
+S: O time de futebol ganhou o campeonato foi o melhor.
+
+C: O lugar onde fui de férias era paradisíaco.
+S: O lugar fui de férias era paradisíaco.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem é muito interessante.
+
+C: A pessoa que ganhou o prêmio é minha amiga.
+S: A pessoa ganhou o prêmio é minha amiga.
+
+C: O cachorro que late durante a noite incomoda os vizinhos.
+S: O cachorro late durante a noite incomoda os vizinhos.
+
+C: Os alunos que estudam diariamente têm melhores notas.
+S: Os alunos estudam diariamente têm melhores notas.
+
+C: A comida que comi no restaurante era deliciosa.
+S: A comida comi no restaurante era deliciosa.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música tocou no rádio é a minha favorita.
+
+C: O lugar que visitei nas férias é lindo.
+S: O lugar visitei nas férias é lindo.
+
+C: A casa que aluguei está localizada perto do centro.
+S: A casa aluguei está localizada perto do centro.
+
+C: O filme que assisti no cinema me emocionou.
+S: O filme assisti no cinema me emocionou.
+
+C: O celular que comprei recentemente é muito moderno.
+S: O celular comprei recentemente é muito moderno.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: O vestido que minha irmã usou no casamento era branco.
+S: O vestido minha irmã usou no casamento. O vestido era branco.
+
+C: O cachorro que vi no parque era muito fofo.
+S: O cachorro vi no parque. O cachorro era muito fofo.
+
+C: A casa que meus pais construíram é grande.
+S: A casa meus pais construíram. A casa é grande.
+
+C: O carro que quebrou na estrada estava sem gasolina.
+S: O carro quebrou na estrada. O carro estava sem gasolina.
+
+C: A música que ouvi no rádio era bem animada.
+S: A música ouvi no rádio. A música era bem animada.
+
+C: O quadro que vi na exposição era muito bonito.
+S: O quadro vi na exposição. O quadro era muito bonito.
+
+C: O computador que comprei na loja era muito caro.
+S: O computador comprei na loja. O computador era muito caro.
+
+C: O filme que assisti no cinema era de ação.
+S: O filme assisti no cinema. O filme era de ação.
+
+C: A comida que provei no restaurante estava deliciosa.
+S: A comida provei no restaurante. A comida estava deliciosa.
+
+C: A mulher que mora ao lado tem dois cachorros.
+S: A mulher mora ao lado. A mulher tem dois cachorros.
+
+C: O prato que eu comi no restaurante era delicioso.
+S: O prato eu comi no restaurante. O prato era delicioso.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei. O carro é vermelho.
+
+C: O livro que estou lendo foi escrito por Machado de Assis.
+S: O livro estou lendo. O livro foi escrito por Machado de Assis.
+
+C: O filme que assisti no cinema foi premiado.
+S: O filme assisti no cinema. O filme foi premiado.
+
+C: A casa que estou alugando é espaçosa.
+S: A casa estou alugando. A casa é espaçosa.
+
+C: A música que ouvi na rádio é minha favorita.
+S: A música ouvi na rádio. A música é minha favorita.
+
+C: O restaurante que recomendaram é muito bom.
+S: O restaurante recomendaram. O restaurante é muito bom.
+
+C: O esporte que pratico é futebol.
+S: O esporte pratico. O esporte é futebol.
+
+C: O quadro que vi no museu é de Picasso.
+S: O quadro vi no museu. O quadro é de Picasso.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: A casa em que moro é antiga.
+S: A casa moro é antiga. A casa é antiga.
+
+C: O filme que assisti no cinema foi premiado.
+S: O filme assisti no cinema. O filme foi premiado.
+
+C: A pessoa com quem conversei era muito simpática.
+S: A pessoa conversei era muito simpática. A pessoa era muito simpática.
+
+C: O país para onde viajei nas férias é lindo.
+S: O país viajei nas férias. O país é lindo.
+
+C: O jogo de futebol a que assisti no estádio foi emocionante.
+S: O jogo de futebol assisti no estádio. O jogo de futebol foi emocionante.
+
+C: O carro com o qual ele se acidentou ficou destruído.
+S: O carro ele se acidentou ficou destruído. O carro ficou destruído.
+
+C: A música que tocou na rádio é muito animada.
+S: A música tocou na rádio. A música é muito animada.
+
+C: A cidade onde moro é pequena.
+S: A cidade moro é pequena. A cidade é pequena.
+
+C: O restaurante no qual jantei ontem tem comida deliciosa.
+S: O restaurante jantei ontem. O restaurante tem comida deliciosa.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+
+C: A casa onde moro fica perto do parque.
+S: A casa onde moro fica perto do parque.
+
+C: O filme que assisti no cinema foi premiado.
+S: O filme que assisti no cinema foi premiado.
+
+C: A música que ouvi no rádio é uma das minhas favoritas.
+S: A música que ouvi no rádio é uma das minhas favoritas.
+
+C: O cachorro que vi no parque era muito brincalhão.
+S: O cachorro que vi no parque era muito brincalhão.
+
+C: A pessoa que conheci hoje é muito simpática.
+S: A pessoa que conheci hoje é muito simpática.
+
+C: O restaurante onde jantamos ontem tinha uma ótima comida.
+S: O restaurante onde jantamos ontem tinha uma ótima comida.
+
+C: A cidade que visitei nas férias era muito bonita.
+S: A cidade que visitei nas férias era muito bonita.
+
+C: O professor que ensina essa disciplina é muito experiente.
+S: O professor que ensina essa disciplina é muito experiente.
+
+C: A loja onde comprei essa blusa tem uma grande variedade de roupas.
+S: A loja onde comprei essa blusa tem uma grande variedade de roupas.
+
+C: O cachorro que vive na rua é muito bonito.
+S: O cachorro vive na rua. O cachorro é muito bonito.
+
+C: O livro, que foi lançado recentemente, é muito interessante.
+S: O livro foi lançado recentemente. O livro é muito interessante.
+
+C: A cidade onde nasci tem muitas atrações turísticas.
+S: A cidade nasci tem muitas atrações turísticas. A cidade é onde nasci.
+
+C: O carro que bateu no poste era vermelho.
+S: O carro bateu no poste. O carro era vermelho.
+
+C: A carta que recebi estava rasgada.
+S: A carta recebi estava rasgada. A carta era que recebi.
+
+C: O ator que ganhou o prêmio é muito talentoso.
+S: O ator ganhou o prêmio. O ator é muito talentoso.
+
+C: A professora que ensina matemática é muito exigente.
+S: A professora ensina matemática. A professora é muito exigente.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema. O filme foi muito emocionante.
+
+C: A cidade onde moro tem muitas opções de lazer.
+S: A cidade moro tem muitas opções de lazer. A cidade é onde moro.
+
+C: A planta que coloquei no jardim está crescendo rápido.
+S: A planta coloquei no jardim está crescendo rápido. A planta é que coloquei no jardim.
+
+C: A casa que foi construída no topo da colina oferece uma vista incrível.
+S: A casa foi construída no topo da colina. A casa oferece uma vista incrível.
+
+C: O carro que eu comprei tem um motor potente.
+S: O carro eu comprei. O carro tem um motor potente.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo. O livro é muito interessante.
+
+C: A pessoa que ganhou o prêmio é meu amigo.
+S: A pessoa ganhou o prêmio. A pessoa é meu amigo.
+
+C: A cidade que visitei no verão passado era muito bonita.
+S: A cidade visitei no verão passado. A cidade era muito bonita.
+
+C: O restaurante que fomos ontem serve comida japonesa.
+S: O restaurante fomos ontem. O restaurante serve comida japonesa.
+
+C: A música que está tocando é minha favorita.
+S: A música está tocando. A música é minha favorita.
+
+C: A praia que costumávamos frequentar fica no litoral norte.
+S: A praia costumávamos frequentar. A praia fica no litoral norte.
+
+C: O filme que assisti no cinema era de suspense.
+S: O filme assisti no cinema. O filme era de suspense.
+
+C: A pessoa que chegou agora é minha prima.
+S: A pessoa chegou agora. A pessoa é minha prima.
+
+C: O livro que ganhei de presente possui uma capa dura e cores vibrantes.
+S: O livro ganhei de presente. O livro possui uma capa dura e cores vibrantes.
+
+C: A rua onde moro é tranquila e arborizada.
+S: A rua moro é tranquila e arborizada. A rua possui uma ruazinha que é tranquila e arborizada.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: Os filmes que assisti ontem eram de suspense e mistério.
+S: Os filmes assisti ontem. Os filmes eram de suspense e mistério.
+
+C: O aluno que tirou a nota máxima no teste estudou muito.
+S: O aluno tirou a nota máxima no teste. O aluno estudou muito.
+
+C: A casa que foi construída na esquina chamou minha atenção.
+S: A casa foi construída na esquina. A casa chamou minha atenção.
+
+C: A música que ouvi no rádio era animada e contagiante.
+S: A música ouvi no rádio. A música era animada e contagiante.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa me ajudou. A pessoa foi muito gentil.
+
+C: O hotel onde ficamos hospedados era muito confortável.
+S: O hotel ficamos hospedados. O hotel era muito confortável.
+
+C: O carro que dirigi hoje era automático e espaçoso.
+S: O carro dirigi hoje. O carro era automático e espaçoso.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem. O livro é muito interessante.
+
+C: O cachorro que vi no parque era muito brincalhão.
+S: O cachorro vi no parque. O cachorro era muito brincalhão.
+
+C: A casa que estou alugando tem um belo jardim.
+S: A casa estou alugando. A casa tem um belo jardim.
+
+C: A praia que visitamos durante as férias era deslumbrante.
+S: A praia visitamos durante as férias. A praia era deslumbrante.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música tocou no rádio. A música é a minha favorita.
+
+C: A comida que comi no restaurante era deliciosa.
+S: A comida comi no restaurante. A comida era deliciosa.
+
+C: O filme que assisti no cinema tinha um final surpreendente.
+S: O filme assisti no cinema. O filme tinha um final surpreendente.
+
+C: A pessoa que conheci na festa era muito simpática.
+S: A pessoa conheci na festa. A pessoa era muito simpática.
+
+C: A cidade que visitei nas férias era muito movimentada.
+S: A cidade visitei nas férias. A cidade era muito movimentada.
+
+C: O carro que aluguei para o passeio era muito confortável.
+S: O carro aluguei para o passeio. O carro era muito confortável.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Comprei ontem.
+
+C: A casa onde moramos fica perto do parque.
+S: A casa fica perto do parque. Moramos lá.
+
+C: O homem que vi na rua parecia familiar.
+S: O homem parecia familiar. Vi na rua.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida estava deliciosa. Comi no restaurante.
+
+C: A música que tocou no rádio é minha favorita.
+S: A música é minha favorita. Tocou no rádio.
+
+C: O carro que comprei é da marca Ford.
+S: O carro é da marca Ford. Comprei.
+
+C: A cidade onde nasci é pequena.
+S: A cidade é pequena. Nasci lá.
+
+C: A roupa que vesti ontem era confortável.
+S: A roupa era confortável. Vesti ontem.
+
+C: O filme que assisti no cinema era muito bom.
+S: O filme era muito bom. Assisti no cinema.
+
+C: A pessoa que me deu o livro é meu amigo.
+S: A pessoa é meu amigo. Me deu o livro.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: A casa onde moro é perto do centro da cidade.
+S: A casa moro é perto do centro da cidade. A casa é onde moro.
+
+C: A pessoa que conheci ontem é muito simpática.
+S: A pessoa conheci ontem é muito simpática.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei é vermelho.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema foi muito emocionante.
+
+C: A cidade onde nasci é pequena.
+S: A cidade nasci é pequena. A cidade é onde nasci.
+
+C: O restaurante que fui no final de semana tinha comida deliciosa.
+S: O restaurante fui no final de semana tinha comida deliciosa.
+
+C: A pessoa que estava conversando comigo é meu melhor amigo.
+S: A pessoa estava conversando comigo é meu melhor amigo.
+
+C: O apartamento onde moro é no último andar.
+S: O apartamento moro é no último andar. O apartamento é onde moro.
+
+C: O museu que visitei na semana passada tinha exposições incríveis.
+S: O museu visitei na semana passada tinha exposições incríveis.
+
+C: As crianças que estão brincando no parque são muito animadas.
+S: As crianças estão brincando no parque. As crianças são muito animadas.
+
+C: O livro que eu comprei ontem tem uma história incrível.
+S: Eu comprei um livro ontem. O livro tem uma história incrível.
+
+C: A música que tocou na rádio é minha favorita.
+S: A música tocou na rádio. A música é minha favorita.
+
+C: Os amigos que conheci na faculdade são muito especiais.
+S: Eu conheci amigos na faculdade. Os amigos são muito especiais.
+
+C: O cachorro que encontramos na rua está perdido.
+S: Nós encontramos um cachorro na rua. O cachorro está perdido.
+
+C: O filme que assisti no cinema era muito engraçado.
+S: Eu assisti um filme no cinema. O filme era muito engraçado.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: Eu comi uma comida no restaurante. A comida estava deliciosa.
+
+C: A casa que visitei na semana passada é muito bonita.
+S: Eu visitei uma casa na semana passada. A casa é muito bonita.
+
+C: A pessoa que me ajudou na rua foi muito gentil.
+S: Alguém me ajudou na rua. A pessoa foi muito gentil.
+
+C: A praia que visitamos nas férias era paradisíaca.
+S: Nós visitamos uma praia nas férias. A praia era paradisíaca.
+
+C: A casa onde ele mora é muito antiga.
+S: Ele mora em uma casa muito antiga.
+
+C: A empresa cujo dono foi preso está passando por dificuldades financeiras.
+S: O dono da empresa que foi preso está passando por dificuldades financeiras.
+
+C: As pessoas com as quais ele trabalha são muito respeitadas.
+S: Ele trabalha com pessoas muito respeitadas.
+
+C: O livro que eu estou lendo tem uma história interessante.
+S: Eu estou lendo um livro com uma história interessante.
+
+C: O filme que ela assistiu ontem ganhou um prêmio.
+S: Ela assistiu um filme ontem que ganhou um prêmio.
+
+C: Os jogadores que perderam o jogo ficaram muito tristes.
+S: Os jogadores que perderam ficaram muito tristes.
+
+C: Os sapatos que eu comprei hoje são muito confortáveis.
+S: Eu comprei sapatos hoje que são muito confortáveis.
+
+C: A música que ela está ouvindo é da sua banda preferida.
+S: Ela está ouvindo uma música da sua banda preferida.
+
+C: O cachorro que ela resgatou na rua está se adaptando bem em casa.
+S: Ela resgatou um cachorro na rua que está se adaptando bem em casa.
+
+C: A comida que eles pediram no restaurante não estava saborosa.
+S: Eles pediram comida no restaurante que não estava saborosa.
+
+C: O livro que comprei ontem tem uma história interessante.
+S: O livro que comprei ontem tem uma história interessante.
+S: Eu comprei um livro ontem. O livro tem uma história interessante.
+
+C: A camisa que ele estava usando era azul.
+S: A camisa que ele estava usando era azul.
+S: Ele estava usando uma camisa. A camisa era azul.
+
+C: O cachorro que vi na rua estava perdido.
+S: O cachorro que vi na rua estava perdido.
+S: Eu vi um cachorro na rua. O cachorro estava perdido.
+
+C: A música que tocou no rádio era animada.
+S: A música que tocou no rádio era animada.
+S: Uma música tocou no rádio. A música era animada.
+
+C: A cidade onde nasci é pequena.
+S: A cidade onde nasci é pequena.
+S: Eu nasci em uma cidade. A cidade é pequena.
+
+C: O filme que assisti ontem foi emocionante.
+S: O filme que assisti ontem foi emocionante.
+S: Eu assisti um filme ontem. O filme foi emocionante.
+
+C: A pessoa que conheci hoje é muito simpática.
+S: A pessoa que conheci hoje é muito simpática.
+S: Eu conheci uma pessoa hoje. A pessoa é muito simpática.
+
+C: O carro que comprei é vermelho.
+S: O carro que comprei é vermelho.
+S: Eu comprei um carro. O carro é vermelho.
+
+C: O restaurante onde comi tem comida deliciosa.
+S: O restaurante onde comi tem comida deliciosa.
+S: Eu comi em um restaurante. O restaurante tem comida deliciosa.
+
+C: A casa que visitei é antiga.
+S: A casa que visitei é antiga.
+S: Eu visitei uma casa. A casa é antiga.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem é muito interessante.
+
+C: A pessoa que mora ao lado é meu melhor amigo.
+S: A pessoa mora ao lado é meu melhor amigo.
+
+C: O restaurante que está na esquina serve a melhor comida italiana da cidade.
+S: O restaurante está na esquina serve a melhor comida italiana da cidade.
+
+C: O carro que é azul pertence ao meu irmão.
+S: O carro é azul pertence ao meu irmão.
+
+C: A música que estou ouvindo no momento é da minha banda favorita.
+S: A música estou ouvindo no momento é da minha banda favorita.
+
+C: As flores que ganhei no meu aniversário são lindas.
+S: As flores ganhei no meu aniversário são lindas.
+
+C: O cachorro que vi no parque é muito fofo.
+S: O cachorro vi no parque é muito fofo.
+
+C: A casa que comprei recentemente é muito espaçosa.
+S: A casa comprei recentemente é muito espaçosa.
+
+C: O filme que assisti ontem à noite foi muito emocionante.
+S: O filme assisti ontem à noite foi muito emocionante.
+
+C: A pessoa que sentou ao meu lado no cinema estava conversando durante todo o filme.
+S: A pessoa sentou ao meu lado no cinema estava conversando durante todo o filme.
+
+C: A criança que estava brincando no parque caiu e machucou o joelho.
+S: A criança estava brincando no parque. A criança caiu e machucou o joelho.
+
+C: As pessoas que moram naquela casa são muito simpáticas.
+S: As pessoas moram naquela casa. As pessoas são muito simpáticas.
+
+C: O livro que eu comprei na livraria é muito interessante.
+S: O livro eu comprei na livraria. O livro é muito interessante.
+
+C: A flor que está no jardim foi regada hoje de manhã.
+S: A flor está no jardim. A flor foi regada hoje de manhã.
+
+C: O cachorro que está latindo é da vizinha.
+S: O cachorro está latindo. O cachorro é da vizinha.
+
+C: O carro que passou em alta velocidade acelerou novamente.
+S: O carro passou em alta velocidade. O carro acelerou novamente.
+
+C: A comida que eu comi no restaurante estava deliciosa.
+S: A comida eu comi no restaurante. A comida estava deliciosa.
+
+C: O filme que eu assisti no cinema foi muito emocionante.
+S: O filme eu assisti no cinema. O filme foi muito emocionante.
+
+C: O computador que eu comprei na loja está com problemas.
+S: O computador eu comprei na loja. O computador está com problemas.
+
+C: A música que tocou no rádio é o meu novo hit favorito.
+S: A música tocou no rádio. A música é o meu novo hit favorito.
+
+C: A casa que está localizada na esquina é muito bonita.
+S: A casa está localizada na esquina. A casa é muito bonita.
+
+C: A pessoa que estava com o guarda-chuva vermelho era meu amigo.
+S: A pessoa com o guarda-chuva vermelho era meu amigo. A pessoa era meu amigo.
+
+C: O livro que você me emprestou é muito interessante.
+S: O livro que você me emprestou é muito interessante.
+
+C: O cachorro que estava latindo na rua assustou as crianças.
+S: O cachorro que estava latindo na rua assustou as crianças.
+
+C: A música que eu ouvi no rádio é a minha favorita.
+S: A música que eu ouvi no rádio é a minha favorita.
+
+C: O time que ganhou o campeonato comemorou muito.
+S: O time que ganhou o campeonato comemorou muito.
+
+C: A mulher que trabalha na loja é muito gentil.
+S: A mulher que trabalha na loja é muito gentil.
+
+C: A rua que fica próxima ao shopping está congestionada.
+S: A rua próxima ao shopping está congestionada.
+
+C: O filme que passou no cinema é baseado em um livro.
+S: O filme que passou no cinema é baseado em um livro.
+
+C: A pessoa que está sentada ao meu lado é minha irmã.
+S: A pessoa está sentada ao meu lado. A pessoa é minha irmã.
+
+C: A casa que eu comprei fica perto da praia.
+S: A casa fica perto da praia. Eu comprei a casa.
+
+C: Os alunos que estudam muito sempre tiram boas notas.
+S: Os alunos sempre tiram boas notas. Eles estudam muito.
+
+C: A música que ela está ouvindo é muito animada.
+S: A música é muito animada. Ela está ouvindo a música.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro é muito interessante. Eu estou lendo o livro.
+
+C: As pessoas que assistiram ao filme adoraram a história.
+S: As pessoas adoraram a história. Elas assistiram ao filme.
+
+C: Os animais que vivem na floresta são muito variados.
+S: Os animais são muito variados. Eles vivem na floresta.
+
+C: O parque que visitamos no final de semana era muito bonito.
+S: O parque era muito bonito. Nós visitamos o parque no final de semana.
+
+C: As comidas que ela prepara são sempre deliciosas.
+S: As comidas são sempre deliciosas. Ela prepara as comidas.
+
+C: A atividade que fizemos na aula foi muito divertida.
+S: A atividade foi muito divertida. Nós fizemos a atividade na aula.
+
+C: O filme que assisti ontem à noite foi emocionante.
+S: O filme foi emocionante. Eu assisti o filme ontem à noite.
+
+C: A casa que fica na esquina é antiga.
+S: A casa fica na esquina. A casa é antiga.
+
+C: As pessoas que estavam no parque se divertiram muito.
+S: As pessoas estavam no parque. As pessoas se divertiram muito.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo. O livro é muito interessante.
+
+C: O cachorro que vi na rua era muito brincalhão.
+S: O cachorro vi na rua. O cachorro era muito brincalhão.
+
+C: O restaurante que fomos ontem estava lotado.
+S: O restaurante fomos ontem. O restaurante estava lotado.
+
+C: A música que ouvi no rádio me emocionou.
+S: A música ouvi no rádio. A música me emocionou.
+
+C: A pessoa que mora ao lado é muito simpática.
+S: A pessoa mora ao lado. A pessoa é muito simpática.
+
+C: O time que ganhou o campeonato treinou muito.
+S: O time ganhou o campeonato. O time treinou muito.
+
+C: O filme que assisti no cinema foi premiado.
+S: O filme assisti no cinema. O filme foi premiado.
+
+C: Os alunos que estudaram bastante foram aprovados.
+S: Os alunos estudaram bastante. Os alunos foram aprovados.
+
+C: A casa que minha avó comprou no campo é espaçosa e charmosa.
+S: Minha avó comprou uma casa no campo. A casa é espaçosa e charmosa.
+
+C: O livro que estou lendo atualmente é muito interessante.
+S: Estou lendo um livro atualmente. O livro é muito interessante.
+
+C: O cachorro que encontramos na rua é muito dócil.
+S: Encontramos um cachorro na rua. O cachorro é muito dócil.
+
+C: O carro que meu amigo comprou recentemente é bastante econômico.
+S: Meu amigo comprou um carro recentemente. O carro é bastante econômico.
+
+C: A música que ouvi no rádio é minha favorita.
+S: Ouvi uma música no rádio. A música é minha favorita.
+
+C: O professor que ensina matemática é muito exigente.
+S: O professor ensina matemática. O professor é muito exigente.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: Visitei uma cidade nas férias. A cidade é muito bonita.
+
+C: O filme que assisti ontem foi emocionante.
+S: Assisti um filme ontem. O filme foi emocionante.
+
+C: A comida que minha mãe preparou para o jantar estava deliciosa.
+S: Minha mãe preparou uma comida para o jantar. A comida estava deliciosa.
+
+C: A pessoa que me ajudou no supermercado foi muito gentil.
+S: Uma pessoa me ajudou no supermercado. A pessoa foi muito gentil.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+C: A casa onde moro foi construída há 50 anos.
+S: A casa onde moro foi construída há 50 anos.
+C: A mulher com quem ele se casou é médica.
+S: A mulher com quem ele se casou é médica.
+C: O carro que ganhou o prêmio é vermelho.
+S: O carro que ganhou o prêmio é vermelho.
+C: O cachorro que encontramos na rua foi levado para o abrigo.
+S: O cachorro que encontramos na rua foi levado para o abrigo.
+C: A criança que estava chorando foi acalmada pela mãe.
+S: A criança que estava chorando foi acalmada pela mãe.
+C: O quadro que o artista pintou é muito bonito.
+S: O quadro que o artista pintou é muito bonito.
+C: O filme que assisti ontem foi emocionante.
+S: O filme que assisti ontem foi emocionante.
+C: O gato que encontrei no jardim é muito brincalhão.
+S: O gato que encontrei no jardim é muito brincalhão.
+C: A pessoa que chegou atrasada perdeu o ônibus.
+S: A pessoa que chegou atrasada perdeu o ônibus.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: O cachorro que encontramos na rua estava perdido.
+S: O cachorro encontramos na rua. O cachorro estava perdido.
+
+C: A pessoa que ganhou o prêmio de melhor ator foi aplaudida de pé.
+S: A pessoa ganhou o prêmio de melhor ator. A pessoa foi aplaudida de pé.
+
+C: O carro que meu vizinho comprou custou muito caro.
+S: O carro meu vizinho comprou. O carro custou muito caro.
+
+C: A casa que alugamos para as férias é muito espaçosa.
+S: A casa alugamos para as férias. A casa é muito espaçosa.
+
+C: A comida que a avó preparou estava deliciosa.
+S: A comida a avó preparou. A comida estava deliciosa.
+
+C: A música que tocava no rádio era animada.
+S: A música tocava no rádio. A música era animada.
+
+C: O filme que assistimos no cinema foi muito emocionante.
+S: O filme assistimos no cinema. O filme foi muito emocionante.
+
+C: A pessoa que estava esperando no ponto de ônibus era meu amigo.
+S: A pessoa estava esperando no ponto de ônibus. A pessoa era meu amigo.
+
+C: A cidade que visitei nas férias possui lindas praias.
+S: A cidade visitei nas férias. A cidade possui lindas praias.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: Eu comprei um livro ontem. O livro é muito interessante.
+
+C: A casa em que eu moro fica perto do mar.
+S: Eu moro em uma casa. A casa fica perto do mar.
+
+C: O cachorro que estava latindo no quintal é do meu vizinho.
+S: Um cachorro estava latindo no quintal. O cachorro é do meu vizinho.
+
+C: A música que estou ouvindo é a minha favorita.
+S: Estou ouvindo uma música. A música é a minha favorita.
+
+C: A pessoa com quem eu falei era muito simpática.
+S: Eu falei com uma pessoa. A pessoa era muito simpática.
+
+C: O carro que eu dirijo é vermelho.
+S: Eu dirijo um carro. O carro é vermelho.
+
+C: O filme que eu assisti ontem foi emocionante.
+S: Eu assisti um filme ontem. O filme foi emocionante.
+
+C: A comida que eu preparei é deliciosa.
+S: Eu preparei uma comida. A comida é deliciosa.
+
+C: O país em que eu nasci é muito bonito.
+S: Eu nasci em um país. O país é muito bonito.
+
+C: A roupa que estou vestindo é nova.
+S: Estou vestindo uma roupa. A roupa é nova.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria é muito interessante.
+
+C: A aluna que estudou muito conseguiu tirar uma nota alta na prova.
+S: A aluna estudou muito conseguiu tirar uma nota alta na prova.
+
+C: As flores que estão no jardim são muito bonitas.
+S: As flores estão no jardim são muito bonitas.
+
+C: O cachorro que foi adotado pela família é muito brincalhão.
+S: O cachorro foi adotado pela família é muito brincalhão.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade visitei nas férias é muito bonita.
+
+C: O filme que assisti ontem no cinema foi muito emocionante.
+S: O filme assisti ontem no cinema foi muito emocionante.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música ouvi no rádio é muito animada.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante estava deliciosa.
+
+C: O carro que comprei é muito econômico.
+S: O carro comprei é muito econômico.
+
+C: O quarto que reservei no hotel é muito confortável.
+S: O quarto reservei no hotel é muito confortável.
+
+C: A casa que foi construída há dez anos é muito bonita.
+S: A casa foi construída há dez anos. A casa é muito bonita.
+
+C: O livro que li ontem era muito emocionante.
+S: O livro li ontem era muito emocionante. 
+
+C: O carro que comprei no mês passado estava em excelente estado.
+S: O carro comprei no mês passado estava em excelente estado.
+
+C: O restaurante que fomos na semana passada tinha comida deliciosa.
+S: O restaurante fomos na semana passada tinha comida deliciosa.
+
+C: A rua que leva à praia é bastante movimentada.
+S: A rua leva à praia é bastante movimentada.
+
+C: A música que ouvimos no rádio é o novo sucesso do momento.
+S: A música ouvimos no rádio é o novo sucesso do momento.
+
+C: A pessoa que encontramos no evento era muito simpática.
+S: A pessoa encontramos no evento era muito simpática.
+
+C: A viagem que fizemos no ano passado foi inesquecível.
+S: A viagem fizemos no ano passado foi inesquecível.
+
+C: O filme que assisti ontem à noite foi muito emocionante.
+S: O filme assisti ontem à noite foi muito emocionante.
+
+C: A cidade que visitei nas férias era muito bonita.
+S: A cidade visitei nas férias era muito bonita.
+
+C: O livro que comprei na livraria tem uma capa bonita.
+S: O livro comprei na livraria. O livro tem uma capa bonita.
+
+C: A mulher que mora ao lado da minha casa é muito simpática.
+S: A mulher mora ao lado da minha casa. A mulher é muito simpática.
+
+C: As pessoas que estudam muito conseguem boas notas nas provas.
+S: As pessoas estudam muito. As pessoas conseguem boas notas nas provas.
+
+C: O cachorro que encontrei na rua estava perdido.
+S: O cachorro encontrei na rua. O cachorro estava perdido.
+
+C: O computador que comprei recentemente tem um bom desempenho.
+S: O computador comprei recentemente. O computador tem um bom desempenho.
+
+C: A cidade que visitei no último verão era muito bonita.
+S: A cidade visitei no último verão. A cidade era muito bonita.
+
+C: O carro que meu irmão está dirigindo é novo.
+S: O carro meu irmão está dirigindo. O carro é novo.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música tocou no rádio. A música é a minha favorita.
+
+C: O professor que ensina essa matéria é muito bom.
+S: O professor ensina essa matéria. O professor é muito bom.
+
+C: As flores que ganhei de presente são lindas.
+S: As flores ganhei de presente. As flores são lindas.
+
+C: João, que é meu melhor amigo, sempre me ajuda quando estou com problemas.
+S: João sempre me ajuda quando estou com problemas.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+
+C: A empresa em que trabalho oferece ótimos benefícios aos funcionários.
+S: A empresa em que trabalho oferece ótimos benefícios aos funcionários.
+
+C: A comida que preparei para o jantar ficou deliciosa.
+S: A comida que preparei para o jantar ficou deliciosa.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme que assisti no cinema foi muito emocionante.
+
+C: O carro que comprei recentemente é muito confortável.
+S: O carro que comprei recentemente é muito confortável.
+
+C: As informações que recebi do meu professor foram muito úteis.
+S: As informações que recebi do meu professor foram muito úteis.
+
+C: O computador que estou usando é muito rápido.
+S: O computador que estou usando é muito rápido.
+
+C: A casa que aluguei tem um jardim lindo.
+S: A casa que aluguei tem um jardim lindo.
+
+C: A música que ouvi ontem no rádio ficou na minha cabeça.
+S: A música que ouvi ontem no rádio ficou na minha cabeça.
+
+C: As pessoas que estão esperando na fila já estão cansadas.
+S: As pessoas estão esperando na fila. As pessoas já estão cansadas.
+
+C: O carro que foi roubado no estacionamento ainda não foi encontrado.
+S: O carro foi roubado no estacionamento. O carro ainda não foi encontrado.
+
+C: As crianças que estudam nessa escola são muito dedicadas.
+S: As crianças estudam nessa escola. As crianças são muito dedicadas.
+
+C: Os livros que estão na prateleira são os meus favoritos.
+S: Os livros estão na prateleira. Os livros são os meus favoritos.
+
+C: O cachorro que estava latindo durante a noite assustou os vizinhos.
+S: O cachorro estava latindo durante a noite. O cachorro assustou os vizinhos.
+
+C: A comida que foi servida no casamento estava deliciosa.
+S: A comida foi servida no casamento. A comida estava deliciosa.
+
+C: Os filmes que são indicados ao Oscar costumam ser de alta qualidade.
+S: Os filmes são indicados ao Oscar. Os filmes costumam ser de alta qualidade.
+
+C: A música que toca no rádio é a minha favorita.
+S: A música toca no rádio. A música é a minha favorita.
+
+C: As pessoas que moram nessa rua estão preocupadas com a segurança.
+S: As pessoas moram nessa rua. As pessoas estão preocupadas com a segurança.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo. O livro é muito interessante.
+
+C: O livro que comprei ontem tem muitas ilustrações.
+S: O livro tem muitas ilustrações. Comprei-o ontem.
+
+C: A rua onde moro é muito movimentada.
+S: A rua é muito movimentada. Moro lá.
+
+C: A pessoa com quem falei no telefone era muito educada.
+S: A pessoa era muito educada. Falei com ela no telefone.
+
+C: O restaurante onde jantamos é famoso pelos seus frutos do mar.
+S: O restaurante é famoso pelos seus frutos do mar. Jantamos lá.
+
+C: O time que ganhou o campeonato é o meu favorito.
+S: O time é o meu favorito. Ganhou o campeonato.
+
+C: O filme que assistimos ontem foi muito emocionante.
+S: O filme foi muito emocionante. Assistimos ontem.
+
+C: O computador que comprei recentemente é muito rápido.
+S: O computador é muito rápido. Comprei-o recentemente.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa foi muito gentil. Me ajudou.
+
+C: O carro que dirigi era muito confortável.
+S: O carro era muito confortável. Dirigi-o.
+
+C: A música que ouvi no rádio é o meu novo sucesso favorito.
+S: A música é o meu novo sucesso favorito. Ouve no rádio.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem é muito interessante.
+
+C: A pessoa que ganhou o sorteio recebeu um prêmio incrível.
+S: A pessoa ganhou o sorteio recebeu um prêmio incrível.
+
+C: O carro que eu dirijo é azul.
+S: O carro eu dirijo é azul.
+
+C: A música que tocou no rádio é a minha favorita.
+S: A música tocou no rádio é a minha favorita.
+
+C: O time que ganhou o campeonato foi o mais dedicado.
+S: O time ganhou o campeonato foi o mais dedicado.
+
+C: A casa que eu comprei é muito espaçosa.
+S: A casa eu comprei é muito espaçosa.
+
+C: O gato que encontrei na rua é muito brincalhão.
+S: O gato encontrei na rua é muito brincalhão.
+
+C: A comida que fiz no jantar estava deliciosa.
+S: A comida fiz no jantar estava deliciosa.
+
+C: A pessoa que conheci na festa se tornou uma grande amiga.
+S: A pessoa conheci na festa se tornou uma grande amiga.
+
+C: O computador que comprei está com problemas.
+S: O computador comprei está com problemas.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante. Eu comprei ontem.
+
+C: A casa onde ela mora fica perto da praia.
+S: A casa fica perto da praia. Ela mora lá.
+
+C: A pessoa que venceu a competição recebeu um prêmio.
+S: A pessoa recebeu um prêmio. Ela venceu a competição.
+
+C: O carro que está estacionado na rua é novo.
+S: O carro é novo. Ele está estacionado na rua.
+
+C: O cachorro que encontramos na rua estava perdido.
+S: O cachorro estava perdido. Nós o encontramos na rua.
+
+C: A música que toca no rádio é minha favorita.
+S: A música é minha favorita. Ela toca no rádio.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor é muito inteligente. Ele ensina matemática.
+
+C: A roupa que comprei na loja ficou perfeita em mim.
+S: A roupa ficou perfeita em mim. Eu comprei na loja.
+
+C: O filme que assisti ontem foi muito emocionante.
+S: O filme foi muito emocionante. Eu assisti ontem.
+
+C: A cidade onde nasci é pequena e tranquila.
+S: A cidade é pequena e tranquila. Eu nasci lá.
+
+C: A casa que ela comprou fica perto da praia.
+S: Ela comprou uma casa perto da praia.
+
+C: O livro que estou lendo é muito interessante.
+S: Estou lendo um livro muito interessante.
+
+C: A pessoa que ganhou o prêmio é minha amiga.
+S: A pessoa que ganhou o prêmio é minha amiga.
+
+C: O carro que ele comprou é vermelho.
+S: Ele comprou um carro vermelho.
+
+C: A comida que comemos no restaurante estava deliciosa.
+S: Comemos uma comida deliciosa no restaurante.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: Visitei uma cidade muito bonita nas férias.
+
+C: A música que ela canta é muito bonita.
+S: Ela canta uma música muito bonita.
+
+C: O filme que assisti no cinema foi emocionante.
+S: Assisti um filme emocionante no cinema.
+
+C: O cachorro que ela adotou é muito fofo.
+S: Ela adotou um cachorro muito fofo.
+
+C: A foto que tirei no parque ficou linda.
+S: Tirei uma foto linda no parque.
+
+C: Os alunos que estudaram para a prova conseguiram notas altas.
+S: Os alunos estudaram para a prova. Os alunos conseguiram notas altas.
+
+C: A comida que foi preparada pelo chef estava deliciosa.
+S: A comida foi preparada pelo chef. A comida estava deliciosa.
+
+C: Os trajes que foram usados na festa eram elegantes.
+S: Os trajes foram usados na festa. Os trajes eram elegantes.
+
+C: O livro que eu li no mês passado tinha um final surpreendente.
+S: O livro eu li no mês passado. O livro tinha um final surpreendente.
+
+C: As canetas que foram compradas online chegaram hoje.
+S: As canetas foram compradas online. As canetas chegaram hoje.
+
+C: O carro que foi consertado na oficina está funcionando perfeitamente.
+S: O carro foi consertado na oficina. O carro está funcionando perfeitamente.
+
+C: As flores que foram plantadas no jardim estão desabrochando.
+S: As flores foram plantadas no jardim. As flores estão desabrochando.
+
+C: As pessoas que estavam na fila esperaram pacientemente.
+S: As pessoas estavam na fila. As pessoas esperaram pacientemente.
+
+C: A música que foi tocada no rádio é a minha favorita.
+S: A música foi tocada no rádio. A música é a minha favorita.
+
+C: Os animais que foram resgatados estão sendo cuidados no abrigo.
+S: Os animais foram resgatados. Os animais estão sendo cuidados no abrigo.
+
+C: A casa que foi construída na rua principal está à venda.
+S: A casa foi construída na rua principal. A casa está à venda.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro eu comprei ontem. O livro é muito interessante.
+
+C: As pessoas que moram perto do parque têm fácil acesso à natureza.
+S: As pessoas moram perto do parque. As pessoas têm fácil acesso à natureza.
+
+C: O carro que estava estacionado na rua foi multado.
+S: O carro estava estacionado na rua. O carro foi multado.
+
+C: As crianças que ganharam o jogo comemoraram a vitória.
+S: As crianças ganharam o jogo. As crianças comemoraram a vitória.
+
+C: O cachorro que está latindo é muito agitado.
+S: O cachorro está latindo. O cachorro é muito agitado.
+
+C: A música que eu ouvi na rádio é muito bonita.
+S: A música eu ouvi na rádio. A música é muito bonita.
+
+C: Os livros que são escritos por esse autor são muito populares.
+S: Os livros são escritos por esse autor. Os livros são muito populares.
+
+C: Os alunos que estudaram para a prova tiraram boas notas.
+S: Os alunos estudaram para a prova. Os alunos tiraram boas notas.
+
+C: A praia que eu fui durante as férias era linda.
+S: A praia eu fui durante as férias. A praia era linda.
+
+C: O livro que comprei na livraria tem uma capa bonita.
+S: O livro comprei na livraria. O livro tem uma capa bonita.
+
+C: A cidade em que nasceu minha mãe é muito pequena.
+S: A cidade nasceu minha mãe. A cidade é muito pequena.
+
+C: O personagem que protagoniza o filme é muito famoso.
+S: O personagem protagoniza o filme. O personagem é muito famoso.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música ouvi no rádio. A música é muito animada.
+
+C: A casa em que moro é bem grande.
+S: A casa moro é bem grande. A casa é bem grande.
+
+C: O carro que comprei é vermelho.
+S: O carro comprei é vermelho. O carro é vermelho.
+
+C: A roupa que ela escolheu para a festa é muito elegante.
+S: A roupa ela escolheu para a festa. A roupa é muito elegante.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: A praia que visitamos nas férias era linda.
+S: A praia visitamos nas férias. A praia era linda.
+
+C: O cachorro que encontramos na rua é muito brincalhão.
+S: O cachorro encontramos na rua. O cachorro é muito brincalhão.
+
+C: O livro que eu comprei ontem tem uma capa vermelha. 
+S: O livro que eu comprei ontem tem uma capa vermelha.
+ 
+C: As pessoas que moram naquela rua são muito amigáveis. 
+S: As pessoas que moram naquela rua são muito amigáveis.
+
+C: A sala em que estudamos tem ar condicionado. 
+S: A sala em que estudamos tem ar condicionado.
+
+C: O cachorro que eu adotei é muito brincalhão. 
+S: O cachorro que eu adotei é muito brincalhão.
+
+C: Os filmes que assisti no cinema foram muito bons. 
+S: Os filmes que assisti no cinema foram muito bons.
+
+C: A casa em que moro é muito bonita. 
+S: A casa em que moro é muito bonita.
+
+C: A música que tocou no rádio era tão bonita. 
+S: A música que tocou no rádio era tão bonita.
+
+C: A pessoa que me ajudou é muito generosa. 
+S: A pessoa que me ajudou é muito generosa.
+
+C: O computador que comprei na promoção estava com desconto. 
+S: O computador que comprei na promoção estava com desconto.
+
+C: O amigo que me ligou ontem estava com saudades. 
+S: O amigo que me ligou ontem estava com saudades.
+
+C: A casa que fica na rua de trás foi vendida.
+S: A casa fica na rua de trás. A casa foi vendida.
+
+C: Os alunos que estudam muito conseguem boas notas.
+S: Os alunos estudam muito. Os alunos conseguem boas notas.
+
+C: A mulher que estava na festa era bonita.
+S: A mulher estava na festa. A mulher era bonita.
+
+C: Os livros que foram emprestados devem ser devolvidos até sexta-feira.
+S: Os livros foram emprestados. Os livros devem ser devolvidos até sexta-feira.
+
+C: O cachorro que late muito incomoda os vizinhos.
+S: O cachorro late muito. O cachorro incomoda os vizinhos.
+
+C: A comida que foi servida no restaurante estava deliciosa.
+S: A comida foi servida no restaurante. A comida estava deliciosa.
+
+C: Os jogadores que treinam bastante têm mais chance de vencer.
+S: Os jogadores treinam bastante. Os jogadores têm mais chance de vencer.
+
+C: A música que tocou na rádio é um sucesso.
+S: A música tocou na rádio. A música é um sucesso.
+
+C: As plantas que foram regadas estão mais bonitas.
+S: As plantas foram regadas. As plantas estão mais bonitas.
+
+C: Os carros que passam pela rua estão em alta velocidade.
+S: Os carros passam pela rua. Os carros estão em alta velocidade.
+
+C: O livro que comprei na livraria foi muito interessante.
+S: O livro comprei na livraria foi muito interessante.
+
+C: A garota que mora ao lado tem um cachorro muito dócil.
+S: A garota mora ao lado tem um cachorro muito dócil.
+
+C: Os carros que estão estacionados na rua são todos novos.
+S: Os carros estão estacionados na rua são todos novos.
+
+C: Os alunos que estudam naquele colégio são muito dedicados.
+S: Os alunos estudam naquele colégio são muito dedicados.
+
+C: As rosas que ganhei do meu namorado são lindas.
+S: As rosas ganhei do meu namorado são lindas.
+
+C: A praia que visitamos nas férias tinha águas cristalinas.
+S: A praia visitamos nas férias tinha águas cristalinas.
+
+C: O quadro que comprei na galeria é uma obra de arte.
+S: O quadro comprei na galeria é uma obra de arte.
+
+C: Os filmes que assistimos no cinema são todos de comédia.
+S: Os filmes assistimos no cinema são todos de comédia.
+
+C: A música que ouvi no rádio é muito animada.
+S: A música ouvi no rádio é muito animada.
+
+C: As pessoas que conheci na festa eram todas muito simpáticas.
+S: As pessoas conheci na festa eram todas muito simpáticas.
+
+C: A aluna que ganhou o prêmio é muito dedicada aos estudos.
+S: A aluna ganhou o prêmio. A aluna é muito dedicada aos estudos.
+
+C: O livro que estou lendo tem uma história emocionante.
+S: O livro que estou lendo tem uma história emocionante.
+
+C: As pessoas que participaram do evento estão muito satisfeitas.
+S: As pessoas participaram do evento. As pessoas estão muito satisfeitas.
+
+C: O filme que fui assistir ontem foi muito divertido.
+S: O filme fui assistir ontem. O filme foi muito divertido.
+
+C: A criança que ganhou o brinquedo ficou muito feliz.
+S: A criança ganhou o brinquedo. A criança ficou muito feliz.
+
+C: A música que estou ouvindo é muito bonita.
+S: A música que estou ouvindo é muito bonita.
+
+C: As pessoas que moram naquela cidade estão preocupadas com a segurança.
+S: As pessoas moram naquela cidade. As pessoas estão preocupadas com a segurança.
+
+C: O carro que comprei tem um bom desempenho na estrada.
+S: O carro que comprei tem um bom desempenho na estrada.
+
+C: A casa que visitei no final de semana tinha um belo jardim.
+S: A casa visitei no final de semana. A casa tinha um belo jardim.
+
+C: A comida que experimentei no restaurante estava deliciosa.
+S: A comida experimentei no restaurante. A comida estava deliciosa.
+
+C: A menina que ganhou o concurso de música tem uma voz incrível.
+S: A menina ganhou o concurso de música. A menina tem uma voz incrível.
+
+C: O livro que comprei na loja é muito interessante.
+S: O livro comprei na loja. O livro é muito interessante.
+
+C: A casa que fica perto do rio é muito bonita.
+S: A casa fica perto do rio. A casa é muito bonita.
+
+C: O ônibus que passa na minha rua sempre atrasa.
+S: O ônibus passa na minha rua. O ônibus sempre atrasa.
+
+C: A professora que ensina matemática é muito inteligente.
+S: A professora ensina matemática. A professora é muito inteligente.
+
+C: O cachorro que encontrei no parque não tinha dono.
+S: O cachorro encontrei no parque. O cachorro não tinha dono.
+
+C: O filme que assisti ontem no cinema foi muito emocionante.
+S: O filme assisti ontem no cinema. O filme foi muito emocionante.
+
+C: A música que toca no rádio é a minha favorita.
+S: A música toca no rádio. A música é a minha favorita.
+
+C: O restaurante que fica no centro serve comida deliciosa.
+S: O restaurante fica no centro. O restaurante serve comida deliciosa.
+
+C: O vestido que comprei na loja de departamento é lindo.
+S: O vestido comprei na loja de departamento. O vestido é lindo.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: A pessoa que está falando com a professora é minha irmã.
+S: A pessoa está falando com a professora. A pessoa é minha irmã.
+
+C: O cachorro que está correndo no parque é muito rápido.
+S: O cachorro está correndo no parque. O cachorro é muito rápido.
+
+C: O filme que assisti ontem no cinema foi muito emocionante.
+S: O filme assisti ontem no cinema. O filme foi muito emocionante.
+
+C: A música que está tocando no rádio é minha favorita.
+S: A música está tocando no rádio. A música é minha favorita.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante. A comida estava deliciosa.
+
+C: O carro que vi na rua era vermelho.
+S: O carro vi na rua. O carro era vermelho.
+
+C: A blusa que comprei na loja está na gaveta.
+S: A blusa comprei na loja. A blusa está na gaveta.
+
+C: A casa que visitei no final de semana é muito bonita.
+S: A casa visitei no final de semana. A casa é muito bonita.
+
+C: O colega que senta ao meu lado na aula é muito inteligente.
+S: O colega senta ao meu lado na aula. O colega é muito inteligente.
+
+C: O estudante que estudou bastante conseguiu uma boa nota na prova.
+S: O estudante estudou bastante. O estudante conseguiu uma boa nota na prova.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro eu comprei ontem é muito interessante.
+
+C: A música que ela cantou no show é a minha favorita.
+S: A música ela cantou no show é a minha favorita.
+
+C: A casa que eles alugaram fica perto da praia.
+S: A casa eles alugaram fica perto da praia.
+
+C: A comida que ele preparou para o jantar estava deliciosa.
+S: A comida ele preparou para o jantar estava deliciosa.
+
+C: A pessoa que eu conheci na festa é muito simpática.
+S: A pessoa eu conheci na festa é muito simpática.
+
+C: O filme que nós assistimos no cinema foi muito emocionante.
+S: O filme nós assistimos no cinema foi muito emocionante.
+
+C: O carro que ele comprou é bastante econômico.
+S: O carro ele comprou é bastante econômico.
+
+C: A cidade que eles visitaram nas férias é linda.
+S: A cidade eles visitaram nas férias é linda.
+
+C: A roupa que ela vestiu para a festa era muito elegante.
+S: A roupa ela vestiu para a festa era muito elegante.
+
+C: O cachorro que encontramos na rua estava perdido.
+S: Encontramos um cachorro na rua. O cachorro estava perdido.
+
+C: A casa que foi construída em frente ao parque é muito bonita.
+S: Foi construída uma casa em frente ao parque. A casa é muito bonita.
+
+C: A mulher que estava no supermercado era minha amiga.
+S: Estava uma mulher no supermercado. A mulher era minha amiga.
+
+C: O livro que eu comprei na livraria é muito interessante.
+S: Eu comprei um livro na livraria. O livro é muito interessante.
+
+C: O aluno que ganhou a competição estudou bastante.
+S: Ganhou a competição um aluno. O aluno estudou bastante.
+
+C: A cidade que visitamos nas férias tinha praias maravilhosas.
+S: Visitamos uma cidade nas férias. A cidade tinha praias maravilhosas.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: Comi uma comida no restaurante. A comida estava deliciosa.
+
+C: A pessoa que me ajudou no trabalho foi muito gentil.
+S: Me ajudou no trabalho uma pessoa. A pessoa foi muito gentil.
+
+C: O carro que estava estacionado na rua era vermelho.
+S: Estava estacionado na rua um carro. O carro era vermelho.
+
+C: O filme que assistimos no cinema foi premiado.
+S: Assistimos um filme no cinema. O filme foi premiado.
+
+C: O livro que comprei ontem na livraria é muito interessante.
+S: O livro comprei ontem na livraria. O livro é muito interessante.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa me ajudou. A pessoa foi muito gentil.
+
+C: As crianças que brincam no parque são muito animadas.
+S: As crianças brincam no parque. As crianças são muito animadas.
+
+C: O carro que ele comprou custou uma fortuna.
+S: O carro ele comprou. O carro custou uma fortuna.
+
+C: Os animais que vivem na floresta são muito diversos.
+S: Os animais vivem na floresta. Os animais são muito diversos.
+
+C: A música que ouvi no rádio era muito bonita.
+S: A música ouvi no rádio. A música era muito bonita.
+
+C: Os alunos que estudam muito costumam tirar boas notas.
+S: Os alunos estudam muito. Os alunos costumam tirar boas notas.
+
+C: A cidade que visitamos nas férias era linda.
+S: A cidade visitamos nas férias. A cidade era linda.
+
+C: As pessoas que moram nesse bairro são muito amigáveis.
+S: As pessoas moram nesse bairro. As pessoas são muito amigáveis.
+
+C: O filme que assisti ontem no cinema foi emocionante.
+S: O filme assisti ontem no cinema. O filme foi emocionante.
+
+C: Os alunos que estudam muito conseguem boas notas.
+S: Os alunos estudam muito. Os alunos conseguem boas notas.
+
+C: A casa que fica na esquina foi vendida.
+S: A casa fica na esquina. A casa foi vendida.
+
+C: O livro que o professor indicou é muito interessante.
+S: O livro o professor indicou é muito interessante. 
+
+C: O cachorro que ganhou o concurso de beleza é muito bonito.
+S: O cachorro ganhou o concurso de beleza. O cachorro é muito bonito.
+
+C: O prato que comi no restaurante estava delicioso.
+S: O prato comi no restaurante estava delicioso.
+
+C: A música que tocou no rádio é minha favorita.
+S: A música tocou no rádio. A música é minha favorita.
+
+C: A cidade que visitei nas férias tem lindas praias.
+S: A cidade visitei nas férias tem lindas praias.
+
+C: O filme que assisti no cinema é de suspense.
+S: O filme assisti no cinema é de suspense.
+
+C: A pessoa que conheci na festa é uma escritora famosa.
+S: A pessoa conheci na festa é uma escritora famosa.
+
+C: O jogo que vimos no estádio foi emocionante.
+S: O jogo vimos no estádio foi emocionante.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: Eu comprei um livro ontem. O livro é muito interessante.
+
+C: A casa que fica ao lado da minha é azul.
+S: A casa fica ao lado da minha. A casa é azul.
+
+C: A pessoa que ganhou o prêmio é meu melhor amigo.
+S: A pessoa ganhou o prêmio. A pessoa é meu melhor amigo.
+
+C: A cidade que visitei nas férias é bonita.
+S: A cidade visitei nas férias. A cidade é bonita.
+
+C: A roupa que comprei na loja é de alta qualidade.
+S: A roupa comprei na loja. A roupa é de alta qualidade.
+
+C: O carro que estava estacionado na rua era vermelho.
+S: O carro estava estacionado na rua. O carro era vermelho.
+
+C: A comida que eu pedi no restaurante estava deliciosa.
+S: A comida eu pedi no restaurante. A comida estava deliciosa.
+
+C: A pessoa que vi no parque estava correndo.
+S: A pessoa vi no parque. A pessoa estava correndo.
+
+C: O celular que comprei recentemente tem uma ótima câmera.
+S: O celular comprei recentemente. O celular tem uma ótima câmera.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme assisti no cinema. O filme foi emocionante.
+
+C: A casa que fica ao lado do parque é amarela.
+S: A casa ao lado do parque é amarela.
+
+C: As pessoas que chegaram atrasadas perderam a palestra.
+S: As pessoas chegaram atrasadas perderam a palestra.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria é muito interessante.
+
+C: A praia que visitamos no verão fica no litoral norte.
+S: A praia visitamos no verão fica no litoral norte.
+
+C: Os animais que vivem na floresta são muito diversos.
+S: Os animais vivem na floresta são muito diversos.
+
+C: A comida que prepararam para o jantar estava deliciosa.
+S: A comida prepararam para o jantar estava deliciosa.
+
+C: O carro que ganhei do meu pai é vermelho.
+S: O carro ganhei do meu pai é vermelho.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade visitei nas férias é muito bonita.
+
+C: A música que tocou na festa era muito animada.
+S: A música tocou na festa era muito animada.
+
+C: A roupa que usei na festa estava elegante.
+S: A roupa usei na festa estava elegante.
+
+C: O livro que comprei hoje é muito interessante.
+S: O livro é muito interessante. Comprei hoje.
+
+C: A música que meu irmão está ouvindo é muito animada.
+S: A música é muito animada. Meu irmão está ouvindo.
+
+C: O filme que assisti ontem foi emocionante.
+S: O filme foi emocionante. Assisti ontem.
+
+C: A casa que foi construída no final da rua é muito bonita.
+S: A casa é muito bonita. Foi construída no final da rua.
+
+C: O cachorro que encontrei no parque era muito dócil.
+S: O cachorro era muito dócil. Encontrei no parque.
+
+C: A cidade que visitei nas férias tinha praias lindas.
+S: A cidade tinha praias lindas. Visitei nas férias.
+
+C: O restaurante que fomos jantar esta noite tinha um menu variado.
+S: O restaurante tinha um menu variado. Fomos jantar esta noite.
+
+C: A rua que atravessa a cidade é muito movimentada durante o dia.
+S: A rua é muito movimentada durante o dia. Atravessa a cidade.
+
+C: As flores que comprei para a festa eram muito perfumadas.
+S: As flores eram muito perfumadas. Comprei para a festa.
+
+C: A praia que visitamos no verão tinha águas cristalinas.
+S: A praia tinha águas cristalinas. Visitamos no verão.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem é muito interessante.
+
+C: O carro que bateu de frente com o ônibus estava em alta velocidade.
+S: O carro bateu de frente com o ônibus estava em alta velocidade.
+
+C: A pessoa que encontramos na festa é uma amiga antiga.
+S: A pessoa encontramos na festa é uma amiga antiga.
+
+C: A música que ouvimos no rádio é a minha favorita.
+S: A música ouvimos no rádio é a minha favorita.
+
+C: O restaurante que fomos no fim de semana tem uma ótima comida.
+S: O restaurante fomos no fim de semana tem uma ótima comida.
+
+C: As pessoas que trabalham nessa empresa são muito competentes.
+S: As pessoas trabalham nessa empresa são muito competentes.
+
+C: O cachorro que encontramos na rua estava abandonado.
+S: O cachorro encontramos na rua estava abandonado.
+
+C: A praia que visitamos nas férias era paradisíaca.
+S: A praia visitamos nas férias era paradisíaca.
+
+C: A casa que alugamos para o verão é espaçosa e confortável.
+S: A casa alugamos para o verão é espaçosa e confortável.
+
+C: A pessoa que ganhou o prêmio é muito talentosa.
+S: A pessoa ganhou o prêmio é muito talentosa.
+
+C: A casa que foi construída no alto da colina tem uma vista deslumbrante.
+S: A casa foi construída no alto da colina. A casa tem uma vista deslumbrante.
+
+C: A comida que foi servida no restaurante era deliciosa.
+S: A comida foi servida no restaurante. A comida era deliciosa.
+
+C: O carro que foi comprado pelo meu pai é muito veloz.
+S: O carro foi comprado pelo meu pai. O carro é muito veloz.
+
+C: As pessoas que estão na fila estão esperando há horas.
+S: As pessoas estão na fila. As pessoas estão esperando há horas.
+
+C: A camisa que foi lavada ontem ainda está úmida.
+S: A camisa foi lavada ontem. A camisa ainda está úmida.
+
+C: As flores que foram plantadas no jardim estão florescendo.
+S: As flores foram plantadas no jardim. As flores estão florescendo.
+
+C: O filme que foi indicado ao Oscar recebeu muitos elogios da crítica.
+S: O filme foi indicado ao Oscar. O filme recebeu muitos elogios da crítica.
+
+C: O livro que foi emprestado para mim é muito interessante.
+S: O livro foi emprestado para mim. O livro é muito interessante.
+
+C: O professor que foi contratado pela escola é muito competente.
+S: O professor foi contratado pela escola. O professor é muito competente.
+
+C: A música que foi tocada no rádio ficou na minha cabeça o dia todo.
+S: A música foi tocada no rádio. A música ficou na minha cabeça o dia todo.
+
+C: A casa que foi construída no final da rua é a mais bonita do bairro.
+S: A casa foi construída no final da rua. A casa é a mais bonita do bairro.
+
+C: A comida que estava no refrigerador estragou.
+S: A comida estava no refrigerador. A comida estragou.
+
+C: O menino que ganhou o prêmio de melhor aluno está muito feliz.
+S: O menino ganhou o prêmio de melhor aluno. O menino está muito feliz.
+
+C: A música que tocou no rádio era muito animada.
+S: A música tocou no rádio. A música era muito animada.
+
+C: O livro que li na semana passada tinha um final surpreendente.
+S: O livro li na semana passada. O livro tinha um final surpreendente.
+
+C: O vestido que comprei para a festa não serviu.
+S: O vestido comprei para a festa. O vestido não serviu.
+
+C: O cachorro que mora ao lado não para de latir.
+S: O cachorro mora ao lado. O cachorro não para de latir.
+
+C: O carro que bateu no poste estava em alta velocidade.
+S: O carro bateu no poste. O carro estava em alta velocidade.
+
+C: O professor que ensina matemática é muito bom.
+S: O professor ensina matemática. O professor é muito bom.
+
+C: A cidade que visitei nas férias tinha paisagens deslumbrantes.
+S: A cidade visitei nas férias. A cidade tinha paisagens deslumbrantes.
+
+C: Os livros que estão na estante são os meus favoritos.
+S: Os livros estão na estante. Os livros são os meus favoritos.
+
+C: A casa que foi construída ao lado da minha é muito bonita.
+S: A casa foi construída ao lado da minha. A casa é muito bonita.
+
+C: O aluno que tirou a nota mais alta na prova ganhará um prêmio.
+S: O aluno tirou a nota mais alta na prova. O aluno ganhará um prêmio.
+
+C: O carro que comprei no ano passado já apresentou vários problemas.
+S: O carro comprei no ano passado. O carro já apresentou vários problemas.
+
+C: A música que tocaram na festa era muito animada.
+S: A música tocaram na festa. A música era muito animada.
+
+C: As flores que ganhei de presente são lindas.
+S: As flores ganhei de presente são lindas.
+
+C: A rua que leva ao parque é muito movimentada.
+S: A rua leva ao parque é muito movimentada.
+
+C: A pessoa que ganhar o concurso receberá um prêmio em dinheiro.
+S: A pessoa ganhar o concurso receberá um prêmio em dinheiro.
+
+C: A comida que meu amigo preparou estava deliciosa.
+S: A comida meu amigo preparou estava deliciosa.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo é muito interessante.
+
+C: Os livros que estão na estante são todos de romance.
+S: Os livros estão na estante. Os livros são todos de romance.
+
+C: A casa em que eu cresci era muito aconchegante.
+S: A casa em que eu cresci era muito aconchegante.
+
+C: O professor que deu aula ontem é muito exigente.
+S: O professor deu aula ontem. O professor é muito exigente.
+
+C: Os jogadores que participaram do treino foram elogiados pelo técnico.
+S: Os jogadores participaram do treino. Os jogadores foram elogiados pelo técnico.
+
+C: O filme que ganhou o prêmio de melhor do ano foi muito emocionante.
+S: O filme ganhou o prêmio de melhor do ano. O filme foi muito emocionante.
+
+C: A comida que eu comi no restaurante era deliciosa.
+S: A comida eu comi no restaurante era deliciosa.
+
+C: A empresa em que ele trabalha é líder de mercado.
+S: A empresa em que ele trabalha é líder de mercado.
+
+C: O carro que ele comprou é muito potente.
+S: O carro ele comprou é muito potente.
+
+C: A música que eu estava ouvindo era muito animada.
+S: A música eu estava ouvindo era muito animada.
+
+C: O livro que estou lendo é bastante interessante.
+S: O livro estou lendo é bastante interessante.
+
+C: A casa que eu comprei fica perto da praia.
+S: A casa fica perto da praia. Eu comprei a casa.
+
+C: O filme que ganhou o prêmio foi dirigido por um brasileiro.
+S: O filme foi dirigido por um brasileiro. O filme ganhou o prêmio.
+
+C: A pessoa que me ajudou foi muito gentil.
+S: A pessoa foi muito gentil. A pessoa me ajudou.
+
+C: O livro que estou lendo tem uma história interessante.
+S: O livro tem uma história interessante. Eu estou lendo o livro.
+
+C: O restaurante que eu fui ontem serve comida japonesa.
+S: O restaurante serve comida japonesa. Eu fui ao restaurante ontem.
+
+C: A música que você está ouvindo é minha favorita.
+S: A música é minha favorita. Você está ouvindo a música.
+
+C: O cachorro que encontrei na rua estava perdido.
+S: O cachorro estava perdido. Eu encontrei o cachorro na rua.
+
+C: A cidade que visitei nas férias tem paisagens deslumbrantes.
+S: A cidade tem paisagens deslumbrantes. Eu visitei a cidade nas férias.
+
+C: O brinquedo que comprei para o meu sobrinho é muito divertido.
+S: O brinquedo é muito divertido. Eu comprei o brinquedo para o meu sobrinho.
+
+C: O computador que estou usando é muito rápido.
+S: O computador é muito rápido. Eu estou usando o computador.
+
+C: A casa que foi construída no alto da colina tem uma vista incrível.
+S: A casa foi construída no alto da colina. A casa tem uma vista incrível.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo é muito interessante.
+
+C: As músicas que o cantor compôs são muito populares.
+S: As músicas o cantor compôs são muito populares.
+
+C: A equipe que ganhou o campeonato treinou muito duro.
+S: A equipe ganhou o campeonato. A equipe treinou muito duro.
+
+C: O restaurante que eu fui ontem tinha uma comida deliciosa.
+S: O restaurante eu fui ontem tinha uma comida deliciosa.
+
+C: As pessoas que moram nessa rua são muito amigáveis.
+S: As pessoas moram nessa rua são muito amigáveis.
+
+C: O carro que meu pai comprou é muito econômico.
+S: O carro meu pai comprou é muito econômico.
+
+C: Os sapatos que a modelo estava usando eram muito bonitos.
+S: Os sapatos a modelo estava usando eram muito bonitos.
+
+C: A praia que visitamos durante as férias tinha uma água cristalina.
+S: A praia visitamos durante as férias tinha uma água cristalina.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema foi muito emocionante.
+
+C: A mulher que estava usando um vestido vermelho chamou a atenção de todos na festa.
+S: A mulher estava usando um vestido vermelho. A mulher chamou a atenção de todos na festa.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro comprei ontem é muito interessante. O livro é muito interessante.
+
+C: O jogo de futebol que assisti ontem foi emocionante.
+S: O jogo de futebol assisti ontem foi emocionante. O jogo foi emocionante.
+
+C: O aluno que ganhou o prêmio foi elogiado pelo professor.
+S: O aluno ganhou o prêmio foi elogiado pelo professor. O aluno foi elogiado pelo professor.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida comi no restaurante estava deliciosa. A comida estava deliciosa.
+
+C: A música que ouvi na rádio é da minha banda favorita.
+S: A música ouvi na rádio é da minha banda favorita. A música é da minha banda favorita.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade visitei nas férias é muito bonita. A cidade é muito bonita.
+
+C: A casa que aluguei tem um lindo jardim.
+S: A casa aluguei tem um lindo jardim. A casa tem um lindo jardim.
+
+C: O cachorro que encontramos na rua estava perdido.
+S: O cachorro encontramos na rua estava perdido. O cachorro estava perdido.
+
+C: A pessoa que me ligou ontem era um desconhecido.
+S: A pessoa me ligou ontem era um desconhecido. A pessoa era um desconhecido.
+
+C: A casa que foi construída no topo da colina possui uma vista privilegiada.
+S: A casa foi construída no topo da colina. A casa possui uma vista privilegiada.
+
+C: O livro que ganhei de presente é muito interessante.
+S: O livro ganhei de presente. O livro é muito interessante.
+
+C: O carro que foi roubado foi encontrado abandonado no centro da cidade.
+S: O carro foi roubado. O carro foi encontrado abandonado no centro da cidade.
+
+C: O menino que ganhou o concurso de matemática recebeu um prêmio especial.
+S: O menino ganhou o concurso de matemática. O menino recebeu um prêmio especial.
+
+C: O professor que ensina a disciplina de história é muito experiente.
+S: O professor ensina a disciplina de história. O professor é muito experiente.
+
+C: A empresa que produz esse produto é líder de mercado.
+S: A empresa produz esse produto. A empresa é líder de mercado.
+
+C: A comida que foi servida no restaurante era deliciosa.
+S: A comida foi servida no restaurante. A comida era deliciosa.
+
+C: A roupa que comprei na loja ficou perfeita em mim.
+S: A roupa comprei na loja. A roupa ficou perfeita em mim.
+
+C: O filme que assisti no cinema era muito emocionante.
+S: O filme assisti no cinema. O filme era muito emocionante.
+
+C: A música que ouvi no rádio era a minha favorita.
+S: A música ouvi no rádio. A música era a minha favorita.
+
+C: O carro que está estacionado na frente da casa é meu.
+S: O carro está estacionado na frente da casa. O carro é meu.
+
+C: As pessoas que estavam na festa se divertiram muito.
+S: As pessoas estavam na festa. As pessoas se divertiram muito.
+
+C: O livro que estou lendo é muito interessante.
+S: O livro estou lendo é muito interessante. O livro é muito interessante.
+
+C: Os alunos que estudam na biblioteca são dedicados.
+S: Os alunos estudam na biblioteca. Os alunos são dedicados.
+
+C: O cachorro que foi adotado é muito brincalhão.
+S: O cachorro foi adotado. O cachorro é muito brincalhão.
+
+C: As crianças que moram naquela rua são muito barulhentas.
+S: As crianças moram naquela rua. As crianças são muito barulhentas.
+
+C: A música que está tocando no rádio é minha favorita.
+S: A música está tocando no rádio. A música é minha favorita.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme assisti no cinema. O filme foi emocionante.
+
+C: A cidade que visitei nas férias é linda.
+S: A cidade visitei nas férias. A cidade é linda.
+
+C: A pessoa que ganhou o prêmio é muito talentosa.
+S: A pessoa ganhou o prêmio. A pessoa é muito talentosa.
+
+C: A menina que tinha um lindo sorriso brincava no parque.
+S: A menina tinha um lindo sorriso. A menina brincava no parque.
+
+C: O livro que comprei na livraria é muito interessante.
+S: O livro comprei na livraria. O livro é muito interessante.
+
+C: A praia onde passamos as férias era paradisíaca.
+S: A praia passamos as férias. A praia era paradisíaca.
+
+C: As pessoas que estudam muito têm melhores resultados.
+S: As pessoas estudam muito. As pessoas têm melhores resultados.
+
+C: O cachorro que encontrei na rua estava perdido.
+S: O cachorro encontrei na rua. O cachorro estava perdido.
+
+C: O carro que comprei na concessionária é vermelho.
+S: O carro comprei na concessionária. O carro é vermelho.
+
+C: A música que tocou no rádio era muito bonita.
+S: A música tocou no rádio. A música era muito bonita.
+
+C: O prato que comi no restaurante estava delicioso.
+S: O prato comi no restaurante. O prato estava delicioso.
+
+C: A paisagem que vi da janela do avião era deslumbrante.
+S: A paisagem vi da janela do avião. A paisagem era deslumbrante.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema. O filme foi muito emocionante.
+
+C: As crianças que estão brincando no parque são muito divertidas.
+S: As crianças estão brincando no parque. As crianças são muito divertidas.
+
+C: A casa que foi construída na esquina tem um belo jardim.
+S: A casa foi construída na esquina. A casa tem um belo jardim.
+
+C: A professora que leciona matemática é muito dedicada.
+S: A professora leciona matemática. A professora é muito dedicada.
+
+C: O livro que ganhei de presente é muito interessante.
+S: O livro ganhei de presente. O livro é muito interessante.
+
+C: O restaurante que fica próximo à praia serve peixes frescos.
+S: O restaurante fica próximo à praia. O restaurante serve peixes frescos.
+
+C: A música que tocou na rádio estava entre as mais pedidas.
+S: A música tocou na rádio. A música estava entre as mais pedidas.
+
+C: Os alunos que participaram da competição foram premiados.
+S: Os alunos participaram da competição. Os alunos foram premiados.
+
+C: A cidade que visitei nas férias tem belas praias.
+S: A cidade visitei nas férias. A cidade tem belas praias.
+
+C: Os cachorros que estão brincando no parque são muito sociáveis.
+S: Os cachorros estão brincando no parque. Os cachorros são muito sociáveis.
+
+C: A foto que tirei na viagem ficou perfeita.
+S: A foto tirei na viagem. A foto ficou perfeita.
+
+C: A casa que foi construída recentemente tem um belo jardim nos fundos.
+S: A casa foi construída recentemente. A casa tem um belo jardim nos fundos.
+
+C: A mulher que encontramos na festa é amiga do meu irmão.
+S: A mulher é amiga do meu irmão. Nós a encontramos na festa.
+
+C: O livro que estou lendo agora é muito interessante.
+S: O livro é muito interessante. Eu estou lendo agora.
+
+C: O carro que comprei no mês passado foi roubado.
+S: O carro foi roubado. Eu comprei no mês passado.
+
+C: O filme que assisti ontem estava cheio de ação e suspense.
+S: O filme estava cheio de ação e suspense. Eu assisti ontem.
+
+C: Os alunos que estudam naquela escola são muito dedicados.
+S: Os alunos são muito dedicados. Eles estudam naquela escola.
+
+C: A música que tocou na rádio é a minha favorita.
+S: A música é a minha favorita. Ela tocou na rádio.
+
+C: O cachorro que encontramos na rua estava perdido.
+S: O cachorro estava perdido. Nós o encontramos na rua.
+
+C: A camiseta que comprei na loja custou muito barato.
+S: A camiseta custou muito barato. Eu comprei na loja.
+
+C: O restaurante que fomos ontem à noite estava lotado.
+S: O restaurante estava lotado. Nós fomos ontem à noite.
+
+C: O livro que comprei é muito interessante.
+S: O livro comprei é muito interessante.
+
+C: As pessoas que moram no prédio são muito simpáticas.
+S: As pessoas moram no prédio são muito simpáticas.
+
+C: A cidade onde nasci é muito bonita.
+S: A cidade nasci é muito bonita.
+
+C: A comida que ela preparou estava deliciosa.
+S: A comida preparou estava deliciosa.
+
+C: O celular que comprei é muito moderno.
+S: O celular comprei é muito moderno.
+
+C: Os filmes que assisti ontem à noite foram muito bons.
+S: Os filmes assisti ontem à noite foram muito bons.
+
+C: A música que ele cantou no show era a minha favorita.
+S: A música cantou no show era a minha favorita.
+
+C: O carro que ele comprou é muito caro.
+S: O carro comprou é muito caro.
+
+C: A casa onde moro é muito espaçosa.
+S: A casa moro é muito espaçosa.
+
+C: O livro que li na semana passada foi muito emocionante.
+S: O livro li na semana passada foi muito emocionante.
+
+C: A casa que foi construída há 50 anos é a mais antiga do bairro.
+S: A casa foi construída há 50 anos. A casa é a mais antiga do bairro.
+
+C: O aluno que tirou a maior nota na prova ganhará um prêmio.
+S: O aluno tirou a maior nota na prova. O aluno ganhará um prêmio.
+
+C: A comida que foi preparada pelo chef está deliciosa.
+S: A comida foi preparada pelo chef. A comida está deliciosa.
+
+C: O livro que foi escrito pela minha autora favorita é imperdível.
+S: O livro foi escrito pela minha autora favorita. O livro é imperdível.
+
+C: As flores que foram plantadas no jardim estão desabrochando.
+S: As flores foram plantadas no jardim. As flores estão desabrochando.
+
+C: A música que foi composta pelo meu amigo é um sucesso.
+S: A música foi composta pelo meu amigo. A música é um sucesso.
+
+C: O carro que foi fabricado no Brasil ganhou o prêmio de melhor do ano.
+S: O carro foi fabricado no Brasil. O carro ganhou o prêmio de melhor do ano.
+
+C: A roupa que foi costurada pela minha avó ficou perfeita.
+S: A roupa foi costurada pela minha avó. A roupa ficou perfeita.
+
+C: O computador que foi desenvolvido pela empresa é o mais avançado do mercado.
+S: O computador foi desenvolvido pela empresa. O computador é o mais avançado do mercado.
+
+C: A geladeira que foi consertada pelo técnico voltou a funcionar.
+S: A geladeira foi consertada pelo técnico. A geladeira voltou a funcionar.
+
+C: O carro que foi roubado ontem à noite ainda não foi encontrado.
+S: O carro foi roubado ontem à noite. O carro ainda não foi encontrado.
+
+C: O livro que ganhei de presente é muito interessante.
+S: O livro ganhei de presente. O livro é muito interessante.
+
+C: A comida que preparei para o jantar estava deliciosa.
+S: A comida preparei para o jantar. A comida estava deliciosa.
+
+C: A cidade que visitei no ano passado era muito bonita.
+S: A cidade visitei no ano passado. A cidade era muito bonita.
+
+C: O cachorro que adotei é muito brincalhão.
+S: O cachorro adotei. O cachorro é muito brincalhão.
+
+C: O filme que assisti no cinema foi muito emocionante.
+S: O filme assisti no cinema. O filme foi muito emocionante.
+
+C: O amigo que encontrei na festa está morando no exterior.
+S: O amigo encontrei na festa. O amigo está morando no exterior.
+
+C: A casa que alugamos para as férias fica perto da praia.
+S: A casa alugamos para as férias. A casa fica perto da praia.
+
+C: A música que ouvi no rádio é a minha favorita.
+S: A música ouvi no rádio. A música é a minha favorita.
+
+C: O trabalho que apresentei na reunião foi elogiado pelo chefe.
+S: O trabalho apresentei na reunião. O trabalho foi elogiado pelo chefe.
+
+C: O livro que eu comprei tem uma capa bonita.
+S: O livro tem uma capa bonita. Eu comprei o livro.
+
+C: A cidade onde nasci é muito bonita.
+S: A cidade é muito bonita. Eu nasci na cidade.
+
+C: A pessoa que ganhou o prêmio ficou muito feliz.
+S: A pessoa ficou muito feliz. Ela ganhou o prêmio.
+
+C: O professor que ensina matemática é muito inteligente.
+S: O professor é muito inteligente. Ele ensina matemática.
+
+C: A música que eu gosto é de uma banda famosa.
+S: A música é de uma banda famosa. Eu gosto da música.
+
+C: O cachorro que eu adotei é muito brincalhão.
+S: O cachorro é muito brincalhão. Eu adotei o cachorro.
+
+C: A comida que eu preparei ficou deliciosa.
+S: A comida ficou deliciosa. Eu preparei a comida.
+
+C: O filme que eu assisti ontem foi muito emocionante.
+S: O filme foi muito emocionante. Eu assisti o filme ontem.
+
+C: O carro que eu dirijo é velho, mas ainda funciona bem.
+S: O carro é velho, mas ainda funciona bem. Eu dirijo o carro.
+
+C: O colega que me ajudou na tarefa é muito inteligente.
+S: O colega é muito inteligente. Ele me ajudou na tarefa.
+

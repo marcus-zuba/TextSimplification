@@ -1,0 +1,31 @@
+(3) Orações subordinadas adverbiais
+
+b. Comparativas: estabelecem uma comparação com a ação indicada pelo verbo na
+oração principal: tão que/do que, tanto que/do que, pior que/do que, melhor que/do
+que, maior que/do que, como, assim como, assim, etc.
+
+Regra para 'assim como', 'tanto...quanto' e similares: Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada.
+2) Sentença para a cláusula subordinada, eliminado-se o marcador de comparação e
+acrescentando-se 'também', seguido pela reprodução do verbo da oração principal,
+caso este esteja oculto. O sujeito da sentença pode precisar ser reproduzido.
+  -> Definir a posição do marcador 'também' procurando manter a ordem S-V-O.
+
+Exemplos:
+Complexa: Ele não foi localizado pela Agência Folha , assim como os outros deputados dissidentes.
+Simplificada: Ele não foi localizado pela Agência Folha. Os outros deputados dissidentes também não foram localizados.
+
+Complexa: Estamos entre os maiores tomadores de créditos do BNDES , assim como somos provavelmente uma das empresas que mais investe em expansão e em modernização .
+Simplificada: Estamos entre os maiores tomadores de créditos do BNDES. Também somos provavelmente uma das empresas que mais investe em expansão e em modernização.
+
+Complexa: O presidente da República ofereceu à cúpula tanto participação na campanha quanto no seu futuro governo .
+Simplificada: O presidente da República ofereceu à cúpula participação na campanha. O presidente também ofereceu à cúpula participação no seu futuro governo .
+
+Observação (1): Não simplificar demais marcadores, principalmente se o verbo da
+oração principal for de ligação, ou mesmo os marcadores 'assim como' e 'tanto quanto'
+quando as orações (principal ou subordinada) forem muito curtas, por exemplo:
+
+O cachê dos apresentadores foi bem maior que o destinado à entidade . 
+Mohammed chegou nos anos 50 a dispor de uma fortuna maior que a da família real saudita .
+Esse negócio é melhor que montar uma quadrilha e roubar banco .
+Mas a verba do ministério não aumentou tanto quanto deveria .

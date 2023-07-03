@@ -1,0 +1,67 @@
+(2) Orações subordinadas adjetivas (ou orações relativas)
+
+a. Explicativas: não limitam o sentido do antecedente, acrescentam uma informação
+que pode ser eliminada sem prejuízo para a compreensão lógica da sentença. Vêm
+entre vírgulas, sempre introduzidas por pronome relativo (que, quem, o qual, a
+qual, os quais, as quais, onde, cujo, quanto, etc.)
+
+Regra: Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada.
+2) Sentença para a cláusula subordinada, a qual terá como sujeito o núcleo do termo da oração principal explicado pela subordinada (ou o termo completo, caso o núcleo não seja suficiente), seguido da subordinada, propriamente dita, eliminando-se seu pronome relativo.
+
+Exemplos:
+
+Complexa: Mas Severino disse que nenhuma delas seguirá para o plenário da Câmara, que dá a palavra final, antes de recomendação formal da CPI.
+Simplificada: Mas Severino disse que nenhuma delas seguirá para o plenário da Câmara antes de recomendação formal da CPI. O plenário dá a palavra final.
+
+Complexa: Mas Severino disse que nenhuma delas seguirá para o plenário da Câmara antes de recomendação formal da CPI, o que pode demorar meses.
+Simplificada: Mas Severino disse que nenhuma delas seguirá para o plenário da Câmara antes de recomendação formal da CPI. A recomendação pode demorar meses.
+
+Complexa: "Compete à CPI condenar ou absolver", disse o presidente da Câmara, que se disse "surpreendido" com a renúncia de Valdemar e elogiou sua "bravura".
+Simplificada: "Compete à CPI condenar ou absolver", disse o presidente da Câmara. O presidente se disse "surpreendido" com a renúncia de Valdemar e elogiou sua "bravura".
+
+Complexa:Mas a expectativa é que ao menos o ex-presidente da Câmara João Paulo Cunha (SP) - que ontem descartava a hipótese de renúncia - participe da reunião.
+Simplificada: Mas a expectativa é que ao menos o ex-presidente da Câmara João Paulo Cunha (SP) participe da reunião. O ex-presidente da Câmara ontem descartava a hipótese de renúncia.
+
+Complexa: A sabatina, que é aberta à participação dos assinantes da Folha, será no Teatro Folha.
+Simplificada: A sabatina será no Teatro Folha. A sabatina é aberta à participação dos assinantes da Folha.
+
+Complexa: O governo criou o Ministério de Assistência e Promoção Social, o qual irá avaliar os programas já existentes .
+Simplificada: O governo criou o Ministério de Assistência e Promoção Social. O Ministério de Assistência e Promoção Social irá avaliar os programas já existentes .
+
+Complexa: Pretende-se tratar sem pressa da mudança na Cofins , que deixa de incidir sobre todas as etapas da produção .
+Simplificada: Pretende-se tratar sem pressa da mudança na Cofins. A mudança na Cofins deixa de incidir sobre todas as etapas da produção .
+
+Complexa: A ambição brasileira de conseguir um assento permanente no Conselho de Segurança das Nações Unidas foi praticamente enterrada ontem, com a decisão dos países africanos de não aceitar o acordo para um projeto conjunto de reforma com o G4, como é chamado o grupo formado por Brasil, Alemanha, Índia e Japão.
+Simplificada: A ambição brasileira de conseguir um assento permanente no Conselho de Segurança das Nações Unidas foi praticamente enterrada ontem, com a decisão dos países africanos de não aceitar o acordo para um projeto conjunto de reforma com o G4. G4 é chamado o grupo formado por Brasil, Alemanha, Índia e Japão.
+
+Observação (1): a construção da sentença para a cláusula relativa pode exigir a reprodução de outros termos da oração principal, como o objeto, por exemplo:
+
+Complexa: O principal ponto de discórdia é o poder de veto, que o G4 já concordou em abrir mão, ao menos pelos próximos 15 anos.
+Simplificada: O principal ponto de discórdia é o poder de veto. O G4 já concordou em abrir mão do poder de veto, ao menos pelos próximos 15 anos.
+
+Observação (2): a construção da sentença para a cláusula relativa pode exigir a alteração da ordem dos elementos para manter o principio S-V-0, por exemplo:
+
+Complexa: Desse total, só R$ 2,830 milhões são transferidos na segunda-feira seguinte para a conta da SMPB no Rural, de onde sai o dinheiro para os indicados pelo ex-tesoureiro do PT Delúbio Soares.
+Simplificada: Desse total, só R$ 2,830 milhões são transferidos na segunda-feira seguinte para a conta da SMPB no Rural. O dinheiro para os indicados pelo ex-tesoureiro do PT Delúbio Soares sai da conta da SMPB no Rural. 
+
+Complexa: Não há interesse em fazer do conselho o ambiente de debates que pertence ao Congresso Nacional, com o qual queremos excelente relação .
+Simplificada: Não há interesse em fazer do conselho o ambiente de debates que pertence ao Congresso Nacional. Queremos excelente relação com o Congresso Nacional.
+
+Complexa: Mercadante já teve uma primeira conversa com Lula, na qual disse que sua inclinação é pelo Senado.
+Simplificada: Mercadante já teve uma primeira conversa com Lula. Mercadante disse na conversa que sua inclinação é pelo Senado.
+
+Regra para 'o que': Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada.
+2) Sentença para a cláusula subordinada, a qual terá como sujeito 'isso', seguido da subordinada, propriamente dita, eliminando-se o pronome relativo 'o que'.
+
+Exemplos:
+
+Complexa: Os R$ 55,2 milhões dos supostos empréstimos não foram integralmente destinados ao caixa dois do PT, o que contraria versão apresentada por Valério à CPI dos Correios.
+Simplificada: Os R$ 55,2 milhões dos supostos empréstimos não foram integralmente destinados ao caixa dois do PT. Isso contraria versão apresentada por Valério à CPI dos Correios.
+
+Complexa: Luiz Inácio Lula da Silva disse que a empresa deveria procurar as prefeituras petistas, o que foi feito com o seu auxílio no passado.
+Simplificada: Luiz Inácio Lula da Silva disse que a empresa deveria procurar as prefeituras petistas. Isso foi feito com o seu auxílio no passado.
+
+Complexa: O presidente Fernando Henrique Cardoso também enviou sua mensagem , o que me deixa muito gratificado .
+Simplificada: O presidente Fernando Henrique Cardoso também enviou sua mensagem. Isso me deixa muito gratificado .

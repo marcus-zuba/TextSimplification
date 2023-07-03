@@ -1,0 +1,3931 @@
+C: O time treinou duro e venceu o jogo.
+S: O time treinou duro. O time venceu o jogo.
+
+C: Ela estudou muito e passou no exame.
+S: Ela estudou muito. Ela passou no exame.
+
+C: Eles saíram de casa e chegaram ao destino final.
+S: Eles saíram de casa. Eles chegaram ao destino final.
+
+C: Nós fomos ao mercado e compramos os ingredientes necessários.
+S: Nós fomos ao mercado. Nós compramos os ingredientes necessários.
+
+C: Eu acordei cedo e tomei café da manhã.
+S: Eu acordei cedo. Eu tomei café da manhã.
+
+C: Ela conversou com o chefe e pediu um aumento de salário.
+S: Ela conversou com o chefe. Ela pediu um aumento de salário.
+
+C: Eles se exercitaram e se sentiram mais energizados.
+S: Eles se exercitaram. Eles se sentiram mais energizados.
+
+C: Nós assistimos ao filme e gostamos bastante.
+S: Nós assistimos ao filme. Nós gostamos bastante.
+
+C: Ele terminou o trabalho e enviou por e-mail.
+S: Ele terminou o trabalho. Ele enviou por e-mail.
+
+C: Ela fez a sobremesa e todos elogiaram.
+S: Ela fez a sobremesa. Todos elogiaram.
+
+C: Joana acordou cedo e preparou o café da manhã.
+S: Joana acordou cedo. Joana preparou o café da manhã.
+
+C: O vento soprou forte e as folhas caíram no chão.
+S: O vento soprou forte. As folhas caíram no chão.
+
+C: A festa estava animada, as pessoas dançavam e se divertiam.
+S: A festa estava animada. As pessoas dançavam. As pessoas se divertiam.
+
+C: Maria estudou para a prova, mas não obteve um bom resultado.
+S: Maria estudou para a prova. Maria não obteve um bom resultado.
+
+C: O cão latiu e acordou os vizinhos.
+S: O cão latiu. O cão acordou os vizinhos.
+
+C: Paulo correu no parque e fez exercícios.
+S: Paulo correu no parque. Paulo fez exercícios.
+
+C: O sol brilhou forte e aqueceu o dia.
+S: O sol brilhou forte. O sol aqueceu o dia.
+
+C: Os amigos foram ao cinema e assistiram a um filme de ação.
+S: Os amigos foram ao cinema. Os amigos assistiram a um filme de ação.
+
+C: O carro quebrou na estrada e precisou ser rebocado.
+S: O carro quebrou na estrada. O carro precisou ser rebocado.
+
+C: Rafael fez a comida e lavou a louça.
+S: Rafael fez a comida. Rafael lavou a louça.
+
+C: Ela comprou um livro interessante na livraria e se sentou para ler.
+S: Ela comprou um livro interessante na livraria. Ela se sentou para ler.
+
+C: Eles estudaram muito para a prova e conseguiram tirar boas notas.
+S: Eles estudaram muito para a prova. Eles conseguiram tirar boas notas.
+
+C: O cachorro latiu alto e acordou todo mundo.
+S: O cachorro latiu alto. O cachorro acordou todo mundo.
+
+C: Ele correu pela praia e mergulhou no mar.
+S: Ele correu pela praia. Ele mergulhou no mar.
+
+C: A criança caiu e machucou o joelho.
+S: A criança caiu. A criança machucou o joelho.
+
+C: O carro acelerou e ultrapassou os outros veículos na estrada.
+S: O carro acelerou. O carro ultrapassou os outros veículos na estrada.
+
+C: Ela cozinhou um delicioso jantar e todos elogiaram sua comida.
+S: Ela cozinhou um delicioso jantar. Todos elogiaram sua comida.
+
+C: Os pássaros voaram alto e cantaram alegremente nas árvores.
+S: Os pássaros voaram alto. Os pássaros cantaram alegremente nas árvores.
+
+C: Ele abriu a porta e entrou na casa.
+S: Ele abriu a porta. Ele entrou na casa.
+
+C: Ela dançou animadamente e chamou a atenção de todos.
+S: Ela dançou animadamente. Ela chamou a atenção de todos.
+
+C: Patrícia saiu de casa correndo para pegar o ônibus, mas o motorista já havia partido.
+S: Patrícia saiu de casa correndo para pegar o ônibus. Patrícia já havia partido o motorista.
+
+C: O cachorro pulou o muro, mas caiu em cima do vizinho.
+S: O cachorro pulou o muro. O cachorro caiu em cima do vizinho.
+
+C: José entrou na sala cantando, mas todos o olharam surpresos.
+S: José entrou na sala cantando. José todos o olharam surpresos.
+
+C: Maria comprou o livro, mas não leu até o final.
+S: Maria comprou o livro. Maria não leu até o final.
+
+C: O professor ensinou a matéria com paciência, mas alguns alunos não entenderam.
+S: O professor ensinou a matéria com paciência. O professor alguns alunos não entenderam.
+
+C: O carro estava sujo, mas o dono não se importava.
+S: O carro estava sujo. O carro não se importava o dono.
+
+C: O sol brilhava forte, mas o vento estava frio.
+S: O sol brilhava forte. O sol estava frio o vento.
+
+C: A criança chorou bastante, mas logo parou quando ganhou um doce.
+S: A criança chorou bastante. A criança logo parou quando ganhou um doce.
+
+C: O jogador marcou um belo gol, mas foi expulso logo em seguida.
+S: O jogador marcou um belo gol. O jogador foi expulso logo em seguida.
+
+C: A música tocava alto, mas eu não conseguia ouvir direito.
+S: A música tocava alto. A música não conseguia ouvir direito eu.
+
+C: O filme foi muito longo e cansativo, eu acabei dormindo no meio.
+S: O filme foi muito longo e cansativo. Eu acabei dormindo no meio.
+
+C: Fomos ao parque fazer um piquenique, depois fizemos uma caminhada.
+S: Fomos ao parque fazer um piquenique. Depois fizemos uma caminhada.
+
+C: Ela estudou muito para a prova, então conseguiu uma boa nota.
+S: Ela estudou muito para a prova. Ela conseguiu uma boa nota.
+
+C: Comprei um livro novo e comecei a ler no mesmo dia.
+S: Comprei um livro novo. Comecei a ler no mesmo dia.
+
+C: Fiquei bastante cansado após o treino, decidi descansar um pouco.
+S: Fiquei bastante cansado após o treino. Decidi descansar um pouco.
+
+C: Ele resolveu viajar nas férias e visitou vários países.
+S: Ele resolveu viajar nas férias. Visitou vários países.
+
+C: Tinha muita gente no parque, então preferi voltar para casa.
+S: Tinha muita gente no parque. Preferi voltar para casa.
+
+C: Meu celular deu defeito e precisei levar para a assistência técnica.
+S: Meu celular deu defeito. Precisei levar para a assistência técnica.
+
+C: As flores estavam lindas no jardim, eu tirei várias fotos.
+S: As flores estavam lindas no jardim. Eu tirei várias fotos.
+
+C: Ele escolheu o vestido para a festa e comprou sapatos novos para combinar.
+S: Ele escolheu o vestido para a festa. Comprou sapatos novos para combinar.
+
+C: Maria comprou uma camisa nova. Maria combinou de encontrar os amigos no shopping.
+S: Maria comprou uma camisa nova. Maria combinou de encontrar os amigos no shopping.
+
+C: O sol brilhava intensamente. O sol deixava o dia mais quente.
+S: O sol brilhava intensamente. O sol deixava o dia mais quente.
+
+C: Ele estudou durante horas para a prova. Ele se sentia confiante com o seu preparo.
+S: Ele estudou durante horas para a prova. Ele se sentia confiante com o seu preparo.
+
+C: O time marcou o gol da vitória nos minutos finais. O time comemorou euforicamente a conquista.
+S: O time marcou o gol da vitória nos minutos finais. O time comemorou euforicamente a conquista.
+
+C: Ana comprou os ingredientes para fazer o bolo. Ana seguiu a receita passo a passo.
+S: Ana comprou os ingredientes para fazer o bolo. Ana seguiu a receita passo a passo.
+
+C: Ele foi à loja e comprou um presente para a namorada. Ele fez questão de escolher algo especial.
+S: Ele foi à loja e comprou um presente para a namorada. Ele fez questão de escolher algo especial.
+
+C: O professor explicou a matéria de forma clara e detalhada. O professor solucionou todas as dúvidas dos alunos.
+S: O professor explicou a matéria de forma clara e detalhada. O professor solucionou todas as dúvidas dos alunos.
+
+C: O motorista perdeu o controle do carro na curva. O carro capotou e ficou completamente destruído.
+S: O motorista perdeu o controle do carro na curva. O carro capotou e ficou completamente destruído.
+
+C: João acordou cedo e tomou um banho. João se vestiu e saiu para o trabalho.
+S: João acordou cedo e tomou um banho. João se vestiu e saiu para o trabalho.
+
+C: A chuva começou a cair repentinamente. A chuva molhou e encharcou tudo ao redor.
+S: A chuva começou a cair repentinamente. A chuva molhou e encharcou tudo ao redor.
+
+C: O carro estava sujo e cheio de arranhões. S: O carro estava sujo. O carro estava cheio de arranhões.
+C: Ela pegou um guarda-chuva e saiu correndo. S: Ela pegou um guarda-chuva. Ela saiu correndo.
+C: Ele tomou um café e leu o jornal. S: Ele tomou um café. Ele leu o jornal.
+C: Nós fomos ao parque e brincamos no balanço. S: Nós fomos ao parque. Nós brincamos no balanço.
+C: Ela correu para pegar o ônibus e caiu no chão. S: Ela correu para pegar o ônibus. Ela caiu no chão.
+C: O sol brilhava forte e as pessoas se refugiaram na sombra. S: O sol brilhava forte. As pessoas se refugiaram na sombra.
+C: Eles se abraçaram e choraram de saudade. S: Eles se abraçaram. Eles choraram de saudade.
+C: A chuva parou e o céu ficou claro. S: A chuva parou. O céu ficou claro.
+C: Ela cantou uma música e todos aplaudiram. S: Ela cantou uma música. Todos aplaudiram.
+C: Ele acendeu a vela e iluminou o ambiente. S: Ele acendeu a vela. Ele iluminou o ambiente.
+
+C: Maria comprou uma camiseta vermelha e um par de calças jeans.
+S: Maria comprou uma camiseta vermelha. Maria comprou um par de calças jeans.
+
+C: Eu estudei para a prova de matemática e fiz todos os exercícios.
+S: Eu estudei para a prova de matemática. Eu fiz todos os exercícios.
+
+C: Pedro saiu de casa cedo, pegou o metrô e foi para o trabalho.
+S: Pedro saiu de casa cedo. Pedro pegou o metrô. Pedro foi para o trabalho.
+
+C: Ana correu no parque e depois fez alguns exercícios de alongamento.
+S: Ana correu no parque. Ana fez alguns exercícios de alongamento.
+
+C: O filme era longo e emocionante, mas o final foi um pouco decepcionante.
+S: O filme era longo. O filme era emocionante. O final foi um pouco decepcionante.
+
+C: Eu lavei a louça, arrumei a sala e limpei o banheiro.
+S: Eu lavei a louça. Eu arrumei a sala. Eu limpei o banheiro.
+
+C: Eles foram ao supermercado, compraram comida e voltaram para casa.
+S: Eles foram ao supermercado. Eles compraram comida. Eles voltaram para casa.
+
+C: Ela acordou cedo, tomou café da manhã e saiu para trabalhar.
+S: Ela acordou cedo. Ela tomou café da manhã. Ela saiu para trabalhar.
+
+C: Nós visitamos alguns museus, caminhamos pela cidade e experimentamos comidas típicas.
+S: Nós visitamos alguns museus. Nós caminhamos pela cidade. Nós experimentamos comidas típicas.
+
+C: Ele estudou durante a tarde, fez um intervalo para o lanche e continuou até a noite.
+S: Ele estudou durante a tarde. Ele fez um intervalo para o lanche. Ele continuou até a noite.
+
+C: Maria estudou durante toda a tarde, fez uma pausa para o lanche e voltou a estudar.
+S: Maria estudou durante toda a tarde. Maria fez uma pausa para o lanche. Maria voltou a estudar.
+
+C: Pedro comprou um livro novo, leu-o de capa a capa e recomendou-o aos amigos.
+S: Pedro comprou um livro novo. Pedro leu-o de capa a capa. Pedro recomendou-o aos amigos.
+
+C: Ana tomou um banho rápido, vestiu-se e saiu para o trabalho.
+S: Ana tomou um banho rápido. Ana vestiu-se. Ana saiu para o trabalho.
+
+C: Os alunos fizeram uma pesquisa, escreveram um relatório e apresentaram-no em sala de aula.
+S: Os alunos fizeram uma pesquisa. Os alunos escreveram um relatório. Os alunos apresentaram-no em sala de aula.
+
+C: Os pássaros cantaram alegremente, voaram para longe e desapareceram no horizonte.
+S: Os pássaros cantaram alegremente. Os pássaros voaram para longe. Os pássaros desapareceram no horizonte.
+
+C: O casal dançou a noite toda, conversou animadamente e deixou a festa tarde da noite.
+S: O casal dançou a noite toda. O casal conversou animadamente. O casal deixou a festa tarde da noite.
+
+C: As crianças brincaram no parque, comeram um lanche e voltaram para casa.
+S: As crianças brincaram no parque. As crianças comeram um lanche. As crianças voltaram para casa.
+
+C: O cachorro latiu incessantemente, pulou no sofá e arranhou-o todo.
+S: O cachorro latiu incessantemente. O cachorro pulou no sofá. O cachorro arranhou-o todo.
+
+C: A mãe preparou um bolo delicioso, colocou-o na geladeira e serviu-o no jantar.
+S: A mãe preparou um bolo delicioso. A mãe colocou-o na geladeira. A mãe serviu-o no jantar.
+
+C: Os atletas correram pela pista, saltaram sobre os obstáculos e chegaram à linha de chegada.
+S: Os atletas correram pela pista. Os atletas saltaram sobre os obstáculos. Os atletas chegaram à linha de chegada.
+
+C: O carro parou bruscamente, mas ninguém se machucou.
+S: O carro parou bruscamente. Ninguém se machucou.
+
+C: Ela estudou muito para a prova, mas não conseguiu tirar uma boa nota.
+S: Ela estudou muito para a prova. Ela não conseguiu tirar uma boa nota.
+
+C: Ele comprou um novo celular, mas o antigo ainda funcionava.
+S: Ele comprou um novo celular. O antigo ainda funcionava.
+
+C: A festa estava animada, mas muitas pessoas foram embora cedo.
+S: A festa estava animada. Muitas pessoas foram embora cedo.
+
+C: O professor explicou a matéria, mas alguns alunos não entenderam.
+S: O professor explicou a matéria. Alguns alunos não entenderam.
+
+C: Eles viajaram para a praia, mas o tempo estava chuvoso.
+S: Eles viajaram para a praia. O tempo estava chuvoso.
+
+C: A comida estava deliciosa, mas o serviço deixou a desejar.
+S: A comida estava deliciosa. O serviço deixou a desejar.
+
+C: Ela escreveu um livro, mas ainda não foi publicado.
+S: Ela escreveu um livro. Ainda não foi publicado.
+
+C: Ele comprou uma casa nova, mas precisou fazer algumas reformas.
+S: Ele comprou uma casa nova. Precisou fazer algumas reformas.
+
+C: O time jogou bem, mas não conseguiu vencer a partida.
+S: O time jogou bem. Não conseguiu vencer a partida.
+
+C: O sol brilhava intensamente no céu e as flores desabrochavam coloridas no jardim.
+S: O sol brilhava intensamente no céu. As flores desabrochavam coloridas no jardim.
+
+C: Ela estava cansada, mas mesmo assim decidiu continuar correndo.
+S: Ela estava cansada. Mesmo assim, decidiu continuar correndo.
+
+C: Ele estudou muito para a prova e conseguiu tirar uma boa nota.
+S: Ele estudou muito para a prova. Ele conseguiu tirar uma boa nota.
+
+C: O gato pulou sobre a mesa e pegou o pedaço de carne.
+S: O gato pulou sobre a mesa. O gato pegou o pedaço de carne.
+
+C: Maria estava preocupada com o trabalho e não conseguia dormir.
+S: Maria estava preocupada com o trabalho. Maria não conseguia dormir.
+
+C: Eles viajaram para a praia e aproveitaram o sol e o mar.
+S: Eles viajaram para a praia. Eles aproveitaram o sol e o mar.
+
+C: Pedro acordou cedo e arrumou a casa antes de sair para o trabalho.
+S: Pedro acordou cedo. Pedro arrumou a casa antes de sair para o trabalho.
+
+C: O avião decolou e sobrevoou paisagens incríveis durante o voo.
+S: O avião decolou. O avião sobrevoou paisagens incríveis durante o voo.
+
+C: As crianças brincavam felizes no parque e comiam sorvete.
+S: As crianças brincavam felizes no parque. As crianças comiam sorvete.
+
+C: Ele comprou um livro novo e começou a lê-lo imediatamente.
+S: Ele comprou um livro novo. Ele começou a lê-lo imediatamente.
+
+C: Maria foi ao supermercado e comprou comida para a semana.
+S: Maria foi ao supermercado. Maria comprou comida para a semana.
+
+C: Pedro foi à academia e fez exercícios intensos.
+S: Pedro foi à academia. Pedro fez exercícios intensos.
+
+C: Ana estudou durante a tarde e conseguiu terminar o trabalho.
+S: Ana estudou durante a tarde. Ana conseguiu terminar o trabalho.
+
+C: Carlos saiu de casa cedo e pegou o ônibus para o trabalho.
+S: Carlos saiu de casa cedo. Carlos pegou o ônibus para o trabalho.
+
+C: Laura foi à praia e aproveitou o dia de sol.
+S: Laura foi à praia. Laura aproveitou o dia de sol.
+
+C: Tiago foi ao cinema e assistiu a um filme de ação.
+S: Tiago foi ao cinema. Tiago assistiu a um filme de ação.
+
+C: Fernanda foi a uma festa e dançou a noite toda.
+S: Fernanda foi a uma festa. Fernanda dançou a noite toda.
+
+C: Joana foi ao parque e brincou com seu cachorro.
+S: Joana foi ao parque. Joana brincou com seu cachorro.
+
+C: Miguel foi ao restaurante e experimentou um prato novo.
+S: Miguel foi ao restaurante. Miguel experimentou um prato novo.
+
+C: Sofia foi à livraria e comprou vários livros.
+S: Sofia foi à livraria. Sofia comprou vários livros.
+
+C: Ela pegou o guarda-chuva antes de sair de casa, pois estava chovendo.
+S: Ela pegou o guarda-chuva antes de sair de casa. Estava chovendo.
+
+C: Pedro comprou uma bicicleta nova e começou a andar todos os dias.
+S: Pedro comprou uma bicicleta nova. Pedro começou a andar todos os dias.
+
+C: Maria estudou bastante para a prova, porque queria tirar uma boa nota.
+S: Maria estudou bastante para a prova. Maria queria tirar uma boa nota.
+
+C: O filme durou duas horas e teve uma trama muito interessante.
+S: O filme durou duas horas. O filme teve uma trama muito interessante.
+
+C: Ana acordou cedo e foi correr no parque.
+S: Ana acordou cedo. Ana foi correr no parque.
+
+C: Os pássaros cantaram alto e coloriram o céu com suas asas.
+S: Os pássaros cantaram alto. Os pássaros coloriram o céu com suas asas.
+
+C: Lucas preparou o jantar e serviu para toda a família.
+S: Lucas preparou o jantar. Lucas serviu para toda a família.
+
+C: As crianças brincaram no parquinho e se divertiram muito.
+S: As crianças brincaram no parquinho. As crianças se divertiram muito.
+
+C: Ela comprou uma blusa nova e combinou com uma calça jeans.
+S: Ela comprou uma blusa nova. Ela combinou com uma calça jeans.
+
+C: Os amigos se reuniram no bar e beberam cerveja até tarde.
+S: Os amigos se reuniram no bar. Os amigos beberam cerveja até tarde.
+
+C: O cachorro correu pela rua e latiu para o carteiro.
+S: O cachorro correu pela rua. O cachorro latiu para o carteiro.
+
+C: Maria cozinha muito bem e seus amigos adoram suas receitas.
+S: Maria cozinha muito bem. Seus amigos adoram suas receitas.
+
+C: Pedro estudou a noite toda e conseguiu tirar uma nota alta na prova.
+S: Pedro estudou a noite toda. Pedro conseguiu tirar uma nota alta na prova.
+
+C: O sol brilhava no céu e as crianças brincavam no parque.
+S: O sol brilhava no céu. As crianças brincavam no parque.
+
+C: O filme era muito emocionante e fez todos chorarem.
+S: O filme era muito emocionante. Fez todos chorarem.
+
+C: Ela comprou um novo vestido e usou-o na festa.
+S: Ela comprou um novo vestido. Ela usou-o na festa.
+
+C: O time marcou um gol e comemorou a vitória.
+S: O time marcou um gol. O time comemorou a vitória.
+
+C: Eles viajaram para a praia e aproveitaram o sol e o mar.
+S: Eles viajaram para a praia. Eles aproveitaram o sol e o mar.
+
+C: A música estava alta e todos dançavam animadamente.
+S: A música estava alta. Todos dançavam animadamente.
+
+C: Ele falou alto e todos ouviram o que ele disse.
+S: Ele falou alto. Todos ouviram o que ele disse.
+
+C: O jogador chutou a bola com força e marcou um gol.
+S: O jogador chutou a bola com força. O jogador marcou um gol.
+
+C: O sol brilha intensamente no céu e as pessoas aproveitam o dia na praia.
+S: O sol brilha intensamente no céu. As pessoas aproveitam o dia na praia.
+
+C: Ela estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ela estudou muito para a prova. Ela conseguiu tirar uma nota alta.
+
+C: O escritor escreveu o livro com cuidado e dedicou muitas horas de trabalho nele.
+S: O escritor escreveu o livro com cuidado. O escritor dedicou muitas horas de trabalho nele.
+
+C: O time treinou bastante durante a semana e venceu a partida por uma grande diferença de pontos.
+S: O time treinou bastante durante a semana. O time venceu a partida por uma grande diferença de pontos.
+
+C: O cachorro correu atrás do gato e latiu muito alto.
+S: O cachorro correu atrás do gato. O cachorro latiu muito alto.
+
+C: O menino comeu o bolo inteiro e ficou satisfeito.
+S: O menino comeu o bolo inteiro. O menino ficou satisfeito.
+
+C: A professora explicou a matéria com clareza e tirou todas as dúvidas dos alunos.
+S: A professora explicou a matéria com clareza. A professora tirou todas as dúvidas dos alunos.
+
+C: O carro parou no sinal vermelho e o motorista olhou para o relógio.
+S: O carro parou no sinal vermelho. O motorista olhou para o relógio.
+
+C: O casal dançou a noite toda e se divertiu muito.
+S: O casal dançou a noite toda. O casal se divertiu muito.
+
+C: Maria estudou muito para a prova, mas não conseguiu a nota que esperava.
+S: Maria estudou muito para a prova. Maria não conseguiu a nota que esperava.
+
+C: O pássaro voou alto no céu, mas logo desapareceu de vista.
+S: O pássaro voou alto no céu. O pássaro logo desapareceu de vista.
+
+C: Pedro comprou um carro novo, mas ainda está pagando as prestações.
+S: Pedro comprou um carro novo. Pedro ainda está pagando as prestações.
+
+C: A apresentação foi muito elogiada pelo público, mas o crítico não gostou.
+S: A apresentação foi muito elogiada pelo público. A apresentação o crítico não gostou.
+
+C: Paulo saiu de casa cedo para evitar o trânsito, mas chegou atrasado.
+S: Paulo saiu de casa cedo para evitar o trânsito. Paulo chegou atrasado.
+
+C: O cachorro latiu e acordou todos os vizinhos, mas o gato não se importou.
+S: O cachorro latiu e acordou todos os vizinhos. O gato não se importou.
+
+C: Maria foi ao supermercado e comprou tudo o que estava na lista, mas esqueceu o queijo.
+S: Maria foi ao supermercado e comprou tudo o que estava na lista. Maria esqueceu o queijo.
+
+C: João ligou o computador e começou a trabalhar, mas logo desligou por causa de uma queda de energia.
+S: João ligou o computador e começou a trabalhar. João logo desligou por causa de uma queda de energia.
+
+C: O filme tinha uma trama intrigante e personagens cativantes, mas o final foi decepcionante.
+S: O filme tinha uma trama intrigante e personagens cativantes. O filme o final foi decepcionante.
+
+C: A festa foi animada e teve muita música, mas acabou cedo por causa da reclamação dos vizinhos.
+S: A festa foi animada e teve muita música. A festa acabou cedo por causa da reclamação dos vizinhos.
+
+C: O time jogou muito bem no primeiro tempo, mas caiu de rendimento na segunda etapa.
+S: O time jogou muito bem no primeiro tempo. O time caiu de rendimento na segunda etapa.
+
+C: Ela cantou uma música triste e emocionou a plateia.
+S: Ela cantou uma música triste. Ela emocionou a plateia.
+
+C: Pedro estudou bastante para a prova, mas acabou não indo bem.
+S: Pedro estudou bastante para a prova. Pedro acabou não indo bem.
+
+C: O filme é engraçado e também possui cenas emocionantes.
+S: O filme é engraçado. O filme também possui cenas emocionantes.
+
+C: O cachorro correu atrás do gato e acabou se machucando.
+S: O cachorro correu atrás do gato. O cachorro acabou se machucando.
+
+C: Maria comprou um presente para o irmão mais velho e também para a irmã mais nova.
+S: Maria comprou um presente para o irmão mais velho. Maria comprou um presente para a irmã mais nova.
+
+C: Ele chegou atrasado ao trabalho e recebeu uma advertência do chefe.
+S: Ele chegou atrasado ao trabalho. Ele recebeu uma advertência do chefe.
+
+C: O avião decolou da pista e subiu rapidamente até atingir a altitude desejada.
+S: O avião decolou da pista. O avião subiu rapidamente até atingir a altitude desejada.
+
+C: Marta saiu de casa cedo e pegou o ônibus para ir trabalhar.
+S: Marta saiu de casa cedo. Marta pegou o ônibus para ir trabalhar.
+
+C: O menino brincou no parque a tarde toda e voltou para casa cansado.
+S: O menino brincou no parque a tarde toda. O menino voltou para casa cansado.
+
+C: O sol estava brilhando forte no céu. As pessoas aproveitavam o dia na praia.
+S: O sol estava brilhando forte no céu. As pessoas aproveitavam o dia na praia.
+
+C: Meu pai comprou um carro novo. Ele está muito feliz.
+S: Meu pai comprou um carro novo. Ele está muito feliz.
+
+C: Ela estudou muito para a prova. Ela conseguiu tirar uma boa nota.
+S: Ela estudou muito para a prova. Ela conseguiu tirar uma boa nota.
+
+C: A chuva começou a cair forte. Todos correram para se abrigar.
+S: A chuva começou a cair forte. Todos correram para se abrigar.
+
+C: O bolo ficou pronto. Todos se reuniram para cantar parabéns.
+S: O bolo ficou pronto. Todos se reuniram para cantar parabéns.
+
+C: A equipe ganhou o jogo. Os torcedores comemoraram a vitória.
+S: A equipe ganhou o jogo. Os torcedores comemoraram a vitória.
+
+C: O avião decolou do aeroporto. Ele voou em direção ao seu destino.
+S: O avião decolou do aeroporto. Ele voou em direção ao seu destino.
+
+C: Ela terminou o trabalho a tempo. Ela pôde descansar em seguida.
+S: Ela terminou o trabalho a tempo. Ela pôde descansar em seguida.
+
+C: O cão latiu alto durante a noite. Os vizinhos reclamaram do barulho.
+S: O cão latiu alto durante a noite. Os vizinhos reclamaram do barulho.
+
+C: O filme foi emocionante. Algumas pessoas saíram chorando do cinema.
+S: O filme foi emocionante. Algumas pessoas saíram chorando do cinema.
+
+C: Ela estudou para a prova e conseguiu uma boa nota.
+S: Ela estudou para a prova. Ela conseguiu uma boa nota.
+
+C: Pedro saiu correndo e perdeu o ônibus.
+S: Pedro saiu correndo. Pedro perdeu o ônibus.
+
+C: Eles compraram os ingressos e foram ao cinema.
+S: Eles compraram os ingressos. Eles foram ao cinema.
+
+C: A casa estava bagunçada e suja.
+S: A casa estava bagunçada. A casa estava suja.
+
+C: O carro bateu no poste e ficou danificado.
+S: O carro bateu no poste. O carro ficou danificado.
+
+C: Ela acordou tarde e perdeu a aula.
+S: Ela acordou tarde. Ela perdeu a aula.
+
+C: João correu para pegar o trem e conseguiu entrar a tempo.
+S: João correu para pegar o trem. João conseguiu entrar a tempo.
+
+C: Ele comprou o celular novo e ficou muito feliz.
+S: Ele comprou o celular novo. Ele ficou muito feliz.
+
+C: Ela preparou o jantar e chamou os amigos para comerem juntos.
+S: Ela preparou o jantar. Ela chamou os amigos para comerem juntos.
+
+C: O gato se escondeu debaixo da cama e não queria sair.
+S: O gato se escondeu debaixo da cama. O gato não queria sair.
+
+C: A Maria saiu correndo para pegar o ônibus, mas ele já havia partido. 
+S: A Maria saiu correndo para pegar o ônibus. A Maria chegou tarde, pois ele já havia partido.
+
+C: O cachorro latiu incessantemente a noite toda, acordando todos os vizinhos.
+S: O cachorro latiu incessantemente a noite toda. O cachorro acordou todos os vizinhos.
+
+C: O João comprou uma bicicleta nova, mas ele não sabe andar de bicicleta.
+S: O João comprou uma bicicleta nova. O João não sabe andar de bicicleta.
+
+C: O sol brilhava intensamente na praia, mas as pessoas estavam com medo de se queimar.
+S: O sol brilhava intensamente na praia. As pessoas estavam com medo de se queimar.
+
+C: A bola saltou do campo e caiu na rua, mas o menino correu e a pegou.
+S: A bola saltou do campo e caiu na rua. O menino correu e a pegou.
+
+C: A Maria estudou durante toda a noite para a prova, mas ainda assim foi reprovada.
+S: A Maria estudou durante toda a noite para a prova. A Maria foi reprovada.
+
+C: O ventilador estava ligado no quarto, mas estava tão silencioso que parecia desligado.
+S: O ventilador estava ligado no quarto. O ventilador estava tão silencioso que parecia desligado.
+
+C: As flores desabrocharam com a chegada da primavera, mas o jardim estava abandonado.
+S: As flores desabrocharam com a chegada da primavera. O jardim estava abandonado.
+
+C: O dia estava ensolarado e quente, mas o vento trazia uma sensação de frescor.
+S: O dia estava ensolarado e quente. O vento trazia uma sensação de frescor.
+
+C: O filme era emocionante, mas o final deixou todos decepcionados.
+S: O filme era emocionante. O final deixou todos decepcionados.
+
+C: Eu acordei cedo, tomei café da manhã e fui para o trabalho.
+S: Eu acordei cedo. Eu tomei café da manhã. Eu fui para o trabalho.
+
+C: Ele correu rápido, saltou o muro e alcançou o fugitivo.
+S: Ele correu rápido. Ele saltou o muro. Ele alcançou o fugitivo.
+
+C: Nós fizemos compras, preparamos o jantar e assistimos a um filme.
+S: Nós fizemos compras. Nós preparamos o jantar. Nós assistimos a um filme.
+
+C: Ela chorou muito, pediu desculpas e tentou consertar o erro.
+S: Ela chorou muito. Ela pediu desculpas. Ela tentou consertar o erro.
+
+C: Eles estudaram para a prova, revisaram as matérias e se sentiram confiantes.
+S: Eles estudaram para a prova. Eles revisaram as matérias. Eles se sentiram confiantes.
+
+C: O cachorro latiu, abanou o rabo e pulou no colo do dono.
+S: O cachorro latiu. O cachorro abanou o rabo. O cachorro pulou no colo do dono.
+
+C: Ela dançou no palco, cantou com emoção e recebeu aplausos do público.
+S: Ela dançou no palco. Ela cantou com emoção. Ela recebeu aplausos do público.
+
+C: Ele correu no parque, treinou no ginásio e descansou em casa.
+S: Ele correu no parque. Ele treinou no ginásio. Ele descansou em casa.
+
+C: Nós viajamos de avião, conhecemos lugares novos e experimentamos comidas diferentes.
+S: Nós viajamos de avião. Nós conhecemos lugares novos. Nós experimentamos comidas diferentes.
+
+C: Ela nadou no mar, mergulhou com snorkel e encontrou peixes coloridos.
+S: Ela nadou no mar. Ela mergulhou com snorkel. Ela encontrou peixes coloridos.
+
+C: Maria saiu de casa cedo, comprou pão fresco na padaria.
+S: Maria saiu de casa cedo. Maria comprou pão fresco na padaria.
+
+C: Os alunos fizeram uma visita ao museu, depois foram ao teatro.
+S: Os alunos fizeram uma visita ao museu. Os alunos foram ao teatro.
+
+C: Pedro estudou durante toda a noite, mas não conseguiu passar na prova.
+S: Pedro estudou durante toda a noite. Pedro não conseguiu passar na prova.
+
+C: Ana gostava de ir ao parque, pois lá conseguia relaxar.
+S: Ana gostava de ir ao parque. Ana conseguia relaxar lá.
+
+C: O cachorro latiu muito alto, assustando os vizinhos.
+S: O cachorro latiu muito alto. O cachorro assustou os vizinhos.
+
+C: Eu li um livro interessante, depois assisti a um filme.
+S: Eu li um livro interessante. Eu assisti a um filme.
+
+C: A menina subiu a escada correndo, chegou ao quarto sem fôlego.
+S: A menina subiu a escada correndo. A menina chegou ao quarto sem fôlego.
+
+C: Minha mãe cozinhou um delicioso bolo de chocolate, todos adoraram.
+S: Minha mãe cozinhou um delicioso bolo de chocolate. Minha mãe todos adoraram.
+
+C: As crianças brincaram no parque até escurecer, se divertiram muito.
+S: As crianças brincaram no parque até escurecer. As crianças se divertiram muito.
+
+C: O casal dançou a noite toda, se divertindo ao som da música.
+S: O casal dançou a noite toda. O casal se divertiu ao som da música.
+
+C: O sol brilhava intensamente naquela tarde de verão, as crianças aproveitavam para brincar na praia.
+S: O sol brilhava intensamente naquela tarde de verão. As crianças aproveitavam para brincar na praia.
+
+C: Maria correu para pegar o ônibus, ela estava atrasada para o trabalho.
+S: Maria correu para pegar o ônibus. Maria estava atrasada para o trabalho.
+
+C: O cachorro latia e rosnava para o carteiro que se aproximava da casa.
+S: O cachorro latia e rosnava para o carteiro. O carteiro se aproximava da casa.
+
+C: O vento soprou forte e as folhas caíram das árvores.
+S: O vento soprou forte. As folhas caíram das árvores.
+
+C: Luzia riu e chorou após receber a notícia da vitória do time de futebol.
+S: Luzia riu e chorou após receber a notícia da vitória do time de futebol.
+
+C: João estudou durante a tarde toda e terminou todas as lições de casa.
+S: João estudou durante a tarde toda. João terminou todas as lições de casa.
+
+C: O motorista do ônibus freou bruscamente e os passageiros foram arremessados para frente.
+S: O motorista do ônibus freou bruscamente. Os passageiros foram arremessados para frente.
+
+C: O professor explicou a matéria e fez diversos exemplos para os alunos entenderem.
+S: O professor explicou a matéria. O professor fez diversos exemplos para os alunos entenderem.
+
+C: Ana falou com Tom e pediu desculpas por ter se atrasado para o encontro.
+S: Ana falou com Tom. Ana pediu desculpas por ter se atrasado para o encontro.
+
+C: Marcos andou rápido e alcançou o grupo que estava à sua frente.
+S: Marcos andou rápido. Marcos alcançou o grupo que estava à sua frente.
+
+C: Marcos comprou uma casa e mobiliou-a com móveis novos.
+S: Marcos comprou uma casa. Marcos mobiliou-a com móveis novos.
+
+C: Ana estudou toda a tarde e à noite foi ao cinema.
+S: Ana estudou toda a tarde. Ana à noite foi ao cinema.
+
+C: Os alunos fizeram a prova e depois saíram da sala.
+S: Os alunos fizeram a prova. Os alunos depois saíram da sala.
+
+C: Carlos cozinhou o jantar e lavou a louça.
+S: Carlos cozinhou o jantar. Carlos lavou a louça.
+
+C: O casal viajou de avião e chegou ao destino final.
+S: O casal viajou de avião. O casal chegou ao destino final.
+
+C: As crianças brincaram no parque e depois foram para casa.
+S: As crianças brincaram no parque. As crianças depois foram para casa.
+
+C: O time treinou bastante e venceu a partida no final.
+S: O time treinou bastante. O time venceu a partida no final.
+
+C: Ela comprou a passagem de ônibus e foi para o trabalho.
+S: Ela comprou a passagem de ônibus. Ela foi para o trabalho.
+
+C: Os amigos correram na praia e depois tomaram um sorvete.
+S: Os amigos correram na praia. Os amigos depois tomaram um sorvete.
+
+C: O cantor fez um show e depois autografou os CDs.
+S: O cantor fez um show. O cantor depois autografou os CDs.
+
+C: Ele saiu correndo pelo parque, atravessou a rua movimentada e entrou no café.
+S: Ele saiu correndo pelo parque. Ele atravessou a rua movimentada. Ele entrou no café.
+
+C: Ela estudou até tarde, fez os exercícios e descansou um pouco antes de dormir.
+S: Ela estudou até tarde. Ela fez os exercícios. Ela descansou um pouco antes de dormir.
+
+C: Eles conversaram por horas, riram bastante e resolveram marcar outro encontro.
+S: Eles conversaram por horas. Eles riram bastante. Eles resolveram marcar outro encontro.
+
+C: Nós caminhamos pela praia, tomamos um sorvete e observamos o pôr do sol.
+S: Nós caminhamos pela praia. Nós tomamos um sorvete. Nós observamos o pôr do sol.
+
+C: O cachorro latiu alto, correu atrás do carro e assustou os pássaros no céu.
+S: O cachorro latiu alto. O cachorro correu atrás do carro. O cachorro assustou os pássaros no céu.
+
+C: Ela comprou roupas novas, experimentou todas e escolheu as que mais gostou.
+S: Ela comprou roupas novas. Ela experimentou todas. Ela escolheu as que mais gostou.
+
+C: Ele pintou a parede, arrumou os móveis e deixou o ambiente mais bonito.
+S: Ele pintou a parede. Ele arrumou os móveis. Ele deixou o ambiente mais bonito.
+
+C: Os amigos conversaram animadamente, assistiram a um filme e saíram para jantar juntos.
+S: Os amigos conversaram animadamente. Os amigos assistiram a um filme. Os amigos saíram para jantar juntos.
+
+C: Ele acordou cedo, fez exercícios físicos e começou o dia com muita energia.
+S: Ele acordou cedo. Ele fez exercícios físicos. Ele começou o dia com muita energia.
+
+C: Ela estudou bastante, se preparou para a prova e conseguiu uma excelente nota.
+S: Ela estudou bastante. Ela se preparou para a prova. Ela conseguiu uma excelente nota.
+
+C: Maria acordou cedo, tomou um banho rápido e saiu de casa atrasada.
+S: Maria acordou cedo. Maria tomou um banho rápido. Maria saiu de casa atrasada.
+
+C: O time treinou muito, jogou com garra e venceu a partida.
+S: O time treinou muito. O time jogou com garra. O time venceu a partida.
+
+C: Ana estudou bastante, fez todas as tarefas e tirou uma nota alta na prova.
+S: Ana estudou bastante. Ana fez todas as tarefas. Ana tirou uma nota alta na prova.
+
+C: Carlos comprou pão fresco, leite e frutas para o café da manhã.
+S: Carlos comprou pão fresco. Carlos comprou leite. Carlos comprou frutas para o café da manhã.
+
+C: Laura arrumou a casa, preparou o jantar e esperou os convidados chegarem.
+S: Laura arrumou a casa. Laura preparou o jantar. Laura esperou os convidados chegarem.
+
+C: O professor explicou a matéria, tirou dúvidas e passou exercícios para os alunos.
+S: O professor explicou a matéria. O professor tirou dúvidas. O professor passou exercícios para os alunos.
+
+C: Pedro comprou livros, DVDs e um jogo para o seu irmão mais novo.
+S: Pedro comprou livros. Pedro comprou DVDs. Pedro comprou um jogo para o seu irmão mais novo.
+
+C: A festa foi animada, teve música alta e muita dança.
+S: A festa foi animada. A festa teve música alta. A festa teve muita dança.
+
+C: Sofia ligou para a amiga, marcou um encontro e contou as novidades.
+S: Sofia ligou para a amiga. Sofia marcou um encontro. Sofia contou as novidades.
+
+C: O filme foi emocionante, teve cenas de ação e um final surpreendente.
+S: O filme foi emocionante. O filme teve cenas de ação. O filme teve um final surpreendente.
+
+C: O dia estava ensolarado, as crianças brincavam no parque.
+S: O dia estava ensolarado. As crianças brincavam no parque.
+
+C: Maria estudou para a prova, alcançou uma nota alta.
+S: Maria estudou para a prova. Maria alcançou uma nota alta.
+
+C: O cachorro latiu alto, assustou os vizinhos.
+S: O cachorro latiu alto. O cachorro assustou os vizinhos.
+
+C: O telefone tocou incessantemente, ninguém atendeu.
+S: O telefone tocou incessantemente. Ninguém atendeu.
+
+C: A festa foi animada, todos dançaram e se divertiram.
+S: A festa foi animada. Todos dançaram e se divertiram.
+
+C: O bebê chorava incessantemente, não queria dormir.
+S: O bebê chorava incessantemente. O bebê não queria dormir.
+
+C: O pássaro voou rápido, desapareceu no horizonte.
+S: O pássaro voou rápido. O pássaro desapareceu no horizonte.
+
+C: O carro quebrou, João teve que chamar um mecânico.
+S: O carro quebrou. João teve que chamar um mecânico.
+
+C: O sol brilhava no céu, as nuvens se dissiparam.
+S: O sol brilhava no céu. As nuvens se dissiparam.
+
+C: A música era encantadora, todos aplaudiram no final.
+S: A música era encantadora. Todos aplaudiram no final.
+
+C: Pedro comprou uma casa na praia e agora passa todos os fins de semana lá.
+S: Pedro comprou uma casa na praia. Pedro passa todos os fins de semana lá.
+
+C: O professor explicou a matéria com detalhes e tirou todas as dúvidas dos alunos.
+S: O professor explicou a matéria com detalhes. O professor tirou todas as dúvidas dos alunos.
+
+C: Maria saiu de casa, pegou um táxi e foi para o aeroporto encontrar sua mãe.
+S: Maria saiu de casa. Maria pegou um táxi. Maria foi para o aeroporto encontrar sua mãe.
+
+C: O filme fez todos rirem e emocionou muitas pessoas.
+S: O filme fez todos rirem. O filme emocionou muitas pessoas.
+
+C: Carla estudou durante toda a tarde e ficou muito cansada.
+S: Carla estudou durante toda a tarde. Carla ficou muito cansada.
+
+C: João comprou pão, leite e queijo no mercado.
+S: João comprou pão. João comprou leite. João comprou queijo no mercado.
+
+C: A festa foi ótima, com muita animação e bons amigos.
+S: A festa foi ótima. A festa teve muita animação. A festa teve bons amigos.
+
+C: O sol brilhava intensamente e o céu estava sem nuvens.
+S: O sol brilhava intensamente. O céu estava sem nuvens.
+
+C: O professor deu aula, passou exercícios e corrigiu todos antes do fim da aula.
+S: O professor deu aula. O professor passou exercícios. O professor corrigiu todos antes do fim da aula.
+
+C: A viagem foi longa, cansativa e cheia de imprevistos.
+S: A viagem foi longa. A viagem foi cansativa. A viagem foi cheia de imprevistos.
+
+C: Maria estudou para a prova de matemática e conseguiu uma excelente nota.
+S: Maria estudou para a prova de matemática. Maria conseguiu uma excelente nota.
+
+C: O time treinou duro durante toda a semana, mas não conseguiu vencer o jogo.
+S: O time treinou duro durante toda a semana. O time não conseguiu vencer o jogo.
+
+C: Pedro foi ao supermercado e comprou tudo o que estava na lista.
+S: Pedro foi ao supermercado. Pedro comprou tudo o que estava na lista.
+
+C: O cachorro correu atrás do gato e conseguiu alcançá-lo.
+S: O cachorro correu atrás do gato. O cachorro conseguiu alcançá-lo.
+
+C: As crianças brincaram no parque e se divertiram muito.
+S: As crianças brincaram no parque. As crianças se divertiram muito.
+
+C: Joana cantou sua música favorita e emocionou a plateia.
+S: Joana cantou sua música favorita. Joana emocionou a plateia.
+
+C: Carlos saiu para jantar com seus amigos e teve uma noite divertida.
+S: Carlos saiu para jantar com seus amigos. Carlos teve uma noite divertida.
+
+C: O filme começou e todos ficaram ansiosos para saber o desfecho da história.
+S: O filme começou. Todos ficaram ansiosos para saber o desfecho da história.
+
+C: A festa foi um sucesso, as pessoas dançaram e se divertiram a noite toda.
+S: A festa foi um sucesso. As pessoas dançaram e as pessoas se divertiram a noite toda.
+
+C: O professor explicou o conteúdo da aula e todos os alunos entenderam.
+S: O professor explicou o conteúdo da aula. Todos os alunos entenderam.
+
+C: Maria acordou cedo, tomou um banho rápido e saiu para trabalhar.
+S: Maria acordou cedo. Maria tomou um banho rápido. Maria saiu para trabalhar.
+
+C: O sol estava brilhando forte, o céu estava sem nuvens e o calor estava intenso.
+S: O sol estava brilhando forte. O céu estava sem nuvens. O calor estava intenso.
+
+C: Pedro estudou muito durante a semana, realizou a prova com confiança e alcançou uma nota alta.
+S: Pedro estudou muito durante a semana. Pedro realizou a prova com confiança. Pedro alcançou uma nota alta.
+
+C: Os pássaros cantavam alegremente, as flores estavam desabrochando e o jardim estava colorido.
+S: Os pássaros cantavam alegremente. As flores estavam desabrochando. O jardim estava colorido.
+
+C: Ana comprou um livro novo, leu ele durante a tarde toda e ficou encantada com a história.
+S: Ana comprou um livro novo. Ana leu ele durante a tarde toda. Ana ficou encantada com a história.
+
+C: A festa estava animada, as pessoas dançavam felizes e a música estava alta.
+S: A festa estava animada. As pessoas dançavam felizes. A música estava alta.
+
+C: O filme era emocionante, o enredo era envolvente e o final era surpreendente.
+S: O filme era emocionante. O enredo era envolvente. O final era surpreendente.
+
+C: As ondas do mar batiam na praia, a areia estava quente e o vento soprava suavemente.
+S: As ondas do mar batiam na praia. A areia estava quente. O vento soprava suavemente.
+
+C: A casa era espaçosa, o jardim era bem cuidado e a piscina era grande.
+S: A casa era espaçosa. O jardim era bem cuidado. A piscina era grande.
+
+C: O cachorro latiu alto, assustou os passantes e chamou a atenção de todos.
+S: O cachorro latiu alto. O cachorro assustou os passantes. O cachorro chamou a atenção de todos.
+
+C: Eu acordei cedo hoje, tomei um café reforçado e fui para a academia.
+S: Eu acordei cedo hoje. Eu tomei um café reforçado. Eu fui para a academia.
+
+C: Ela estudou durante toda a tarde, fez todos os exercícios propostos e tirou uma nota alta na prova.
+S: Ela estudou durante toda a tarde. Ela fez todos os exercícios propostos. Ela tirou uma nota alta na prova.
+
+C: Nós fizemos uma caminhada pela manhã, almoçamos em um restaurante local e depois descansamos no parque.
+S: Nós fizemos uma caminhada pela manhã. Nós almoçamos em um restaurante local. Nós depois descansamos no parque.
+
+C: O professor explicou a matéria, indicou alguns exercícios para praticarmos e tirou dúvidas da turma.
+S: O professor explicou a matéria. O professor indicou alguns exercícios para praticarmos. O professor tirou dúvidas da turma.
+
+C: Elas foram ao cinema, assistiram a um filme de comédia e depois jantaram em um restaurante próximo.
+S: Elas foram ao cinema. Elas assistiram a um filme de comédia. Elas depois jantaram em um restaurante próximo.
+
+C: Ele foi ao supermercado, comprou todos os ingredientes necessários e preparou um delicioso jantar.
+S: Ele foi ao supermercado. Ele comprou todos os ingredientes necessários. Ele preparou um delicioso jantar.
+
+C: Nós visitamos o museu, observamos as exposições e aprendemos sobre a história local.
+S: Nós visitamos o museu. Nós observamos as exposições. Nós aprendemos sobre a história local.
+
+C: Ela saiu de casa, pegou um ônibus e foi para o trabalho.
+S: Ela saiu de casa. Ela pegou um ônibus. Ela foi para o trabalho.
+
+C: Eles foram ao parque, brincaram nos brinquedos e fizeram um piquenique.
+S: Eles foram ao parque. Eles brincaram nos brinquedos. Eles fizeram um piquenique.
+
+C: Eu li um livro interessante, anotei algumas citações importantes e refleti sobre o conteúdo.
+S: Eu li um livro interessante. Eu anotei algumas citações importantes. Eu refleti sobre o conteúdo.
+
+C: Maria comprou uma bicicleta nova e pedalou até o parque.
+S: Maria comprou uma bicicleta nova. Maria pedalou até o parque.
+
+C: Pedro estudou muito para a prova de matemática e tirou uma nota alta.
+S: Pedro estudou muito para a prova de matemática. Pedro tirou uma nota alta.
+
+C: Joana fez uma reserva em um restaurante chique e convidou seus amigos.
+S: Joana fez uma reserva em um restaurante chique. Joana convidou seus amigos.
+
+C: Lucas comprou um livro novo e começou a lê-lo no mesmo dia.
+S: Lucas comprou um livro novo. Lucas começou a lê-lo no mesmo dia.
+
+C: Ana foi ao shopping e comprou roupas novas.
+S: Ana foi ao shopping. Ana comprou roupas novas.
+
+C: Carlos fez uma viagem para a praia e aproveitou o sol.
+S: Carlos fez uma viagem para a praia. Carlos aproveitou o sol.
+
+C: Paula terminou o trabalho e entregou-o ao chefe.
+S: Paula terminou o trabalho. Paula entregou-o ao chefe.
+
+C: Miguel comprou ingressos para o cinema e convidou sua namorada.
+S: Miguel comprou ingressos para o cinema. Miguel convidou sua namorada.
+
+C: Fernanda saiu para caminhar e encontrou um antigo amigo.
+S: Fernanda saiu para caminhar. Fernanda encontrou um antigo amigo.
+
+C: Eduardo cozinhou um delicioso jantar e serviu-o para seus convidados.
+S: Eduardo cozinhou um delicioso jantar. Eduardo serviu-o para seus convidados.
+
+C: Maria foi ao mercado e comprou frutas e legumes frescos.
+S: Maria foi ao mercado. Maria comprou frutas e legumes frescos.
+
+C: O cachorro latiu e o gato miou.
+S: O cachorro latiu. O gato miou.
+
+C: Ele estudou durante toda a tarde e fez todos os exercícios propostos.
+S: Ele estudou durante toda a tarde. Ele fez todos os exercícios propostos.
+
+C: A casa estava suja e bagunçada.
+S: A casa estava suja. A casa estava bagunçada.
+
+C: Ela gostava de ler e escrever histórias.
+S: Ela gostava de ler. Ela gostava de escrever histórias.
+
+C: O sol brilhava intensamente e o céu estava límpido.
+S: O sol brilhava intensamente. O céu estava límpido.
+
+C: Os pássaros cantavam e voavam no céu azul.
+S: Os pássaros cantavam. Os pássaros voavam no céu azul.
+
+C: O carro acelerou e ultrapassou os demais veículos.
+S: O carro acelerou. O carro ultrapassou os demais veículos.
+
+C: Ele saiu de casa e pegou o ônibus para o trabalho.
+S: Ele saiu de casa. Ele pegou o ônibus para o trabalho.
+
+C: A sala estava cheia de pessoas conversando e rindo.
+S: A sala estava cheia de pessoas conversando. A sala estava cheia de pessoas rindo.
+
+C: Maria foi à praia e nadou no mar azul.
+S: Maria foi à praia. Maria nadou no mar azul.
+
+C: Os alunos estudaram para a prova de matemática, mas não conseguiram tirar boas notas.
+S: Os alunos estudaram para a prova de matemática. Os alunos não conseguiram tirar boas notas.
+
+C: João saiu para passear com o cachorro e encontrou um amigo no parque.
+S: João saiu para passear com o cachorro. João encontrou um amigo no parque.
+
+C: Ana comprou um vestido novo e usou no casamento.
+S: Ana comprou um vestido novo. Ana usou no casamento.
+
+C: O time jogou bem, porém não conseguiu vencer o jogo.
+S: O time jogou bem. O time não conseguiu vencer o jogo.
+
+C: Lucas acordou cedo, tomou café da manhã e foi trabalhar.
+S: Lucas acordou cedo. Lucas tomou café da manhã. Lucas foi trabalhar.
+
+C: Carolina estudou bastante para a prova de história, mas esqueceu de levar o material.
+S: Carolina estudou bastante para a prova de história. Carolina esqueceu de levar o material.
+
+C: O filme foi muito emocionante e fez todos chorarem no final.
+S: O filme foi muito emocionante. O filme fez todos chorarem no final.
+
+C: Os amigos saíram para jantar e depois foram ao cinema.
+S: Os amigos saíram para jantar. Os amigos foram ao cinema.
+
+C: Paulo comprou um carro novo e foi viajar com a família.
+S: Paulo comprou um carro novo. Paulo foi viajar com a família.
+
+C: A chuva começou a cair e os pássaros buscaram abrigo nas árvores.
+S: A chuva começou a cair. Os pássaros buscaram abrigo nas árvores.
+
+C: Maria comprou uma maçã e Pedro comprou uma laranja.
+S: Maria comprou uma maçã. Pedro comprou uma laranja.
+
+C: O cachorro latiu e o gato fugiu assustado.
+S: O cachorro latiu. O gato fugiu assustado.
+
+C: O filme era emocionante e o final foi surpreendente.
+S: O filme era emocionante. O final foi surpreendente.
+
+C: A criança brincava no parque e os pais olhavam orgulhosos.
+S: A criança brincava no parque. Os pais olhavam orgulhosos.
+
+C: A festa estava animada e a música era contagiante.
+S: A festa estava animada. A música era contagiante.
+
+C: O carro acelerou e o motorista perdeu o controle.
+S: O carro acelerou. O motorista perdeu o controle.
+
+C: Os amigos se abraçaram e choraram de felicidade.
+S: Os amigos se abraçaram. Choraram de felicidade.
+
+C: A comida estava deliciosa e todos elogiaram o chef.
+S: A comida estava deliciosa. Todos elogiaram o chef.
+
+C: O sol se pôs e a lua surgiu no horizonte.
+S: O sol se pôs. A lua surgiu no horizonte.
+
+C: Maria correu para pegar o ônibus, mas ele já havia partido.
+S: Maria correu para pegar o ônibus. Mas ele já havia partido.
+
+C: O sol brilha durante o dia, mas a lua brilha durante a noite.
+S: O sol brilha durante o dia. Mas a lua brilha durante a noite.
+
+C: Ana estudou muito para a prova, mas não tirou a nota que esperava.
+S: Ana estudou muito para a prova. Mas não tirou a nota que esperava.
+
+C: O cachorro latiu durante a noite, mas ninguém acordou.
+S: O cachorro latiu durante a noite. Mas ninguém acordou.
+
+C: Pedro fez exercícios físicos todos os dias, mas não conseguiu perder peso.
+S: Pedro fez exercícios físicos todos os dias. Mas não conseguiu perder peso.
+
+C: Helena comeu uma fatia de bolo, mas ainda estava com fome.
+S: Helena comeu uma fatia de bolo. Mas ainda estava com fome.
+
+C: O carro ficou sem gasolina, mas o motorista não percebeu.
+S: O carro ficou sem gasolina. Mas o motorista não percebeu.
+
+C: As pessoas dançaram na festa, mas a música estava alta demais.
+S: As pessoas dançaram na festa. Mas a música estava alta demais.
+
+C: A casa estava vazia, mas algumas luzes estavam acesas.
+S: A casa estava vazia. Mas algumas luzes estavam acesas.
+
+C: Os alunos estudaram o dia inteiro, mas o professor não apareceu.
+S: Os alunos estudaram o dia inteiro. Mas o professor não apareceu.
+
+C: Maria comprou um livro e leu durante toda a tarde.
+S: Maria comprou um livro. Maria leu durante toda a tarde.
+
+C: O gato miava incessantemente e pediu para sair.
+S: O gato miava incessantemente. O gato pediu para sair.
+
+C: Ana caminhou pela praia e mergulhou no mar gelado.
+S: Ana caminhou pela praia. Ana mergulhou no mar gelado.
+
+C: O carro parou de funcionar e precisou ser rebocado.
+S: O carro parou de funcionar. O carro precisou ser rebocado.
+
+C: O professor explicou a matéria e passou uma atividade.
+S: O professor explicou a matéria. O professor passou uma atividade.
+
+C: João cozinhou o jantar e serviu para os convidados.
+S: João cozinhou o jantar. João serviu para os convidados.
+
+C: O sol brilhava intensamente e aquecia o ambiente.
+S: O sol brilhava intensamente. O sol aquecia o ambiente.
+
+C: O pássaro cantava alegremente e voava livremente pelo céu.
+S: O pássaro cantava alegremente. O pássaro voava livremente pelo céu.
+
+C: A criança chorava desesperadamente e pedia para ser consolada.
+S: A criança chorava desesperadamente. A criança pedia para ser consolada.
+
+C: O telefone tocou incessantemente e acordou toda a casa.
+S: O telefone tocou incessantemente. O telefone acordou toda a casa.
+
+C: O carro passou em alta velocidade, quase atropelando o pedestre distraído. Sinalizou perigo e seguiu em frente.
+S: O carro passou em alta velocidade, quase atropelando o pedestre distraído. O carro sinalizou perigo e o carro seguiu em frente.
+
+C: Ela estudou toda a noite para a prova, mas não conseguiu tirar uma boa nota. Ficou desanimada e decidiu se esforçar mais da próxima vez.
+S: Ela estudou toda a noite para a prova, mas não conseguiu tirar uma boa nota. Ela ficou desanimada e ela decidiu se esforçar mais da próxima vez.
+
+C: Ele correu pela trilha no parque, respirou o ar puro e sentiu-se revigorado. Continuou a corrida com mais animação.
+S: Ele correu pela trilha no parque, respirou o ar puro e sentiu-se revigorado. Ele continuou a corrida com mais animação.
+
+C: O filme era emocionante, prendendo a atenção de todos os espectadores. Terminou com uma reviravolta surpreendente e deixou todos impressionados.
+S: O filme era emocionante, prendendo a atenção de todos os espectadores. O filme terminou com uma reviravolta surpreendente e o filme deixou todos impressionados.
+
+C: Ela cantou uma linda música no palco, encantando a plateia. Recebeu aplausos e ficou muito feliz com o resultado.
+S: Ela cantou uma linda música no palco, encantando a plateia. Ela recebeu aplausos e ela ficou muito feliz com o resultado.
+
+C: O cliente reclamou do péssimo atendimento no restaurante, exigindo uma solução imediata. Ficou descontente e decidiu nunca mais voltar ao estabelecimento.
+S: O cliente reclamou do péssimo atendimento no restaurante, exigindo uma solução imediata. Ele ficou descontente e ele decidiu nunca mais voltar ao estabelecimento.
+
+C: Ele estudou muito para o concurso, abdicando de sair com os amigos. Sentia-se cansado e desmotivado com todo o esforço.
+S: Ele estudou muito para o concurso, abdicando de sair com os amigos. Ele sentia-se cansado e ele desmotivado com todo o esforço.
+
+C: O gato miou alto durante a noite, assustando os moradores do prédio. Acordou todo mundo e levou bronca da vizinhança.
+S: O gato miou alto durante a noite, assustando os moradores do prédio. O gato acordou todo mundo e o gato levou bronca da vizinhança.
+
+C: Ela pintou um lindo quadro, utilizando cores vibrantes. Expôs sua obra em uma galeria e recebeu vários elogios.
+S: Ela pintou um lindo quadro, utilizando cores vibrantes. Ela expôs sua obra em uma galeria e ela recebeu vários elogios.
+
+C: O time lutou bravamente durante a partida, mostrando determinação. Saiu de campo comemorando a vitória merecida.
+S: O time lutou bravamente durante a partida, mostrando determinação. O time saiu de campo comemorando a vitória merecida.
+
+C: Ela pegou o ônibus e foi para a escola.
+S: Ela pegou o ônibus. Ela foi para a escola.
+
+C: Ele comprou os ingredientes e fez o bolo.
+S: Ele comprou os ingredientes. Ele fez o bolo.
+
+C: Nós estudamos para a prova e tiramos boas notas.
+S: Nós estudamos para a prova. Nós tiramoos boas notas.
+
+C: O cachorro latiu e acordou os vizinhos.
+S: O cachorro latiu. O cachorro acordou os vizinhos.
+
+C: Eles foram ao cinema e assistiram a um filme de comédia.
+S: Eles foram ao cinema. Eles assistiram a um filme de comédia.
+
+C: Ela lavou a roupa e a pendurou no varal.
+S: Ela lavou a roupa. Ela pendurou no varal.
+
+C: Nós saímos para jantar e depois fomos ao teatro.
+S: Nós saímos para jantar. Nós fomos ao teatro.
+
+C: Ele foi à praia e nadou no mar.
+S: Ele foi à praia. Ele nadou no mar.
+
+C: Ela cantou uma música e encantou a plateia.
+S: Ela cantou uma música. Ela encantou a plateia.
+
+C: Eles brigaram e se separaram.
+S: Eles brigaram. Eles se separaram.
+
+C: O sol brilhava forte no céu e as pessoas aproveitavam o dia na praia.
+S: O sol brilhava forte no céu. As pessoas aproveitavam o dia na praia.
+
+C: Laura comprou uma nova casa e está muito feliz com a mudança.
+S: Laura comprou uma nova casa. Laura está muito feliz com a mudança.
+
+C: O filme tinha muitas cenas emocionantes e prendeu a atenção do público.
+S: O filme tinha muitas cenas emocionantes. O filme prendeu a atenção do público.
+
+C: Os alunos estudaram bastante para a prova e conseguiram boas notas.
+S: Os alunos estudaram bastante para a prova. Os alunos conseguiram boas notas.
+
+C: Lucas fez uma viagem de avião e conheceu lugares incríveis.
+S: Lucas fez uma viagem de avião. Lucas conheceu lugares incríveis.
+
+C: O cachorro latiu alto e acordou todo mundo da casa.
+S: O cachorro latiu alto. O cachorro acordou todo mundo da casa.
+
+C: Carla comprou uma linda roupa nova e se sentiu mais confiante.
+S: Carla comprou uma linda roupa nova. Carla se sentiu mais confiante.
+
+C: O restaurante serviu pratos deliciosos e o serviço foi excelente.
+S: O restaurante serviu pratos deliciosos. O serviço foi excelente.
+
+C: A festa estava animada e todos dançaram até altas horas.
+S: A festa estava animada. Todos dançaram até altas horas.
+
+C: O livro tinha uma história emocionante e muitos personagens interessantes.
+S: O livro tinha uma história emocionante. O livro tinha muitos personagens interessantes.
+
+C: Ana comprou um livro e deu de presente para sua irmã.
+S: Ana comprou um livro. Ana deu de presente para sua irmã.
+
+C: Eu estudei a tarde toda e depois fui ao cinema.
+S: Eu estudei a tarde toda. Eu depois fui ao cinema.
+
+C: O cachorro correu atrás do gato e pulou o muro.
+S: O cachorro correu atrás do gato. O cachorro pulou o muro.
+
+C: Ela cozinhou o jantar e arrumou a casa.
+S: Ela cozinhou o jantar. Ela arrumou a casa.
+
+C: Eles viajaram para a praia e aproveitaram o sol.
+S: Eles viajaram para a praia. Eles aproveitaram o sol.
+
+C: Nós compramos os ingredientes e preparamos o bolo.
+S: Nós compramos os ingredientes. Nós preparamos o bolo.
+
+C: Ele estudou para a prova e tirou uma nota alta.
+S: Ele estudou para a prova. Ele tirou uma nota alta.
+
+C: Ela comprou um vestido novo e usou no baile.
+S: Ela comprou um vestido novo. Ela usou no baile.
+
+C: O time ganhou o jogo e comemorou a vitória.
+S: O time ganhou o jogo. O time comemorou a vitória.
+
+C: Eu lavei a roupa e estendi no varal.
+S: Eu lavei a roupa. Eu estendi no varal.
+
+C: O sol brilha no céu azul. As flores desabrocham no jardim.
+S: O sol brilha no céu azul. As flores desabrocham no jardim.
+
+C: Maria estudou matemática durante a manhã. Luís fez uma caminhada no parque pela tarde.
+S: Maria estudou matemática durante a manhã. Luís fez uma caminhada no parque pela tarde.
+
+C: O cachorro correu atrás do gato. O gato subiu em cima de uma árvore.
+S: O cachorro correu atrás do gato. O gato subiu em cima de uma árvore.
+
+C: O carro parou na esquina. A mulher atravessou a rua.
+S: O carro parou na esquina. A mulher atravessou a rua.
+
+C: O vento soprava forte. As folhas caíam das árvores.
+S: O vento soprava forte. As folhas caíam das árvores.
+
+C: O menino riu da piada engraçada. A menina sorriu para o menino.
+S: O menino riu da piada engraçada. A menina sorriu para o menino.
+
+C: O telefone tocou na sala. Uma voz familiar falou do outro lado da linha.
+S: O telefone tocou na sala. Uma voz familiar falou do outro lado da linha.
+
+C: João comprou um livro na livraria. Ele leu o livro em uma semana.
+S: João comprou um livro na livraria. Ele leu o livro em uma semana.
+
+C: Os pássaros voam alto no céu. As nuvens estão carregadas de chuva.
+S: Os pássaros voam alto no céu. As nuvens estão carregadas de chuva.
+
+C: O barulho da chuva no telhado é relaxante. O trovão assusta algumas pessoas.
+S: O barulho da chuva no telhado é relaxante. O trovão assusta algumas pessoas.
+
+C: O gato pulou da cadeira e correu para o jardim.
+S: O gato pulou da cadeira. O gato correu para o jardim.
+
+C: Maria acendeu a luz e pegou um livro para ler.
+S: Maria acendeu a luz. Maria pegou um livro para ler.
+
+C: O carro acelerou e ultrapassou o ônibus na estrada.
+S: O carro acelerou. O carro ultrapassou o ônibus na estrada.
+
+C: Os amigos se encontraram no parque e brincaram de futebol.
+S: Os amigos se encontraram no parque. Os amigos brincaram de futebol.
+
+C: A menina chorou e abraçou seu cachorro quando chegou em casa.
+S: A menina chorou. A menina abraçou seu cachorro quando chegou em casa.
+
+C: O sol brilhou forte e as flores desabrocharam no jardim.
+S: O sol brilhou forte. As flores desabrocharam no jardim.
+
+C: O professor explicou a lição e os alunos fizeram os exercícios.
+S: O professor explicou a lição. Os alunos fizeram os exercícios.
+
+C: João se levantou da cama e se vestiu para o trabalho.
+S: João se levantou da cama. João se vestiu para o trabalho.
+
+C: A chuva parou e o sol apareceu no céu.
+S: A chuva parou. O sol apareceu no céu.
+
+C: Eu comprei uma maçã e comi antes do jantar.
+S: Eu comprei uma maçã. Eu comi antes do jantar.
+
+C: A festa estava animada, as pessoas dançavam e cantavam.
+S: A festa estava animada. As pessoas dançavam. As pessoas cantavam.
+
+C: O Sol brilhava intensamente, o céu estava azul e sem nuvens.
+S: O Sol brilhava intensamente. O céu estava azul. O céu estava sem nuvens.
+
+C: Ela estudou para a prova, tirou uma boa nota e ficou feliz.
+S: Ela estudou para a prova. Ela tirou uma boa nota. Ela ficou feliz.
+
+C: Ele foi ao supermercado, comprou alimentos e voltou para casa.
+S: Ele foi ao supermercado. Ele comprou alimentos. Ele voltou para casa.
+
+C: O time jogou bem, marcou vários gols e venceu a partida.
+S: O time jogou bem. O time marcou vários gols. O time venceu a partida.
+
+C: Ele acordou cedo, tomou banho e saiu para o trabalho.
+S: Ele acordou cedo. Ele tomou banho. Ele saiu para o trabalho.
+
+C: Ela pintou um quadro, expôs em uma galeria e recebeu elogios.
+S: Ela pintou um quadro. Ela expôs em uma galeria. Ela recebeu elogios.
+
+C: Eles assistiram ao filme, comeram pipoca e se divertiram.
+S: Eles assistiram ao filme. Eles comeram pipoca. Eles se divertiram.
+
+C: Ela fez exercícios físicos, alongou os músculos e relaxou.
+S: Ela fez exercícios físicos. Ela alongou os músculos. Ela relaxou.
+
+C: Ele trabalhou duro, terminou todas as tarefas e foi elogiado pelo chefe.
+S: Ele trabalhou duro. Ele terminou todas as tarefas. Ele foi elogiado pelo chefe.
+
+C: O gato subiu no telhado e ficou miando.
+S: O gato subiu no telhado. O gato ficou miando.
+
+C: Maria saiu de casa e foi até a padaria comprar pão.
+S: Maria saiu de casa. Maria foi até a padaria comprar pão.
+
+C: O cachorro correu atrás do seu próprio rabo e caiu no chão.
+S: O cachorro correu atrás do seu próprio rabo. O cachorro caiu no chão.
+
+C: Pedro pegou o ônibus e foi para o trabalho.
+S: Pedro pegou o ônibus. Pedro foi para o trabalho.
+
+C: Ana comprou uma blusa nova e experimentou no provador.
+S: Ana comprou uma blusa nova. Ana experimentou no provador.
+
+C: O menino pulou a cerca e entrou no quintal do vizinho.
+S: O menino pulou a cerca. O menino entrou no quintal do vizinho.
+
+C: O carro quebrou no meio da estrada e o motorista teve que chamar um guincho.
+S: O carro quebrou no meio da estrada. O motorista teve que chamar um guincho.
+
+C: O avião decolou do aeroporto e voou rumo ao destino.
+S: O avião decolou do aeroporto. O avião voou rumo ao destino.
+
+C: A mãe cozinhou o jantar e chamou a família para comer.
+S: A mãe cozinhou o jantar. A mãe chamou a família para comer.
+
+C: O sol se pôs no horizonte e o céu ficou cheio de estrelas.
+S: O sol se pôs no horizonte. O céu ficou cheio de estrelas.
+
+C: O tempo estava chuvoso, os pássaros se abrigaram nos ninhos.
+S: O tempo estava chuvoso. Os pássaros se abrigaram nos ninhos.
+
+C: Ela estudou muito para a prova, conseguiu uma excelente nota.
+S: Ela estudou muito para a prova. Ela conseguiu uma excelente nota.
+
+C: Eles correram pela praia, mergulharam no mar.
+S: Eles correram pela praia. Eles mergulharam no mar.
+
+C: O sol brilhava forte, os banhistas se bronzearam na areia.
+S: O sol brilhava forte. Os banhistas se bronzearam na areia.
+
+C: Ela sorriu para ele, ele retribuiu o gesto.
+S: Ela sorriu para ele. Ele retribuiu o gesto.
+
+C: O garoto passeava com o cachorro, o animal puxava a coleira.
+S: O garoto passeava com o cachorro. O animal puxava a coleira.
+
+C: O bebê chorava sem parar, a mãe tentava acalmá-lo com carinho.
+S: O bebê chorava sem parar. A mãe tentava acalmá-lo com carinho.
+
+C: O vento soprou com intensidade, as folhas das árvores caíram.
+S: O vento soprou com intensidade. As folhas das árvores caíram.
+
+C: O carro acelerou bruscamente, o motorista segurou firme no volante.
+S: O carro acelerou bruscamente. O motorista segurou firme no volante.
+
+C: O estudante estava concentrado na leitura, gastou horas na biblioteca.
+S: O estudante estava concentrado na leitura. Ele gastou horas na biblioteca.
+
+C: O sol brilhava intensamente no céu azul. Maria pegou suas coisas e saiu para a praia.
+S: O sol brilhava intensamente no céu azul. Maria pegou suas coisas. Maria saiu para a praia.
+
+C: Pedro foi ao mercado e comprou frutas frescas e legumes. Ele voltou para casa e preparou um delicioso suco.
+S: Pedro foi ao mercado e comprou frutas frescas e legumes. Ele voltou para casa. Pedro preparou um delicioso suco.
+
+C: Roberto estava cansado e com fome. Ele decidiu descansar um pouco e fazer um lanche.
+S: Roberto estava cansado e com fome. Ele decidiu descansar um pouco. Roberto decidiu fazer um lanche.
+
+C: O filme era emocionante e cheio de suspense. Maria assistiu até o final e ficou impressionada com o desfecho.
+S: O filme era emocionante e cheio de suspense. Maria assistiu até o final. Maria ficou impressionada com o desfecho.
+
+C: João adorava cozinhar e experimentar novas receitas. Ele sempre comprava ingredientes diferentes e improvisava pratos deliciosos.
+S: João adorava cozinhar e experimentar novas receitas. Ele sempre comprava ingredientes diferentes. João improvisava pratos deliciosos.
+
+C: Ana saiu de casa no horário combinado e pegou um táxi até o aeroporto. Ela encontrou seus amigos e juntos embarcaram para uma viagem incrível.
+S: Ana saiu de casa no horário combinado e pegou um táxi até o aeroporto. Ela encontrou seus amigos. Ana embarcou para uma viagem incrível.
+
+C: Marcelo acordou cedo e tomou um café reforçado. Ele pegou seu material de estudo e se dirigiu à biblioteca.
+S: Marcelo acordou cedo e tomou um café reforçado. Ele pegou seu material de estudo. Marcelo se dirigiu à biblioteca.
+
+C: O cachorro latia incessantemente e corria atrás dos pássaros. Ele estava animado e cheio de energia.
+S: O cachorro latia incessantemente e corria atrás dos pássaros. Ele estava animado. O cachorro estava cheio de energia.
+
+C: Laura estava gripada e com dor de cabeça. Ela decidiu ficar em casa e descansar o dia todo.
+S: Laura estava gripada e com dor de cabeça. Ela decidiu ficar em casa. Laura decidiu descansar o dia todo.
+
+C: Carlos estudou durante toda a tarde e fez todas as suas tarefas. Ele se sentia satisfeito com seu desempenho e decidiu relaxar um pouco.
+S: Carlos estudou durante toda a tarde e fez todas as suas tarefas. Ele se sentia satisfeito com seu desempenho. Carlos decidiu relaxar um pouco.
+
+C: O rapaz correu pelo parque e encontrou seus amigos no lago.
+S: O rapaz correu pelo parque. O rapaz encontrou seus amigos no lago.
+
+C: Ela estudou durante toda a noite e conseguiu tirar uma boa nota na prova.
+S: Ela estudou durante toda a noite. Ela conseguiu tirar uma boa nota na prova.
+
+C: O cachorro latiu e acordou todos os moradores da rua.
+S: O cachorro latiu. O cachorro acordou todos os moradores da rua.
+
+C: Eles viajaram para a praia e aproveitaram o sol e o mar.
+S: Eles viajaram para a praia. Eles aproveitaram o sol e o mar.
+
+C: A professora corrigiu as provas e entregou os resultados aos alunos.
+S: A professora corrigiu as provas. A professora entregou os resultados aos alunos.
+
+C: O jogador chutou a bola e marcou um gol.
+S: O jogador chutou a bola. O jogador marcou um gol.
+
+C: O carro quebrou no meio da estrada e eles precisaram chamar um guincho.
+S: O carro quebrou no meio da estrada. Eles precisaram chamar um guincho.
+
+C: A menina cantou a música e encantou a plateia.
+S: A menina cantou a música. A menina encantou a plateia.
+
+C: Ele comprou os ingressos para o show e convidou seus amigos para ir junto.
+S: Ele comprou os ingressos para o show. Ele convidou seus amigos para ir junto.
+
+C: O jogador cometeu uma falta e recebeu um cartão amarelo.
+S: O jogador cometeu uma falta. O jogador recebeu um cartão amarelo.
+
+C: Maria comprou uma nova bicicleta e pedalou até o parque.
+S: Maria comprou uma nova bicicleta. Maria pedalou até o parque.
+
+C: Pedro estudou para a prova de matemática e tirou uma nota alta.
+S: Pedro estudou para a prova de matemática. Pedro tirou uma nota alta.
+
+C: O sol brilhava intensamente e o mar estava calmo.
+S: O sol brilhava intensamente. O mar estava calmo.
+
+C: Minha mãe preparou um delicioso jantar e minha família se reuniu para comer.
+S: Minha mãe preparou um delicioso jantar. Minha família se reuniu para comer.
+
+C: João comprou um livro novo e começou a ler imediatamente.
+S: João comprou um livro novo. João começou a ler imediatamente.
+
+C: O cachorro latiu alto e acordou todos os vizinhos.
+S: O cachorro latiu alto. O cachorro acordou todos os vizinhos.
+
+C: Ana foi ao supermercado e comprou todos os ingredientes para a receita.
+S: Ana foi ao supermercado. Ana comprou todos os ingredientes para a receita.
+
+C: Eu terminei meu trabalho e pude finalmente relaxar.
+S: Eu terminei meu trabalho. Eu pude finalmente relaxar.
+
+C: As crianças brincavam no parque e se divertiam muito.
+S: As crianças brincavam no parque. As crianças se divertiam muito.
+
+C: O carro quebrou no meio da estrada e tivemos que chamar um guincho.
+S: O carro quebrou no meio da estrada. Tivemos que chamar um guincho.
+
+C: Eles foram à praia e aproveitaram o sol.
+S: Eles foram à praia. Eles aproveitaram o sol.
+
+C: Ela estudou muito e conseguiu passar na prova.
+S: Ela estudou muito. Ela conseguiu passar na prova.
+
+C: O time marcou um gol e ganhou o jogo.
+S: O time marcou um gol. O time ganhou o jogo.
+
+C: Ele correu para pegar o ônibus e acabou se machucando.
+S: Ele correu para pegar o ônibus. Ele acabou se machucando.
+
+C: Sally comprou uma maçã e comeu no caminho.
+S: Sally comprou uma maçã. Sally comeu no caminho.
+
+C: João pediu demissão do emprego e decidiu viajar pelo mundo.
+S: João pediu demissão do emprego. João decidiu viajar pelo mundo.
+
+C: Maria ligou para sua amiga e a convidou para sair.
+S: Maria ligou para sua amiga. Maria a convidou para sair.
+
+C: Ele levou o cachorro para passear e voltou tarde para casa.
+S: Ele levou o cachorro para passear. Ele voltou tarde para casa.
+
+C: O professor explicou o conteúdo e deu uma prova no final da aula.
+S: O professor explicou o conteúdo. O professor deu uma prova no final da aula.
+
+C: O casal se beijou e comemorou o aniversário de namoro.
+S: O casal se beijou. O casal comemorou o aniversário de namoro.
+
+C: O cachorro latiu e o gato miou.
+S: O cachorro latiu. O gato miou.
+
+C: Ana dançou e Pedro cantou.
+S: Ana dançou. Pedro cantou.
+
+C: Ela estudou e ele trabalhou.
+S: Ela estudou. Ele trabalhou.
+
+C: O sol brilhou e a lua apareceu.
+S: O sol brilhou. A lua apareceu.
+
+C: Eu corri e ele caminhou.
+S: Eu corri. Ele caminhou.
+
+C: O vento soprava e as folhas caíam.
+S: O vento soprava. As folhas caíam.
+
+C: A criança chorou e a mãe consolou.
+S: A criança chorou. A mãe consolou.
+
+C: Eles cantaram e nós dançamos.
+S: Eles cantaram. Nós dançamos.
+
+C: Os pássaros voaram e os peixes nadaram.
+S: Os pássaros voaram. Os peixes nadaram.
+
+C: Ele cozinhou e ela comeu.
+S: Ele cozinhou. Ela comeu.
+
+C: Ela estudou espanhol e francês na universidade.
+S: Ela estudou espanhol na universidade. Ela estudou francês na universidade.
+
+C: O céu estava nublado e chovia muito.
+S: O céu estava nublado. Chovia muito.
+
+C: Os alunos assistiram a uma peça de teatro e depois fizeram uma discussão sobre ela.
+S: Os alunos assistiram a uma peça de teatro. Os alunos depois fizeram uma discussão sobre ela.
+
+C: Ele correu para pegar o ônibus, mas já estava lotado.
+S: Ele correu para pegar o ônibus. O ônibus já estava lotado.
+
+C: Eles compraram roupas novas e sapatos novos para a viagem.
+S: Eles compraram roupas novas para a viagem. Eles compraram sapatos novos para a viagem.
+
+C: Ela trabalha meio período e estuda à tarde.
+S: Ela trabalha meio período. Ela estuda à tarde.
+
+C: O carro estava quebrado e não podíamos sair.
+S: O carro estava quebrado. Não podíamos sair.
+
+C: Ele chamou o táxi e foi para o aeroporto.
+S: Ele chamou o táxi. Ele foi para o aeroporto.
+
+C: Eles convidaram os amigos para jantar e prepararam um banquete.
+S: Eles convidaram os amigos para jantar. Eles prepararam um banquete.
+
+C: Ela comprou uma nova câmera e viajou para Paris.
+S: Ela comprou uma nova câmera. Ela viajou para Paris.
+
+C: O sol brilhava intensamente no céu azul, e uma brisa suave soprava do mar.
+S: O sol brilhava intensamente no céu azul. Uma brisa suave soprava do mar.
+
+C: A menina chorava inconsolavelmente, e o cachorro latia alto.
+S: A menina chorava inconsolavelmente. O cachorro latia alto.
+
+C: O filme era emocionante e cheio de suspense, e o final foi surpreendente.
+S: O filme era emocionante e cheio de suspense. O final foi surpreendente.
+
+C: O professor explicou a matéria com clareza, e os alunos prestaram atenção.
+S: O professor explicou a matéria com clareza. Os alunos prestaram atenção.
+
+C: O trânsito estava congestionado, e o motorista ficou preso no engarrafamento.
+S: O trânsito estava congestionado. O motorista ficou preso no engarrafamento.
+
+C: O casal dançou animadamente a noite toda, e os convidados se divertiram.
+S: O casal dançou animadamente a noite toda. Os convidados se divertiram.
+
+C: O dia estava quente e ensolarado, e as crianças brincavam na praia.
+S: O dia estava quente e ensolarado. As crianças brincavam na praia.
+
+C: A comida estava deliciosa, e os convidados elogiaram o chef.
+S: A comida estava deliciosa. Os convidados elogiaram o chef.
+
+C: O cantor se apresentou no palco com energia, e a plateia o aplaudiu de pé.
+S: O cantor se apresentou no palco com energia. A plateia o aplaudiu de pé.
+
+C: As árvores balançavam ao vento, e os pássaros cantavam alegremente.
+S: As árvores balançavam ao vento. Os pássaros cantavam alegremente.
+
+C: O cachorro latiu alto e correu para fora de casa.
+S: O cachorro latiu alto. O cachorro correu para fora de casa.
+
+C: Maria cozinha bem e consegue preparar pratos deliciosos.
+S: Maria cozinha bem. Maria consegue preparar pratos deliciosos.
+
+C: O carro faz barulhos estranhos e não está funcionando corretamente.
+S: O carro faz barulhos estranhos. O carro não está funcionando corretamente.
+
+C: Pedro estudou a noite toda e conseguiu tirar uma nota alta na prova.
+S: Pedro estudou a noite toda. Pedro conseguiu tirar uma nota alta na prova.
+
+C: Os alunos fizeram silêncio e prestaram atenção no professor.
+S: Os alunos fizeram silêncio. Os alunos prestaram atenção no professor.
+
+C: Joana comprou uma camiseta nova e um sapato bonito.
+S: Joana comprou uma camiseta nova. Joana comprou um sapato bonito.
+
+C: O sol brilhava forte e o calor estava insuportável.
+S: O sol brilhava forte. O calor estava insuportável.
+
+C: Os pássaros voaram alto no céu e cantaram melodias bonitas.
+S: Os pássaros voaram alto no céu. Os pássaros cantaram melodias bonitas.
+
+C: As crianças brincaram no parque e comeram sorvete.
+S: As crianças brincaram no parque. As crianças comeram sorvete.
+
+C: O casal dançou animadamente e se divertiu muito na festa.
+S: O casal dançou animadamente. O casal se divertiu muito na festa.
+
+C: A festa foi animada e as pessoas dançaram a noite toda.
+S: A festa foi animada. As pessoas dançaram a noite toda.
+
+C: O filme era emocionante, mas eu não consegui segurar as lágrimas.
+S: O filme era emocionante. Eu não consegui segurar as lágrimas.
+
+C: Ele estudou muito e conseguiu passar no exame.
+S: Ele estudou muito. Ele conseguiu passar no exame.
+
+C: Nós fomos à praia e aproveitamos o dia de sol.
+S: Nós fomos à praia. Nós aproveitamos o dia de sol.
+
+C: Ela comprou roupas novas e ficou muito feliz.
+S: Ela comprou roupas novas. Ela ficou muito feliz.
+
+C: Eles compraram os ingressos e foram ao show.
+S: Eles compraram os ingressos. Eles foram ao show.
+
+C: O cachorro latiu alto e assustou os vizinhos.
+S: O cachorro latiu alto. O cachorro assustou os vizinhos.
+
+C: Eu comprei os mantimentos e preparei o jantar.
+S: Eu comprei os mantimentos. Eu preparei o jantar.
+
+C: Ela lavou a roupa e estendeu no varal.
+S: Ela lavou a roupa. Ela estendeu no varal.
+
+C: Ele correu rápido e venceu a corrida.
+S: Ele correu rápido. Ele venceu a corrida.
+
+C: Ele estudou toda a tarde, realizou todas as atividades propostas pelo professor.
+S: Ele estudou toda a tarde. Ele realizou todas as atividades propostas pelo professor.
+
+C: Ela correu pela praia, sentiu a brisa do mar em seu rosto.
+S: Ela correu pela praia. Ela sentiu a brisa do mar em seu rosto.
+
+C: Eles assistiram ao filme no cinema, comeram pipoca durante a sessão.
+S: Eles assistiram ao filme no cinema. Eles comeram pipoca durante a sessão.
+
+C: Nós fizemos a viagem de carro, aproveitamos cada momento da estrada.
+S: Nós fizemos a viagem de carro. Nós aproveitamos cada momento da estrada.
+
+C: Elas cantaram no palco, emocionaram o público com suas vozes.
+S: Elas cantaram no palco. Elas emocionaram o público com suas vozes.
+
+C: Ele pulou da ponte, mergulhou nas águas geladas do rio.
+S: Ele pulou da ponte. Ele mergulhou nas águas geladas do rio.
+
+C: Nós compramos os ingressos para o show, assistimos às músicas de nossos artistas favoritos.
+S: Nós compramos os ingressos para o show. Nós assistimos às músicas de nossos artistas favoritos.
+
+C: Elas saíram correndo do escritório, pegaram o ônibus para não perderem o horário.
+S: Elas saíram correndo do escritório. Elas pegaram o ônibus para não perderem o horário.
+
+C: Ele estudou para as provas, conseguiu boas notas em todas as disciplinas.
+S: Ele estudou para as provas. Ele conseguiu boas notas em todas as disciplinas.
+
+C: Nós fizemos uma festa surpresa, comemoramos o aniversário dele até tarde da noite.
+S: Nós fizemos uma festa surpresa. Nós comemoramos o aniversário dele até tarde da noite.
+
+C: O carro quebrou na estrada deserta, por isso tiveram que pedir ajuda.
+S: O carro quebrou na estrada deserta. Tiveram que pedir ajuda.
+
+C: Ela estudou durante a tarde inteira, depois foi descansar.
+S: Ela estudou durante a tarde inteira. Ela foi descansar.
+
+C: Eu comprei um livro novo na livraria perto de casa, assim pude começar a ler.
+S: Eu comprei um livro novo na livraria perto de casa. Assim pude começar a ler.
+
+C: Ele saiu para almoçar com os amigos, por isso voltou tarde para casa.
+S: Ele saiu para almoçar com os amigos. Voltou tarde para casa.
+
+C: Nós fomos ao cinema ver um filme de suspense, depois fomos jantar fora.
+S: Nós fomos ao cinema ver um filme de suspense. Fomos jantar fora.
+
+C: Maria saiu correndo para pegar o ônibus, pois estava atrasada.
+S: Maria saiu correndo para pegar o ônibus. Estava atrasada.
+
+C: O cachorro latiu a noite toda, por isso ninguém conseguiu dormir.
+S: O cachorro latiu a noite toda. Ninguém conseguiu dormir.
+
+C: Eles compraram as passagens de avião, assim puderam viajar para o exterior.
+S: Eles compraram as passagens de avião. Assim puderam viajar para o exterior.
+
+C: Você precisa estudar para a prova de matemática, então pode aproveitar o fim de semana para isso.
+S: Você precisa estudar para a prova de matemática. Pode aproveitar o fim de semana para isso.
+
+C: Ela estava cansada depois de um dia de trabalho intenso, por isso foi logo dormir.
+S: Ela estava cansada depois de um dia de trabalho intenso. Foi logo dormir.
+
+C: João está estudando para o exame de matemática, enquanto Maria está lendo um livro.
+S: João está estudando para o exame de matemática. Maria está lendo um livro.
+
+C: O time de futebol marcou um gol no último minuto do jogo, mas o árbitro anulou por impedimento.
+S: O time de futebol marcou um gol no último minuto do jogo. O árbitro anulou por impedimento.
+
+C: Eu gostaria de viajar para a praia nas férias de verão, porém não tenho dinheiro suficiente.
+S: Eu gostaria de viajar para a praia nas férias de verão. Não tenho dinheiro suficiente.
+
+C: Ela queria ir ao cinema com os amigos, mas teve que ficar em casa estudando.
+S: Ela queria ir ao cinema com os amigos. Teve que ficar em casa estudando.
+
+C: Hoje é um dia chuvoso, mas iremos fazer um piquenique mesmo assim.
+S: Hoje é um dia chuvoso. Iremos fazer um piquenique mesmo assim.
+
+C: Paulo tem uma reunião importante no trabalho, então ele terá que sair mais cedo.
+S: Paulo tem uma reunião importante no trabalho. Ele terá que sair mais cedo.
+
+C: O cachorro latiu durante a noite toda, mas finalmente se acalmou quando seu dono chegou.
+S: O cachorro latiu durante a noite toda. Finalmente se acalmou quando seu dono chegou.
+
+C: O filme era muito longo e cansativo, então decidimos sair antes do final.
+S: O filme era muito longo e cansativo. Decidimos sair antes do final.
+
+C: Ela comprou um vestido novo para a festa, mas acabou não comparecendo.
+S: Ela comprou um vestido novo para a festa. Acabou não comparecendo.
+
+C: Estávamos com fome, mas não havia nada para comer na geladeira.
+S: Estávamos com fome. Não havia nada para comer na geladeira.
+
+C: O time conquistou a vitória com um gol nos minutos finais do jogo.
+S: O time conquistou a vitória. O time marcou um gol nos minutos finais do jogo.
+
+C: Maria comprou os ingressos para o cinema e depois foi jantar em um restaurante.
+S: Maria comprou os ingressos para o cinema. Maria foi jantar em um restaurante.
+
+C: João estuda todas as manhãs e todas as tardes para o exame.
+S: João estuda todas as manhãs. João estuda todas as tardes para o exame.
+
+C: Eu perdi o ônibus e cheguei atrasado para a reunião.
+S: Eu perdi o ônibus. Eu cheguei atrasado para a reunião.
+
+C: André comprou uma camisa nova e uma calça jeans.
+S: André comprou uma camisa nova. André comprou uma calça jeans.
+
+C: O professor explicou o conteúdo e tirou todas as dúvidas dos alunos.
+S: O professor explicou o conteúdo. O professor tirou todas as dúvidas dos alunos.
+
+C: Ana estudou para a prova e obteve a nota máxima.
+S: Ana estudou para a prova. Ana obteve a nota máxima.
+
+C: O restaurante oferece pratos vegetarianos e pratos veganos.
+S: O restaurante oferece pratos vegetarianos. O restaurante oferece pratos veganos.
+
+C: Pedro comprou flores para a namorada e preparou um jantar especial.
+S: Pedro comprou flores para a namorada. Pedro preparou um jantar especial.
+
+C: Carolina arrumou a sala e organizou os livros na estante.
+S: Carolina arrumou a sala. Carolina organizou os livros na estante.
+
+C: Maria correu até a loja para comprar um presente para o aniversário do seu amigo.
+S: Maria correu até a loja. Maria comprou um presente para o aniversário do seu amigo.
+
+C: O time de futebol treinou duro durante toda a semana e venceu o jogo no fim de semana.
+S: O time de futebol treinou duro durante toda a semana. O time de futebol venceu o jogo no fim de semana.
+
+C: Ana estudou bastante para a prova de matemática e tirou uma nota alta.
+S: Ana estudou bastante para a prova de matemática. Ana tirou uma nota alta.
+
+C: Os amigos foram ao cinema e depois jantaram em um restaurante aconchegante.
+S: Os amigos foram ao cinema. Os amigos jantaram em um restaurante aconchegante.
+
+C: O professor explicou a matéria e em seguida passou uma atividade para os alunos resolverem.
+S: O professor explicou a matéria. O professor passou uma atividade para os alunos resolverem.
+
+C: João saiu para caminhar e encontrou um cachorro perdido na rua.
+S: João saiu para caminhar. João encontrou um cachorro perdido na rua.
+
+C: A empresa investiu em novas tecnologias e aumentou sua produtividade.
+S: A empresa investiu em novas tecnologias. A empresa aumentou sua produtividade.
+
+C: Os pais levaram as crianças ao parque e depois foram fazer um piquenique.
+S: Os pais levaram as crianças ao parque. Os pais foram fazer um piquenique.
+
+C: O médico fez o diagnóstico corretamente e receitou o tratamento adequado.
+S: O médico fez o diagnóstico corretamente. O médico receitou o tratamento adequado.
+
+C: Os amigos se divertiram no parque de diversões e depois foram tomar sorvete.
+S: Os amigos se divertiram no parque de diversões. Os amigos foram tomar sorvete.
+
+C: Maria estudou muito para a prova e conseguiu uma ótima nota.
+S: Maria estudou muito para a prova. Maria conseguiu uma ótima nota.
+
+C: O time jogou com raça e determinação e venceu o jogo.
+S: O time jogou com raça e determinação. O time venceu o jogo.
+
+C: Eu comprei uma camiseta nova e uma calça jeans.
+S: Eu comprei uma camiseta nova. Eu comprei uma calça jeans.
+
+C: Ana foi à praia e nadou no mar.
+S: Ana foi à praia. Ana nadou no mar.
+
+C: Lucas saiu de casa cedo e pegou o ônibus para o trabalho.
+S: Lucas saiu de casa cedo. Lucas pegou o ônibus para o trabalho.
+
+C: O cachorro latiu alto durante a noite e acordou os vizinhos.
+S: O cachorro latiu alto durante a noite. O cachorro acordou os vizinhos.
+
+C: Pedro estudou para a prova de matemática e para a prova de português.
+S: Pedro estudou para a prova de matemática. Pedro estudou para a prova de português.
+
+C: O céu ficou nublado e começou a chover.
+S: O céu ficou nublado. O céu começou a chover.
+
+C: Marta chegou atrasada na reunião e perdeu a primeira parte.
+S: Marta chegou atrasada na reunião. Marta perdeu a primeira parte.
+
+C: A criança brincou no parque e correu no gramado.
+S: A criança brincou no parque. A criança correu no gramado.
+
+C: Pedro e Maria foram à praia e se divertiram muito.
+S: Pedro foi à praia e se divertiu muito. Maria foi à praia e se divertiu muito.
+
+C: Ana estudou muito e se dedicou aos estudos.
+S: Ana estudou muito. Ana se dedicou aos estudos.
+
+C: Os alunos fizeram a prova e aguardaram o resultado com ansiedade.
+S: Os alunos fizeram a prova. Os alunos aguardaram o resultado com ansiedade.
+
+C: O carro parou no meio da estrada e o motorista chamou o reboque.
+S: O carro parou no meio da estrada. O motorista chamou o reboque.
+
+C: O cão latiu alto e os vizinhos reclamaram do barulho.
+S: O cão latiu alto. Os vizinhos reclamaram do barulho.
+
+C: João acordou cedo e preparou o café da manhã.
+S: João acordou cedo. João preparou o café da manhã.
+
+C: O casal brigou e decidiu se separar.
+S: O casal brigou. O casal decidiu se separar.
+
+C: A criança chorou e a mãe a consolou.
+S: A criança chorou. A mãe a consolou.
+
+C: O jogador marcou o gol e comemorou com os colegas.
+S: O jogador marcou o gol. O jogador comemorou com os colegas.
+
+C: As flores murcharam e o jardineiro regou o jardim.
+S: As flores murcharam. O jardineiro regou o jardim.
+
+C: Maria comprou um vestido novo e uma bolsa combinando.
+S: Maria comprou um vestido novo. Maria comprou uma bolsa combinando.
+
+C: Pedro correu para pegar o ônibus e chegou atrasado no trabalho.
+S: Pedro correu para pegar o ônibus. Pedro chegou atrasado no trabalho.
+
+C: Ana estudou para a prova e obteve uma boa nota.
+S: Ana estudou para a prova. Ana obteve uma boa nota.
+
+C: João nadou na piscina e tomou sol na praia.
+S: João nadou na piscina. João tomou sol na praia.
+
+C: Carlos saiu para passear e encontrou um amigo antigo.
+S: Carlos saiu para passear. Carlos encontrou um amigo antigo.
+
+C: Laura comprou uma maçã e uma laranja no mercado.
+S: Laura comprou uma maçã. Laura comprou uma laranja no mercado.
+
+C: Rodrigo cozinhou o jantar e arrumou a mesa.
+S: Rodrigo cozinhou o jantar. Rodrigo arrumou a mesa.
+
+C: Mariana cantou uma música bonita e emocionou a plateia.
+S: Mariana cantou uma música bonita. Mariana emocionou a plateia.
+
+C: Lucas caminhou pela praia e observou o pôr do sol.
+S: Lucas caminhou pela praia. Lucas observou o pôr do sol.
+
+C: Beatriz comprou flores para a mãe e entregou com um abraço.
+S: Beatriz comprou flores para a mãe. Beatriz entregou com um abraço.
+
+C: O sol brilhava intensamente no céu azul. O vento soprava suavemente nas árvores do parque.
+S: O sol brilhava intensamente no céu azul. O vento soprava suavemente nas árvores do parque.
+
+C: Maria comprou um vestido novo na loja. Ela experimentou e gostou bastante.
+S: Maria comprou um vestido novo na loja. Ela experimentou e gostou bastante.
+
+C: Pedro caminhou pela rua movimentada. Ele parou em frente à loja de doces.
+S: Pedro caminhou pela rua movimentada. Ele parou em frente à loja de doces.
+
+C: Paulo acordou cedo. Ele tomou um café da manhã reforçado antes de sair para o trabalho.
+S: Paulo acordou cedo. Ele tomou um café da manhã reforçado antes de sair para o trabalho.
+
+C: O trânsito estava caótico na cidade. As pessoas ficaram presas por horas nos engarrafamentos.
+S: O trânsito estava caótico na cidade. As pessoas ficaram presas por horas nos engarrafamentos.
+
+C: Ana comprou uma nova câmera fotográfica. Ela tirou lindas fotos durante a viagem.
+S: Ana comprou uma nova câmera fotográfica. Ela tirou lindas fotos durante a viagem.
+
+C: A festa foi animada. Todos dançaram e se divertiram muito.
+S: A festa foi animada. Todos dançaram e se divertiram muito.
+
+C: O gato mia todas as noites. Isso incomoda os vizinhos.
+S: O gato mia todas as noites. Isso incomoda os vizinhos.
+
+C: O filme foi emocionante. As pessoas se emocionaram e choraram no final.
+S: O filme foi emocionante. As pessoas se emocionaram e choraram no final.
+
+C: Maria estudou muito para a prova. Ela conseguiu tirar uma nota excelente.
+S: Maria estudou muito para a prova. Ela conseguiu tirar uma nota excelente.
+
+C: O carro é vermelho e tem um motor potente.
+S: O carro é vermelho. O carro tem um motor potente.
+
+C: O gato mia e corre pela sala.
+S: O gato mia. O gato corre pela sala.
+
+C: O livro é interessante e tem uma capa bonita.
+S: O livro é interessante. O livro tem uma capa bonita.
+
+C: Maria canta e dança no palco.
+S: Maria canta. Maria dança no palco.
+
+C: O sol brilha e aquece o ambiente.
+S: O sol brilha. O sol aquece o ambiente.
+
+C: Os alunos estudam e fazem exercícios.
+S: Os alunos estudam. Os alunos fazem exercícios.
+
+C: O vento sopra e balança as árvores.
+S: O vento sopra. O vento balança as árvores.
+
+C: O pássaro voa e canta no céu.
+S: O pássaro voa. O pássaro canta no céu.
+
+C: O cachorro late e abana o rabo de alegria.
+S: O cachorro late. O cachorro abana o rabo de alegria.
+
+C: A chuva cai e molha o chão.
+S: A chuva cai. A chuva molha o chão.
+
+C: O carro acelerou e ultrapassou o outro veículo.
+S: O carro acelerou. O carro ultrapassou o outro veículo.
+
+C: Maria estudou o dia inteiro e conseguiu passar na prova.
+S: Maria estudou o dia inteiro. Maria conseguiu passar na prova.
+
+C: João e Pedro foram à praia e nadaram no mar.
+S: João foi à praia. Pedro foi à praia. João nadou no mar. Pedro nadou no mar.
+
+C: O time perdeu o jogo e ficou desanimado.
+S: O time perdeu o jogo. O time ficou desanimado.
+
+C: Carla comprou uma blusa nova e um sapato novo.
+S: Carla comprou uma blusa nova. Carla comprou um sapato novo.
+
+C: Estudei muito para a prova e consegui tirar uma boa nota.
+S: Estudei muito para a prova. Consegui tirar uma boa nota.
+
+C: Eles brigaram e resolveram se separar.
+S: Eles brigaram. Eles resolveram se separar.
+
+C: O pássaro voou e pousou em cima da árvore.
+S: O pássaro voou. O pássaro pousou em cima da árvore.
+
+C: João sorriu e abraçou seu amigo.
+S: João sorriu. João abraçou seu amigo.
+
+C: Maria cozinhou um delicioso jantar e serviu para seus convidados.
+S: Maria cozinhou um delicioso jantar. Maria serviu para seus convidados.
+
+C: A festa estava animada, os convidados dançavam freneticamente.
+S: A festa estava animada. Os convidados dançavam freneticamente.
+
+C: O sol brilhava intensamente, a temperatura estava alta.
+S: O sol brilhava intensamente. A temperatura estava alta.
+
+C: Ele estudava durante a manhã, fazia exercícios à tarde.
+S: Ele estudava durante a manhã. Ele fazia exercícios à tarde.
+
+C: O time marcou um gol no primeiro tempo, garantiu a vitória no segundo.
+S: O time marcou um gol no primeiro tempo. O time garantiu a vitória no segundo.
+
+C: O cachorro latia incessantemente, o gato observava atentamente.
+S: O cachorro latia incessantemente. O gato observava atentamente.
+
+C: Ela lia um livro na sala, ele assistia televisão no quarto.
+S: Ela lia um livro na sala. Ele assistia televisão no quarto.
+
+C: O professor explicava a matéria aos alunos, os estudantes prestavam atenção.
+S: O professor explicava a matéria aos alunos. Os estudantes prestavam atenção.
+
+C: A chuva caía torrencialmente, as ruas ficaram alagadas.
+S: A chuva caía torrencialmente. As ruas ficaram alagadas.
+
+C: O avião decolou suavemente, sobrevoou as montanhas.
+S: O avião decolou suavemente. O avião sobrevoou as montanhas.
+
+C: Ela sorria timidamente, ele retribuía o sorriso.
+S: Ela sorria timidamente. Ele retribuía o sorriso.
+
+C: Eu fui ao supermercado e comprei algumas frutas frescas. 
+S: Eu fui ao supermercado. Eu comprei algumas frutas frescas.
+
+C: Eles estudaram muito para a prova de matemática e conseguiram ótimas notas.
+S: Eles estudaram muito para a prova de matemática. Eles conseguiram ótimas notas.
+
+C: Ela trabalhou durante toda a tarde e conseguiu terminar o relatório a tempo.
+S: Ela trabalhou durante toda a tarde. Ela conseguiu terminar o relatório a tempo.
+
+C: O sol brilhava intensamente no céu e as flores coloridas desabrochavam no jardim.
+S: O sol brilhava intensamente no céu. As flores coloridas desabrochavam no jardim.
+
+C: Ele cantou uma bela música e encantou a todos com sua voz.
+S: Ele cantou uma bela música. Ele encantou a todos com sua voz.
+
+C: O cachorro latiu alto e assustou os pássaros que estavam no telhado.
+S: O cachorro latiu alto. O cachorro assustou os pássaros que estavam no telhado.
+
+C: Ela cozinhou um delicioso jantar e todos elogiaram sua habilidade na cozinha.
+S: Ela cozinhou um delicioso jantar. Todos elogiaram sua habilidade na cozinha.
+
+C: O time marcou dois gols e venceu o jogo com facilidade.
+S: O time marcou dois gols. O time venceu o jogo com facilidade.
+
+C: Eu estudei bastante para a prova de história e tirei uma boa nota.
+S: Eu estudei bastante para a prova de história. Eu tirei uma boa nota.
+
+C: Ela correu rapidamente e conseguiu pegar o ônibus que estava partindo.
+S: Ela correu rapidamente. Ela conseguiu pegar o ônibus que estava partindo.
+
+C: Maria correu para pegar o ônibus, mas o motorista fechou a porta na sua cara.
+S: Maria correu para pegar o ônibus. O motorista fechou a porta na sua cara.
+
+C: Eu fui ao supermercado e comprei pão e leite.
+S: Eu fui ao supermercado. Eu comprei pão e leite.
+
+C: O cachorro latiu durante a noite toda e me deixou acordado.
+S: O cachorro latiu durante a noite toda. O cachorro me deixou acordado.
+
+C: O sol estava brilhando intensamente e eu coloquei meu óculos de sol.
+S: O sol estava brilhando intensamente. Eu coloquei meu óculos de sol.
+
+C: Ele estudou bastante para a prova e conseguiu tirar uma boa nota.
+S: Ele estudou bastante para a prova. Ele conseguiu tirar uma boa nota.
+
+C: O restaurante estava lotado e as pessoas esperavam na fila.
+S: O restaurante estava lotado. As pessoas esperavam na fila.
+
+C: Ela comprou uma blusa nova e uma saia combinando.
+S: Ela comprou uma blusa nova. Ela comprou uma saia combinando.
+
+C: O filme era emocionante e me fez chorar.
+S: O filme era emocionante. O filme me fez chorar.
+
+C: Meus pais viajaram para a praia e ficaram lá por uma semana.
+S: Meus pais viajaram para a praia. Meus pais ficaram lá por uma semana.
+
+C: A casa estava bagunçada e eu decidi arrumar tudo.
+S: A casa estava bagunçada. Eu decidi arrumar tudo.
+
+C: Maria saiu correndo para pegar o ônibus, mas o motorista já tinha ido embora.
+S: Maria saiu correndo para pegar o ônibus. Maria chegou e o motorista já tinha ido embora.
+
+C: Paulo estudou muito para a prova, porém não conseguiu tirar uma boa nota.
+S: Paulo estudou muito para a prova. Paulo não conseguiu tirar uma boa nota.
+
+C: O cachorro latiu a noite inteira, e isso me deixou sem dormir.
+S: O cachorro latiu a noite inteira. Isso me deixou sem dormir.
+
+C: Luiza comprou um vestido novo, mas não teve oportunidade de usá-lo ainda.
+S: Luiza comprou um vestido novo. Luiza não teve oportunidade de usá-lo ainda.
+
+C: O filme era muito longo, portanto muitas pessoas saíram antes de terminar.
+S: O filme era muito longo. Muitas pessoas saíram antes de terminar.
+
+C: O problema era urgente, então ele precisou resolvê-lo imediatamente.
+S: O problema era urgente. Ele precisou resolvê-lo imediatamente.
+
+C: As malas foram extraviadas durante a viagem, mas felizmente foram encontradas.
+S: As malas foram extraviadas durante a viagem. Felizmente foram encontradas.
+
+C: João comprou um celular novo, porém o modelo não era o que ele esperava.
+S: João comprou um celular novo. O modelo não era o que ele esperava.
+
+C: A reunião foi cancelada devido ao mau tempo, entretanto os participantes já tinham sido avisados.
+S: A reunião foi cancelada devido ao mau tempo. Os participantes já tinham sido avisados.
+
+C: O restaurante estava lotado, mas conseguimos uma mesa para nós.
+S: O restaurante estava lotado. Conseguimos uma mesa para nós.
+
+C: Maria caminhou pela praia, respirou o ar fresco e mergulhou no mar azul.
+S: Maria caminhou pela praia. Maria respirou o ar fresco. Maria mergulhou no mar azul.
+
+C: Os alunos estudaram para a prova, fizeram exercícios e revisaram a matéria.
+S: Os alunos estudaram para a prova. Os alunos fizeram exercícios. Os alunos revisaram a matéria.
+
+C: O carro parou no semáforo, esperou o sinal abrir e continuou o trajeto.
+S: O carro parou no semáforo. O carro esperou o sinal abrir. O carro continuou o trajeto.
+
+C: Ela correu até a loja, escolheu um vestido e pagou no caixa.
+S: Ela correu até a loja. Ela escolheu um vestido. Ela pagou no caixa.
+
+C: O cachorro latiu, pulou o muro e correu pela rua.
+S: O cachorro latiu. O cachorro pulou o muro. O cachorro correu pela rua.
+
+C: Ele abriu a porta, entrou na sala e cumprimentou os amigos.
+S: Ele abriu a porta. Ele entrou na sala. Ele cumprimentou os amigos.
+
+C: Ela preparou o jantar, serviu a comida e limpou a cozinha.
+S: Ela preparou o jantar. Ela serviu a comida. Ela limpou a cozinha.
+
+C: O time treinou muito, venceu o jogo e comemorou a vitória.
+S: O time treinou muito. O time venceu o jogo. O time comemorou a vitória.
+
+C: O avião decolou, sobrevoou a cidade e pousou no aeroporto.
+S: O avião decolou. O avião sobrevoou a cidade. O avião pousou no aeroporto.
+
+C: Ela comprou um livro, leu a história e recomendou a seus amigos.
+S: Ela comprou um livro. Ela leu a história. Ela recomendou a seus amigos.
+
+C: O sol brilhava intensamente e o vento soprava suavemente.
+S: O sol brilhava intensamente. O vento soprava suavemente.
+
+C: Maria saiu correndo e João a alcançou logo em seguida.
+S: Maria saiu correndo. João a alcançou logo em seguida.
+
+C: O cachorro latiu e o gato fugiu assustado.
+S: O cachorro latiu. O gato fugiu assustado.
+
+C: As crianças brincavam no parque e os adultos conversavam em grupo.
+S: As crianças brincavam no parque. Os adultos conversavam em grupo.
+
+C: O professor explicou o conteúdo e os alunos fizeram anotações.
+S: O professor explicou o conteúdo. Os alunos fizeram anotações.
+
+C: A música tocava alto e as pessoas dançavam animadas.
+S: A música tocava alto. As pessoas dançavam animadas.
+
+C: A chuva caía finamente e a grama ficou molhada.
+S: A chuva caía finamente. A grama ficou molhada.
+
+C: O avião decolou e logo desapareceu no horizonte.
+S: O avião decolou. Logo desapareceu no horizonte.
+
+C: O rio corria tranquilo e os pássaros voavam sobre as árvores.
+S: O rio corria tranquilo. Os pássaros voavam sobre as árvores.
+
+C: O carro acelerou e a paisagem passava rapidamente pela janela.
+S: O carro acelerou. A paisagem passava rapidamente pela janela.
+
+C: Ana comprou uma sacola cheia de vegetais frescos no mercado. Ana também comprou alguns temperos.
+S: Ana comprou uma sacola cheia de vegetais frescos no mercado. Ana comprou alguns temperos.
+
+C: Pedro saiu correndo do trabalho para pegar o ônibus. Pedro conseguiu chegar a tempo.
+S: Pedro saiu correndo do trabalho para pegar o ônibus. Pedro conseguiu chegar a tempo.
+
+C: Maria estudou durante toda a tarde para a prova de matemática. Maria fez várias anotações e resumos.
+S: Maria estudou durante toda a tarde para a prova de matemática. Maria fez várias anotações e resumos.
+
+C: Eduardo trabalhou duro durante toda a semana. Eduardo também trabalhou no sábado.
+S: Eduardo trabalhou duro durante toda a semana. Eduardo trabalhou no sábado.
+
+C: Marina comprou um livro de ficção científica. Marina também comprou um romance.
+S: Marina comprou um livro de ficção científica. Marina comprou um romance.
+
+C: Lucas foi ao cinema com seus amigos. Lucas também comprou pipoca e refrigerante.
+S: Lucas foi ao cinema com seus amigos. Lucas comprou pipoca e refrigerante.
+
+C: Amanda praticou exercícios físicos pela manhã. Amanda também fez uma caminhada no parque.
+S: Amanda praticou exercícios físicos pela manhã. Amanda fez uma caminhada no parque.
+
+C: Carlos estudou para a prova de história. Carlos também revisou a matéria de geografia.
+S: Carlos estudou para a prova de história. Carlos revisou a matéria de geografia.
+
+C: Laura cozinhou um delicioso jantar para sua família. Laura também fez uma sobremesa.
+S: Laura cozinhou um delicioso jantar para sua família. Laura fez uma sobremesa.
+
+C: Bruno fez um curso de programação. Bruno também participou de um workshop sobre design.
+S: Bruno fez um curso de programação. Bruno participou de um workshop sobre design.
+
+C: O cachorro latiu e o gato correu.
+S: O cachorro latiu. O gato correu.
+
+C: Ele estudou para a prova e tirou uma boa nota.
+S: Ele estudou para a prova. Ele tirou uma boa nota.
+
+C: Maria cozinhou o jantar e João lavou a louça.
+S: Maria cozinhou o jantar. João lavou a louça.
+
+C: O sol brilhou e os pássaros cantaram.
+S: O sol brilhou. Os pássaros cantaram.
+
+C: Ana comprou um livro e leu até tarde da noite.
+S: Ana comprou um livro. Ana leu até tarde da noite.
+
+C: O carro quebrou e tivemos que chamar um mecânico.
+S: O carro quebrou. Tivemos que chamar um mecânico.
+
+C: Ele saiu de casa e encontrou um amigo no caminho.
+S: Ele saiu de casa. Ele encontrou um amigo no caminho.
+
+C: Ela dançou e cantou durante toda a festa.
+S: Ela dançou. Ela cantou durante toda a festa.
+
+C: O filme acabou e todos aplaudiram.
+S: O filme acabou. Todos aplaudiram.
+
+C: Ele comprou o presente e embrulhou com cuidado.
+S: Ele comprou o presente. Ele embrulhou com cuidado.
+
+C: O dia amanheceu nublado e chuvoso. As pessoas saíram de casa com guarda-chuvas.
+S: O dia amanheceu nublado e chuvoso. As pessoas saíram de casa com guarda-chuvas.
+
+C: Maria estudou toda a tarde e à noite fez revisões para a prova.
+S: Maria estudou toda a tarde. Maria à noite fez revisões para a prova.
+
+C: O professor explicou a matéria com clareza e tirou todas as dúvidas dos alunos.
+S: O professor explicou a matéria com clareza. O professor tirou todas as dúvidas dos alunos.
+
+C: João comprou um livro na livraria e foi ao cinema com a namorada.
+S: João comprou um livro na livraria. João foi ao cinema com a namorada.
+
+C: Carlos acordou cedo, tomou café da manhã e foi para o trabalho.
+S: Carlos acordou cedo. Carlos tomou café da manhã. Carlos foi para o trabalho.
+
+C: A família viajou de avião e passou as férias na praia.
+S: A família viajou de avião. A família passou as férias na praia.
+
+C: Luisa fez compras no mercado e cozinhou um delicioso jantar para os amigos.
+S: Luisa fez compras no mercado. Luisa cozinhou um delicioso jantar para os amigos.
+
+C: Os alunos estudaram bastante para a prova e tiraram notas altas.
+S: Os alunos estudaram bastante para a prova. Os alunos tiraram notas altas.
+
+C: Pedro caminhou pela praia e aproveitou o sol para pegar um bronzeado.
+S: Pedro caminhou pela praia. Pedro aproveitou o sol para pegar um bronzeado.
+
+C: O time de futebol treinou intensamente e venceu o campeonato.
+S: O time de futebol treinou intensamente. O time de futebol venceu o campeonato.
+
+C: O menino brincava no parque e depois foi nadar no rio.
+S: O menino brincava no parque. O menino depois foi nadar no rio.
+
+C: Ela estudou muito para a prova e conseguiu tirar uma boa nota.
+S: Ela estudou muito para a prova. Ela conseguiu tirar uma boa nota.
+
+C: Nós fomos ao cinema e em seguida jantamos em um restaurante.
+S: Nós fomos ao cinema. Nós em seguida jantamos em um restaurante.
+
+C: O carro quebrou na estrada e tivemos que chamar uma assistência.
+S: O carro quebrou na estrada. Nós tivemos que chamar uma assistência.
+
+C: O cachorro latiu durante a noite e acabou acordando os vizinhos.
+S: O cachorro latiu durante a noite. Ele acabou acordando os vizinhos.
+
+C: O sol estava muito forte então decidimos ir à praia.
+S: O sol estava muito forte. Nós decidimos ir à praia.
+
+C: Ela estava com fome então pediu uma pizza para viagem.
+S: Ela estava com fome. Ela pediu uma pizza para viagem.
+
+C: O avião atrasou e acabamos perdendo a conexão.
+S: O avião atrasou. Nós acabamos perdendo a conexão.
+
+C: Ele ficou doente e precisou ficar em repouso.
+S: Ele ficou doente. Ele precisou ficar em repouso.
+
+C: O time ganhou o jogo e comemoraram a vitória.
+S: O time ganhou o jogo. Eles comemoraram a vitória.
+
+C: O carro acelerou e ultrapassou o caminhão.
+S: O carro acelerou. O carro ultrapassou o caminhão.
+
+C: Ela estudou durante a tarde e fez uma prova difícil.
+S: Ela estudou durante a tarde. Ela fez uma prova difícil.
+
+C: Os amigos saíram para jantar e foram ao cinema depois.
+S: Os amigos saíram para jantar. Os amigos foram ao cinema depois.
+
+C: O cachorro latiu e assustou os passantes.
+S: O cachorro latiu. O cachorro assustou os passantes.
+
+C: A professora explicou a matéria e deu um exercício para casa.
+S: A professora explicou a matéria. A professora deu um exercício para casa.
+
+C: O sol brilhou intensamente e iluminou todo o ambiente.
+S: O sol brilhou intensamente. O sol iluminou todo o ambiente.
+
+C: O time ganhou a partida e comemorou a vitória.
+S: O time ganhou a partida. O time comemorou a vitória.
+
+C: O bebê chorou e acordou toda a vizinhança.
+S: O bebê chorou. O bebê acordou toda a vizinhança.
+
+C: O avião decolou e voou para outro país.
+S: O avião decolou. O avião voou para outro país.
+
+C: Ela sorriu e cumprimentou a todos na sala.
+S: Ela sorriu. Ela cumprimentou a todos na sala.
+
+C: O cachorro correu pela rua e latiu para o carteiro.
+S: O cachorro correu pela rua. O cachorro latiu para o carteiro.
+
+C: Maria estudou para a prova de matemática e tirou uma nota alta.
+S: Maria estudou para a prova de matemática. Maria tirou uma nota alta.
+
+C: O sol brilhou intensamente e o céu ficou claro.
+S: O sol brilhou intensamente. O céu ficou claro.
+
+C: João comprou pão na padaria e leite no mercado.
+S: João comprou pão na padaria. João comprou leite no mercado.
+
+C: Pedro nadou na piscina e depois tomou banho no chuveiro.
+S: Pedro nadou na piscina. Pedro depois tomou banho no chuveiro.
+
+C: O time de futebol treinou duro durante a semana e venceu o jogo no domingo.
+S: O time de futebol treinou duro durante a semana. O time de futebol venceu o jogo no domingo.
+
+C: Ana foi ao cinema e assistiu a um filme de ação.
+S: Ana foi ao cinema. Ana assistiu a um filme de ação.
+
+C: Os pássaros voaram alto no céu azul e cantaram suas melodias.
+S: Os pássaros voaram alto no céu azul. Os pássaros cantaram suas melodias.
+
+C: A água do rio correu rápido e ela refletia o sol.
+S: A água do rio correu rápido. A água do rio refletia o sol.
+
+C: As flores desabrocharam na primavera e perfumaram o ar.
+S: As flores desabrocharam na primavera. As flores perfumaram o ar.
+
+C: O cachorro latiu e abanou o rabo.
+S: O cachorro latiu. O cachorro abanou o rabo.
+
+C: Minha mãe cozinhou o jantar e lavou a louça.
+S: Minha mãe cozinhou o jantar. Minha mãe lavou a louça.
+
+C: Ele estudou para a prova e tirou uma nota alta.
+S: Ele estudou para a prova. Ele tirou uma nota alta.
+
+C: O sol brilhou forte e o céu ficou azul.
+S: O sol brilhou forte. O céu ficou azul.
+
+C: O carro acelerou e ultrapassou o ônibus.
+S: O carro acelerou. O carro ultrapassou o ônibus.
+
+C: Ela leu o livro inteiro e ficou emocionada.
+S: Ela leu o livro inteiro. Ela ficou emocionada.
+
+C: Eles dançaram a noite toda e se divertiram muito.
+S: Eles dançaram a noite toda. Eles se divertiram muito.
+
+C: Nós cantamos todas as músicas e aplaudimos de pé.
+S: Nós cantamos todas as músicas. Nós aplaudimos de pé.
+
+C: O vento soprou forte e balançou as árvores.
+S: O vento soprou forte. As árvores balançaram.
+
+C: Eles correram e chegaram em primeiro lugar.
+S: Eles correram. Eles chegaram em primeiro lugar.
+
+C: O sol brilhava intensamente no céu azul, e as nuvens pareciam desaparecer.
+S: O sol brilhava intensamente no céu azul. As nuvens pareciam desaparecer.
+
+C: Ela estudava com afinco para a prova e revisava o material várias vezes.
+S: Ela estudava com afinco para a prova. Ela revisava o material várias vezes.
+
+C: O cachorro latia alto e corria atrás do seu próprio rabo.
+S: O cachorro latia alto. O cachorro corria atrás do seu próprio rabo.
+
+C: O vento soprava forte e balançava as árvores com violência.
+S: O vento soprava forte. As árvores balançavam com violência.
+
+C: Eles assistiam ao filme em silêncio e comiam pipoca.
+S: Eles assistiam ao filme em silêncio. Eles comiam pipoca.
+
+C: A criança brincava no parque e ria de felicidade.
+S: A criança brincava no parque. A criança ria de felicidade.
+
+C: O carro acelerava e ultrapassava os outros veículos na estrada.
+S: O carro acelerava. O carro ultrapassava os outros veículos na estrada.
+
+C: A água do rio corria rápida e clara.
+S: A água do rio corria rápida. A água do rio corria clara.
+
+C: Ele cantava ao violão e encantava a plateia com sua voz.
+S: Ele cantava ao violão. Ele encantava a plateia com sua voz.
+
+C: A mulher cozinhava o jantar e arrumava a casa ao mesmo tempo.
+S: A mulher cozinhava o jantar. A mulher arrumava a casa ao mesmo tempo.
+
+C: O sol brilhava intensamente, aquecendo a praia.
+S: O sol brilhava intensamente. O sol aquecia a praia.
+
+C: Maria saiu de casa apressada, deixando a porta aberta.
+S: Maria saiu de casa apressada. Maria deixou a porta aberta.
+
+C: O cachorro correu pelo parque, brincando com outros animais.
+S: O cachorro correu pelo parque. O cachorro brincou com outros animais.
+
+C: Os alunos estudaram bastante para a prova, mostrando dedicação.
+S: Os alunos estudaram bastante para a prova. Os alunos mostraram dedicação.
+
+C: O carro acelerou rapidamente, ultrapassando todos os outros veículos.
+S: O carro acelerou rapidamente. O carro ultrapassou todos os outros veículos.
+
+C: O bebê chorou durante a noite inteira, mantendo os pais acordados.
+S: O bebê chorou durante a noite inteira. O bebê manteve os pais acordados.
+
+C: O vento soprou forte, derrubando algumas árvores.
+S: O vento soprou forte. O vento derrubou algumas árvores.
+
+C: Rafael caminhou pela rua movimentada, observando as lojas.
+S: Rafael caminhou pela rua movimentada. Rafael observou as lojas.
+
+C: As crianças brincaram no parquinho, se divertindo muito.
+S: As crianças brincaram no parquinho. As crianças se divertiram muito.
+
+C: O gato mia todas as noites, incomodando os vizinhos.
+S: O gato mia todas as noites. O gato incomoda os vizinhos.
+
+C: Ela estudou durante a tarde toda, fez um lanche rápido e começou a trabalhar novamente.
+S: Ela estudou durante a tarde toda. Ela fez um lanche rápido. Ela começou a trabalhar novamente.
+
+C: O cachorro latiu durante a noite toda, acordando os vizinhos e causando um grande barulho.
+S: O cachorro latiu durante a noite toda. O cachorro acordou os vizinhos. O cachorro causou um grande barulho.
+
+C: O trânsito estava caótico, atrasando a chegada dos alunos e gerando muitos problemas.
+S: O trânsito estava caótico. O trânsito atrasou a chegada dos alunos. O trânsito gerou muitos problemas.
+
+C: O sol brilhava intensamente, aquecendo o ambiente e animando as pessoas.
+S: O sol brilhava intensamente. O sol aqueceu o ambiente. O sol animou as pessoas.
+
+C: Ele correu pela praia, sentindo a brisa no rosto e desfrutando da paisagem.
+S: Ele correu pela praia. Ele sentiu a brisa no rosto. Ele desfrutou da paisagem.
+
+C: As crianças brincaram no parque, correram pelo gramado e se divertiram no playground.
+S: As crianças brincaram no parque. As crianças correram pelo gramado. As crianças se divertiram no playground.
+
+C: A chuva caiu incessantemente, alagando as ruas e atrasando o trânsito.
+S: A chuva caiu incessantemente. A chuva alagou as ruas. A chuva atrasou o trânsito.
+
+C: O professor explicou o conteúdo, tirou dúvidas e passou exercícios para os alunos.
+S: O professor explicou o conteúdo. O professor tirou dúvidas. O professor passou exercícios para os alunos.
+
+C: Ela cozinhou um jantar delicioso, serviu aos convidados e recebeu muitos elogios.
+S: Ela cozinhou um jantar delicioso. Ela serviu aos convidados. Ela recebeu muitos elogios.
+
+C: O filme foi emocionante, prendendo a atenção dos espectadores e fazendo-os chorar.
+S: O filme foi emocionante. O filme prendeu a atenção dos espectadores. O filme fez-os chorar.
+
+C: Marcos estudou bastante para a prova de matemática e conseguiu tirar a nota máxima.
+   S: Marcos estudou bastante para a prova de matemática. Marcos conseguiu tirar a nota máxima.
+
+C: O carro passou no sinal vermelho e quase causou um acidente.
+   S: O carro passou no sinal vermelho. O carro quase causou um acidente.
+
+C: Ana saiu de casa correndo e pegou o ônibus no último segundo.
+   S: Ana saiu de casa correndo. Ana pegou o ônibus no último segundo.
+
+C: João comprou um livro e começou a ler imediatamente.
+   S: João comprou um livro. João começou a ler imediatamente.
+
+C: O sol se pôs e a noite chegou.
+   S: O sol se pôs. A noite chegou.
+
+C: Maria cantou uma música e encantou a todos.
+   S: Maria cantou uma música. Maria encantou a todos.
+
+C: Pedro resolveu o exercício de matemática e ficou muito feliz com o resultado.
+   S: Pedro resolveu o exercício de matemática. Pedro ficou muito feliz com o resultado.
+
+C: As crianças brincaram no parque e se divertiram muito.
+   S: As crianças brincaram no parque. As crianças se divertiram muito.
+
+C: O cachorro latiu e acordou todos os vizinhos.
+   S: O cachorro latiu. O cachorro acordou todos os vizinhos.
+
+C: Ana comeu um doce e ficou com dor de barriga.
+   S: Ana comeu um doce. Ana ficou com dor de barriga.
+
+C: O carro vermelho passou em alta velocidade, enquanto o homem atravessava a rua.
+S: O carro vermelho passou em alta velocidade. O homem atravessava a rua.
+
+C: Maria correu para pegar o ônibus, mas ele já tinha partido.
+S: Maria correu para pegar o ônibus. Ele já tinha partido.
+
+C: Os alunos estudaram bastante para a prova, por isso tiraram notas altas.
+S: Os alunos estudaram bastante para a prova. Eles tiraram notas altas.
+
+C: O cachorro latiu de forma agressiva e assustou os passantes.
+S: O cachorro latiu de forma agressiva. O cachorro assustou os passantes.
+
+C: O vento forte balançou as árvores e espalhou as folhas pelo chão.
+S: O vento forte balançou as árvores. O vento espalhou as folhas pelo chão.
+
+C: O gato pulou de cima da mesa e correu para o quintal.
+S: O gato pulou de cima da mesa. O gato correu para o quintal.
+
+C: Marta sorriu timidamente e abaixou os olhos.
+S: Marta sorriu timidamente. Marta abaixou os olhos.
+
+C: O telefone tocou incessantemente, mas ninguém atendeu.
+S: O telefone tocou incessantemente. Ninguém atendeu.
+
+C: A chuva caiu torrencialmente e molhou todos os pedestres.
+S: A chuva caiu torrencialmente. A chuva molhou todos os pedestres.
+
+C: O menino correu para pegar a bola, porém ela escapou de suas mãos.
+S: O menino correu para pegar a bola. A bola escapou de suas mãos.
+
+C: Maria comprou uma bolsa e uma camiseta na loja.
+S: Maria comprou uma bolsa na loja. Maria comprou uma camiseta na loja.
+
+C: O projeto foi aprovado e será implementado no próximo mês.
+S: O projeto foi aprovado. O projeto será implementado no próximo mês.
+
+C: Ana estudou muito para a prova e tirou uma excelente nota.
+S: Ana estudou muito para a prova. Ana tirou uma excelente nota.
+
+C: Pedro foi ao supermercado e comprou leite e pão.
+S: Pedro foi ao supermercado. Pedro comprou leite. Pedro comprou pão.
+
+C: João praticou futebol e basquete no final de semana.
+S: João praticou futebol no final de semana. João praticou basquete no final de semana.
+
+C: Os alunos foram ao museu e aprenderam sobre história e arte.
+S: Os alunos foram ao museu. Os alunos aprenderam sobre história. Os alunos aprenderam sobre arte.
+
+C: Carlos saiu de casa cedo e chegou atrasado no trabalho.
+S: Carlos saiu de casa cedo. Carlos chegou atrasado no trabalho.
+
+C: Patricia cozinhou o jantar e lavou a louça depois.
+S: Patricia cozinhou o jantar. Patricia lavou a louça depois.
+
+C: Eu lavei o carro e enchi o tanque no posto de gasolina.
+S: Eu lavei o carro. Eu enchi o tanque no posto de gasolina.
+
+C: Marcos foi ao parque e jogou futebol com os amigos.
+S: Marcos foi ao parque. Marcos jogou futebol com os amigos.
+
+C: A comida cheirava deliciosamente, o estômago começou a roncar.
+S: A comida cheirava deliciosamente. O estômago começou a roncar.
+
+C: O sol brilhava intensamente, a praia estava cheia de pessoas.
+S: O sol brilhava intensamente. A praia estava cheia de pessoas.
+
+C: O professor explicou a lição, os alunos anotaram tudo.
+S: O professor explicou a lição. Os alunos anotaram tudo.
+
+C: O carro acelerou rapidamente, o vento batia no rosto.
+S: O carro acelerou rapidamente. O vento batia no rosto.
+
+C: Ela sorriu timidamente, agradeceu o elogio.
+S: Ela sorriu timidamente. Agradeceu o elogio.
+
+C: Os pássaros cantavam alegremente, as flores desabrochavam.
+S: Os pássaros cantavam alegremente. As flores desabrochavam.
+
+C: O pássaro voou alto, cruzou o céu azul.
+S: O pássaro voou alto. Cruzou o céu azul.
+
+C: Ele pegou o livro na estante, leu até tarde da noite.
+S: Ele pegou o livro na estante. Leu até tarde da noite.
+
+C: O cachorro latiu alto, assustou os passantes.
+S: O cachorro latiu alto. Assustou os passantes.
+
+C: O telefone tocou incessantemente, ela atendeu finalmente.
+S: O telefone tocou incessantemente. Ela atendeu finalmente.
+
+C: Ela estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Ela estudou muito para a prova. Ela conseguiu tirar uma nota alta.
+
+C: Eles foram ao cinema e assistiram a um filme de ação.
+S: Eles foram ao cinema. Eles assistiram a um filme de ação.
+
+C: Nós viajamos para a praia e aproveitamos o sol e o mar.
+S: Nós viajamos para a praia. Nós aproveitamos o sol e o mar.
+
+C: Ele comprou um novo computador e instalou todos os programas necessários.
+S: Ele comprou um novo computador. Ele instalou todos os programas necessários.
+
+C: Ela acordou cedo e fez exercícios físicos antes do trabalho.
+S: Ela acordou cedo. Ela fez exercícios físicos antes do trabalho.
+
+C: Eles cozinharam um delicioso jantar e convidaram os amigos para comer.
+S: Eles cozinharam um delicioso jantar. Eles convidaram os amigos para comer.
+
+C: Ele estudou francês e alemão durante o semestre.
+S: Ele estudou francês. Ele estudou alemão durante o semestre.
+
+C: Ela comprou roupas novas e sapatos para a festa.
+S: Ela comprou roupas novas. Ela comprou sapatos para a festa.
+
+C: Eles visitaram diversos museus e galerias de arte durante a viagem.
+S: Eles visitaram diversos museus. Eles visitaram galerias de arte durante a viagem.
+
+C: Ele correram no parque e depois descansaram embaixo das árvores.
+S: Eles correram no parque. Eles descansaram embaixo das árvores.
+
+C: Ana estudou para a prova e tirou boas notas.
+S: Ana estudou para a prova. Ana tirou boas notas.
+
+C: O cachorro latiu e o gato fugiu assustado.
+S: O cachorro latiu. O gato fugiu assustado.
+
+C: Maria comprou um vestido novo e uma bolsa combinando.
+S: Maria comprou um vestido novo. Maria comprou uma bolsa combinando.
+
+C: Paulo foi ao mercado e comprou pão e leite.
+S: Paulo foi ao mercado. Paulo comprou pão. Paulo comprou leite.
+
+C: As crianças brincaram na praia e se divertiram muito.
+S: As crianças brincaram na praia. As crianças se divertiram muito.
+
+C: João chegou atrasado e perdeu a primeira aula.
+S: João chegou atrasado. João perdeu a primeira aula.
+
+C: O time treinou duro e venceu o jogo.
+S: O time treinou duro. O time venceu o jogo.
+
+C: Maria saiu correndo e deixou a porta aberta.
+S: Maria saiu correndo. Maria deixou a porta aberta.
+
+C: João comeu um sanduíche e tomou um suco.
+S: João comeu um sanduíche. João tomou um suco.
+
+C: Ana chamou um táxi e foi para o aeroporto.
+S: Ana chamou um táxi. Ana foi para o aeroporto.
+
+C: O cachorro latiu alto e correu em direção ao portão.
+S: O cachorro latiu alto. O cachorro correu em direção ao portão.
+
+C: Maria estudou muito para a prova e tirou a melhor nota da turma.
+S: Maria estudou muito para a prova. Maria tirou a melhor nota da turma.
+
+C: Pedro chegou em casa tarde e foi direto para o quarto descansar.
+S: Pedro chegou em casa tarde. Pedro foi direto para o quarto descansar.
+
+C: Ana comprou as passagens de avião e fez as reservas no hotel.
+S: Ana comprou as passagens de avião. Ana fez as reservas no hotel.
+
+C: O filme começou e todos ficaram em silêncio na sala de cinema.
+S: O filme começou. Todos ficaram em silêncio na sala de cinema.
+
+C: João comprou os ingredientes e fez um delicioso bolo de chocolate.
+S: João comprou os ingredientes. João fez um delicioso bolo de chocolate.
+
+C: A festa foi animada e todos dançaram até altas horas da madrugada.
+S: A festa foi animada. Todos dançaram até altas horas da madrugada.
+
+C: Os amigos se encontraram no parque e passaram a tarde jogando futebol.
+S: Os amigos se encontraram no parque. Os amigos passaram a tarde jogando futebol.
+
+C: O carro ficou sem combustível e precisou ser empurrado até o posto mais próximo.
+S: O carro ficou sem combustível. O carro precisou ser empurrado até o posto mais próximo.
+
+C: O sol se pôs e o céu ficou repleto de estrelas brilhantes.
+S: O sol se pôs. O céu ficou repleto de estrelas brilhantes.
+
+C: O gato dorme na sala enquanto o cachorro brinca no quintal.
+S: O gato dorme na sala. O cachorro brinca no quintal.
+
+C: Ela saiu correndo pelo parque e ele a seguiu de perto.
+S: Ela saiu correndo pelo parque. Ele a seguiu de perto.
+
+C: Eles estudam matemática pela manhã e português à tarde.
+S: Eles estudam matemática pela manhã. Eles estudam português à tarde.
+
+C: João comeu a maçã e Maria ficou com a pera.
+S: João comeu a maçã. Maria ficou com a pera.
+
+C: O sol brilha durante o dia e a lua aparece à noite.
+S: O sol brilha durante o dia. A lua aparece à noite.
+
+C: O pai trabalha na cidade e a mãe cuida da casa.
+S: O pai trabalha na cidade. A mãe cuida da casa.
+
+C: Ele toca piano e ela canta no coral.
+S: Ele toca piano. Ela canta no coral.
+
+C: O avião decolou do aeroporto e o navio partiu do porto.
+S: O avião decolou do aeroporto. O navio partiu do porto.
+
+C: Nós assistimos ao filme e depois fomos jantar.
+S: Nós assistimos ao filme. Nós fomos jantar.
+
+C: O professor explica a matéria e os alunos fazem exercícios.
+S: O professor explica a matéria. Os alunos fazem exercícios.
+
+C: A chuva estava forte, as pessoas corriam para se abrigar.
+S: A chuva estava forte. As pessoas corriam para se abrigar.
+
+C: A praia era linda, o mar estava calmo.
+S: A praia era linda. O mar estava calmo.
+
+C: O dia estava ensolarado, as crianças brincavam no parque.
+S: O dia estava ensolarado. As crianças brincavam no parque.
+
+C: O trânsito estava congestionado, as pessoas ficaram presas no engarrafamento.
+S: O trânsito estava congestionado. As pessoas ficaram presas no engarrafamento.
+
+C: O filme era emocionante, as pessoas choraram no final.
+S: O filme era emocionante. As pessoas choraram no final.
+
+C: O trabalho estava atrasado, os funcionários tiveram que ficar até mais tarde.
+S: O trabalho estava atrasado. Os funcionários tiveram que ficar até mais tarde.
+
+C: A comida estava deliciosa, as pessoas repetiram o prato.
+S: A comida estava deliciosa. As pessoas repetiram o prato.
+
+C: A festa estava animada, as pessoas dançaram a noite toda.
+S: A festa estava animada. As pessoas dançaram a noite toda.
+
+C: O time estava perdendo, os torcedores ficaram desanimados.
+S: O time estava perdendo. Os torcedores ficaram desanimados.
+
+C: O quarto estava bagunçado, as crianças se divertiram revirando tudo.
+S: O quarto estava bagunçado. As crianças se divertiram revirando tudo.
+
+C: Maria comprou uma maçã e comeu na mesma hora.
+S: Maria comprou uma maçã. Maria comeu na mesma hora.
+
+C: O carro estava sujo e precisava ser lavado.
+S: O carro estava sujo. O carro precisava ser lavado.
+
+C: Pedro dançou a noite toda e se divertiu bastante.
+S: Pedro dançou a noite toda. Pedro se divertiu bastante.
+
+C: Ana estudou muito para a prova e tirou a nota máxima.
+S: Ana estudou muito para a prova. Ana tirou a nota máxima.
+
+C: O gato mia durante a noite e acorda os vizinhos.
+S: O gato mia durante a noite. O gato acorda os vizinhos.
+
+C: Fernando chegou atrasado e perdeu o início da reunião.
+S: Fernando chegou atrasado. Fernando perdeu o início da reunião.
+
+C: Laura preparou o jantar e chamou os amigos para comerem juntos.
+S: Laura preparou o jantar. Laura chamou os amigos para comerem juntos.
+
+C: Joaquim comprou um livro novo e começou a ler imediatamente.
+S: Joaquim comprou um livro novo. Joaquim começou a ler imediatamente.
+
+C: Os pássaros cantam de manhã cedo e alegram o ambiente.
+S: Os pássaros cantam de manhã cedo. Os pássaros alegram o ambiente.
+
+C: As crianças brincaram no parque e se divertiram muito.
+S: As crianças brincaram no parque. As crianças se divertiram muito.
+
+C: Pedro estudou a noite toda para a prova. Ele estava determinado a tirar uma nota alta.
+S: Pedro estudou a noite toda para a prova. Pedro estava determinado a tirar uma nota alta.
+
+C: Maria comprou uma bicicleta nova. Ela vai usá-la para se exercitar todos os dias.
+S: Maria comprou uma bicicleta nova. Maria vai usá-la para se exercitar todos os dias.
+
+C: O time de futebol ganhou o campeonato. Os jogadores estavam muito felizes com a conquista.
+S: O time de futebol ganhou o campeonato. Os jogadores estavam muito felizes com a conquista.
+
+C: Ana saiu de casa correndo. Ela precisava pegar o ônibus da manhã cedo.
+S: Ana saiu de casa correndo. Ana precisava pegar o ônibus da manhã cedo.
+
+C: Os pássaros cantavam alegremente nos galhos das árvores. As flores estavam desabrochando no jardim.
+S: Os pássaros cantavam alegremente nos galhos das árvores. As flores estavam desabrochando no jardim.
+
+C: Lucas acordou atrasado para o trabalho. Ele teve que correr para não perder o ônibus.
+S: Lucas acordou atrasado para o trabalho. Lucas teve que correr para não perder o ônibus.
+
+C: Os amigos saíram juntos para comemorar o aniversário de João. Eles foram a um restaurante sofisticado.
+S: Os amigos saíram juntos para comemorar o aniversário de João. Os amigos foram a um restaurante sofisticado.
+
+C: As crianças brincavam no parque. Elas estavam se divertindo muito no balanço.
+S: As crianças brincavam no parque. As crianças estavam se divertindo muito no balanço.
+
+C: O casal comprou uma casa nova. Eles vão se mudar para lá no próximo mês.
+S: O casal comprou uma casa nova. O casal vai se mudar para lá no próximo mês.
+
+C: O professor explicou a matéria com clareza. Ele queria que os alunos entendessem os conceitos.
+S: O professor explicou a matéria com clareza. O professor queria que os alunos entendessem os conceitos.
+
+C: A festa estava animada, as pessoas dançavam e cantavam.
+S: A festa estava animada. As pessoas dançavam. As pessoas cantavam.
+
+C: O cachorro latiu, o gato miou e o pássaro cantou.
+S: O cachorro latiu. O gato miou. O pássaro cantou.
+
+C: O sol brilhava intensamente, o vento soprava forte e as flores desabrochavam.
+S: O sol brilhava intensamente. O vento soprava forte. As flores desabrochavam.
+
+C: O aluno estudava com afinco, a professora corrigia as provas e os colegas conversavam.
+S: O aluno estudava com afinco. A professora corrigia as provas. Os colegas conversavam.
+
+C: O carro acelerou, as pessoas se assustaram e o motorista freou bruscamente.
+S: O carro acelerou. As pessoas se assustaram. O motorista freou bruscamente.
+
+C: A chuva caía incessantemente, o trovão ecoava pelo céu e os raios cortavam a escuridão.
+S: A chuva caía incessantemente. O trovão ecoava pelo céu. Os raios cortavam a escuridão.
+
+C: O time marcou um gol, a torcida comemorou e o técnico aplaudiu.
+S: O time marcou um gol. A torcida comemorou. O técnico aplaudiu.
+
+C: O avião decolou rapidamente, as nuvens ficaram para trás e o passageiro relaxou.
+S: O avião decolou rapidamente. As nuvens ficaram para trás. O passageiro relaxou.
+
+C: A criança sorriu, o cachorro abanou o rabo e o pássaro voou para longe.
+S: A criança sorriu. O cachorro abanou o rabo. O pássaro voou para longe.
+
+C: A sirene tocou, as pessoas se reuniram e a emergência foi acionada.
+S: A sirene tocou. As pessoas se reuniram. A emergência foi acionada.
+
+C: O carro parou bruscamente no meio da estrada, o motorista desligou o veículo.
+S: O carro parou bruscamente no meio da estrada. O motorista desligou o veículo.
+
+C: Maria comprou uma câmera nova para registrar suas viagens, ela adora fotografar.
+S: Maria comprou uma câmera nova para registrar suas viagens. Ela adora fotografar.
+
+C: O time jogou mal durante todo o primeiro tempo, o técnico precisou fazer várias substituições.
+S: O time jogou mal durante todo o primeiro tempo. O técnico precisou fazer várias substituições.
+
+C: Ana estudou durante toda a noite para a prova, ela queria tirar uma boa nota.
+S: Ana estudou durante toda a noite para a prova. Ela queria tirar uma boa nota.
+
+C: O avião atrasou e perdi a conexão, tive que esperar mais algumas horas no aeroporto.
+S: O avião atrasou e perdi a conexão. Tive que esperar mais algumas horas no aeroporto.
+
+C: O restaurante estava cheio e a espera era longa, então decidimos procurar outro lugar para jantar.
+S: O restaurante estava cheio e a espera era longa. Decidimos procurar outro lugar para jantar.
+
+C: O filme foi muito elogiado pela crítica, mas não gostei do final.
+S: O filme foi muito elogiado pela crítica. Não gostei do final.
+
+C: Meu irmão viajou para o exterior e trouxe várias lembranças para todos nós.
+S: Meu irmão viajou para o exterior. Trouxe várias lembranças para todos nós.
+
+C: Estudei muito para a prova, mas não consegui tirar uma boa nota.
+S: Estudei muito para a prova. Não consegui tirar uma boa nota.
+
+C: O cachorro latiu a noite toda, incomodando os vizinhos.
+S: O cachorro latiu a noite toda. Incomodando os vizinhos.
+
+C: O sol brilhava no céu azul, as nuvens pareciam esponjosas.
+S: O sol brilhava no céu azul. As nuvens pareciam esponjosas.
+
+C: Ela chegou atrasada para a reunião, estava presa no trânsito.
+S: Ela chegou atrasada para a reunião. Ela estava presa no trânsito.
+
+C: Ele estudou até tarde da noite, ainda assim não conseguiu entender a matéria.
+S: Ele estudou até tarde da noite. Ele ainda assim não conseguiu entender a matéria.
+
+C: O cachorro latiu durante a noite toda, acordando todos os vizinhos.
+S: O cachorro latiu durante a noite toda. O cachorro acordou todos os vizinhos.
+
+C: Ela tinha um sorriso no rosto, o que indicava que estava feliz.
+S: Ela tinha um sorriso no rosto. Ela indicava que estava feliz.
+
+C: Ele correu com todas as suas forças, mas não conseguiu vencer a corrida.
+S: Ele correu com todas as suas forças. Ele não conseguiu vencer a corrida.
+
+C: Ela comprou um vestido vermelho para a festa, combinando com seus sapatos.
+S: Ela comprou um vestido vermelho para a festa. Ela combinou com seus sapatos.
+
+C: O gato subiu no telhado e ficou observando os pássaros.
+S: O gato subiu no telhado. O gato ficou observando os pássaros.
+
+C: Ele ligou o computador, esperou alguns segundos e começou a trabalhar.
+S: Ele ligou o computador. Ele esperou alguns segundos. Ele começou a trabalhar.
+
+C: Ela pediu uma pizza, mas não tinha dinheiro para pagar.
+S: Ela pediu uma pizza. Ela não tinha dinheiro para pagar.
+
+C: O sol brilhava intensamente no céu. O sol aquecia a Terra.
+S: O sol brilhava intensamente no céu e aquecia a Terra.
+
+C: Ana estudou muito para a prova de matemática. Ana tirou uma nota alta na prova.
+S: Ana estudou muito para a prova de matemática e tirou uma nota alta.
+
+C: O cachorro latiu incessantemente durante a noite. O cachorro acordou todos os vizinhos.
+S: O cachorro latiu incessantemente durante a noite e acordou todos os vizinhos.
+
+C: Pedro comprou um carro novo. Pedro ligou para os amigos para contar a novidade.
+S: Pedro comprou um carro novo e ligou para os amigos para contar a novidade.
+
+C: A chuva caiu torrencialmente. A chuva deixou as ruas alagadas.
+S: A chuva caiu torrencialmente e deixou as ruas alagadas.
+
+C: Maria saiu de casa correndo. Maria chegou atrasada na reunião.
+S: Maria saiu de casa correndo e chegou atrasada na reunião.
+
+C: Os pássaros cantavam alegremente nas árvores. Os pássaros alegravam o ambiente.
+S: Os pássaros cantavam alegremente nas árvores e alegravam o ambiente.
+
+C: O casal dançava animadamente na pista de dança. O casal era o centro das atenções.
+S: O casal dançava animadamente na pista de dança e era o centro das atenções.
+
+C: O avião decolou suavemente na pista. O avião alcançou uma grande altitude.
+S: O avião decolou suavemente na pista e alcançou uma grande altitude.
+
+C: O telefone tocou incessantemente durante a noite. O telefone interrompeu o meu sono.
+S: O telefone tocou incessantemente durante a noite e interrompeu o meu sono.
+
+C: O time ganhou o jogo por 3 a 0, com uma atuação impecável.
+S: O time ganhou o jogo por 3 a 0. O time teve uma atuação impecável.
+
+C: Ele correu rápido para alcançar o ônibus, mas não conseguiu.
+S: Ele correu rápido para alcançar o ônibus. Ele não conseguiu.
+
+C: Ela estudou muito para a prova, mas não foi bem.
+S: Ela estudou muito para a prova. Ela não foi bem.
+
+C: Eles viajaram para Paris, visitaram a Torre Eiffel e comeram croissants.
+S: Eles viajaram para Paris. Eles visitaram a Torre Eiffel. Eles comeram croissants.
+
+C: O filme foi aclamado pela crítica, ganhou diversos prêmios e atraiu muitos espectadores.
+S: O filme foi aclamado pela crítica. O filme ganhou diversos prêmios. O filme atraiu muitos espectadores.
+
+C: Ela acordou cedo, tomou um banho e se arrumou para o trabalho.
+S: Ela acordou cedo. Ela tomou um banho. Ela se arrumou para o trabalho.
+
+C: Ele comprou uma camisa nova, uma calça jeans e um tênis branco.
+S: Ele comprou uma camisa nova. Ele comprou uma calça jeans. Ele comprou um tênis branco.
+
+C: Nós visitamos o museu, aprendemos sobre a história da arte e tiramos fotos.
+S: Nós visitamos o museu. Nós aprendemos sobre a história da arte. Nós tiramos fotos.
+
+C: Ela cozinhou um delicioso jantar, preparou uma sobremesa incrível e serviu aos convidados.
+S: Ela cozinhou um delicioso jantar. Ela preparou uma sobremesa incrível. Ela serviu aos convidados.
+
+C: Eles dançaram a noite toda, cantaram músicas animadas e se divertiram muito.
+S: Eles dançaram a noite toda. Eles cantaram músicas animadas. Eles se divertiram muito.
+
+C: A chuva caía incessantemente, as pessoas corriam para se abrigar.
+S: A chuva caía incessantemente. As pessoas corriam para se abrigar.
+
+C: O sol brilhava intensamente, as crianças brincavam na praia.
+S: O sol brilhava intensamente. As crianças brincavam na praia.
+
+C: O cachorro latiu alto, o gato ficou assustado.
+S: O cachorro latiu alto. O gato ficou assustado.
+
+C: O professor explicava a matéria com calma, os alunos anotavam tudo.
+S: O professor explicava a matéria com calma. Os alunos anotavam tudo.
+
+C: O trânsito estava caótico, as buzinas não paravam de tocar.
+S: O trânsito estava caótico. As buzinas não paravam de tocar.
+
+C: A comida estava saborosa, as pessoas elogiaram o chef.
+S: A comida estava saborosa. As pessoas elogiaram o chef.
+
+C: A música tocava baixinho, as pessoas dançavam lentamente.
+S: A música tocava baixinho. As pessoas dançavam lentamente.
+
+C: O filme estava emocionante, as pessoas choraram no final.
+S: O filme estava emocionante. As pessoas choraram no final.
+
+C: O avião decolou rapidamente, as pessoas se despediram dos familiares.
+S: O avião decolou rapidamente. As pessoas se despediram dos familiares.
+
+C: A água estava gelada, as pessoas saíram da piscina correndo.
+S: A água estava gelada. As pessoas saíram da piscina correndo.
+
+C: Eu acordei cedo e tomei café da manhã antes de sair para o trabalho.
+S: Eu acordei cedo. Eu tomei café da manhã antes de sair para o trabalho.
+
+C: Ela caminhou até a praia e mergulhou no mar gelado.
+S: Ela caminhou até a praia. Ela mergulhou no mar gelado.
+
+C: Eles estudaram durante a tarde inteira e fizeram um lanche no meio do dia.
+S: Eles estudaram durante a tarde inteira. Eles fizeram um lanche no meio do dia.
+
+C: Nós assistimos ao filme no cinema e comemos pipoca durante a sessão.
+S: Nós assistimos ao filme no cinema. Nós comemos pipoca durante a sessão.
+
+C: Ele correu pela trilha na floresta e avistou alguns animais selvagens.
+S: Ele correu pela trilha na floresta. Ele avistou alguns animais selvagens.
+
+C: Ela comprou roupas novas no shopping e foi jantar em um restaurante chique.
+S: Ela comprou roupas novas no shopping. Ela foi jantar em um restaurante chique.
+
+C: Eles praticaram esportes na praia e tiraram várias fotos do pôr do sol.
+S: Eles praticaram esportes na praia. Eles tiraram várias fotos do pôr do sol.
+
+C: Nós visitamos alguns pontos turísticos da cidade e experimentamos comidas típicas.
+S: Nós visitamos alguns pontos turísticos da cidade. Nós experimentamos comidas típicas.
+
+C: Ele limpou a casa toda e organizou a papelada importante.
+S: Ele limpou a casa toda. Ele organizou a papelada importante.
+
+C: Ela escreveu alguns artigos para o jornal e editou um vídeo para o canal do YouTube.
+S: Ela escreveu alguns artigos para o jornal. Ela editou um vídeo para o canal do YouTube.
+
+C: Maria comprou uma paleta de pintura e começou a criar uma obra de arte.
+S: Maria comprou uma paleta de pintura. Maria começou a criar uma obra de arte.
+
+C: Pedro foi ao supermercado e comprou os ingredientes para fazer um bolo.
+S: Pedro foi ao supermercado. Pedro comprou os ingredientes para fazer um bolo.
+
+C: O sol se pôs e a lua começou a brilhar no céu estrelado.
+S: O sol se pôs. A lua começou a brilhar no céu estrelado.
+
+C: Joana acordou cedo e foi correr no parque antes do trabalho.
+S: Joana acordou cedo. Joana foi correr no parque antes do trabalho.
+
+C: Lucas chegou atrasado à reunião e perdeu a oportunidade de apresentar seu projeto.
+S: Lucas chegou atrasado à reunião. Lucas perdeu a oportunidade de apresentar seu projeto.
+
+C: Fernanda ligou para o médico e marcou uma consulta para a próxima semana.
+S: Fernanda ligou para o médico. Fernanda marcou uma consulta para a próxima semana.
+
+C: Carlos saiu de casa e pegou um ônibus para o centro da cidade.
+S: Carlos saiu de casa. Carlos pegou um ônibus para o centro da cidade.
+
+C: Ana estudou durante toda a tarde e conseguiu se preparar bem para a prova.
+S: Ana estudou durante toda a tarde. Ana conseguiu se preparar bem para a prova.
+
+C: Os alunos fizeram as tarefas e entregaram ao professor no final da aula.
+S: Os alunos fizeram as tarefas. Os alunos entregaram ao professor no final da aula.
+
+C: O cachorro latiu e assustou o carteiro que estava entregando as correspondências.
+S: O cachorro latiu. O cachorro assustou o carteiro que estava entregando as correspondências.
+
+C: Maria correu pela praia e mergulhou no mar.
+S: Maria correu pela praia. Maria mergulhou no mar.
+
+C: Os pássaros cantavam na árvore e os cachorros latiam no quintal.
+S: Os pássaros cantavam na árvore. Os cachorros latiam no quintal.
+
+C: Meu irmão foi ao mercado e comprou pão e leite.
+S: Meu irmão foi ao mercado. Meu irmão comprou pão e leite.
+
+C: O professor deu uma explicação clara e os alunos entenderam rapidamente.
+S: O professor deu uma explicação clara. Os alunos entenderam rapidamente.
+
+C: A festa estava animada e as pessoas dançavam e se divertiam.
+S: A festa estava animada. As pessoas dançavam e se divertiam.
+
+C: O sol brilhava no céu e as flores desabrochavam no jardim.
+S: O sol brilhava no céu. As flores desabrochavam no jardim.
+
+C: As crianças brincavam no parque e os pais observavam atentamente.
+S: As crianças brincavam no parque. Os pais observavam atentamente.
+
+C: O carro acelerou na estrada e ultrapassou os outros veículos.
+S: O carro acelerou na estrada. O carro ultrapassou os outros veículos.
+
+C: O filme era emocionante e o final surpreendeu a todos.
+S: O filme era emocionante. O final surpreendeu a todos.
+
+C: Ele estudou a noite toda e conseguiu tirar uma boa nota na prova.
+S: Ele estudou a noite toda. Ele conseguiu tirar uma boa nota na prova.
+
+C: O sol brilhava intensamente no céu azul. As crianças corriam felizes no parque.
+S: O sol brilhava intensamente no céu azul. As crianças corriam felizes no parque.
+
+C: Ela acordou cedo, tomou um rápido café da manhã e saiu para trabalhar.
+S: Ela acordou cedo. Ela tomou um rápido café da manhã. Ela saiu para trabalhar.
+
+C: O carro era velho, barulhento e cheio de problemas mecânicos.
+S: O carro era velho. O carro era barulhento. O carro estava cheio de problemas mecânicos.
+
+C: Ele estudou durante a tarde, fez a prova e saiu da sala aliviado.
+S: Ele estudou durante a tarde. Ele fez a prova. Ele saiu da sala aliviado.
+
+C: A festa estava animada, com música alta e muita dança.
+S: A festa estava animada. A festa tinha música alta. A festa tinha muita dança.
+
+C: Ela pediu desculpas, explicou o motivo e tentou consertar o erro.
+S: Ela pediu desculpas. Ela explicou o motivo. Ela tentou consertar o erro.
+
+C: O livro era interessante, emocionante e cheio de reviravoltas.
+S: O livro era interessante. O livro era emocionante. O livro estava cheio de reviravoltas.
+
+C: Ele correu rápido, desviou dos obstáculos e atravessou a linha de chegada.
+S: Ele correu rápido. Ele desviou dos obstáculos. Ele atravessou a linha de chegada.
+
+C: A casa estava bagunçada, suja e precisando de uma reforma.
+S: A casa estava bagunçada. A casa estava suja. A casa estava precisando de uma reforma.
+
+C: O restaurante era bonito, aconchegante e com excelente atendimento.
+S: O restaurante era bonito. O restaurante era aconchegante. O restaurante tinha excelente atendimento.
+
+C: Ele caminhou pela rua movimentada e entrou na loja de roupas.
+S: Ele caminhou pela rua movimentada. Ele entrou na loja de roupas.
+
+C: Maria correu até a parada de ônibus e esperou o ônibus chegar.
+S: Maria correu até a parada de ônibus. Maria esperou o ônibus chegar.
+
+C: O cachorro latiu alto e assustou os vizinhos.
+S: O cachorro latiu alto. O cachorro assustou os vizinhos.
+
+C: Carlos estudou durante a tarde e depois descansou um pouco.
+S: Carlos estudou durante a tarde. Carlos descansou um pouco.
+
+C: O vento balançou as árvores e as folhas caíram no chão.
+S: O vento balançou as árvores. As folhas caíram no chão.
+
+C: Ana assou um bolo e colocou cobertura de chocolate.
+S: Ana assou um bolo. Ana colocou cobertura de chocolate.
+
+C: O menino pulou na piscina e nadou até a borda.
+S: O menino pulou na piscina. O menino nadou até a borda.
+
+C: Marta escreveu uma carta e enviou pelo correio.
+S: Marta escreveu uma carta. Marta enviou pelo correio.
+
+C: O motorista parou o carro e desceu para ajudar.
+S: O motorista parou o carro. O motorista desceu para ajudar.
+
+C: As crianças brincaram no parque e depois foram para casa.
+S: As crianças brincaram no parque. As crianças foram para casa.
+
+C: Ela estudou a noite toda e conseguiu passar na prova.
+S: Ela estudou a noite toda. Ela conseguiu passar na prova.
+
+C: Ele correu para pegar o ônibus, mas não conseguiu alcançá-lo.
+S: Ele correu para pegar o ônibus. Ele não conseguiu alcançá-lo.
+
+C: O carro quebrou no meio da estrada e tivemos que chamar o guincho.
+S: O carro quebrou no meio da estrada. Tivemos que chamar o guincho.
+
+C: Ela acordou cedo, tomou café da manhã e foi para o trabalho.
+S: Ela acordou cedo. Ela tomou café da manhã. Ela foi para o trabalho.
+
+C: Eles brigaram por causa de uma discussão boba e acabaram se separando.
+S: Eles brigaram por causa de uma discussão boba. Eles acabaram se separando.
+
+C: Ela comprou todos os ingredientes, preparou o jantar e chamou os amigos para comer.
+S: Ela comprou todos os ingredientes. Ela preparou o jantar. Ela chamou os amigos para comer.
+
+C: Ele se exercitou bastante, suou muito e sentiu-se revigorado depois.
+S: Ele se exercitou bastante. Ele suou muito. Ele sentiu-se revigorado depois.
+
+C: Ela comprou o livro, leu-o rapidamente e emprestou para a amiga.
+S: Ela comprou o livro. Ela leu-o rapidamente. Ela emprestou para a amiga.
+
+C: Ele procurou por ela em todos os lugares, ligou para todos os amigos, mas não a encontrou.
+S: Ele procurou por ela em todos os lugares. Ele ligou para todos os amigos. Ele não a encontrou.
+
+C: Ela fez uma lista de compras, foi ao mercado e comprou tudo o que precisava.
+S: Ela fez uma lista de compras. Ela foi ao mercado. Ela comprou tudo o que precisava.
+
+C: O carro estava sujo e com cheiro de mofo. S: O carro estava sujo. O carro estava com cheiro de mofo.
+
+C: Ela estava cansada e com sono. S: Ela estava cansada. Ela estava com sono.
+
+C: O filme foi emocionante e fez todos chorarem. S: O filme foi emocionante. O filme fez todos chorarem.
+
+C: Ele estudou bastante e tirou uma boa nota. S: Ele estudou bastante. Ele tirou uma boa nota.
+
+C: A festa estava animada e cheia de pessoas. S: A festa estava animada. A festa estava cheia de pessoas.
+
+C: Eles conversaram por horas e resolveram seus problemas. S: Eles conversaram por horas. Eles resolveram seus problemas.
+
+C: Ela adorava ouvir música e dançar. S: Ela adorava ouvir música. Ela adorava dançar.
+
+C: A comida estava deliciosa e muito bem temperada. S: A comida estava deliciosa. A comida estava muito bem temperada.
+
+C: Ele viajou para o exterior e conheceu vários países. S: Ele viajou para o exterior. Ele conheceu vários países.
+
+C: O livro era interessante e tinha uma história envolvente. S: O livro era interessante. O livro tinha uma história envolvente.
+
+C: Maria viajou para Paris e aproveitou para visitar o Museu do Louvre.
+S: Maria viajou para Paris. Ela aproveitou para visitar o Museu do Louvre.
+
+C: Pedro comprou um carro novo e decidiu vendê-lo logo em seguida.
+S: Pedro comprou um carro novo. Ele decidiu vendê-lo logo em seguida.
+
+C: Ana foi ao supermercado e comprou todos os itens da lista.
+S: Ana foi ao supermercado. Ela comprou todos os itens da lista.
+
+C: Lucas estudou muito para a prova e conseguiu tirar uma nota alta.
+S: Lucas estudou muito para a prova. Ele conseguiu tirar uma nota alta.
+
+C: Carolina fez um curso de pintura e agora consegue fazer lindas obras de arte.
+S: Carolina fez um curso de pintura. Agora ela consegue fazer lindas obras de arte.
+
+C: Rafael foi ao cinema e assistiu ao filme mais recente do diretor.
+S: Rafael foi ao cinema. Ele assistiu ao filme mais recente do diretor.
+
+C: Laura comeu um pedaço de bolo e ficou satisfeita com a sobremesa.
+S: Laura comeu um pedaço de bolo. Ela ficou satisfeita com a sobremesa.
+
+C: Gabriel comprou um livro novo e começou a lê-lo imediatamente.
+S: Gabriel comprou um livro novo. Ele começou a lê-lo imediatamente.
+
+C: Letícia foi ao parque e brincou nos brinquedos do playground.
+S: Letícia foi ao parque. Ela brincou nos brinquedos do playground.
+
+C: Tiago saiu de casa e encontrou um antigo amigo na rua.
+S: Tiago saiu de casa. Ele encontrou um antigo amigo na rua.
+
+C: O cachorro latiu e o gato miou.
+S: O cachorro latiu. O gato miou.
+
+C: Ela cantou e ele dançou.
+S: Ela cantou. Ele dançou.
+
+C: Eles estudaram e nós descansamos.
+S: Eles estudaram. Nós descansamos.
+
+C: O sol brilhou e a chuva parou.
+S: O sol brilhou. A chuva parou.
+
+C: Ela sorriu e ele chorou.
+S: Ela sorriu. Ele chorou.
+
+C: O pássaro voou e a borboleta pousou.
+S: O pássaro voou. A borboleta pousou.
+
+C: O carro acelerou e o ônibus parou.
+S: O carro acelerou. O ônibus parou.
+
+C: Ela cozinhou e ele comeu.
+S: Ela cozinhou. Ele comeu.
+
+C: O menino correu e a menina pulou.
+S: O menino correu. A menina pulou.
+
+C: O vento soprou e as árvores balançaram.
+S: O vento soprou. As árvores balançaram.
+
+C: Maria caminhou pelo parque e parou para descansar. 
+S: Maria caminhou pelo parque. Maria parou para descansar.
+
+C: O cachorro latiu e correu atrás do gato. 
+S: O cachorro latiu. O cachorro correu atrás do gato.
+
+C: Pedro estudou para a prova e tirou uma boa nota. 
+S: Pedro estudou para a prova. Pedro tirou uma boa nota.
+
+C: As crianças brincavam e riam alto. 
+S: As crianças brincavam. As crianças riam alto.
+
+C: Ana acordou cedo e fez exercícios físicos. 
+S: Ana acordou cedo. Ana fez exercícios físicos.
+
+C: O sol brilhava intensamente e aquecia o ambiente. 
+S: O sol brilhava intensamente. O sol aquecia o ambiente.
+
+C: Ele pensou e tomou uma decisão importante. 
+S: Ele pensou. Ele tomou uma decisão importante.
+
+C: Os pássaros cantavam e voavam pelo céu. 
+S: Os pássaros cantavam. Os pássaros voavam pelo céu.
+
+C: O vento soprou forte e derrubou as árvores. 
+S: O vento soprou forte. O vento derrubou as árvores.
+
+C: Ela acendeu a vela e iluminou o ambiente. 
+S: Ela acendeu a vela. Ela iluminou o ambiente.
+
+C: Maria estudou matemática e Física. Ela conseguiu uma excelente nota nas duas disciplinas.
+S: Maria estudou matemática. Maria estudou Física. Ela conseguiu uma excelente nota nas duas disciplinas.
+
+C: Pedro acordou cedo, fez sua higiene matinal e saiu para o trabalho.
+S: Pedro acordou cedo. Pedro fez sua higiene matinal. Pedro saiu para o trabalho.
+
+C: Ana comprou pão e leite. Ela voltou para casa e preparou o café da manhã.
+S: Ana comprou pão. Ana comprou leite. Ela voltou para casa. Ela preparou o café da manhã.
+
+C: Os alunos estavam ansiosos e nervosos. Eles fizeram a prova com bastante concentração.
+S: Os alunos estavam ansiosos. Os alunos estavam nervosos. Eles fizeram a prova com bastante concentração.
+
+C: O sol brilhava intensamente no céu e o calor estava insuportável. As pessoas buscaram abrigo em lugares com ar condicionado.
+S: O sol brilhava intensamente no céu. O calor estava insuportável. As pessoas buscaram abrigo em lugares com ar condicionado.
+
+C: A empresa contratou novos funcionários e investiu em equipamentos modernos. Ela espera aumentar sua produtividade.
+S: A empresa contratou novos funcionários. A empresa investiu em equipamentos modernos. Ela espera aumentar sua produtividade.
+
+C: Lucas resolveu ir ao cinema e convidou seus amigos para acompanhá-lo. Eles aceitaram o convite e foram juntos.
+S: Lucas resolveu ir ao cinema. Lucas convidou seus amigos para acompanhá-lo. Eles aceitaram o convite. Eles foram juntos.
+
+C: As crianças brincaram no parque e se divertiram bastante. Depois, foram tomar sorvete.
+S: As crianças brincaram no parque. As crianças se divertiram bastante. Depois, foram tomar sorvete.
+
+C: Maria Ligou para o médico e marcou uma consulta. Ela queria tirar algumas dúvidas relacionadas à sua saúde.
+S: Maria Ligou para o médico. Maria marcou uma consulta. Ela queria tirar algumas dúvidas relacionadas à sua saúde.
+
+C: O jogo foi emocionante. Os times lutaram até o final e o resultado foi um empate.
+S: O jogo foi emocionante. Os times lutaram até o final. O resultado foi um empate.
+
+C: Ele estudou muito para a prova final, mas não conseguiu passar.
+S: Ele estudou muito para a prova final. Ele não conseguiu passar.
+
+C: Maria comprou roupas novas para a festa, sapatos e acessórios.
+S: Maria comprou roupas novas para a festa. Maria comprou sapatos. Maria comprou acessórios.
+
+C: O cachorro latiu alto, assustando os vizinhos.
+S: O cachorro latiu alto. O cachorro assustou os vizinhos.
+
+C: Pedro levantou cedo, fez exercícios e tomou banho.
+S: Pedro levantou cedo. Pedro fez exercícios. Pedro tomou banho.
+
+C: O jogador driblou o zagueiro, chutou a bola e marcou um gol.
+S: O jogador driblou o zagueiro. O jogador chutou a bola. O jogador marcou um gol.
+
+C: O sol brilhava forte, esquentando o ambiente.
+S: O sol brilhava forte. O sol esquentou o ambiente.
+
+C: Os alunos estudaram para a prova, mas não tiveram um bom resultado.
+S: Os alunos estudaram para a prova. Os alunos não tiveram um bom resultado.
+
+C: O carro parou na esquina, esperando o sinal abrir.
+S: O carro parou na esquina. O carro esperou o sinal abrir.
+
+C: Lucas comprou flores, chocolates e um cartão de aniversário para sua mãe.
+S: Lucas comprou flores para sua mãe. Lucas comprou chocolates para sua mãe. Lucas comprou um cartão de aniversário para sua mãe.
+
+C: O gato miou alto, chamando a atenção do dono.
+S: O gato miou alto. O gato chamou a atenção do dono.
+
+C: O sol brilhava intensamente e a brisa soprou suavemente.
+S: O sol brilhava intensamente. A brisa soprou suavemente.
+
+C: Ela estudou durante toda a tarde e fez uma pausa para descansar.
+S: Ela estudou durante toda a tarde. Ela fez uma pausa para descansar.
+
+C: Os pássaros cantavam alegremente e as flores desabrochavam no jardim.
+S: Os pássaros cantavam alegremente. As flores desabrochavam no jardim.
+
+C: O carro acelerou rapidamente e o motorista segurou firme o volante.
+S: O carro acelerou rapidamente. O motorista segurou firme o volante.
+
+C: Ele sorriu timidamente e olhou nos olhos dela.
+S: Ele sorriu timidamente. Ele olhou nos olhos dela.
+
+C: A chuva caiu pesadamente e as ruas ficaram alagadas.
+S: A chuva caiu pesadamente. As ruas ficaram alagadas.
+
+C: O vento uivava com força e as árvores balançavam violentamente.
+S: O vento uivava com força. As árvores balançavam violentamente.
+
+C: Ela dançou graciosamente e os espectadores aplaudiram entusiasmados.
+S: Ela dançou graciosamente. Os espectadores aplaudiram entusiasmados.
+
+C: O cachorro latiu incessantemente e os vizinhos reclamaram do barulho.
+S: O cachorro latiu incessantemente. Os vizinhos reclamaram do barulho.
+
+C: A criança correu animada e os pais a acompanharam com sorrisos.
+S: A criança correu animada. Os pais a acompanharam com sorrisos.
+
+C: A menina chorou e o menino sorriu.
+S: A menina chorou. O menino sorriu.
+
+C: Ela correu e ele caminhou lentamente.
+S: Ela correu. Ele caminhou lentamente.
+
+C: Eu estudei e meu irmão dormiu.
+S: Eu estudei. Meu irmão dormiu.
+
+C: Ela cantou e ele dançou.
+S: Ela cantou. Ele dançou.
+
+C: O sol brilhava e os pássaros cantavam.
+S: O sol brilhava. Os pássaros cantavam.
+
+C: Eles riram e eu fiquei sério.
+S: Eles riram. Eu fiquei sério.
+
+C: Ela falou e eu escutei.
+S: Ela falou. Eu escutei.
+
+C: O cachorro latiu e o gato miou.
+S: O cachorro latiu. O gato miou.
+
+C: Nós corremos e eles caminharam.
+S: Nós corremos. Eles caminharam.
+
+C: Ela sorriu e ele chorou.
+S: Ela sorriu. Ele chorou.
+
+C: Maria saiu de casa correndo, pegou um táxi e foi para o shopping.
+S: Maria saiu de casa correndo. Maria pegou um táxi. Maria foi para o shopping.
+
+C: O cachorro latiu durante a noite toda e acordou os vizinhos.
+S: O cachorro latiu durante a noite toda. O cachorro acordou os vizinhos.
+
+C: O professor explicou a matéria com calma e os alunos entenderam tudo.
+S: O professor explicou a matéria com calma. Os alunos entenderam tudo.
+
+C: João comprou um novo celular e ficou muito feliz.
+S: João comprou um novo celular. João ficou muito feliz.
+
+C: A chuva molhou toda a roupa que estava no varal.
+S: A chuva molhou toda a roupa. A chuva estava no varal.
+
+C: Andreia cantou sua música preferida e encantou a platéia.
+S: Andreia cantou sua música preferida. Andreia encantou a platéia.
+
+C: O carro quebrou no meio da estrada e precisei chamar um guincho.
+S: O carro quebrou no meio da estrada. Eu precisei chamar um guincho.
+
+C: O bebê chorou durante a noite toda e não deixou ninguém dormir.
+S: O bebê chorou durante a noite toda. O bebê não deixou ninguém dormir.
+
+C: Paulo estudou muito para a prova e tirou a nota máxima.
+S: Paulo estudou muito para a prova. Paulo tirou a nota máxima.
+
+C: O sol estava forte, então eu decidi ir à praia.
+S: O sol estava forte. Eu decidi ir à praia.
+
+C: Eu corri na esteira por meia hora, depois fiz alguns exercícios de musculação.
+S: Eu corri na esteira por meia hora. Eu fiz alguns exercícios de musculação.
+
+C: Ela comprou um vestido novo para a festa, e também adquiriu sapatos e acessórios.
+S: Ela comprou um vestido novo para a festa. Ela adquiriu sapatos e acessórios.
+
+C: O cachorro latiu durante a noite toda, e eu não consegui dormir.
+S: O cachorro latiu durante a noite toda. Eu não consegui dormir.
+
+C: Ele estudou intensamente para a prova, mas mesmo assim não foi aprovado.
+S: Ele estudou intensamente para a prova. Ele não foi aprovado.
+
+C: Ela fez uma dieta rigorosa durante semanas, no entanto não conseguiu perder peso.
+S: Ela fez uma dieta rigorosa durante semanas. Ela não conseguiu perder peso.
+
+C: Pedro comprou um livro novo, mas acabou não lendo.
+S: Pedro comprou um livro novo. Pedro acabou não lendo.
+
+C: O filme foi emocionante, porém o final foi decepcionante.
+S: O filme foi emocionante. O final foi decepcionante.
+
+C: Ana acordou atrasada para o trabalho, então teve que correr para não chegar atrasada.
+S: Ana acordou atrasada para o trabalho. Ana teve que correr para não chegar atrasada.
+
+C: Nós saímos para jantar no restaurante italiano, e depois fomos ao cinema.
+S: Nós saímos para jantar no restaurante italiano. Nós fomos ao cinema.
+
+C: Elas foram à praia para pegar sol, mas acabaram ficando na sombra o dia todo.
+S: Elas foram à praia para pegar sol. Elas ficaram na sombra o dia todo.
+
+C: O carro estava velho e sujo, mas ainda funcionava.
+S: O carro estava velho e sujo. Ainda funcionava.
+
+C: Ela comprou uma maçã e uma laranja.
+S: Ela comprou uma maçã. Ela comprou uma laranja.
+
+C: Eles estudaram para a prova e foram bem.
+S: Eles estudaram para a prova. Eles foram bem.
+
+C: O jogador correu rápido e marcou o gol.
+S: O jogador correu rápido. O jogador marcou o gol.
+
+C: Ele acordou cedo e preparou o café da manhã.
+S: Ele acordou cedo. Ele preparou o café da manhã.
+
+C: A casa estava vazia e silenciosa.
+S: A casa estava vazia. A casa estava silenciosa.
+
+C: Ela pegou o ônibus e desceu na próxima parada.
+S: Ela pegou o ônibus. Ela desceu na próxima parada.
+
+C: O cachorro latiu alto e assustou o gato.
+S: O cachorro latiu alto. O cachorro assustou o gato.
+
+C: O bebê chorou e acordou toda a casa.
+S: O bebê chorou. O bebê acordou toda a casa.
+
+C: Ele cantou e encantou a plateia.
+S: Ele cantou. Ele encantou a plateia.
+
+C: O avião decolou rapidamente, mas teve problemas com o motor e precisou fazer um pouso de emergência.
+S: O avião decolou rapidamente. O avião teve problemas com o motor e precisou fazer um pouso de emergência.
+
+C: O carro atravessou o sinal vermelho e colidiu com outro veículo, causando um grande engarrafamento.
+S: O carro atravessou o sinal vermelho. O carro colidiu com outro veículo, causando um grande engarrafamento.
+
+C: Maria estudou muito para a prova, mas ficou nervosa e esqueceu tudo o que tinha aprendido.
+S: Maria estudou muito para a prova. Maria ficou nervosa e esqueceu tudo o que tinha aprendido.
+
+C: O cachorro latiu incessantemente durante a noite, acordando todos os vizinhos.
+S: O cachorro latiu incessantemente durante a noite. O cachorro acordou todos os vizinhos.
+
+C: O jogador chutou a bola com muita força, mas errou o gol e perdeu a partida.
+S: O jogador chutou a bola com muita força. O jogador errou o gol e perdeu a partida.
+
+C: A empresa lançou um novo produto no mercado, mas não obteve o sucesso esperado e teve que descontinuá-lo.
+S: A empresa lançou um novo produto no mercado. A empresa não obteve o sucesso esperado e teve que descontinuá-lo.
+
+C: Alice comprou um vestido novo para a festa, mas percebeu que ele estava rasgado e precisou trocá-lo.
+S: Alice comprou um vestido novo para a festa. Alice percebeu que ele estava rasgado e precisou trocá-lo.
+
+C: O sol estava brilhando intensamente, mas de repente começou a chover e todos tiveram que correr para se abrigar.
+S: O sol estava brilhando intensamente. O sol começou a chover e todos tiveram que correr para se abrigar.
+
+C: Pedro estudou até tarde da noite para o exame, mas não conseguiu responder todas as questões corretamente.
+S: Pedro estudou até tarde da noite para o exame. Pedro não conseguiu responder todas as questões corretamente.
+
+C: O filme tinha uma trama interessante, mas o final foi muito decepcionante e deixou o público insatisfeito.
+S: O filme tinha uma trama interessante. O filme teve um final muito decepcionante e deixou o público insatisfeito.
+
+C: O carro estava sujo e cheio de arranhões.
+S: O carro estava sujo. O carro estava cheio de arranhões.
+
+C: Ela cantava no chuveiro e dançava pela casa.
+S: Ela cantava no chuveiro. Ela dançava pela casa.
+
+C: Eles estudavam para a prova e faziam resumos.
+S: Eles estudavam para a prova. Eles faziam resumos.
+
+C: Ele corria na praia e nadava no mar.
+S: Ele corria na praia. Ele nadava no mar.
+
+C: Eu lia um livro de suspense e assistia a um filme de terror.
+S: Eu lia um livro de suspense. Eu assistia a um filme de terror.
+
+C: Nós jogávamos futebol no quintal e brincávamos de esconde-esconde.
+S: Nós jogávamos futebol no quintal. Nós brincávamos de esconde-esconde.
+
+C: Ela passeava no parque e alimentava os patos.
+S: Ela passeava no parque. Ela alimentava os patos.
+
+C: Eles conversavam sobre o trabalho e planejavam o futuro.
+S: Eles conversavam sobre o trabalho. Eles planejavam o futuro.
+
+C: Eu cozinhava o jantar e arrumava a mesa.
+S: Eu cozinhava o jantar. Eu arrumava a mesa.
+
+C: Nós caminhávamos na trilha e observávamos a natureza.
+S: Nós caminhávamos na trilha. Nós observávamos a natureza.
+
+C: O sol brilhava no céu azul, as crianças brincavam na praia.
+S: O sol brilhava no céu azul. As crianças brincavam na praia.
+
+C: Ela estudava com afinco, alcançou boas notas no exame final.
+S: Ela estudava com afinco. Ela alcançou boas notas no exame final.
+
+C: O carro acelerou na reta, ultrapassou todos os outros competidores.
+S: O carro acelerou na reta. O carro ultrapassou todos os outros competidores.
+
+C: Eles conversaram por horas, resolveram seus problemas.
+S: Eles conversaram por horas. Eles resolveram seus problemas.
+
+C: O cachorro latiu alto, assustou os vizinhos.
+S: O cachorro latiu alto. O cachorro assustou os vizinhos.
+
+C: O professor explicou a lição, os alunos anotaram as informações.
+S: O professor explicou a lição. Os alunos anotaram as informações.
+
+C: Ele correu rápido, venceu a corrida.
+S: Ele correu rápido. Ele venceu a corrida.
+
+C: Ela cozinhou um delicioso jantar, a família se reuniu para comer.
+S: Ela cozinhou um delicioso jantar. A família se reuniu para comer.
+
+C: O músico tocou seu instrumento favorito, encantou o público.
+S: O músico tocou seu instrumento favorito. O músico encantou o público.
+
+C: Ela escreveu um livro emocionante, ganhou vários prêmios literários.
+S: Ela escreveu um livro emocionante. Ela ganhou vários prêmios literários.
+
+C: O menino correu pelo parque e brincou no balanço.
+S: O menino correu pelo parque. O menino brincou no balanço.
+
+C: Maria cantou uma música e dançou no palco.
+S: Maria cantou uma música. Maria dançou no palco.
+
+C: João estudou matemática e fez exercícios de física.
+S: João estudou matemática. João fez exercícios de física.
+
+C: Ana acordou cedo e preparou o café da manhã.
+S: Ana acordou cedo. Ana preparou o café da manhã.
+
+C: Pedro foi ao supermercado e comprou frutas e legumes.
+S: Pedro foi ao supermercado. Pedro comprou frutas e legumes.
+
+C: Laura saiu para caminhar e encontrou um amigo no parque.
+S: Laura saiu para caminhar. Laura encontrou um amigo no parque.
+
+C: Carlos ligou para o médico e marcou uma consulta.
+S: Carlos ligou para o médico. Carlos marcou uma consulta.
+
+C: Fernanda assistiu a um filme e comeu pipoca.
+S: Fernanda assistiu a um filme. Fernanda comeu pipoca.
+
+C: Paulo saiu de casa e pegou o ônibus para o trabalho.
+S: Paulo saiu de casa. Paulo pegou o ônibus para o trabalho.
+
+C: Marta comprou um livro e leu a tarde toda.
+S: Marta comprou um livro. Marta leu a tarde toda.
+
+C: Maria correu para pegar o ônibus, mas ele já havia partido.
+S: Maria correu para pegar o ônibus. Maria chegou a tempo, mas o ônibus já havia partido.
+
+C: Nós estudamos muito para a prova, por isso tiramos boas notas.
+S: Nós estudamos muito para a prova. Nós tiramos boas notas.
+
+C: Ele entrou na loja e comprou um novo celular.
+S: Ele entrou na loja. Ele comprou um novo celular.
+
+C: O rapaz saiu correndo para não perder o trem, mas ele já havia saído da estação.
+S: O rapaz saiu correndo para não perder o trem. O rapaz chegou à estação, mas o trem já havia saído.
+
+C: Ela ligou o computador e começou a trabalhar no relatório.
+S: Ela ligou o computador. Ela começou a trabalhar no relatório.
+
+C: Eles saíram para jantar, mas o restaurante estava fechado.
+S: Eles saíram para jantar. Eles chegaram ao restaurante, mas o restaurante estava fechado.
+
+C: A equipe treinou bastante e conseguiu vencer o jogo.
+S: A equipe treinou bastante. A equipe conseguiu vencer o jogo.
+
+C: O cachorro latiu e assustou os pássaros.
+S: O cachorro latiu. O cachorro assustou os pássaros.
+
+C: Ela pintou o quadro e o pendurou na parede.
+S: Ela pintou o quadro. Ela o pendurou na parede.
+
+C: Ele encontrou seu amigo no supermercado e conversaram por horas.
+S: Ele encontrou seu amigo no supermercado. Ele conversou por horas.
+
+C: Ana comprou um carro novo e João ganhou uma bicicleta nova.
+S: Ana comprou um carro novo. João ganhou uma bicicleta nova.
+
+C: Maria estudou para a prova de matemática e Pedro preparou o jantar.
+S: Maria estudou para a prova de matemática. Pedro preparou o jantar.
+
+C: O sol brilhou intensamente e o céu ficou azul.
+S: O sol brilhou intensamente. O céu ficou azul.
+
+C: As crianças brincaram no parque e os adultos conversaram no banco.
+S: As crianças brincaram no parque. Os adultos conversaram no banco.
+
+C: Os alunos fizeram o trabalho em grupo e o professor corrigiu as provas.
+S: Os alunos fizeram o trabalho em grupo. O professor corrigiu as provas.
+
+C: O vento soprou forte e as folhas caíram das árvores.
+S: O vento soprou forte. As folhas caíram das árvores.
+
+C: Joana dançou ballet e Lucas tocou violão.
+S: Joana dançou ballet. Lucas tocou violão.
+
+C: O cachorro latiu e o gato correu para se esconder.
+S: O cachorro latiu. O gato correu para se esconder.
+
+C: O avião decolou e o piloto anunciou que a viagem seria tranquila.
+S: O avião decolou. O piloto anunciou que a viagem seria tranquila.
+
+C: Os alunos se despediram dos professores e foram embora para casa.
+S: Os alunos se despediram dos professores. Foram embora para casa.
+
+C: O cão latiu e o gato miou.
+S: O cão latiu. O gato miou.
+
+C: Pedro estudou muito e conseguiu passar no vestibular.
+S: Pedro estudou muito. Pedro conseguiu passar no vestibular.
+
+C: Ana comprou uma blusa nova e uma calça jeans.
+S: Ana comprou uma blusa nova. Ana comprou uma calça jeans.
+
+C: Os atletas correram e saltaram obstáculos.
+S: Os atletas correram. Os atletas saltaram obstáculos.
+
+C: João cantou e tocou violão durante a apresentação.
+S: João cantou. João tocou violão durante a apresentação.
+
+C: Maria cozinhou arroz e feijoada para o almoço.
+S: Maria cozinhou arroz. Maria cozinhou feijoada para o almoço.
+
+C: O pássaro voou e pousou no galho da árvore.
+S: O pássaro voou. O pássaro pousou no galho da árvore.
+
+C: O motorista acelerou e ultrapassou o caminhão.
+S: O motorista acelerou. O motorista ultrapassou o caminhão.
+
+C: Os amigos se divertiram e dançaram a noite toda.
+S: Os amigos se divertiram. Os amigos dançaram a noite toda.
+
+C: A menina comeu um pedaço de bolo e bebeu um copo de suco.
+S: A menina comeu um pedaço de bolo. A menina bebeu um copo de suco.
+
+C: O professor explicou a lição e deu exemplos práticos.
+S: O professor explicou a lição. O professor deu exemplos práticos.
+
+C: Ela saiu correndo e chorando.
+S: Ela saiu correndo. Ela saiu chorando.
+
+C: Eles entraram na sala e se sentaram nas cadeiras.
+S: Eles entraram na sala. Eles se sentaram nas cadeiras.
+
+C: O carro acelerou e ultrapassou os outros veículos.
+S: O carro acelerou. O carro ultrapassou os outros veículos.
+
+C: Eu liguei várias vezes e ninguém atendeu.
+S: Eu liguei várias vezes. Ninguém atendeu.
+
+C: Ela acordou cedo e tomou um banho frio.
+S: Ela acordou cedo. Ela tomou um banho frio.
+
+C: O cachorro latiu e acordou os vizinhos.
+S: O cachorro latiu. O cachorro acordou os vizinhos.
+
+C: Ele sorriu e acenou para o público.
+S: Ele sorriu. Ele acenou para o público.
+
+C: Ela estudou bastante e tirou uma nota alta na prova.
+S: Ela estudou bastante. Ela tirou uma nota alta na prova.
+
+C: Eu fiz o jantar e arrumei a mesa.
+S: Eu fiz o jantar. Eu arrumei a mesa.
+
+C: O sol estava brilhando intensamente, as crianças brincavam no parque.
+S: O sol estava brilhando intensamente. As crianças brincavam no parque.
+
+C: Ele estava cansado de estudar, mas decidiu continuar.
+S: Ele estava cansado de estudar. Ele decidiu continuar.
+
+C: Ela caminhou pela rua escura, ouviu um barulho assustador.
+S: Ela caminhou pela rua escura. Ela ouviu um barulho assustador.
+
+C: O casal estava de mãos dadas, sorriam felizes.
+S: O casal estava de mãos dadas. Eles sorriam felizes.
+
+C: A festa estava animada, a música estava alta.
+S: A festa estava animada. A música estava alta.
+
+C: Ele chorou de tristeza, a dor parecia insuportável.
+S: Ele chorou de tristeza. A dor parecia insuportável.
+
+C: Eu estava com fome, comi um sanduíche.
+S: Eu estava com fome. Eu comi um sanduíche.
+
+C: Ele corria pela praia, sentia a brisa no rosto.
+S: Ele corria pela praia. Ele sentia a brisa no rosto.
+
+C: Ela andava de bicicleta no parque, aproveitando o dia ensolarado.
+S: Ela andava de bicicleta no parque. Ela estava aproveitando o dia ensolarado.
+
+C: Ele terminou de escrever o livro, estava orgulhoso do seu trabalho.
+S: Ele terminou de escrever o livro. Ele estava orgulhoso do seu trabalho.
+
+C: Maria saiu de casa cedo para pegar o ônibus, mas o motorista já tinha partido.
+S: Maria saiu de casa cedo para pegar o ônibus. O motorista já tinha partido.
+
+C: Pedro comprou os ingressos para o filme, mas esqueceu de pegar dinheiro para o lanche.
+S: Pedro comprou os ingressos para o filme. Pedro esqueceu de pegar dinheiro para o lanche.
+
+C: Ana estudou muito para a prova, mas não conseguiu tirar uma boa nota.
+S: Ana estudou muito para a prova. Ana não conseguiu tirar uma boa nota.
+
+C: João foi ao supermercado comprar pão, mas acabou esquecendo da lista de compras.
+S: João foi ao supermercado comprar pão. João acabou esquecendo da lista de compras.
+
+C: Luísa ligou para o amigo, mas ele não atendeu o telefone.
+S: Luísa ligou para o amigo. Ele não atendeu o telefone.
+
+C: Rafael e Marcos saíram para correr no parque, mas começou a chover.
+S: Rafael e Marcos saíram para correr no parque. Começou a chover.
+
+C: O cachorro latiu durante a noite toda, mas ninguém conseguiu descobrir o motivo.
+S: O cachorro latiu durante a noite toda. Ninguém conseguiu descobrir o motivo.
+
+C: Laura foi à praia com os amigos, mas acabou esquecendo o protetor solar.
+S: Laura foi à praia com os amigos. Laura acabou esquecendo o protetor solar.
+
+C: Carlos treinou bastante para a competição, mas não conseguiu ganhar a corrida.
+S: Carlos treinou bastante para a competição. Carlos não conseguiu ganhar a corrida.
+
+C: Os pais de Pedro e Ana foram ao teatro assistir à peça, mas se atrasaram e perderam o início.
+S: Os pais de Pedro e Ana foram ao teatro assistir à peça. Eles se atrasaram e perderam o início.
+
+C: Camila estudou por horas para a prova de matemática, obteve um ótimo resultado.
+S: Camila estudou por horas para a prova de matemática. Camila obteve um ótimo resultado.
+
+C: O cachorro correu atrás do gato, mas não conseguiu alcançá-lo.
+S: O cachorro correu atrás do gato. O cachorro não conseguiu alcançá-lo.
+
+C: O sol brilhava intensamente no céu azul, enquanto as crianças brincavam no parque.
+S: O sol brilhava intensamente no céu azul. As crianças brincavam no parque.
+
+C: Maria acordou cedo, preparou o café da manhã e saiu para o trabalho.
+S: Maria acordou cedo. Maria preparou o café da manhã. Maria saiu para o trabalho.
+
+C: Ele comprou uma nova televisão, instalou-a na sala e assistiu a um filme.
+S: Ele comprou uma nova televisão. Ele instalou-a na sala. Ele assistiu a um filme.
+
+C: A chuva começou a cair forte, as pessoas correram para se abrigar.
+S: A chuva começou a cair forte. As pessoas correram para se abrigar.
+
+C: O livro estava sobre a mesa, alguém o pegou e o levou embora.
+S: O livro estava sobre a mesa. Alguém o pegou. Alguém o levou embora.
+
+C: O time marcou um gol no último minuto, venceu o jogo e comemorou a vitória.
+S: O time marcou um gol no último minuto. O time venceu o jogo. O time comemorou a vitória.
+
+C: A menina foi ao parque, brincou no balanço e se divertiu muito.
+S: A menina foi ao parque. A menina brincou no balanço. A menina se divertiu muito.
+
+C: O carro passou pelo sinal vermelho, quase causou um acidente e foi multado.
+S: O carro passou pelo sinal vermelho. O carro quase causou um acidente. O carro foi multado.
+
+C: O carro acelerou e ultrapassou todos os outros competidores.
+S: O carro acelerou. O carro ultrapassou todos os outros competidores.
+
+C: Maria cantou a música e emocionou a plateia.
+S: Maria cantou a música. Maria emocionou a plateia.
+
+C: O cachorro latiu e correu atrás do gato.
+S: O cachorro latiu. O cachorro correu atrás do gato.
+
+C: Pedro estudou a noite toda e conseguiu tirar uma boa nota.
+S: Pedro estudou a noite toda. Pedro conseguiu tirar uma boa nota.
+
+C: O avião decolou e começou a voar sobre as nuvens.
+S: O avião decolou. O avião começou a voar sobre as nuvens.
+
+C: Ana cozinhou o jantar e preparou uma sobremesa deliciosa.
+S: Ana cozinhou o jantar. Ana preparou uma sobremesa deliciosa.
+
+C: Os pássaros cantaram e voaram para longe.
+S: Os pássaros cantaram. Os pássaros voaram para longe.
+
+C: O sol se pôs e a noite chegou.
+S: O sol se pôs. A noite chegou.
+
+C: Paulo ligou para Maria e marcou um encontro.
+S: Paulo ligou para Maria. Paulo marcou um encontro.
+
+C: Os amigos riram e se divertiram durante a festa.
+S: Os amigos riram. Os amigos se divertiram durante a festa.
+
+C: O sol brilhava no céu e o mar estava calmo.
+S: O sol brilhava no céu. O mar estava calmo.
+
+C: Ela estudava com afinco e conseguiu passar no exame.
+S: Ela estudava com afinco. Ela conseguiu passar no exame.
+
+C: Nós fomos ao cinema e depois jantamos em um restaurante.
+S: Nós fomos ao cinema. Nós depois jantamos em um restaurante.
+
+C: Ele pegou o guarda-chuva e saiu de casa para não se molhar.
+S: Ele pegou o guarda-chuva. Ele saiu de casa para não se molhar.
+
+C: Ela comprou os ingressos e reservou um hotel para a viagem.
+S: Ela comprou os ingressos. Ela reservou um hotel para a viagem.
+
+C: Eles compraram comida e bebida para a festa.
+S: Eles compraram comida. Eles compraram bebida para a festa.
+
+C: Eu li o livro e assisti ao filme baseado nele.
+S: Eu li o livro. Eu assisti ao filme baseado nele.
+
+C: Ele estudou para a prova e tirou uma nota alta.
+S: Ele estudou para a prova. Ele tirou uma nota alta.
+
+C: Ela cozinhou o jantar e lavou a louça depois.
+S: Ela cozinhou o jantar. Ela lavou a louça depois.
+
+C: Eles se conheceram no trabalho e começaram a namorar.
+S: Eles se conheceram no trabalho. Eles começaram a namorar.
+
+C: A chuva caiu forte durante toda a noite, encharcou o jardim.
+S: A chuva caiu forte durante toda a noite. A chuva encharcou o jardim.
+
+C: O cachorro latiu alto, assustou os pássaros no telhado.
+S: O cachorro latiu alto. O cachorro assustou os pássaros no telhado.
+
+C: Ela estudou muito para a prova, conseguiu uma nota alta.
+S: Ela estudou muito para a prova. Ela conseguiu uma nota alta.
+
+C: Os amigos se encontraram no restaurante, comeram uma pizza.
+S: Os amigos se encontraram no restaurante. Os amigos comeram uma pizza.
+
+C: A criança chorou muito, se acalmou quando a mãe a pegou no colo.
+S: A criança chorou muito. A criança se acalmou quando a mãe a pegou no colo.
+
+C: Ele sorriu para ela, ela correspondeu ao sorriso.
+S: Ele sorriu para ela. Ela correspondeu ao sorriso.
+
+C: O sol brilhava, esquentando a areia da praia.
+S: O sol brilhava. O sol esquentava a areia da praia.
+
+C: As luzes se apagaram, deixando o lugar completamente escuro.
+S: As luzes se apagaram. As luzes deixaram o lugar completamente escuro.
+
+C: O músico tocou um acorde, encantando a plateia.
+S: O músico tocou um acorde. O músico encantou a plateia.
+
+C: Ela fez um pedido, o garçom anotou rapidamente.
+S: Ela fez um pedido. O garçom anotou rapidamente.
+
+C: Alice comprou um livro novo e começou a lê-lo na mesma noite.
+S: Alice comprou um livro novo. Alice começou a lê-lo na mesma noite.
+
+C: Maria e João foram ao cinema e assistiram a um filme de comédia.
+S: Maria foi ao cinema. Maria assistiu a um filme de comédia. João foi ao cinema. João assistiu a um filme de comédia.
+
+C: Ana saiu de casa, pegou um táxi e foi para o aeroporto.
+S: Ana saiu de casa. Ana pegou um táxi. Ana foi para o aeroporto.
+
+C: O cachorro correu pelo parque e brincou com outros animais.
+S: O cachorro correu pelo parque. O cachorro brincou com outros animais.
+
+C: Pedro estudou durante horas e se preparou para a prova.
+S: Pedro estudou durante horas. Pedro se preparou para a prova.
+
+C: Os amigos se encontraram em um café e conversaram por horas.
+S: Os amigos se encontraram em um café. Os amigos conversaram por horas.
+
+C: O sol se pôs, a noite chegou e as estrelas começaram a brilhar.
+S: O sol se pôs. A noite chegou. As estrelas começaram a brilhar.
+
+C: O gato subiu no telhado, caminhou pelas telhas e pulou para o quintal.
+S: O gato subiu no telhado. O gato caminhou pelas telhas. O gato pulou para o quintal.
+
+C: Meu pai foi trabalhar, minha mãe foi ao supermercado e meu irmão foi para a escola.
+S: Meu pai foi trabalhar. Minha mãe foi ao supermercado. Meu irmão foi para a escola.
+
+C: O carro acelerou, ultrapassou os outros veículos e chegou em primeiro lugar.
+S: O carro acelerou. O carro ultrapassou os outros veículos. O carro chegou em primeiro lugar.
+
+C: Maria comprou o vestido azul e o sapato de salto alto.
+S: Maria comprou o vestido azul. Maria comprou o sapato de salto alto.
+
+C: O professor explicou a matéria e passou uma lista de exercícios.
+S: O professor explicou a matéria. O professor passou uma lista de exercícios.
+
+C: Ana foi à padaria e comprou pão francês e leite.
+S: Ana foi à padaria. Ana comprou pão francês. Ana comprou leite.
+
+C: Pedro levantou cedo e fez a caminhada matinal.
+S: Pedro levantou cedo. Pedro fez a caminhada matinal.
+
+C: Carla pintou a parede da sala e colocou cortinas novas.
+S: Carla pintou a parede da sala. Carla colocou cortinas novas.
+
+C: João estudou para a prova e tirou uma nota alta.
+S: João estudou para a prova. João tirou uma nota alta.
+
+C: O cachorro latiu e o gato correu para se esconder.
+S: O cachorro latiu. O gato correu para se esconder.
+
+C: O motorista freou bruscamente e o passageiro caiu no chão.
+S: O motorista freou bruscamente. O passageiro caiu no chão.
+
+C: Marta lavou a roupa e pendurou no varal para secar.
+S: Marta lavou a roupa. Marta pendurou no varal para secar.
+
+C: Lucas abriu a janela e sentiu o vento fresco entrar.
+S: Lucas abriu a janela. Lucas sentiu o vento fresco entrar.
+

@@ -1,0 +1,25 @@
+(3) Orações subordinadas adverbiais
+
+a. Causais: indicam a causa da ação expressa pelo verbo na oração principal: pois
+que, uma vez que, visto que, visto como, porquanto, porque, como, já que, etc.
+Regra: Dividir a sentença em duas:
+
+1) Sentença para a cláusula subordinada, a qual terá como sujeito o núcleo do termo da
+oração principal modificado pela subordinada (ou o termo completo, caso o núcleo
+não seja suficiente), seguido da subordinada, propriamente dita, eliminando-se o
+marcador discursivo.
+2) Sentença original sem a cláusula subordinada, introduzida por um marcador
+discursivo que indique efeito, preferencialmente, 'COM ISSO'.
+    -> Manter a ordem canônica: causa -> efeito.
+
+Exemplos:
+
+Complexa: A reunião se dá num clima de tensão, já que amanhã o bloco de esquerda realiza um ato contra corrupção num prédio vizinho à sede do PT.
+Simplificada: Amanhã o bloco de esquerda realiza um ato contra corrupção num prédio vizinho à sede do PT. Com isso, a reunião se dá num clima de tensão.
+
+Complexa: Queiroz foi levado para o Pinel porque estaria muito exaltado .
+Simplificada: Queiroz estaria muito exaltado . Com isso, Queiroz foi levado para o Pinel .
+
+Complexa: A concessão não agradou aos congressistas que se apresentam como representantes das igrejas católicas e evangélicas , uma vez que não foi feita para as escolas mantidas por religiosos .
+Simplificada: A concessão não foi feita para as escolas mantidas por religiosos . Com isso, a concessão não agradou aos congressistas que se apresentam como representantes das igrejas católicas e evangélicas .
+

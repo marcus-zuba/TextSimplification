@@ -1,0 +1,6240 @@
+C: O carro foi vendido pelo vendedor.
+S: O vendedor vendeu o carro.
+
+C: O poema foi escrito pelo poeta renomado.
+S: O poeta renomado escreveu o poema.
+
+C: A comida foi preparada pela mãe.
+S: A mãe preparou a comida.
+
+C: O livro foi lido pelo estudante.
+S: O estudante leu o livro.
+
+C: A casa foi construída pelo engenheiro.
+S: O engenheiro construiu a casa.
+
+C: A música foi cantada pela cantora famosa.
+S: A cantora famosa cantou a música.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A porta foi aberta pelo porteiro.
+S: O porteiro abriu a porta.
+
+C: O computador foi consertado pelo técnico de informática.
+S: O técnico de informática consertou o computador.
+
+C: O presente foi embrulhado pelo atendente da loja.
+S: O atendente da loja embrulhou o presente.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: Os presentes foram entregues pelo correio.
+S: O correio entregou os presentes.
+
+C: A carta de demissão foi assinada pelo funcionário insatisfeito.
+S: O funcionário insatisfeito assinou a carta de demissão.
+
+C: O carro foi consertado pelo mecânico habilidoso.
+S: O mecânico habilidoso consertou o carro.
+
+C: Os convites foram enviados pelo casal anfitrião.
+S: O casal anfitrião enviou os convites.
+
+C: A festa de aniversário foi organizada pelos amigos próximos.
+S: Os amigos próximos organizaram a festa de aniversário.
+
+C: O bolo foi assado pela melhor confeiteira da cidade.
+S: A melhor confeiteira da cidade assou o bolo.
+
+C: O prato foi preparado pelo chef renomado.
+S: O chef renomado preparou o prato.
+
+C: Os ingressos foram comprados pela empresa para os funcionários.
+S: A empresa comprou os ingressos para os funcionários.
+
+C: Os objetos foram encontrados pelo detetive astuto.
+S: O detetive astuto encontrou os objetos.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A reunião será realizada pelo presidente da empresa.
+S: O presidente da empresa realizará a reunião.
+
+C: O crime foi testemunhado pela vizinha.
+S: A vizinha testemunhou o crime.
+
+C: A comida foi preparada pela mãe.
+S: A mãe preparou a comida.
+
+C: A apresentação será feita pela equipe de marketing.
+S: A equipe de marketing fará a apresentação.
+
+C: O projeto foi desenvolvido pelo grupo de engenheiros.
+S: O grupo de engenheiros desenvolveu o projeto.
+
+C: O acidente foi registrado pelo policial.
+S: O policial registrou o acidente.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A festa foi organizada pela amiga da aniversariante.
+S: A amiga da aniversariante organizou a festa.
+
+C: O prêmio foi entregue pelo diretor da empresa.
+S: O diretor da empresa entregou o prêmio.
+
+C: Esses documentos foram assinados pelo diretor executivo.
+S: O diretor executivo assinou esses documentos.
+
+C: A competição será organizada pela empresa de eventos.
+S: A empresa de eventos organizará a competição.
+
+C: Os livros foram entregues pelo carteiro.
+S: O carteiro entregou os livros.
+
+C: Uma nova rota foi criada pela empresa de transporte.
+S: A empresa de transporte criou uma nova rota.
+
+C: O bolo foi assado pela minha mãe.
+S: Minha mãe assou o bolo.
+
+C: Uma solução foi encontrada pelo time de engenheiros.
+S: O time de engenheiros encontrou uma solução.
+
+C: Os ingressos foram vendidos pela bilheteria do teatro.
+S: A bilheteria do teatro vendeu os ingressos.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A palestra será ministrada pelo renomado professor de história.
+S: O renomado professor de história ministrará a palestra.
+
+C: A casa foi construída pelo experiente empreiteiro.
+S: O experiente empreiteiro construiu a casa.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: A casa foi construída pelos meus pais.
+S: Meus pais construíram a casa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A comida foi preparada pela minha avó.
+S: Minha avó preparou a comida.
+
+C: O problema foi solucionado pela equipe de suporte.
+S: A equipe de suporte solucionou o problema.
+
+C: A televisão foi consertada pelo técnico.
+S: O técnico consertou a televisão.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: Eu enviei a mensagem pelo aplicativo de mensagens.
+
+C: O show foi cancelado pelos organizadores.
+S: Os organizadores cancelaram o show.
+
+C: A janela foi quebrada pelos vândalos.
+S: Os vândalos quebraram a janela.
+
+C: O carro foi lavado pelo meu irmão.
+S: Meu irmão lavou o carro.
+
+C: O presente foi entregue pela minha mãe.
+S: Minha mãe entregou o presente.
+
+C: O projeto será finalizado pela equipe de desenvolvimento.
+S: A equipe de desenvolvimento finalizará o projeto.
+
+C: A carta foi escrita pelo meu amigo.
+S: Meu amigo escreveu a carta.
+
+C: As regras foram estabelecidas pelo professor.
+S: O professor estabeleceu as regras.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A pintura foi feita pelo artista famoso.
+S: O artista famoso fez a pintura.
+
+C: A casa será construída pela empresa de engenharia.
+S: A empresa de engenharia construirá a casa.
+
+C: A música foi composta pelo talentoso compositor.
+S: O talentoso compositor compôs a música.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: O carro foi lavado pelo meu irmão.
+S: Meu irmão lavou o carro.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: A casa foi construída por uma equipe de engenheiros.
+S: Uma equipe de engenheiros construiu a casa.
+
+C: A porta foi aberta pela minha mãe.
+S: Minha mãe abriu a porta.
+
+C: O bolo foi feito pela minha avó.
+S: Minha avó fez o bolo.
+
+C: O trabalho foi realizado pela equipe de pesquisa.
+S: A equipe de pesquisa realizou o trabalho.
+
+C: A peça de teatro foi dirigida por um renomado diretor.
+S: Um renomado diretor dirigiu a peça de teatro.
+
+C: O quadro foi pintado por um artista famoso.
+S: Um artista famoso pintou o quadro.
+
+C: O problema foi resolvido pelo meu professor.
+S: Meu professor resolveu o problema.
+
+C: A cidade foi fundada por colonizadores europeus.
+S: Colonizadores europeus fundaram a cidade.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A casa foi construída pelos trabalhadores.
+S: Os trabalhadores construíram a casa.
+
+C: Os convites foram enviados pelo organizador da festa.
+S: O organizador da festa enviou os convites.
+
+C: O bolo foi feito pela confeiteira talentosa.
+S: A confeiteira talentosa fez o bolo.
+
+C: O problema foi resolvido pelo professor de matemática.
+S: O professor de matemática resolveu o problema.
+
+C: As pesquisas foram realizadas pelos cientistas renomados.
+S: Os cientistas renomados realizaram as pesquisas.
+
+C: Os crimes foram investigados pelos policiais competentes.
+S: Os policiais competentes investigaram os crimes.
+
+C: As bolsas de estudos foram concedidas pelos financiadores.
+S: Os financiadores concederam as bolsas de estudos.
+
+C: O projeto foi aprovado pela equipe de avaliação.
+S: A equipe de avaliação aprovou o projeto.
+
+C: A música foi composta pelo talentoso músico.
+S: O talentoso músico compôs a música.
+
+C: A cidade foi atingida por uma forte tempestade.
+S: Uma forte tempestade atingiu a cidade.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: A decisão será tomada pelo comitê responsável.
+S: O comitê responsável tomará a decisão.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A encomenda será entregue pelo correio amanhã.
+S: O correio entregará a encomenda amanhã.
+
+C: O acidente foi causado pelo motorista imprudente.
+S: O motorista imprudente causou o acidente.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O presente foi escolhido pela minha mãe.
+S: Minha mãe escolheu o presente.
+
+C: A informação foi divulgada pelo porta-voz da empresa.
+S: O porta-voz da empresa divulgou a informação.
+
+C: O trabalho foi realizado pelo renomado cientista.
+S: O renomado cientista realizou o trabalho.
+
+C: A casa foi destruída pelo terremoto.
+S: O terremoto destruiu a casa.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A pintura foi criada pelo artista famoso.
+S: O artista famoso criou a pintura.
+
+C: O acidente foi causado pela negligência do motorista.
+S: A negligência do motorista causou o acidente.
+
+C: A comida foi preparada pelo chef premiado.
+S: O chef premiado preparou a comida.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: A notícia foi divulgada pelo jornal local.
+S: O jornal local divulgou a notícia.
+
+C: O prédio foi construído pela empresa de construção.
+S: A empresa de construção construiu o prédio.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: O projeto foi elaborado pela equipe de arquitetos.
+S: A equipe de arquitetos elaborou o projeto.
+
+C: O livro será entregue pelo correio.
+S: O correio entregará o livro.
+
+C: A casa foi construída pelo pai.
+S: O pai construiu a casa.
+
+C: A comida foi preparada pela mãe.
+S: A mãe preparou a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A carta foi escrita pelo professor.
+S: O professor escreveu a carta.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: O bolo foi assado pela vizinha.
+S: A vizinha assou o bolo.
+
+C: A música foi composta pelo compositor.
+S: O compositor compôs a música.
+
+C: A porta foi aberta pelo chaveiro.
+S: O chaveiro abriu a porta.
+
+C: A festa foi organizada pela empresa de eventos.
+S: A empresa de eventos organizou a festa.
+
+C: A casa foi construída pelo pai.
+S: O pai construiu a casa.
+
+C: A música é cantada pela cantora famosa.
+S: A cantora famosa canta a música.
+
+C: O livro foi escrito pelo renomado autor.
+S: O renomado autor escreveu o livro.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: O projeto foi desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolveu o projeto.
+
+C: O quadro foi pintado pelo famoso artista.
+S: O famoso artista pintou o quadro.
+
+C: A carta foi entregue pelos correios.
+S: Os correios entregaram a carta.
+
+C: O vestido foi costurado pela estilista.
+S: A estilista costurou o vestido.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: O contrato de venda foi assinado pelo vendedor.
+S: O vendedor assinou o contrato de venda.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: A carta foi escrita pelo remetente.
+S: O remetente escreveu a carta.
+
+C: O relatório foi elaborado pelo departamento de pesquisa.
+S: O departamento de pesquisa elaborou o relatório.
+
+C: O almoço será preparado pela chef de cozinha.
+S: A chef de cozinha preparará o almoço.
+
+C: O livro foi escrito pelo autor premiado.
+S: O autor premiado escreveu o livro.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: A festa será organizada pelo comitê de eventos.
+S: O comitê de eventos organizará a festa.
+
+C: O projeto foi aprovado pelo comitê de avaliação.
+S: O comitê de avaliação aprovou o projeto.
+
+C: O jantar será servido pelo garçom.
+S: O garçom servirá o jantar.
+
+C: A carta foi escrita por Maria.
+S: Maria escreveu a carta.
+
+C: A casa foi construída pelo meu avô.
+S: Meu avô construiu a casa.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O presente foi comprado pela minha mãe.
+S: Minha mãe comprou o presente.
+
+C: O jantar foi preparado pela minha irmã.
+S: Minha irmã preparou o jantar.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: O relatório foi elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborou o relatório.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: A música foi composta pelo talentoso músico.
+S: O talentoso músico compôs a música.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A encomenda foi entregue pela transportadora.
+S: A transportadora entregou a encomenda.
+
+C: O prêmio foi recebido pelo vencedor da competição.
+S: O vencedor da competição recebeu o prêmio.
+
+C: O documento foi assinado pelo presidente da empresa.
+S: O presidente da empresa assinou o documento.
+
+C: As decisões foram tomadas pelo comitê executivo.
+S: O comitê executivo tomou as decisões.
+
+C: A lei foi aprovada pelo Congresso Nacional.
+S: O Congresso Nacional aprovou a lei.
+
+C: O problema foi solucionado pela equipe de suporte técnico.
+S: A equipe de suporte técnico solucionou o problema.
+
+C: O carro foi consertado pelo mecânico habilidoso.
+S: O mecânico habilidoso consertou o carro.
+
+C: O evento foi organizado pela equipe de marketing.
+S: A equipe de marketing organizou o evento.
+
+C: O almoço foi preparado pelos chefs renomados.
+S: Os chefs renomados prepararam o almoço.
+
+C: A casa foi pintada pelo pintor profissional.
+S: O pintor profissional pintou a casa.
+
+C: O livro foi escrito por um famoso autor.
+S: Um famoso autor escreveu o livro.
+
+C: Os presentes foram entregues pelos correios.
+S: Os correios entregaram os presentes.
+
+C: A decisão foi tomada pelo conselho de diretores.
+S: O conselho de diretores tomou a decisão.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: As mensagens foram enviadas pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviou as mensagens.
+
+C: O trabalho foi realizado pelo funcionário dedicado.
+S: O funcionário dedicado realizou o trabalho.
+
+C: Os convites foram impressos pela gráfica local.
+S: A gráfica local imprimiu os convites.
+
+C: O recital foi realizado pelo talentoso músico.
+S: O talentoso músico realizou o recital.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: A carta foi escrita por Maria.
+S: Maria escreveu a carta.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O bolo será feito pela minha avó.
+S: Minha avó fará o bolo.
+
+C: O casamento foi organizado pelos noivos.
+S: Os noivos organizaram o casamento.
+
+C: O prédio foi construído pela empresa de construção.
+S: A empresa de construção construiu o prédio.
+
+C: A música foi composta pelo meu irmão.
+S: Meu irmão compôs a música.
+
+C: A festa será organizada pelos meus amigos.
+S: Meus amigos organizarão a festa.
+
+C: O problema foi resolvido pela equipe de suporte.
+S: A equipe de suporte resolveu o problema.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A lição de casa será feita pelo aluno.
+S: O aluno fará a lição de casa.
+
+C: O carro foi comprado pelo meu irmão.
+S: Meu irmão comprou o carro.
+
+C: Os alimentos foram preparados pela minha avó.
+S: Minha avó preparou os alimentos.
+
+C: O documento foi assinado pela diretora.
+S: A diretora assinou o documento.
+
+C: O prédio foi construído pela empresa de engenharia.
+S: A empresa de engenharia construiu o prédio.
+
+C: O bolo foi feito pelo meu pai.
+S: Meu pai fez o bolo.
+
+C: As músicas foram escolhidas pelo DJ da festa.
+S: O DJ da festa escolheu as músicas.
+
+C: As pinturas foram vendidas pelo artista.
+S: O artista vendeu as pinturas.
+
+C: O problema foi solucionado pela equipe de suporte técnico.
+S: A equipe de suporte técnico solucionou o problema.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: As mercadorias foram entregues pela transportadora.
+S: A transportadora entregou as mercadorias.
+
+C: A casa será alugada pelos donos.
+S: Os donos alugarão a casa.
+
+C: Os convites foram enviados pelo meu pai.
+S: Meu pai enviou os convites.
+
+C: A competição será realizada no próximo sábado pelos organizadores.
+S: Os organizadores realizarão a competição no próximo sábado.
+
+C: A comida foi preparada pela minha avó.
+S: Minha avó preparou a comida.
+
+C: As decisões serão tomadas pela equipe de gestão.
+S: A equipe de gestão tomará as decisões.
+
+C: Os presentes foram entregues pelo carteiro.
+S: O carteiro entregou os presentes.
+
+C: Os documentos foram assinados pelo cliente.
+S: O cliente assinou os documentos.
+
+C: A carta foi escrita pelo meu amigo.
+S: Meu amigo escreveu a carta.
+
+C: Os resultados foram divulgados pela empresa.
+S: A empresa divulgou os resultados.
+
+C: O trabalho será realizado pelos funcionários.
+S: Os funcionários realizarão o trabalho.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A questão será resolvida pela equipe de suporte.
+S: A equipe de suporte resolverá a questão.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: Os problemas foram enfrentados pela equipe de vendas.
+S: A equipe de vendas enfrentou os problemas.
+
+C: A casa será construída pelo empreiteiro.
+S: O empreiteiro construirá a casa.
+
+C: O crime foi investigado pela polícia.
+S: A polícia investigou o crime.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: A tarefa será concluída pela equipe de projetos.
+S: A equipe de projetos concluirá a tarefa.
+
+C: A mensagem foi enviada pelo remetente desconhecido.
+S: O remetente desconhecido enviou a mensagem.
+
+C: A carta foi escrita pelo Pedro.
+S: O Pedro escreveu a carta.
+
+C: A festa será organizada pela minha irmã.
+S: Minha irmã vai organizar a festa.
+
+C: A pizza será entregue pelo entregador.
+S: O entregador vai entregar a pizza.
+
+C: O prêmio foi ganho pelo João.
+S: O João ganhou o prêmio.
+
+C: As compras foram feitas pelo meu pai.
+S: Meu pai fez as compras.
+
+C: O projeto será desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia vai desenvolver o projeto.
+
+C: O quadro foi pintado pelo meu irmão.
+S: Meu irmão pintou o quadro.
+
+C: A música será tocada pelo pianista.
+S: O pianista vai tocar a música.
+
+C: O poema foi escrito pelo autor famoso.
+S: O autor famoso escreveu o poema.
+
+C: A casa foi construída pelo meu avô.
+S: Meu avô construiu a casa.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A casa foi construída pelos trabalhadores da construção civil.
+S: Os trabalhadores da construção civil construíram a casa.
+
+C: A música foi composta pelo músico talentoso.
+S: O músico talentoso compôs a música.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: O bolo foi assado pela confeiteira experiente.
+S: A confeiteira experiente assou o bolo.
+
+C: O carro foi consertado pelo mecânico habilidoso.
+S: O mecânico habilidoso consertou o carro.
+
+C: A festa foi organizada pela equipe de eventos.
+S: A equipe de eventos organizou a festa.
+
+C: A pesquisa foi conduzida pelo cientista renomado.
+S: O cientista renomado conduziu a pesquisa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: Os presentes foram abertos pela criança.
+S: A criança abriu os presentes.
+
+C: A carta foi escrita pelo autor famoso.
+S: O autor famoso escreveu a carta.
+
+C: As pinturas foram vendidas pelo artista.
+S: O artista vendeu as pinturas.
+
+C: Os livros foram emprestados pela biblioteca.
+S: A biblioteca emprestou os livros.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: O bolo foi assado pela confeiteira.
+S: A confeiteira assou o bolo.
+
+C: A pesquisa foi realizada pelo aluno.
+S: O aluno realizou a pesquisa.
+
+C: A música foi composta pelo pianista.
+S: O pianista compôs a música.
+
+C: A pergunta foi respondida pelo professor.
+S: O professor respondeu a pergunta.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: As compras foram feitas pela minha mãe no supermercado.
+S: Minha mãe fez as compras no supermercado.
+
+C: O poema foi escrito pelo poeta mais famoso da cidade.
+S: O poeta mais famoso da cidade escreveu o poema.
+
+C: O trabalho foi entregue pela aluna mais dedicada da turma.
+S: A aluna mais dedicada da turma entregou o trabalho.
+
+C: Os convites foram enviados pelo casal de noivos.
+S: O casal de noivos enviou os convites.
+
+C: A nova música foi composta pelo famoso cantor.
+S: O famoso cantor compôs a nova música.
+
+C: O bolo foi assado pela confeiteira experiente.
+S: A confeiteira experiente assou o bolo.
+
+C: A decisão foi tomada pelo presidente da empresa.
+S: O presidente da empresa tomou a decisão.
+
+C: O casamento foi organizado pela cerimonialista.
+S: A cerimonialista organizou o casamento.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: A casa foi decorada pela mãe.
+S: A mãe decorou a casa.
+
+C: Os presentes foram comprados pelos convidados.
+S: Os convidados compraram os presentes.
+
+C: A reunião foi adiada pela diretoria.
+S: A diretoria adiou a reunião.
+
+C: O jantar foi preparado pelo chef renomado.
+S: O chef renomado preparou o jantar.
+
+C: As instruções foram dadas pelo professor.
+S: O professor deu as instruções.
+
+C: O prêmio foi entregue pelo presidente da empresa.
+S: O presidente da empresa entregou o prêmio.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A carta foi escrita pela secretária.
+S: A secretária escreveu a carta.
+
+C: O filme foi dirigido pelo renomado diretor.
+S: O renomado diretor dirigiu o filme.
+
+C: Os documentos foram analisados pelo departamento jurídico.
+S: O departamento jurídico analisou os documentos.
+
+C: A casa será vendida pelos proprietários.
+S: Os proprietários venderão a casa.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O livro foi escrito pelo renomado autor.
+S: O renomado autor escreveu o livro.
+
+C: O projeto será concluído pela equipe de engenharia.
+S: A equipe de engenharia concluirá o projeto.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: A decisão foi tomada pelo comitê de avaliação.
+S: O comitê de avaliação tomou a decisão.
+
+C: As obras foram entregues pelos construtores.
+S: Os construtores entregaram as obras.
+
+C: O documento foi assinado pelos signatários.
+S: Os signatários assinaram o documento.
+
+C: A mensagem foi enviada pelo remetente.
+S: O remetente enviou a mensagem.
+
+C: O crime foi cometido pelo suspeito.
+S: O suspeito cometeu o crime.
+
+C: O carro foi roubado pelo ladrão.
+S: O ladrão roubou o carro.
+
+C: A decisão será tomada pelos diretores da empresa.
+S: Os diretores da empresa tomarão a decisão.
+
+C: As obras foram realizadas pela equipe de construção.
+S: A equipe de construção realizou as obras.
+
+C: O documento foi assinado pelo presidente do sindicato.
+S: O presidente do sindicato assinou o documento.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O plano foi elaborado pelos engenheiros da empresa.
+S: Os engenheiros da empresa elaboraram o plano.
+
+C: A entrevista será conduzida pelo repórter famoso.
+S: O repórter famoso conduzirá a entrevista.
+
+C: O jogo foi vencido pelo time adversário.
+S: O time adversário venceu o jogo.
+
+C: A festa foi organizada pelos amigos do aniversariante.
+S: Os amigos do aniversariante organizaram a festa.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: Os livros foram emprestados pela biblioteca.
+S: A biblioteca emprestou os livros.
+
+C: A casa foi construída pelos trabalhadores.
+S: Os trabalhadores construíram a casa.
+
+C: As flores foram regadas pelo jardineiro.
+S: O jardineiro regou as flores.
+
+C: A comida foi preparada pelo chef de cozinha.
+S: O chef de cozinha preparou a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A festa foi organizada pelos amigos.
+S: Os amigos organizaram a festa.
+
+C: A pintura foi feita pelo artista.
+S: O artista fez a pintura.
+
+C: A história foi escrita pelo autor.
+S: O autor escreveu a história.
+
+C: A pesquisa foi realizada pelos cientistas.
+S: Os cientistas realizaram a pesquisa.
+
+C: O objeto foi encontrado pelo policial na cena do crime.
+S: O policial encontrou o objeto na cena do crime.
+
+C: A carta foi escrita pela minha avó.
+S: Minha avó escreveu a carta.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O jantar foi preparado pelo chef renomado.
+S: O chef renomado preparou o jantar.
+
+C: A festa de aniversário foi organizada pelos meus amigos.
+S: Meus amigos organizaram a festa de aniversário.
+
+C: A casa foi pintada pelo pintor profissional.
+S: O pintor profissional pintou a casa.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O livro foi escrito pelo renomado autor.
+S: O renomado autor escreveu o livro.
+
+C: A foto foi tirada pelo fotógrafo experiente.
+S: O fotógrafo experiente tirou a foto.
+
+C: A comida foi preparada pela chef talentosa.
+S: A chef talentosa preparou a comida.
+
+C: A casa foi construída pelos arquitetos renomados da cidade.
+S: Os arquitetos renomados da cidade construíram a casa.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: Os convites foram enviados pela equipe de organização do evento.
+S: A equipe de organização do evento enviou os convites.
+
+C: O trabalho foi concluído pelos estudantes em parceria com o professor.
+S: Os estudantes, em parceria com o professor, concluíram o trabalho.
+
+C: As decisões foram tomadas pelos membros do conselho.
+S: Os membros do conselho tomaram as decisões.
+
+C: O problema foi solucionado pela equipe de suporte técnico.
+S: A equipe de suporte técnico solucionou o problema.
+
+C: A mensagem foi enviada pela secretária do escritório.
+S: A secretária do escritório enviou a mensagem.
+
+C: As novas políticas foram implementadas pela diretoria da empresa.
+S: A diretoria da empresa implementou as novas políticas.
+
+C: A comida foi preparada pelo chef renomado do restaurante.
+S: O chef renomado do restaurante preparou a comida.
+
+C: O projeto foi desenvolvido pela equipe de engenheiros.
+S: A equipe de engenheiros desenvolveu o projeto.
+
+C: A casa foi construída pelo meu avô.
+S: Meu avô construiu a casa.
+
+C: O carro foi reparado pelo mecânico.
+S: O mecânico reparou o carro.
+
+C: Os convites foram enviados por e-mail.
+S: Enviamos os convites por e-mail.
+
+C: O livro foi escrito por um autor famoso.
+S: Um autor famoso escreveu o livro.
+
+C: O incêndio foi controlado pelos bombeiros.
+S: Os bombeiros controlaram o incêndio.
+
+C: O relatório foi elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborou o relatório.
+
+C: As decisões foram tomadas pelos diretores da empresa.
+S: Os diretores da empresa tomaram as decisões.
+
+C: O jantar foi preparado pela minha mãe.
+S: Minha mãe preparou o jantar.
+
+C: As roupas foram lavadas pela lavanderia.
+S: A lavanderia lavou as roupas.
+
+C: A música foi composta por um músico talentoso.
+S: Um músico talentoso compôs a música.
+
+C: Essa decisão deve ser tomada pelos diretores da empresa.
+S: Os diretores da empresa devem tomar essa decisão.
+
+C: O trabalho foi concluído pelos funcionários da empresa.
+S: Os funcionários da empresa concluíram o trabalho.
+
+C: A palestra será ministrada pelo professor de história.
+S: O professor de história ministrará a palestra.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: As fotografias foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotografias.
+
+C: O projeto será apresentado pelo grupo de estudantes.
+S: O grupo de estudantes apresentará o projeto.
+
+C: O poema foi escrito pelo famoso escritor.
+S: O famoso escritor escreveu o poema.
+
+C: As reformas foram feitas pela equipe de construção.
+S: A equipe de construção fez as reformas.
+
+C: A música será tocada pela banda de rock.
+S: A banda de rock tocará a música.
+
+C: As obras de arte foram criadas pelos artistas locais.
+S: Os artistas locais criaram as obras de arte.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A casa foi construída pelo empreiteiro no ano passado.
+S: O empreiteiro construiu a casa no ano passado.
+
+C: O carro foi consertado pelo mecânico especializado.
+S: O mecânico especializado consertou o carro.
+
+C: O prêmio foi entregue pela atriz famosa.
+S: A atriz famosa entregou o prêmio.
+
+C: O bolo foi assado pela confeiteira experiente.
+S: A confeiteira experiente assou o bolo.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O medicamento foi prescrito pelo médico competente.
+S: O médico competente prescreveu o medicamento.
+
+C: O problema foi solucionado pelo técnico especializado.
+S: O técnico especializado solucionou o problema.
+
+C: A música foi composta pelo compositor famoso.
+S: O compositor famoso compôs a música.
+
+C: O texto foi escrito pelo escritor renomado.
+S: O escritor renomado escreveu o texto.
+
+C: A casa foi construída pelo meu avô.
+S: Meu avô construiu a casa.
+
+C: O prêmio será entregue pelo presidente da empresa.
+S: O presidente da empresa entregará o prêmio.
+
+C: O livro foi escrito por uma autora renomada.
+S: Uma autora renomada escreveu o livro.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: A música foi composta pelo meu irmão.
+S: Meu irmão compôs a música.
+
+C: O projeto foi elaborado por uma equipe de especialistas.
+S: Uma equipe de especialistas elaborou o projeto.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O quadro foi pintado por um artista famoso.
+S: Um artista famoso pintou o quadro.
+
+C: O discurso foi proferido pelo presidente.
+S: O presidente proferiu o discurso.
+
+C: A festa foi organizada por minha irmã.
+S: Minha irmã organizou a festa.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: A casa foi construída pela equipe de arquitetos.
+S: A equipe de arquitetos construiu a casa.
+
+C: As regras foram estabelecidas pelo professor.
+S: O professor estabeleceu as regras.
+
+C: O presente foi comprado pela minha mãe.
+S: Minha mãe comprou o presente.
+
+C: A música foi composta pelo famoso pianista.
+S: O famoso pianista compôs a música.
+
+C: A porta foi fechada pelo segurança.
+S: O segurança fechou a porta.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: A comida foi preparada pelo chef experiente.
+S: O chef experiente preparou a comida.
+
+C: O filme foi dirigido pelo famoso cineasta.
+S: O famoso cineasta dirigiu o filme.
+
+C: As tarefas foram realizadas pela equipe de voluntários.
+S: A equipe de voluntários realizou as tarefas.
+
+C: A carta foi enviada por mim.
+S: Eu enviei a carta.
+
+C: A festa será organizada pelos meus amigos.
+S: Meus amigos organizarão a festa.
+
+C: O livro foi escrito por um autor famoso.
+S: Um autor famoso escreveu o livro.
+
+C: As informações foram repassadas pelos funcionários.
+S: Os funcionários repassaram as informações.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: Eu enviei a mensagem pelo aplicativo de mensagens.
+
+C: A cirurgia foi realizada pelo médico especialista.
+S: O médico especialista realizou a cirurgia.
+
+C: Os convites foram distribuídos pelos organizadores do evento.
+S: Os organizadores do evento distribuíram os convites.
+
+C: O documento foi assinado pelo responsável.
+S: O responsável assinou o documento.
+
+C: As reclamações foram feitas pelos clientes insatisfeitos.
+S: Os clientes insatisfeitos fizeram as reclamações.
+
+C: Essa casa foi construída pelos meus pais.
+S: Meus pais construíram essa casa.
+
+C: O livro será lido pelo professor na próxima aula.
+S: O professor lerá o livro na próxima aula.
+
+C: As regras são seguidas pelos alunos diligentemente.
+S: Os alunos seguem as regras diligentemente.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A decisão foi tomada pelos membros do conselho.
+S: Os membros do conselho tomaram a decisão.
+
+C: O trabalho será realizado pelos funcionários mais experientes.
+S: Os funcionários mais experientes realizarão o trabalho.
+
+C: O problema foi solucionado pelos engenheiros da equipe.
+S: Os engenheiros da equipe solucionaram o problema.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: Os convites foram enviados pelos organizadores do evento.
+S: Os organizadores do evento enviaram os convites.
+
+C: A situação foi resolvida pela equipe de suporte.
+S: A equipe de suporte resolveu a situação.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A casa foi construída pelo empreiteiro contratado.
+S: O empreiteiro contratado construiu a casa.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: Os segredos foram revelados pelo informante anônimo.
+S: O informante anônimo revelou os segredos.
+
+C: A mensagem foi enviada pelo remetente desconhecido.
+S: O remetente desconhecido enviou a mensagem.
+
+C: A música foi composta pelo músico famoso.
+S: O músico famoso compôs a música.
+
+C: O bolo foi assado pela confeiteira especializada.
+S: A confeiteira especializada assou o bolo.
+
+C: O trabalho foi feito pelos funcionários dedicados.
+S: Os funcionários dedicados fizeram o trabalho.
+
+C: A carta foi escrita pela amiga querida.
+S: A amiga querida escreveu a carta.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: Os ingressos foram comprados pelo casal.
+S: O casal comprou os ingressos.
+
+C: A carta foi escrita pela secretária.
+S: A secretária escreveu a carta.
+
+C: O bolo foi feito pela mãe.
+S: A mãe fez o bolo.
+
+C: A mensagem foi enviada pelo celular.
+S: O celular enviou a mensagem.
+
+C: As flores foram entregues pelo entregador.
+S: O entregador entregou as flores.
+
+C: O livro foi lido pela professora.
+S: A professora leu o livro.
+
+C: As fotos foram tiradas pelo fotógrafo.
+S: O fotógrafo tirou as fotos.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: O jantar foi preparado pelo chef.
+S: O chef preparou o jantar.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: A festa será organizada pela minha irmã mais velha.
+S: Minha irmã mais velha organizará a festa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A música foi composta por um famoso compositor.
+S: Um famoso compositor compôs a música.
+
+C: As compras foram feitas pela minha mãe no mercado.
+S: Minha mãe fez as compras no mercado.
+
+C: A pintura foi criada por um talentoso artista.
+S: Um talentoso artista criou a pintura.
+
+C: A casa será reformada pelo meu pai.
+S: Meu pai reformará a casa.
+
+C: O recado foi dado por um vizinho.
+S: Um vizinho deu o recado.
+
+C: A comida foi preparada pela minha avó.
+S: Minha avó preparou a comida.
+
+C: O trabalho foi realizado pelos funcionários da empresa.
+S: Os funcionários da empresa realizaram o trabalho.
+
+C: O livro foi escrito pela autora renomada.
+S: A autora renomada escreveu o livro.
+
+C: O carro será consertado pelo mecânico experiente.
+S: O mecânico experiente consertará o carro.
+
+C: A torta foi assada pela minha mãe.
+S: Minha mãe assou a torta.
+
+C: O relatório foi elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborou o relatório.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A música foi composta pelo renomado compositor clássico.
+S: O renomado compositor clássico compôs a música.
+
+C: As flores foram regadas pela minha avó.
+S: Minha avó regou as flores.
+
+C: A decisão será tomada pelo conselho de diretores.
+S: O conselho de diretores tomará a decisão.
+
+C: O prato foi preparado pelo renomado chef de cozinha.
+S: O renomado chef de cozinha preparou o prato.
+
+C: O problema foi resolvido pela equipe de suporte técnico.
+S: A equipe de suporte técnico resolveu o problema.
+
+C: A carta foi enviada por João.
+S: João enviou a carta.
+
+C: A porta foi aberta pelo vento.
+S: O vento abriu a porta.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O livro foi escrito pelo famoso escritor.
+S: O famoso escritor escreveu o livro.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: O gol foi marcado pelo jogador Neymar.
+S: O jogador Neymar marcou o gol.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: O evento foi organizado pelo comitê responsável.
+S: O comitê responsável organizou o evento.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A descoberta foi feita pelo cientista renomado.
+S: O cientista renomado fez a descoberta.
+
+C: O pacote foi entregue pelo carteiro.
+S: O carteiro entregou o pacote.
+
+C: A notícia foi divulgada pela mídia.
+S: A mídia divulgou a notícia.
+
+C: O trabalho será concluído pelos estudantes.
+S: Os estudantes concluirão o trabalho.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O prêmio foi ganho pela competidora.
+S: A competidora ganhou o prêmio.
+
+C: O almoço foi preparado pela cozinheira.
+S: A cozinheira preparou o almoço.
+
+C: As aulas são ministradas pelo professor.
+S: O professor ministra as aulas.
+
+C: Os convites foram enviados pela empresa.
+S: A empresa enviou os convites.
+
+C: As decisões são tomadas pelo diretor.
+S: O diretor toma as decisões.
+
+C: A encomenda foi entregue pelo correio.
+S: O correio entregou a encomenda.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O bolo foi feito pela minha avó.
+S: Minha avó fez o bolo.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A decisão foi tomada pela diretoria da empresa.
+S: A diretoria da empresa tomou a decisão.
+
+C: O problema foi solucionado pelos engenheiros.
+S: Os engenheiros solucionaram o problema.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A festa foi organizada pelos amigos.
+S: Os amigos organizaram a festa.
+
+C: O projeto foi elaborado pelos alunos.
+S: Os alunos elaboraram o projeto.
+
+C: A música foi composta pelo músico talentoso.
+S: O músico talentoso compôs a música.
+
+C: A pintura foi feita pelo artista famoso.
+S: O artista famoso fez a pintura.
+
+C: A casa foi construída pelos pedreiros.
+S: Os pedreiros construíram a casa.
+
+C: A carta foi escrita pela secretária.
+S: A secretária escreveu a carta.
+
+C: A comida foi preparada pelo chef de cozinha.
+S: O chef de cozinha preparou a comida.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A música foi composta pelo compositor talentoso.
+S: O compositor talentoso compôs a música.
+
+C: O bolo foi assado pela confeiteira habilidosa.
+S: A confeiteira habilidosa assou o bolo.
+
+C: A pesquisa foi realizada pelos cientistas renomados.
+S: Os cientistas renomados realizaram a pesquisa.
+
+C: O projeto foi executado pelos engenheiros competentes.
+S: Os engenheiros competentes executaram o projeto.
+
+C: O discurso foi proferido pelo político famoso.
+S: O político famoso proferiu o discurso.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: O livro será lançado pela editora no próximo mês.
+S: A editora lançará o livro no próximo mês.
+
+C: A carta foi escrita por minha avó.
+S: Minha avó escreveu a carta.
+
+C: As medidas foram tomadas pela administração do condomínio.
+S: A administração do condomínio tomou as medidas.
+
+C: O projeto de lei será discutido pelo Congresso Nacional.
+S: O Congresso Nacional discutirá o projeto de lei.
+
+C: As roupas foram lavadas pelo serviço de lavanderia.
+S: O serviço de lavanderia lavou as roupas.
+
+C: A culpa foi atribuída ao funcionário negligente.
+S: A empresa atribuiu a culpa ao funcionário negligente.
+
+C: O quadro foi pintado pelo famoso artista.
+S: O famoso artista pintou o quadro.
+
+C: O erro foi cometido pela equipe de produção.
+S: A equipe de produção cometeu o erro.
+
+C: A decisão foi tomada pelo comitê executivo.
+S: O comitê executivo tomou a decisão.
+
+C: A festa foi organizada pelos alunos do ensino médio.
+S: Os alunos do ensino médio organizaram a festa.
+
+C: O trabalho será feito pelo chefe de departamento.
+S: O chefe de departamento fará o trabalho.
+
+C: As flores foram colhidas pelo jardineiro.
+S: O jardineiro colheu as flores.
+
+C: Os convites foram enviados pelos organizadores do evento.
+S: Os organizadores do evento enviaram os convites.
+
+C: A viagem será realizada pelo motorista do ônibus.
+S: O motorista do ônibus realizará a viagem.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: O prato foi preparado pelo chef de cozinha.
+S: O chef de cozinha preparou o prato.
+
+C: A redação foi escrita pelo estudante em destaque.
+S: O estudante em destaque escreveu a redação.
+
+C: As decisões foram tomadas pelo comitê de direção.
+S: O comitê de direção tomou as decisões.
+
+C: A câmera foi consertada pelo técnico especializado.
+S: O técnico especializado consertou a câmera.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A reunião será organizada pelo departamento de RH.
+S: O departamento de RH organizará a reunião.
+
+C: O livro será escrito pelo autor premiado.
+S: O autor premiado escreverá o livro.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A viagem será planejada pelo agente de viagens.
+S: O agente de viagens planejará a viagem.
+
+C: O carro foi fabricado pela montadora famosa.
+S: A montadora famosa fabricou o carro.
+
+C: A música será composta pelo músico talentoso.
+S: O músico talentoso comporá a música.
+
+C: A festa foi decorada pela empresa de decoração.
+S: A empresa de decoração decorou a festa.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A mensagem será enviada pelo remetente do email.
+S: O remetente do email enviará a mensagem.
+
+C: O carro foi lavado pelo meu irmão.
+S: Meu irmão lavou o carro.
+
+C: A festa será organizada pela minha mãe.
+S: Minha mãe vai organizar a festa.
+
+C: O trabalho foi entregue pelo aluno mais tarde.
+S: O aluno entregou o trabalho mais tarde.
+
+C: As flores foram regadas pela vizinha.
+S: A vizinha regou as flores.
+
+C: A carta foi escrita pelo meu professor de inglês.
+S: Meu professor de inglês escreveu a carta.
+
+C: As mesas foram arrumadas pelo garçom.
+S: O garçom arrumou as mesas.
+
+C: O pacote foi enviado pela empresa de correio.
+S: A empresa de correio enviou o pacote.
+
+C: A comida foi preparada pela minha avó.
+S: Minha avó preparou a comida.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O computador foi consertado pelo técnico.
+S: O técnico consertou o computador.
+
+C: O plano de ação será executado pela equipe de marketing.
+S: A equipe de marketing executará o plano de ação.
+
+C: As medidas de segurança foram implementadas pelo departamento de TI.
+S: O departamento de TI implementou as medidas de segurança.
+
+C: O projeto será finalizado pela empresa contratada.
+S: A empresa contratada finalizará o projeto.
+
+C: A decisão será tomada pelo comitê de diretores.
+S: O comitê de diretores tomará a decisão.
+
+C: O relatório foi elaborado pelo analista de mercado.
+S: O analista de mercado elaborou o relatório.
+
+C: A responsabilidade será assumida pelo gerente de projetos.
+S: O gerente de projetos assumirá a responsabilidade.
+
+C: O livro foi escrito pelo famoso escritor brasileiro.
+S: O famoso escritor brasileiro escreveu o livro.
+
+C: A proposta será analisada pela comissão de avaliação.
+S: A comissão de avaliação analisará a proposta.
+
+C: As aulas foram canceladas pelo diretor da escola.
+S: O diretor da escola cancelou as aulas.
+
+C: O prêmio será entregue pelo apresentador do evento.
+S: O apresentador do evento entregará o prêmio.
+
+C: As provas foram corrigidas pelos professores.
+S: Os professores corrigiram as provas.
+
+C: O carro foi conduzido pelo motorista.
+S: O motorista conduziu o carro.
+
+C: A reunião será realizada pela equipe de vendas.
+S: A equipe de vendas realizará a reunião.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O projeto será finalizado pelo time de desenvolvimento.
+S: O time de desenvolvimento finalizará o projeto.
+
+C: O incidente foi reportado pelo funcionário.
+S: O funcionário reportou o incidente.
+
+C: A casa foi construída pelo arquiteto famoso.
+S: O arquiteto famoso construiu a casa.
+
+C: A dança foi ensaiada pela bailarina principal.
+S: A bailarina principal ensaiou a dança.
+
+C: A música foi composta pelo músico talentoso.
+S: O músico talentoso compôs a música.
+
+C: O envelope foi aberto pelo carteiro.
+S: O carteiro abriu o envelope.
+
+C: A mensagem foi enviada por email.
+S: Eu enviei a mensagem por email.
+
+C: A casa foi construída pelo meu pai.
+S: Meu pai construiu a casa.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: O quadro foi pintado por um artista talentoso.
+S: Um artista talentoso pintou o quadro.
+
+C: As paredes foram pintadas pelo pintor profissional.
+S: O pintor profissional pintou as paredes.
+
+C: O bolo foi assado pela confeiteira experiente.
+S: A confeiteira experiente assou o bolo.
+
+C: O carro foi consertado pelo mecânico habilidoso.
+S: O mecânico habilidoso consertou o carro.
+
+C: A carta foi escrita pelo presidente.
+S: O presidente escreveu a carta.
+
+C: O bolo foi assado pela minha mãe.
+S: Minha mãe assou o bolo.
+
+C: O livro foi escrito por um famoso autor.
+S: Um famoso autor escreveu o livro.
+
+C: O prêmio foi recebido pela equipe vencedora.
+S: A equipe vencedora recebeu o prêmio.
+
+C: A operação foi realizada pelo cirurgião.
+S: O cirurgião realizou a operação.
+
+C: O quadro foi pintado por um artista famoso.
+S: Um artista famoso pintou o quadro.
+
+C: A música foi composta por um talentoso compositor.
+S: Um talentoso compositor compôs a música.
+
+C: O projeto foi desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolveu o projeto.
+
+C: As janelas foram limpas pelo funcionário de manutenção.
+S: O funcionário de manutenção limpou as janelas.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O presente foi entregue pela minha mãe.
+S: Minha mãe entregou o presente.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: A casa foi pintada pelo pintor.
+S: O pintor pintou a casa.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: As roupas foram lavadas pela lavanderia.
+S: A lavanderia lavou as roupas.
+
+C: O desenho foi feito pelo artista talentoso.
+S: O artista talentoso fez o desenho.
+
+C: O café foi preparado pelo barista.
+S: O barista preparou o café.
+
+C: O relatório foi apresentado pelo funcionário.
+S: O funcionário apresentou o relatório.
+
+C: A casa foi construída pelo engenheiro.
+S: O engenheiro construiu a casa.
+
+C: A comida foi preparada pela minha mãe.
+S: Minha mãe preparou a comida.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O problema foi resolvido pelo especialista.
+S: O especialista resolveu o problema.
+
+C: O vídeo foi editado pelo profissional de edição.
+S: O profissional de edição editou o vídeo.
+
+C: A música foi composta pelo músico famoso.
+S: O músico famoso compôs a música.
+
+C: A árvore foi plantada pelo jardineiro.
+S: O jardineiro plantou a árvore.
+
+C: A utilização de máscaras é recomendada pela Organização Mundial da Saúde para prevenir a propagação do vírus.
+S: A Organização Mundial da Saúde recomenda a utilização de máscaras para prevenir a propagação do vírus.
+
+C: A cidade foi afetada por uma tempestade que causou danos em várias áreas.
+S: Uma tempestade afetou a cidade, causando danos em várias áreas.
+
+C: A decisão será tomada pelo comitê responsável pelo projeto.
+S: O comitê responsável pelo projeto tomará a decisão.
+
+C: A canção foi composta por um famoso músico brasileiro.
+S: Um famoso músico brasileiro compôs a canção.
+
+C: A negociação foi conduzida pelo representante sindical.
+S: O representante sindical conduziu a negociação.
+
+C: A comida é preparada pelo chef renomado do restaurante.
+S: O chef renomado do restaurante prepara a comida.
+
+C: O evento foi organizado pela empresa de eventos e marketing.
+S: A empresa de eventos e marketing organizou o evento.
+
+C: A mensagem foi enviada pela secretária do escritório.
+S: A secretária do escritório enviou a mensagem.
+
+C: As flores foram colhidas pelos agricultores locais.
+S: Os agricultores locais colheram as flores.
+
+C: O projeto foi desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolveu o projeto.
+
+C: A comida foi preparada pelo chef renomado do restaurante.
+S: O chef renomado do restaurante preparou a comida.
+
+C: A casa será reformada pelos proprietários.
+S: Os proprietários reformarão a casa.
+
+C: A mensagem foi enviada por ela através do aplicativo de mensagens.
+S: Ela enviou a mensagem através do aplicativo de mensagens.
+
+C: O presente foi comprado pela mãe da criança.
+S: A mãe da criança comprou o presente.
+
+C: As regras foram estabelecidas pelo governo.
+S: O governo estabeleceu as regras.
+
+C: O carro foi consertado pelo mecânico especializado.
+S: O mecânico especializado consertou o carro.
+
+C: As aulas são ministradas pelo professor de matemática.
+S: O professor de matemática ministra as aulas.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A música foi escrita pelo compositor talentoso.
+S: O compositor talentoso escreveu a música.
+
+C: A informação foi transmitida por ela durante a reunião.
+S: Ela transmitiu a informação durante a reunião.
+
+C: O livro será entregue pela bibliotecária.
+S: A bibliotecária entregará o livro.
+
+C: A festa foi organizada pelos meus amigos.
+S: Meus amigos organizaram a festa.
+
+C: O carro foi comprado pelo meu pai.
+S: Meu pai comprou o carro.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado preparará a comida.
+
+C: Os ingressos foram vendidos pelos voluntários.
+S: Os voluntários venderam os ingressos.
+
+C: As mensagens foram enviadas pelos clientes.
+S: Os clientes enviaram as mensagens.
+
+C: Os pratos serão lavados pela equipe de cozinha.
+S: A equipe de cozinha lavará os pratos.
+
+C: O trabalho foi feito pelo funcionário mais experiente.
+S: O funcionário mais experiente fez o trabalho.
+
+C: A roupa foi costurada pela costureira talentosa.
+S: A costureira talentosa costurou a roupa.
+
+C: As músicas foram compostas pelo famoso compositor.
+S: O famoso compositor compôs as músicas.
+
+C: A prova foi realizada pelos estudantes.
+S: Os estudantes realizaram a prova.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviou a mensagem.
+
+C: O projeto foi aprovado pela comissão de avaliação.
+S: A comissão de avaliação aprovou o projeto.
+
+C: O impasse foi resolvido pelos mediadores.
+S: Os mediadores resolveram o impasse.
+
+C: A sala de aula foi limpa pelos funcionários da escola.
+S: Os funcionários da escola limparam a sala de aula.
+
+C: A comida foi preparada pela cozinheira.
+S: A cozinheira preparou a comida.
+
+C: O evento foi organizado pelos voluntários.
+S: Os voluntários organizaram o evento.
+
+C: O crime foi investigado pelos detetives.
+S: Os detetives investigaram o crime.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: Essa carta será enviada pelo correio.
+S: O correio enviará essa carta.
+
+C: Os livros foram emprestados pela biblioteca.
+S: A biblioteca emprestou os livros.
+
+C: O pedido será entregue pelo entregador.
+S: O entregador entregará o pedido.
+
+C: A música foi composta pelo pianista famoso.
+S: O pianista famoso compôs a música.
+
+C: Um novo projeto será desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolverá um novo projeto.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: O trabalho será realizado pela empresa especializada.
+S: A empresa especializada realizará o trabalho.
+
+C: A peça de teatro foi escrita pelo renomado dramaturgo.
+S: O renomado dramaturgo escreveu a peça de teatro.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A casa foi construída pelo arquiteto famoso.
+S: O arquiteto famoso construiu a casa.
+
+C: O bolo foi feito pela confeiteira habilidosa.
+S: A confeiteira habilidosa fez o bolo.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: A carta foi enviada pela remetente anônima.
+S: A remetente anônima enviou a carta.
+
+C: O prato foi preparado pelo chef renomado.
+S: O chef renomado preparou o prato.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A música foi composta pelo compositor famoso.
+S: O compositor famoso compôs a música.
+
+C: O projeto foi realizado pela equipe de engenharia.
+S: A equipe de engenharia realizou o projeto.
+
+C: A casa foi vendida pelo corretor de imóveis.
+S: O corretor de imóveis vendeu a casa.
+
+C: O carro foi comprado pelo meu pai.
+S: Meu pai comprou o carro.
+
+C: A carta foi enviada pela empresa de correios.
+S: A empresa de correios enviou a carta.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: O bolo foi assado pela minha mãe.
+S: Minha mãe assou o bolo.
+
+C: A música foi composta pelo renomado compositor.
+S: O renomado compositor compôs a música.
+
+C: A casa foi construída pelo engenheiro experiente.
+S: O engenheiro experiente construiu a casa.
+
+C: O quadro foi criado pelo artista famoso.
+S: O artista famoso criou o quadro.
+
+C: Os presentes foram embrulhados pela loja de presentes.
+S: A loja de presentes embrulhou os presentes.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: O presente foi comprado pela minha mãe.
+S: Minha mãe comprou o presente.
+
+C: As decisões foram tomadas pelo comitê de diretores.
+S: O comitê de diretores tomou as decisões.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: O evento foi organizado pela equipe de eventos.
+S: A equipe de eventos organizou o evento.
+
+C: A música foi composta pelo talentoso músico.
+S: O talentoso músico compôs a música.
+
+C: O acidente foi causado pelo motorista negligente.
+S: O motorista negligente causou o acidente.
+
+C: O quarto foi limpo pela camareira.
+S: A camareira limpou o quarto.
+
+C: O relatório foi elaborado pelo analista de dados.
+S: O analista de dados elaborou o relatório.
+
+C: A pintura foi feita pelo artista famoso.
+S: O artista famoso fez a pintura.
+
+C: A carta foi escrita por mim.
+S: Eu escrevi a carta.
+
+C: A casa foi construída pelo meu pai.
+S: Meu pai construiu a casa.
+
+C: Os ingressos foram comprados pelo meu irmão.
+S: Meu irmão comprou os ingressos.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O jantar foi preparado pela minha mãe.
+S: Minha mãe preparou o jantar.
+
+C: A festa foi organizada pelo meu melhor amigo.
+S: Meu melhor amigo organizou a festa.
+
+C: A música foi composta pelo talentoso pianista.
+S: O talentoso pianista compôs a música.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: O prato foi servido pelo garçom eficiente.
+S: O garçom eficiente serviu o prato.
+
+C: A casa foi construída pelos operários.
+S: Os operários construíram a casa.
+
+C: A carta será enviada pelo correio.
+S: O correio enviará a carta.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: O acidente foi causado pelo motorista distraído.
+S: O motorista distraído causou o acidente.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado preparará a comida.
+
+C: O projeto foi aprovado pela diretoria.
+S: A diretoria aprovou o projeto.
+
+C: O livro foi escrito pelo autor premiado.
+S: O autor premiado escreveu o livro.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A pesquisa foi realizada pelos cientistas renomados.
+S: Os cientistas renomados realizaram a pesquisa.
+
+C: O filme foi dirigido pelo famoso diretor.
+S: O famoso diretor dirigiu o filme.
+
+C: O trabalho foi realizado pelos alunos da turma.
+S: Os alunos da turma realizaram o trabalho.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: As decisões são tomadas pela diretoria.
+S: A diretoria toma as decisões.
+
+C: A festa será organizada pelos amigos da aniversariante.
+S: Os amigos da aniversariante organizarão a festa.
+
+C: O texto foi revisado pelo professor de português.
+S: O professor de português revisou o texto.
+
+C: A encomenda será entregue pelos correios.
+S: Os correios entregarão a encomenda.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O evento foi cancelado pela organização.
+S: A organização cancelou o evento.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O projeto será implementado pela equipe de desenvolvimento.
+S: A equipe de desenvolvimento implementará o projeto.
+
+C: A carta foi enviada pela minha irmã.
+S: Minha irmã enviou a carta.
+
+C: A cidade foi devastada pela tempestade.
+S: A tempestade devastou a cidade.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: O bolo foi assado pela minha mãe.
+S: Minha mãe assou o bolo.
+
+C: A música foi composta pelo talentoso pianista.
+S: O talentoso pianista compôs a música.
+
+C: Os presentes foram embrulhados pela equipe de voluntários.
+S: A equipe de voluntários embrulhou os presentes.
+
+C: As instruções foram dadas pelo professor de matemática.
+S: O professor de matemática deu as instruções.
+
+C: As pinturas foram criadas pelo artista renomado.
+S: O artista renomado criou as pinturas.
+
+C: O discurso foi proferido pelo presidente da empresa.
+S: O presidente da empresa proferiu o discurso.
+
+C: A decisão foi tomada pela comissão de avaliação.
+S: A comissão de avaliação tomou a decisão.
+
+C: O livro foi escrito por J.K. Rowling.
+S: J.K. Rowling escreveu o livro.
+
+C: O acidente foi causado pelo motorista distraído.
+S: O motorista distraído causou o acidente.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: O prêmio foi entregue pela atriz famosa.
+S: A atriz famosa entregou o prêmio.
+
+C: O projeto foi concluído pela equipe de engenharia.
+S: A equipe de engenharia concluiu o projeto.
+
+C: O poema foi recitado pela aluna talentosa.
+S: A aluna talentosa recitou o poema.
+
+C: O filme foi dirigido pelo renomado diretor.
+S: O renomado diretor dirigiu o filme.
+
+C: O gol foi marcado pelo jogador habilidoso.
+S: O jogador habilidoso marcou o gol.
+
+C: A descoberta foi feita pelo cientista renomado.
+S: O cientista renomado fez a descoberta.
+
+C: A pesquisa foi financiada pelo governo.
+S: O governo financiou a pesquisa.
+
+C: O carro foi vendido pelo proprietário.
+S: O proprietário vendeu o carro.
+
+C: A reunião foi marcada pelo gerente.
+S: O gerente marcou a reunião.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O projeto foi apresentado pelo engenheiro responsável.
+S: O engenheiro responsável apresentou o projeto.
+
+C: O furto foi descoberto pela polícia.
+S: A polícia descobriu o furto.
+
+C: A tela foi pintada pelo artista talentoso.
+S: O artista talentoso pintou a tela.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A peça de teatro foi dirigida pelo renomado diretor.
+S: O renomado diretor dirigiu a peça de teatro.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A declaração foi feita pelo político em seu discurso.
+S: O político fez a declaração em seu discurso.
+
+C: O acidente foi causado pelo motorista distraído.
+S: O motorista distraído causou o acidente.
+
+C: A solução será encontrada pelos especialistas em tecnologia.
+S: Os especialistas em tecnologia encontrarão a solução.
+
+C: A declaração foi feita pelo presidente da empresa.
+S: O presidente da empresa fez a declaração.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado preparará a comida.
+
+C: O problema foi resolvido pelo time de suporte.
+S: O time de suporte resolveu o problema.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A música foi composta pelo compositor talentoso.
+S: O compositor talentoso compôs a música.
+
+C: A pesquisa foi conduzida pelos cientistas renomados.
+S: Os cientistas renomados conduziram a pesquisa.
+
+C: A mensagem foi transmitida pelo telefone celular.
+S: O telefone celular transmitiu a mensagem.
+
+C: O prédio foi construído pelo engenheiro habilidoso.
+S: O engenheiro habilidoso construiu o prédio.
+
+C: A pesquisa será conduzida pelos cientistas do laboratório.
+S: Os cientistas do laboratório conduzirão a pesquisa.
+
+C: A carta foi escrita pelo diretor da escola.
+S: O diretor da escola escreveu a carta.
+
+C: O filme foi produzido pela empresa de cinema internacional.
+S: A empresa de cinema internacional produziu o filme.
+
+C: A pintura foi feita pelo renomado artista plástico.
+S: O renomado artista plástico fez a pintura.
+
+C: Os convites foram enviados pelos organizadores do evento.
+S: Os organizadores do evento enviaram os convites.
+
+C: O livro foi escrito pelo autor premiado.
+S: O autor premiado escreveu o livro.
+
+C: A declaração foi feita pelo porta-voz da empresa.
+S: O porta-voz da empresa fez a declaração.
+
+C: A comida foi preparada pelos chefs renomados.
+S: Os chefs renomados prepararam a comida.
+
+C: A estrada foi construída pela empresa de construção civil.
+S: A empresa de construção civil construiu a estrada.
+
+C: O show foi organizado pelos produtores de eventos.
+S: Os produtores de eventos organizaram o show.
+
+C: O livro será lido por mim.
+S: Eu irei ler o livro.
+
+C: A casa será vendida pelo proprietário.
+S: O proprietário irá vender a casa.
+
+C: O bolo foi feito pela minha mãe.
+S: Minha mãe fez o bolo.
+
+C: O relatório será analisado pela equipe de gestão.
+S: A equipe de gestão irá analisar o relatório.
+
+C: A janela foi quebrada pelo vento.
+S: O vento quebrou a janela.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: O carro será consertado pelo mecânico.
+S: O mecânico irá consertar o carro.
+
+C: A mensagem foi escrita por mim.
+S: Eu escrevi a mensagem.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado irá preparar a comida.
+
+C: O projeto foi concluído pela equipe de engenharia.
+S: A equipe de engenharia concluiu o projeto.
+
+C: O carro foi roubado pelo ladrão.
+S: O ladrão roubou o carro.
+
+C: A carta foi escrita pela professora.
+S: A professora escreveu a carta.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O incêndio foi controlado pelos bombeiros.
+S: Os bombeiros controlaram o incêndio.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A casa foi construída pela equipe de construção.
+S: A equipe de construção construiu a casa.
+
+C: A decisão foi tomada pelos diretores da empresa.
+S: Os diretores da empresa tomaram a decisão.
+
+C: A janela foi quebrada pela criança.
+S: A criança quebrou a janela.
+
+C: O bolo foi assado pela confeiteira.
+S: A confeiteira assou o bolo.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: O carro foi vendido pelo dono anterior.
+S: O dono anterior vendeu o carro.
+
+C: Os livros serão entregues pela livraria amanhã.
+S: A livraria entregará os livros amanhã.
+
+C: O projeto foi desenvolvido pelos engenheiros da empresa.
+S: Os engenheiros da empresa desenvolveram o projeto.
+
+C: O crime foi cometido pelo suspeito na semana passada.
+S: O suspeito cometeu o crime na semana passada.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A comida foi preparada pelo chef do restaurante.
+S: O chef do restaurante preparou a comida.
+
+C: Os presentes foram trocados pelos irmãos no Natal.
+S: Os irmãos trocaram os presentes no Natal.
+
+C: A música foi composta pela talentosa cantora.
+S: A talentosa cantora compôs a música.
+
+C: Os convites foram enviados pelos organizadores da festa.
+S: Os organizadores da festa enviaram os convites.
+
+C: O problema foi resolvido pelo time de suporte técnico.
+S: O time de suporte técnico resolveu o problema.
+
+C: A carta foi escrita por Maria.
+S: Maria escreveu a carta.
+
+C: Os livros foram emprestados pelo professor.
+S: O professor emprestou os livros.
+
+C: A festa foi organizada pelos meus amigos.
+S: Meus amigos organizaram a festa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: O filme foi dirigido por Steven Spielberg.
+S: Steven Spielberg dirigiu o filme.
+
+C: As regras foram estabelecidas pelos organizadores.
+S: Os organizadores estabeleceram as regras.
+
+C: O projeto foi aprovado pela diretoria.
+S: A diretoria aprovou o projeto.
+
+C: O prêmio foi entregue pela atriz principal.
+S: A atriz principal entregou o prêmio.
+
+C: A casa foi vendida pela imobiliária.
+S: A imobiliária vendeu a casa.
+
+C: O livro será entregue pelos correios.
+S: Os correios entregarão o livro.
+
+C: A música foi composta por um jovem talentoso.
+S: Um jovem talentoso compôs a música.
+
+C: O trabalho será finalizado pela equipe amanhã.
+S: A equipe finalizará o trabalho amanhã.
+
+C: A carta foi escrita pelo advogado.
+S: O advogado escreveu a carta.
+
+C: A casa foi construída pelo meu pai.
+S: Meu pai construiu a casa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A aula será ministrada pelo professor.
+S: O professor ministrará a aula.
+
+C: A festa será organizada pela minha amiga.
+S: Minha amiga organizará a festa.
+
+C: O problema foi resolvido pelo engenheiro.
+S: O engenheiro resolveu o problema.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado preparará a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A festa foi organizada pelos amigos.
+S: Os amigos organizaram a festa.
+
+C: A casa foi pintada pelo pintor.
+S: O pintor pintou a casa.
+
+C: O dinheiro foi encontrado pelo policial.
+S: O policial encontrou o dinheiro.
+
+C: As plantas foram regadas pela vizinha.
+S: A vizinha regou as plantas.
+
+C: Os presentes foram embrulhados pela funcionária.
+S: A funcionária embrulhou os presentes.
+
+C: A aula foi ministrada pelo professor.
+S: O professor ministrou a aula.
+
+C: O livro foi escrito pelo autor.
+S: O autor escreveu o livro.
+
+C: Os convites foram enviados pelo casal.
+S: O casal enviou os convites.
+
+C: A comida foi preparada pelo chef.
+S: O chef preparou a comida.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: O livro foi escrito pela autora famosa.
+S: A autora famosa escreveu o livro.
+
+C: O bolo foi assado pela confeiteira habilidosa.
+S: A confeiteira habilidosa assou o bolo.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A música foi composta pelo compositor renomado.
+S: O compositor renomado compôs a música.
+
+C: As roupas foram costuradas pela costureira experiente.
+S: A costureira experiente costurou as roupas.
+
+C: O carro foi consertado pelo mecânico especializado.
+S: O mecânico especializado consertou o carro.
+
+C: A torta foi preparada pela cozinheira habilidosa.
+S: A cozinheira habilidosa preparou a torta.
+
+C: O documento foi assinado pelo presidente da empresa.
+S: O presidente da empresa assinou o documento.
+
+C: A festa foi organizada pelos amigos do aniversariante.
+S: Os amigos do aniversariante organizaram a festa.
+
+C: A casa foi construída pelo pai.
+S: O pai construiu a casa.
+
+C: O filme será lançado pela produtora no próximo mês.
+S: A produtora lançará o filme no próximo mês.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A reunião será organizada pela secretária.
+S: A secretária organizará a reunião.
+
+C: A festa foi organizada pela equipe de eventos.
+S: A equipe de eventos organizou a festa.
+
+C: Os livros foram escritos pelo autor famoso.
+S: O autor famoso escreveu os livros.
+
+C: O trabalho será entregue pelo aluno mais dedicado.
+S: O aluno mais dedicado entregará o trabalho.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: As compras foram feitas pelo meu irmão.
+S: Meu irmão fez as compras.
+
+C: A carta foi enviada pelo correio.
+S: Eu enviei a carta pelo correio.
+
+C: O projeto será concluído pelo grupo de engenheiros até o final do mês.
+S: O grupo de engenheiros concluirá o projeto até o final do mês.
+
+C: A decisão foi tomada pela diretoria após análise minuciosa dos relatórios financeiros.
+S: A diretoria tomou a decisão após análise minuciosa dos relatórios financeiros.
+
+C: A festa será organizada pelos alunos da turma do terceiro ano.
+S: Os alunos da turma do terceiro ano organizarão a festa.
+
+C: O acidente foi causado pelo motorista negligente que estava distraído ao volante.
+S: O motorista negligente, que estava distraído ao volante, causou o acidente.
+
+C: A carta foi escrita pelo autor renomado e poetisa famosa.
+S: O autor renomado e poetisa famosa escreveu a carta.
+
+C: As regras foram estabelecidas pela organização responsável pelo evento.
+S: A organização responsável pelo evento estabeleceu as regras.
+
+C: O filme é dirigido pelo renomado diretor de cinema.
+S: O renomado diretor de cinema dirige o filme.
+
+C: O novo produto será lançado pela empresa líder no mercado.
+S: A empresa líder no mercado lançará o novo produto.
+
+C: As instruções foram dadas pelo professor experiente.
+S: O professor experiente deu as instruções.
+
+C: A música foi composta pelo famoso compositor clássico.
+S: O famoso compositor clássico compôs a música.
+
+C: O carro foi lavado pelo meu irmão.
+S: Meu irmão lavou o carro.
+
+C: A casa foi construída pelos operários.
+S: Os operários construíram a casa.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: As flores foram regadas pela minha mãe.
+S: Minha mãe regou as flores.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O barulho foi causado pelos vizinhos.
+S: Os vizinhos causaram o barulho.
+
+C: A torta foi assada pela minha avó.
+S: Minha avó assou a torta.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: O crime foi cometido pelo suspeito.
+S: O suspeito cometeu o crime.
+
+C: O desafio foi aceito pelo meu amigo.
+S: Meu amigo aceitou o desafio.
+
+C: O carro foi roubado pelo ladrão.
+S: O ladrão roubou o carro.
+
+C: O bolo foi feito pela minha mãe.
+S: Minha mãe fez o bolo.
+
+C: A casa foi construída pelo arquiteto.
+S: O arquiteto construiu a casa.
+
+C: A música foi composta pelo compositor famoso.
+S: O compositor famoso compôs a música.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A cidade foi fundada pelos colonizadores portugueses.
+S: Os colonizadores portugueses fundaram a cidade.
+
+C: O café foi servido pelo garçom simpático.
+S: O garçom simpático serviu o café.
+
+C: O livro foi escrito pela autora renomada.
+S: A autora renomada escreveu o livro.
+
+C: Os documentos foram entregues pelo correio.
+S: O correio entregou os documentos.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: A festa de aniversário foi organizada pelos amigos.
+S: Os amigos organizaram a festa de aniversário.
+
+C: A frase foi traduzida pelo professor de inglês.
+S: O professor de inglês traduziu a frase.
+
+C: A declaração foi assinada pelos membros do conselho.
+S: Os membros do conselho assinaram a declaração.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviou a mensagem.
+
+C: O projeto foi executado pelo engenheiro responsável.
+S: O engenheiro responsável executou o projeto.
+
+C: O problema foi solucionado pelo técnico especializado.
+S: O técnico especializado solucionou o problema.
+
+C: O café da manhã foi preparado pela mãe.
+S: A mãe preparou o café da manhã.
+
+C: A palestra será ministrada pelo professor renomado.
+S: O professor renomado ministrará a palestra.
+
+C: Os livros foram comprados pela biblioteca municipal.
+S: A biblioteca municipal comprou os livros.
+
+C: A festa será organizada pelos estudantes da universidade.
+S: Os estudantes da universidade organizarão a festa.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: O filme será gravado pelos atores famosos.
+S: Os atores famosos gravarão o filme.
+
+C: A vitória foi conquistada pelo time adversário.
+S: O time adversário conquistou a vitória.
+
+C: O trabalho será concluído pelo grupo de pesquisadores.
+S: O grupo de pesquisadores concluirá o trabalho.
+
+C: O presente foi escolhido pela mãe da noiva.
+S: A mãe da noiva escolheu o presente.
+
+C: A decisão será tomada pelo comitê executivo.
+S: O comitê executivo tomará a decisão.
+
+C: A mensagem foi escrita pelo autor renomado.
+S: O autor renomado escreveu a mensagem.
+
+C: As regras foram estabelecidas pelo treinador.
+S: O treinador estabeleceu as regras.
+
+C: As mensagens foram enviadas pela equipe de marketing.
+S: A equipe de marketing enviou as mensagens.
+
+C: O projeto foi finalizado pela equipe de desenvolvimento.
+S: A equipe de desenvolvimento finalizou o projeto.
+
+C: O relatório foi produzido pelo analista.
+S: O analista produziu o relatório.
+
+C: As medidas de segurança foram implementadas pelo departamento de TI.
+S: O departamento de TI implementou as medidas de segurança.
+
+C: O contrato foi assinado pelo cliente.
+S: O cliente assinou o contrato.
+
+C: As despesas foram calculadas pela contabilidade.
+S: A contabilidade calculou as despesas.
+
+C: A proposta foi revisada pelo chefe.
+S: O chefe revisou a proposta.
+
+C: O problema foi resolvido pela equipe de suporte.
+S: A equipe de suporte resolveu o problema.
+
+C: O orçamento foi aprovado pelo diretor financeiro.
+S: O diretor financeiro aprovou o orçamento.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A casa foi comprada pelos meus pais.
+S: Meus pais compraram a casa.
+
+C: A mensagem foi enviada pelo meu amigo.
+S: Meu amigo enviou a mensagem.
+
+C: O bolo foi feito pela minha avó.
+S: Minha avó fez o bolo.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: O prêmio foi concedido ao vencedor do concurso.
+S: O vencedor do concurso recebeu o prêmio.
+
+C: A casa foi vendida pela imobiliária.
+S: A imobiliária vendeu a casa.
+
+C: O problema foi solucionado pela equipe de suporte.
+S: A equipe de suporte solucionou o problema.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O livro foi escrito por um autor renomado.
+S: Um autor renomado escreveu o livro.
+
+C: O presente foi comprado pela minha mãe.
+S: Minha mãe comprou o presente.
+
+C: A comida será preparada pelos chefs do restaurante.
+S: Os chefs do restaurante irão preparar a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A festa foi organizada pelos meus amigos.
+S: Meus amigos organizaram a festa.
+
+C: O relatório foi elaborado pela equipe de marketing.
+S: A equipe de marketing elaborou o relatório.
+
+C: As aulas são ministradas pelos professores.
+S: Os professores ministram as aulas.
+
+C: O jantar foi servido pelos garçons.
+S: Os garçons serviram o jantar.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O filme foi dirigido pelo renomado diretor.
+S: O renomado diretor dirigiu o filme.
+
+C: O carro foi estacionado pelo motorista no estacionamento.
+S: O motorista estacionou o carro no estacionamento.
+
+C: A mensagem foi transmitida pelo professor durante a aula.
+S: O professor transmitiu a mensagem durante a aula.
+
+C: O quadro foi pintado pelo artista em seu ateliê.
+S: O artista pintou o quadro em seu ateliê.
+
+C: A comida foi preparada pela chef famosa no restaurante.
+S: A chef famosa preparou a comida no restaurante.
+
+C: A música foi composta pelo pianista talentoso para o concerto.
+S: O pianista talentoso compôs a música para o concerto.
+
+C: O prédio foi construído pelo engenheiro renomado na cidade.
+S: O engenheiro renomado construiu o prédio na cidade.
+
+C: O livro foi escrito pelo autor famoso na década passada.
+S: O autor famoso escreveu o livro na década passada.
+
+C: A ponte foi projetada pelo arquiteto premiado no concurso.
+S: O arquiteto premiado projetou a ponte no concurso.
+
+C: A foto foi tirada pelo fotógrafo profissional durante o evento.
+S: O fotógrafo profissional tirou a foto durante o evento.
+
+C: A carta foi enviada pelo correio para o destinatário.
+S: O destinatário recebeu a carta pelo correio.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: Os ingressos foram comprados pelos meus amigos.
+S: Meus amigos compraram os ingressos.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A casa foi construída pelos pedreiros.
+S: Os pedreiros construíram a casa.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O bolo foi assado pela confeiteira experiente.
+S: A confeiteira experiente assou o bolo.
+
+C: A apresentação foi realizada pelos alunos da escola.
+S: Os alunos da escola realizaram a apresentação.
+
+C: O relatório foi elaborado pelos profissionais da empresa.
+S: Os profissionais da empresa elaboraram o relatório.
+
+C: A decisão foi tomada pelo comitê.
+S: O comitê tomou a decisão.
+
+C: O carro será consertado pelo mecânico amanhã.
+S: O mecânico consertará o carro amanhã.
+
+C: A comida foi preparada pela mãe.
+S: A mãe preparou a comida.
+
+C: O filme será exibido no cinema da cidade.
+S: O cinema da cidade exibirá o filme.
+
+C: O trabalho foi entregue pelo aluno ao professor.
+S: O aluno entregou o trabalho ao professor.
+
+C: O livro foi escrito pelo autor.
+S: O autor escreveu o livro.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A porta foi aberta pelo chaveiro.
+S: O chaveiro abriu a porta.
+
+C: A casa foi vendida pelo proprietário.
+S: O proprietário vendeu a casa.
+
+C: A música foi composta pelo pianista.
+S: O pianista compôs a música.
+
+C: O bolo de aniversário foi feito pela mãe.
+S: A mãe fez o bolo de aniversário.
+
+C: A carta foi escrita pelo meu melhor amigo.
+S: Meu melhor amigo escreveu a carta.
+
+C: A decisão foi tomada pelos diretores da empresa.
+S: Os diretores da empresa tomaram a decisão.
+
+C: O livro foi emprestado pela biblioteca da escola.
+S: A biblioteca da escola emprestou o livro.
+
+C: A festa de aniversário foi organizada pelos pais da criança.
+S: Os pais da criança organizaram a festa de aniversário.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O jantar foi preparado pelo chef de cozinha.
+S: O chef de cozinha preparou o jantar.
+
+C: A porta foi aberta pela empregada.
+S: A empregada abriu a porta.
+
+C: O poema foi escrito pelo famoso poeta.
+S: O famoso poeta escreveu o poema.
+
+C: A pintura foi feita pelo renomado artista.
+S: O renomado artista fez a pintura.
+
+C: A casa foi construída pelo grupo de engenheiros.
+S: O grupo de engenheiros construiu a casa.
+
+C: O carro foi reparado pelo mecânico.
+S: O mecânico reparou o carro.
+
+C: A comida foi preparada pela minha mãe.
+S: Minha mãe preparou a comida.
+
+C: O prédio foi construído pela empresa de engenharia.
+S: A empresa de engenharia construiu o prédio.
+
+C: O relatório foi redigido pelo estagiário.
+S: O estagiário redigiu o relatório.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A casa foi pintada pelo pintor profissional.
+S: O pintor profissional pintou a casa.
+
+C: O trabalho foi realizado pelo time de especialistas.
+S: O time de especialistas realizou o trabalho.
+
+C: O jantar foi preparado pelo chef renomado.
+S: O chef renomado preparou o jantar.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: O discurso foi proferido pelo presidente do clube.
+S: O presidente do clube proferiu o discurso.
+
+C: A carta será enviada pelo carteiro.
+S: O carteiro enviará a carta.
+
+C: O crime foi cometido pelo suspeito.
+S: O suspeito cometeu o crime.
+
+C: O livro será lido pelo professor.
+S: O professor lerá o livro.
+
+C: A música foi composta pelo Mozart.
+S: O Mozart compôs a música.
+
+C: A festa foi organizada pela empresa de eventos.
+S: A empresa de eventos organizou a festa.
+
+C: O jantar será preparado pelo chef renomado.
+S: O chef renomado preparará o jantar.
+
+C: A casa foi construída pelo arquiteto famoso.
+S: O arquiteto famoso construiu a casa.
+
+C: O relatório será elaborado pelo departamento de finanças.
+S: O departamento de finanças elaborará o relatório.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: O projeto será executado pelo engenheiro responsável.
+S: O engenheiro responsável executará o projeto.
+
+C: Os móveis foram entregues pelo fornecedor na semana passada.
+S: O fornecedor entregou os móveis na semana passada.
+
+C: O livro foi escrito por um autor renomado.
+S: Um autor renomado escreveu o livro.
+
+C: As advertências foram emitidas pelo professor aos alunos indisciplinados.
+S: O professor emitiu as advertências aos alunos indisciplinados.
+
+C: A casa foi construída pela empresa de construção civil.
+S: A empresa de construção civil construiu a casa.
+
+C: As mensagens foram enviadas pelo celular.
+S: O celular enviou as mensagens.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: O acidente foi testemunhado por várias pessoas.
+S: Várias pessoas testemunharam o acidente.
+
+C: As decisões foram tomadas pelo departamento de gerência.
+S: O departamento de gerência tomou as decisões.
+
+C: Os convites foram enviados pela empresa organizadora do evento.
+S: A empresa organizadora do evento enviou os convites.
+
+C: As músicas foram compostas pelo artista famoso.
+S: O artista famoso compôs as músicas.
+
+C: A música foi escrita por Mozart.
+S: Mozart escreveu a música.
+
+C: O presente foi entregue por João.
+S: João entregou o presente.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: O relatório será apresentado pela equipe de projetos.
+S: A equipe de projetos apresentará o relatório.
+
+C: Os detalhes foram informados pela secretária.
+S: A secretária informou os detalhes.
+
+C: A prova foi corrigida pelo professor.
+S: O professor corrigiu a prova.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O acidente foi presenciado por várias pessoas.
+S: Várias pessoas presenciaram o acidente.
+
+C: A peça será encenada pelos atores famosos.
+S: Os atores famosos encenarão a peça.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O carro foi vendido pelo dono original.
+S: O dono original vendeu o carro.
+
+C: As instruções foram dadas pelo professor.
+S: O professor deu as instruções.
+
+C: A música foi escrita pela banda de rock.
+S: A banda de rock escreveu a música.
+
+C: As flores foram regadas pela jardineira.
+S: A jardineira regou as flores.
+
+C: O castelo foi construído pelos arquitetos renomados.
+S: Os arquitetos renomados construíram o castelo.
+
+C: A decoração foi feita pelo designer de interiores.
+S: O designer de interiores fez a decoração.
+
+C: O bolo foi assado pela confeiteira talentosa.
+S: A confeiteira talentosa assou o bolo.
+
+C: A pintura foi feita pelo artista famoso.
+S: O artista famoso fez a pintura.
+
+C: A casa foi limpa pela empregada doméstica.
+S: A empregada doméstica limpou a casa.
+
+C: O contrato foi assinado pelo advogado.
+S: O advogado assinou o contrato.
+
+C: A carta foi escrita por Maria.
+S: Maria escreveu a carta.
+
+C: Os presentes foram entregues pelos Correios.
+S: Os Correios entregaram os presentes.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O show foi cancelado pela banda.
+S: A banda cancelou o show.
+
+C: O projeto foi aprovado pela diretoria.
+S: A diretoria aprovou o projeto.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A viagem foi planejada pelo guia turístico.
+S: O guia turístico planejou a viagem.
+
+C: As músicas foram produzidas pelo produtor musical famoso.
+S: O produtor musical famoso produziu as músicas.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A festa será organizada pelos amigos de Pedro.
+S: Os amigos de Pedro irão organizar a festa.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A casa foi comprada pela família Silva.
+S: A família Silva comprou a casa.
+
+C: A comida foi preparada pela chef de cozinha.
+S: A chef de cozinha preparou a comida.
+
+C: Os ingressos foram vendidos pela bilheteria do teatro.
+S: A bilheteria do teatro vendeu os ingressos.
+
+C: O apartamento foi alugado pelo estudante.
+S: O estudante alugou o apartamento.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: As camisas foram lavadas pela lavanderia.
+S: A lavanderia lavou as camisas.
+
+C: Os documentos foram assinados pelo advogado.
+S: O advogado assinou os documentos.
+
+C: A carta foi escrita pelo meu amigo.
+S: Meu amigo escreveu a carta.
+
+C: Os presentes foram entregues pelos funcionários da empresa.
+S: Os funcionários da empresa entregaram os presentes.
+
+C: A decisão será tomada pela comissão.
+S: A comissão tomará a decisão.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: As refeições são preparadas pelos chefs do restaurante.
+S: Os chefs do restaurante preparam as refeições.
+
+C: O quadro foi pintado pelo renomado artista.
+S: O renomado artista pintou o quadro.
+
+C: A música foi composta pelo talentoso músico.
+S: O talentoso músico compôs a música.
+
+C: O computador foi consertado pelo técnico de informática.
+S: O técnico de informática consertou o computador.
+
+C: O bolo foi assado pela habilidosa confeiteira.
+S: A habilidosa confeiteira assou o bolo.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: Esse livro foi escrito por um autor famoso.
+S: Um autor famoso escreveu esse livro.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: Os convites foram enviados pela equipe de organização.
+S: A equipe de organização enviou os convites.
+
+C: A mensagem foi transmitida pelo sistema de comunicação.
+S: O sistema de comunicação transmitiu a mensagem.
+
+C: O prêmio será entregue pelo apresentador durante a cerimônia.
+S: O apresentador entregará o prêmio durante a cerimônia.
+
+C: O projeto foi desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolveu o projeto.
+
+C: O recado foi deixado pelo vizinho.
+S: O vizinho deixou o recado.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: A música foi composta pelo músico famoso.
+S: O músico famoso compôs a música.
+
+C: A casa será vendida pelos proprietários.
+S: Os proprietários venderão a casa.
+
+C: O livro foi escrito por um autor famoso.
+S: Um autor famoso escreveu o livro.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado preparará a comida.
+
+C: A janela foi quebrada pelo vento forte.
+S: O vento forte quebrou a janela.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: A camiseta foi lavada pela mãe.
+S: A mãe lavou a camiseta.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: O acidente foi causado pelo motorista imprudente.
+S: O motorista imprudente causou o acidente.
+
+C: A mensagem foi enviada pelo celular.
+S: O celular enviou a mensagem.
+
+C: A carta foi escrita pela secretária.
+S: A secretária escreveu a carta.
+
+C: A comida será preparada pela cozinheira.
+S: A cozinheira preparará a comida.
+
+C: Os documentos foram guardados pelo assistente.
+S: O assistente guardou os documentos.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A música foi composta pelo músico famoso.
+S: O músico famoso compôs a música.
+
+C: A mensagem será enviada pelo correio.
+S: O correio enviará a mensagem.
+
+C: A casa foi pintada pelo pintor profissional.
+S: O pintor profissional pintou a casa.
+
+C: A tarefa foi realizada pelo aluno.
+S: O aluno realizou a tarefa.
+
+C: A festa será organizada pelo time de organização.
+S: O time de organização organizará a festa.
+
+C: O filme foi dirigido pelo diretor renomado.
+S: O diretor renomado dirigiu o filme.
+
+C: A decisão foi tomada pela equipe de gerentes.
+S: A equipe de gerentes tomou a decisão.
+
+C: A porta foi aberta pelo meu irmão.
+S: Meu irmão abriu a porta.
+
+C: O relatório será enviado pela equipe de vendas.
+S: A equipe de vendas enviará o relatório.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado preparará a comida.
+
+C: A roupa foi costurada pela minha avó.
+S: Minha avó costurou a roupa.
+
+C: A mensagem foi enviada pelo meu amigo.
+S: Meu amigo enviou a mensagem.
+
+C: O bolo será assado pela minha mãe.
+S: Minha mãe assará o bolo.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O trabalho será finalizado pelo meu colega.
+S: Meu colega finalizará o trabalho.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: As músicas foram escritas pelo compositor.
+S: O compositor escreveu as músicas.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: Os relatórios foram analisados pela equipe de especialistas.
+S: A equipe de especialistas analisou os relatórios.
+
+C: A casa foi decorada pela designer de interiores.
+S: A designer de interiores decorou a casa.
+
+C: O bolo foi assado pela confeiteira.
+S: A confeiteira assou o bolo.
+
+C: Os documentos foram arquivados pelo assistente administrativo.
+S: O assistente administrativo arquivou os documentos.
+
+C: A aula foi ministrada pelo professor.
+S: O professor ministrou a aula.
+
+C: Os presentes foram embrulhados pela loja.
+S: A loja embrulhou os presentes.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: O prêmio foi entregue pela atriz famosa.
+S: A atriz famosa entregou o prêmio.
+
+C: A carta foi enviada pela empresa de correios.
+S: A empresa de correios enviou a carta.
+
+C: O bolo foi assado pela confeiteira.
+S: A confeiteira assou o bolo.
+
+C: O anúncio foi feito pelo porta-voz da empresa.
+S: O porta-voz da empresa fez o anúncio.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: O problema foi resolvido pela equipe de suporte técnico.
+S: A equipe de suporte técnico resolveu o problema.
+
+C: A notícia foi divulgada pela jornalista no telejornal.
+S: A jornalista divulgou a notícia no telejornal.
+
+C: O quadro foi pintado pelo renomado artista.
+S: O renomado artista pintou o quadro.
+
+C: A descoberta foi realizada pelos cientistas.
+S: Os cientistas realizaram a descoberta.
+
+C: A casa foi construída pelos operários da obra.
+S: Os operários da obra construíram a casa.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A comida foi preparada pelo chef experiente.
+S: O chef experiente preparou a comida.
+
+C: Os documentos foram analisados pelos funcionários da empresa.
+S: Os funcionários da empresa analisaram os documentos.
+
+C: A música foi composta pelo talentoso compositor.
+S: O talentoso compositor compôs a música.
+
+C: O problema foi resolvido pelos técnicos do suporte.
+S: Os técnicos do suporte resolveram o problema.
+
+C: O carro foi consertado pelo mecânico especializado.
+S: O mecânico especializado consertou o carro.
+
+C: A mensagem foi enviada pelo remetente para o destinatário.
+S: O remetente enviou a mensagem para o destinatário.
+
+C: A porta foi aberta pelo carteiro.
+S: O carteiro abriu a porta.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: O carro foi lavado pelo meu pai.
+S: Meu pai lavou o carro.
+
+C: A casa foi vendida pela imobiliária.
+S: A imobiliária vendeu a casa.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O livro foi escrito pelo famoso escritor.
+S: O famoso escritor escreveu o livro.
+
+C: Os presentes foram embrulhados pela minha mãe.
+S: Minha mãe embrulhou os presentes.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: As cartas foram enviadas pelos correios.
+S: Os correios enviaram as cartas.
+
+C: O bolo foi assado pela confeiteira experiente.
+S: A confeiteira experiente assou o bolo.
+
+C: A música foi composta pelo músico talentoso.
+S: O músico talentoso compôs a música.
+
+C: A porta foi fechada pelo meu irmão.
+S: Meu irmão fechou a porta.
+
+C: A carta foi escrita por João.
+S: João escreveu a carta.
+
+C: A festa será organizada pelos alunos.
+S: Os alunos vão organizar a festa.
+
+C: O livro foi emprestado pela biblioteca.
+S: A biblioteca emprestou o livro.
+
+C: O presente foi comprado por minha mãe.
+S: Minha mãe comprou o presente.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O jantar será preparado pelo chef.
+S: O chef vai preparar o jantar.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: A casa foi limpa pelos funcionários.
+S: Os funcionários limparam a casa.
+
+C: O documento foi assinado por ela.
+S: Ela assinou o documento.
+
+C: O café da manhã será servido pelo hotel.
+S: O hotel vai servir o café da manhã.
+
+C: O carro foi lavado pelo meu irmão.
+S: Meu irmão lavou o carro.
+
+C: O livro foi escrito pelo famoso autor J.K. Rowling.
+S: O famoso autor J.K. Rowling escreveu o livro.
+
+C: A porta foi aberta pelo vento.
+S: O vento abriu a porta.
+
+C: O jantar será preparado pela minha mãe.
+S: Minha mãe preparará o jantar.
+
+C: Os presentes serão entregues pelos correios.
+S: Os correios entregarão os presentes.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: O prêmio foi ganho pela equipe de futebol.
+S: A equipe de futebol ganhou o prêmio.
+
+C: A música foi cantada pela cantora famosa.
+S: A cantora famosa cantou a música.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: O filme será assistido pelo público no cinema.
+S: O público assistirá o filme no cinema.
+
+C: O livro foi escrito por um renomado autor.
+S: Um renomado autor escreveu o livro.
+
+C: A casa foi construída pela empresa de construção.
+S: A empresa de construção construiu a casa.
+
+C: A notícia foi divulgada pelo jornal local.
+S: O jornal local divulgou a notícia.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A reunião será conduzida pelo presidente da empresa.
+S: O presidente da empresa conduzirá a reunião.
+
+C: O projeto foi desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolveu o projeto.
+
+C: A comida foi preparada pelo chefe de cozinha.
+S: O chefe de cozinha preparou a comida.
+
+C: O desfile foi organizado pelo comitê de eventos.
+S: O comitê de eventos organizou o desfile.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: Essa pintura foi feita pelo famoso artista Leonardo da Vinci.
+S: O famoso artista Leonardo da Vinci fez essa pintura.
+
+C: A carta será enviada pelo correio amanhã.
+S: O correio enviará a carta amanhã.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: O jantar será preparado pela minha mãe.
+S: Minha mãe preparará o jantar.
+
+C: A palestra foi ministrada pelo renomado professor de história.
+S: O renomado professor de história ministrou a palestra.
+
+C: A casa foi construída pela família ao lado do rio.
+S: A família construiu a casa ao lado do rio.
+
+C: A festa será organizada pelos alunos da universidade.
+S: Os alunos da universidade organizarão a festa.
+
+C: O projeto foi concluído pelo grupo de trabalho.
+S: O grupo de trabalho concluiu o projeto.
+
+C: A música foi composta pelo talentoso compositor Mozart.
+S: O talentoso compositor Mozart compôs a música.
+
+C: O presente foi embrulhado pela minha irmã mais nova.
+S: Minha irmã mais nova embrulhou o presente.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: As aulas serão canceladas pela professora.
+S: A professora cancelará as aulas.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A casa foi construída pelos operários habilidosos.
+S: Os operários habilidosos construíram a casa.
+
+C: A música foi composta pelo músico talentoso.
+S: O músico talentoso compôs a música.
+
+C: A festa será organizada pela comissão de eventos.
+S: A comissão de eventos organizará a festa.
+
+C: O filme foi dirigido pelo cineasta premiado.
+S: O cineasta premiado dirigiu o filme.
+
+C: A mensagem foi enviada pelo remetente desconhecido.
+S: O remetente desconhecido enviou a mensagem.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: A casa foi construída pelos operários da empresa de construção.
+S: Os operários da empresa de construção construíram a casa.
+
+C: A música foi composta pelo famoso cantor.
+S: O famoso cantor compôs a música.
+
+C: O projeto de lei foi aprovado pelo Congresso Nacional.
+S: O Congresso Nacional aprovou o projeto de lei.
+
+C: O crime foi investigado pela polícia local.
+S: A polícia local investigou o crime.
+
+C: O bolo foi assado pela confeitaria famosa.
+S: A confeitaria famosa assou o bolo.
+
+C: A empresa foi fundada pelo empresário de renome.
+S: O empresário de renome fundou a empresa.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: O relatório foi elaborado pelo departamento de pesquisa.
+S: O departamento de pesquisa elaborou o relatório.
+
+C: A entrevista foi conduzida pelo jornalista famoso.
+S: O jornalista famoso conduziu a entrevista.
+
+C: O projeto será concluído pela equipe de engenharia.
+S: A equipe de engenharia concluirá o projeto.
+
+C: A decisão foi tomada pelos líderes da empresa.
+S: Os líderes da empresa tomaram a decisão.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: As perguntas foram respondidas pelos especialistas.
+S: Os especialistas responderam às perguntas.
+
+C: As reuniões são organizadas pela secretária do departamento.
+S: A secretária do departamento organiza as reuniões.
+
+C: Os presentes foram entregues pelos funcionários da empresa.
+S: Os funcionários da empresa entregaram os presentes.
+
+C: A festa será organizada pelos amigos da aniversariante.
+S: Os amigos da aniversariante organizarão a festa.
+
+C: O problema foi resolvido pelo técnico de informática.
+S: O técnico de informática resolveu o problema.
+
+C: As placas foram instaladas pelos operários da construção.
+S: Os operários da construção instalaram as placas.
+
+C: As tarefas serão realizadas pelos alunos do curso.
+S: Os alunos do curso realizarão as tarefas.
+
+C: O relatório será apresentado pelo presidente da empresa.
+S: O presidente da empresa apresentará o relatório.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A comida será preparada pelo chef de cozinha.
+S: O chef de cozinha preparará a comida.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: O filme foi dirigido pelo famoso diretor.
+S: O famoso diretor dirigiu o filme.
+
+C: A casa foi vendida pelos proprietários.
+S: Os proprietários venderam a casa.
+
+C: O gol foi marcado pelo jogador brasileiro.
+S: O jogador brasileiro marcou o gol.
+
+C: A peça de teatro foi escrita pelo dramaturgo renomado.
+S: O dramaturgo renomado escreveu a peça de teatro.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: O livro foi escrito pelo autor premiado.
+S: O autor premiado escreveu o livro.
+
+C: A casa foi construída pelos engenheiros da empresa de construção.
+S: Os engenheiros da empresa de construção construíram a casa.
+
+C: As perguntas foram respondidas pelo professor de matemática.
+S: O professor de matemática respondeu às perguntas.
+
+C: O filme foi dirigido pelo renomado diretor de cinema.
+S: O renomado diretor de cinema dirigiu o filme.
+
+C: A camisa foi lavada pela mãe.
+S: A mãe lavou a camisa.
+
+C: Os documentos foram assinados pelo advogado.
+S: O advogado assinou os documentos.
+
+C: A carta foi escrita pelo remetente.
+S: O remetente escreveu a carta.
+
+C: A comida foi preparada pelo chef do restaurante.
+S: O chef do restaurante preparou a comida.
+
+C: A mesa foi arrumada pela empregada doméstica.
+S: A empregada doméstica arrumou a mesa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: As instruções foram dadas pelo professor.
+S: O professor deu as instruções.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O livro foi escrito pelo autor premiado.
+S: O autor premiado escreveu o livro.
+
+C: Os alimentos foram preparados pela equipe de chefs.
+S: A equipe de chefs preparou os alimentos.
+
+C: O projeto foi desenvolvido pelo time de engenheiros.
+S: O time de engenheiros desenvolveu o projeto.
+
+C: A carta foi enviada pelo remetente.
+S: O remetente enviou a carta.
+
+C: O bolo foi assado pela confeiteira experiente.
+S: A confeiteira experiente assou o bolo.
+
+C: O carro foi consertado pelo mecânico de confiança.
+S: O mecânico de confiança consertou o carro.
+
+C: A casa foi construída pelo empreiteiro responsável.
+S: O empreiteiro responsável construiu a casa.
+
+C: A casa foi construída pelos operários.
+S: Os operários construíram a casa.
+
+C: Os presentes foram entregues pelo Papai Noel.
+S: O Papai Noel entregou os presentes.
+
+C: A mensagem foi transmitida pelo telefone.
+S: O telefone transmitiu a mensagem.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A carta foi enviada pela secretária.
+S: A secretária enviou a carta.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A música foi composta pelo compositor talentoso.
+S: O compositor talentoso compôs a música.
+
+C: A pintura foi feita pelo artista reconhecido.
+S: O artista reconhecido fez a pintura.
+
+C: A pesquisa foi realizada pelos cientistas renomados.
+S: Os cientistas renomados realizaram a pesquisa.
+
+C: A encomenda foi entregue pelo correio.
+S: O correio entregou a encomenda.
+
+C: Os ingressos foram comprados pela internet.
+S: Eu comprei os ingressos pela internet.
+
+C: O relatório foi elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborou o relatório.
+
+C: A doença foi transmitida pelo mosquito.
+S: O mosquito transmitiu a doença.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A música foi composta pelo músico talentoso.
+S: O músico talentoso compôs a música.
+
+C: A casa foi construída pelo engenheiro.
+S: O engenheiro construiu a casa.
+
+C: O artigo científico foi publicado pela revista.
+S: A revista publicou o artigo científico.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A casa foi construída pelos trabalhadores.
+S: Os trabalhadores construíram a casa.
+
+C: O projeto será liderado pelo diretor.
+S: O diretor liderará o projeto.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A carta foi escrita pelos alunos.
+S: Os alunos escreveram a carta.
+
+C: O livro será lido pelo professor.
+S: O professor lerá o livro.
+
+C: O jantar foi preparado pela cozinheira.
+S: A cozinheira preparou o jantar.
+
+C: A notícia foi anunciada pela repórter.
+S: A repórter anunciou a notícia.
+
+C: A música será tocada pela banda.
+S: A banda tocará a música.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: O segredo foi descoberto pelo detetive.
+S: O detetive descobriu o segredo.
+
+C: A encomenda será entregue pelo correio.
+S: O correio entregará a encomenda.
+
+C: O prêmio foi recebido pelo vencedor do concurso.
+S: O vencedor do concurso recebeu o prêmio.
+
+C: O projeto de lei foi aprovado pelo Congresso Nacional.
+S: O Congresso Nacional aprovou o projeto de lei.
+
+C: Os convites foram enviados pela empresa organizadora do evento.
+S: A empresa organizadora do evento enviou os convites.
+
+C: A casa foi pintada pelo pintor profissional.
+S: O pintor profissional pintou a casa.
+
+C: A mensagem será enviada pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviará a mensagem.
+
+C: O almoço foi preparado pela equipe de cozinha.
+S: A equipe de cozinha preparou o almoço.
+
+C: A música foi composta pelo famoso cantor.
+S: O famoso cantor compôs a música.
+
+C: O carro será consertado pelo mecânico especializado.
+S: O mecânico especializado consertará o carro.
+
+C: O gol foi marcado pelo atacante do time.
+S: O atacante do time marcou o gol.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: As regras foram estabelecidas pelo professor.
+S: O professor estabeleceu as regras.
+
+C: A música foi composta pelo músico famoso.
+S: O músico famoso compôs a música.
+
+C: O trabalho foi realizado pela equipe de cientistas.
+S: A equipe de cientistas realizou o trabalho.
+
+C: O evento foi organizado pela empresa de eventos.
+S: A empresa de eventos organizou o evento.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: O livro foi escrito pelo autor consagrado.
+S: O autor consagrado escreveu o livro.
+
+C: O objetivo foi alcançado pela equipe de vendas.
+S: A equipe de vendas alcançou o objetivo.
+
+C: A comida foi preparada pela renomada chef de cozinha.
+S: A renomada chef de cozinha preparou a comida.
+
+C: A pintura foi criada pela artista talentosa.
+S: A artista talentosa criou a pintura.
+
+C: O livro foi escrito por um autor renomado.
+S: Um autor renomado escreveu o livro.
+
+C: A comida será preparada pelo chef do restaurante.
+S: O chef do restaurante irá preparar a comida.
+
+C: Os ingressos foram vendidos pela internet.
+S: A venda dos ingressos foi feita pela internet.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: A decisão será tomada pela diretoria.
+S: A diretoria irá tomar a decisão.
+
+C: A pesquisa foi conduzida por um grupo de cientistas.
+S: Um grupo de cientistas conduziu a pesquisa.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviou a mensagem.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: Os problemas foram resolvidos pela equipe de suporte.
+S: A equipe de suporte resolveu os problemas.
+
+C: A missão será liderada pelo capitão.
+S: O capitão irá liderar a missão.
+
+C: A carta foi escrita por João.
+S: João escreveu a carta.
+
+C: A casa foi construída pela empresa de construção.
+S: A empresa de construção construiu a casa.
+
+C: O bolo foi assado pela minha mãe.
+S: Minha mãe assou o bolo.
+
+C: As pinturas foram feitas pelo artista renomado.
+S: O artista renomado fez as pinturas.
+
+C: A competição foi vencida pelo time visitante.
+S: O time visitante venceu a competição.
+
+C: Os documentos foram arquivados pela secretária.
+S: A secretária arquivou os documentos.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: A festa foi organizada pela comissão de eventos.
+S: A comissão de eventos organizou a festa.
+
+C: Os convites foram enviados pela equipe de marketing.
+S: A equipe de marketing enviou os convites.
+
+C: O trabalho foi concluído pelo grupo de estudantes.
+S: O grupo de estudantes concluiu o trabalho.
+
+C: A carta foi enviada pela empresa de correio.
+S: A empresa de correio enviou a carta.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: O livro foi escrito pelo autor premiado.
+S: O autor premiado escreveu o livro.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: O relatório foi elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborou o relatório.
+
+C: A festa foi organizada pela comissão de eventos.
+S: A comissão de eventos organizou a festa.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: A comida foi preparada pela chefe de cozinha renomada.
+S: A chefe de cozinha renomada preparou a comida.
+
+C: A peça de teatro foi dirigida pelo diretor famoso.
+S: O diretor famoso dirigiu a peça de teatro.
+
+C: O vestido foi costurado pela estilista renomada.
+S: A estilista renomada costurou o vestido.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A casa foi construída há dez anos.
+S: Faz dez anos que a casa foi construída.
+
+C: O acidente foi causado pelo motorista distraído.
+S: O motorista distraído causou o acidente.
+
+C: A festa de aniversário foi organizada pelos amigos mais próximos.
+S: Os amigos mais próximos organizaram a festa de aniversário.
+
+C: O filme foi dirigido pelo renomado diretor.
+S: O renomado diretor dirigiu o filme.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: As decorações foram feitas pela equipe de design.
+S: A equipe de design fez as decorações.
+
+C: O problema foi resolvido pelo técnico de informática.
+S: O técnico de informática resolveu o problema.
+
+C: A música foi composta pelo talentoso compositor.
+S: O talentoso compositor compôs a música.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A música será cantada por Julia durante o show.
+S: Julia cantará a música durante o show.
+
+C: Os ingressos foram vendidos pela equipe de vendas.
+S: A equipe de vendas vendeu os ingressos.
+
+C: O cão foi resgatado pelo bombeiro.
+S: O bombeiro resgatou o cão.
+
+C: A decisão será tomada pela diretoria da empresa.
+S: A diretoria da empresa tomará a decisão.
+
+C: Os documentos foram entregues pelo mensageiro.
+S: O mensageiro entregou os documentos.
+
+C: A receita foi preparada pela chef do restaurante.
+S: A chef do restaurante preparou a receita.
+
+C: A tarefa será realizada pelos alunos.
+S: Os alunos realizarão a tarefa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: Os convites foram enviados pelo correio.
+S: O correio enviou os convites.
+
+C: A encomenda foi entregue pelo carteiro.
+S: O carteiro entregou a encomenda.
+
+C: A carta foi enviada por João.
+S: João enviou a carta.
+
+C: O evento será organizado pela empresa de eventos.
+S: A empresa de eventos organizará o evento.
+
+C: As flores foram plantadas pelo jardineiro.
+S: O jardineiro plantou as flores.
+
+C: O trabalho será concluído pela equipe de engenheiros.
+S: A equipe de engenheiros concluirá o trabalho.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: A palestra será ministrada pelo especialista no assunto.
+S: O especialista no assunto ministrará a palestra.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A decisão será tomada pelo comitê de diretores.
+S: O comitê de diretores tomará a decisão.
+
+C: A música foi composta pelo músico habilidoso.
+S: O músico habilidoso compôs a música.
+
+C: A festa foi organizada pelos meus amigos.
+S: Meus amigos organizaram a festa.
+
+C: O trabalho será concluído pelo João.
+S: O João concluirá o trabalho.
+
+C: O projeto foi aprovado pela diretoria.
+S: A diretoria aprovou o projeto.
+
+C: A comida foi preparada pela minha mãe.
+S: Minha mãe preparou a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A casa foi pintada pelo pintor.
+S: O pintor pintou a casa.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: Os convites foram enviados pela empresa.
+S: A empresa enviou os convites.
+
+C: A música foi composta pelo compositor famoso.
+S: O compositor famoso compôs a música.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: Eu enviei a mensagem pelo aplicativo de mensagens.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: O poema foi escrito pelo autor famoso.
+S: O autor famoso escreveu o poema.
+
+C: As encomendas foram entregues pelos correios.
+S: Os correios entregaram as encomendas.
+
+C: Os segredos foram revelados pelo detetive.
+S: O detetive revelou os segredos.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O evento foi planejado pela equipe de organização.
+S: A equipe de organização planejou o evento.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: As decisões foram tomadas pelo comitê de gestão.
+S: O comitê de gestão tomou as decisões.
+
+C: O edifício foi construído pela empresa de construção.
+S: A empresa de construção construiu o edifício.
+
+C: O livro foi escrito pela autora brasileira.
+S: A autora brasileira escreveu o livro.
+
+C: O trabalho foi feito pelo professor de matemática.
+S: O professor de matemática fez o trabalho.
+
+C: Os convites foram enviados pelos organizadores do evento.
+S: Os organizadores do evento enviaram os convites.
+
+C: As obras de arte foram expostas pelos artistas.
+S: Os artistas expuseram as obras de arte.
+
+C: A casa foi construída pelo engenheiro civil.
+S: O engenheiro civil construiu a casa.
+
+C: As aulas são ministradas pelos professores da universidade.
+S: Os professores da universidade ministram as aulas.
+
+C: O prêmio foi recebido pelo ator principal do filme.
+S: O ator principal do filme recebeu o prêmio.
+
+C: O projeto foi aprovado pelo comitê de avaliação.
+S: O comitê de avaliação aprovou o projeto.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: As bebidas foram servidas pelos garçons.
+S: Os garçons serviram as bebidas.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: A pesquisa foi realizada pela equipe de cientistas.
+S: A equipe de cientistas realizou a pesquisa.
+
+C: As flores foram regadas pela minha mãe.
+S: Minha mãe regou as flores.
+
+C: O acidente foi causado pelo motorista irresponsável.
+S: O motorista irresponsável causou o acidente.
+
+C: O livro foi escrito pelo famoso escritor.
+S: O famoso escritor escreveu o livro.
+
+C: A decisão foi tomada pela equipe de diretores.
+S: A equipe de diretores tomou a decisão.
+
+C: A comida foi preparada pelo renomado chef de cozinha.
+S: O renomado chef de cozinha preparou a comida.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: As obras foram realizadas pela construtora renomada.
+S: A construtora renomada realizou as obras.
+
+C: A carta foi escrita pelo meu irmão.
+S: Meu irmão escreveu a carta.
+
+C: A casa será vendida pelos proprietários.
+S: Os proprietários vão vender a casa.
+
+C: O filme foi dirigido por Spielberg.
+S: Spielberg dirigiu o filme.
+
+C: A comida foi preparada pela minha avó.
+S: Minha avó preparou a comida.
+
+C: Os convites serão enviados pela empresa.
+S: A empresa vai enviar os convites.
+
+C: O quadro foi pintado por um artista famoso.
+S: Um artista famoso pintou o quadro.
+
+C: A declaração foi confirmada pelo presidente.
+S: O presidente confirmou a declaração.
+
+C: As músicas foram compostas pela banda.
+S: A banda compôs as músicas.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: O trabalho será concluído pelos estudantes.
+S: Os estudantes vão concluir o trabalho.
+
+C: O livro foi escrito por Gabriel García Márquez.
+S: Gabriel García Márquez escreveu o livro.
+
+C: A casa foi construída pela empresa de engenharia.
+S: A empresa de engenharia construiu a casa.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: O crime foi cometido pelo suspeito.
+S: O suspeito cometeu o crime.
+
+C: Os presentes foram comprados pela mãe.
+S: A mãe comprou os presentes.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A empresa foi fundada por um grupo de empreendedores.
+S: Um grupo de empreendedores fundou a empresa.
+
+C: O projeto foi aprovado pelo conselho de administração.
+S: O conselho de administração aprovou o projeto.
+
+C: A decisão foi tomada pelo juiz.
+S: O juiz tomou a decisão.
+
+C: A casa foi construída pelos operários.
+S: Os operários construíram a casa.
+
+C: O livro será escrito pelo autor renomado.
+S: O autor renomado escreverá o livro.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: As mensagens foram enviadas pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviou as mensagens.
+
+C: O jardim será cuidado pelo jardineiro.
+S: O jardineiro cuidará do jardim.
+
+C: A festa foi organizada pelos amigos.
+S: Os amigos organizaram a festa.
+
+C: O problema será resolvido pelo técnico.
+S: O técnico resolverá o problema.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: O prato foi preparado pelo chef premiado.
+S: O chef premiado preparou o prato.
+
+C: O trabalho foi concluído pelo grupo de estagiários.
+S: O grupo de estagiários concluiu o trabalho.
+
+C: O acidente foi causado por uma falha mecânica no veículo.
+S: Uma falha mecânica no veículo causou o acidente.
+
+C: As encomendas foram entregues pela transportadora no prazo.
+S: A transportadora entregou as encomendas no prazo.
+
+C: Os convites foram enviados pelos organizadores do evento.
+S: Os organizadores do evento enviaram os convites.
+
+C: A casa foi construída pelo empreiteiro contratado.
+S: O empreiteiro contratado construiu a casa.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O incêndio foi apagado pelos bombeiros.
+S: Os bombeiros apagaram o incêndio.
+
+C: As regras foram definidas pelos membros do comitê.
+S: Os membros do comitê definiram as regras.
+
+C: A pintura foi feita pelo talentoso artista.
+S: O talentoso artista fez a pintura.
+
+C: O projeto foi aprovado pela diretoria da empresa.
+S: A diretoria da empresa aprovou o projeto.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A festa será organizada pelos amigos da aniversariante.
+S: Os amigos da aniversariante organizarão a festa.
+
+C: O problema foi resolvido pelo professor de matemática.
+S: O professor de matemática resolveu o problema.
+
+C: A comida será preparada pelo chefe de cozinha.
+S: O chefe de cozinha preparará a comida.
+
+C: A casa foi vendida pelos proprietários.
+S: Os proprietários venderam a casa.
+
+C: O projeto será apresentado pela equipe de pesquisa.
+S: A equipe de pesquisa apresentará o projeto.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A tarefa será realizada pelos alunos da turma.
+S: Os alunos da turma realizarão a tarefa.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O texto será revisado pelo editor profissional.
+S: O editor profissional revisará o texto.
+
+C: A empresa foi fundada por um grupo de investidores estrangeiros.
+S: Um grupo de investidores estrangeiros fundou a empresa.
+
+C: O projeto será finalizado pelo time de engenharia.
+S: O time de engenharia finalizará o projeto.
+
+C: As decisões são tomadas pela diretoria executiva.
+S: A diretoria executiva toma as decisões.
+
+C: As flores foram colhidas pelos jardineiros.
+S: Os jardineiros colheram as flores.
+
+C: O carro é consertado pelo mecânico.
+S: O mecânico conserta o carro.
+
+C: Os convites foram enviados pelos organizadores do evento.
+S: Os organizadores do evento enviaram os convites.
+
+C: O quarto é limpo pelo serviço de limpeza do hotel.
+S: O serviço de limpeza do hotel limpa o quarto.
+
+C: As músicas foram compostas pelo cantor famoso.
+S: O cantor famoso compôs as músicas.
+
+C: A comida é preparada pela chef renomada.
+S: A chef renomada prepara a comida.
+
+C: Os pratos foram lavados pela equipe de cozinha.
+S: A equipe de cozinha lavou os pratos.
+
+C: O carro foi vendido pelo dono anterior.
+S: O dono anterior vendeu o carro.
+
+C: As regras são definidas pelo comitê de ética.
+S: O comitê de ética define as regras.
+
+C: O prêmio foi ganho pela equipe de futebol.
+S: A equipe de futebol ganhou o prêmio.
+
+C: O livro foi escrito pelo famoso escritor.
+S: O famoso escritor escreveu o livro.
+
+C: As flores foram plantadas pela jardineira.
+S: A jardineira plantou as flores.
+
+C: O bolo foi assado pela cozinheira.
+S: A cozinheira assou o bolo.
+
+C: O projeto foi desenvolvido pela empresa de tecnologia.
+S: A empresa de tecnologia desenvolveu o projeto.
+
+C: A festa foi organizada pelos amigos do aniversariante.
+S: Os amigos do aniversariante organizaram a festa.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A mensagem foi enviada pelo remetente desconhecido.
+S: O remetente desconhecido enviou a mensagem.
+
+C: Um novo projeto será implementado pela equipe de marketing.
+S: A equipe de marketing implementará um novo projeto.
+
+C: Um livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu um livro.
+
+C: A pesquisa será conduzida pelos cientistas na próxima semana.
+S: Os cientistas conduzirão a pesquisa na próxima semana.
+
+C: A festa foi organizada pelos alunos do colégio.
+S: Os alunos do colégio organizaram a festa.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O presente foi comprado pela minha mãe.
+S: Minha mãe comprou o presente.
+
+C: A casa foi construída pelo renomado arquiteto.
+S: O renomado arquiteto construiu a casa.
+
+C: O quadro será pintado pelo artista famoso.
+S: O artista famoso pintará o quadro.
+
+C: A comida foi preparada pela chef renomada.
+S: A chef renomada preparou a comida.
+
+C: O discurso será proferido pelo presidente no evento.
+S: O presidente proferirá o discurso no evento.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A festa foi organizada pela minha irmã mais velha.
+S: Minha irmã mais velha organizou a festa.
+
+C: Os presentes foram comprados pela minha mãe.
+S: Minha mãe comprou os presentes.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: Os convites foram impressos pela gráfica local.
+S: A gráfica local imprimiu os convites.
+
+C: O prato foi preparado pelo chef especializado.
+S: O chef especializado preparou o prato.
+
+C: O carro foi consertado pelo mecânico de confiança.
+S: O mecânico de confiança consertou o carro.
+
+C: A pintura foi feita pelo artista reconhecido.
+S: O artista reconhecido fez a pintura.
+
+C: As doações foram arrecadadas pela organização beneficente.
+S: A organização beneficente arrecadou as doações.
+
+C: A carta foi escrita pelo professor.
+S: O professor escreveu a carta.
+
+C: Os alimentos foram preparados pela mãe.
+S: A mãe preparou os alimentos.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O livro foi lido por muitas pessoas.
+S: Muitas pessoas leram o livro.
+
+C: A casa foi pintada pelo pintor.
+S: O pintor pintou a casa.
+
+C: O trabalho foi entregue pelo aluno.
+S: O aluno entregou o trabalho.
+
+C: As fotos foram tiradas pela fotógrafa.
+S: A fotógrafa tirou as fotos.
+
+C: O prédio foi construído pela empresa de construção.
+S: A empresa de construção construiu o prédio.
+
+C: O bolo foi assado pela cozinheira.
+S: A cozinheira assou o bolo.
+
+C: A obra de arte foi criada pelo artista.
+S: O artista criou a obra de arte.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: As decisões foram tomadas pelos comitês responsáveis.
+S: Os comitês responsáveis tomaram as decisões.
+
+C: A casa foi construída pelo arquiteto famoso.
+S: O arquiteto famoso construiu a casa.
+
+C: As regras foram estabelecidas pelos organizadores.
+S: Os organizadores estabeleceram as regras.
+
+C: Os produtos foram fabricados pela empresa líder do mercado.
+S: A empresa líder do mercado fabricou os produtos.
+
+C: As aulas foram canceladas pelos professores em greve.
+S: Os professores em greve cancelaram as aulas.
+
+C: O prêmio foi ganho pelo atleta mais rápido.
+S: O atleta mais rápido ganhou o prêmio.
+
+C: Os problemas foram solucionados pelos especialistas da área.
+S: Os especialistas da área solucionaram os problemas.
+
+C: O contrato foi assinado pelo diretor executivo.
+S: O diretor executivo assinou o contrato.
+
+C: As obras foram realizadas pelos artistas talentosos.
+S: Os artistas talentosos realizaram as obras.
+
+C: O trabalho foi realizado pelos funcionários da empresa.
+S: Os funcionários da empresa realizaram o trabalho.
+
+C: A comida estava sendo preparada pelo chef renomado.
+S: O chef renomado estava preparando a comida.
+
+C: A celebração será organizada pelos membros do comitê.
+S: Os membros do comitê irão organizar a celebração.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: A porta foi aberta pelo chaveiro.
+S: O chaveiro abriu a porta.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A música estava sendo tocada pela orquestra.
+S: A orquestra estava tocando a música.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A casa foi vendida pelos proprietários.
+S: Os proprietários venderam a casa.
+
+C: O bolo estava sendo assado pela confeiteira.
+S: A confeiteira estava assando o bolo.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: O trabalho foi realizado pela equipe de engenharia.
+S: A equipe de engenharia realizou o trabalho.
+
+C: O bolo foi assado pela minha mãe.
+S: Minha mãe assou o bolo.
+
+C: A sala foi pintada pela empresa de pintura.
+S: A empresa de pintura pintou a sala.
+
+C: O carro foi fabricado pela montadora japonesa.
+S: A montadora japonesa fabricou o carro.
+
+C: O contrato foi assinado pelo presidente da empresa.
+S: O presidente da empresa assinou o contrato.
+
+C: O jardim foi cuidado pelo jardineiro.
+S: O jardineiro cuidou do jardim.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: As fotografias foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotografias.
+
+C: A casa será vendida pelos proprietários.
+S: Os proprietários vão vender a casa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: As refeições foram preparadas pelo chef renomado.
+S: O chef renomado preparou as refeições.
+
+C: O projeto será finalizado pelo time de desenvolvimento.
+S: O time de desenvolvimento vai finalizar o projeto.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O livro será publicado pela editora famosa.
+S: A editora famosa vai publicar o livro.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: As pinturas foram feitas pelo artista talentoso.
+S: O artista talentoso fez as pinturas.
+
+C: O bolo foi assado pela confeiteira habilidosa.
+S: A confeiteira habilidosa assou o bolo.
+
+C: O prédio será construído pela empresa de engenharia.
+S: A empresa de engenharia vai construir o prédio.
+
+C: Por ela, a torta será feita no final da tarde.
+S: Ela fará a torta no final da tarde.
+
+C: O livro será lido por mim.
+S: Eu vou ler o livro.
+
+C: Os presentes foram comprados pela minha mãe.
+S: Minha mãe comprou os presentes.
+
+C: O carro será consertado pelo mecânico amanhã.
+S: O mecânico vai consertar o carro amanhã.
+
+C: A carta foi enviada pela empresa de correios.
+S: A empresa de correios enviou a carta.
+
+C: As decisões foram tomadas pelo comitê de direção.
+S: O comitê de direção tomou as decisões.
+
+C: O quarto será arrumado por mim.
+S: Eu vou arrumar o quarto.
+
+C: As roupas foram lavadas pela minha irmã.
+S: Minha irmã lavou as roupas.
+
+C: O bolo será assado pelo meu pai.
+S: Meu pai vai assar o bolo.
+
+C: A festa foi organizada pelos meus amigos.
+S: Meus amigos organizaram a festa.
+
+C: A construção do novo prédio será realizada pela empresa de engenharia B2.
+S: A empresa de engenharia B2 realizará a construção do novo prédio.
+
+C: A carta foi escrita pelo autor renomado.
+S: O autor renomado escreveu a carta.
+
+C: Os ingressos foram comprados pela mãe da noiva.
+S: A mãe da noiva comprou os ingressos.
+
+C: A solução para o problema será encontrada pela equipe de especialistas.
+S: A equipe de especialistas encontrará a solução para o problema.
+
+C: As aulas foram canceladas pelo diretor da escola.
+S: O diretor da escola cancelou as aulas.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: O vídeo será gravado pelo produtor de cinema.
+S: O produtor de cinema gravará o vídeo.
+
+C: O projeto foi aprovado pela comissão de avaliação.
+S: A comissão de avaliação aprovou o projeto.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: O livro será lançado pelo autor reconhecido.
+S: O autor reconhecido lançará o livro.
+
+C: Os convites foram enviados pela empresa de eventos.
+S: A empresa de eventos enviou os convites.
+
+C: A casa será vendida pelo proprietário.
+S: O proprietário venderá a casa.
+
+C: As obras de arte foram expostas pelo museu.
+S: O museu expôs as obras de arte.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviou a mensagem.
+
+C: O carro será consertado pelo mecânico.
+S: O mecânico consertará o carro.
+
+C: O artigo foi escrito pelo autor renomado.
+S: O autor renomado escreveu o artigo.
+
+C: O alimento foi preparado pelo chef famoso.
+S: O chef famoso preparou o alimento.
+
+C: O documento foi enviado pela empresa de transportes.
+S: A empresa de transportes enviou o documento.
+
+C: O vídeo foi gravado pelo cinegrafista profissional.
+S: O cinegrafista profissional gravou o vídeo.
+
+C: A receita foi preparada pela mãe.
+S: A mãe preparou a receita.
+
+C: O carro foi lavado pelo meu irmão mais novo.
+S: Meu irmão mais novo lavou o carro.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: As compras foram feitas pelo meu pai no supermercado.
+S: Meu pai fez as compras no supermercado.
+
+C: O ferro foi deixado ligado pela minha mãe.
+S: Minha mãe deixou o ferro ligado.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: A porta foi aberta pelo meu vizinho.
+S: Meu vizinho abriu a porta.
+
+C: O projeto foi finalizado pela equipe de engenharia.
+S: A equipe de engenharia finalizou o projeto.
+
+C: A música foi composta pelo cantor famoso.
+S: O cantor famoso compôs a música.
+
+C: O edifício foi projetado pelo arquiteto renomado.
+S: O arquiteto renomado projetou o edifício.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: O bolo foi feito pela minha mãe.
+S: Minha mãe fez o bolo.
+
+C: As flores foram entregues pelo jardineiro.
+S: O jardineiro entregou as flores.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A festa será organizada pelos meus amigos.
+S: Meus amigos vão organizar a festa.
+
+C: O relatório foi elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborou o relatório.
+
+C: As roupas foram lavadas pela lavanderia.
+S: A lavanderia lavou as roupas.
+
+C: A carta será enviada pelos correios.
+S: Os correios vão enviar a carta.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: O texto foi escrito pela escritora renomada.
+S: A escritora renomada escreveu o texto.
+
+C: O projeto será desenvolvido pela empresa de engenharia.
+S: A empresa de engenharia vai desenvolver o projeto.
+
+C: O piso foi limpo pelo zelador todas as manhãs.
+S: O zelador limpou o piso todas as manhãs.
+
+C: O documento será assinado pelo CEO da empresa.
+S: O CEO da empresa assinará o documento.
+
+C: O bolo foi feito pela minha mãe para o meu aniversário.
+S: Minha mãe fez o bolo para o meu aniversário.
+
+C: A carta foi escrita pelo escritor famoso.
+S: O escritor famoso escreveu a carta.
+
+C: As plantas foram regadas pela minha avó todas as tardes.
+S: Minha avó regou as plantas todas as tardes.
+
+C: A aula será ministrada pelo professor de música.
+S: O professor de música ministrará a aula.
+
+C: Os ingressos foram comprados pelo meu amigo.
+S: Meu amigo comprou os ingressos.
+
+C: O livro foi lido pelo estudante atentamente.
+S: O estudante leu o livro atentamente.
+
+C: A casa será vendida pelos proprietários.
+S: Os proprietários venderão a casa.
+
+C: O acidente foi causado pelo motorista distraído.
+S: O motorista distraído causou o acidente.
+
+C: O livro foi escrito por Paulo Coelho.
+S: Paulo Coelho escreveu o livro.
+
+C: As comemorações foram organizadas pelos alunos do ensino médio.
+S: Os alunos do ensino médio organizaram as comemorações.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A festa de aniversário foi planejada pela empresa de eventos.
+S: A empresa de eventos planejou a festa de aniversário.
+
+C: O projeto foi desenvolvido pela equipe de engenheiros.
+S: A equipe de engenheiros desenvolveu o projeto.
+
+C: A pesquisa foi conduzida pelo professor.
+S: O professor conduziu a pesquisa.
+
+C: O jantar foi preparado pelo chef renomado.
+S: O chef renomado preparou o jantar.
+
+C: O relatório foi elaborado pelo departamento de marketing.
+S: O departamento de marketing elaborou o relatório.
+
+C: O discurso foi proferido pelo presidente da empresa.
+S: O presidente da empresa proferiu o discurso.
+
+C: A pintura foi feita pelo artista famoso.
+S: O artista famoso fez a pintura.
+
+C: O projeto será finalizado pela equipe de engenharia até o final do mês.
+S: A equipe de engenharia finalizará o projeto até o final do mês.
+
+C: As fotos foram tiradas pela minha irmã mais nova durante a viagem.
+S: Minha irmã mais nova tirou as fotos durante a viagem.
+
+C: O vídeo será editado pelo profissional de audiovisual contratado pela empresa.
+S: O profissional de audiovisual contratado pela empresa editará o vídeo.
+
+C: A carta foi entregue pela empresa de correios no final da tarde.
+S: A empresa de correios entregou a carta no final da tarde.
+
+C: A festa de aniversário será organizada pela mãe da criança.
+S: A mãe da criança organizará a festa de aniversário.
+
+C: O prédio foi construído pela empresa de construção civil.
+S: A empresa de construção civil construiu o prédio.
+
+C: A roupa foi lavada pela máquina de lavar no ciclo delicado.
+S: A máquina de lavar lavou a roupa no ciclo delicado.
+
+C: O bolo de chocolate foi feito pela tia da noiva.
+S: A tia da noiva fez o bolo de chocolate.
+
+C: O relatório foi revisado pelo supervisor antes da entrega.
+S: O supervisor revisou o relatório antes da entrega.
+
+C: O jantar será preparado pelo chef renomado do restaurante.
+S: O chef renomado do restaurante preparará o jantar.
+
+C: O documento será assinado pelo presidente da empresa.
+S: O presidente da empresa assinará o documento.
+
+C: A pesquisa foi realizada pelos estudantes de biologia.
+S: Os estudantes de biologia realizaram a pesquisa.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado irá preparar a comida.
+
+C: A pintura foi feita pelo artista famoso.
+S: O artista famoso fez a pintura.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O texto será traduzido pelo professor de línguas.
+S: O professor de línguas irá traduzir o texto.
+
+C: O pacote foi entregue pelo carteiro.
+S: O carteiro entregou o pacote.
+
+C: A mensagem foi enviada pelo celular.
+S: O celular enviou a mensagem.
+
+C: O livro foi escrito pela autora renomada.
+S: A autora renomada escreveu o livro.
+
+C: A obra foi realizada pelos operários.
+S: Os operários realizaram a obra.
+
+C: O projeto foi concluído pela equipe de engenheiros.
+S: A equipe de engenheiros concluiu o projeto.
+
+C: A responsabilidade foi assumida pelo diretor da empresa.
+S: O diretor da empresa assumiu a responsabilidade.
+
+C: Os documentos foram assinados pelos representantes legais.
+S: Os representantes legais assinaram os documentos.
+
+C: A mensagem foi enviada pela secretária do escritório.
+S: A secretária do escritório enviou a mensagem.
+
+C: A peça de teatro foi escrita pelo renomado dramaturgo.
+S: O renomado dramaturgo escreveu a peça de teatro.
+
+C: O relatório foi elaborado pelos pesquisadores do instituto.
+S: Os pesquisadores do instituto elaboraram o relatório.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: O contrato foi elaborado pelos advogados da empresa.
+S: Os advogados da empresa elaboraram o contrato.
+
+C: A decisão foi tomada pela diretoria da companhia.
+S: A diretoria da companhia tomou a decisão.
+
+C: Os problemas foram identificados pelos técnicos de suporte.
+S: Os técnicos de suporte identificaram os problemas.
+
+C: A casa foi construída pelo pai.
+S: O pai construiu a casa.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O assalto foi cometido pelos criminosos.
+S: Os criminosos cometeram o assalto.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: O filme foi dirigido pelo renomado diretor.
+S: O renomado diretor dirigiu o filme.
+
+C: O prêmio foi entregue pelo presidente da empresa.
+S: O presidente da empresa entregou o prêmio.
+
+C: A pesquisa foi realizada pelos cientistas renomados.
+S: Os cientistas renomados realizaram a pesquisa.
+
+C: O discurso foi proferido pelo político famoso.
+S: O político famoso proferiu o discurso.
+
+C: O gol foi marcado pelo atacante habilidoso.
+S: O atacante habilidoso marcou o gol.
+
+C: A festa foi organizada pelos amigos do aniversariante.
+S: Os amigos do aniversariante organizaram a festa.
+
+C: O projeto será concluído até o final do mês pela equipe de desenvolvimento.
+S: A equipe de desenvolvimento concluirá o projeto até o final do mês.
+
+C: O carro foi danificado pelo motorista negligente.
+S: O motorista negligente danificou o carro.
+
+C: A decisão será anunciada amanhã pelo presidente da empresa.
+S: O presidente da empresa anunciará a decisão amanhã.
+
+C: As informações foram repassadas pela secretária aos funcionários.
+S: A secretária repassou as informações aos funcionários.
+
+C: A casa foi vendida pelo corretor imobiliário por um preço alto.
+S: O corretor imobiliário vendeu a casa por um preço alto.
+
+C: A torta foi preparada pela minha avó para o jantar.
+S: Minha avó preparou a torta para o jantar.
+
+C: O relatório foi elaborado pelo comitê de pesquisa do projeto.
+S: O comitê de pesquisa do projeto elaborou o relatório.
+
+C: O quarto foi decorado pela designer de interiores com cores vibrantes.
+S: A designer de interiores decorou o quarto com cores vibrantes.
+
+C: O crime foi investigado pela equipe de detetives experientes.
+S: A equipe de detetives experientes investigou o crime.
+
+C: As flores foram colhidas pela criança no jardim.
+S: A criança colheu as flores no jardim.
+
+C: A planta foi regada pela vizinha.
+S: A vizinha regou a planta.
+
+C: Os convites foram entregues pelo correio.
+S: O correio entregou os convites.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: As compras foram feitas pela minha mãe.
+S: Minha mãe fez as compras.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: Os diplomas foram entregues pelo reitor da universidade.
+S: O reitor da universidade entregou os diplomas.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: O filme foi produzido pela grande empresa de cinema.
+S: A grande empresa de cinema produziu o filme.
+
+C: A mensagem foi enviada pelo celular.
+S: Eu enviei a mensagem pelo celular.
+
+C: A casa foi construída pelo pai.
+S: O pai construiu a casa.
+
+C: A comida será preparada pelo chef.
+S: O chef preparará a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A música foi escrita pelo compositor famoso.
+S: O compositor famoso escreveu a música.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: A mensagem será enviada pelo remetente.
+S: O remetente enviará a mensagem.
+
+C: A festa foi organizada pela empresa de eventos.
+S: A empresa de eventos organizou a festa.
+
+C: A aula foi ministrada pelo professor.
+S: O professor ministrou a aula.
+
+C: A porta foi aberta pelo segurança.
+S: O segurança abriu a porta.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A tarefa foi realizada pela equipe de marketing.
+S: A equipe de marketing realizou a tarefa.
+
+C: O carro foi consertado pelo mecânico especializado.
+S: O mecânico especializado consertou o carro.
+
+C: A reunião foi agendada pela secretária do diretor.
+S: A secretária do diretor agendou a reunião.
+
+C: O livro foi escrito pelo famoso autor brasileiro.
+S: O famoso autor brasileiro escreveu o livro.
+
+C: O bolo foi feito pela confeiteira talentosa.
+S: A confeiteira talentosa fez o bolo.
+
+C: O filme foi dirigido pelo renomado cineasta.
+S: O renomado cineasta dirigiu o filme.
+
+C: A pesquisa foi realizada pelo grupo de cientistas.
+S: O grupo de cientistas realizou a pesquisa.
+
+C: A decoração foi feita pelo designer de interiores.
+S: O designer de interiores fez a decoração.
+
+C: A música foi composta pelo talentoso pianista.
+S: O talentoso pianista compôs a música.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A casa foi construída pelos trabalhadores da construção civil.
+S: Os trabalhadores da construção civil construíram a casa.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O presente foi enviado pela minha prima.
+S: Minha prima enviou o presente.
+
+C: O acidente foi presenciado por várias pessoas.
+S: Várias pessoas presenciaram o acidente.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: A carta foi escrita pelo remetente misterioso.
+S: O remetente misterioso escreveu a carta.
+
+C: A peça de teatro foi encenada pelos atores talentosos.
+S: Os atores talentosos encenaram a peça de teatro.
+
+C: O erro foi cometido pelo funcionário distraído.
+S: O funcionário distraído cometeu o erro.
+
+C: A festa foi organizada pelos amigos da aniversariante.
+S: Os amigos da aniversariante organizaram a festa.
+
+C: A carta foi enviada pela secretária.
+S: A secretária enviou a carta.
+
+C: A festa foi organizada pelos amigos.
+S: Os amigos organizaram a festa.
+
+C: O trabalho foi concluído pelo time de desenvolvimento.
+S: O time de desenvolvimento concluiu o trabalho.
+
+C: As flores foram regadas pela minha mãe.
+S: Minha mãe regou as flores.
+
+C: A comida foi preparada pelo chef.
+S: O chef preparou a comida.
+
+C: O bilhete foi deixado pelo porteiro.
+S: O porteiro deixou o bilhete.
+
+C: As informações foram divulgadas pela imprensa.
+S: A imprensa divulgou as informações.
+
+C: Os presentes foram comprados pelos irmãos.
+S: Os irmãos compraram os presentes.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A piada foi contada pelo palhaço.
+S: O palhaço contou a piada.
+
+C: A nova lei será promulgada pelo presidente.
+S: O presidente promulgará a nova lei.
+
+C: As flores foram compradas pelo meu marido para o nosso aniversário de casamento.
+S: Meu marido comprou as flores para o nosso aniversário de casamento.
+
+C: O livro foi escrito pelo renomado escritor brasileiro.
+S: O renomado escritor brasileiro escreveu o livro.
+
+C: O edifício foi construído pela empresa de construção XYZ.
+S: A empresa de construção XYZ construiu o edifício.
+
+C: O problema foi resolvido pela equipe de TI.
+S: A equipe de TI resolveu o problema.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O evento será organizado pela equipe de eventos.
+S: A equipe de eventos organizará o evento.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A descoberta foi feita pelos cientistas.
+S: Os cientistas fizeram a descoberta.
+
+C: A montagem foi realizada pelo técnico especializado.
+S: O técnico especializado realizou a montagem.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A pintura foi feita pelo artista talentoso.
+S: O artista talentoso fez a pintura.
+
+C: A comida foi preparada pelo chef experiente.
+S: O chef experiente preparou a comida.
+
+C: A decisão foi tomada pelo comitê responsável.
+S: O comitê responsável tomou a decisão.
+
+C: O problema foi solucionado pelo especialista em informática.
+S: O especialista em informática solucionou o problema.
+
+C: A entrevista foi conduzida pelo repórter famoso.
+S: O repórter famoso conduziu a entrevista.
+
+C: A música foi composta pelo músico talentoso.
+S: O músico talentoso compôs a música.
+
+C: O trabalho foi realizado pelo grupo de pesquisa.
+S: O grupo de pesquisa realizou o trabalho.
+
+C: O tênis foi comprado pela minha mãe.
+S: Minha mãe comprou o tênis.
+
+C: As flores foram plantadas pelo jardineiro.
+S: O jardineiro plantou as flores.
+
+C: A música foi composta pelo Mozart.
+S: Mozart compôs a música.
+
+C: Os pratos foram lavados por minha irmã.
+S: Minha irmã lavou os pratos.
+
+C: A casa foi construída pelo meu pai.
+S: Meu pai construiu a casa.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: As roupas foram arrumadas pela empregada.
+S: A empregada arrumou as roupas.
+
+C: O jantar foi preparado pela minha avó.
+S: Minha avó preparou o jantar.
+
+C: O discurso foi proferido pelo presidente.
+S: O presidente proferiu o discurso.
+
+C: O quarto foi pintado pelo meu irmão.
+S: Meu irmão pintou o quarto.
+
+C: A casa foi construída pelos operários.
+S: Os operários construíram a casa.
+
+C: O carro foi roubado pelo ladrão.
+S: O ladrão roubou o carro.
+
+C: A carta foi escrita pela minha mãe.
+S: Minha mãe escreveu a carta.
+
+C: O problema foi resolvido pela equipe de suporte.
+S: A equipe de suporte resolveu o problema.
+
+C: O projeto será finalizado pela equipe de desenvolvimento.
+S: A equipe de desenvolvimento finalizará o projeto.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: O doce foi feito pela confeiteira experiente.
+S: A confeiteira experiente fez o doce.
+
+C: A pintura foi criada pelo artista renomado.
+S: O artista renomado criou a pintura.
+
+C: Os ingressos foram vendidos pelo caixa.
+S: O caixa vendeu os ingressos.
+
+C: O livro foi escrito por um famoso autor.
+S: Um famoso autor escreveu o livro.
+
+C: O carro foi vendido pelo dono.
+S: O dono vendeu o carro.
+
+C: A reunião foi organizada pela secretária.
+S: A secretária organizou a reunião.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A carta foi escrita pelo remetente.
+S: O remetente escreveu a carta.
+
+C: O evento foi organizado pela comissão de voluntários.
+S: A comissão de voluntários organizou o evento.
+
+C: A pesquisa foi conduzida pelos cientistas especializados.
+S: Os cientistas especializados conduziram a pesquisa.
+
+C: O prêmio foi entregue pelo apresentador.
+S: O apresentador entregou o prêmio.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: A declaração foi dada pelo presidente da empresa.
+S: O presidente da empresa deu a declaração.
+
+C: O trabalho foi realizado pela equipe de engenheiros.
+S: A equipe de engenheiros realizou o trabalho.
+
+C: O mel foi produzido pelas abelhas na colmeia.
+S: As abelhas produziram o mel na colmeia.
+
+C: O prêmio foi recebido pela cantora durante a cerimônia.
+S: A cantora recebeu o prêmio durante a cerimônia.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: As medidas foram adotadas pela prefeitura para melhorar a segurança na cidade.
+S: A prefeitura adotou as medidas para melhorar a segurança na cidade.
+
+C: O homem foi resgatado pelo bombeiro após o acidente.
+S: O bombeiro resgatou o homem após o acidente.
+
+C: As flores foram plantadas pelo jardineiro no jardim.
+S: O jardineiro plantou as flores no jardim.
+
+C: O projeto foi desenvolvido pela equipe de designers.
+S: A equipe de designers desenvolveu o projeto.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A cidade foi construída pelos imigrantes.
+S: Os imigrantes construíram a cidade.
+
+C: O bolo foi assado pela confeiteira.
+S: A confeiteira assou o bolo.
+
+C: As decisões foram tomadas pelo comitê responsável.
+S: O comitê responsável tomou as decisões.
+
+C: O relatório foi elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborou o relatório.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: As leis foram promulgadas pelo governo.
+S: O governo promulgou as leis.
+
+C: O trabalho foi realizado pela equipe de engenheiros.
+S: A equipe de engenheiros realizou o trabalho.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O carro será consertado pelo mecânico amanhã.
+S: O mecânico consertará o carro amanhã.
+
+C: A encomenda será entregue pela transportadora na próxima semana.
+S: A transportadora entregará a encomenda na próxima semana.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: A festa será organizada pelos pais da aniversariante.
+S: Os pais da aniversariante organizarão a festa.
+
+C: A obra foi finalizada pela equipe de construção.
+S: A equipe de construção finalizou a obra.
+
+C: O documento será assinado pelo diretor da empresa.
+S: O diretor da empresa assinará o documento.
+
+C: O bolo foi feito pela confeiteira especializada.
+S: A confeiteira especializada fez o bolo.
+
+C: As roupas foram lavadas pela lavanderia na semana passada.
+S: A lavanderia lavou as roupas na semana passada.
+
+C: O projeto será apresentado pelos alunos na sexta-feira.
+S: Os alunos apresentarão o projeto na sexta-feira.
+
+C: A planta foi regada pelo jardineiro.
+S: O jardineiro regou a planta.
+
+C: O carro foi roubado pelo ladrão.
+S: O ladrão roubou o carro.
+
+C: Os presentes foram entregues pela empresa de logística.
+S: A empresa de logística entregou os presentes.
+
+C: O prédio foi construído pelo engenheiro.
+S: O engenheiro construiu o prédio.
+
+C: As perguntas foram respondidas pela professora.
+S: A professora respondeu as perguntas.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A festa será organizada pelos amigos da noiva.
+S: Os amigos da noiva organizarão a festa.
+
+C: O trabalho foi realizado pelo grupo de pesquisa.
+S: O grupo de pesquisa realizou o trabalho.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: As canções foram compostas pelo músico famoso.
+S: O músico famoso compôs as canções.
+
+C: O filme será dirigido pelo cineasta premiado.
+S: O cineasta premiado dirigirá o filme.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: O bolo foi feito pela minha avó.
+S: Minha avó fez o bolo.
+
+C: O trabalho será concluído pelos alunos.
+S: Os alunos concluirão o trabalho.
+
+C: As flores foram plantadas pelo jardineiro.
+S: O jardineiro plantou as flores.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A casa foi construída pelo engenheiro.
+S: O engenheiro construiu a casa.
+
+C: O livro foi escrito pelo renomado autor.
+S: O renomado autor escreveu o livro.
+
+C: A mensagem foi enviada pelo secretário.
+S: O secretário enviou a mensagem.
+
+C: O prato foi preparado pelo chef de cozinha.
+S: O chef de cozinha preparou o prato.
+
+C: Uma carta foi enviada pela minha mãe.
+S: Minha mãe enviou uma carta.
+
+C: A casa foi construída pelo meu pai.
+S: Meu pai construiu a casa.
+
+C: O trabalho será realizado pelos funcionários da empresa.
+S: Os funcionários da empresa realizarão o trabalho.
+
+C: As compras foram feitas pelo meu irmão mais velho.
+S: Meu irmão mais velho fez as compras.
+
+C: As decisões foram tomadas pela diretoria.
+S: A diretoria tomou as decisões.
+
+C: O café da manhã será servido pelos funcionários do hotel.
+S: Os funcionários do hotel servirão o café da manhã.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A mensagem foi enviada pela equipe de marketing.
+S: A equipe de marketing enviou a mensagem.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: O bolo foi assado pela minha avó.
+S: Minha avó assou o bolo.
+
+C: A carta foi escrita pelo professor de português.
+S: O professor de português escreveu a carta.
+
+C: Os presentes foram comprados pelos pais da criança.
+S: Os pais da criança compraram os presentes.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: As mensagens foram enviadas pela empresa de comunicação.
+S: A empresa de comunicação enviou as mensagens.
+
+C: O prato foi preparado pelo chef de cozinha.
+S: O chef de cozinha preparou o prato.
+
+C: A apresentação foi interrompida pelo problema técnico.
+S: O problema técnico interrompeu a apresentação.
+
+C: O carro foi consertado pela oficina mecânica.
+S: A oficina mecânica consertou o carro.
+
+C: As mensagens foram apagadas pelo usuário.
+S: O usuário apagou as mensagens.
+
+C: A pintura foi feita pelo artista famoso.
+S: O artista famoso fez a pintura.
+
+C: O bolo foi assado pela confeitaria.
+S: A confeitaria assou o bolo.
+
+C: A casa foi construída pelo arquiteto renomado.
+S: O arquiteto renomado construiu a casa.
+
+C: A decisão será tomada pela diretoria da empresa.
+S: A diretoria da empresa tomará a decisão.
+
+C: O trabalho foi entregue atrasado pelos funcionários.
+S: Os funcionários entregaram o trabalho atrasado.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: O artigo foi escrito pelo renomado escritor.
+S: O renomado escritor escreveu o artigo.
+
+C: Os livros foram comprados pelo estudante.
+S: O estudante comprou os livros.
+
+C: A música foi composta pelo talentoso músico.
+S: O talentoso músico compôs a música.
+
+C: O projeto será concluído pela equipe de desenvolvimento.
+S: A equipe de desenvolvimento concluirá o projeto.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: A festa será organizada pelos amigos.
+S: Os amigos organizarão a festa.
+
+C: A competição foi vencida pelo time da casa.
+S: O time da casa venceu a competição.
+
+C: A torta foi assada pela minha mãe.
+S: Minha mãe assou a torta.
+
+C: O projeto será executado pela equipe de engenharia.
+S: A equipe de engenharia executará o projeto.
+
+C: A pesquisa foi realizada por um grupo de cientistas renomados.
+S: Um grupo de cientistas renomados realizou a pesquisa.
+
+C: As decisões foram tomadas pelos membros do conselho.
+S: Os membros do conselho tomaram as decisões.
+
+C: Os livros foram emprestados pela biblioteca pública.
+S: A biblioteca pública emprestou os livros.
+
+C: O relatório será entregue pelo meu colega de trabalho.
+S: Meu colega de trabalho entregará o relatório.
+
+C: As roupas foram lavadas pela lavanderia.
+S: A lavanderia lavou as roupas.
+
+C: Os prêmios foram entregues pela diretora da empresa.
+S: A diretora da empresa entregou os prêmios.
+
+C: O quadro foi pintado pelo artista famoso.
+S: O artista famoso pintou o quadro.
+
+C: Foi decidido pela diretoria que a empresa passará por uma reestruturação.
+S: A diretoria decidiu que a empresa passará por uma reestruturação.
+
+C: O prêmio foi ganho pelo jogador mais valioso da temporada.
+S: O jogador mais valioso da temporada ganhou o prêmio.
+
+C: As medidas foram implementadas pelo governo para combater a crise econômica.
+S: O governo implementou as medidas para combater a crise econômica.
+
+C: O relatório será elaborado pela equipe de pesquisa.
+S: A equipe de pesquisa elaborará o relatório.
+
+C: O trabalho foi realizado pelo grupo de voluntários.
+S: O grupo de voluntários realizou o trabalho.
+
+C: A mensagem foi enviada pelo sistema automatizado.
+S: O sistema automatizado enviou a mensagem.
+
+C: A casa foi construída pelo renomado arquiteto do país.
+S: O renomado arquiteto do país construiu a casa.
+
+C: A comida foi preparada pelo chef premiado.
+S: O chef premiado preparou a comida.
+
+C: O artigo foi escrito pelo professor especialista no assunto.
+S: O professor especialista no assunto escreveu o artigo.
+
+C: A prova foi corrigida pela professora.
+S: A professora corrigiu a prova.
+
+C: A decisão será tomada pelo comitê.
+S: O comitê tomará a decisão.
+
+C: Os livros foram emprestados pela biblioteca.
+S: A biblioteca emprestou os livros.
+
+C: A prova será corrigida pelos professores.
+S: Os professores corrigirão a prova.
+
+C: A encomenda foi entregue pela transportadora.
+S: A transportadora entregou a encomenda.
+
+C: O trabalho será realizado pela equipe de engenharia.
+S: A equipe de engenharia realizará o trabalho.
+
+C: A carta foi escrita pelo autor renomado.
+S: O autor renomado escreveu a carta.
+
+C: A decisão foi tomada pela diretoria da empresa.
+S: A diretoria da empresa tomou a decisão.
+
+C: O contrato será assinado pelo presidente da associação.
+S: O presidente da associação assinará o contrato.
+
+C: O bolo foi feito pela minha avó.
+S: Minha avó fez o bolo.
+
+C: A música está sendo tocada pela banda.
+S: A banda está tocando a música.
+
+C: A ponte será construída pela empresa de engenharia.
+S: A empresa de engenharia construirá a ponte.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: O trabalho será entregue pela secretária.
+S: A secretária entregará o trabalho.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A carta será enviada pelo correio.
+S: O correio enviará a carta.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O projeto será realizado pela equipe de produção.
+S: A equipe de produção realizará o projeto.
+
+C: A casa foi pintada pelo profissional de pintura.
+S: O profissional de pintura pintou a casa.
+
+C: A tarefa será concluída pelo colaborador.
+S: O colaborador concluirá a tarefa.
+
+C: A música foi composta pelo talentoso músico.
+S: O talentoso músico compôs a música.
+
+C: O carro foi roubado pelo bandido.
+S: O bandido roubou o carro.
+
+C: A casa será vendida pela imobiliária.
+S: A imobiliária venderá a casa.
+
+C: A comida foi preparada pela chefe de cozinha.
+S: A chefe de cozinha preparou a comida.
+
+C: As decisões são tomadas pelo comitê de diretores.
+S: O comitê de diretores toma as decisões.
+
+C: A mensagem foi enviada pela secretária.
+S: A secretária enviou a mensagem.
+
+C: A entrega será feita pelo carteiro.
+S: O carteiro fará a entrega.
+
+C: O gol foi marcado pelo atacante.
+S: O atacante marcou o gol.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: A música foi composta pelo pianista.
+S: O pianista compôs a música.
+
+C: O livro será escrito pelo escritor famoso.
+S: O escritor famoso escreverá o livro.
+
+C: O livro foi escrito pelo autor renomado. 
+S: O autor renomado escreveu o livro.
+
+C: Os presentes foram entregues pelas crianças no Natal.
+S: As crianças entregaram os presentes no Natal.
+
+C: O prêmio foi recebido pelo ator no palco.
+S: O ator recebeu o prêmio no palco.
+
+C: A casa foi construída pela empresa de engenharia.
+S: A empresa de engenharia construiu a casa.
+
+C: As músicas foram compostas pelo pianista talentoso.
+S: O pianista talentoso compôs as músicas.
+
+C: Os problemas foram resolvidos pela equipe de suporte técnico.
+S: A equipe de suporte técnico resolveu os problemas.
+
+C: Os convites foram enviados pela empresa de eventos.
+S: A empresa de eventos enviou os convites.
+
+C: As decisões foram tomadas pelo comitê de direção.
+S: O comitê de direção tomou as decisões.
+
+C: A festa foi organizada pelos alunos do ensino médio.
+S: Os alunos do ensino médio organizaram a festa.
+
+C: A carta foi escrita pelo remetente.
+S: O remetente escreveu a carta.
+
+C: A casa foi vendida pelo proprietário.
+S: O proprietário vendeu a casa.
+
+C: A decisão será tomada pelo comitê.
+S: O comitê tomará a decisão.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O pacote foi entregue pelo correio.
+S: O correio entregou o pacote.
+
+C: A música será tocada pela banda famosa.
+S: A banda famosa tocará a música.
+
+C: A carta foi escrita pelo advogado.
+S: O advogado escreveu a carta.
+
+C: O bolo foi assado pela confeiteira.
+S: A confeiteira assou o bolo.
+
+C: O projeto será desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolverá o projeto.
+
+C: O aluno foi elogiado pelo professor.
+S: O professor elogiou o aluno.
+
+C: A roupa foi lavada pela lavanderia.
+S: A lavanderia lavou a roupa.
+
+C: O carro foi roubado pelo bandido.
+S: O bandido roubou o carro.
+
+C: A casa será construída pela empreiteira.
+S: A empreiteira construirá a casa.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: O prédio foi demolido pela equipe de demolição.
+S: A equipe de demolição demoliu o prédio.
+
+C: Os arranjos foram feitos pela florista experiente.
+S: A florista experiente fez os arranjos.
+
+C: O resgate foi realizado pelos bombeiros corajosos.
+S: Os bombeiros corajosos realizaram o resgate.
+
+C: A cura foi descoberta pelos cientistas dedicados.
+S: Os cientistas dedicados descobriram a cura.
+
+C: A prisão foi realizada pela polícia diligente.
+S: A polícia diligente realizou a prisão.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: Os presentes foram entregues pelos convidados.
+S: Os convidados entregaram os presentes.
+
+C: A pesquisa será conduzida pelo professor.
+S: O professor conduzirá a pesquisa.
+
+C: O livro foi escrito por um autor desconhecido.
+S: Um autor desconhecido escreveu o livro.
+
+C: O acidente foi causado pelo motorista distraído.
+S: O motorista distraído causou o acidente.
+
+C: Os pratos foram lavados pela moça.
+S: A moça lavou os pratos.
+
+C: O cachorro foi adotado pela família.
+S: A família adotou o cachorro.
+
+C: Os documentos foram enviados pelo correio.
+S: O correio enviou os documentos.
+
+C: O incêndio foi apagado pelos bombeiros.
+S: Os bombeiros apagaram o incêndio.
+
+C: A torta foi assada pela confeiteira.
+S: A confeiteira assou a torta.
+
+C: O trabalho será realizado pela equipe de marketing.
+S: A equipe de marketing realizará o trabalho.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A comida será preparada pelo chef renomado.
+S: O chef renomado preparará a comida.
+
+C: A conferência foi organizada pelos alunos.
+S: Os alunos organizaram a conferência.
+
+C: O livro será escrito pelo autor famoso.
+S: O autor famoso escreverá o livro.
+
+C: A música foi composta pelo pianista talentoso.
+S: O pianista talentoso compôs a música.
+
+C: O evento será coordenado pela equipe de produção.
+S: A equipe de produção coordenará o evento.
+
+C: A casa foi construída pelos trabalhadores da construção civil.
+S: Os trabalhadores da construção civil construíram a casa.
+
+C: O projeto foi desenvolvido pelo engenheiro.
+S: O engenheiro desenvolveu o projeto.
+
+C: O acidente foi causado pelo motorista imprudente.
+S: O motorista imprudente causou o acidente.
+
+C: As regras foram elaboradas pelos professores de educação física.
+S: Os professores de educação física elaboraram as regras.
+
+C: O edifício foi projetado pelo renomado arquiteto Oscar Niemeyer.
+S: Oscar Niemeyer projetou o edifício.
+
+C: A festa de aniversário será organizada pelos amigos da aniversariante.
+S: Os amigos da aniversariante organizarão a festa de aniversário.
+
+C: O novo contrato foi assinado pela empresa de advocacia.
+S: A empresa de advocacia assinou o novo contrato.
+
+C: A música será tocada pela banda local.
+S: A banda local tocará a música.
+
+C: O prêmio foi entregue pelo diretor da empresa.
+S: O diretor da empresa entregou o prêmio.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens instantâneas.
+S: O aplicativo de mensagens instantâneas enviou a mensagem.
+
+C: A encomenda será entregue pela transportadora na próxima segunda-feira.
+S: A transportadora entregará a encomenda na próxima segunda-feira.
+
+C: O trabalho foi realizado pelos funcionários da empresa.
+S: Os funcionários da empresa realizaram o trabalho.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O projeto será realizado pelos alunos do curso de Engenharia Civil.
+S: Os alunos do curso de Engenharia Civil realizarão o projeto.
+
+C: O livro será lido pelo professor na próxima aula.
+S: O professor lerá o livro na próxima aula.
+
+C: O carro foi consertado pelo mecânico especializado.
+S: O mecânico especializado consertou o carro.
+
+C: O bolo será assado pelos alunos do curso de Gastronomia.
+S: Os alunos do curso de Gastronomia assarão o bolo.
+
+C: A cidade foi atingida pela tempestade no final de semana.
+S: A tempestade atingiu a cidade no final de semana.
+
+C: A proposta será analisada pelo comitê de avaliação.
+S: O comitê de avaliação analisará a proposta.
+
+C: Os ingressos foram comprados pela empresa para os funcionários.
+S: A empresa comprou os ingressos para os funcionários.
+
+C: As refeições foram preparadas pelo chef renomado do restaurante.
+S: O chef renomado do restaurante preparou as refeições.
+
+C: O contrato foi redigido pelo advogado especialista em contratos.
+S: O advogado especialista em contratos redigiu o contrato.
+
+C: A pesquisa será realizada pela equipe de cientistas renomados.
+S: A equipe de cientistas renomados realizará a pesquisa.
+
+C: O livro foi escrito por um autor renomado.
+S: Um autor renomado escreveu o livro.
+
+C: A casa foi comprada pelos meus pais.
+S: Meus pais compraram a casa.
+
+C: As flores foram plantadas pelo jardineiro.
+S: O jardineiro plantou as flores.
+
+C: A pizza foi entregue pelo entregador.
+S: O entregador entregou a pizza.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A música foi composta pela banda.
+S: A banda compôs a música.
+
+C: O quadro foi pintado pelo artista.
+S: O artista pintou o quadro.
+
+C: As janelas foram limpas pelo faxineiro.
+S: O faxineiro limpou as janelas.
+
+C: A comida foi preparada pelo chef de cozinha.
+S: O chef de cozinha preparou a comida.
+
+C: O presente foi embrulhado pelo vendedor.
+S: O vendedor embrulhou o presente.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A mensagem foi transmitida pelo rádio.
+S: O rádio transmitiu a mensagem.
+
+C: A carta foi enviada pela minha irmã.
+S: Minha irmã enviou a carta.
+
+C: As flores foram entregues pelo entregador.
+S: O entregador entregou as flores.
+
+C: O bolo foi assado pela confeiteira.
+S: A confeiteira assou o bolo.
+
+C: O problema foi resolvido pelo técnico.
+S: O técnico resolveu o problema.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O leite foi derramado pela criança.
+S: A criança derramou o leite.
+
+C: A ideia foi apresentada pelo professor.
+S: O professor apresentou a ideia.
+
+C: A festa foi organizada pelos meus amigos.
+S: Meus amigos organizaram a festa.
+
+C: A carta foi escrita por João.
+S: João escreveu a carta.
+
+C: Os livros foram lidos pelas crianças.
+S: As crianças leram os livros.
+
+C: O bolo foi feito pela minha mãe.
+S: Minha mãe fez o bolo.
+
+C: A cidade foi fundada pelos colonizadores europeus.
+S: Os colonizadores europeus fundaram a cidade.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A casa foi limpa pela empregada.
+S: A empregada limpou a casa.
+
+C: As flores foram regadas pelo jardineiro.
+S: O jardineiro regou as flores.
+
+C: O show foi assistido pelo público.
+S: O público assistiu ao show.
+
+C: O documento foi assinado pelo autor.
+S: O autor assinou o documento.
+
+C: A mensagem foi enviada pelo celular.
+S: O celular enviou a mensagem.
+
+C: O acidente foi causado pelo motorista distraído.
+S: O motorista distraído causou o acidente.
+
+C: Os presentes foram comprados pelo pai.
+S: O pai comprou os presentes.
+
+C: A casa foi invadida pelos ladrões.
+S: Os ladrões invadiram a casa.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: As flores foram plantadas pelo jardineiro.
+S: O jardineiro plantou as flores.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A música foi composta pelo pianista virtuoso.
+S: O pianista virtuoso compôs a música.
+
+C: O gol foi marcado pelo jogador talentoso.
+S: O jogador talentoso marcou o gol.
+
+C: A festa foi organizada pela amiga da aniversariante.
+S: A amiga da aniversariante organizou a festa.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: A casa foi construída pelos trabalhadores.
+S: Os trabalhadores construíram a casa.
+
+C: A comida foi preparada pelo chef.
+S: O chef preparou a comida.
+
+C: A música foi escrita pelo compositor famoso.
+S: O compositor famoso escreveu a música.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: Os presentes foram entregues pelos correios.
+S: Os correios entregaram os presentes.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: As informações foram divulgadas pela empresa.
+S: A empresa divulgou as informações.
+
+C: O problema foi solucionado pela equipe de especialistas.
+S: A equipe de especialistas solucionou o problema.
+
+C: A festa foi organizada pelos amigos.
+S: Os amigos organizaram a festa.
+
+C: O contrato foi assinado pelo representante legal.
+S: O representante legal assinou o contrato.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: O livro foi escrito pelo famoso autor.
+S: O famoso autor escreveu o livro.
+
+C: O trabalho será concluído pelos estudantes.
+S: Os estudantes concluirão o trabalho.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: As flores foram plantadas pelo jardineiro.
+S: O jardineiro plantou as flores.
+
+C: A festa será organizada pelos organizadores do evento.
+S: Os organizadores do evento organizarão a festa.
+
+C: As crianças foram ensinadas pela professora.
+S: A professora ensinou as crianças.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A música foi composta pelo compositor premiado.
+S: O compositor premiado compôs a música.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: O livro será lido por mim.
+S: Eu irei ler o livro.
+
+C: As flores foram regadas pela minha mãe.
+S: Minha mãe regou as flores.
+
+C: O trabalho será entregue pelo aluno amanhã.
+S: O aluno entregará o trabalho amanhã.
+
+C: O presente foi comprado pela minha irmã.
+S: Minha irmã comprou o presente.
+
+C: A casa será vendida pelo proprietário.
+S: O proprietário venderá a casa.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O bolo será assado pela minha avó.
+S: Minha avó assará o bolo.
+
+C: A música foi escrita pelo compositor.
+S: O compositor escreveu a música.
+
+C: O texto foi traduzido pelo estudante.
+S: O estudante traduziu o texto.
+
+C: O jardim será cuidado pelo jardineiro.
+S: O jardineiro cuidará do jardim.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: As cartas foram enviadas pelos correios.
+S: Os correios enviaram as cartas.
+
+C: O filme foi dirigido pelo renomado diretor.
+S: O renomado diretor dirigiu o filme.
+
+C: O trabalho foi realizado pela equipe de pesquisadores.
+S: A equipe de pesquisadores realizou o trabalho.
+
+C: O bolo foi feito pela chefe de cozinha.
+S: A chefe de cozinha fez o bolo.
+
+C: As medidas foram adotadas pelo governo.
+S: O governo adotou as medidas.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: O quadro foi pintado pelo artista talentoso.
+S: O artista talentoso pintou o quadro.
+
+C: A peça foi montada pela equipe de teatro.
+S: A equipe de teatro montou a peça.
+
+C: O carro foi vendido pelo João.
+S: João vendeu o carro.
+
+C: A carta foi enviada pela agência dos correios.
+S: A agência dos correios enviou a carta.
+
+C: A porta foi aberta pelo vento.
+S: O vento abriu a porta.
+
+C: O bolo foi feito pela minha mãe.
+S: Minha mãe fez o bolo.
+
+C: A música foi composta pelo Mozart.
+S: Mozart compôs a música.
+
+C: O filme foi dirigido pelo Spielberg.
+S: Spielberg dirigiu o filme.
+
+C: O presente foi embrulhado pela Ana.
+S: A Ana embrulhou o presente.
+
+C: A história foi contada pela professora.
+S: A professora contou a história.
+
+C: O susto foi causado pelo barulho.
+S: O barulho causou o susto.
+
+C: O café foi preparado pela máquina.
+S: A máquina preparou o café.
+
+C: A carta foi escrita pelo professor.
+S: O professor escreveu a carta.
+
+C: A reunião será coordenada pela gerente.
+S: A gerente coordenará a reunião.
+
+C: As instruções foram seguidas pelos alunos.
+S: Os alunos seguiram as instruções.
+
+C: O jantar foi preparado pelo chef renomado.
+S: O chef renomado preparou o jantar.
+
+C: O livro será lançado pela editora renomada.
+S: A editora renomada lançará o livro.
+
+C: A festa foi organizada pela equipe de eventos.
+S: A equipe de eventos organizou a festa.
+
+C: A peça foi escrita pelo famoso dramaturgo.
+S: O famoso dramaturgo escreveu a peça.
+
+C: A casa foi construída pelo renomado arquiteto.
+S: O renomado arquiteto construiu a casa.
+
+C: O projeto foi aprovado pela diretoria.
+S: A diretoria aprovou o projeto.
+
+C: O carro foi consertado pelo mecânico experiente.
+S: O mecânico experiente consertou o carro.
+
+C: Os ingressos foram comprados pelos meus amigos.
+S: Meus amigos compraram os ingressos.
+
+C: A casa foi construída pelo meu pai.
+S: Meu pai construiu a casa.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: A comida foi preparada pelo chef famoso.
+S: O chef famoso preparou a comida.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: A tarefa foi realizada pela equipe de trabalho.
+S: A equipe de trabalho realizou a tarefa.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: Eu enviei a mensagem pelo aplicativo de mensagens.
+
+C: O poema foi escrito pelo poeta talentoso.
+S: O poeta talentoso escreveu o poema.
+
+C: O livro foi lido pela bibliotecária.
+S: A bibliotecária leu o livro.
+
+C: A cirurgia foi realizada pelo médico especialista.
+S: O médico especialista realizou a cirurgia.
+
+C: O livro foi escrito por ela.
+S: Ela escreveu o livro.
+
+C: A decisão será tomada pelo juiz.
+S: O juiz tomará a decisão.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: As encomendas foram entregues pelos correios.
+S: Os correios entregaram as encomendas.
+
+C: O acidente foi causado pelo motorista imprudente.
+S: O motorista imprudente causou o acidente.
+
+C: O projeto será desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolverá o projeto.
+
+C: Os presentes foram trocados pelos amigos.
+S: Os amigos trocaram os presentes.
+
+C: A comida foi preparada pelo chef renomado.
+S: O chef renomado preparou a comida.
+
+C: O carro foi consertado pelo mecânico habilidoso.
+S: O mecânico habilidoso consertou o carro.
+
+C: Os resultados foram alcançados pelo esforço conjunto.
+S: O esforço conjunto alcançou os resultados.
+
+C: Uma carta foi enviada por Maria para seu amigo João.
+S: Maria enviou uma carta para seu amigo João.
+
+C: O quadro foi pintado por um artista renomado.
+S: Um artista renomado pintou o quadro.
+
+C: A casa foi comprada por um casal jovem.
+S: Um casal jovem comprou a casa.
+
+C: O livro foi escrito pelo famoso autor brasileiro.
+S: O famoso autor brasileiro escreveu o livro.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: O projeto foi concluído pela equipe de engenheiros.
+S: A equipe de engenheiros concluiu o projeto.
+
+C: A decisão foi tomada pela diretoria da empresa.
+S: A diretoria da empresa tomou a decisão.
+
+C: O crime foi investigado pela polícia.
+S: A polícia investigou o crime.
+
+C: O bolo foi feito pela mãe da aniversariante.
+S: A mãe da aniversariante fez o bolo.
+
+C: As vítimas foram socorridas pelos bombeiros.
+S: Os bombeiros socorreram as vítimas.
+
+C: A casa foi vendida pelo proprietário.
+S: O proprietário vendeu a casa.
+
+C: A mensagem foi enviada pelo aplicativo de mensagens.
+S: O aplicativo de mensagens enviou a mensagem.
+
+C: O trabalho será concluído pela equipe de projetos.
+S: A equipe de projetos concluirá o trabalho.
+
+C: O pacote foi entregue pelo carteiro.
+S: O carteiro entregou o pacote.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: A festa será organizada pela comissão de eventos.
+S: A comissão de eventos organizará a festa.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: O prêmio foi recebido pelo jogador de futebol.
+S: O jogador de futebol recebeu o prêmio.
+
+C: A refeição será preparada pela equipe de cozinha.
+S: A equipe de cozinha preparará a refeição.
+
+C: A cidade foi fundada pelos colonizadores.
+S: Os colonizadores fundaram a cidade.
+
+C: O carro foi lavado pelo meu irmão.
+S: Meu irmão lavou o carro.
+
+C: Uma nova descoberta científica foi anunciada pelos pesquisadores.
+S: Os pesquisadores anunciaram uma nova descoberta científica.
+
+C: A carta foi enviada pelo meu professor.
+S: Meu professor enviou a carta.
+
+C: A festa de aniversário será organizada por minha mãe.
+S: Minha mãe irá organizar a festa de aniversário.
+
+C: Os ingressos foram comprados pelos meus amigos.
+S: Meus amigos compraram os ingressos.
+
+C: O projeto foi desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolveu o projeto.
+
+C: O restaurante será inaugurado pelo famoso chef francês.
+S: O famoso chef francês irá inaugurar o restaurante.
+
+C: O show foi cancelado pela produção.
+S: A produção cancelou o show.
+
+C: As regras foram estabelecidas pelos professores.
+S: Os professores estabeleceram as regras.
+
+C: A casa foi construída pela empresa de construção.
+S: A empresa de construção construiu a casa.
+
+C: O livro foi escrito pelo autor famoso.
+S: O autor famoso escreveu o livro.
+
+C: A casa foi construída pelos trabalhadores.
+S: Os trabalhadores construíram a casa.
+
+C: O projeto será financiado pela empresa.
+S: A empresa financiará o projeto.
+
+C: O quadro foi pintado pelo artista renomado.
+S: O artista renomado pintou o quadro.
+
+C: A comida foi preparada pelo chef experiente.
+S: O chef experiente preparou a comida.
+
+C: O evento será organizado pela empresa de eventos.
+S: A empresa de eventos organizará o evento.
+
+C: A música foi composta pelo cantor talentoso.
+S: O cantor talentoso compôs a música.
+
+C: A pesquisa foi realizada pelos cientistas renomados.
+S: Os cientistas renomados realizaram a pesquisa.
+
+C: A foto foi tirada pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou a foto.
+
+C: O prêmio será entregue pelo diretor do evento.
+S: O diretor do evento entregará o prêmio.
+
+C: As regras são seguidas pelo jogador durante o jogo.
+S: O jogador segue as regras durante o jogo.
+
+C: A casa foi construída pelo meu pai.
+S: Meu pai construiu a casa.
+
+C: A ação foi realizada pelo time adversário.
+S: O time adversário realizou a ação.
+
+C: A comida foi preparada pela minha mãe.
+S: Minha mãe preparou a comida.
+
+C: O projeto foi desenvolvido pela equipe de engenharia.
+S: A equipe de engenharia desenvolveu o projeto.
+
+C: A música foi composta pelo famoso compositor.
+S: O famoso compositor compôs a música.
+
+C: A mensagem foi enviada pelo meu amigo.
+S: Meu amigo enviou a mensagem.
+
+C: O problema foi resolvido pela equipe de suporte técnico.
+S: A equipe de suporte técnico resolveu o problema.
+
+C: O acidente foi causado pelo motorista irresponsável.
+S: O motorista irresponsável causou o acidente.
+
+C: O livro foi escrito pelo renomado autor.
+S: O renomado autor escreveu o livro.
+
+C: A comida foi preparada pelo chef renomado do restaurante.
+S: O chef renomado do restaurante preparou a comida.
+
+C: A festa será organizada pelos alunos do segundo ano.
+S: Os alunos do segundo ano organizarão a festa.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: A pintura foi feita pelo famoso artista.
+S: O famoso artista fez a pintura.
+
+C: Os convites foram impressos pela gráfica local.
+S: A gráfica local imprimiu os convites.
+
+C: O livro foi escrito pelo autor vencedor do prêmio Nobel.
+S: O autor vencedor do prêmio Nobel escreveu o livro.
+
+C: A decisão será tomada pelo comitê de avaliação.
+S: O comitê de avaliação tomará a decisão.
+
+C: A música foi composta pelo talentoso compositor.
+S: O talentoso compositor compôs a música.
+
+C: As fotos foram tiradas pelo fotógrafo profissional.
+S: O fotógrafo profissional tirou as fotos.
+
+C: As roupas foram lavadas pela lavanderia da esquina.
+S: A lavanderia da esquina lavou as roupas.
+
+C: Os livros foram emprestados pela biblioteca.
+S: A biblioteca emprestou os livros.
+
+C: A música foi composta por Mozart.
+S: Mozart compôs a música.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O bolo foi assado pela minha mãe.
+S: Minha mãe assou o bolo.
+
+C: A casa foi construída pelo empreiteiro.
+S: O empreiteiro construiu a casa.
+
+C: O trabalho foi entregue pelo estudante.
+S: O estudante entregou o trabalho.
+
+C: O acidente foi provocado pelo motorista distraído.
+S: O motorista distraído provocou o acidente.
+
+C: A mensagem foi enviada pela empresa de correios.
+S: A empresa de correios enviou a mensagem.
+
+C: O filme foi dirigido pelo famoso diretor.
+S: O famoso diretor dirigiu o filme.
+
+C: A pintura foi feita pelo artista renomado.
+S: O artista renomado fez a pintura.
+
+C: O carro foi consertado pelo mecânico.
+S: O mecânico consertou o carro.
+
+C: O livro foi escrito pelo autor renomado.
+S: O autor renomado escreveu o livro.
+
+C: As compras foram realizadas pela equipe de compras.
+S: A equipe de compras realizou as compras.
+
+C: A cidade foi devastada pelo terremoto.
+S: O terremoto devastou a cidade.
+
+C: A carta foi enviada pelo correio.
+S: O correio enviou a carta.
+
+C: O problema foi resolvido pelo técnico.
+S: O técnico resolveu o problema.
+
+C: A janela foi quebrada pelo vento forte.
+S: O vento forte quebrou a janela.
+
+C: O poema foi recitado pelo aluno talentoso.
+S: O aluno talentoso recitou o poema.
+
+C: O bolo foi assado pela mãe.
+S: A mãe assou o bolo.
+
+C: O relatório foi elaborado pelo especialista.
+S: O especialista elaborou o relatório.
+

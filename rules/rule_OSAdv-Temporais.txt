@@ -1,0 +1,37 @@
+(3) Orações subordinadas adverbiais
+
+i. Temporais: indicam a circunstância de tempo em que ocorre a ação do verbo da
+oração principal: quando, enquanto, assim que, logo que, até que, depois de,
+desde que, apenas, mal, sempre que, cada vez que, antes que, etc.
+Regra: Dividir a sentença em duas:
+1) Sentença para a cláusula subordinada, eliminado-se o marcador discursivo e
+adequando-se o tempo verbal se necessário. Pode ser necessário incluir o sujeito
+constituído do núcleo do termo da oração principal a que se refere a subordinada (ou
+o termo completo, caso o núcleo não seja suficiente).
+2) Sentença original sem a cláusula subordinada. O tempo verbal pode precisar ser
+alterado.
+
+Exemplos:
+
+Complexa: Ao conversar com a reportagem na manhã de ontem, Williamson ainda não havia recebido as notícias sobre o depoimento de Buratti e não escondeu sua surpresa com as suspeitas.
+Simplificada: Williamson conversou com a reportagem na manhã de ontem. Williamson ainda não havia recebido as notícias sobre o depoimento de Buratti e não escondeu sua surpresa com as suspeitas.
+
+Para marcadores que indicam seqüência no tempo (ex.: depois que, logo que,
+etc.): Dividir a sentença em duas:
+1) Sentença para a cláusula subordinada, eliminando-se o marcador discursivo e
+adequando-se o tempo verbal se necessário. Pode ser necessário incluir o sujeito
+constituído do núcleo do termo da oração principal a que se refere a subordinada (ou
+o termo completo, caso o núcleo não seja suficiente).
+2) Sentença original sem a cláusula subordinada, precedida pelo marcador 'EM
+SEGUIDA'. O tempo verbal pode precisar ser alterado.
+
+Exemplos: 
+
+Complexa: A indisposição entre Clinton e seguranças aumentou depois que jornais publicaram histórias sobre a intimidade do casal Clinton .
+Simplificada: Os jornais publicaram histórias sobre a intimidade do casal Clinton . Em seguida, a indisposição entre Clinton e seguranças aumentou.
+
+Complexa: Loiola saiu viajando em busca do filho depois que soube por amigos dele que ele estavatrabalhando no sul do Pará .
+Simplificada: Loiola soube por amigos dele que o filho estava trabalhando no sul do Pará . Em seguida, Loiola saiu viajando em busca do filho .
+
+Complexa: Eu demiti o tesoureiro do sindicato logo que descobri os documentos falsificados .
+Simplificada: Eu descobri os documentos falsificados. Em seguida, eu demiti o tesoureiro do sindicato.

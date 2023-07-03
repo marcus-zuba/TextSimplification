@@ -1,0 +1,30 @@
+(4) Orações coordenadas
+
+b. Sindéticas
+
+3o. Alternativas: explicam alternância de idéias: ou...ou, ora...ora, já...já, quer...quer, etc.
+
+Regra: Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada sem o marcador de alternância.
+2) Sentença para a cláusula subordinada, excluindo-se o marcador de alternância e
+incluindo-se o marcador 'TAMBEM' numa posição adequada, procurando manter
+a ordem S-V-O. Pode ser necessário explicitar o sujeito, constituído do núcleo do
+termo da oração principal, bem como o verbo ou objeto (caso estejam ocultos).
+
+Exemplos:
+
+Complexa: Boa parte destas isenções ora financiam setores industriais já consolidados no mundo , ora servem para que donos de universidades não paguem impostos .
+Simplificada: Boa parte destas isenções financiam setores industriais já consolidados no mundo. Boa parte destas isenções também servem para que donos de universidades não paguem impostos .
+
+Complexa: Ou o prefeito paulistano solicita a devolução da quantia ou pode utilizar o crédito para compensação de impostos futuros.
+Simplificada: O prefeito paulistano solicita a devolução da quantia. O prefeito também pode utilizar o crédito para compensação de impostos futuros.
+
+Complexa: Não podem se queixar do comércio , não só com o Brasil , mas com toda a América Latina .
+Simplificada: Não podem se queixar do comércio com o Brasil. Também não podem se queixar do comércio com toda a América Latina.
+
+Observação: Não simplificar sentenças muito curtas, nas quais a simplificação implicaria no aumento da complexidade da sentença original. 
+
+Por exemplo:
+
+Complexa: Ou você cresce , ou você morre .
+Simplificada: Ou você cresce , ou você morre .

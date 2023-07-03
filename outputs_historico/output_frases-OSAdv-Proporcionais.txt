@@ -1,0 +1,4630 @@
+C: À medida que o tempo passa, a índole das pessoas vai se revelando.
+S: À medida que o tempo passa, a índole das pessoas vai se revelando.
+
+C: Quanto mais estuda, mais conhecimento adquire.
+S: Quanto mais estuda, mais conhecimento adquire.
+
+C: À proporção que ele envelhece, sua memória vai falhando.
+S: À proporção que ele envelhece, sua memória vai falhando.
+
+C: À medida que a competição se acirra, os jogadores se esforçam ainda mais.
+S: À medida que a competição se acirra, os jogadores se esforçam ainda mais.
+
+C: Quanto menos ele se dedica aos estudos, pior fica seu desempenho acadêmico.
+S: Quanto menos ele se dedica aos estudos, pior fica seu desempenho acadêmico.
+
+C: Ao passo que o tempo passa, a saudade aumenta.
+S: Ao passo que o tempo passa, a saudade aumenta.
+
+C: À medida que ela se exercita, vai ganhando resistência física.
+S: À medida que ela se exercita, vai ganhando resistência física.
+
+C: Ao passo que a tecnologia avança, as tarefas se tornam mais simplificadas.
+S: Ao passo que a tecnologia avança, as tarefas se tornam mais simplificadas.
+
+C: Quanto mais chove, mais difícil fica dirigir na estrada.
+S: Quanto mais chove, mais difícil fica dirigir na estrada.
+
+C: À medida que ele se aprimora nessa habilidade, suas chances de sucesso aumentam.
+S: À medida que ele se aprimora nessa habilidade, suas chances de sucesso aumentam.
+
+C: À medida que o sol se punha, as estrelas começavam a brilhar no céu.
+S: À medida que o sol se punha, as estrelas começavam a brilhar no céu.
+
+C: Quanto mais estudamos, mais aprendemos sobre o assunto.
+S: Quanto mais estudamos, mais aprendemos sobre o assunto.
+
+C: À medida que o tempo passava, o nervosismo aumentava.
+S: À medida que o tempo passava, o nervosismo aumentava.
+
+C: Quanto mais treinamos, melhor ficamos no esporte.
+S: Quanto mais treinamos, melhor ficamos no esporte.
+
+C: À medida que a chuva caía, as ruas ficavam mais vazias.
+S: À medida que a chuva caía, as ruas ficavam mais vazias.
+
+C: Quanto mais andávamos, mais longe estávamos do destino.
+S: Quanto mais andávamos, mais longe estávamos do destino.
+
+C: À medida que o nível da água subia, as casas começaram a inundar.
+S: À medida que o nível da água subia, as casas começaram a inundar.
+
+C: Quanto mais o tempo passava, mais a ansiedade aumentava.
+S: Quanto mais o tempo passava, mais a ansiedade aumentava.
+
+C: À medida que o vento soprava, as folhas das árvores caíam.
+S: À medida que o vento soprava, as folhas das árvores caíam.
+
+C: Quanto mais lemos, mais conhecimento adquirimos.
+S: Quanto mais lemos, mais conhecimento adquirimos.
+
+C: À medida que a temperatura aumenta, a agitação das moléculas também aumenta.
+S: À medida que a temperatura aumenta, a agitação das moléculas aumenta.
+
+C: Quanto mais estudo, mais conhecimento adquiro.
+S: Quanto mais estudo, mais conhecimento adquiro.
+
+C: Ao passo que o tempo passa, as coisas mudam.
+S: Ao passo que o tempo passa, as coisas mudam.
+
+C: Enquanto os lucros crescem, a empresa se expande.
+S: Enquanto os lucros crescem, a empresa se expande.
+
+C: À medida que a chuva cai, a grama fica mais verde.
+S: À medida que a chuva cai, a grama fica mais verde.
+
+C: Ao longo do tempo, a tecnologia avança.
+S: Ao longo do tempo, a tecnologia avança.
+
+C: À medida que o tráfego aumenta, o tempo de viagem aumenta.
+S: À medida que o tráfego aumenta, o tempo de viagem aumenta.
+
+C: Quanto mais treino, melhor fico no esporte.
+S: Quanto mais treino, melhor fico no esporte.
+
+C: À medida que a demanda sobe, o preço também sobe.
+S: À medida que a demanda sobe, o preço também sobe.
+
+C: Quanto mais o tempo passa, mais aprendemos.
+S: Quanto mais o tempo passa, mais aprendemos.
+
+C: À proporção que a tecnologia avança, os dispositivos eletrônicos se tornam mais eficientes.
+S: À medida que a tecnologia avança, os dispositivos eletrônicos se tornam mais eficientes.
+
+C: Ao passo que o tempo passa, as lembranças se desvanecem.
+S: À medida que o tempo passa, as lembranças se desvanecem.
+
+C: Quanto mais estudo, melhores são as minhas notas.
+S: À medida que estudo mais, minhas notas melhoram.
+
+C: Quanto mais você se exercita, mais saudável você se torna.
+S: À medida que você se exercita mais, você se torna mais saudável.
+
+C: Quanto mais pessoas sabem, mais poderoso se torna o conhecimento.
+S: À medida que mais pessoas sabem, o conhecimento se torna mais poderoso.
+
+C: À medida que o sol se põe, o céu se enche de estrelas.
+S: À medida que o sol se põe, o céu se enche de estrelas.
+
+C: À medida que os anos passam, as rugas aparecem.
+S: À medida que os anos passam, as rugas aparecem.
+
+C: Ao passo que a comida esfria, ela perde o sabor.
+S: À medida que a comida esfria, ela perde o sabor.
+
+C: Quanto mais você economiza, mais dinheiro você tem no final do mês.
+S: À medida que você economiza mais, você tem mais dinheiro no final do mês.
+
+C: À medida que as pessoas envelhecem, elas ficam mais sábias.
+S: À medida que as pessoas envelhecem, elas ficam mais sábias.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: Conforme o tempo passa, a saudade aumenta.
+
+C: À medida que o sol se põe, a temperatura diminui.
+S: Conforme o sol se põe, a temperatura diminui.
+
+C: Quanto mais ele estuda, mais notas boas tira.
+S: A medida que estuda mais, ele tira notas boas.
+
+C: À medida que o trânsito aumenta, o estresse dos motoristas também aumenta.
+S: Conforme o trânsito aumenta, o estresse dos motoristas também aumenta.
+
+C: Quanto mais cedo acordarmos, mais tempo teremos para aproveitar o dia.
+S: À medida que acordamos mais cedo, temos mais tempo para aproveitar o dia.
+
+C: À medida que o conhecimento se expande, novas descobertas são feitas.
+S: Conforme o conhecimento se expande, novas descobertas são feitas.
+
+C: À medida que as pessoas envelhecem, a memória pode ser prejudicada.
+S: Conforme as pessoas envelhecem, a memória pode ser prejudicada.
+
+C: Ingerindo mais água, você sentirá menos sede.
+S: À medida que ingere mais água, você sentirá menos sede.
+
+C: Quanto mais tempo você dedicar aos estudos, melhores serão os resultados.
+S: A medida que dedica mais tempo aos estudos, melhores serão os resultados.
+
+C: À medida que a paciência acaba, a irritação aumenta.
+S: Conforme a paciência acaba, a irritação aumenta.
+
+C: À proporção que o tempo passa, ficamos mais experientes.
+S: À medida que o tempo passa, ficamos mais experientes.
+
+C: Quanto mais estudo, menos ansioso fico antes das provas.
+S: À medida que estudo mais, fico menos ansioso antes das provas.
+
+C: Ao passo que ele evolui, os demais ficam para trás.
+S: À medida que ele evolui, os demais ficam para trás.
+
+C: À medida que a temperatura sobe, a sede aumenta.
+S: À medida que a temperatura sobe, a sede aumenta.
+
+C: Quanto mais você pratica, melhor você fica.
+S: À medida que você pratica mais, você fica melhor.
+
+C: À medida que os anos passam, os cabelos grisalhos aparecem.
+S: À medida que os anos passam, os cabelos grisalhos aparecem.
+
+C: À medida que ele se esforça, alcança seus objetivos.
+S: À medida que ele se esforça, alcança seus objetivos.
+
+C: Quanto mais estudamos, menos cometemos erros.
+S: À medida que estudamos mais, cometemos menos erros.
+
+C: Ao passo que os alunos se dedicam, obtêm melhores notas.
+S: À medida que os alunos se dedicam, obtêm melhores notas.
+
+C: À medida que o dia avança, a noite se aproxima.
+S: À medida que o dia avança, a noite se aproxima.
+
+C: À medida que o tempo passa, os problemas se acumulam.
+S: Conforme o tempo passa, os problemas se acumulam.
+
+C: Quanto mais você se exercita, mais saudável fica.
+S: Quanto mais você se exercita, mais saudável fica.
+
+C: À medida que o sol se põe, a temperatura começa a baixar.
+S: Conforme o sol se põe, a temperatura começa a baixar.
+
+C: Quanto mais você estuda, mais conhecimento adquire.
+S: Quanto mais você estuda, mais conhecimento adquire.
+
+C: À medida que a demanda aumenta, os preços sobem.
+S: Conforme a demanda aumenta, os preços sobem.
+
+C: Quanto mais você economiza, mais dinheiro terá no futuro.
+S: Quanto mais você economiza, mais dinheiro terá no futuro.
+
+C: À medida que a pressão aumenta, o desempenho diminui.
+S: Conforme a pressão aumenta, o desempenho diminui.
+
+C: Quanto mais treinado você fica, mais resultados obtém.
+S: Quanto mais treinado você fica, mais resultados obtém.
+
+C: À medida que a idade avança, a energia diminui.
+S: Conforme a idade avança, a energia diminui.
+
+C: Quanto mais você estuda, menos dificuldades encontra na prova.
+S: Quanto mais você estuda, menos dificuldades encontra na prova.
+
+C: À medida que o tempo passa, a dor vai diminuindo.
+S: À medida que o tempo passa, a dor diminui.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o sol se põe, a temperatura cai.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: Quanto mais treino, menos erro.
+S: Quanto mais treino, menos erro.
+
+C: À medida que o tráfego aumenta, a paciência diminui.
+S: À medida que o tráfego aumenta, a paciência diminui.
+
+C: Quanto mais dinheiro ganho, mais gasto.
+S: Quanto mais dinheiro ganho, mais gasto.
+
+C: À medida que o dia avança, a sensação de cansaço aumenta.
+S: À medida que o dia avança, o cansaço aumenta.
+
+C: Quanto mais estudo, menos dúvidas tenho.
+S: Quanto mais estudo, menos dúvidas tenho.
+
+C: À medida que o tempo esfria, as pessoas vestem casacos mais pesados.
+S: À medida que o tempo esfria, as pessoas vestem casacos mais pesados.
+
+C: Quanto mais me exercito, mais energia tenho.
+S: Quanto mais me exercito, mais energia tenho.
+
+C: À medida que o tempo passa, a população mundial aumenta.
+S: À medida que o tempo passa, a população mundial aumenta.
+
+C: Ao passo que ele estuda mais, seu desempenho melhora.
+S: Ao passo que ele estuda mais, seu desempenho melhora.
+
+C: Quanto mais exercícios ele faz, mais forte ele fica.
+S: Quanto mais exercícios ele faz, mais forte ele fica.
+
+C: Quanto mais estuda, mais conhecimento adquire.
+S: Quanto mais estuda, mais conhecimento adquire.
+
+C: À medida que o dia avança, o cansaço aumenta.
+S: À medida que o dia avança, o cansaço aumenta.
+
+C: Ao passo que a temperatura sobe, o conforto diminui.
+S: Ao passo que a temperatura sobe, o conforto diminui.
+
+C: Quanto mais dinheiro ele gasta, menos ele economiza.
+S: Quanto mais dinheiro ele gasta, menos ele economiza.
+
+C: Quanto mais estuda, menos tempo tem para descansar.
+S: Quanto mais estuda, menos tempo tem para descansar.
+
+C: À medida que ele se exercita, sua resistência aumenta.
+S: À medida que ele se exercita, sua resistência aumenta.
+
+C: Quanto mais treina, mais habilidoso ele se torna.
+S: Quanto mais treina, mais habilidoso ele se torna.
+
+C: À medida que a temperatura aumenta, a pressão do ar diminui.
+S: À medida que a temperatura aumenta, a pressão do ar diminui.
+
+C: Quanto mais eu estudo, melhor eu me saio nas provas.
+S: Quanto mais eu estudo, melhor eu me saio nas provas.
+
+C: À medida que o tempo passa, percebo que estou ficando mais maduro.
+S: À medida que o tempo passa, percebo que estou ficando mais maduro.
+
+C: À medida que o sol se põe, o céu fica mais bonito.
+S: À medida que o sol se põe, o céu fica mais bonito.
+
+C: À medida que envelheço, sinto a necessidade de cuidar mais da minha saúde.
+S: À medida que envelheço, sinto a necessidade de cuidar mais da minha saúde.
+
+C: Quanto mais eu me exercito, mais energia eu tenho.
+S: Quanto mais eu me exercito, mais energia eu tenho.
+
+C: À medida que as horas passam, fico cada vez mais cansado.
+S: À medida que as horas passam, fico cada vez mais cansado.
+
+C: Quanto mais eu trabalho, mais dinheiro eu ganho.
+S: Quanto mais eu trabalho, mais dinheiro eu ganho.
+
+C: À medida que o dia avança, o trânsito fica mais intenso.
+S: À medida que o dia avança, o trânsito fica mais intenso.
+
+C: À medida que aprendo coisas novas, percebo que ainda tenho muito a aprender.
+S: À medida que aprendo coisas novas, percebo que ainda tenho muito a aprender.
+
+C: À proporção que as temperaturas aumentam, os dias ficam mais quentes.
+S: À medida que as temperaturas aumentam, os dias ficam mais quentes.
+
+C: Quanto mais estudamos, mais aprendemos.
+S: À medida que estudamos, aprendemos mais.
+
+C: À medida que o tempo passa, as lembranças se tornam mais distantes.
+S: Conforme o tempo passa, as lembranças se tornam mais distantes.
+
+C: À medida que o sol se põe, o céu vai escurecendo.
+S: Conforme o sol se põe, o céu vai escurecendo.
+
+C: Quanto menos você descansar, mais cansado ficará.
+S: À medida que você descansa menos, fica mais cansado.
+
+C: À medida que o dia avança, a temperatura sobe.
+S: Conforme o dia avança, a temperatura sobe.
+
+C: Quanto mais você treinar, melhor ficará no esporte.
+S: À medida que você treina mais, fica melhor no esporte.
+
+C: À medida que o inverno se aproxima, as folhas caem das árvores.
+S: Conforme o inverno se aproxima, as folhas caem das árvores.
+
+C: À medida que a pressão aumenta, a temperatura de ebulição diminui.
+S: Conforme a pressão aumenta, a temperatura de ebulição diminui.
+
+C: Quanto mais você se esforçar, maiores serão os resultados.
+S: À medida que você se esforça mais, os resultados serão maiores.
+
+C: À medida que os alunos estudam mais, suas notas melhoram.
+S: Quando os alunos estudam mais, suas notas melhoram.
+
+C: À proporção que o tempo passa, as pessoas amadurecem.
+S: Conforme o tempo passa, as pessoas amadurecem.
+
+C: Quanto mais o sol brilha, mais calor faz.
+S: Se o sol brilha mais, faz mais calor.
+
+C: À medida que o dia vai chegando ao fim, a noite se aproxima.
+S: Quando o dia vai chegando ao fim, a noite se aproxima.
+
+C: À medida que a idade avança, a memória fica mais fraca.
+S: Quando a idade avança, a memória fica mais fraca.
+
+C: Quanto mais açúcar se adiciona, mais doce fica o bolo.
+S: Se adiciona mais açúcar, o bolo fica mais doce.
+
+C: À medida que a temperatura sobe, as pessoas procuram lugares mais frescos.
+S: Quando a temperatura sobe, as pessoas procuram lugares mais frescos.
+
+C: Quanto mais estudo se faz, melhor se aprende.
+S: Se faz mais estudo, se aprende melhor.
+
+C: À medida que a música toca, as pessoas dançam cada vez mais.
+S: Quando a música toca, as pessoas dançam cada vez mais.
+
+C: Quanto mais se pratica, mais habilidoso se torna.
+S: Se pratica mais, se torna mais habilidoso.
+
+C: À medida que o tempo passa, a saudade só aumenta.
+S: À medida que o tempo passa, a saudade aumenta.
+
+C: Quanto mais estudo, menos confuso fica.
+S: Quanto mais estudo, menos confuso fica.
+
+C: Ao passo que ele ganha mais experiência, suas habilidades se aprimoram.
+S: Ao passo que ele ganha mais experiência, suas habilidades se aprimoram.
+
+C: À proporção que o sol se põe, o céu fica mais colorido.
+S: À proporção que o sol se põe, o céu fica mais colorido.
+
+C: À medida que o conhecimento avança, novas descobertas são feitas.
+S: À medida que o conhecimento avança, novas descobertas são feitas.
+
+C: Quanto mais me esforço, mais resultados obtive.
+S: Quanto mais me esforço, mais resultados obtive.
+
+C: Enquanto o tempo passa, a dose de paciência vai diminuindo.
+S: Enquanto o tempo passa, a dose de paciência diminui.
+
+C: À medida que a temperatura sobe, a sede aumenta.
+S: À medida que a temperatura sobe, a sede aumenta.
+
+C: Ao passo que envelheço, percebo o quanto aprendi ao longo da vida.
+S: Ao passo que envelheço, percebo o quanto aprendi ao longo da vida.
+
+C: À proporção que o tempo passa, as lembranças ficam mais nítidas.
+S: À proporção que o tempo passa, as lembranças ficam mais nítidas.
+
+C: À medida que ela estudava mais, suas notas melhoravam.
+S: Ela estudava mais e suas notas melhoravam.
+
+C: Ao passo que o tempo passava, ele se tornava mais tranquilo.
+S: O tempo passava e ele se tornava mais tranquilo.
+
+C: Quanto mais treinava, mais forte ficava.
+S: Ele treinava e ficava mais forte.
+
+C: À medida que o sol se punha, o céu ficava mais colorido.
+S: O sol se punha e o céu ficava mais colorido.
+
+C: Enquanto ele caminhava, ela corria.
+S: Ele caminhava e ela corria.
+
+C: Ao passo que ele ganhava confiança, suas habilidades melhoravam.
+S: Ele ganhava confiança e suas habilidades melhoravam.
+
+C: À medida que ela economizava dinheiro, suas expectativas cresciam.
+S: Ela economizava dinheiro e suas expectativas cresciam.
+
+C: Ao passo que o show continuava, a plateia ficava mais animada.
+S: O show continuava e a plateia ficava mais animada.
+
+C: Quanto mais ele falava, menos ela escutava.
+S: Ele falava e ela escutava cada vez menos.
+
+C: À medida que o ruído aumentava, a paciência diminuía.
+S: O ruído aumentava e a paciência diminuía.
+
+C: À medida que o tempo passa, me sinto mais maduro.
+S: Conforme o tempo passa, me sinto mais maduro.
+
+C: À medida que os alunos estudam mais, suas notas melhoram.
+S: Quanto mais os alunos estudam, suas notas melhoram.
+
+C: À medida que a temperatura aumenta, as pessoas buscam lugares mais frescos.
+S: Na medida em que a temperatura aumenta, as pessoas buscam lugares mais frescos.
+
+C: À medida que as pessoas envelhecem, as rugas começam a aparecer.
+S: À medida que as pessoas envelhecem, as rugas começam a aparecer.
+
+C: À medida que a demanda por energia cresce, a necessidade de fontes renováveis também aumenta.
+S: Conforme a demanda por energia cresce, a necessidade de fontes renováveis também aumenta.
+
+C: À medida que os especialistas estudam o assunto, novas teorias surgem.
+S: À medida que os especialistas estudam o assunto, novas teorias surgem.
+
+C: À medida que a economia se recupera, o desemprego diminui.
+S: À medida que a economia se recupera, o desemprego diminui.
+
+C: À medida que o sol se põe, o céu se enche de estrelas.
+S: À medida que o sol se põe, o céu se enche de estrelas.
+
+C: À medida que os dias passam, as noites ficam mais longas.
+S: À medida que os dias passam, as noites ficam mais longas.
+
+C: À medida que os anos se passam, o corpo envelhece.
+S: À medida que os anos se passam, o corpo envelhece.
+
+C: À medida que o tempo passa, o sol se põe mais cedo.
+S: À medida que o tempo passa, o sol se põe mais cedo.
+
+C: À proporção que estudamos mais, aprendemos mais.
+S: À proporção que estudamos mais, aprendemos mais.
+
+C: Quanto mais eu estudo, menos eu entendo.
+S: Quanto mais eu estudo, menos eu entendo.
+
+C: Ao passo que ela se esforçava, eu desistia.
+S: Ao passo que ela se esforçava, eu desistia.
+
+C: À medida que a temperatura diminui, a neve começa a cair.
+S: À medida que a temperatura diminui, a neve começa a cair.
+
+C: Quanto mais me exercito, mais energia eu tenho.
+S: Quanto mais me exercito, mais energia eu tenho.
+
+C: À medida que o vento aumenta, as folhas caem das árvores.
+S: À medida que o vento aumenta, as folhas caem das árvores.
+
+C: Ao passo que o dia avança, a luz do sol vai diminuindo.
+S: Ao passo que o dia avança, a luz do sol vai diminuindo.
+
+C: Quanto mais eu estudo, mais confiante eu fico.
+S: Quanto mais eu estudo, mais confiante eu fico.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: À medida que o tempo passa, a saudade aumenta.
+
+C: À medida que o tempo passa, as pessoas se tornam mais maduras.
+S: À medida que o tempo passa, as pessoas amadurecem.
+
+C: Quanto mais estudo, mais conhecimento adquiro.
+S: Quanto mais estudo, mais conhecimento eu adquiro.
+
+C: À proporção que o dia avança, ficamos mais cansados.
+S: Conforme o dia avança, ficamos mais cansados.
+
+C: Quanto mais pratico, mais melhoro no esporte.
+S: Quanto mais pratico, mais melhoro no esporte.
+
+C: À medida que a temperatura sobe, a sede aumenta.
+S: Conforme a temperatura sobe, a sede aumenta.
+
+C: Quanto mais se esforça, mais resultados se obtém.
+S: Quanto mais se esforça, mais resultados se obtêm.
+
+C: À medida que envelhecemos, nossa memória fica mais fraca.
+S: Conforme envelhecemos, nossa memória fica mais fraca.
+
+C: Quanto mais se estuda, mais se aprende.
+S: Quanto mais se estuda, mais se aprende.
+
+C: À medida que a tecnologia avança, os dispositivos ficam mais acessíveis.
+S: Conforme a tecnologia avança, os dispositivos ficam mais acessíveis.
+
+C: Quanto mais se economiza, mais dinheiro se acumula.
+S: Quanto mais se economiza, mais dinheiro se acumula.
+
+C: Quanto mais eu estudo, mais eu aprendo.
+S: Eu aprendo mais quando estudo mais.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: A saudade aumenta conforme o tempo passa.
+
+C: Quanto mais você se esforçar, melhores serão os resultados.
+S: Os resultados serão melhores se você se esforçar mais.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: A temperatura começa a cair quando o sol se põe.
+
+C: Quanto mais exercícios você fizer, mais forte ficará.
+S: Você ficará mais forte se fizer mais exercícios.
+
+C: À medida que a festa avança, as pessoas começam a se soltar.
+S: As pessoas começam a se soltar conforme a festa avança.
+
+C: Quanto mais você praticar, mais habilidoso se tornará.
+S: Você se tornará mais habilidoso se praticar mais.
+
+C: À medida que os dias passam, a ansiedade aumenta.
+S: A ansiedade aumenta à medida que os dias passam.
+
+C: Quanto mais eu durmo, mais descansado me sinto.
+S: Eu me sinto mais descansado quando durmo mais.
+
+C: À medida que a concorrência aumenta, as oportunidades diminuem.
+S: As oportunidades diminuem à medida que a concorrência aumenta.
+
+C: À medida que o tempo passa, as pessoas ficam mais velhas.
+S: À medida que o tempo passa, as pessoas ficam mais velhas.
+
+C: Quanto mais eu estudo, melhores são minhas notas.
+S: Quanto mais eu estudo, melhores são minhas notas.
+
+C: À medida que o sol se põe, o céu fica mais escuro.
+S: À medida que o sol se põe, o céu fica mais escuro.
+
+C: Quanto mais eu trabalho, menos tempo tenho para descansar.
+S: Quanto mais eu trabalho, menos tempo tenho para descansar.
+
+C: À medida que a temperatura aumenta, as pessoas procuram se refrescar.
+S: À medida que a temperatura aumenta, as pessoas procuram se refrescar.
+
+C: Quanto mais dinheiro tenho, mais coisas posso comprar.
+S: Quanto mais dinheiro tenho, mais coisas posso comprar.
+
+C: À medida que a noite avança, o sono se torna mais profundo.
+S: À medida que a noite avança, o sono se torna mais profundo.
+
+C: Quanto mais eu pratico, melhor eu fico no esporte.
+S: Quanto mais eu pratico, melhor eu fico no esporte.
+
+C: À medida que a pressão aumenta, a temperatura também sobe.
+S: À medida que a pressão aumenta, a temperatura também sobe.
+
+C: Quanto mais tempo você gasta procrastinando, menos tempo tem para realizar suas tarefas.
+S: Quanto mais tempo você gasta procrastinando, menos tempo tem para realizar suas tarefas.
+
+C: À medida que o tempo passa, ela se torna mais forte.
+S: Conforme o tempo passa, ela se torna mais forte.
+
+C: À medida que aprende mais, ele se torna mais confiante.
+S: Conforme aprende mais, ele se torna mais confiante.
+
+C: À medida que o sol se põe, as estrelas começam a aparecer.
+S: Conforme o sol se põe, as estrelas começam a aparecer.
+
+C: À medida que o trabalho aumenta, o estresse também aumenta.
+S: Conforme o trabalho aumenta, o estresse também aumenta.
+
+C: À medida que a distância aumenta, a visibilidade diminui.
+S: Conforme a distância aumenta, a visibilidade diminui.
+
+C: À medida que a música fica mais alta, as pessoas começam a dançar.
+S: Conforme a música fica mais alta, as pessoas começam a dançar.
+
+C: À medida que o trânsito piora, o tempo de deslocamento aumenta.
+S: Conforme o trânsito piora, o tempo de deslocamento aumenta.
+
+C: À medida que a chuva cai, o chão fica escorregadio.
+S: Conforme a chuva cai, o chão fica escorregadio.
+
+C: À medida que a temperatura sobe, a sede aumenta.
+S: Conforme a temperatura sobe, a sede aumenta.
+
+C: À medida que o vento sopra mais forte, os galhos das árvores se movem.
+S: Conforme o vento sopra mais forte, os galhos das árvores se movem.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: À medida que o tempo passa, a saudade aumenta.
+
+C: À medida que os dias vão passando, o cansaço vai se acumulando.
+S: À medida que os dias vão passando, o cansaço vai se acumulando.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que envelheço, valorizo mais as pequenas coisas da vida.
+S: À medida que envelheço, valorizo mais as pequenas coisas da vida.
+
+C: À medida que a temperatura aumenta, as pessoas procuram lugares mais frescos.
+S: À medida que a temperatura aumenta, as pessoas procuram lugares mais frescos.
+
+C: Ao passo que o tempo avança, percebemos as mudanças ao nosso redor.
+S: Ao passo que o tempo avança, percebemos as mudanças ao nosso redor.
+
+C: Quanto mais estudo, menos tempo tenho para me divertir.
+S: Quanto mais estudo, menos tempo tenho para me divertir.
+
+C: À medida que a concorrência aumenta, as empresas buscam se destacar no mercado.
+S: À medida que a concorrência aumenta, as empresas buscam se destacar no mercado.
+
+C: Quanto mais treino, melhor meu desempenho no esporte.
+S: Quanto mais treino, melhor meu desempenho no esporte.
+
+C: À medida que o tempo passa, as lembranças se tornam mais vívidas.
+S: À medida que o tempo passa, as lembranças se tornam mais vívidas.
+
+C: À proporção que o tempo passa, a tecnologia avança.
+S: À medida que o tempo passa, a tecnologia avança.
+
+C: Quanto mais estudo, mais aprendo.
+S: Conforme estudo, aprendo mais.
+
+C: À medida que aumenta o número de pessoas no parque, diminui a tranquilidade.
+S: Conforme aumenta o número de pessoas no parque, diminui a tranquilidade.
+
+C: Quanto mais treino, menos cansado fico.
+S: À medida que treino, fico menos cansado.
+
+C: À proporção que a temperatura sobe, aumenta o consumo de água.
+S: À medida que a temperatura sobe, aumenta o consumo de água.
+
+C: À medida que o tempo passa, a ansiedade aumenta.
+S: Conforme o tempo passa, a ansiedade aumenta.
+
+C: Quanto mais estudo, melhor meu desempenho nas provas.
+S: À medida que estudo, meu desempenho nas provas melhora.
+
+C: À proporção que envelhecemos, nosso corpo passa por mudanças.
+S: À medida que envelhecemos, nosso corpo passa por mudanças.
+
+C: Quanto mais leio, mais conhecimento adquiro.
+S: Conforme leio, adquiro mais conhecimento.
+
+C: À medida que o trânsito piora, a paciência diminui.
+S: À proporção que o trânsito piora, a paciência diminui.
+
+C: À medida que as temperaturas aumentam, as pessoas saem para aproveitar o sol.
+S: À medida que as temperaturas aumentam, as pessoas saem para aproveitar o sol.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o tempo passa, ele fica mais experiente.
+S: À medida que o tempo passa, ele fica mais experiente.
+
+C: Ao passo que ela sorria, eu me apaixonava cada vez mais.
+S: Ao passo que ela sorria, eu me apaixonava cada vez mais.
+
+C: Quanto mais exercício faço, menos cansado me sinto.
+S: Quanto mais exercício faço, menos cansado me sinto.
+
+C: À medida que as horas passam, o cansaço aumenta.
+S: À medida que as horas passam, o cansaço aumenta.
+
+C: À medida que a distância diminui, a ansiedade aumenta.
+S: À medida que a distância diminui, a ansiedade aumenta.
+
+C: Quanto mais economizo, mais dinheiro tenho no final do mês.
+S: Quanto mais economizo, mais dinheiro tenho no final do mês.
+
+C: Ao passo que ele envelhece, sua memória fica mais fraca.
+S: Ao passo que ele envelhece, sua memória fica mais fraca.
+
+C: À medida que o tempo esfria, as pessoas se vestem com roupas mais quentes.
+S: À medida que o tempo esfria, as pessoas se vestem com roupas mais quentes.
+
+C: À medida que estudava mais, fui melhorando minhas notas.
+S: Estudando mais, fui melhorando minhas notas.
+
+C: À proporção que o tempo passava, eu me preocupava cada vez mais.
+S: Conforme o tempo passava, eu me preocupava mais.
+
+C: Quanto mais treino, mais melhorias vejo no meu desempenho.
+S: À medida que treino, vejo melhorias no meu desempenho.
+
+C: Ao passo que ele crescia, sua personalidade se tornava mais marcante.
+S: Conforme ele crescia, sua personalidade se tornava mais marcante.
+
+C: À medida que as aulas avançavam, o conteúdo se tornava mais complexo.
+S: Conforme as aulas avançavam, o conteúdo se tornava mais complexo.
+
+C: Ao passo que ela se esforçava, sua confiança aumentava.
+S: Conforme ela se esforçava, sua confiança aumentava.
+
+C: Quanto mais me dedicava, mais satisfeito ficava com meus resultados.
+S: À medida que me dedicava, ficava mais satisfeito com meus resultados.
+
+C: À medida que o tempo passava, seu amor por ela ia crescendo.
+S: Conforme o tempo passava, seu amor por ela ia crescendo.
+
+C: À medida que o projeto avançava, novas dificuldades surgiam.
+S: Conforme o projeto avançava, novas dificuldades surgiam.
+
+C: Quanto mais pratico, mais confiante me sinto.
+S: À medida que pratico, me sinto mais confiante.
+
+C: À medida que o tempo passa, as pessoas envelhecem.
+S: À medida que o tempo passa, as pessoas envelhecem.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que a temperatura aumenta, o gelo derrete.
+S: À medida que a temperatura aumenta, o gelo derrete.
+
+C: Quanto mais você se exercita, mais saudável você fica.
+S: Quanto mais você se exercita, mais saudável você fica.
+
+C: À medida que a tensão aumenta, a paciência diminui.
+S: À medida que a tensão aumenta, a paciência diminui.
+
+C: Quanto mais chuva cai, mais as plantas crescem.
+S: Quanto mais chuva cai, mais as plantas crescem.
+
+C: À medida que o tempo vai passando, a saudade só aumenta.
+S: À medida que o tempo vai passando, a saudade só aumenta.
+
+C: Quanto mais dinheiro você ganha, mais gastos você tem.
+S: Quanto mais dinheiro você ganha, mais gastos você tem.
+
+C: À medida que o sol se põe, o céu fica mais bonito.
+S: À medida que o sol se põe, o céu fica mais bonito.
+
+C: Quanto mais você estuda, mais preparado fica para a prova.
+S: Quanto mais você estuda, mais preparado fica para a prova.
+
+C: À medida que as temperaturas vão subindo, as pessoas vão se refrescando mais frequentemente.
+S: À medida que as temperaturas vão subindo, as pessoas se refrescam mais frequentemente.
+
+C: À proporção que a empresa cresce, mais funcionários são contratados.
+S: À proporção que a empresa cresce, mais funcionários são contratados.
+
+C: Quanto mais alimentos são produzidos, menos pessoas passam fome.
+S: Quanto mais alimentos são produzidos, menos pessoas passam fome.
+
+C: À medida que os anos passam, a pele vai perdendo elasticidade.
+S: À medida que os anos passam, a pele perde elasticidade.
+
+C: À medida que o sol se põe, o céu fica mais escuro.
+S: À medida que o sol se põe, o céu escurece.
+
+C: Quanto mais estudo, mais conhecimento adquiro.
+S: Quanto mais estudo, mais conhecimento eu adquiro.
+
+C: À proporção que a tecnologia avança, as tarefas se tornam mais fáceis.
+S: À proporção que a tecnologia avança, as tarefas se tornam mais fáceis.
+
+C: À medida que o tempo passa, as lembranças se tornam mais distantes.
+S: À medida que o tempo passa, as lembranças se tornam mais distantes.
+
+C: Quanto mais se exercita, mais energia se tem.
+S: Quanto mais se exercita, mais energia se tem.
+
+C: À medida que a música toca, as pessoas começam a dançar.
+S: À medida que a música toca, as pessoas começam a dançar.
+
+C: À medida que o tempo passa, a tristeza aumenta.
+S: À medida que o tempo passa, a tristeza aumenta.
+
+C: Ao passo que ela estuda mais, seu conhecimento aumenta.
+S: Ao passo que ela estuda mais, seu conhecimento aumenta.
+
+C: Quanto mais treino, mais força tenho.
+S: Quanto mais treino, mais força tenho.
+
+C: À proporção que o sol se põe, a escuridão toma conta.
+S: À proporção que o sol se põe, a escuridão toma conta.
+
+C: Quanto mais estudo, menos dúvidas tenho.
+S: Quanto mais estudo, menos dúvidas tenho.
+
+C: À medida que ele se exercita, sua resistência melhora.
+S: À medida que ele se exercita, sua resistência melhora.
+
+C: Ao passo que o tempo vai passando, a saudade aumenta.
+S: Ao passo que o tempo vai passando, a saudade aumenta.
+
+C: Quanto mais pessoas participam, mais divertido o evento fica.
+S: Quanto mais pessoas participam, mais divertido o evento fica.
+
+C: À proporção que a temperatura aumenta, a sede também aumenta.
+S: À proporção que a temperatura aumenta, a sede também aumenta.
+
+C: Quanto mais estudo, mais fácil fica entender a matéria.
+S: Quanto mais estudo, mais fácil fica entender a matéria.
+
+C: À medida que estudamos mais, aprendemos melhor.
+S: Conforme estudamos mais, aprendemos melhor.
+
+C: À medida que a temperatura aumenta, as pessoas ficam mais desconfortáveis.
+S: Conforme a temperatura aumenta, as pessoas ficam mais desconfortáveis.
+
+C: À medida que as horas passavam, a ansiedade aumentava.
+S: Conforme as horas passavam, a ansiedade aumentava.
+
+C: À medida que o sol se põe, o céu fica mais bonito.
+S: Conforme o sol se põe, o céu fica mais bonito.
+
+C: À medida que envelhecemos, nossa capacidade de memória diminui.
+S: Conforme envelhecemos, nossa capacidade de memória diminui.
+
+C: À medida que o tempo passa, vamos acumulando experiências.
+S: Conforme o tempo passa, vamos acumulando experiências.
+
+C: À medida que o trânsito aumenta, o estresse dos motoristas também aumenta.
+S: Conforme o trânsito aumenta, o estresse dos motoristas também aumenta.
+
+C: À medida que nos exercitamos regularmente, nossa saúde melhora.
+S: Conforme nos exercitamos regularmente, nossa saúde melhora.
+
+C: À medida que o salário aumenta, o padrão de vida pode melhorar.
+S: Conforme o salário aumenta, o padrão de vida pode melhorar.
+
+C: À medida que os anos passam, as rugas começam a aparecer.
+S: Conforme os anos passam, as rugas começam a aparecer.
+
+C: O trânsito fica cada vez mais congestionado à medida que aumenta o número de carros nas ruas.
+S: O trânsito fica cada vez mais congestionado à medida que o número de carros aumenta.
+
+C: À medida que o tempo passa, as lembranças vão ficando mais distantes.
+S: Com o passar do tempo, as lembranças vão ficando mais distantes.
+
+C: Quanto mais estudo, mais eu percebo o quanto ainda tenho para aprender.
+S: À medida que estudo, percebo cada vez mais o quanto ainda tenho para aprender.
+
+C: À medida que a temperatura cai, as pessoas começam a se agasalhar mais.
+S: Quando a temperatura cai, as pessoas começam a se agasalhar mais.
+
+C: Quanto mais os anos passam, mais experiências a gente acumula.
+S: À medida que os anos passam, acumulamos cada vez mais experiências.
+
+C: À medida que o trabalho aumenta, o tempo para descansar diminui.
+S: Quanto mais o trabalho aumenta, menos tempo temos para descansar.
+
+C: À medida que a quantidade de estudo aumenta, as chances de sucesso também aumentam.
+S: Quanto mais estudamos, mais chances de sucesso temos.
+
+C: À medida que a tecnologia avança, os computadores ficam cada vez mais rápidos.
+S: Com o avanço da tecnologia, os computadores ficam cada vez mais rápidos.
+
+C: À medida que o dia avança, a temperatura vai esquentando.
+S: Conforme o dia avança, a temperatura vai esquentando.
+
+C: Quanto mais pratico, melhor eu fico no esporte.
+S: À medida que pratico, fico melhor no esporte.
+
+C: À medida que a temperatura aumenta, as vendas de sorvete aumentam.
+S: À medida que a temperatura aumenta, as vendas de sorvete aumentam.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: Ao passo que os anos passam, as rugas surgem.
+S: Ao passo que os anos passam, as rugas surgem.
+
+C: À medida que o sol se põe, o céu fica mais escuro.
+S: À medida que o sol se põe, o céu fica mais escuro.
+
+C: Quanto mais treino, menos cansado fico.
+S: Quanto mais treino, menos cansado fico.
+
+C: À medida que as plantas crescem, precisam de mais água.
+S: À medida que as plantas crescem, precisam de mais água.
+
+C: Quanto mais estudo, menos tempo tenho para descansar.
+S: Quanto mais estudo, menos tempo tenho para descansar.
+
+C: À medida que o tempo passa, a tecnologia evolui.
+S: À medida que o tempo passa, a tecnologia evolui.
+
+C: Quanto mais trabalho, mais dinheiro ganho.
+S: Quanto mais trabalho, mais dinheiro ganho.
+
+C: À medida que o número de clientes aumenta, precisamos contratar mais funcionários.
+S: À medida que o número de clientes aumenta, precisamos contratar mais funcionários.
+
+C: Quanto mais o tempo passa, menos me importo com coisas pequenas.
+S: Quanto mais o tempo passa, menos me importo.
+
+C: À medida que a temperatura sobe, mais os animais procuram sombra.
+S: À medida que a temperatura sobe, mais os animais procuram sombra.
+
+C: Ao passo que o sol se põe, a temperatura começa a baixar.
+S: Ao pôr do sol, a temperatura começa a baixar.
+
+C: À medida que o trânsito aumenta, mais demoro para chegar ao meu destino.
+S: À medida que o trânsito aumenta, mais demoro para chegar.
+
+C: Quanto mais treino, mais me sinto confiante na competição.
+S: Quanto mais treino, mais me sinto confiante.
+
+C: Ao passo que o tempo passa, o cansaço vai tomando conta de mim.
+S: Com o passar do tempo, o cansaço vai tomando conta de mim.
+
+C: À medida que o tempo esfria, mais roupas eu coloco para me aquecer.
+S: À medida que o tempo esfria, mais roupas eu coloco.
+
+C: Quanto mais estudo, mais aprendo sobre o assunto.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o dia avança, o cansaço vai aumentando.
+S: Conforme o dia avança, o cansaço vai aumentando.
+
+C: Ao passo que as aulas avançam, o conteúdo vai ficando mais complexo.
+S: À medida que as aulas avançam, o conteúdo vai ficando mais complexo.
+
+C: À medida que o tempo passa, o sol vai se pondo no horizonte.
+S: Conforme o tempo passa, o sol vai se pondo no horizonte.
+
+C: Quanto mais estudo, mais eu aprendo.
+S: A medida que estudo, aprendo mais.
+
+C: Ao passo que ela se esforça, ele desiste cada vez mais.
+S: Enquanto ela se esforça, ele desiste cada vez mais.
+
+C: À medida que o rio se aproxima do oceano, sua correnteza fica mais forte.
+S: Conforme o rio se aproxima do oceano, sua correnteza fica mais forte.
+
+C: Quanto mais ela trabalha, menos tempo tem para descansar.
+S: À medida que ela trabalha, tem menos tempo para descansar.
+
+C: À medida que o fogo se alastra, mais destruição é causada.
+S: Conforme o fogo se alastra, mais destruição é causada.
+
+C: Quanto mais ele estuda, mais preparado fica para a prova.
+S: À medida que ele estuda, fica mais preparado para a prova.
+
+C: À medida que o inverno se aproxima, as temperaturas caem drasticamente.
+S: Conforme o inverno se aproxima, as temperaturas caem drasticamente.
+
+C: Quanto mais eu me exercito, mais saudável me sinto.
+S: A medida que eu me exercito, me sinto mais saudável.
+
+C: À medida que a noite chega, as estrelas começam a aparecer no céu.
+S: Conforme a noite chega, as estrelas começam a aparecer no céu.
+
+C: À proporção que o tempo passa, me sinto mais feliz.
+S: À medida que o tempo passa, me sinto mais feliz.
+
+C: Ao passo que a tempestade se aproximava, a neblina aumentava.
+S: À medida que a tempestade se aproximava, a neblina aumentava.
+
+C: Quanto mais estudo, menos ansioso fico para as provas.
+S: À medida que estudo, menos ansioso fico para as provas.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura começa a cair.
+
+C: À medida que a maré sobe, a praia vai sendo tomada pela água.
+S: À medida que a maré sobe, a praia vai sendo tomada pela água.
+
+C: Quanto mais pratico, mais habilidoso me torno no piano.
+S: À medida que pratico, mais habilidoso me torno no piano.
+
+C: À medida que a idade avança, as rugas vão se tornando mais aparentes.
+S: À medida que a idade avança, as rugas vão se tornando mais aparentes.
+
+C: Quanto mais estudo, mais confiante me sinto nas provas.
+S: À medida que estudo, mais confiante me sinto nas provas.
+
+C: À medida que a pressão aumenta, o nervosismo começa a tomar conta.
+S: À medida que a pressão aumenta, o nervosismo começa a tomar conta.
+
+C: À medida que o dia vai passando, a ansiedade vai diminuindo.
+S: À medida que o dia vai passando, a ansiedade vai diminuindo.
+
+C: À medida que o tempo passa, as pessoas ficam mais experientes.
+S: Conforme o tempo passa, as pessoas ficam mais experientes.
+
+C: Quanto mais estudo, mais aprendo.
+S: A medida que estudo, aprendo mais.
+
+C: À medida que o sol se põe, o céu vai escurecendo.
+S: Conforme o sol se põe, o céu vai escurecendo.
+
+C: Quanto mais estudo, menos tempo tenho para me divertir.
+S: A medida que estudo, tenho menos tempo para me divertir.
+
+C: À medida que o vento sopra, as árvores balançam.
+S: Conforme o vento sopra, as árvores balançam.
+
+C: Quanto mais pessoas comprarem ingressos, mais lotado ficará o cinema.
+S: A medida que mais pessoas comprarem ingressos, o cinema ficará mais lotado.
+
+C: À medida que o corpo envelhece, a mente ganha sabedoria.
+S: Conforme o corpo envelhece, a mente ganha sabedoria.
+
+C: Quanto mais esforço coloco, mais resultados obtenho.
+S: A medida que coloco mais esforço, obtenho mais resultados.
+
+C: À medida que o dia avança, a temperatura vai subindo.
+S: Conforme o dia avança, a temperatura vai subindo.
+
+C: Quanto mais eu me esforçar, menos erros cometerei.
+S: A medida que eu me esforçar, cometerei menos erros.
+
+C: À medida que o tempo passa, o amor se fortalece.
+
+S: À medida que o tempo passa, o amor se fortalece.
+
+C: À medida que o estudo avança, os resultados melhoram.
+
+S: À medida que o estudo avança, os resultados melhoram.
+
+C: À medida que a pressão aumenta, o desempenho diminui.
+
+S: À medida que a pressão aumenta, o desempenho diminui.
+
+C: À medida que a temperatura sobe, o desconforto aumenta.
+
+S: À medida que a temperatura sobe, o desconforto aumenta.
+
+C: À medida que o trabalho se intensifica, o cansaço se acumula.
+
+S: À medida que o trabalho se intensifica, o cansaço se acumula.
+
+C: À medida que a idade avança, a memória enfraquece.
+
+S: À medida que a idade avança, a memória enfraquece.
+
+C: À medida que a notícia se espalha, o boato se torna maior.
+
+S: À medida que a notícia se espalha, o boato se torna maior.
+
+C: À medida que os problemas surgem, as soluções são buscadas.
+
+S: À medida que os problemas surgem, as soluções são buscadas.
+
+C: À medida que a experiência aumenta, a confiança aumenta.
+
+S: À medida que a experiência aumenta, a confiança aumenta.
+
+C: À medida que o conhecimento se aprofunda, as dúvidas diminuem.
+
+S: À medida que o conhecimento se aprofunda, as dúvidas diminuem.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais.
+S: À medida que o tempo passa, a tecnologia avança cada vez mais.
+
+C: Quanto mais estudo, menos sei.
+S: Quanto mais estudo, menos sei.
+
+C: À proporção que o sol se põe, as estrelas começam a aparecer.
+S: À proporção que o sol se põe, as estrelas começam a aparecer.
+
+C: Quanto mais treino, melhor me torno no esporte.
+S: Quanto mais treino, melhor me torno no esporte.
+
+C: À medida que lemos mais livros, nosso conhecimento aumenta.
+S: À medida que lemos mais livros, nosso conhecimento aumenta.
+
+C: À medida que envelhecemos, vamos ganhando mais experiência.
+S: À medida que envelhecemos, vamos ganhando mais experiência.
+
+C: Quanto mais estudo para as provas, mais preparado me sinto.
+S: Quanto mais estudo para as provas, mais preparado me sinto.
+
+C: À proporção que o tempo passa, a vida vai ficando mais curta.
+S: À proporção que o tempo passa, a vida vai ficando mais curta.
+
+C: À medida que o carro acelera, a velocidade aumenta.
+S: À medida que o carro acelera, a velocidade aumenta.
+
+C: Quanto mais treinamos, menos erros cometemos.
+S: Quanto mais treinamos, menos erros cometemos.
+
+C: Ela ficou mais triste à medida que as semanas foram passando.
+S: Ela ficou mais triste à medida que as semanas passaram.
+
+C: Quanto mais você estuda, mais chances tem de passar na prova.
+S: Quanto mais você estuda, mais chances tem de passar na prova.
+
+C: À proporção que as aulas avançam, os exercícios ficam mais difíceis.
+S: À medida que as aulas avançam, os exercícios ficam mais difíceis.
+
+C: À medida que o sol se põe, a temperatura começa a abaixar.
+S: À medida que o sol se põe, a temperatura começa a abaixar.
+
+C: À medida que o tempo passa, as lembranças se tornam mais distantes.
+S: À medida que o tempo passa, as lembranças se tornam mais distantes.
+
+C: Ao passo que ele envelhecia, sua saúde ia se deteriorando.
+S: À medida que ele envelhecia, sua saúde ia se deteriorando.
+
+C: Quanto mais dinheiro você ganha, mais gastos você tem.
+S: Quanto mais dinheiro você ganha, mais gastos você tem.
+
+C: À medida que as palavras são pronunciadas, a música ganha vida.
+S: À medida que as palavras são pronunciadas, a música ganha vida.
+
+C: À medida que os problemas se acumulam, o estresse só aumenta.
+S: À medida que os problemas se acumulam, o estresse só aumenta.
+
+C: Quanto mais eu penso sobre isso, menos eu entendo.
+S: Quanto mais eu penso sobre isso, menos eu entendo.
+
+C: À medida que o tempo passa, as pessoas ficam mais experientes.
+S: À medida que o tempo passa, as pessoas ficam mais experientes.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: Ao passo que o sol se punha, as cores do céu ficavam mais intensas.
+S: Ao passo que o sol se punha, as cores do céu ficavam mais intensas.
+
+C: À medida que as plantas crescem, mais oxigênio é produzido.
+S: À medida que as plantas crescem, mais oxigênio é produzido.
+
+C: Quanto mais eu me esforço, melhores resultados eu obtenho.
+S: Quanto mais eu me esforço, melhores resultados eu obtenho.
+
+C: À medida que o tempo esfria, as pessoas começam a usar roupas mais quentes.
+S: À medida que o tempo esfria, as pessoas começam a usar roupas mais quentes.
+
+C: Quanto mais tempo passa, mais saudades eu sinto.
+S: Quanto mais tempo passa, mais saudades eu sinto.
+
+C: À medida que a economia melhora, o desemprego diminui.
+S: À medida que a economia melhora, o desemprego diminui.
+
+C: Quanto mais pratico, melhor eu fico.
+S: Quanto mais pratico, melhor eu fico.
+
+C: À medida que o volume aumenta, a pressão diminui.
+S: À medida que o volume aumenta, a pressão diminui.
+
+C: À medida que ela estudava mais, suas notas melhoravam.
+S: Ela estudava mais, suas notas melhoravam.
+
+C: À proporção que o tempo passava, eles se tornavam mais próximos.
+S: O tempo passava, eles se tornavam mais próximos.
+
+C: Quanto mais ele treinava, mais habilidoso se tornava.
+S: Ele treinava, mais habilidoso se tornava.
+
+C: À medida que ele pedia ajuda, os outros o ignoravam.
+S: Ele pedia ajuda, os outros o ignoravam.
+
+C: Quanto mais ele comia, menos fome sentia.
+S: Ele comia, menos fome sentia.
+
+C: À medida que o dia passava, o cansaço aumentava.
+S: O dia passava, o cansaço aumentava.
+
+C: À proporção que ele se exercitava, sua saúde melhorava.
+S: Ele se exercitava, sua saúde melhorava.
+
+C: Quanto mais ela viajava, mais culturas conhecia.
+S: Ela viajava, mais culturas conhecia.
+
+C: À medida que ela estudava, a confiança aumentava.
+S: Ela estudava, a confiança aumentava.
+
+C: À medida que os anos passavam, as rugas surgiam.
+S: Os anos passavam, as rugas surgiam.
+
+C: À medida que o tempo passa, as pessoas se tornam mais maduras.
+S: À medida que o tempo passa, as pessoas se tornam mais maduras.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o sol se põe, o céu fica mais escuro.
+S: À medida que o sol se põe, o céu fica mais escuro.
+
+C: Quanto menos comida como, menos fome sinto.
+S: Quanto menos comida como, menos fome sinto.
+
+C: À medida que a velocidade aumenta, a distância percorrida também aumenta.
+S: À medida que a velocidade aumenta, a distância percorrida também aumenta.
+
+C: Quanto mais me esforço nos estudos, melhores notas tiro.
+S: Quanto mais me esforço nos estudos, melhores notas tiro.
+
+C: À medida que a temperatura sobe, eu transpiro mais.
+S: À medida que a temperatura sobe, eu transpiro mais.
+
+C: Quanto menos chove, mais seco fica o solo.
+S: Quanto menos chove, mais seco fica o solo.
+
+C: À medida que o vento sopra mais forte, as folhas das árvores caem.
+S: À medida que o vento sopra mais forte, as folhas das árvores caem.
+
+C: Quanto mais o tempo passa, mais experiência acumulo.
+S: Quanto mais o tempo passa, mais experiência acumulo.
+
+C: À medida que o tempo passa, fico mais experiente.
+S: Conforme o tempo passa, fico mais experiente.
+
+C: Ao passo que estudava mais, obtinha melhores resultados.
+S: À medida que estudava mais, obtinha melhores resultados.
+
+C: Quanto mais você se esforça, mais chances de sucesso você tem.
+S: À medida que você se esforça, mais chances de sucesso você tem.
+
+C: Quanto mais eu praticava, mais habilidades adquiria.
+S: À medida que eu praticava, mais habilidades adquiria.
+
+C: À medida que a temperatura aumentava, as pessoas buscavam sombra.
+S: À proporção que a temperatura aumentava, as pessoas buscavam sombra.
+
+C: Ao passo que o tempo passava, sua paciência diminuía.
+S: À medida que o tempo passava, sua paciência diminuía.
+
+C: Quanto mais eles estudavam, menos dificuldades encontravam.
+S: À medida que eles estudavam, menos dificuldades encontravam.
+
+C: À medida que o mercado se expandia, novas oportunidades surgiam.
+S: À proporção que o mercado se expandia, novas oportunidades surgiam.
+
+C: Ao passo que a idade avançava, a memória enfraquecia.
+S: À medida que a idade avançava, a memória enfraquecia.
+
+C: Quanto mais a tecnologia avança, mais dependemos dela.
+S: À medida que a tecnologia avança, mais dependemos dela.
+
+C: À proporção que o tempo passa, a memória vai se apagando.
+S: À medida que o tempo passa, a memória vai se apagando.
+
+C: Quanto mais estudo, menos entendo.
+S: À medida que estudo, entendo menos.
+
+C: Ao passo que ela ganha confiança, ele perde a dele.
+S: À medida que ela ganha confiança, ele perde a dele.
+
+C: À medida que a tecnologia avança, os empregos tradicionais vão desaparecendo.
+S: À medida que a tecnologia avança, os empregos tradicionais vão desaparecendo.
+
+C: À medida que a idade avança, a saúde vai piorando.
+S: À medida que a idade avança, a saúde vai piorando.
+
+C: Quanto mais pratico, mais rápido fico.
+S: À medida que pratico, fico mais rápido.
+
+C: À proporção que o nível de água sobe, o risco de enchentes aumenta.
+S: À medida que o nível de água sobe, o risco de enchentes aumenta.
+
+C: Ao passo que o desemprego aumenta, a economia fica mais instável.
+S: À medida que o desemprego aumenta, a economia fica mais instável.
+
+C: À medida que a temperatura cai, a neve começa a cair.
+S: À medida que a temperatura cai, a neve começa a cair.
+
+C: À medida que o tráfego aumenta, o tempo de deslocamento aumenta.
+S: À medida que o tráfego aumenta, o tempo de deslocamento aumenta.
+
+C: À proporção que o tempo passa, mais saudade sinto de você.
+S: À medida que o tempo passa, mais saudade sinto de você.
+
+C: Ao passo que ele estuda mais, suas notas melhoram.
+S: À medida que ele estuda mais, suas notas melhoram.
+
+C: Quanto mais se exercita, mais progresso verá.
+S: À medida que se exercita mais, mais progresso verá.
+
+C: Na medida em que o conhecimento avança, novas descobertas são feitas.
+S: À medida que o conhecimento avança, novas descobertas são feitas.
+
+C: Quanto mais eu te vejo, mais apaixonado fico.
+S: À medida que eu te vejo mais, mais apaixonado fico.
+
+C: À medida que o sol se põe, o céu fica mais colorido.
+S: À medida que o sol se põe, o céu fica mais colorido.
+
+C: Quanto mais esforço você coloca, mais resultados obterá.
+S: À medida que você coloca mais esforço, mais resultados obterá.
+
+C: À medida que o tempo passa, as rugas ficam mais aparentes.
+S: À medida que o tempo passa, as rugas ficam mais aparentes.
+
+C: Ao passo que ele economiza dinheiro, sua conta bancária cresce.
+S: À medida que ele economiza dinheiro, sua conta bancária cresce.
+
+C: Quanto mais estudo, mais aprendo.
+S: À medida que estudo mais, mais aprendo.
+
+C: À medida que o tempo passa, eu fico mais experiente.
+S: À medida que o tempo passa, eu fico mais experiente.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À proporção que envelheço, tenho menos energia.
+S: À proporção que envelheço, tenho menos energia.
+
+C: Ao passo que as tecnologias avançam, a sociedade se adapta.
+S: Ao passo que as tecnologias avançam, a sociedade se adapta.
+
+C: Quanto mais me esforço, melhores são os resultados.
+S: Quanto mais me esforço, melhores são os resultados.
+
+C: À medida que a temperatura aumenta, as pessoas procuram se refrescar.
+S: À medida que a temperatura aumenta, as pessoas procuram se refrescar.
+
+C: Quanto mais pratico exercícios, mais saudável me sinto.
+S: Quanto mais pratico exercícios, mais saudável me sinto.
+
+C: À proporção que a equipe trabalha em conjunto, a produtividade aumenta.
+S: À proporção que a equipe trabalha em conjunto, a produtividade aumenta.
+
+C: Quanto mais estudo, menos dúvidas tenho.
+S: Quanto mais estudo, menos dúvidas tenho.
+
+C: Ao passo que o sol se põe, a lua começa a brilhar.
+S: Ao passo que o sol se põe, a lua começa a brilhar.
+
+C: À medida que estudava mais, suas notas melhoravam.
+S: À medida que estudava mais, suas notas melhoravam.
+
+C: Quanto mais treinava, mais rápido corria.
+S: Quanto mais treinava, mais rápido corria.
+
+C: Ao passo que ela se dedicava, eu me preocupava.
+S: Ao passo que ela se dedicava, eu me preocupava.
+
+C: À medida que o tempo passava, a saudade aumentava.
+S: À medida que o tempo passava, a saudade aumentava.
+
+C: Quanto mais assistia, menos entendia o filme.
+S: Quanto mais assistia, menos entendia o filme.
+
+C: À medida que a tecnologia avança, os empregos se tornam mais escassos.
+S: À medida que a tecnologia avança, os empregos se tornam mais escassos.
+
+C: À medida que aprendia, me sentia mais confiante.
+S: À medida que aprendia, me sentia mais confiante.
+
+C: Quanto menos estudava, pior ficava em matemática.
+S: Quanto menos estudava, pior ficava em matemática.
+
+C: Ao passo que me esforçava, as oportunidades surgiam.
+S: Ao passo que me esforçava, as oportunidades surgiam.
+
+C: À medida que o sol se põe, o cinema fica mais agradável.
+S: À medida que o sol se põe, o cinema fica mais agradável.
+
+C: À proporção que a temperatura aumentava, a planta ia murchando.
+S: À medida que a temperatura aumentava, a planta ia murchando.
+
+C: Ao passo que o tempo passava, a saudade só aumentava.
+S: À medida que o tempo passava, a saudade só aumentava.
+
+C: Quanto mais eles estudam, menos tempo têm para se divertir.
+S: À medida que eles estudam mais, têm menos tempo para se divertir.
+
+C: À medida que o trânsito piora, mais pessoas optam pelo transporte público.
+S: À medida que o trânsito piora, mais pessoas optam pelo transporte público.
+
+C: A dificuldade aumenta na mesma proporção que os desafios se tornam mais complexos.
+S: A dificuldade aumenta à medida que os desafios se tornam mais complexos.
+
+C: Quanto mais ele se esforça, menos reconhecimento recebe.
+S: À medida que ele se esforça mais, recebe menos reconhecimento.
+
+C: À medida que o tempo passa, o amor se torna mais intenso.
+S: À medida que o tempo passa, o amor se torna mais intenso.
+
+C: À medida que a tecnologia avança, as tarefas se tornam mais fáceis.
+S: À medida que a tecnologia avança, as tarefas se tornam mais fáceis.
+
+C: Ao passo que a empresa cresce, mais funcionários são contratados.
+S: À medida que a empresa cresce, mais funcionários são contratados.
+
+C: Quanto mais ele trabalha, menos tempo tem para descansar.
+S: À medida que ele trabalha mais, tem menos tempo para descansar.
+
+C: À medida que o tempo passa, as lembranças vão desaparecendo.
+S: À medida que o tempo passa, as lembranças desaparecem.
+
+C: À proporção que a demanda aumenta, o preço do produto sobe.
+S: À medida que a demanda aumenta, o preço do produto sobe.
+
+C: Quanto mais estudamos, mais aprendemos.
+S: À medida que estudamos, aprendemos mais.
+
+C: À medida que o sol se põe, a temperatura começa a diminuir.
+S: À medida que o sol se põe, a temperatura diminui.
+
+C: Quanto mais o tempo passa, menos energia temos.
+S: À medida que o tempo passa, temos menos energia.
+
+C: À proporção que as pessoas envelhecem, sua memória tende a falhar.
+S: À medida que as pessoas envelhecem, sua memória tende a falhar.
+
+C: À medida que o dia avança, o cansaço aumenta.
+S: À medida que o dia avança, o cansaço aumenta.
+
+C: Quanto mais treinamos, mais habilidosos nos tornamos.
+S: À medida que treinamos, nos tornamos mais habilidosos.
+
+C: À medida que o rio se aproxima do mar, sua velocidade diminui.
+S: À medida que o rio se aproxima do mar, sua velocidade diminui.
+
+C: À proporção que o volume da música aumenta, minha concentração diminui.
+S: À medida que o volume da música aumenta, minha concentração diminui.
+
+C: À medida que o tempo passa, as flores desabrocham.
+S: À medida que o tempo passa, as flores desabrocham.
+
+C: Quanto mais eu estudo, mais confiante me sinto.
+S: Quanto mais eu estudo, mais confiante me sinto.
+
+C: Ao passo que o sol se põe, a temperatura começa a cair.
+S: Ao passo que o sol se põe, a temperatura começa a cair.
+
+C: À medida que os anos avançam, as rugas surgem.
+S: À medida que os anos avançam, as rugas surgem.
+
+C: Quanto mais treinamos, melhores resultados obtemos.
+S: Quanto mais treinamos, melhores resultados obtemos.
+
+C: Ao passo que o vento sopra, as folhas caem das árvores.
+S: Ao passo que o vento sopra, as folhas caem das árvores.
+
+C: À medida que o tempo passa, a tecnologia avança.
+S: À medida que o tempo passa, a tecnologia avança.
+
+C: Quanto mais estudamos, mais conhecimento adquirimos.
+S: Quanto mais estudamos, mais conhecimento adquirimos.
+
+C: Ao passo que o dia clareia, os animais começam a despertar.
+S: Ao passo que o dia clareia, os animais começam a despertar.
+
+C: À medida que as estações mudam, as paisagens se transformam.
+S: À medida que as estações mudam, as paisagens se transformam.
+
+C: À proporção que o tempo passa, ela fica mais bonita.
+S: À medida que o tempo passa, ela fica mais bonita.
+
+C: Quanto mais estudo, mais aprendo.
+S: À medida que estudo, aprendo cada vez mais.
+
+C: Ao passo que o sol se põe, o céu fica mais colorido.
+S: À medida que o sol se põe, o céu fica mais colorido.
+
+C: Quanto mais dinheiro ganho, menos preocupações tenho.
+S: À medida que ganho mais dinheiro, tenho menos preocupações.
+
+C: À medida que ele envelhece, sua memória fica mais fraca.
+S: À medida que ele envelhece, sua memória enfraquece.
+
+C: À medida que o tempo esquenta, as pessoas saem mais de casa.
+S: À medida que o tempo esquenta, as pessoas saem mais.
+
+C: Quanto mais eu me esforço, mais chances tenho de alcançar meus objetivos.
+S: À medida que me esforço, tenho mais chances de alcançar meus objetivos.
+
+C: À medida que as oportunidades surgem, é preciso estar preparado para aproveitá-las.
+S: À medida que as oportunidades surgem, é preciso estar preparado.
+
+C: Quanto mais se pratica um esporte, melhor se torna.
+S: À medida que se pratica um esporte, melhora-se.
+
+C: À medida que o tempo passa, os relacionamentos se fortalecem.
+S: À medida que o tempo passa, os relacionamentos se fortalecem.
+
+C: À medida que a temperatura aumenta, o gelo derrete mais rapidamente.
+S: À medida que a temperatura aumenta, o gelo derrete mais rápido.
+
+C: Ao passo que a empresa cresce, mais empregos são criados.
+S: Ao passo que a empresa cresce, mais empregos são criados.
+
+C: Quanto mais estudo, melhores notas eu tiro.
+S: Quanto mais estudo, melhores notas eu tiro.
+
+C: À medida que as ruas ficam mais movimentadas, o trânsito se torna mais caótico.
+S: À medida que as ruas ficam mais movimentadas, o trânsito se torna mais caótico.
+
+C: À medida que a idade avança, os cabelos ficam mais brancos.
+S: À medida que a idade avança, os cabelos ficam mais brancos.
+
+C: Quanto mais eu como, mais peso eu ganho.
+S: Quanto mais eu como, mais peso eu ganho.
+
+C: À medida que o tempo passa, ficamos mais experientes.
+S: À medida que o tempo passa, ficamos mais experientes.
+
+C: Quanto mais você pratica, mais habilidoso você se torna.
+S: Quanto mais você pratica, mais habilidoso você fica.
+
+C: À medida que a planta cresce, ela precisa de mais água.
+S: À medida que a planta cresce, ela precisa de mais água.
+
+C: Quanto mais se aprende, mais se deseja aprender.
+S: Quanto mais se aprende, mais se deseja aprender.
+
+C: À medida que as chuvas aumentam, o nível dos rios sobe.
+S: À medida que as chuvas aumentam, o nível dos rios sobe.
+
+C: Ao passo que a temperatura cai, as pessoas começam a se agasalhar mais.
+S: Ao passo que a temperatura cai, as pessoas começam a se agasalhar mais.
+
+C: Quanto mais estudo, mais conhecimento adquiro.
+S: Quanto mais estudo, mais conhecimento adquiro.
+
+C: À medida que o tempo passa, as rugas vão aparecendo.
+S: À medida que o tempo passa, as rugas vão aparecendo.
+
+C: Quanto mais dinheiro ganho, mais gasto.
+S: Quanto mais dinheiro ganho, mais gasto.
+
+C: À medida que o sol se põe, a temperatura começa a baixar.
+S: À medida que o sol se põe, a temperatura começa a baixar.
+
+C: Ao passo que os dias ficam mais curtos, as noites ficam mais longas.
+S: Ao passo que os dias ficam mais curtos, as noites ficam mais longas.
+
+C: Quanto mais estudo, menos desatento fico.
+S: Quanto mais estudo, menos desatento fico.
+
+C: À medida que o tempo passa, minha paciência vai diminuindo.
+S: À medida que o tempo passa, minha paciência vai diminuindo.
+
+C: Quanto mais exercícios faço, mais saudável me sinto.
+S: Quanto mais exercícios faço, mais saudável me sinto.
+
+C: Quanto mais estuda, mais aprende.
+S: À medida que estuda, aprende mais.
+
+C: À medida que o dia amanhece, os pássaros começam a cantar.
+S: Conforme amanhece o dia, os pássaros começam a cantar.
+
+C: Enquanto mais treina, mais habilidoso se torna.
+S: À medida que treina mais, se torna mais habilidoso.
+
+C: À medida que economizamos dinheiro, conseguimos realizar nossos sonhos.
+S: Conforme economizamos dinheiro, conseguimos realizar nossos sonhos.
+
+C: Quanto mais trabalha, mais dinheiro ganha.
+S: À medida que trabalha, ganha mais dinheiro.
+
+C: À medida que os anos passam, as rugas se tornam mais visíveis.
+S: Conforme os anos passam, as rugas se tornam mais visíveis.
+
+C: À medida que a tempestade se aproxima, os trovões ficam mais intensos.
+S: Conforme a tempestade se aproxima, os trovões ficam mais intensos.
+
+C: Quanto mais se esforça, melhores resultados alcança.
+S: À medida que se esforça, alcança melhores resultados.
+
+C: À medida que envelhecemos, ficamos mais sábios.
+S: Conforme envelhecemos, ficamos mais sábios.
+
+C: À medida que a noite avança, o frio aumenta.
+S: Conforme a noite avança, o frio aumenta.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais rapidamente.
+S: À medida que o tempo passa, a tecnologia avança cada vez mais rapidamente.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o sol se põe, o céu fica mais colorido.
+S: À medida que o sol se põe, o céu fica mais colorido.
+
+C: Quanto mais treino, menos cansado fico.
+S: Quanto mais treino, menos cansado fico.
+
+C: À medida que a temperatura aumenta, as pessoas buscam formas de se refrescar.
+S: À medida que a temperatura aumenta, as pessoas buscam formas de se refrescar.
+
+C: À medida que a competição se acirra, os atletas se esforçam cada vez mais.
+S: À medida que a competição se acirra, os atletas se esforçam cada vez mais.
+
+C: Quanto mais estudo, menor a chance de cometer erros.
+S: Quanto mais estudo, menor a chance de cometer erros.
+
+C: À medida que o tempo passa, a saudade só aumenta.
+S: À medida que o tempo passa, a saudade só aumenta.
+
+C: Quanto mais exercícios faço, mais energia tenho.
+S: Quanto mais exercícios faço, mais energia tenho.
+
+C: À medida que o dinheiro vai embora, os problemas aumentam.
+S: À medida que o dinheiro vai embora, os problemas aumentam.
+
+C: À medida que ela estudava mais, suas notas melhoravam.
+S: Ela estudava mais e suas notas melhoravam.
+
+C: Quanto mais ele se exercitava, mais energia tinha.
+S: Ele se exercitava mais e tinha mais energia.
+
+C: À medida que o tempo passava, sua habilidade no piano aumentava.
+S: O tempo passava e sua habilidade no piano aumentava.
+
+C: Quanto mais ele lia, mais conhecimento adquiria.
+S: Ele lia mais e adquiria mais conhecimento.
+
+C: Ao passo que o clima esquentava, as pessoas se refugiavam na praia.
+S: O clima esquentava e as pessoas se refugiavam na praia.
+
+C: À medida que o sol se punha, as estrelas começavam a aparecer.
+S: O sol se punha e as estrelas começavam a aparecer.
+
+C: Ao passo que o trânsito aumentava, a paciência das pessoas diminuía.
+S: O trânsito aumentava e a paciência das pessoas diminuía.
+
+C: Quanto mais ele economizava, mais dinheiro tinha no final do mês.
+S: Ele economizava mais e tinha mais dinheiro no final do mês.
+
+C: À medida que o trabalho se acumulava, o estresse aumentava.
+S: O trabalho se acumulava e o estresse aumentava.
+
+C: Quanto mais estudava, mais preparado se sentia para a prova.
+S: Ele estudava mais e se sentia mais preparado para a prova.
+
+C: Quanto mais estudo, mais aprendo.
+S: A medida que estudo, aprendo mais.
+
+C: À medida que o sol se põe, o céu fica mais escuro.
+S: Conforme o sol se põe, o céu escurece.
+
+C: Quanto mais treino, mais forte fico.
+S: A medida que treino, fico mais forte.
+
+C: À medida que o tempo passa, ficamos mais experientes.
+S: Conforme o tempo passa, ficamos mais experientes.
+
+C: Quanto mais trabalho, mais dinheiro ganho.
+S: A medida que trabalho, ganho mais dinheiro.
+
+C: À medida que a temperatura sobe, as pessoas se refrescam mais.
+S: Conforme a temperatura sobe, as pessoas se refrescam mais.
+
+C: Quanto mais estudo, menos nervoso fico para provas.
+S: A medida que estudo, fico menos nervoso para provas.
+
+C: À medida que a tecnologia avança, os dispositivos eletrônicos se tornam mais acessíveis.
+S: Conforme a tecnologia avança, os dispositivos eletrônicos se tornam mais acessíveis.
+
+C: Quanto mais exercício faço, mais saudável me sinto.
+S: A medida que faço exercício, me sinto mais saudável.
+
+C: À medida que a idade aumenta, as responsabilidades também crescem.
+S: Conforme a idade aumenta, as responsabilidades também crescem.
+
+C: À medida que estudamos mais, aprendemos mais.
+S: À medida que estudamos mais, aprendemos mais.
+
+C: Quanto mais treinamos, melhores ficamos no esporte.
+S: Quanto mais treinamos, melhores ficamos no esporte.
+
+C: À medida que o tempo passa, as pessoas envelhecem.
+S: À medida que o tempo passa, as pessoas envelhecem.
+
+C: Quanto mais se estuda, mais se aprende.
+S: Quanto mais se estuda, mais se aprende.
+
+C: À medida que o sol se põe, a temperatura diminui.
+S: À medida que o sol se põe, a temperatura diminui.
+
+C: Quanto mais se pratica, mais se aperfeiçoa.
+S: Quanto mais se pratica, mais se aperfeiçoa.
+
+C: À medida que o nível de dificuldade aumenta, o desafio se torna maior.
+S: À medida que o nível de dificuldade aumenta, o desafio se torna maior.
+
+C: Quanto mais se economiza, maior é a quantidade de dinheiro acumulada.
+S: Quanto mais se economiza, maior é a quantidade de dinheiro acumulada.
+
+C: À medida que se adquire experiência, melhora-se nas habilidades profissionais.
+S: À medida que se adquire experiência, melhora-se nas habilidades profissionais.
+
+C: Quanto mais nos dedicamos, mais chances de sucesso temos.
+S: Quanto mais nos dedicamos, mais chances de sucesso temos.
+
+C: À medida que estudo mais, meu conhecimento aumenta.
+S: Conforme estudo mais, meu conhecimento aumenta.
+
+C: À medida que o tempo passa, meu amor por você só cresce.
+S: Conforme o tempo passa, meu amor por você só cresce.
+
+C: À medida que a temperatura desce, o frio se intensifica.
+S: Conforme a temperatura desce, o frio se intensifica.
+
+C: À medida que o trânsito aumenta, o estresse também aumenta.
+S: Conforme o trânsito aumenta, o estresse também aumenta.
+
+C: À medida que economizamos dinheiro, a possibilidade de viajar aumenta.
+S: Conforme economizamos dinheiro, a possibilidade de viajar aumenta.
+
+C: À medida que o prazo se aproxima, a ansiedade aumenta.
+S: Conforme o prazo se aproxima, a ansiedade aumenta.
+
+C: À medida que pratico mais, minha habilidade no esporte melhora.
+S: Conforme pratico mais, minha habilidade no esporte melhora.
+
+C: À medida que estudamos juntos, nossas notas melhoram.
+S: Conforme estudamos juntos, nossas notas melhoram.
+
+C: À medida que a pressão aumenta, as pessoas tendem a ficar mais estressadas.
+S: Conforme a pressão aumenta, as pessoas tendem a ficar mais estressadas.
+
+C: À medida que o sol se põe, a temperatura diminui.
+S: Conforme o sol se põe, a temperatura diminui.
+
+C: À medida que a competição aumenta, os preços dos produtos caem.
+S: À medida que a competição aumenta, os preços dos produtos caem.
+
+C: Quanto mais estudo, melhor me saio nas provas.
+S: Quanto mais estudo, melhor me saio nas provas.
+
+C: À medida que envelheço, fico mais sábio.
+S: À medida que envelheço, fico mais sábio.
+
+C: Quanto mais eu trabalho, mais dinheiro eu ganho.
+S: Quanto mais eu trabalho, mais dinheiro eu ganho.
+
+C: À medida que pratico, fico melhor no esporte.
+S: À medida que pratico, fico melhor no esporte.
+
+C: Quanto mais você se esforça, mais resultados obtém.
+S: Quanto mais você se esforça, mais resultados obtém.
+
+C: À medida que aprendo, descubro novas possibilidades.
+S: À medida que aprendo, descubro novas possibilidades.
+
+C: Quanto mais treino, mais resistente fico.
+S: Quanto mais treino, mais resistente fico.
+
+C: À medida que economizo, consigo realizar meus objetivos.
+S: À medida que economizo, consigo realizar meus objetivos.
+
+C: Quanto mais estudo, mais confiante me sinto na prova.
+S: Quanto mais estudo, mais confiante me sinto na prova.
+
+C: À medida que o tempo passa, as árvores crescem mais altas.
+S: À medida que o tempo passa, as árvores crescem mais altas.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que envelheço, sinto mais saudades da minha infância.
+S: À medida que envelheço, sinto mais saudades da minha infância.
+
+C: Quanto menos trabalho, menos dinheiro ganho.
+S: Quanto menos trabalho, menos dinheiro ganho.
+
+C: À medida que a temperatura sobe, eu me sinto mais cansado.
+S: À medida que a temperatura sobe, eu me sinto mais cansado.
+
+C: Quanto mais durmo, mais descansado me sinto.
+S: Quanto mais durmo, mais descansado me sinto.
+
+C: À medida que o sol se põe, o céu fica mais bonito.
+S: À medida que o sol se põe, o céu fica mais bonito.
+
+C: Quanto mais estudo, menos tempo tenho para me divertir.
+S: Quanto mais estudo, menos tempo tenho para me divertir.
+
+C: À medida que o tempo passa, as rugas ficam mais visíveis no meu rosto.
+S: À medida que o tempo passa, as rugas ficam mais visíveis no meu rosto.
+
+C: Quanto menos tempo tenho, mais me organizo.
+S: Quanto menos tempo tenho, mais me organizo.
+
+C: À medida que o tempo passa, a paciência diminui.
+S: Conforme o tempo passa, a paciência diminui.
+
+C: Quanto mais estudamos, mais aprendemos.
+S: À medida que estudamos, aprendemos mais.
+
+C: Ao passo que ele ganha dinheiro, ela perde sua felicidade.
+S: Enquanto ele ganha dinheiro, ela perde sua felicidade.
+
+C: À medida que os dias ficam mais curtos, as noites ficam mais longas.
+S: Conforme os dias ficam mais curtos, as noites ficam mais longas.
+
+C: À medida que a temperatura sobe, as pessoas vestem roupas mais leves.
+S: Conforme a temperatura sobe, as pessoas vestem roupas mais leves.
+
+C: Quanto mais treinamos, melhores ficamos.
+S: À medida que treinamos, ficamos melhores.
+
+C: À medida que o sol se põe, o céu fica mais bonito.
+S: Conforme o sol se põe, o céu fica mais bonito.
+
+C: À medida que a pressão aumenta, a ansiedade se intensifica.
+S: Conforme a pressão aumenta, a ansiedade se intensifica.
+
+C: À medida que o volume aumenta, o som fica mais alto.
+S: Conforme o volume aumenta, o som fica mais alto.
+
+C: Quanto mais nos esforçamos, mais resultados alcançamos.
+S: À medida que nos esforçamos, alcançamos mais resultados.
+
+C: Quantas mais horas estuda, mais notas boas obtém.
+S: Quanto mais horas estuda, mais notas boas obtém.
+
+C: À medida que o tempo passa, o sol vai se pondo no horizonte.
+S: À medida que o tempo passa, o sol vai se pondo no horizonte.
+
+C: Quanto mais alto grita, mais as pessoas te ouvem.
+S: Quanto mais alto grita, mais as pessoas te ouvem.
+
+C: À medida que a temperatura aumenta, a neve começa a derreter.
+S: À medida que a temperatura aumenta, a neve começa a derreter.
+
+C: Quanto mais treina, mais confiante fica para a competição.
+S: Quanto mais treina, mais confiante fica para a competição.
+
+C: À medida que o tempo esfria, as pessoas começam a usar roupas mais quentes.
+S: À medida que o tempo esfria, as pessoas começam a usar roupas mais quentes.
+
+C: Quanto mais trabalha, mais dinheiro ganha.
+S: Quanto mais trabalha, mais dinheiro ganha.
+
+C: À medida que o nível de poluição aumenta, a qualidade do ar diminui.
+S: À medida que o nível de poluição aumenta, a qualidade do ar diminui.
+
+C: Quanto mais estuda, menos tempo tem para relaxar.
+S: Quanto mais estuda, menos tempo tem para relaxar.
+
+C: À medida que a idade avança, a memória vai se deteriorando.
+S: À medida que a idade avança, a memória vai se deteriorando.
+
+C: À medida que o tempo passa, fico mais experiente na minha profissão.
+S: Conforme o tempo passa, fico mais experiente na minha profissão.
+
+C: Quanto mais estudo, mais aprendo sobre o assunto.
+S: À medida que estudo, aprendo mais sobre o assunto.
+
+C: Ao passo que o sol se põe, a temperatura começa a cair.
+S: Conforme o sol se põe, a temperatura começa a cair.
+
+C: À medida que o trânsito aumenta, o estresse também aumenta.
+S: Conforme o trânsito aumenta, o estresse também aumenta.
+
+C: Quanto mais chove, mais difícil fica sair de casa.
+S: À medida que chove, fica mais difícil sair de casa.
+
+C: À medida que nos aproximamos do período de férias, a ansiedade aumenta.
+S: Conforme nos aproximamos do período de férias, a ansiedade aumenta.
+
+C: Quanto menos tempo tenho, mais produtivo eu sou.
+S: À medida que tenho menos tempo, sou mais produtivo.
+
+C: Ao passo que o jogo avança, a tensão entre os jogadores aumenta.
+S: Conforme o jogo avança, a tensão entre os jogadores aumenta.
+
+C: À medida que a temperatura cai, as pessoas começam a usar casacos mais quentes.
+S: Conforme a temperatura cai, as pessoas começam a usar casacos mais quentes.
+
+C: Quanto mais estudo para a prova, mais confiante eu me sinto.
+S: À medida que estudo para a prova, me sinto mais confiante.
+
+C: À proporção que estudamos mais, aprendemos mais.
+S: À medida que estudamos mais, aprendemos mais.
+
+C: Quanto mais nos exercitamos, ficamos mais fortes.
+S: À medida que nos exercitamos, ficamos mais fortes.
+
+C: Ao passo que o tempo passa, as lembranças se tornam mais nítidas.
+S: À medida que o tempo passa, as lembranças se tornam mais nítidas.
+
+C: À medida que as temperaturas caem, as pessoas vestem casacos mais quentes.
+S: À medida que as temperaturas caem, as pessoas vestem casacos mais quentes.
+
+C: Quanto mais estudamos, mais conhecimento adquirimos.
+S: À medida que estudamos, mais conhecimento adquirimos.
+
+C: À medida que o dia avança, o cansaço se faz presente.
+S: À medida que o dia avança, o cansaço se faz presente.
+
+C: À medida que o sol se põe, as estrelas começam a aparecer.
+S: À medida que o sol se põe, as estrelas começam a aparecer.
+
+C: Quanto mais nos dedicamos, melhores resultados obtemos.
+S: À medida que nos dedicamos, melhores resultados obtemos.
+
+C: Ao passo que nos alimentamos bem, nossa saúde melhora.
+S: À medida que nos alimentamos bem, nossa saúde melhora.
+
+C: À medida que a chuva cai, a grama fica mais verde.
+S: À medida que a chuva cai, a grama fica mais verde.
+
+C: À medida que o tempo passa, a dor vai diminuindo.
+S: À medida que o tempo passa, a dor diminui.
+
+C: Ao passo que o sol se põe, a temperatura vai caindo.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: Quanto mais ele estuda, mais notas boas ele tira.
+S: À medida que ele estuda, ele tira notas boas.
+
+C: À medida que a situação piora, a ansiedade vai aumentando.
+S: À medida que a situação piora, a ansiedade aumenta.
+
+C: Quanto mais ela adia, menos tempo ela terá para terminar o trabalho.
+S: À medida que ela adia, ela tem menos tempo para terminar o trabalho.
+
+C: À medida que o aprendizado avança, a confiança nas habilidades aumenta.
+S: À medida que o aprendizado avança, a confiança nas habilidades aumenta.
+
+C: À medida que o tempo passa, a tristeza vai se dissipando.
+S: À medida que o tempo passa, a tristeza se dissipa.
+
+C: Ao passo que ele economiza, seu saldo bancário vai crescendo.
+S: À medida que ele economiza, seu saldo bancário cresce.
+
+C: À medida que a competição se intensifica, o nível de exigência aumenta.
+S: À medida que a competição se intensifica, o nível de exigência aumenta.
+
+C: Quanto mais ela se esforça, menor é a probabilidade de cometer erros.
+S: À medida que ela se esforça, a probabilidade de cometer erros diminui.
+
+C: À medida que os alunos estudam mais, suas notas melhoram.
+S: Os alunos melhoram suas notas à medida que estudam mais.
+
+C: Quanto mais você corre, mais rápido você fica.
+S: Você fica mais rápido quanto mais corre.
+
+C: À proporção que o tempo passa, o sol se põe.
+S: O sol se põe à medida que o tempo passa.
+
+C: Ao passo que o dia amanhece, os pássaros começam a cantar.
+S: Os pássaros começam a cantar ao amanhecer o dia.
+
+C: Quanto mais dinheiro ela ganha, mais coisas ela compra.
+S: Ela compra mais coisas quanto mais dinheiro ganha.
+
+C: À medida que o filme avança, a trama se torna mais intrigante.
+S: A trama se torna mais intrigante à medida que o filme avança.
+
+C: Quanto mais você estuda, menos chances de reprovar você tem.
+S: Você tem menos chances de reprovar quanto mais estuda.
+
+C: À medida que a pressão aumenta, o desempenho dos atletas melhora.
+S: O desempenho dos atletas melhora à medida que a pressão aumenta.
+
+C: Ao passo que a temperatura sobe, mais pessoas vão à praia.
+S: Mais pessoas vão à praia ao subir a temperatura.
+
+C: Quanto mais você se exercita, menos cansado você se sente.
+S: Você se sente menos cansado quanto mais se exercita.
+
+C: À medida que o tempo passa, o amor entre eles só aumenta.
+S: À medida que o tempo passa, o amor entre eles só aumenta.
+
+C: Quanto mais ele estuda, mais notas altas ele consegue no colégio.
+S: Quanto mais ele estuda, mais notas altas ele consegue no colégio.
+
+C: À medida que a temperatura sobe, as pessoas começam a reclamar do calor.
+S: À medida que a temperatura sobe, as pessoas começam a reclamar do calor.
+
+C: Quanto mais ele se exercita, mais saudável ele se torna.
+S: Quanto mais ele se exercita, mais saudável ele se torna.
+
+C: Ao passo que o sol se põe, a noite vai chegando.
+S: Ao passo que o sol se põe, a noite vai chegando.
+
+C: Quanto mais ele economiza, mais dinheiro ele tem no final do mês.
+S: Quanto mais ele economiza, mais dinheiro ele tem no final do mês.
+
+C: À medida que o tempo passa, as rugas começam a aparecer.
+S: À medida que o tempo passa, as rugas começam a aparecer.
+
+C: À medida que o inverno se aproxima, as pessoas começam a se agasalhar mais.
+S: À medida que o inverno se aproxima, as pessoas começam a se agasalhar mais.
+
+C: Quanto mais ela estuda, mais conhecimento ela adquire.
+S: Quanto mais ela estuda, mais conhecimento ela adquire.
+
+C: À medida que a riqueza aumenta, a felicidade diminui.
+S: À medida que a riqueza aumenta, a felicidade diminui.
+
+C: À medida que a empresa cresce, mais funcionários são contratados.
+S: À medida que a empresa cresce, mais funcionários são contratados.
+
+C: Quanto mais você estuda, melhores serão suas notas.
+S: Quanto mais você estuda, melhores serão suas notas.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: À medida que o tempo passa, a saudade aumenta.
+
+C: Quanto mais você treina, mais habilidoso se torna.
+S: Quanto mais você treina, mais habilidoso se torna.
+
+C: À medida que a temperatura aumenta, as pessoas procuram praias e piscinas.
+S: À medida que a temperatura aumenta, as pessoas procuram praias e piscinas.
+
+C: À medida que os anos passam, o corpo envelhece.
+S: À medida que os anos passam, o corpo envelhece.
+
+C: Quanto mais se corre, mais rápido se chega à linha de chegada.
+S: Quanto mais se corre, mais rápido se chega à linha de chegada.
+
+C: À medida que os dias passam, as árvores perdem suas folhas no outono.
+S: À medida que os dias passam, as árvores perdem suas folhas no outono.
+
+C: Quanto mais estudo, menos tempo tenho para sair com os amigos.
+S: Quanto mais estudo, menos tempo tenho para sair com os amigos.
+
+C: À medida que a população aumenta, a demanda por recursos naturais também aumenta.
+S: À medida que a população aumenta, a demanda por recursos naturais também aumenta.
+
+C: À medida que o tempo passa, minha paixão por ela só aumenta.
+S: Conforme o tempo passa, minha paixão por ela só aumenta.
+
+C: Quanto mais estudo, mais confiante me sinto nas provas.
+S: À medida que estudo, me sinto mais confiante nas provas.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: Conforme o sol se põe, a temperatura começa a cair.
+
+C: Quanto mais dinheiro ganhamos, mais despesas surgem.
+S: À medida que ganhamos mais dinheiro, mais despesas surgem.
+
+C: À medida que o tempo passa, as lembranças vão se desvanecendo.
+S: Conforme o tempo passa, as lembranças vão se desvanecendo.
+
+C: Quanto mais longo o trajeto, maior a probabilidade de ocorrerem imprevistos.
+S: À medida que o trajeto fica mais longo, aumenta a probabilidade de ocorrerem imprevistos.
+
+C: À medida que envelhecemos, as rugas vão aparecendo.
+S: Conforme envelhecemos, as rugas vão aparecendo.
+
+C: Quanto mais eu a conheço, mais me apaixono por ela.
+S: À medida que eu a conheço, me apaixono cada vez mais por ela.
+
+C: À medida que o filme avança, a tensão vai aumentando.
+S: Conforme o filme avança, a tensão vai aumentando.
+
+C: Quanto mais eu me exercito, melhor meu condicionamento físico fica.
+S: À medida que eu me exercito, meu condicionamento físico melhora.
+
+C: À medida que ele estudava mais, suas notas melhoravam.
+S: Quanto mais ele estudava, suas notas melhoravam.
+
+C: À proporção que a conta de celular aumentava, ele cortava gastos em outras áreas.
+S: Quanto mais a conta de celular aumentava, ele cortava gastos em outras áreas.
+
+C: Ao passo que o sol se põe, a temperatura começa a baixar.
+S: Enquanto o sol se põe, a temperatura começa a baixar.
+
+C: Quanto mais ele trabalhava, menos tempo tinha para descansar.
+S: À medida que ele trabalhava, menos tempo tinha para descansar.
+
+C: À medida que o tempo passa, as pessoas ficam mais impacientes.
+S: Conforme o tempo passa, as pessoas ficam mais impacientes.
+
+C: Quanto mais a tecnologia avança, mais fácil fica se comunicar com as pessoas.
+S: À medida que a tecnologia avança, fica mais fácil se comunicar com as pessoas.
+
+C: À medida que a pressão aumenta, a qualidade do trabalho diminui.
+S: Quanto mais a pressão aumenta, a qualidade do trabalho diminui.
+
+C: Quanto mais ele praticava, mais habilidoso ficava.
+S: À medida que ele praticava, ficava mais habilidoso.
+
+C: À medida que a economia se recupera, mais pessoas conseguem empregos.
+S: Conforme a economia se recupera, mais pessoas conseguem empregos.
+
+C: À medida que a dieta foi sendo seguida, os resultados começaram a aparecer.
+S: Quanto mais a dieta foi sendo seguida, os resultados começaram a aparecer.
+
+C: À medida que o tempo passa, as tecnologias se tornam mais avançadas.
+S: À medida que o tempo passa, as tecnologias avançam.
+
+C: Ao passo que as pessoas envelhecem, sua saúde tende a piorar.
+S: Conforme as pessoas envelhecem, sua saúde piora.
+
+C: Quanto mais estudo, mais aprendo sobre o assunto.
+S: A medida que estudo, aprendo mais sobre o assunto.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: Quando o sol se põe, a temperatura começa a cair.
+
+C: Ao passo que o tráfego aumenta, o tempo de deslocamento também aumenta.
+S: Conforme o tráfego aumenta, o tempo de deslocamento também aumenta.
+
+C: Quanto mais pratico, mais melhoro meu desempenho esportivo.
+S: A medida que pratico, melhoro meu desempenho esportivo.
+
+C: À medida que o vento sopra, as folhas das árvores caem.
+S: Quando o vento sopra, as folhas das árvores caem.
+
+C: À medida que a temperatura sobe, a sede aumenta.
+S: Conforme a temperatura sobe, a sede aumenta.
+
+C: Quanto mais treino, mais forte fico.
+S: A medida que treino, fico mais forte.
+
+C: Ao passo que o tempo passa, as lembranças vão ficando mais distantes.
+S: Conforme o tempo passa, as lembranças vão ficando mais distantes.
+
+C: À medida que a temperatura sobe, os vasos sanguíneos dilatam.
+S: Conforme a temperatura sobe, os vasos sanguíneos dilatam.
+
+C: Quanto mais se pratica, mais habilidoso se fica.
+S: Quanto mais se pratica, mais habilidoso se fica.
+
+C: À medida que o tempo passa, as lembranças vão se apagando.
+S: Conforme o tempo passa, as lembranças vão se apagando.
+
+C: Quanto mais estudo, menos ansioso fico para as provas.
+S: Quanto mais estudo, menos ansioso fico para as provas.
+
+C: À medida que o sol se põe, as estrelas começam a aparecer.
+S: Conforme o sol se põe, as estrelas começam a aparecer.
+
+C: À medida que o volume aumenta, o som fica mais alto.
+S: Conforme o volume aumenta, o som fica mais alto.
+
+C: Quanto mais se trabalha, mais dinheiro se ganha.
+S: Quanto mais se trabalha, mais dinheiro se ganha.
+
+C: À medida que o trânsito piora, aumentam os acidentes nas estradas.
+S: Conforme o trânsito piora, aumentam os acidentes nas estradas.
+
+C: Quanto mais se estuda, mais conhecimento se adquire.
+S: Quanto mais se estuda, mais conhecimento se adquire.
+
+C: À medida que a idade avança, surgem mais rugas no rosto.
+S: Conforme a idade avança, surgem mais rugas no rosto.
+
+C: À medida que o tempo passa, ele se torna mais maduro.
+S: À medida que o tempo passa, ele se torna mais maduro.
+
+C: Quanto mais estudo, mais me sinto preparado.
+S: Quanto mais estudo, mais me sinto preparado.
+
+C: Ao passo que ele crescia, sua sede de conhecimento aumentava.
+S: Ao passo que ele crescia, sua sede de conhecimento aumentava.
+
+C: À medida que a temperatura cai, as pessoas começam a vestir casacos mais pesados.
+S: À medida que a temperatura cai, as pessoas começam a vestir casacos mais pesados.
+
+C: Conforme ele envelhece, sua memória fica mais fraca.
+S: Conforme ele envelhece, sua memória fica mais fraca.
+
+C: Quanto mais pratico, mais melhoro no esporte.
+S: Quanto mais pratico, mais melhoro no esporte.
+
+C: À medida que o sol se põe, a escuridão toma conta do ambiente.
+S: À medida que o sol se põe, a escuridão toma conta do ambiente.
+
+C: À proporção que o tempo passa, o amor entre eles cresce.
+S: À proporção que o tempo passa, o amor entre eles cresce.
+
+C: À medida que a água vai aquecendo, o vapor começa a se formar.
+S: À medida que a água vai aquecendo, o vapor começa a se formar.
+
+C: Quanto mais ele estuda, mais fácil fica de entender a matéria.
+S: Quanto mais ele estuda, mais fácil fica de entender a matéria.
+
+C: À medida que estudamos mais, nosso conhecimento aumenta.
+S: Quando estudamos mais, nosso conhecimento aumenta.
+
+C: Quanto mais ela se esforça, melhores resultados ela obtém.
+S: Se ela se esforça, obtém melhores resultados.
+
+C: À proporção que a temperatura sobe, as pessoas procuram se refrescar.
+S: Quando a temperatura sobe, as pessoas procuram se refrescar.
+
+C: À medida que envelhecemos, nossa memória pode ficar menos eficiente.
+S: Quando envelhecemos, nossa memória pode ficar menos eficiente.
+
+C: Quanto mais praticamos um esporte, mais habilidosos nos tornamos.
+S: Se praticamos um esporte, nos tornamos mais habilidosos.
+
+C: À medida que a demanda aumenta, o preço dos produtos sobe.
+S: Quando a demanda aumenta, o preço dos produtos sobe.
+
+C: À medida que o trânsito fica congestionado, leva mais tempo para chegar ao destino.
+S: Quando o trânsito fica congestionado, leva mais tempo para chegar ao destino.
+
+C: Quanto mais se estuda, mais conhecimento se adquire.
+S: Se estuda, adquire-se mais conhecimento.
+
+C: À medida que a pressão aumenta, a temperatura também aumenta.
+S: Quando a pressão aumenta, a temperatura também aumenta.
+
+C: À proporção que a população cresce, aumenta a demanda por recursos naturais.
+S: Quando a população cresce, aumenta a demanda por recursos naturais.
+
+C: À proporção que o tempo passa, a popularidade do filme aumenta.
+S: À medida que o tempo passa, a popularidade do filme aumenta.
+
+C: Quanto mais estudo, mais confiante me sinto.
+S: À medida que estudo, mais confiante me sinto.
+
+C: Ao passo que o sol se põe, a temperatura cai.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: Quanto mais treino, menos cansado me sinto.
+S: À medida que treino, menos cansado me sinto.
+
+C: À medida que a competição avança, a pressão aumenta.
+S: À medida que a competição avança, a pressão aumenta.
+
+C: À proporção que a música toca, a emoção invade meu coração.
+S: À medida que a música toca, a emoção invade meu coração.
+
+C: Quanto mais leio, mais conhecimento adquiro.
+S: À medida que leio, mais conhecimento adquiro.
+
+C: À medida que o tempo passa, sinto a saudade aumentar.
+S: À medida que o tempo passa, sinto a saudade aumentar.
+
+C: Ao passo que o dia chega ao fim, a tranquilidade se estabelece.
+S: À medida que o dia chega ao fim, a tranquilidade se estabelece.
+
+C: Quanto mais aprendo, mais fascinado fico pelo assunto.
+S: À medida que aprendo, mais fascinado fico pelo assunto.
+
+C: À medida que o sol se põe, a temperatura cai.
+S: Quando o sol se põe, a temperatura cai.
+
+C: Quanto mais estudo, mais aprendo.
+S: A medida que estudo, aprendo mais.
+
+C: À medida que o tempo passa, as lembranças se tornam mais distantes.
+S: Com o passar do tempo, as lembranças se tornam mais distantes.
+
+C: Quanto mais se pratica, melhor se torna.
+S: Na medida em que se pratica, melhora-se.
+
+C: À medida que envelhecemos, nossa saúde tende a piorar.
+S: Conforme envelhecemos, nossa saúde tende a piorar.
+
+C: Quanto mais se poupa, mais dinheiro se acumula.
+S: À medida que se poupa, acumula-se mais dinheiro.
+
+C: À medida que o trânsito aumenta, o tempo de deslocamento aumenta.
+S: Quando o trânsito aumenta, o tempo de deslocamento aumenta.
+
+C: Quanto mais se estuda, melhores são as notas.
+S: A medida que se estuda, as notas melhoram.
+
+C: À medida que a tensão aumenta, a energia diminui.
+S: Conforme a tensão aumenta, a energia diminui.
+
+C: Quanto mais se trabalha, mais cansado se fica.
+S: Na medida em que se trabalha, fica-se mais cansado.
+
+C: Os estudantes estudaram mais à medida que os exames finais se aproximavam.
+S: Os estudantes estudaram mais conforme os exames finais se aproximavam.
+
+C: À medida que o tempo passa, o clima fica mais quente.
+S: Conforme o tempo passa, o clima fica mais quente.
+
+C: À medida que o projeto avança, os desafios aumentam.
+S: Conforme o projeto avança, os desafios aumentam.
+
+C: Quanto mais ele treina, mais rápido ele corre.
+S: À medida que ele treina, ele corre mais rápido.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: Conforme o sol se põe, a temperatura começa a cair.
+
+C: À medida que o trânsito aumenta, o tempo para chegar ao trabalho aumenta.
+S: Conforme o trânsito aumenta, o tempo para chegar ao trabalho aumenta.
+
+C: À medida que as horas passam, a fome fica mais intensa.
+S: Conforme as horas passam, a fome fica mais intensa.
+
+C: À medida que o preço sobe, as vendas diminuem.
+S: Conforme o preço sobe, as vendas diminuem.
+
+C: À medida que a pressão aumenta, a ansiedade se intensifica.
+S: Conforme a pressão aumenta, a ansiedade se intensifica.
+
+C: À medida que o volume aumenta, o som fica mais alto.
+S: Conforme o volume aumenta, o som fica mais alto.
+
+C: À medida que o tempo passa, seu amor por ela aumenta.
+S: Conforme o tempo passa, seu amor por ela aumenta.
+
+C: À medida que ele estuda mais, suas notas melhoram.
+S: Conforme ele estuda mais, suas notas melhoram.
+
+C: À medida que o sol se põe, o céu vai ficando mais escuro.
+S: Conforme o sol se põe, o céu vai ficando mais escuro.
+
+C: À medida que a velocidade aumenta, a distância percorrida também aumenta.
+S: Conforme a velocidade aumenta, a distância percorrida também aumenta.
+
+C: À medida que a temperatura cai, as pessoas se agasalham mais.
+S: Conforme a temperatura cai, as pessoas se agasalham mais.
+
+C: À medida que o tráfego aumenta, o tempo de viagem fica mais longo.
+S: Conforme o tráfego aumenta, o tempo de viagem fica mais longo.
+
+C: À medida que o trabalho se acumula, o estresse aumenta.
+S: Conforme o trabalho se acumula, o estresse aumenta.
+
+C: À medida que o número de exercícios diminui, a resistência física também diminui.
+S: Conforme o número de exercícios diminui, a resistência física também diminui.
+
+C: À medida que a idade avança, as rugas começam a aparecer.
+S: Conforme a idade avança, as rugas começam a aparecer.
+
+C: À medida que a pressão atmosférica aumenta, o ar fica mais denso.
+S: Conforme a pressão atmosférica aumenta, o ar fica mais denso.
+
+C: À proporção que o tempo passava, ela se tornava mais experiente.
+S: À medida que o tempo passava, ela se tornava mais experiente.
+
+C: Ao passo que ele estudava mais, suas notas melhoravam.
+S: À medida que ele estudava mais, suas notas melhoravam.
+
+C: Quanto mais ele se esforçava, mais sucesso alcançava.
+S: À medida que ele se esforçava, mais sucesso alcançava.
+
+C: À medida que os anos passavam, ela se tornava mais sábia.
+S: À medida que os anos passavam, ela se tornava mais sábia.
+
+C: Quanto mais tempo ele passava estudando, menos tempo sobrava para se divertir.
+S: À medida que ele passava mais tempo estudando, sobrava menos tempo para se divertir.
+
+C: À medida que a infraestrutura se desenvolve, a qualidade de vida melhora.
+S: À medida que a infraestrutura se desenvolve, a qualidade de vida melhora.
+
+C: Quando ele se exercita regularmente, sua saúde melhora.
+S: À medida que ele se exercita regularmente, sua saúde melhora.
+
+C: À proporção que o conhecimento aumenta, as dúvidas diminuem.
+S: À medida que o conhecimento aumenta, as dúvidas diminuem.
+
+C: Ao passo que as tecnologias avançam, a sociedade se adapta.
+S: À medida que as tecnologias avançam, a sociedade se adapta.
+
+C: Quanto mais ele estuda, menos difícil fica.
+S: À medida que ele estuda mais, fica menos difícil.
+
+C: À medida que ela estudava mais, suas notas iam melhorando.
+S: À medida que ela estudava mais, suas notas iam melhorando.
+
+C: Quanto mais eu treino, mais fácil fica.
+S: Quanto mais eu treino, mais fácil fica.
+
+C: Ao passo que ele envelhecia, seu cabelo ficava grisalho.
+S: Ao passo que ele envelhecia, seu cabelo ficava grisalho.
+
+C: Quanto mais tempo passa, menos interesse eu tenho.
+S: Quanto mais tempo passa, menos interesse eu tenho.
+
+C: À medida que o sol se põe, a temperatura cai.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: À medida que o semestre avança, as cobranças aumentam.
+S: À medida que o semestre avança, as cobranças aumentam.
+
+C: Quanto mais eu estudo, menos cansado eu fico.
+S: Quanto mais eu estudo, menos cansado eu fico.
+
+C: À medida que ela ganha confiança, seus resultados melhoram.
+S: À medida que ela ganha confiança, seus resultados melhoram.
+
+C: Quanto mais ele corre, mais rápido ele fica.
+S: Quanto mais ele corre, mais rápido ele fica.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: À medida que o tempo passa, a saudade aumenta.
+
+C: À medida que ele estudava mais, suas notas iam melhorando.
+S: Ele estudava mais e suas notas iam melhorando.
+
+C: Quanto mais ele se exercitava, mais saudável ficava.
+S: Ele se exercitava e ficava mais saudável.
+
+C: À medida que o tempo passava, ela se tornava mais confiante.
+S: O tempo passava e ela se tornava mais confiante.
+
+C: Quanto mais ele trabalhava, menos tempo tinha para a família.
+S: Ele trabalhava mais e tinha menos tempo para a família.
+
+C: À medida que ela se esforçava, sua habilidade aumentava.
+S: Ela se esforçava e sua habilidade aumentava.
+
+C: Quanto mais tempo ela dedicava aos estudos, melhores eram suas notas.
+S: Ela dedicava mais tempo aos estudos e suas notas eram melhores.
+
+C: À medida que eles economizavam dinheiro, suas condições de vida melhoravam.
+S: Eles economizavam dinheiro e suas condições de vida melhoravam.
+
+C: Quanto mais ela estudava, menos nervosa ficava para a prova.
+S: Ela estudava mais e ficava menos nervosa para a prova.
+
+C: À medida que ele ganhava experiência, sua performance profissional aumentava.
+S: Ele ganhava experiência e sua performance profissional aumentava.
+
+C: Quanto mais ela se dedicava aos estudos, maior era seu conhecimento.
+S: Ela se dedicava mais aos estudos e seu conhecimento era maior.
+
+C: À medida que os alunos estudam mais, suas notas melhoram.
+S: Os alunos melhoram suas notas à medida que estudam mais.
+
+C: À medida que o tempo passa, as lembranças se tornam mais distantes.
+S: As lembranças se tornam mais distantes à medida que o tempo passa.
+
+C: Ao passo que a economia cresce, o desemprego diminui.
+S: O desemprego diminui ao passo que a economia cresce.
+
+C: Quanto mais você pratica, mais habilidoso fica.
+S: Você fica mais habilidoso quanto mais pratica.
+
+C: Quanto mais estudo, menos tenho certeza sobre o assunto.
+S: Tenho menos certeza sobre o assunto quanto mais estudo.
+
+C: À medida que o trânsito aumenta, o tempo de deslocamento aumenta também.
+S: O tempo de deslocamento aumenta à medida que o trânsito aumenta.
+
+C: À medida que as temperaturas caem, as pessoas utilizam casacos mais pesados.
+S: As pessoas utilizam casacos mais pesados à medida que as temperaturas caem.
+
+C: Ao passo que a tecnologia avança, os aparelhos eletrônicos se tornam mais sofisticados.
+S: Os aparelhos eletrônicos se tornam mais sofisticados ao passo que a tecnologia avança.
+
+C: Quanto mais eu pratico, menos cometo erros.
+S: Cometo menos erros quanto mais pratico.
+
+C: À medida que a pressão aumenta, a produtividade diminui.
+S: A produtividade diminui à medida que a pressão aumenta.
+
+C: À medida que o tempo passa, a dor vai diminuindo.
+S: À medida que o tempo passa, a dor diminui.
+
+C: Quanto mais eu estudo, melhores são minhas notas.
+S: Quanto mais eu estudo, melhores são minhas notas.
+
+C: À medida que o sol se põe, o céu vai ficando mais escuro.
+S: À medida que o sol se põe, o céu fica mais escuro.
+
+C: Ao passo que o tempo vai passando, vou me acostumando com a rotina.
+S: Ao passo que o tempo passa, vou me acostumando com a rotina.
+
+C: Quanto mais eu me exercito, mais energia tenho durante o dia.
+S: Quanto mais eu me exercito, mais energia tenho durante o dia.
+
+C: À medida que o conhecimento aumenta, as dúvidas diminuem.
+S: À medida que o conhecimento aumenta, as dúvidas diminuem.
+
+C: À medida que o trânsito piora, a paciência vai diminuindo.
+S: À medida que o trânsito piora, a paciência diminui.
+
+C: Quanto mais eu aprendo, mais percebo o quanto ainda tenho para aprender.
+S: Quanto mais eu aprendo, mais percebo o quanto ainda tenho para aprender.
+
+C: À medida que a economia se recupera, o desemprego vai diminuindo.
+S: À medida que a economia se recupera, o desemprego diminui.
+
+C: Quanto mais eu me esforço, mais resultados positivos eu obtenho.
+S: Quanto mais eu me esforço, mais resultados positivos eu obtenho.
+
+C: À medida que estudamos mais, aprendemos melhor.
+S: Quando estudamos mais, aprendemos melhor.
+
+C: Quanto mais praticamos, mais nos aperfeiçoamos.
+S: Se praticarmos mais, nos aperfeiçoamos mais.
+
+C: À medida que a tecnologia avança, as pessoas ficam mais dependentes dela.
+S: Conforme a tecnologia avança, as pessoas ficam mais dependentes dela.
+
+C: Quanto mais nos esforçamos, melhores resultados obtemos.
+S: Se nos esforçarmos mais, obtemos melhores resultados.
+
+C: À medida que envelhecemos, nossa memória tende a falhar.
+S: À medida que vamos envelhecendo, nossa memória tende a falhar.
+
+C: Quanto mais praticamos um idioma, mais fluente nos tornamos.
+S: Se praticarmos um idioma, nos tornaremos mais fluente.
+
+C: À medida que nos alimentamos de forma saudável, nossa saúde melhora.
+S: Quando nos alimentamos de forma saudável, nossa saúde melhora.
+
+C: Quanto mais estudamos, mais conhecimento adquirimos.
+S: Se estudarmos mais, adquirimos mais conhecimento.
+
+C: À medida que o tempo passa, nos tornamos mais sábios.
+S: Conforme o tempo passa, nos tornamos mais sábios.
+
+C: Quanto mais nos exercitamos, mais energia temos.
+S: Se nos exercitarmos mais, teremos mais energia.
+
+C: À medida que o dia vai passando, a ansiedade vai aumentando.
+S: Conforme o dia passa, a ansiedade aumenta.
+
+C: À proporção que o tempo vai passando, a população vai envelhecendo.
+S: Conforme o tempo passa, a população envelhece.
+
+C: Ao passo que o nível de estresse diminui, a qualidade de vida melhora.
+S: Conforme o nível de estresse diminui, a qualidade de vida melhora.
+
+C: Quanto mais o tempo vai passando, mais difícil fica seguir a rotina.
+S: À medida que o tempo passa, fica mais difícil seguir a rotina.
+
+C: Quanto mais estudamos, mais conhecimento adquirimos.
+S: À medida que estudamos, adquirimos mais conhecimento.
+
+C: Quanto menos tempo perdemos, mais produtivos somos.
+S: À medida que perdemos menos tempo, somos mais produtivos.
+
+C: Quanto mais eu treino, mais forte fico.
+S: À medida que eu treino, fico mais forte.
+
+C: À medida que a temperatura sobe, fica mais difícil suportar o calor.
+S: Conforme a temperatura sobe, fica mais difícil suportar o calor.
+
+C: À medida que a cidade cresce, o trânsito piora.
+S: Conforme a cidade cresce, o trânsito piora.
+
+C: À medida que o prazo se aproxima, a pressão aumenta.
+S: Conforme o prazo se aproxima, a pressão aumenta.
+
+C: À medida que o tempo passa, a dor vai diminuindo.
+S: À medida que o tempo passa, a dor diminui.
+
+C: Quanto mais estuda, mais conhecimento adquire.
+S: Quanto mais estuda, mais conhecimento adquire.
+
+C: Ao passo que ele falava, eu prestava atenção.
+S: Enquanto ele falava, eu prestava atenção.
+
+C: À medida que a temperatura aumenta, o gelo derrete.
+S: À medida que a temperatura aumenta, o gelo derrete.
+
+C: Quanto mais treina, melhor fica no esporte.
+S: Quanto mais treina, melhor fica no esporte.
+
+C: Ao passo que a noite avança, o frio aumenta.
+S: Conforme a noite avança, o frio aumenta.
+
+C: À medida que o dia passa, as pessoas vão chegando.
+S: À medida que o dia passa, as pessoas chegam.
+
+C: À medida que estudamos, compreendemos melhor o assunto.
+S: À medida que estudamos, compreendemos melhor o assunto.
+
+C: Quanto mais trabalha, mais dinheiro ganha.
+S: Quanto mais trabalha, mais dinheiro ganha.
+
+C: À medida que envelhecemos, ficamos mais sábios.
+S: À medida que envelhecemos, ficamos mais sábios.
+
+C: À medida que estudamos mais, nosso conhecimento aumenta.
+S: Conforme estudamos mais, nosso conhecimento aumenta.
+
+C: Ao passo que o tempo passa, as lembranças se desvanecem.
+S: Conforme o tempo passa, as lembranças se desvanecem.
+
+C: Quanto mais praticamos, mais habilidosos nos tornamos.
+S: À medida que praticamos, nos tornamos mais habilidosos.
+
+C: À medida que as temperaturas sobem, os dias ficam mais quentes.
+S: Conforme as temperaturas sobem, os dias ficam mais quentes.
+
+C: Quanto mais corremos, mais cansados ficamos.
+S: À medida que corremos, ficamos mais cansados.
+
+C: À medida que aprendemos com os erros, nos tornamos melhores.
+S: Conforme aprendemos com os erros, nos tornamos melhores.
+
+C: À medida que lemos mais, nosso vocabulário se expande.
+S: Conforme lemos mais, nosso vocabulário se expande.
+
+C: Quanto menos tempo temos, mais precisamos nos organizar.
+S: À medida que temos menos tempo, precisamos nos organizar mais.
+
+C: À medida que a tecnologia avança, a forma como nos comunicamos muda.
+S: Conforme a tecnologia avança, a forma como nos comunicamos muda.
+
+C: Quanto mais estudamos, mais preparados ficamos para os exames.
+S: À medida que estudamos mais, ficamos mais preparados para os exames.
+
+C: À medida que os alunos estudam mais, suas notas melhoram.
+S: Os alunos melhoram suas notas à medida que estudam mais.
+
+C: Quanto mais treino, melhor será o desempenho no jogo.
+S: O desempenho no jogo será melhor quanto mais treino.
+
+C: À medida que o tempo passa, a dor vai diminuindo.
+S: A dor vai diminuindo à medida que o tempo passa.
+
+C: À medida que o sol se põe, o céu fica mais colorido.
+S: O céu fica mais colorido à medida que o sol se põe.
+
+C: Quanto mais dinheiro você ganha, mais gastos você tem.
+S: Você tem mais gastos quanto mais dinheiro ganha.
+
+C: À medida que a tecnologia avança, as máquinas ficam mais eficientes.
+S: As máquinas ficam mais eficientes à medida que a tecnologia avança.
+
+C: Quanto mais você estuda, mais conhecimento adquire.
+S: Você adquire mais conhecimento quanto mais estuda.
+
+C: À medida que o dia passa, a temperatura vai aumentando.
+S: A temperatura vai aumentando à medida que o dia passa.
+
+C: Quanto mais exercícios você faz, mais forte fica o seu corpo.
+S: O seu corpo fica mais forte quanto mais exercícios você faz.
+
+C: À medida que o trânsito piora, o tempo para chegar ao destino aumenta.
+S: O tempo para chegar ao destino aumenta à medida que o trânsito piora.
+
+C: À medida que o tempo passa, as pessoas ficam mais experientes.
+S: À medida que o tempo passa, as pessoas ficam mais experientes.
+
+C: Quanto mais estudo, melhor fica o meu desempenho acadêmico.
+S: Quanto mais estudo, melhor fica o meu desempenho acadêmico.
+
+C: À proporção que chove, o nível do rio sobe.
+S: À proporção que chove, o nível do rio sobe.
+
+C: Ao passo que as pessoas envelhecem, sua memória pode ficar comprometida.
+S: Ao passo que as pessoas envelhecem, sua memória pode ficar comprometida.
+
+C: Quanto mais me esforço, mais resultados positivos eu obtenho.
+S: Quanto mais me esforço, mais resultados positivos eu obtenho.
+
+C: À medida que os preços sobem, as pessoas tendem a reduzir seus gastos.
+S: À medida que os preços sobem, as pessoas tendem a reduzir seus gastos.
+
+C: À medida que o tempo esfria, as pessoas se vestem com roupas mais quentes.
+S: À medida que o tempo esfria, as pessoas se vestem com roupas mais quentes.
+
+C: Quanto mais exercícios físicos são feitos, mais benefícios para a saúde são alcançados.
+S: Quanto mais exercícios físicos são feitos, mais benefícios para a saúde são alcançados.
+
+C: À medida que a tecnologia evolui, os dispositivos se tornam mais compactos.
+S: À medida que a tecnologia evolui, os dispositivos se tornam mais compactos.
+
+C: À medida que o estresse aumenta, a qualidade do sono diminui.
+S: À medida que o estresse aumenta, a qualidade do sono diminui.
+
+C: À medida que o tempo passa, a ansiedade aumenta.
+S: À medida que o tempo passa, a ansiedade aumenta.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o desenvolvimento tecnológico avança, a qualidade de vida melhora.
+S: À medida que o desenvolvimento tecnológico avança, a qualidade de vida melhora.
+
+C: À proporção que o sol se põe, a temperatura diminui.
+S: À proporção que o sol se põe, a temperatura diminui.
+
+C: Ao passo que o dia amanhece, as pessoas começam a se movimentar.
+S: Ao passo que o dia amanhece, as pessoas começam a se movimentar.
+
+C: Quanto mais me exercito, mais saudável me sinto.
+S: Quanto mais me exercito, mais saudável me sinto.
+
+C: À medida que os anos passam, a memória fica mais fraca.
+S: À medida que os anos passam, a memória fica mais fraca.
+
+C: Quanto mais estudo, menos dificuldades tenho nas provas.
+S: Quanto mais estudo, menos dificuldades tenho nas provas.
+
+C: À medida que o sol se põe, o céu fica mais estrelado.
+S: À medida que o sol se põe, o céu fica mais estrelado.
+
+C: Quanto mais envelheço, menos energia tenho.
+S: Quanto mais envelheço, menos energia tenho.
+
+C: À proporção que os anos passam, a tolerância das pessoas diminui.
+S: À medida que os anos passam, a tolerância das pessoas diminui.
+
+C: Ao passo que o trânsito aumenta, o estresse dos motoristas também cresce.
+S: À medida que o trânsito aumenta, o estresse dos motoristas também cresce.
+
+C: Quanto mais o sol brilha, mais calor faz.
+S: À medida que o sol brilha, mais calor faz.
+
+C: Ao passo que ela estuda, seu conhecimento se expande.
+S: À medida que ela estuda, seu conhecimento se expande.
+
+C: À medida que o tempo passa, a beleza do jardim se intensifica.
+S: À medida que o tempo passa, a beleza do jardim se intensifica.
+
+C: Quanto mais se pratica um instrumento musical, mais habilidoso se torna.
+S: À medida que se pratica um instrumento musical, mais habilidoso se torna.
+
+C: À medida que o número de visitantes aumenta, a espera também se prolonga.
+S: À medida que o número de visitantes aumenta, a espera também se prolonga.
+
+C: À medida que ela estuda, sua confiança em si mesma cresce.
+S: À medida que ela estuda, sua confiança em si mesma cresce.
+
+C: À proporção que os custos aumentam, a empresa tem que reduzir seus gastos.
+S: À medida que os custos aumentam, a empresa tem que reduzir seus gastos.
+
+C: Quanto mais os alunos se dedicam aos estudos, melhores resultados eles obtêm.
+S: À medida que os alunos se dedicam aos estudos, melhores resultados eles obtêm.
+
+C: À medida que o tempo passa, o amor entre eles só cresce.
+S: À medida que o tempo passa, o amor entre eles cresce cada vez mais.
+
+C: À medida que ela estudava mais, suas notas melhoravam.
+S: À medida que ela estudava mais, suas notas melhoravam.
+
+C: Quanto mais ele se esforçava, menos reconhecimento recebia.
+S: Quanto mais ele se esforçava, menos reconhecimento recebia.
+
+C: À proporção que o dia avançava, o cansaço aumentava.
+S: À medida que o dia avançava, o cansaço aumentava.
+
+C: Ao passo que os meses passam, a saudade só aumenta.
+S: À medida que os meses passam, a saudade só aumenta.
+
+C: À medida que o tempo vai passando, as rugas vão aparecendo.
+S: À medida que o tempo passa, as rugas vão aparecendo.
+
+C: Quanto mais eu aprendo, mais eu percebo o quanto não sei.
+S: À medida que eu aprendo, eu percebo o quanto não sei.
+
+C: À medida que a competição se acirra, a pressão aumenta.
+S: À medida que a competição se acirra, a pressão aumenta.
+
+C: Ao passo que o sol se põe, a lua surge no horizonte.
+S: À medida que o sol se põe, a lua surge no horizonte.
+
+C: À medida que o tempo vai passando, as lembranças vão se tornando mais vívidas.
+S: À medida que o tempo passa, as lembranças se tornam mais vívidas.
+
+C: À medida que o tempo passa, o sol se põe cada vez mais cedo.
+S: À medida que o tempo passa, o sol se põe mais cedo.
+
+C: Quanto mais estudamos, mais aprendemos.
+S: Quanto mais estudamos, mais aprendemos.
+
+C: À medida que a temperatura aumenta, os animais buscam sombra.
+S: À medida que a temperatura aumenta, os animais buscam sombra.
+
+C: Ao passo que o trânsito aumenta, o estresse também aumenta.
+S: Ao passo que o trânsito aumenta, o estresse também aumenta.
+
+C: Quanto mais treinamos, menos cansados nos sentimos.
+S: Quanto mais treinamos, menos cansados nos sentimos.
+
+C: À medida que o tempo esfria, as pessoas colocam casacos.
+S: À medida que o tempo esfria, as pessoas colocam casacos.
+
+C: À medida que o jantar é preparado, o cheiro de comida se espalha pela casa.
+S: À medida que o jantar é preparado, o cheiro de comida se espalha pela casa.
+
+C: À medida que a idade avança, a memória pode ficar mais fraca.
+S: À medida que a idade avança, a memória pode ficar mais fraca.
+
+C: Quanto mais dinheiro temos, mais possibilidades de viagem surgem.
+S: Quanto mais dinheiro temos, mais possibilidades de viagem surgem.
+
+C: Ao passo que a música toca, as pessoas dançam cada vez mais animadas.
+S: Ao passo que a música toca, as pessoas dançam mais animadas.
+
+C: As crianças aprendem mais rápido à medida que recebem estímulos adequados.
+S: As crianças aprendem mais rápido quando recebem estímulos adequados.
+
+C: Quanto mais estuda, mais conhecimentos adquire.
+S: Quanto mais estuda, mais conhecimentos adquire.
+
+C: À medida que seárea o tempo, fica mais difícil lembrar de tudo.
+S: Conforme passa o tempo, fica mais difícil lembrar de tudo.
+
+C: Ao passo que avançam as tecnologias, diminui o uso de papéis.
+S: Conforme avançam as tecnologias, diminui o uso de papéis.
+
+C: Quanto mais cedo se começa a praticar um instrumento musical, melhor se torna o desempenho.
+S: Quanto mais cedo se começa a praticar um instrumento musical, melhor fica o desempenho.
+
+C: À medida que o tempo passa, as pessoas se tornam mais experientes.
+S: Conforme o tempo passa, as pessoas se tornam mais experientes.
+
+C: Ao passo que aumenta a população, diminui o espaço disponível.
+S: Conforme aumenta a população, diminui o espaço disponível.
+
+C: Quanto mais dinheiro se tem, mais opções de compra surgem.
+S: Quanto mais dinheiro se tem, mais opções de compra aparecem.
+
+C: À medida que se aumenta a temperatura, ocorrem mais eventos climáticos extremos.
+S: Conforme se aumenta a temperatura, ocorrem mais eventos climáticos extremos.
+
+C: Quanto mais se estuda, mais se aprende.
+S: Quanto mais se estuda, mais se aprende.
+
+C: À medida que o tempo passa, me sinto mais saudade de você.
+S: Conforme o tempo passa, sinto mais saudade de você.
+
+C: Quanto mais estudo, menos tempo tenho para sair com os amigos.
+S: À medida que estudo, tenho menos tempo para sair com os amigos.
+
+C: À medida que ganhamos experiência, nos tornamos mais confiantes no trabalho.
+S: Conforme ganhamos experiência, nos tornamos mais confiantes no trabalho.
+
+C: Quanto mais se aproxima a prova, mais ansioso fico.
+S: À medida que a prova se aproxima, fico mais ansioso.
+
+C: À medida que o tempo esfria, as pessoas começam a usar casacos mais quentes.
+S: Conforme o tempo esfria, as pessoas começam a usar casacos mais quentes.
+
+C: Quanto mais chove, mais dificuldade temos para sair de casa.
+S: À medida que chove, temos mais dificuldade para sair de casa.
+
+C: À medida que a idade avança, a memória pode ficar mais fraca.
+S: Conforme a idade avança, a memória pode ficar mais fraca.
+
+C: Quanto mais pratico esportes, mais disposição tenho para as atividades diárias.
+S: À medida que pratico esportes, tenho mais disposição para as atividades diárias.
+
+C: À medida que a tecnologia avança, os smartphones ficam cada vez mais modernos.
+S: Conforme a tecnologia avança, os smartphones ficam cada vez mais modernos.
+
+C: Quanto mais aprendo sobre o assunto, mais interessante ele se torna.
+S: À medida que aprendo sobre o assunto, ele se torna mais interessante.
+
+C: À medida que ela estudava mais, suas notas melhoravam.
+S: Quando ela estudava mais, suas notas melhoravam.
+
+C: Quanto mais nós treinávamos, melhores ficávamos.
+S: À medida que nós treinávamos, melhorávamos.
+
+C: Ao passo que ele ganhava experiência, sua confiança aumentava.
+S: Conforme ele ganhava experiência, sua confiança aumentava.
+
+C: Quanto mais tempo ela esperava, mais ansiosa ficava.
+S: À medida que ela esperava mais tempo, ficava mais ansiosa.
+
+C: À medida que a chuva caía, o nível do rio aumentava.
+S: Enquanto a chuva caía, o nível do rio aumentava.
+
+C: Quanto mais rápido ele corria, mais cansado ficava.
+S: À medida que ele corria mais rápido, ficava mais cansado.
+
+C: À medida que o sol se punha, as temperaturas caíam.
+S: Quando o sol se punha, as temperaturas caíam.
+
+C: À medida que o tempo passava, ela ia se acostumando à nova rotina.
+S: Conforme o tempo passava, ela ia se acostumando à nova rotina.
+
+C: À medida que o trânsito aumentava, o tempo de viagem ficava maior.
+S: Quando o trânsito aumentava, o tempo de viagem ficava maior.
+
+C: Ao passo que a demanda crescia, a oferta diminuía.
+S: Conforme a demanda crescia, a oferta diminuía.
+
+C: À medida que a economia cresce, mais empregos são criados.
+S: À medida que a economia cresce, mais empregos são criados.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À proporção que o tempo passa, mais saudades tenho de você.
+S: À proporção que o tempo passa, mais saudades tenho de você.
+
+C: Ao passo que ele envelhece, sua saúde piora.
+S: Ao passo que ele envelhece, sua saúde piora.
+
+C: À medida que as temperaturas aumentam, mais pessoas vão à praia.
+S: À medida que as temperaturas aumentam, mais pessoas vão à praia.
+
+C: Quanto mais treino, melhor fico no esporte.
+S: Quanto mais treino, melhor fico no esporte.
+
+C: À medida que a demanda por carros elétricos aumenta, mais empresas investem nesse mercado.
+S: À medida que a demanda por carros elétricos aumenta, mais empresas investem nesse mercado.
+
+C: Quanto mais cedo você começar a estudar, mais cedo irá terminar.
+S: Quanto mais cedo você começar a estudar, mais cedo irá terminar.
+
+C: À medida que os preços sobem, menos pessoas podem se dar ao luxo de comprar.
+S: À medida que os preços sobem, menos pessoas podem se dar ao luxo de comprar.
+
+C: À proporção que o tempo passa, mais difíceis ficam as decisões.
+S: À proporção que o tempo passa, mais difíceis ficam as decisões.
+
+C: À medida que as temperaturas aumentam, as pessoas usam menos roupas.
+S: À medida que as temperaturas aumentam, as pessoas usam menos roupas.
+
+C: Quanto mais estudo, melhores são minhas notas.
+S: Quanto mais estudo, melhores são minhas notas.
+
+C: Ao passo que o tempo passa, as lembranças se tornam mais distantes.
+S: Ao passo que o tempo passa, as lembranças se tornam mais distantes.
+
+C: À medida que a economia se recupera, os empregos aumentam.
+S: À medida que a economia se recupera, os empregos aumentam.
+
+C: Quanto mais treino, mais rápido corro.
+S: Quanto mais treino, mais rápido corro.
+
+C: À medida que o sol se põe, o céu fica mais bonito.
+S: À medida que o sol se põe, o céu fica mais bonito.
+
+C: Quanto mais experiência tenho, mais confiante fico.
+S: Quanto mais experiência tenho, mais confiante fico.
+
+C: À medida que o trânsito aumenta, o tempo de deslocamento aumenta.
+S: À medida que o trânsito aumenta, o tempo de deslocamento aumenta.
+
+C: Quanto mais estudo, menos tempo tenho para outras atividades.
+S: Quanto mais estudo, menos tempo tenho para outras atividades.
+
+C: À medida que envelhecemos, nossa memória tende a ficar mais fraca.
+S: À medida que envelhecemos, nossa memória tende a ficar mais fraca.
+
+C: À medida que o tempo passa, a amizade entre eles se fortalece.
+S: Conforme o tempo passa, a amizade entre eles se fortalece.
+
+C: Quanto mais ele estuda, melhores notas ele tira.
+S: À medida que ele estuda mais, melhores notas ele tira.
+
+C: À proporção que o sol se põe, a temperatura começa a cair.
+S: Conforme o sol se põe, a temperatura começa a cair.
+
+C: À medida que o projeto avança, novos desafios surgem.
+S: Conforme o projeto avança, novos desafios surgem.
+
+C: Quanto mais ela treina, mais habilidades ela adquire.
+S: À medida que ela treina mais, mais habilidades ela adquire.
+
+C: À medida que o dia fica mais quente, as pessoas procuram praias e piscinas.
+S: Conforme o dia fica mais quente, as pessoas procuram praias e piscinas.
+
+C: À medida que os problemas se acumulam, o estresse aumenta.
+S: Conforme os problemas se acumulam, o estresse aumenta.
+
+C: Quanto mais ele se esforça, mais resultados positivos ele obtém.
+S: À medida que ele se esforça mais, mais resultados positivos ele obtém.
+
+C: À medida que a chuva intensifica, as ruas ficam alagadas.
+S: Conforme a chuva intensifica, as ruas ficam alagadas.
+
+C: À proporção que a demanda aumenta, o preço sobe.
+S: Conforme a demanda aumenta, o preço sobe.
+
+C: À proporção que o tempo passa, o cansaço aumenta.
+S: À medida que o tempo passa, o cansaço aumenta.
+
+C: Quanto mais a pessoa estuda, mais ela aprende.
+S: À medida que a pessoa estuda, ela aprende mais.
+
+C: À medida que o sol se põe, a temperatura diminui.
+S: À medida que o sol se põe, a temperatura diminui.
+
+C: À medida que o tempo esquenta, as pessoas vão à praia.
+S: À medida que o tempo esquenta, as pessoas vão à praia.
+
+C: Ao passo que ele trabalha mais, ganha mais dinheiro.
+S: À medida que ele trabalha mais, ganha mais dinheiro.
+
+C: Quanto mais ela estuda, menos tempo tem para sair com os amigos.
+S: À medida que ela estuda, tem menos tempo para sair com os amigos.
+
+C: À medida que o jogo se torna mais difícil, os jogadores se esforçam mais.
+S: À medida que o jogo se torna mais difícil, os jogadores se esforçam mais.
+
+C: À medida que a cidade cresce, os problemas de trânsito aumentam.
+S: À medida que a cidade cresce, os problemas de trânsito aumentam.
+
+C: Quanto mais cedo você chegar, melhor será a sua posição na fila.
+S: À medida que você chegar mais cedo, melhor será a sua posição na fila.
+
+C: Quanto mais a tecnologia avança, mais dependentes nos tornamos dela.
+S: À medida que a tecnologia avança, nos tornamos mais dependentes dela.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+S: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+
+C: Quanto mais se estuda, mais se aprende.
+S: Quanto mais se estuda, mais se aprende.
+
+C: À medida que os anos passam, as rugas se tornam mais evidentes.
+S: À medida que os anos passam, as rugas se tornam mais evidentes.
+
+C: Quanto mais se pratica, mais habilidoso se torna.
+S: Quanto mais se pratica, mais habilidoso se torna.
+
+C: À medida que a economia melhora, o desemprego diminui.
+S: À medida que a economia melhora, o desemprego diminui.
+
+C: Quanto mais se exercita, mais saudável se fica.
+S: Quanto mais se exercita, mais saudável se fica.
+
+C: À medida que se ganha dinheiro, aumenta-se o poder de compra.
+S: À medida que se ganha dinheiro, aumenta-se o poder de compra.
+
+C: Quanto mais se estuda, maiores são as chances de sucesso profissional.
+S: Quanto mais se estuda, maiores são as chances de sucesso profissional.
+
+C: À medida que se começa a envelhecer, a memória tende a falhar mais.
+S: À medida que se começa a envelhecer, a memória tende a falhar mais.
+
+C: Quanto mais se economiza, mais dinheiro se acumula.
+S: Quanto mais se economiza, mais dinheiro se acumula.
+
+C: À medida que ele estudava mais, sua nota melhorava.
+S: Ele estudava mais, sua nota melhorava.
+
+C: À proporção que o tempo passava, ela se tornava mais impaciente.
+S: O tempo passava, ela se tornava mais impaciente.
+
+C: Ao passo que ela ganhava confiança, suas habilidades melhoravam.
+S: Ela ganhava confiança, suas habilidades melhoravam.
+
+C: Quanto mais ela se exercitava, mais energia tinha.
+S: Ela se exercitava, tinha mais energia.
+
+C: À medida que o sol se punha, o céu ficava mais colorido.
+S: O sol se punha, o céu ficava mais colorido.
+
+C: Quanto mais ele se esforçava, menos resultados obtinha.
+S: Ele se esforçava, obtinha menos resultados.
+
+C: À proporção que o dia avançava, as pessoas se cansavam mais.
+S: O dia avançava, as pessoas se cansavam mais.
+
+C: Ao passo que ela aprendia, seu interesse aumentava.
+S: Ela aprendia, seu interesse aumentava.
+
+C: Quanto mais ele se dedicava, menos tempo tinha para si mesmo.
+S: Ele se dedicava, tinha menos tempo para si mesmo.
+
+C: À medida que o trânsito piorava, seu estresse aumentava.
+S: O trânsito piorava, seu estresse aumentava.
+
+C: À medida que o tempo passa, as pessoas envelhecem.
+S: À medida que o tempo passa, as pessoas envelhecem.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: Ao passo que o sol se põe, a lua começa a aparecer.
+S: Ao passo que o sol se põe, a lua começa a aparecer.
+
+C: À medida que o dia avança, as temperaturas aumentam.
+S: À medida que o dia avança, as temperaturas aumentam.
+
+C: Quanto mais pratico, menos erros cometo.
+S: Quanto mais pratico, menos erros cometo.
+
+C: À medida que o fogo queima, os objetos se reduzem a cinzas.
+S: À medida que o fogo queima, os objetos se reduzem a cinzas.
+
+C: Ao passo que a água ferve, o vapor é liberado.
+S: Ao passo que a água ferve, o vapor é liberado.
+
+C: À medida que os meses passam, as estações do ano mudam.
+S: À medida que os meses passam, as estações do ano mudam.
+
+C: Quanto mais trabalho, mais sucesso obtenho.
+S: Quanto mais trabalho, mais sucesso obtenho.
+
+C: À medida que os problemas surgem, as soluções são encontradas.
+S: À medida que os problemas surgem, as soluções são encontradas.
+
+C: À medida que estudamos mais, aprendemos melhor.
+S: À medida que estudamos mais, aprendemos melhor.
+
+C: Quanto mais se exercita, mais se fortalece o corpo.
+S: Quanto mais se exercita, mais se fortalece o corpo.
+
+C: À medida que o tempo passa, percebemos que amadurecemos.
+S: À medida que o tempo passa, percebemos que amadurecemos.
+
+C: À proporção que os problemas aumentam, aumenta também a responsabilidade para resolvê-los.
+S: À proporção que os problemas aumentam, aumenta também a responsabilidade para resolvê-los.
+
+C: Quanto mais avançamos no estudo, mais compreendemos o assunto.
+S: Quanto mais avançamos no estudo, mais compreendemos o assunto.
+
+C: À medida que a tecnologia evolui, facilita nossas vidas.
+S: À medida que a tecnologia evolui, facilita nossas vidas.
+
+C: Quanto mais se esforça, maior será o sucesso alcançado.
+S: Quanto mais se esforça, maior será o sucesso alcançado.
+
+C: À medida que envelhecemos, adquirimos mais experiência.
+S: À medida que envelhecemos, adquirimos mais experiência.
+
+C: Quanto mais se investe em educação, mais se desenvolve um país.
+S: Quanto mais se investe em educação, mais se desenvolve um país.
+
+C: À proporção que economizamos dinheiro, conseguimos realizar nossos sonhos.
+S: À proporção que economizamos dinheiro, conseguimos realizar nossos sonhos.
+
+C: À medida que o tempo passa, o amor se torna mais intenso.
+S: À medida que o tempo passa, o amor se torna mais intenso.
+
+C: Quanto mais ele estuda, melhor ele se torna.
+S: Quanto mais ele estuda, melhor ele se torna.
+
+C: À medida que envelheço, priorizo mais minha saúde.
+S: À medida que envelheço, priorizo mais minha saúde.
+
+C: À medida que o trânsito aumenta, o estresse também aumenta.
+S: À medida que o trânsito aumenta, o estresse também aumenta.
+
+C: Ao passo que ele se esforça, ele alcança grandes conquistas.
+S: Ao passo que ele se esforça, ele alcança grandes conquistas.
+
+C: Quanto mais ele estuda, menos tempo ele tem para se divertir.
+S: Quanto mais ele estuda, menos tempo ele tem para se divertir.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura começa a cair.
+
+C: À medida que a tecnologia avança, a comunicação se torna mais fácil.
+S: À medida que a tecnologia avança, a comunicação se torna mais fácil.
+
+C: Quanto mais ele trabalha, mais dinheiro ele ganha.
+S: Quanto mais ele trabalha, mais dinheiro ele ganha.
+
+C: À medida que a margem de lucro aumenta, o preço do produto sobe.
+S: À medida que a margem de lucro aumenta, o preço do produto sobe.
+
+C: À medida que estudamos mais, nossos conhecimentos aumentam.
+S: Quando estudamos mais, nossos conhecimentos aumentam.
+
+C: Ao passo que o tempo passa, nossas lembranças vão se tornando mais nebulosas.
+S: Conforme o tempo passa, nossas lembranças vão se tornando mais nebulosas.
+
+C: Quanto mais eu me esforço, mais resultados eu obtenho.
+S: Se eu me esforço, obtenho mais resultados.
+
+C: À medida que envelhecemos, nosso corpo vai perdendo a vitalidade.
+S: Conforme envelhecemos, nosso corpo vai perdendo a vitalidade.
+
+C: Quanto mais estudamos, menos nos sentimos despreparados.
+S: Se estudarmos mais, nos sentimos menos despreparados.
+
+C: Ao passo que o sol se põe, a temperatura começa a diminuir.
+S: Quando o sol se põe, a temperatura começa a diminuir.
+
+C: À medida que lemos mais, nossa capacidade de compreensão vai aumentando.
+S: Quando lemos mais, nossa capacidade de compreensão aumenta.
+
+C: Quanto mais eu pratico, menos erros eu cometo.
+S: Se eu pratico, cometo menos erros.
+
+C: Ao passo que aprendemos algo novo, nossa mente se expande.
+S: Quando aprendemos algo novo, nossa mente se expande.
+
+C: À medida que a chuva aumenta, as ruas ficam mais alagadas.
+S: Quando a chuva aumenta, as ruas ficam mais alagadas.
+
+C: À medida que o tempo passa, o amor entre eles cresce.
+S: À medida que o tempo passa, o amor entre eles cresce.
+
+C: Quanto mais estudamos, mais aprendemos.
+S: Quanto mais estudamos, mais aprendemos.
+
+C: O salário aumenta à proporção que o desempenho melhora.
+S: O salário aumenta à proporção que o desempenho melhora.
+
+C: À medida que o sol se põe, as estrelas começam a aparecer.
+S: À medida que o sol se põe, as estrelas começam a aparecer.
+
+C: Quanto mais praticamos, melhor nos tornamos.
+S: Quanto mais praticamos, melhor nos tornamos.
+
+C: À proporção que envelheço, ganho mais experiência.
+S: À proporção que envelheço, ganho mais experiência.
+
+C: Ao passo que a tecnologia avança, as comunicações se tornam mais rápidas.
+S: Ao passo que a tecnologia avança, as comunicações se tornam mais rápidas.
+
+C: Quanto mais nos esforçamos, mais chances de sucesso temos.
+S: Quanto mais nos esforçamos, mais chances de sucesso temos.
+
+C: À medida que o dia passa, a temperatura vai aumentando.
+S: À medida que o dia passa, a temperatura vai aumentando.
+
+C: À proporção que a demanda aumenta, a oferta precisa acompanhar.
+S: À proporção que a demanda aumenta, a oferta precisa acompanhar.
+
+C: À medida que o tempo passa, as pessoas se tornam mais sábias.
+S: À medida que o tempo passa, as pessoas se tornam mais sábias.
+
+C: Ao passo que a tecnologia avança, os problemas aumentam.
+S: Ao passo que a tecnologia avança, os problemas aumentam.
+
+C: À medida que o sol se põe, o céu fica mais colorido.
+S: À medida que o sol se põe, o céu fica mais colorido.
+
+C: Quanto mais ele estuda, menos ele sabe.
+S: Quanto mais ele estuda, menos ele sabe.
+
+C: À medida que o trânsito piora, mais estressados ficamos.
+S: À medida que o trânsito piora, mais estressados ficamos.
+
+C: Enquanto ele trabalhava, sua família descansava.
+S: Enquanto ele trabalhava, sua família descansava.
+
+C: À medida que a música tocava, as pessoas dançavam cada vez mais.
+S: À medida que a música tocava, as pessoas dançavam cada vez mais.
+
+C: Ao passo que o tempo passa, os sentimentos ficam mais intensos.
+S: Ao passo que o tempo passa, os sentimentos ficam mais intensos.
+
+C: À medida que o filme avança, a tensão aumenta.
+S: À medida que o filme avança, a tensão aumenta.
+
+C: Quanto mais tempo ele estudar, mais chances terá de passar na prova.
+S: Quanto mais tempo ele estudar, mais chances terá de passar na prova.
+
+C: À medida que o tempo passa, as flores vão murchando.
+S: À medida que o tempo passa, as flores vão murchando.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: Ao passo que a temperatura sobe, as pessoas se refrescam na praia.
+S: Ao passo que a temperatura sobe, as pessoas se refrescam na praia.
+
+C: À medida que o trânsito aumenta, os engarrafamentos se tornam mais frequentes.
+S: À medida que o trânsito aumenta, os engarrafamentos se tornam mais frequentes.
+
+C: Quanto mais chove, mais escorregadio fica o chão.
+S: Quanto mais chove, mais escorregadio fica o chão.
+
+C: À medida que a idade avança, a saúde tende a deteriorar.
+S: À medida que a idade avança, a saúde tende a deteriorar.
+
+C: Quanto mais se pratica um esporte, melhor se torna.
+S: Quanto mais se pratica um esporte, melhor se torna.
+
+C: À medida que a maré sobe, a areia vai sendo coberta pelo mar.
+S: À medida que a maré sobe, a areia vai sendo coberta pelo mar.
+
+C: Ao passo que o sol se põe, o céu ganha tons alaranjados.
+S: Ao passo que o sol se põe, o céu ganha tons alaranjados.
+
+C: À medida que os dias passam, a ansiedade aumenta.
+S: À medida que os dias passam, a ansiedade aumenta.
+
+C: À medida que o tempo passa, as pessoas envelhecem.
+S: À medida que o tempo passa, as pessoas envelhecem.
+
+C: Quanto mais ele estuda, mais inteligente ele fica.
+S: Quanto mais ele estuda, mais inteligente ele fica.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura começa a cair.
+
+C: Ao passo que ela ganha mais experiência, sua confiança aumenta.
+S: Ao passo que ela ganha mais experiência, sua confiança aumenta.
+
+C: Quanto mais você treinar, melhor vai ficar no futebol.
+S: Quanto mais você treinar, melhor vai ficar no futebol.
+
+C: À medida que o projeto avança, os desafios se tornam maiores.
+S: À medida que o projeto avança, os desafios se tornam maiores.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: À medida que o tempo passa, a saudade aumenta.
+
+C: Ao passo que ela se dedicava aos estudos, sua nota subia.
+S: Ao passo que ela se dedicava aos estudos, sua nota subia.
+
+C: Quanto mais você procrastina, mais tempo perde.
+S: Quanto mais você procrastina, mais tempo perde.
+
+C: À medida que o trânsito aumenta, a paciência diminui.
+S: À medida que o trânsito aumenta, a paciência diminui.
+
+C: À proporção que o tempo passa, a tecnologia avança cada vez mais rapidamente.
+S: À medida que o tempo passa, a tecnologia avança cada vez mais rapidamente.
+
+C: Quanto mais ele estuda, mais preparado ele se torna para o exame.
+S: À medida que ele estuda, se torna mais preparado para o exame.
+
+C: Ao passo que a economia do país se recupera, o desemprego diminui.
+S: À medida que a economia do país se recupera, o desemprego diminui.
+
+C: Quanto mais as crianças brincam, mais felizes elas ficam.
+S: À medida que as crianças brincam, ficam mais felizes.
+
+C: À medida que a temperatura aumenta, a quantidade de chuva diminui.
+S: À medida que a temperatura aumenta, a quantidade de chuva diminui.
+
+C: À proporção que o tempo passa, o número de casos de gripes e resfriados aumenta.
+S: À medida que o tempo passa, o número de casos de gripes e resfriados aumenta.
+
+C: À medida que a população envelhece, a demanda por cuidados de saúde aumenta.
+S: À medida que a população envelhece, a demanda por cuidados de saúde aumenta.
+
+C: Quanto mais se estuda, mais conhecimento se adquire.
+S: À medida que se estuda, se adquire mais conhecimento.
+
+C: À medida que o trânsito piora, o tempo de deslocamento aumenta.
+S: À medida que o trânsito piora, o tempo de deslocamento aumenta.
+
+C: Ao passo que a inflação sobe, o poder de compra da população diminui.
+S: À medida que a inflação sobe, o poder de compra da população diminui.
+
+C: À medida que estudava mais, seus conhecimentos aumentavam.
+S: À medida que estudava mais, seus conhecimentos aumentavam.
+
+C: Quanto mais ela se exercitava, mais saudável ficava.
+S: Quanto mais ela se exercitava, mais saudável ficava.
+
+C: Ao passo que o sol se punha, o céu ficava mais colorido.
+S: Ao passo que o sol se punha, o céu ficava mais colorido.
+
+C: À medida que o tempo passava, eles se tornavam mais próximos.
+S: À medida que o tempo passava, eles se tornavam mais próximos.
+
+C: À medida que ele aprendia a tocar piano, suas apresentações ficavam melhores.
+S: À medida que ele aprendia a tocar piano, suas apresentações ficavam melhores.
+
+C: À medida que a festa se aproximava, a expectativa aumentava.
+S: À medida que a festa se aproximava, a expectativa aumentava.
+
+C: Quanto mais ela estudava, menos ansiosa ficava para as provas.
+S: Quanto mais ela estudava, menos ansiosa ficava para as provas.
+
+C: À medida que enriquecia, ele comprava mais coisas luxuosas.
+S: À medida que enriquecia, ele comprava mais coisas luxuosas.
+
+C: Quanto mais brincava, mais alegre ficava.
+S: Quanto mais brincava, mais alegre ficava.
+
+C: À medida que viajava, sua mente se abria para novas culturas.
+S: À medida que viajava, sua mente se abria para novas culturas.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+S: À medida que o tempo passa, a tecnologia avança mais rápido.
+
+C: À proporção que o sol se põe, a temperatura começa a cair.
+S: À proporção que o sol se põe, a temperatura cai.
+
+C: Quanto mais estudo, melhor meu desempenho nas provas.
+S: Quanto mais estudo, melhor meu desempenho nas provas.
+
+C: À medida que a economia se recupera, o desemprego diminui.
+S: À medida que a economia se recupera, o desemprego diminui.
+
+C: À medida que envelhecemos, nossa memória tende a ficar mais fraca.
+S: À medida que envelhecemos, nossa memória fica mais fraca.
+
+C: Quanto mais treino, mais apto fico para competir.
+S: Quanto mais treino, mais apto fico para competir.
+
+C: À medida que a população aumenta, os recursos naturais se tornam escassos.
+S: À medida que a população aumenta, os recursos naturais se tornam escassos.
+
+C: À medida que o calor aumenta, a vontade de tomar sorvete também aumenta.
+S: À medida que o calor aumenta, a vontade de tomar sorvete aumenta.
+
+C: Quanto mais estudo, mais conhecimentos adquiro.
+S: Quanto mais estudo, mais conhecimentos adquiro.
+
+C: À medida que os dias passam, as noites se tornam mais longas.
+S: À medida que os dias passam, as noites se tornam mais longas.
+
+C: À medida que ela estudava mais, suas notas melhoravam.
+S: Ela estudava mais e suas notas melhoravam.
+
+C: À proporção que o tempo passava, o nervosismo aumentava.
+S: O nervosismo aumentava com o passar do tempo.
+
+C: Quanto mais treinava, mais forte ele ficava.
+S: Ele ficava mais forte à medida que treinava mais.
+
+C: À medida que o congestionamento aumentava, o trânsito ficava mais lento.
+S: O trânsito ficava mais lento conforme o congestionamento aumentava.
+
+C: Ao passo que o sol se punha, as estrelas começavam a surgir no céu.
+S: As estrelas começavam a surgir no céu quando o sol se punha.
+
+C: À medida que os dias passavam, o desânimo tomava conta dela.
+S: O desânimo tomava conta dela à medida que os dias passavam.
+
+C: À proporção que a temperatura subia, as pessoas procuravam abrigo.
+S: As pessoas procuravam abrigo à medida que a temperatura subia.
+
+C: Quanto mais o tempo passava, mais ela sentia saudades dele.
+S: Ela sentia mais saudades dele à medida que o tempo passava.
+
+C: À medida que as oportunidades surgiam, ele aproveitava ao máximo.
+S: Ele aproveitava ao máximo conforme as oportunidades surgiam.
+
+C: Ao passo que ela se esforçava, os resultados iam melhorando.
+S: Os resultados iam melhorando à medida que ela se esforçava.
+
+C: À medida que ela estudava mais, suas notas melhoravam.
+S: À medida que ela estudava mais, suas notas melhoravam.
+
+C: À proporção que o tempo passava, o cansaço aumentava.
+S: À proporção que o tempo passava, o cansaço aumentava.
+
+C: Ele se tornava mais ansioso à medida que a apresentação se aproximava.
+S: Ele se tornava mais ansioso à medida que a apresentação se aproximava.
+
+C: Quanto mais rápido ela corria, mais longe ficava do adversário.
+S: Quanto mais rápido ela corria, mais longe ficava do adversário.
+
+C: À medida que os alunos mostravam interesse, a professora ficava mais motivada em ensinar.
+S: À medida que os alunos mostravam interesse, a professora ficava mais motivada em ensinar.
+
+C: À medida que aprendia, ele se tornava mais confiante.
+S: À medida que aprendia, ele se tornava mais confiante.
+
+C: Quanto mais eu estudo, menos tempo tenho para sair com os amigos.
+S: Quanto mais eu estudo, menos tempo tenho para sair com os amigos.
+
+C: À medida que o dia ia passando, a ansiedade aumentava.
+S: À medida que o dia ia passando, a ansiedade aumentava.
+
+C: À medida que os anos foram passando, ela foi se tornando mais sábia.
+S: À medida que os anos foram passando, ela foi se tornando mais sábia.
+
+C: Quanto mais adiava o trabalho, mais estressado ficava.
+S: Quanto mais adiava o trabalho, mais estressado ficava.
+
+C: À medida que ela estudava mais, os resultados melhoravam.
+S: Conforme ela estudava mais, os resultados melhoravam.
+
+C: À medida que o tempo passava, ele percebia que ainda a amava.
+S: Conforme o tempo passava, ele percebia que ainda a amava.
+
+C: À medida que o sol se punha, as estrelas apareciam no céu.
+S: Conforme o sol se punha, as estrelas apareciam no céu.
+
+C: À medida que a temperatura aumentava, as pessoas procuravam se refrescar.
+S: Conforme a temperatura aumentava, as pessoas procuravam se refrescar.
+
+C: À medida que o jogo avançava, a pressão sobre os jogadores aumentava.
+S: Conforme o jogo avançava, a pressão sobre os jogadores aumentava.
+
+C: À medida que ele acumulava experiência, suas habilidades melhoravam.
+S: Conforme ele acumulava experiência, suas habilidades melhoravam.
+
+C: À medida que a idade avançava, ele se tornava mais sábio.
+S: Conforme a idade avançava, ele se tornava mais sábio.
+
+C: À medida que a chuva caía, as ruas ficavam alagadas.
+S: Conforme a chuva caía, as ruas ficavam alagadas.
+
+C: À medida que o vento sopra, as folhas caem das árvores.
+S: Conforme o vento sopra, as folhas caem das árvores.
+
+C: À medida que ela se aprimorava, sua confiança aumentava.
+S: Conforme ela se aprimorava, sua confiança aumentava.
+
+C: À medida que estudamos mais, nosso conhecimento aumenta.
+S: Estudando mais, nosso conhecimento aumenta.
+
+C: À proporção que a temperatura sobe, a vontade de tomar sorvete aumenta.
+S: Quanto mais a temperatura sobe, mais vontade de tomar sorvete aumenta.
+
+C: À medida que o tempo passa, as pessoas envelhecem.
+S: Com o passar do tempo, as pessoas envelhecem.
+
+C: Quanto mais praticamos, melhores ficamos.
+S: À medida que praticamos, ficamos melhores.
+
+C: À medida que o sol se põe, o céu fica mais bonito.
+S: Conforme o sol se põe, o céu fica mais bonito.
+
+C: À medida que ganhamos experiência, aprendemos com nossos erros.
+S: Ganhamos experiência e aprendemos com nossos erros.
+
+C: À proporção que o carro avançava, o cansaço do motorista aumentava.
+S: Quanto mais o carro avançava, mais cansado o motorista ficava.
+
+C: À medida que as pessoas se conhecem melhor, estabelecem laços mais profundos.
+S: À medida que as pessoas se conhecem melhor, os laços se tornam mais profundos.
+
+C: À medida que o dia vai passando, a vontade de descansar aumenta.
+S: Conforme o dia vai passando, a vontade de descansar aumenta.
+
+C: À proporção que a tecnologia avança, novas oportunidades surgem.
+S: Quanto mais a tecnologia avança, mais oportunidades surgem.
+
+C: À medida que o tempo passa, as pessoas envelhecem.
+S: À medida que o tempo passa, as pessoas envelhecem.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o esforço aumenta, os resultados melhoram.
+S: À medida que o esforço aumenta, os resultados melhoram.
+
+C: Quanto mais treino, menos cansado fico.
+S: Quanto mais treino, menos cansado fico.
+
+C: À medida que o sol se põe, as estrelas começam a aparecer.
+S: À medida que o sol se põe, as estrelas começam a aparecer.
+
+C: Quanto menos durmo, mais cansado fico.
+S: Quanto menos durmo, mais cansado fico.
+
+C: À medida que a temperatura sobe, o gelo derrete.
+S: À medida que a temperatura sobe, o gelo derrete.
+
+C: Quanto mais estudo, menos tempo tenho para descansar.
+S: Quanto mais estudo, menos tempo tenho para descansar.
+
+C: À medida que a emoção aumenta, o coração acelera.
+S: À medida que a emoção aumenta, o coração acelera.
+
+C: Quanto mais treino, melhor fico no esporte.
+S: Quanto mais treino, melhor fico no esporte.
+
+C: À medida que estuda, ele aprende mais.
+S: Ele aprende mais à medida que estuda.
+
+C: À proporção que os anos passam, ela fica mais sábia.
+S: Ela fica mais sábia à proporção que os anos passam.
+
+C: Quanto mais você corre, mais rápido chega na linha de chegada.
+S: Você chega mais rápido na linha de chegada quanto mais corre.
+
+C: Ao passo que ele trabalhava duro, sua carreira progredia.
+S: Sua carreira progredia ao passo que ele trabalhava duro.
+
+C: À medida que envelhece, sua força física diminui.
+S: Sua força física diminui à medida que envelhece.
+
+C: Quanto mais estuda, menos tempo tem para se divertir.
+S: Você tem menos tempo para se divertir quanto mais estuda.
+
+C: À proporção que economiza dinheiro, consegue comprar coisas melhores.
+S: Você consegue comprar coisas melhores à proporção que economiza dinheiro.
+
+C: Ao passo que ele se exercita, sua saúde melhora.
+S: Sua saúde melhora ao passo que ele se exercita.
+
+C: À medida que a temperatura aumenta, a densidade diminui.
+S: A densidade diminui à medida que a temperatura aumenta.
+
+C: Quanto mais come junk food, pior se sente depois.
+S: Você se sente pior depois quanto mais come junk food.
+
+C: À medida que o tempo passa, as pessoas vão perdendo a inocência.
+S: À medida que o tempo passa, as pessoas perdem a inocência.
+
+C: Quanto mais estudo, mais aprendo sobre o assunto.
+S: Quanto mais estudo, mais aprendo sobre o assunto.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: À medida que o trânsito aumenta, o tempo de deslocamento aumenta também.
+S: À medida que o trânsito aumenta, o tempo de deslocamento aumenta.
+
+C: Quanto mais estudo, menos ansioso fico para as provas.
+S: Quanto mais estudo, menos ansioso fico para as provas.
+
+C: À medida que a chuva caía, as ruas ficavam alagadas.
+S: À medida que a chuva caía, as ruas ficavam alagadas.
+
+C: À medida que a noite avança, a escuridão se intensifica.
+S: À medida que a noite avança, a escuridão se intensifica.
+
+C: Quanto mais me exercito, mais energia tenho durante o dia.
+S: Quanto mais me exercito, mais energia tenho durante o dia.
+
+C: À medida que as estações mudam, as paisagens também se transformam.
+S: À medida que as estações mudam, as paisagens também se transformam.
+
+C: À medida que a pressão aumenta, é natural que ocorram conflitos.
+S: À medida que a pressão aumenta, ocorrem conflitos.
+
+C: À medida que o tempo passa, a vida fica mais complicada.
+S: À medida que o tempo passa, a vida complica.
+
+C: Ao passo que ele estudava, o sol se punha no horizonte.
+S: Enquanto ele estudava, o sol se punha no horizonte.
+
+C: Quanto mais esperamos, mais ansiosos ficamos.
+S: Esperamos mais, ficamos mais ansiosos.
+
+C: À medida que a tecnologia avança, os empregos tradicionais se tornam obsoletos.
+S: Com o avanço da tecnologia, os empregos tradicionais ficam obsoletos.
+
+C: Quanto mais ele treina, melhor fica no esporte.
+S: Ele treina mais, fica melhor no esporte.
+
+C: À medida que as crianças crescem, suas responsabilidades aumentam.
+S: Conforme as crianças crescem, suas responsabilidades aumentam.
+
+C: Ao passo que ele se esforça, seus resultados melhoram.
+S: Enquanto ele se esforça, seus resultados melhoram.
+
+C: Quanto mais estuda, mais conhecimento adquire.
+S: Estuda mais, adquire mais conhecimento.
+
+C: À medida que os problemas se acumulam, o estresse aumenta.
+S: Com o acúmulo de problemas, o estresse aumenta.
+
+C: Quanto mais praticamos, mais habilidosos nos tornamos.
+S: Praticamos mais, nos tornamos mais habilidosos.
+
+C: À medida que ele estudava mais, seus resultados melhoravam.
+S: Conforme ele estudava mais, seus resultados melhoravam.
+
+C: Quanto mais ele trabalhava, menos tempo tinha para se divertir.
+S: À medida que ele trabalhava mais, tinha menos tempo para se divertir.
+
+C: Ao passo que o tempo passava, ela se sentia mais ansiosa.
+S: Conforme o tempo passava, ela se sentia mais ansiosa.
+
+C: À medida que o sol se punha, a temperatura começava a cair.
+S: Conforme o sol se punha, a temperatura começava a cair.
+
+C: Quanto mais ele corria, mais rápido ficava.
+S: À medida que ele corria mais, ficava mais rápido.
+
+C: À medida que o dia avançava, as nuvens ficavam mais escuras.
+S: Conforme o dia avançava, as nuvens ficavam mais escuras.
+
+C: Quanto menos ele estudava, pior ia indo nas provas.
+S: À medida que ele estudava menos, ia indo pior nas provas.
+
+C: À medida que ela aprendia, ia se tornando mais confiante.
+S: Conforme ela aprendia, ia se tornando mais confiante.
+
+C: Quanto mais ele se exercitava, menos cansado ficava.
+S: À medida que ele se exercitava mais, ficava menos cansado.
+
+C: À medida que o tempo passava, ele se esquecia das mágoas.
+S: Conforme o tempo passava, ele se esquecia das mágoas.
+
+C: À medida que o tempo passa, as pessoas vão ficando mais experientes.
+S: À medida que o tempo passa, as pessoas ficam mais experientes.
+
+C: Quanto mais eu estudo, mais aprendo sobre o assunto.
+S: Quanto mais eu estudo, mais aprendo sobre o assunto.
+
+C: À proporção que o sol se põe, o céu fica mais bonito.
+S: À medida que o sol se põe, o céu fica mais bonito.
+
+C: Quanto mais longe eu vou, menos vontade tenho de voltar.
+S: Quanto mais longe eu vou, menos vontade tenho de voltar.
+
+C: À medida que o trânsito piora, o tempo de deslocamento aumenta.
+S: À medida que o trânsito piora, o tempo de deslocamento aumenta.
+
+C: Ao passo que o dia avança, a temperatura vai subindo.
+S: À medida que o dia avança, a temperatura vai subindo.
+
+C: Quanto mais eu me exercito, melhor me sinto fisicamente.
+S: Quanto mais eu me exercito, melhor me sinto fisicamente.
+
+C: À medida que a economia cresce, a taxa de desemprego diminui.
+S: À medida que a economia cresce, a taxa de desemprego diminui.
+
+C: Quanto mais eu pratico, mais habilidoso me torno.
+S: Quanto mais eu pratico, mais habilidoso me torno.
+
+C: À medida que a chuva cai, as ruas ficam alagadas.
+S: À medida que a chuva cai, as ruas ficam alagadas.
+
+C: À medida que o tempo passa, as crianças crescem e se tornam adultos responsáveis.
+S: À medida que o tempo passa, as crianças se tornam adultos responsáveis.
+
+C: Quanto mais o sol se põe, mais bonito o céu fica.
+S: Quanto mais o sol se põe, mais bonito o céu fica.
+
+C: À medida que o fogo se alastra, as pessoas correm para escapar.
+S: À medida que o fogo se alastra, as pessoas correm para escapar.
+
+C: À medida que a temperatura aumenta, a neve começa a derreter.
+S: À medida que a temperatura aumenta, a neve derrete.
+
+C: Quanto mais estudamos, melhor serão nossas notas.
+S: Quanto mais estudamos, melhores serão nossas notas.
+
+C: À medida que o dia amanhece, os pássaros começam a cantar.
+S: À medida que o dia amanhece, os pássaros cantam.
+
+C: Quanto mais comida eu como, mais satisfeito eu fico.
+S: Quanto mais comida eu como, mais satisfeito fico.
+
+C: À medida que o filme avança, a tensão aumenta.
+S: À medida que o filme avança, a tensão aumenta.
+
+C: Quanto mais tempo você gasta no trânsito, mais estressado você fica.
+S: Quanto mais tempo você gasta no trânsito, mais estressado fica.
+
+C: À medida que o trabalho se acumula, o estresse aumenta.
+S: À medida que o trabalho se acumula, o estresse aumenta.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+S: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura começa a cair.
+
+C: Quanto mais você me ignora, mais eu me afasto.
+S: Quanto mais você me ignora, mais eu me afasto.
+
+C: À medida que o volume aumenta, o som fica mais alto.
+S: À medida que o volume aumenta, o som fica mais alto.
+
+C: Quanto mais exercício faço, mais energia tenho.
+S: Quanto mais exercício faço, mais energia tenho.
+
+C: À medida que a temperatura sobe, os picos de poluição aumentam.
+S: À medida que a temperatura sobe, os picos de poluição aumentam.
+
+C: Quanto mais estudo, menos tempo tenho para descansar.
+S: Quanto mais estudo, menos tempo tenho para descansar.
+
+C: À medida que o trânsito se intensifica, a paciência das pessoas diminui.
+S: À medida que o trânsito se intensifica, a paciência das pessoas diminui.
+
+C: Quanto mais eu leio, mais conhecimento adquiro.
+S: Quanto mais eu leio, mais conhecimento adquiro.
+
+C: À medida que o tempo passa, o amor entre eles se intensifica.
+S: À medida que o tempo passa, o amor entre eles se intensifica.
+
+C: Quanto mais estudas, mais notas boas tiras.
+S: Quanto mais estudas, mais notas boas tiras.
+
+C: À proporção que a idade avança, a memória enfraquece.
+S: À proporção que a idade avança, a memória enfraquece.
+
+C: À medida que ganhamos experiência, cometemos menos erros.
+S: À medida que ganhamos experiência, cometemos menos erros.
+
+C: Quanto menos dinheiro temos, mais criativos nos tornamos.
+S: Quanto menos dinheiro temos, mais criativos nos tornamos.
+
+C: À medida que envelhecemos, perdemos vitalidade.
+S: À medida que envelhecemos, perdemos vitalidade.
+
+C: À medida que a temperatura aumenta, a vontade de ir para a praia aumenta.
+S: À medida que a temperatura aumenta, a vontade de ir para a praia aumenta.
+
+C: Quanto mais você se esforça, maiores são as chances de sucesso.
+S: Quanto mais você se esforça, maiores são as chances de sucesso.
+
+C: À medida que a competição se intensifica, é necessário se superar.
+S: À medida que a competição se intensifica, é necessário se superar.
+
+C: À proporção que o tempo passa, percebemos o quanto as coisas mudam.
+S: À proporção que o tempo passa, percebemos o quanto as coisas mudam.
+
+C: À proporção que o tempo passa, as memórias vão se desvanecendo.
+S: À medida que o tempo passa, as memórias vão se desvanecendo.
+
+C: À medida que o interesse pelo assunto aumenta, mais pessoas se envolvem na pesquisa.
+S: À proporção que o interesse pelo assunto aumenta, mais pessoas se envolvem na pesquisa.
+
+C: Ao passo que os níveis de poluição aumentam, a qualidade do ar diminui.
+S: À medida que os níveis de poluição aumentam, a qualidade do ar diminui.
+
+C: Quanto mais estudo, menos ansiedade sinto durante as provas.
+S: À proporção que estudo, menos ansiedade sinto durante as provas.
+
+C: À medida que a temperatura sobe, mais necessário fica ligar o ar condicionado.
+S: Quanto mais a temperatura sobe, mais necessário fica ligar o ar condicionado.
+
+C: Quanto mais pratico exercícios físicos, mais energia tenho durante o dia.
+S: À proporção que pratico exercícios físicos, mais energia tenho durante o dia.
+
+C: À medida que a economia se recupera, mais pessoas conseguem emprego.
+S: Ao passo que a economia se recupera, mais pessoas conseguem emprego.
+
+C: À proporção que a tecnologia avança, as pessoas se tornam mais dependentes dela.
+S: À medida que a tecnologia avança, as pessoas se tornam mais dependentes dela.
+
+C: Ao passo que as férias se aproximam, a ansiedade pela viagem aumenta.
+S: À medida que as férias se aproximam, a ansiedade pela viagem aumenta.
+
+C: Quanto mais estudo, maior é meu conhecimento sobre o assunto.
+S: À proporção que estudo, maior é meu conhecimento sobre o assunto.
+
+C: À medida que os alunos estudam mais, suas notas melhoram.
+S: Os alunos melhoram suas notas à medida que estudam mais.
+
+C: À medida que o tempo passa, a ansiedade aumenta.
+S: A ansiedade aumenta à medida que o tempo passa.
+
+C: À medida que o trabalho se acumula, a pressão também aumenta.
+S: A pressão aumenta à medida que o trabalho se acumula.
+
+C: À medida que a tecnologia evolui, novas possibilidades surgem.
+S: Novas possibilidades surgem à medida que a tecnologia evolui.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: A temperatura começa a cair à medida que o sol se põe.
+
+C: À medida que o estresse aumenta, a qualidade do sono diminui.
+S: A qualidade do sono diminui à medida que o estresse aumenta.
+
+C: À medida que o tempo avança, as pessoas envelhecem.
+S: As pessoas envelhecem à medida que o tempo avança.
+
+C: À medida que os preços sobem, o poder de compra diminui.
+S: O poder de compra diminui à medida que os preços sobem.
+
+C: À medida que o nível de poluição aumenta, a qualidade do ar piora.
+S: A qualidade do ar piora à medida que o nível de poluição aumenta.
+
+C: À medida que o trânsito se intensifica, o tempo de deslocamento aumenta.
+S: O tempo de deslocamento aumenta à medida que o trânsito se intensifica.
+
+C: À medida que o tempo passa, o aprendizado se torna mais fácil.
+S: O aprendizado se torna mais fácil com o tempo.
+
+C: À medida que o sol se põe, a temperatura cai.
+S: A temperatura cai quando o sol se põe.
+
+C: Quanto mais eu estudo, melhores são as minhas notas.
+S: Minhas notas melhoram conforme eu estudo mais.
+
+C: À medida que o dia avança, a ansiedade aumenta.
+S: A ansiedade aumenta ao longo do dia.
+
+C: Quanto mais eu corria, mais cansada ficava.
+S: Eu ficava cada vez mais cansada conforme corria mais.
+
+C: À medida que ela sorría, meu coração acelerava.
+S: Meu coração acelerava enquanto ela sorría.
+
+C: Quanto mais treino, mais forte me torno.
+S: Eu me torno mais forte à medida que treino mais.
+
+C: À medida que a música tocava, as pessoas dançavam animadamente.
+S: As pessoas dançavam animadamente enquanto a música tocava.
+
+C: Quanto mais eu trabalho, mais experiência ganho.
+S: Eu ganho mais experiência conforme trabalho mais.
+
+C: À medida que as ondas quebram na praia, a areia se transforma.
+S: A areia se transforma à medida que as ondas quebram na praia.
+
+C: À medida que o tempo passa, as crianças crescem e se tornam adultos.
+S: À medida que o tempo passa, as crianças crescem e se tornam adultos.
+
+C: Quanto mais estuda, mais conhecimento adquire.
+S: Quanto mais estuda, mais conhecimento adquire.
+
+C: À proporção que ela se esforça, os resultados vão aparecendo.
+S: À proporção que ela se esforça, os resultados vão aparecendo.
+
+C: Ao passo que ele se exercita, a sua saúde melhora.
+S: Ao passo que ele se exercita, a sua saúde melhora.
+
+C: À medida que o sol se põe, a lua aparece no céu.
+S: À medida que o sol se põe, a lua aparece no céu.
+
+C: Quanto mais estudo, menos tempo tenho para descansar.
+S: Quanto mais estudo, menos tempo tenho para descansar.
+
+C: À medida que você pratica, sua habilidade melhora.
+S: À medida que você pratica, sua habilidade melhora.
+
+C: Ao passo que a noite chega, as estrelas começam a aparecer.
+S: Ao passo que a noite chega, as estrelas começam a aparecer.
+
+C: À medida que o dia passa, a temperatura vai diminuindo.
+S: À medida que o dia passa, a temperatura vai diminuindo.
+
+C: Quanto mais trabalhamos, mais dinheiro conseguimos economizar.
+S: Quanto mais trabalhamos, mais dinheiro conseguimos economizar.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+S: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: Ao passo que o sol se põe, a temperatura começa a baixar.
+S: Ao passo que o sol se põe, a temperatura começa a baixar.
+
+C: À medida que a demanda aumenta, os preços sobem.
+S: À medida que a demanda aumenta, os preços sobem.
+
+C: Ao passo que o tempo passa, as lembranças se tornam mais vivas.
+S: Ao passo que o tempo passa, as lembranças se tornam mais vivas.
+
+C: Quanto mais pratico, melhor fico no esporte.
+S: Quanto mais pratico, melhor fico no esporte.
+
+C: À medida que o dia amanhece, os pássaros começam a cantar.
+S: À medida que o dia amanhece, os pássaros começam a cantar.
+
+C: Quanto mais eu trabalho, mais dinheiro ganho.
+S: Quanto mais eu trabalho, mais dinheiro ganho.
+
+C: Ao passo que o tempo passa, a saudade aumenta.
+S: Ao passo que o tempo passa, a saudade aumenta.
+
+C: À medida que os meses passam, as flores desabrocham.
+S: À medida que os meses passam, as flores desabrocham.
+
+C: Os alunos estão estudando cada vez mais à medida que o exame final se aproxima.
+S: Os alunos estão estudando cada vez mais com a proximidade do exame final.
+
+C: À medida que a temperatura sobe, as pessoas buscam maneiras de se refrescar.
+S: Com a elevação da temperatura, as pessoas buscam maneiras de se refrescar.
+
+C: Quanto mais eu trabalho, mais dinheiro eu ganho.
+S: Trabalhando mais, ganho mais dinheiro.
+
+C: À medida que as horas passam, a festa vai ficando mais animada.
+S: Com o passar das horas, a festa vai ficando mais animada.
+
+C: Quanto mais você se esforçar, melhores serão seus resultados.
+S: Se você se esforçar mais, seus resultados serão melhores.
+
+C: À medida que o trânsito aumenta, o tempo de deslocamento também aumenta.
+S: Com o aumento do trânsito, o tempo de deslocamento também aumenta.
+
+C: Quanto mais nós praticamos, mais habilidosos ficamos.
+S: Praticando mais, ficamos mais habilidosos.
+
+C: À medida que o tempo passa, as feridas vão cicatrizando.
+S: Com o passar do tempo, as feridas vão cicatrizando.
+
+C: Quanto mais você estuda, mais conhecimento adquire.
+S: Se você estuda mais, adquire mais conhecimento.
+
+C: À medida que a pressão aumenta, a qualidade do produto final é comprometida.
+S: Com o aumento da pressão, a qualidade do produto final é comprometida.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+S: À medida que o tempo passa, a tecnologia avança cada vez mais rápido.
+
+C: Quanto mais ele estuda, mais conhecimento adquire.
+S: Quanto mais ele estuda, mais conhecimento adquire.
+
+C: À proporção que a empresa cresce, mais funcionários são contratados.
+S: À proporção que a empresa cresce, mais funcionários são contratados.
+
+C: Ao passo que ele economiza dinheiro, consegue realizar seus sonhos.
+S: Ao passo que ele economiza dinheiro, consegue realizar seus sonhos.
+
+C: À medida que a temperatura sobe, a procura por sorvetes aumenta.
+S: À medida que a temperatura sobe, a procura por sorvetes aumenta.
+
+C: À medida que o nível de poluição diminui, a qualidade do ar melhora.
+S: À medida que o nível de poluição diminui, a qualidade do ar melhora.
+
+C: Quanto mais o tempo passa, menos as pessoas se lembram do ocorrido.
+S: Quanto mais o tempo passa, menos as pessoas se lembram do ocorrido.
+
+C: À medida que o show se aproxima, a ansiedade dos artistas aumenta.
+S: À medida que o show se aproxima, a ansiedade dos artistas aumenta.
+
+C: Ao passo que ela se exercita regularmente, sua saúde melhora.
+S: Ao passo que ela se exercita regularmente, sua saúde melhora.
+
+C: À medida que a tensão aumenta, a paciência diminui.
+S: À medida que a tensão aumenta, a paciência diminui.
+
+C: À medida que o tempo passa, fico mais experiente.
+S: Conforme o tempo passa, fico mais experiente.
+
+C: À medida que a temperatura aumenta, a neve derrete.
+S: Conforme a temperatura aumenta, a neve derrete.
+
+C: À medida que o filme avança, a tensão aumenta.
+S: Conforme o filme avança, a tensão aumenta.
+
+C: À medida que ela estuda mais, suas notas melhoram.
+S: Conforme ela estuda mais, suas notas melhoram.
+
+C: À medida que o sol se põe, a cidade ganha um clima mais tranquilo.
+S: Conforme o sol se põe, a cidade ganha um clima mais tranquilo.
+
+C: À medida que o dinheiro vai acabando, a ansiedade aumenta.
+S: Conforme o dinheiro vai acabando, a ansiedade aumenta.
+
+C: À medida que a pressão arterial aumenta, a respiração fica mais acelerada.
+S: Conforme a pressão arterial aumenta, a respiração fica mais acelerada.
+
+C: À medida que a audiência cresce, a popularidade do programa aumenta.
+S: Conforme a audiência cresce, a popularidade do programa aumenta.
+
+C: À medida que a distância diminui, a emoção aumenta.
+S: Conforme a distância diminui, a emoção aumenta.
+
+C: À medida que o estresse aumenta, a qualidade do sono piora.
+S: Conforme o estresse aumenta, a qualidade do sono piora.
+
+C: À medida que estudamos mais, nosso conhecimento aumenta.
+S: Quanto mais estudamos, mais nosso conhecimento aumenta.
+
+C: À medida que o tempo passa, as lembranças vão se desvanecendo.
+S: Conforme o tempo passa, as lembranças vão se desvanecendo.
+
+C: À medida que a temperatura sobe, os animais procuram sombra.
+S: Quanto mais a temperatura sobe, mais os animais procuram sombra.
+
+C: À medida que a festa avança, o clima fica mais animado.
+S: Quanto mais a festa avança, mais animado fica o clima.
+
+C: À medida que os problemas surgem, as soluções são encontradas.
+S: Quanto mais os problemas surgem, mais as soluções são encontradas.
+
+C: À medida que a reunião se prolonga, a impaciência vai aumentando.
+S: Conforme a reunião se prolonga, a impaciência vai aumentando.
+
+C: À medida que as ondas quebram na praia, a areia vai sendo arrastada.
+S: Quanto mais as ondas quebram na praia, mais a areia vai sendo arrastada.
+
+C: À medida que o sol se põe, o céu se enche de cores.
+S: Quanto mais o sol se põe, mais o céu se enche de cores.
+
+C: À medida que o filme vai chegando ao clímax, a tensão no cinema aumenta.
+S: Conforme o filme vai chegando ao clímax, a tensão no cinema aumenta.
+
+C: À medida que o tempo esfria, as pessoas vestem roupas mais quentes.
+S: Quanto mais o tempo esfria, mais as pessoas vestem roupas mais quentes.
+
+C: À medida que o tempo passa, as plantas vão crescendo.
+S: À medida que o tempo passa, as plantas crescem.
+
+C: Quanto mais ele estuda, mais notas boas ele tira.
+S: Quanto mais ele estuda, melhores notas ele tira.
+
+C: À medida que o dia avança, o cansaço vai aumentando.
+S: À medida que o dia avança, o cansaço aumenta.
+
+C: Quanto mais ele economiza, menos dinheiro ele gasta.
+S: Quanto mais ele economiza, menos dinheiro gasta.
+
+C: À medida que a chuva cai, as ruas ficam alagadas.
+S: À medida que a chuva cai, as ruas alagam.
+
+C: Quanto mais ela se exercita, mais saudável ela fica.
+S: Quanto mais ela se exercita, mais saudável fica.
+
+C: À medida que o sol se põe, o céu vai escurecendo.
+S: À medida que o sol se põe, o céu escurece.
+
+C: Quanto mais ele estuda, menos tempo ele tem para descansar.
+S: Quanto mais ele estuda, menos tempo tem para descansar.
+
+C: À medida que o rio se enche, as margens vão ficando alagadas.
+S: À medida que o rio se enche, as margens ficam alagadas.
+
+C: Quanto mais ela se esforça, melhor ela se sai nas competições.
+S: Quanto mais ela se esforça, melhor se sai nas competições.
+
+C: Os alunos estudaram mais à medida que o exame se aproximava.
+S: Os alunos estudaram mais conforme o exame se aproximava.
+
+C: Os preços caem ao passo que a demanda diminui.
+S: Os preços caem conforme a demanda diminui.
+
+C: À medida que envelhecemos, a memória tende a ficar mais fraca.
+S: Conforme envelhecemos, a memória tende a ficar mais fraca.
+
+C: À medida que os dias passam, as noites ficam mais longas.
+S: Conforme os dias passam, as noites ficam mais longas.
+
+C: Ao passo que o estoque diminui, o preço sobe.
+S: Conforme o estoque diminui, o preço sobe.
+
+C: Quanto mais exercícios físicos são feitos, mais energia é queimada.
+S: A medida em que mais exercícios físicos são feitos, mais energia é queimada.
+
+C: À medida que o tempo passa, as rugas vão aparecendo.
+S: Conforme o tempo passa, as rugas vão aparecendo.
+
+C: À medida que o jantar é servido, as conversas ficam mais animadas.
+S: Conforme o jantar é servido, as conversas ficam mais animadas.
+
+C: Ao passo que a chuva aumenta, a temperatura cai.
+S: Conforme a chuva aumenta, a temperatura cai.
+
+C: À medida que a música toca, as pessoas começam a dançar.
+S: Conforme a música toca, as pessoas começam a dançar.
+
+C: À medida que o dia passa, o sol vai ficando mais forte.
+S: À medida que o dia passa, o sol fica mais forte.
+
+C: À proporção que a temperatura aumenta, as pessoas procuram se refrescar.
+S: À medida que a temperatura aumenta, as pessoas procuram se refrescar.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o tempo passa, percebo que estou ficando mais velho.
+S: À medida que o tempo passa, percebo que estou ficando mais velho.
+
+C: Quanto mais chove, mais úmidos ficam os campos.
+S: Quanto mais chove, mais úmidos ficam os campos.
+
+C: À medida que o treinamento avança, os atletas se tornam mais preparados.
+S: À medida que o treinamento avança, os atletas se tornam mais preparados.
+
+C: À medida que os anos se passam, a nostalgia aumenta.
+S: À medida que os anos se passam, a nostalgia aumenta.
+
+C: À medida que o semestre termina, a carga de trabalho diminui.
+S: À medida que o semestre termina, a carga de trabalho diminui.
+
+C: Quanto mais exercícios faço, mais me sinto saudável.
+S: Quanto mais exercícios faço, mais me sinto saudável.
+
+C: À proporção que o projeto é desenvolvido, novas ideias surgem.
+S: À medida que o projeto é desenvolvido, novas ideias surgem.
+
+C: À medida que a temperatura aumenta, a disposição das pessoas para sair de casa diminui.
+S: Conforme a temperatura aumenta, a disposição das pessoas para sair de casa diminui.
+
+C: Quanto mais estudo, mais preparado eu me sinto para o exame.
+S: À medida que estudo mais, me sinto mais preparado para o exame.
+
+C: À proporção que o tempo passa, a saudade aumenta.
+S: Conforme o tempo passa, a saudade aumenta.
+
+C: Quanto mais eu pratico, melhor eu me torno no piano.
+S: À medida que eu pratico mais, melhoro no piano.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: Conforme o sol se põe, a temperatura começa a cair.
+
+C: Quanto mais rápido você correr, mais rápido chegará na linha de chegada.
+S: À medida que você correr mais rápido, chegará mais rápido na linha de chegada.
+
+C: À medida que ele ganhava confiança, suas apresentações ficavam cada vez melhores.
+S: Conforme ele ganhava confiança, suas apresentações ficavam cada vez melhores.
+
+C: Quanto mais doce é o sorvete, mais feliz eu fico.
+S: À medida que o sorvete é mais doce, fico mais feliz.
+
+C: À proporção que a idade avança, a memória começa a falhar.
+S: Conforme a idade avança, a memória começa a falhar.
+
+C: Quanto mais alto eu pulo, mais divertido é o salto.
+S: À medida que eu pulo mais alto, o salto fica mais divertido.
+
+C: À medida que o tempo passa, sinto-me mais velho.
+S: Conforme o tempo passa, sinto-me mais velho.
+
+C: À medida que estudo mais, meu conhecimento aumenta.
+S: Conforme estudo mais, meu conhecimento aumenta.
+
+C: À proporção que o sol se põe, o céu fica mais bonito.
+S: Conforme o sol se põe, o céu fica mais bonito.
+
+C: À medida que o relógio avança, a ansiedade aumenta.
+S: Conforme o relógio avança, a ansiedade aumenta.
+
+C: À medida que o trânsito piora, a paciência diminui.
+S: Conforme o trânsito piora, a paciência diminui.
+
+C: À medida que o dinheiro acaba, as preocupações aumentam.
+S: Conforme o dinheiro acaba, as preocupações aumentam.
+
+C: À proporção que o tempo passa, sinto-me mais distante das pessoas.
+S: Conforme o tempo passa, sinto-me mais distante das pessoas.
+
+C: À medida que o calor aumenta, o consumo de água também.
+S: Conforme o calor aumenta, o consumo de água também.
+
+C: À medida que o tempo melhora, mais pessoas saem para passear.
+S: Conforme o tempo melhora, mais pessoas saem para passear.
+
+C: À proporção que o nível de estresse aumenta, a qualidade de vida diminui.
+S: Conforme o nível de estresse aumenta, a qualidade de vida diminui.
+
+C: À medida que o tempo passa, as árvores crescem mais altas.
+S: À medida que o tempo passa, as árvores crescem mais altas.
+
+C: Quanto mais cedo você chegar, mais rápido poderemos começar.
+S: Quanto mais cedo você chegar, mais rápido poderemos começar.
+
+C: À medida que os anos passam, aprendemos mais experiência.
+S: À medida que os anos passam, aprendemos mais experiência.
+
+C: Quanto mais estudo, mais conheço sobre o assunto.
+S: Quanto mais estudo, mais conheço sobre o assunto.
+
+C: À medida que a temperatura sobe, as pessoas procuram lugares mais frescos.
+S: À medida que a temperatura sobe, as pessoas procuram lugares mais frescos.
+
+C: Quanto mais dificuldade encontramos, mais aprendemos com os desafios.
+S: Quanto mais dificuldade encontramos, mais aprendemos com os desafios.
+
+C: À medida que o projeto avança, mais percebemos a sua importância.
+S: À medida que o projeto avança, mais percebemos a sua importância.
+
+C: Quanto mais pratico, mais habilidoso me torno.
+S: Quanto mais pratico, mais habilidoso me torno.
+
+C: À medida que vamos ficando mais velhos, nossas memórias se tornam mais preciosas.
+S: À medida que vamos ficando mais velhos, nossas memórias se tornam mais preciosas.
+
+C: Quanto mais dinheiro ganhamos, mais gastos aparecem.
+S: Quanto mais dinheiro ganhamos, mais gastos aparecem.
+
+C: À proporção que o tempo passa, seus problemas vão se acumulando.
+S: À medida que o tempo passa, seus problemas vão se acumulando.
+
+C: Quanto mais estudo, mais aprendo.
+S: À medida que estudo, aprendo mais.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: À medida que a população cresce, os recursos naturais diminuem.
+S: À medida que a população cresce, os recursos naturais diminuem.
+
+C: Quanto mais você pratica, melhor você fica.
+S: À medida que você pratica, você fica melhor.
+
+C: À medida que o tempo passa, minha ansiedade aumenta.
+S: À medida que o tempo passa, minha ansiedade aumenta.
+
+C: Ao passo que o tempo avança, as pessoas envelhecem.
+S: À medida que o tempo avança, as pessoas envelhecem.
+
+C: À medida que os anos passam, as lembranças ficam mais distantes.
+S: À medida que os anos passam, as lembranças ficam mais distantes.
+
+C: À medida que você se esforça, melhores resultados você alcança.
+S: À medida que você se esforça, alcança melhores resultados.
+
+C: Quanto mais eu trabalho, mais cansado eu fico.
+S: À medida que eu trabalho, fico mais cansado.
+
+C: À medida que o tempo passa, os alunos começam a se cansar.
+S: À medida que o tempo passa, os alunos cansam-se.
+
+C: Quanto mais estuda, mais aprende.
+S: Quanto mais estuda, mais aprende.
+
+C: À medida que a temperatura aumenta, o gelo derrete.
+S: À medida que a temperatura aumenta, o gelo derrete.
+
+C: Quanto mais rápido corre, mais longe chega.
+S: Quanto mais rápido corre, mais longe chega.
+
+C: À medida que a noite cai, as estrelas começam a aparecer.
+S: À medida que a noite cai, as estrelas aparecem.
+
+C: Quanto mais estuda, menos tempo tem para se divertir.
+S: Quanto mais estuda, menos tempo tem para se divertir.
+
+C: À medida que a chuva cai, as ruas ficam molhadas.
+S: À medida que a chuva cai, as ruas molham-se.
+
+C: Quanto mais dinheiro ganha, mais gasta.
+S: Quanto mais dinheiro ganha, mais gasta.
+
+C: À medida que o tempo passa, a dor vai diminuindo.
+S: À medida que o tempo passa, a dor diminui.
+
+C: Quanto mais treina, melhor fica.
+S: Quanto mais treina, melhor fica.
+
+C: À proporção que o tempo passa, a nostalgia aumenta.
+S: À medida que o tempo passa, a nostalgia aumenta.
+
+C: À medida que ela estuda mais, suas notas melhoram.
+S: Quanto mais ela estuda, suas notas melhoram.
+
+C: Ao passo que o sol se põe, a escuridão toma conta do lugar.
+S: Conforme o sol se põe, a escuridão toma conta do lugar.
+
+C: Quanto mais ela fala, menos as pessoas a ouvem.
+S: À medida que ela fala, menos pessoas a ouvem.
+
+C: À medida que ele envelhece, sua saúde se deteriora.
+S: À medida que ele envelhece, sua saúde piora.
+
+C: Quanto mais estudo, menos dúvidas eu tenho.
+S: À medida que estudo, tenho menos dúvidas.
+
+C: À medida que o tempo passa, a paciência vai se esgotando.
+S: Conforme o tempo passa, a paciência vai se esgotando.
+
+C: À medida que o nível de stress aumenta, a produtividade diminui.
+S: À medida que o stress aumenta, a produtividade diminui.
+
+C: À medida que o volume da música aumenta, o som fica mais alto.
+S: Conforme o volume da música aumenta, o som fica mais alto.
+
+C: Quanto mais treino, mais rápido eu melhoro.
+S: À medida que treino, melhoro mais rápido.
+
+C: À medida que o tempo passa, ela se torna mais experiente.
+S: Conforme o tempo passa, ela se torna mais experiente.
+
+C: À medida que o sol se põe, o céu fica mais colorido.
+S: Conforme o sol se põe, o céu fica mais colorido.
+
+C: À medida que as horas avançam, a ansiedade aumenta.
+S: Conforme as horas avançam, a ansiedade aumenta.
+
+C: À medida que os dias passam, o inverno se aproxima.
+S: Conforme os dias passam, o inverno se aproxima.
+
+C: À medida que a temperatura aumenta, a sede fica mais intensa.
+S: Conforme a temperatura aumenta, a sede fica mais intensa.
+
+C: À medida que a festa se desenrola, as pessoas ficam mais animadas.
+S: Conforme a festa se desenrola, as pessoas ficam mais animadas.
+
+C: À medida que o filme avança, a trama se desenvolve.
+S: Conforme o filme avança, a trama se desenvolve.
+
+C: À medida que a noite cai, o silêncio se intensifica.
+S: Conforme a noite cai, o silêncio se intensifica.
+
+C: À medida que o trânsito piora, a paciência diminui.
+S: Conforme o trânsito piora, a paciência diminui.
+
+C: À medida que o tempo esfria, as pessoas vestem agasalhos.
+S: Conforme o tempo esfria, as pessoas vestem agasalhos.
+
+C: À medida que estudamos mais, nossos conhecimentos aumentam.
+S: Conforme estudamos mais, nossos conhecimentos aumentam.
+
+C: Quanto mais treinamos, melhores ficamos no esporte.
+S: À medida que treinamos, melhoramos no esporte.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: Conforme o tempo passa, a saudade aumenta.
+
+C: Quanto mais chove, mais as plantas crescem.
+S: À medida que chove, as plantas crescem mais.
+
+C: À medida que o sol se põe, o dia chega ao fim.
+S: Conforme o sol se põe, o dia chega ao fim.
+
+C: Quanto mais estudo, menos ansioso fico antes das provas.
+S: À medida que estudo, fico menos ansioso antes das provas.
+
+C: À medida que nos conhecemos melhor, nossa amizade se fortalece.
+S: Conforme nos conhecemos melhor, nossa amizade se fortalece.
+
+C: Quanto mais trabalhamos, menos tempo temos para descansar.
+S: À medida que trabalhamos, temos menos tempo para descansar.
+
+C: À medida que a temperatura sobe, a neve derrete.
+S: Conforme a temperatura sobe, a neve derrete.
+
+C: Quanto mais tempo passamos juntos, mais nos apegamos um ao outro.
+S: À medida que passamos mais tempo juntos, nos apegamos mais um ao outro.
+
+C: À medida que o tempo passa, as pessoas envelhecem mais.
+S: À medida que o tempo passa, as pessoas envelhecem mais.
+
+C: À medida que o sol se põe, a temperatura cai.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: À proporção que o dia avança, a disposição das pessoas diminui.
+S: À proporção que o dia avança, a disposição das pessoas diminui.
+
+C: Quanto mais estudo, melhor são as notas que eu tiro.
+S: Quanto mais estudo, melhor são as notas que eu tiro.
+
+C: Quanto mais eu pratico, menor é a dificuldade.
+S: Quanto mais eu pratico, menor é a dificuldade.
+
+C: À medida que as aulas avançam, o conteúdo fica mais complicado.
+S: À medida que as aulas avançam, o conteúdo fica mais complicado.
+
+C: À medida que a competição se aproxima, o nervosismo aumenta.
+S: À medida que a competição se aproxima, o nervosismo aumenta.
+
+C: Ao passo que ele se esforça mais, maiores são suas conquistas.
+S: Ao passo que ele se esforça mais, maiores são suas conquistas.
+
+C: À medida que o trabalho se acumula, o estresse aumenta.
+S: À medida que o trabalho se acumula, o estresse aumenta.
+
+C: Quanto mais tempo passa, menos energia eu tenho.
+S: Quanto mais tempo passa, menos energia eu tenho.
+
+C: À medida que o tempo passa, as pessoas ficam mais experientes.
+S: À medida que o tempo passa, as pessoas ficam mais experientes.
+
+C: Quanto mais estudo, mais inteligente eu me torno.
+S: Quanto mais estudo, mais inteligente eu me torno.
+
+C: À proporção que o dia avança, o cansaço aumenta.
+S: À proporção que o dia avança, o cansaço aumenta.
+
+C: Ao passo que ele se acalma, a tempestade diminui.
+S: Ao passo que ele se acalma, a tempestade diminui.
+
+C: Quanto mais ele fala, menos as pessoas o entendem.
+S: Quanto mais ele fala, menos as pessoas o entendem.
+
+C: À medida que o trabalho se torna mais difícil, mais desafiador ele se torna.
+S: À medida que o trabalho se torna mais difícil, mais desafiador ele se torna.
+
+C: Quanto mais se pratica, melhores ficam os resultados.
+S: Quanto mais se pratica, melhores ficam os resultados.
+
+C: À medida que envelhecemos, nossa pele perde elasticidade.
+S: À medida que envelhecemos, nossa pele perde elasticidade.
+
+C: À medida que a temperatura sobe, as pessoas procuram se refrescar.
+S: À medida que a temperatura sobe, as pessoas procuram se refrescar.
+
+C: Quanto mais se estuda, mais conhecimento se adquire.
+S: Quanto mais se estuda, mais conhecimento se adquire.
+
+C: À medida que a temperatura aumenta, a demanda por sorvete também aumenta.
+S: Conforme a temperatura aumenta, a demanda por sorvete também aumenta.
+
+C: Quanto mais se estuda, mais se aprende.
+S: Quanto mais se estuda, mais se aprende.
+
+C: À proporção que o tempo passa, a ansiedade diminui.
+S: Conforme o tempo passa, a ansiedade diminui.
+
+C: Ao passo que a tecnologia avança, os empregos tradicionais diminuem.
+S: Conforme a tecnologia avança, os empregos tradicionais diminuem.
+
+C: Quanto mais se dorme, mais descansado se fica.
+S: Quanto mais se dorme, mais descansado se fica.
+
+C: À medida que as horas avançam, a festa fica mais animada.
+S: Conforme as horas avançam, a festa fica mais animada.
+
+C: Quanto mais se lê, mais se expande o vocabulário.
+S: Quanto mais se lê, mais se expande o vocabulário.
+
+C: À proporção que a pressão se eleva, a temperatura aumenta.
+S: Conforme a pressão se eleva, a temperatura aumenta.
+
+C: Quanto mais exercícios se faz, mais se fortalece o corpo.
+S: Quanto mais exercícios se faz, mais se fortalece o corpo.
+
+C: À medida que o tempo passa, a saudade aumenta.
+S: Conforme o tempo passa, a saudade aumenta.
+
+C: À medida que o tempo passa, a tecnologia avança cada vez mais rapidamente.
+S: À medida que o tempo passa, a tecnologia avança mais rapidamente.
+
+C: À medida que o número de alunos aumenta, a escola precisa contratar mais professores.
+S: À medida que o número de alunos aumenta, a escola precisa contratar mais professores.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À proporção que a temperatura aumenta, a venda de sorvete também aumenta.
+S: À proporção que a temperatura aumenta, a venda de sorvete também aumenta.
+
+C: À medida que o trânsito piora, as pessoas ficam mais estressadas.
+S: À medida que o trânsito piora, as pessoas ficam mais estressadas.
+
+C: Quanto mais eu pratico, melhor eu fico.
+S: Quanto mais eu pratico, melhor eu fico.
+
+C: À medida que a população envelhece, a demanda por serviços de saúde aumenta.
+S: À medida que a população envelhece, a demanda por serviços de saúde aumenta.
+
+C: Quanto mais eu estudo, menos ansioso eu fico para as provas.
+S: Quanto mais eu estudo, menos ansioso eu fico para as provas.
+
+C: À medida que o dia vai passando, a temperatura vai diminuindo.
+S: À medida que o dia vai passando, a temperatura vai diminuindo.
+
+C: À medida que o tempo passa, as rugas vão aparecendo.
+S: À medida que o tempo passa, as rugas vão aparecendo.
+
+C: À proporção que o tempo passa, as memórias se tornam mais distantes.
+S: À medida que o tempo passa, as memórias se tornam mais distantes.
+
+C: Quanto mais estudo, menos tempo tenho para me divertir.
+S: À medida que estudo mais, tenho menos tempo para me divertir.
+
+C: Ao passo que a tecnologia avança, os empregos tradicionais vão desaparecendo.
+S: À medida que a tecnologia avança, os empregos tradicionais vão desaparecendo.
+
+C: O preço vai aumentando à medida que a demanda cresce.
+S: O preço vai aumentando conforme a demanda cresce.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura começa a cair.
+
+C: À proporção que o tempo passa, a dor vai diminuindo.
+S: À medida que o tempo passa, a dor vai diminuindo.
+
+C: Ao passo que os anos se passam, as lembranças vão se dissipando.
+S: À medida que os anos se passam, as lembranças vão se dissipando.
+
+C: Quanto mais estudo, mais confiante me sinto nas provas.
+S: À medida que estudo mais, sinto-me mais confiante nas provas.
+
+C: À medida que o trabalho aumenta, o estresse também cresce.
+S: À medida que o trabalho aumenta, o estresse também cresce.
+
+C: Quanto mais treino, mais habilidoso fico no esporte.
+S: À medida que treino mais, fico mais habilidoso no esporte.
+
+C: À medida que o tempo passa, as pessoas tendem a se tornar mais maduras.
+S: À medida que o tempo passa, as pessoas se tornam mais maduras.
+
+C: Ao passo que a tecnologia avança, os dispositivos eletrônicos se tornam cada vez mais compactos.
+S: Ao passo que a tecnologia avança, os dispositivos eletrônicos se tornam mais compactos.
+
+C: Quanto mais você se esforçar, mais sucesso terá.
+S: Quanto mais você se esforçar, mais sucesso terá.
+
+C: À medida que o conhecimento aumenta, as dúvidas diminuem.
+S: À medida que o conhecimento aumenta, as dúvidas diminuem.
+
+C: Quanto mais se estuda, mais se aprende.
+S: Quanto mais se estuda, mais se aprende.
+
+C: À medida que o sol se põe, a temperatura começa a cair.
+S: À medida que o sol se põe, a temperatura cai.
+
+C: Ao passo que envelhecemos, a memória tende a ficar menos eficiente.
+S: Ao passo que envelhecemos, a memória fica menos eficiente.
+
+C: Quanto mais se pratica um esporte, melhor se fica nele.
+S: Quanto mais se pratica um esporte, melhor se fica nele.
+
+C: À medida que a população aumenta, a necessidade por moradias também cresce.
+S: À medida que a população aumenta, a necessidade por moradias também cresce.
+
+C: Quanto mais se poupa dinheiro, mais se tem para investir no futuro.
+S: Quanto mais se poupa dinheiro, mais se tem para investir no futuro.
+
+C: À proporção que o tempo passa, as pessoas envelhecem.
+S: À medida que o tempo passa, as pessoas envelhecem.
+
+C: Quanto mais eu estudo, menos dificuldades tenho para entender.
+S: À medida que eu estudo mais, tenho menos dificuldades para entender.
+
+C: À medida que o mercado se torna mais competitivo, os preços tendem a diminuir.
+S: À medida que o mercado se torna mais competitivo, os preços diminuem.
+
+C: Ao passo que ele avança no jogo, seus pontos aumentam.
+S: À medida que ele avança no jogo, seus pontos aumentam.
+
+C: Quanto mais treinamento você tiver, melhores serão seus resultados.
+S: À medida que você tiver mais treinamento, seus resultados serão melhores.
+
+C: À medida que o dia passa, o cansaço vai aumentando.
+S: À medida que o dia passa, o cansaço aumenta.
+
+C: À proporção que o número de clientes cresce, a demanda por produtos também aumenta.
+S: À medida que o número de clientes cresce, a demanda por produtos também aumenta.
+
+C: Quanto mais o estresse aumenta, mais difícil fica de relaxar.
+S: À medida que o estresse aumenta, fica mais difícil relaxar.
+
+C: À medida que a temperatura sobe, as pessoas buscam se refrescar.
+S: À medida que a temperatura sobe, as pessoas buscam se refrescar.
+
+C: À medida que os anos passam, a sabedoria aumenta.
+S: À medida que os anos passam, a sabedoria aumenta.
+
+C: À medida que o tempo passa, a paisagem vai mudando e se transformando.
+S: À medida que o tempo passa, a paisagem vai mudando.
+
+C: Quanto mais estudamos, mais aprendemos.
+S: Quanto mais estudamos, mais aprendemos.
+
+C: Ao passo que a população cresce, mais recursos naturais são utilizados.
+S: Ao passo que a população cresce, mais recursos naturais são utilizados.
+
+C: À medida que a temperatura sobe, as pessoas procuram lugares com ar condicionado.
+S: À medida que a temperatura sobe, as pessoas procuram lugares com ar condicionado.
+
+C: Quanto mais exercício físico se faz, mais saudável se fica.
+S: Quanto mais exercício físico se faz, mais saudável se fica.
+
+C: À medida que os anos passam, as rugas vão aparecendo.
+S: À medida que os anos passam, as rugas vão aparecendo.
+
+C: Ao passo que a tecnologia avança, os aparelhos eletrônicos ficam cada vez mais sofisticados.
+S: Ao passo que a tecnologia avança, os aparelhos eletrônicos ficam cada vez mais sofisticados.
+
+C: À medida que os gastos aumentam, o dinheiro vai ficando mais escasso.
+S: À medida que os gastos aumentam, o dinheiro vai ficando mais escasso.
+
+C: Quanto mais tempo se passa longe de casa, mais saudade se sente.
+S: Quanto mais tempo se passa longe de casa, mais saudade se sente.
+
+C: À medida que a pressão no trabalho aumenta, mais estressados nos sentimos.
+S: À medida que a pressão no trabalho aumenta, mais estressados nos sentimos.
+
+C: À medida que a temperatura sobe, mais pessoas vão para a praia.
+S: À medida que a temperatura sobe, mais pessoas vão para a praia.
+
+C: À medida que o tempo passa, o cansaço aumenta.
+S: À medida que o tempo passa, o cansaço aumenta.
+
+C: Quanto mais o estresse aumenta, menos paciência tenho.
+S: Quanto mais o estresse aumenta, menos paciência tenho.
+
+C: Ao passo que a economia cresce, o desemprego diminui.
+S: Ao passo que a economia cresce, o desemprego diminui.
+
+C: À medida que a aula avança, os alunos ficam mais atentos.
+S: À medida que a aula avança, os alunos ficam mais atentos.
+
+C: Quanto mais estudo, mais aprendo.
+S: Quanto mais estudo, mais aprendo.
+
+C: À medida que o trânsito aumenta, o tempo de viagem aumenta.
+S: À medida que o trânsito aumenta, o tempo de viagem aumenta.
+
+C: Ao passo que a idade avança, a memória fica pior.
+S: Ao passo que a idade avança, a memória fica pior.
+
+C: À medida que o sol se põe, o céu fica mais colorido.
+S: À medida que o sol se põe, o céu fica mais colorido.
+
+C: Quanto mais dinheiro tenho, mais coisas posso comprar.
+S: Quanto mais dinheiro tenho, mais coisas posso comprar.
+

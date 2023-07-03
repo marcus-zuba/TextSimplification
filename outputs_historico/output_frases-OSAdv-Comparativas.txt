@@ -1,0 +1,4515 @@
+C: Ele estuda tanto quanto os outros alunos da turma.
+S: Ele estuda. Os outros alunos da turma também estudam.
+
+C: Ele corre mais rápido do que os demais atletas.
+S: Ele corre mais rápido. Os demais atletas também correm.
+
+C: Ela fala tão alto quanto o professor.
+S: Ela fala tão alto. O professor também fala alto.
+
+C: Os moradores reclamaram tanto do barulho quanto da falta de segurança no bairro.
+S: Os moradores reclamaram do barulho. Os moradores também reclamaram da falta de segurança no bairro.
+
+C: Ela trabalha melhor que os outros funcionários.
+S: Ela trabalha melhor. Os outros funcionários também trabalham.
+
+C: Ele foi tão generoso quanto os demais doadores.
+S: Ele foi tão generoso. Os demais doadores também foram generosos.
+
+C: Ele se preocupa mais com os estudos do que com outras atividades.
+S: Ele se preocupa mais com os estudos. Ele também se preocupa menos com outras atividades.
+
+C: Ela cantou tão bem quanto os outros participantes da competição.
+S: Ela cantou tão bem. Os outros participantes da competição também cantaram bem.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi tão emocionante. O livro também foi emocionante.
+
+C: Ela se diverte tanto no parque quanto no cinema.
+S: Ela se diverte no parque. Ela também se diverte no cinema.
+
+C: Ela ganhou mais dinheiro do que eu no mês passado.
+S: Ela ganhou mais dinheiro do que eu. Eu também não ganhei muito dinheiro no mês passado.
+
+C: Ele é tão inteligente quanto seu irmão.
+S: Ele é tão inteligente quanto seu irmão. Seu irmão também é muito inteligente.
+
+C: Ela estuda tanto quanto seus colegas de classe.
+S: Ela estuda tanto quanto seus colegas de classe. Seus colegas de classe também estudam muito.
+
+C: O novo restaurante é melhor do que o antigo.
+S: O novo restaurante é melhor do que o antigo. O antigo restaurante não era tão bom.
+
+C: Ele é pior jogador do que seu irmão.
+S: Ele é pior jogador do que seu irmão. Seu irmão joga melhor que ele.
+
+C: O time dela marcou mais gols do que o nosso.
+S: O time dela marcou mais gols do que o nosso. Nosso time não marcou muitos gols.
+
+C: Ele gastou tanto dinheiro quanto eu na viagem.
+S: Ele gastou tanto dinheiro quanto eu na viagem. Eu também gastei bastante dinheiro.
+
+C: Ela tem tantos amigos quanto eu nas redes sociais.
+S: Ela tem tantos amigos quanto eu nas redes sociais. Eu também tenho muitos amigos.
+
+C: Ele possui um carro tão caro quanto o meu.
+S: Ele possui um carro tão caro quanto o meu. Meu carro também é muito caro.
+
+C: Ela é tão talentosa quanto sua irmã.
+S: Ela é tão talentosa quanto sua irmã. Sua irmã também é muito talentosa.
+
+C: Ele estuda tanto quanto sua irmã.
+S: Ele estuda. Sua irmã também estuda.
+
+C: Eles são melhores jogadores do que os adversários.
+S: Eles são bons jogadores. Os adversários também são bons jogadores.
+
+C: Ela trabalha tanto quanto o marido.
+S: Ela trabalha. O marido também trabalha.
+
+C: Ele tem mais dinheiro do que o irmão.
+S: Ele tem dinheiro. O irmão também tem dinheiro.
+
+C: O carro é tão rápido quanto o avião.
+S: O carro é rápido. O avião também é rápido.
+
+C: Ela é mais bonita do que a amiga.
+S: Ela é bonita. A amiga também é bonita.
+
+C: Ele tem mais paciência do que o chefe.
+S: Ele tem paciência. O chefe também tem paciência.
+
+C: O jogo é tão emocionante quanto o filme.
+S: O jogo é emocionante. O filme também é emocionante.
+
+C: Ele estudou melhor do que os colegas.
+S: Ele estudou bem. Os colegas também estudaram bem.
+
+C: O prato é pior do que o da concorrente.
+S: O prato é ruim. O da concorrente também é ruim.
+
+C: Ela é tão talentosa quanto a melhor atriz de Hollywood.
+S: Ela é talentosa. A melhor atriz de Hollywood também é talentosa.
+
+C: O carro é pior do que o anterior.
+S: O carro é ruim. O anterior também é ruim.
+
+C: Ele estudou tanto quanto os outros alunos.
+S: Ele estudou. Os outros alunos também estudaram.
+
+C: Ele é maior do que os demais jogadores.
+S: Ele é grande. Os demais jogadores também são grandes.
+
+C: Eu gosto de comida japonesa assim como de comida italiana.
+S: Eu gosto de comida japonesa. Eu também gosto de comida italiana.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ele corre mais rápido do que todos os outros atletas.
+S: Ele corre rápido. Todos os outros atletas também correm rápido.
+
+C: Ela fala inglês tão bem quanto um nativo.
+S: Ela fala inglês bem. Um nativo também fala inglês bem.
+
+C: Ele é tão inteligente quanto o professor.
+S: Ele é inteligente. O professor também é inteligente.
+
+C: O time joga tão bem quanto o campeão.
+S: O time joga bem. O campeão também joga bem.
+
+C: A casa é tão grande quanto o jardim.
+S: A casa é grande. O jardim também é grande.
+
+C: João corre mais rápido do que Maria.
+S: João corre rápido. Maria também corre rápido.
+
+C: Ele trabalha melhor do que eu.
+S: Ele trabalha bem. Eu também trabalho bem.
+
+C: O salário dela é pior do que o do colega.
+S: O salário dela é ruim. O salário do colega também é ruim.
+
+C: Ele fala inglês assim como ela.
+S: Ele fala inglês. Ela também fala inglês.
+
+C: João estuda tanto quanto Pedro.
+S: João estuda muito. Pedro também estuda muito.
+
+C: Eu gosto de lasanha tanto quanto de pizza.
+S: Eu gosto de lasanha. Eu também gosto de pizza.
+
+C: Ela é tão inteligente quanto ele.
+S: Ela é inteligente. Ele também é inteligente.
+
+C: Ele tem tanto dinheiro quanto ela.
+S: Ele tem dinheiro. Ela também tem dinheiro.
+
+C: O carro é maior que a moto.
+S: O carro é grande. A moto também é grande.
+
+C: O time de futebol jogou tão bem quanto seus adversários.
+S: O time de futebol jogou bem. Seus adversários também jogaram bem.
+
+C: Meu carro é melhor que o seu.
+S: Meu carro é melhor. O seu também é melhor.
+
+C: Estou estudando tanto quanto você.
+S: Estou estudando. Você também está estudando.
+
+C: Ela é tão inteligente quanto sua irmã.
+S: Ela é inteligente. Sua irmã também é inteligente.
+
+C: Ele trabalha mais do que eu.
+S: Ele trabalha mais. Eu também trabalho mais.
+
+C: A casa é pior do que eu imaginava.
+S: A casa é pior. Eu também imaginava pior.
+
+C: Ela é tão bonita quanto sua mãe.
+S: Ela é bonita. Sua mãe também é bonita.
+
+C: Ele escreve tão bem quanto o autor famoso.
+S: Ele escreve bem. O autor famoso também escreve bem.
+
+C: A comida estava tão gostosa quanto eu esperava.
+S: A comida estava gostosa. Eu esperava que estivesse gostosa.
+
+C: O filme foi tão emocionante quanto eu tinha ouvido falar.
+S: O filme foi emocionante. Eu tinha ouvido falar que seria emocionante.
+
+C: O carro novo é tão rápido quanto o antigo.
+S: O carro novo é rápido. O carro antigo também é rápido.
+
+C: A casa é melhor do que o apartamento.
+S: A casa é boa. O apartamento também é bom.
+
+C: Pedro é tão inteligente quanto Maria.
+S: Pedro é inteligente. Maria também é inteligente.
+
+C: A comida está pior do que ontem.
+S: A comida está ruim. Ontem também estava ruim.
+
+C: Ele é tão alto quanto o jogador de basquete.
+S: Ele é alto. O jogador de basquete também é alto.
+
+C: Ela é tão bonita quanto a modelo famosa.
+S: Ela é bonita. A modelo famosa também é bonita.
+
+C: Ele trabalha assim como o irmão.
+S: Ele trabalha. O irmão também trabalha.
+
+C: Ela estuda tanto quanto os melhores alunos da escola.
+S: Ela estuda. Os melhores alunos da escola também estudam.
+
+C: A prova foi fácil, assim como a lição de casa.
+S: A prova foi fácil. A lição de casa também foi fácil.
+
+C: Ele tem tanto dinheiro quanto o empresário famoso.
+S: Ele tem dinheiro. O empresário famoso também tem dinheiro.
+
+C: Ele se comportou pior que os outros estudantes.
+S: Ele se comportou pior. Os outros estudantes também se comportaram pior.
+
+C: Ela é tão inteligente quanto o seu irmão.
+S: Ela é tão inteligente. O seu irmão também é tão inteligente.
+
+C: A empresa investiu mais em marketing do que em pesquisa.
+S: A empresa investiu mais em marketing. A empresa também investiu mais em pesquisa.
+
+C: Ele está mais confiante do que antes.
+S: Ele está mais confiante. Ele também está mais confiante.
+
+C: O evento foi tão emocionante quanto o último.
+S: O evento foi tão emocionante. O último evento também foi tão emocionante.
+
+C: A casa é maior que a do vizinho.
+S: A casa é maior. A casa do vizinho também é maior.
+
+C: Ela ganhou mais prêmios do que os outros competidores.
+S: Ela ganhou mais prêmios. Os outros competidores também ganharam mais prêmios.
+
+C: O carro é melhor que o anterior.
+S: O carro é melhor. O carro anterior também é melhor.
+
+C: Ele trabalha tanto quanto os outros funcionários.
+S: Ele trabalha tanto. Os outros funcionários também trabalham tanto.
+
+C: Maria estuda tanto quanto Pedro.
+S: Maria estuda tanto. Pedro também estuda tanto.
+
+C: Ela corre tão rápido quanto o Usain Bolt.
+S: Ela corre rápido. O Usain Bolt também corre rápido.
+
+C: Essa banda é pior do que a anterior.
+S: Essa banda é ruim. A banda anterior também é ruim.
+
+C: Ele estuda tanto quanto eu.
+S: Ele estuda. Eu também estudo.
+
+C: O carro é melhor do que a bicicleta.
+S: O carro é bom. A bicicleta também é boa.
+
+C: Ela é tão inteligente quanto a irmã.
+S: Ela é inteligente. A irmã também é inteligente.
+
+C: Ele tem mais dinheiro do que eu.
+S: Ele tem dinheiro. Eu também tenho dinheiro.
+
+C: Ela é maior do que a outra cantora.
+S: Ela é grande. A outra cantora também é grande.
+
+C: Ele age assim como o pai.
+S: Ele age assim. O pai também age assim.
+
+C: Ele come tanto quanto eu.
+S: Ele come. Eu também como.
+
+C: O clima está assim como previsto.
+S: O clima está assim. Previsto também está assim.
+
+C: Ela estuda tanto quanto ele para as provas.
+S: Ela estuda para as provas. Ele também estuda para as provas.
+
+C: O time jogou melhor que o adversário.
+S: O time jogou. O adversário não jogou tão bem.
+
+C: Ele gosta de música clássica assim como eu.
+S: Ele gosta de música clássica. Eu também gosto de música clássica.
+
+C: Ela cantou pior que os outros participantes.
+S: Ela cantou. Os outros participantes não cantaram tão mal.
+
+C: Ele tem um carro tão veloz quanto o do seu amigo.
+S: Ele tem um carro. O seu amigo também tem um carro veloz.
+
+C: O filme foi melhor que o livro.
+S: O filme foi. O livro não foi tão bom.
+
+C: Ela é mais alta que a irmã.
+S: Ela é alta. A irmã não é tão alta.
+
+C: O celular é mais caro do que o tablet.
+S: O celular é caro. O tablet não é tão caro.
+
+C: Ele fala tão rápido quanto o professor.
+S: Ele fala rápido. O professor também fala rápido.
+
+C: Eles trabalham tanto quanto nós.
+S: Eles trabalham. Nós também trabalhamos tanto.
+
+C: Ela estuda tanto quanto trabalha.
+S: Ela estuda. Ela também trabalha.
+
+C: O filme foi pior do que eu esperava.
+S: O filme foi ruim. Eu não esperava isso.
+
+C: Ele corre mais rápido que eu.
+S: Ele corre rápido. Eu não corro tão rápido.
+
+C: A pizza é tão boa quanto o hambúrguer.
+S: A pizza é boa. O hambúrguer também é bom.
+
+C: Ela é maior que as outras crianças da sua idade.
+S: Ela é grande. As outras crianças da sua idade também são.
+
+C: Assim como a água, o fogo também é necessário para a vida.
+S: A água é necessária para a vida. O fogo também é necessário para a vida.
+
+C: Ele não gosta de estudar, assim como seus amigos.
+S: Ele não gosta de estudar. Seus amigos também não gostam.
+
+C: Ela tanto canta quanto dança bem.
+S: Ela canta bem. Ela também dança bem.
+
+C: Assim como minha irmã, eu também gosto de filmes de ação.
+S: Minha irmã gosta de filmes de ação. Eu também gosto.
+
+C: Ele é tão inteligente quanto sua irmã.
+S: Ele é inteligente. Sua irmã também é inteligente.
+
+C: Ela estuda tanto quanto trabalha para conseguir pagar suas contas.
+S: Ela estuda. Ela trabalha para conseguir pagar suas contas também.
+
+C: Ele é pior que seu irmão na escola.
+S: Ele é pior na escola. Seu irmão também é pior.
+
+C: O carro dela é tão velho quanto o meu.
+S: O carro dela é velho. Meu carro também é velho.
+
+C: A comida está melhor que ontem.
+S: A comida está melhor. Ontem também estava melhor.
+
+C: Ele é tão inteligente quanto engraçado.
+S: Ele é inteligente. Ele é engraçado também.
+
+C: Os alunos jogam tanto quanto estudam.
+S: Os alunos jogam. Os alunos estudam também.
+
+C: O livro é maior que a minha bolsa.
+S: O livro é maior. Minha bolsa também é maior.
+
+C: Ela é tão bonita quanto simpática.
+S: Ela é bonita. Ela é simpática também.
+
+C: O filme foi tão emocionante quanto engraçado.
+S: O filme foi emocionante. O filme foi engraçado também.
+
+C: O evento foi tão divertido quanto cansativo.
+S: O evento foi divertido. O evento foi cansativo também.
+
+C: O carro é tão rápido quanto o avião.
+S: O carro é rápido. O avião também é rápido.
+
+C: Ele estudou tanto quanto os outros alunos.
+S: Ele estudou. Os outros alunos também estudaram.
+
+C: O jornalista perguntou melhor que o entrevistado.
+S: O jornalista perguntou. O entrevistado também perguntou.
+
+C: A casa é maior que o apartamento.
+S: A casa é grande. O apartamento também é grande.
+
+C: Ele joga futebol assim como o irmão.
+S: Ele joga futebol. O irmão também joga futebol.
+
+C: Ela trabalha muito, assim como o marido.
+S: Ela trabalha muito. O marido também trabalha muito.
+
+C: A comida estava pior que o esperado.
+S: A comida estava ruim. O esperado também estava ruim.
+
+C: Ele ganhou tanto dinheiro quanto o amigo.
+S: Ele ganhou dinheiro. O amigo também ganhou dinheiro.
+
+C: O filme é tão emocionante quanto o livro.
+S: O filme é emocionante. O livro também é emocionante.
+
+C: Ele corre assim como o atleta olímpico.
+S: Ele corre. O atleta olímpico também corre.
+
+C: Ela trabalha tanto quanto estuda.
+S: Ela trabalha. Ela também estuda.
+
+C: Ele se saiu melhor que os outros competidores.
+S: Ele se saiu bem. Os outros competidores também não se saíram bem.
+
+C: O político discursou assim como os demais candidatos.
+S: O político discursou. Os demais candidatos também discursaram.
+
+C: A doença se espalhou mais rápido que o esperado.
+S: A doença se espalhou de forma rápida. O esperado também se espalhou de forma rápida.
+
+C: Ele é tão generoso quanto inteligente.
+S: Ele é generoso. Ele também é inteligente.
+
+C: O jogador marcou mais gols que qualquer outro da equipe.
+S: O jogador marcou muitos gols. Nenhum outro jogador da equipe marcou muitos gols também.
+
+C: O país enfrentou problemas sociais, assim como econômicos.
+S: O país enfrentou problemas sociais. O país também enfrentou problemas econômicos.
+
+C: A comida estava deliciosa, assim como a sobremesa.
+S: A comida estava deliciosa. A sobremesa também estava deliciosa.
+
+C: Ela se esforça tanto na academia quanto no trabalho.
+S: Ela se esforça na academia. Ela também se esforça no trabalho.
+
+C: A empresa investe tanto em tecnologia quanto em sustentabilidade.
+S: A empresa investe em tecnologia. A empresa também investe em sustentabilidade.
+
+C: Ela estuda tanto quanto o irmão.
+S: Ela estuda. O irmão também estuda.
+
+C: O filme foi melhor do que o esperado.
+S: O filme foi. O esperado também foi.
+
+C: Ele é pior que o chefe.
+S: Ele é. O chefe também é.
+
+C: Ele trabalha mais do que os colegas.
+S: Ele trabalha. Os colegas também trabalham.
+
+C: A equipe jogou tão bem quanto os adversários.
+S: A equipe jogou bem. Os adversários também jogaram bem.
+
+C: Eles estão tão cansados quanto nós.
+S: Eles estão cansados. Nós também estamos cansados.
+
+C: Ela tem tanto talento quanto a irmã.
+S: Ela tem talento. A irmã também tem talento.
+
+C: O carro é tão veloz quanto o avião.
+S: O carro é veloz. O avião também é veloz.
+
+C: Ele é tão inteligente quanto o professor.
+S: Ele é inteligente. O professor também é inteligente.
+
+C: Ela é assim como a mãe: determinada e corajosa.
+S: Ela é determinada e corajosa. A mãe também é determinada e corajosa.
+
+C: O time de futebol jogou tão bem quanto o time adversário.
+S: O time de futebol jogou bem. O time adversário também jogou bem.
+
+C: Ela correu mais rápido que todas as outras competidoras.
+S: Ela correu rápido. Todas as outras competidoras também correram rápido.
+
+C: Eles estudaram tanto quanto os outros alunos da turma.
+S: Eles estudaram. Os outros alunos da turma também estudaram.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ele trabalhou mais horas que qualquer outra pessoa da equipe.
+S: Ele trabalhou horas. Nenhuma outra pessoa da equipe trabalhou tantas horas.
+
+C: A criança comeu tanto doce quanto os outros convidados da festa.
+S: A criança comeu doce. Os outros convidados da festa também comeram doce.
+
+C: Ela estava tão cansada quanto o colega de trabalho.
+S: Ela estava cansada. O colega de trabalho também estava cansado.
+
+C: A empresa ganhou mais dinheiro que qualquer outra concorrente.
+S: A empresa ganhou dinheiro. Nenhuma outra concorrente ganhou tanto dinheiro.
+
+C: Ele falou tão alto quanto os demais presentes na sala.
+S: Ele falou alto. Os demais presentes na sala também falaram alto.
+
+C: Ela chegou tão cedo quanto os outros participantes do evento.
+S: Ela chegou cedo. Os outros participantes do evento também chegaram cedo.
+
+C: Ela corre tão rápido quanto um guepardo.
+S: Ela corre rápido. Um guepardo também corre rápido.
+
+C: Meu irmão é pior que eu em matemática.
+S: Meu irmão é ruim em matemática. Eu também sou ruim em matemática.
+
+C: O filme é melhor do que o livro.
+S: O filme é bom. O livro também é bom.
+
+C: A cidade é maior que a vila.
+S: A cidade é grande. A vila também é grande.
+
+C: Ele canta tão bem quanto um profissional.
+S: Ele canta bem. Um profissional também canta bem.
+
+C: Minha casa é tão bonita quanto a sua.
+S: Minha casa é bonita. A sua também é bonita.
+
+C: Ele joga assim como o seu irmão.
+S: Ele joga. O seu irmão também joga.
+
+C: Ele estuda tanto quanto a sua irmã.
+S: Ele estuda. A sua irmã também estuda.
+
+C: A festa foi tão animada como o show.
+S: A festa foi animada. O show também foi animado.
+
+C: O carro é tão rápido quanto um avião.
+S: O carro é rápido. Um avião também é rápido.
+
+C: Eu estudo tanto quanto ela.
+S: Eu estudo. Ela também estuda.
+
+C: O carro é melhor que a bicicleta.
+S: O carro é melhor. A bicicleta também é melhor.
+
+C: Ela corre tão rápido quanto ele.
+S: Ela corre rápido. Ele também corre rápido.
+
+C: Ele trabalha mais do que eu.
+S: Ele trabalha mais. Eu também trabalho mais.
+
+C: Ele fala tão alto quanto ela.
+S: Ele fala alto. Ela também fala alto.
+
+C: Ela dança melhor do que ele.
+S: Ela dança melhor. Ele também dança melhor.
+
+C: Nós viajamos tanto quanto eles.
+S: Nós viajamos. Eles também viajam.
+
+C: Eles têm mais dinheiro do que nós.
+S: Eles têm mais dinheiro. Nós também temos mais dinheiro.
+
+C: Ela estuda tanto quanto eu.
+S: Ela estuda. Eu também estudo.
+
+C: Ela canta tão bem quanto ele.
+S: Ela canta bem. Ele também canta bem.
+
+C: Ele viajou tanto para a Europa quanto para a Ásia nas férias.
+S: Ele viajou para a Europa nas férias. Ele também viajou para a Ásia.
+
+C: Ele estudou tanto para a prova quanto para o trabalho.
+S: Ele estudou para a prova. Ele também estudou para o trabalho.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: A casa é maior que o apartamento.
+S: A casa é grande. O apartamento também é grande.
+
+C: Ele joga tão bem quanto o irmão.
+S: Ele joga bem. O irmão também joga bem.
+
+C: Ela se saiu melhor que os outros concorrentes.
+S: Ela se saiu bem. Os outros concorrentes também se saíram bem.
+
+C: O carro é pior que a bicicleta para o meio ambiente.
+S: O carro é ruim para o meio ambiente. A bicicleta também é ruim para o meio ambiente.
+
+C: O filme é tão emocionante quanto engraçado.
+S: O filme é emocionante. O filme também é engraçado.
+
+C: Ela trabalha tanto durante o dia quanto à noite.
+S: Ela trabalha durante o dia. Ela também trabalha à noite.
+
+C: Ele comeu tanto a pizza quanto o hambúrguer.
+S: Ele comeu a pizza. Ele também comeu o hambúrguer.
+
+C: Ele correu tão rápido quanto o vento.
+S: Ele correu rápido. O vento também correu rápido.
+
+C: O time perdeu pior do que esperávamos.
+S: O time perdeu. Esperávamos que o time perdesse pior.
+
+C: Ele é tão inteligente quanto o seu irmão.
+S: Ele é inteligente. O irmão dele também é inteligente.
+
+C: O evento foi melhor do que o esperado.
+S: O evento foi bom. Esperávamos que o evento fosse melhor.
+
+C: Ela fez mais exercícios do que ele.
+S: Ela fez exercícios. Ele também fez exercícios.
+
+C: Ele cantou tão alto quanto o cantor famoso.
+S: Ele cantou alto. O cantor famoso também cantou alto.
+
+C: Ele tem tanto dinheiro quanto o seu vizinho.
+S: Ele tem dinheiro. O seu vizinho também tem dinheiro.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: A comida estava tão deliciosa quanto a sobremesa.
+S: A comida estava deliciosa. A sobremesa também estava deliciosa.
+
+C: Ela é tão talentosa quanto a cantora famosa.
+S: Ela é talentosa. A cantora famosa também é talentosa.
+
+C: A cidade se desenvolveu tanto quanto outras grandes metrópoles.
+S: A cidade se desenvolveu. Outras grandes metrópoles também se desenvolveram.
+
+C: O carro é tão rápido quanto o avião.
+S: O carro é rápido. O avião também é rápido.
+
+C: Ela escreve tão bem quanto o escritor famoso.
+S: Ela escreve bem. O escritor famoso também escreve bem.
+
+C: O filme é pior do que o livro.
+S: O filme é ruim. O livro também é ruim.
+
+C: Ele é tão inteligente quanto o professor.
+S: Ele é inteligente. O professor também é inteligente.
+
+C: O dia está tão quente quanto ontem.
+S: O dia está quente. Ontem também estava quente.
+
+C: Ela corre tão rápido quanto o atleta olímpico.
+S: Ela corre rápido. O atleta olímpico também corre rápido.
+
+C: O lanche é tão gostoso quanto o jantar.
+S: O lanche é gostoso. O jantar também é gostoso.
+
+C: Ele é mais alto do que o irmão.
+S: Ele é alto. O irmão também é alto.
+
+C: Ela se veste tão bem quanto a modelo famosa.
+S: Ela se veste bem. A modelo famosa também se veste bem.
+
+C: Ele estudou tanto quanto os outros alunos da turma.
+S: Ele estudou. Os outros alunos da turma também estudaram.
+
+C: O carro é tão rápido quanto o avião.
+S: O carro é rápido. O avião também é rápido.
+
+C: Eles jogam pior do que os jogadores da equipe adversária.
+S: Eles jogam. Os jogadores da equipe adversária também jogam.
+
+C: Ela é melhor dançarina do que as outras participantes da competição.
+S: Ela é uma boa dançarina. As outras participantes da competição também são boas dançarinas.
+
+C: O nível de poluição é maior na cidade do que no campo.
+S: O nível de poluição é alto na cidade. O nível de poluição também é alto no campo.
+
+C: Ele estuda tanto quanto trabalha.
+S: Ele estuda. Ele também trabalha.
+
+C: A festa foi tão animada quanto a do ano passado.
+S: A festa foi animada. A festa do ano passado também foi animada.
+
+C: O custo de vida é mais alto na cidade do que no interior.
+S: O custo de vida é alto na cidade. O custo de vida também é alto no interior.
+
+C: O desempenho da equipe foi pior do que o esperado pelo treinador.
+S: O desempenho da equipe foi ruim. O desempenho também foi ruim para o treinador.
+
+C: Ele é melhor cantor do que ator.
+S: Ele é um bom cantor. Ele também é um bom ator.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ele é pior que o seu irmão mais velho.
+S: Ele é pior. O seu irmão mais velho também é pior.
+
+C: A cidade é tão bonita quanto a praia.
+S: A cidade é bonita. A praia também é bonita.
+
+C: Ela é melhor que as outras candidatas.
+S: Ela é melhor. As outras candidatas também são melhores.
+
+C: O bolo é tão saboroso quanto o sorvete.
+S: O bolo é saboroso. O sorvete também é saboroso.
+
+C: Eles são tão talentosos quanto a banda famosa.
+S: Eles são talentosos. A banda famosa também é talentosa.
+
+C: A casa é tão espaçosa quanto o apartamento.
+S: A casa é espaçosa. O apartamento também é espaçoso.
+
+C: O restaurante é tão caro quanto o hotel.
+S: O restaurante é caro. O hotel também é caro.
+
+C: O filme é tão emocionante quanto o livro.
+S: O filme é emocionante. O livro também é emocionante.
+
+C: Ele é maior que os outros jogadores.
+S: Ele é maior. Os outros jogadores também são maiores.
+
+C: Ela se dedicou tanto ao trabalho quanto aos estudos.
+S: Ela se dedicou ao trabalho. Ela também se dedicou aos estudos.
+
+C: O trânsito está pior do que o normal hoje.
+S: O trânsito está pior hoje. 
+
+C: Ele é tão inteligente quanto criativo.
+S: Ele é inteligente. Ele também é criativo.
+
+C: Elas correram mais rápido do que os meninos.
+S: Elas correram mais rápido. Os meninos também correram.
+
+C: O filme foi melhor do que eu esperava.
+S: O filme foi melhor. 
+
+C: Ele falou tanto sobre si mesmo quanto sobre seus planos para o futuro.
+S: Ele falou sobre si mesmo. Ele também falou sobre seus planos para o futuro.
+
+C: Ele ganhou mais dinheiro do que eu.
+S: Ele ganhou mais dinheiro. 
+
+C: Elas são tão bonitas quanto inteligentes.
+S: Elas são bonitas. Elas também são inteligentes.
+
+C: O time jogou pior do que o esperado.
+S: O time jogou pior. 
+
+C: Ele é maior do que os outros jogadores.
+S: Ele é maior. Os outros jogadores também são maiores.
+
+C: Ele se sentiu tão feliz quanto ela após a vitória.
+S: Ele se sentiu feliz após a vitória. Ela também se sentiu feliz.
+
+C: O filme é melhor do que o livro, assim como o diretor havia previsto.
+S: O filme é melhor do que o livro. O diretor havia previsto isso.
+
+C: A comida estava tão deliciosa quanto disseram os críticos.
+S: A comida estava deliciosa. Os críticos disseram isso também.
+
+C: Ela trabalha tanto quanto ele para alcançar seus objetivos.
+S: Ela trabalha para alcançar seus objetivos. Ele também trabalha.
+
+C: O carro é maior do que pensávamos, assim como o vendedor havia dito.
+S: O carro é maior do que pensávamos. O vendedor havia dito isso.
+
+C: Ele se saiu pior do que imaginávamos, assim como os outros competidores.
+S: Ele se saiu pior do que imaginávamos. Os outros competidores também se saíram pior.
+
+C: Estávamos tão ansiosos quanto eles para o lançamento do novo álbum.
+S: Estávamos ansiosos para o lançamento do novo álbum. Eles também estavam ansiosos.
+
+C: Ela corre tão rápido quanto os atletas profissionais.
+S: Ela corre rápido. Os atletas profissionais também correm rápido.
+
+C: Ela é tão inteligente quanto seu irmão mais velho.
+S: Ela é inteligente. Seu irmão mais velho também é inteligente.
+
+C: O pai comprou tantos presentes para os filhos quanto a mãe.
+S: O pai comprou presentes para os filhos. A mãe também comprou presentes.
+
+C: O jogo de ontem foi tão emocionante quanto o da semana passada.
+S: O jogo de ontem foi emocionante. O jogo da semana passada também foi emocionante.
+
+C: Ele é melhor jogador de basquete do que o seu irmão.
+S: Ele é um bom jogador de basquete. O seu irmão também é um bom jogador de basquete.
+
+C: Estamos mais perto da praia do que vocês.
+S: Estamos perto da praia. Vocês também estão perto da praia.
+
+C: Ela estudou tanto quanto eu para a prova.
+S: Ela estudou para a prova. Eu também estudei para a prova.
+
+C: O filme foi tão longo quanto o livro.
+S: O filme foi longo. O livro também foi longo.
+
+C: A presença deles no evento foi maior que a nossa.
+S: A presença deles no evento foi grande. A nossa também foi grande.
+
+C: Ela é tão inteligente quanto o professor.
+S: Ela é inteligente. O professor também é inteligente.
+
+C: O carro é pior que o ônibus para o meio ambiente.
+S: O carro é ruim para o meio ambiente. O ônibus também é ruim para o meio ambiente.
+
+C: Ele tem tantos amigos quanto eu.
+S: Ele tem amigos. Eu também tenho amigos.
+
+C: Ele se veste tão bem quanto a sua irmã.
+S: Ele se veste bem. A sua irmã também se veste bem.
+
+C: O time de futebol venceu o jogo tão facilmente quanto os adversários.
+S: O time de futebol venceu o jogo facilmente. Os adversários também venceram o jogo facilmente.
+
+C: Ele estudou tanto quanto os colegas.
+S: Ele estudou. Os colegas também estudaram.
+
+C: O livro é melhor do que o filme.
+S: O livro é bom. O filme também é bom.
+
+C: Ela corre tão rápido quanto os atletas profissionais.
+S: Ela corre rápido. Os atletas profissionais também correm rápido.
+
+C: A comida está tão gostosa quanto a de um restaurante famoso.
+S: A comida está gostosa. A comida de um restaurante famoso também está gostosa.
+
+C: O carro é maior do que o da minha irmã.
+S: O carro é grande. O carro da minha irmã também é grande.
+
+C: Ele tem tantos livros quanto eu.
+S: Ele tem livros. Eu também tenho livros.
+
+C: A cidade está tão movimentada quanto em um dia de feriado.
+S: A cidade está movimentada. A cidade em um dia de feriado também está movimentada.
+
+C: O filme é pior do que o esperado.
+S: O filme é ruim. O filme não foi como esperado.
+
+C: Ela trabalha tanto quanto o marido.
+S: Ela trabalha. O marido também trabalha.
+
+C: João estuda tanto quanto Maria.
+S: João estuda. Maria também estuda.
+
+C: O filme é tão bom quanto o livro.
+S: O filme é bom. O livro também é bom.
+
+C: Ele é tão inteligente quanto seus irmãos.
+S: Ele é inteligente. Seus irmãos também são inteligentes.
+
+C: Sua casa é maior do que a minha.
+S: Sua casa é grande. Minha casa também é grande.
+
+C: Ela corre tão rápido quanto o Usain Bolt.
+S: Ela corre rápido. O Usain Bolt também corre rápido.
+
+C: O time jogou tão bem quanto o campeão.
+S: O time jogou bem. O campeão também jogou bem.
+
+C: Ele se porta melhor do que antes.
+S: Ele se porta bem. Antes, ele não se portava bem.
+
+C: A cidade tem mais atrações turísticas do que eu esperava.
+S: A cidade tem muitas atrações turísticas. Eu não esperava tantas.
+
+C: Ele está mais cansado do que ontem.
+S: Ele está cansado. Ontem, ele não estava tão cansado.
+
+C: Ela é mais alta do que os seus amigos.
+S: Ela é alta. Seus amigos também são altos.
+
+C: O projeto foi aprovado tanto pelo governo quanto pelo congresso.
+S: O projeto foi aprovado pelo governo. O projeto também foi aprovado pelo congresso.
+
+C: Ela é tão bonita quanto inteligente.
+S: Ela é bonita. Ela também é inteligente.
+
+C: Essa tarefa é mais difícil do que parece.
+S: Essa tarefa é difícil. Ela também parece difícil.
+
+C: Ele trabalha tanto quanto estuda.
+S: Ele trabalha. Ele também estuda.
+
+C: O carro é pior do que eu imaginava.
+S: O carro é ruim. Eu também imaginava que o carro fosse ruim.
+
+C: Ele correu tanto quanto o seu irmão.
+S: Ele correu. O seu irmão também correu.
+
+C: A festa foi melhor do que esperávamos.
+S: A festa foi boa. Nós também esperávamos que a festa fosse boa.
+
+C: A empresa fatura mais do que a concorrência.
+S: A empresa fatura. A concorrência também fatura.
+
+C: Ele canta assim como a sua irmã.
+S: Ele canta. A sua irmã também canta.
+
+C: O celular é tão caro quanto o computador.
+S: O celular é caro. O computador também é caro.
+
+C: O carro é melhor que o ônibus. 
+S: O carro é melhor. O ônibus também é melhor.
+
+C: Ela corre tão rápido quanto o Usain Bolt.
+S: Ela corre rápido. Usain Bolt também corre rápido.
+
+C: O desafio é maior que a capacidade dele.
+S: O desafio é maior. A capacidade dele também é maior.
+
+C: Ele é tão inteligente quanto ela.
+S: Ele é inteligente. Ela também é inteligente.
+
+C: O cachorro late mais alto que o gato.
+S: O cachorro late alto. O gato também late alto.
+
+C: A performance do ator foi pior que a do cantor.
+S: A performance do ator foi pior. A do cantor também foi pior.
+
+C: As crianças brincam tanto quanto os adultos.
+S: As crianças brincam. Os adultos também brincam.
+
+C: Ela é tão bonita quanto a modelo famosa.
+S: Ela é bonita. A modelo famosa também é bonita.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ele corre mais rápido do que todos os outros atletas.
+S: Ele corre rápido. Todos os outros atletas também correm rápido.
+
+C: Ele trabalhou tanto quanto o colega de equipe.
+S: Ele trabalhou. O colega de equipe também trabalhou.
+
+C: Maria é tão inteligente quanto João.
+S: Maria é inteligente. João também é inteligente.
+
+C: Ela correu mais rápido que todos os outros competidores.
+S: Ela correu rápido. Os outros competidores também correram rápido.
+
+C: O filme foi pior do que eu esperava.
+S: O filme foi ruim. Eu esperava que o filme fosse ruim.
+
+C: Ele é melhor jogador de futebol do que o irmão.
+S: Ele é bom jogador de futebol. O irmão também é bom jogador de futebol.
+
+C: Ela dança tão bem quanto a professora de dança.
+S: Ela dança bem. A professora de dança também dança bem.
+
+C: O carro é tão veloz quanto um foguete.
+S: O carro é veloz. Um foguete também é veloz.
+
+C: Ele estuda tanto quanto o seu irmão.
+S: Ele estuda. O seu irmão também estuda.
+
+C: O evento foi tão emocionante quanto o show do cantor famoso.
+S: O evento foi emocionante. O show do cantor famoso também foi emocionante.
+
+C: O restaurante é tão caro quanto o mais luxuoso da cidade.
+S: O restaurante é caro. O mais luxuoso da cidade também é caro.
+
+C: Nenhuma empresa investe tanto em inovação quanto a Google.
+S: Nenhuma empresa investe em inovação. A Google também investe em inovação.
+
+C: Ela é tão inteligente quanto sua irmã mais velha.
+S: Ela é inteligente. Sua irmã mais velha também é inteligente.
+
+C: Ele correu tão rápido quanto o campeão olímpico.
+S: Ele correu rápido. O campeão olímpico também correu rápido.
+
+C: O produto é melhor que o concorrente.
+S: O produto é bom. O concorrente também é bom.
+
+C: Ele é pior que o chefe anterior.
+S: Ele é ruim. O chefe anterior também é ruim.
+
+C: Ele ganha mais dinheiro do que eu.
+S: Ele ganha dinheiro. Eu também ganho dinheiro.
+
+C: Ela é tão bonita quanto sua irmã mais nova.
+S: Ela é bonita. Sua irmã mais nova também é bonita.
+
+C: Ele é mais alto do que todos os seus amigos.
+S: Ele é alto. Todos os seus amigos também são altos.
+
+C: Eu não estudei tanto quanto você.
+S: Eu não estudei. Você também não estudou.
+
+C: Ele trabalha tanto quanto sua esposa.
+S: Ele trabalha. Sua esposa também trabalha.
+
+C: Ela corre tão rápido quanto os atletas profissionais.
+S: Ela corre rápido. Os atletas profissionais também correm rápido.
+
+C: O novo modelo é melhor que o anterior.
+S: O novo modelo é melhor. O modelo anterior também é bom.
+
+C: O time perdeu tanto quanto os seus adversários.
+S: O time perdeu. Os seus adversários também perderam.
+
+C: Ele comeu mais do que eu na festa.
+S: Ele comeu muito. Eu também comi muito.
+
+C: Ela dança tão bem quanto a bailarina principal.
+S: Ela dança bem. A bailarina principal também dança bem.
+
+C: A prova estava tão difícil quanto nós imaginávamos.
+S: A prova estava difícil. Nós também imaginávamos isso.
+
+C: O carro é tão caro quanto a casa.
+S: O carro é caro. A casa também é cara.
+
+C: O livro tem mais páginas do que eu pensava.
+S: O livro tem muitas páginas. Eu também pensava isso.
+
+C: A apresentação durou tanto quanto o espetáculo anterior.
+S: A apresentação durou muito. O espetáculo anterior também durou muito.
+
+C: A temperatura está tão baixa quanto o previsto.
+S: A temperatura está baixa. O previsto também é baixo.
+
+C: Os atletas brasileiros competem tão bem quanto os atletas estrangeiros.
+S: Os atletas brasileiros competem bem. Os atletas estrangeiros também competem bem.
+
+C: A casa dela é tão bonita quanto a minha.
+S: A casa dela é bonita. A minha também é bonita.
+
+C: Ele ganha mais dinheiro do que eu.
+S: Ele ganha dinheiro. Eu também ganho dinheiro.
+
+C: A comida do restaurante é tão saborosa quanto a do outro lugar.
+S: A comida do restaurante é saborosa. A do outro lugar também é saborosa.
+
+C: Ela corre tão rápido quanto ele.
+S: Ela corre rápido. Ele também corre rápido.
+
+C: Esse filme é tão interessante quanto o último que assisti.
+S: Esse filme é interessante. O último que assisti também é interessante.
+
+C: Ele é tão inteligente quanto o irmão mais velho.
+S: Ele é inteligente. O irmão mais velho também é inteligente.
+
+C: Ela trabalha tanto quanto ele.
+S: Ela trabalha. Ele também trabalha.
+
+C: A cidade é tão movimentada quanto a capital.
+S: A cidade é movimentada. A capital também é movimentada.
+
+C: O time jogou tão bem quanto o adversário.
+S: O time jogou bem. O adversário também jogou bem.
+
+C: Ele estudou tanto quanto ela para a prova.
+S: Ele estudou para a prova. Ela também estudou para a prova.
+
+C: O prato estava tão gostoso quanto o outro que provei.
+S: O prato estava gostoso. O outro prato que provei também estava gostoso.
+
+C: Ela correu mais rápido que o seu irmão.
+S: Ela correu rápido. O seu irmão também correu rápido.
+
+C: Ele se sente pior do que antes.
+S: Ele se sente mal. Antes também se sentia mal.
+
+C: Ele é tão inteligente quanto os outros alunos da turma.
+S: Ele é inteligente. Os outros alunos da turma também são inteligentes.
+
+C: Ela é melhor cantora do que atriz.
+S: Ela é cantora. Ela também é atriz.
+
+C: Essa casa é maior que a outra que visitei.
+S: Essa casa é grande. A outra casa que visitei também era grande.
+
+C: Ele se comportou assim como todos os outros convidados.
+S: Ele se comportou. Todos os outros convidados também se comportaram.
+
+C: O evento foi um sucesso tanto quanto esperávamos.
+S: O evento foi um sucesso. Nós também esperávamos que fosse um sucesso.
+
+C: O carro é mais caro do que o anterior.
+S: O carro é caro. O anterior também era caro.
+
+C: Ela estudou tanto para as provas quanto seu amigo.
+S: Ela estudou para as provas. Seu amigo também estudou.
+
+C: O carro era mais caro que o apartamento.
+S: O carro era caro. O apartamento também era caro.
+
+C: O novo produto é melhor que o antigo.
+S: O novo produto é bom. O antigo também é bom.
+
+C: Ele tem mais experiência do que os outros candidatos.
+S: Ele tem experiência. Os outros candidatos também têm experiência.
+
+C: O restaurante serve tanto comida italiana quanto comida japonesa.
+S: O restaurante serve comida italiana. O restaurante também serve comida japonesa.
+
+C: A montanha é maior que o vale.
+S: A montanha é grande. O vale também é grande.
+
+C: Ele joga tanto futebol quanto basquete.
+S: Ele joga futebol. Ele também joga basquete.
+
+C: Ele tem mais dinheiro do que a maioria das pessoas.
+S: Ele tem dinheiro. A maioria das pessoas também tem dinheiro.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: A viagem foi melhor do que eu esperava.
+S: A viagem foi boa. Eu não esperava tanto.
+
+C: O time de futebol jogou tão bem quanto os seus adversários.
+S: O time de futebol jogou bem. Os seus adversários também jogaram bem.
+
+C: A comida no restaurante era melhor do que a comida caseira.
+S: A comida no restaurante era boa. A comida caseira também era boa.
+
+C: Ela corre tão rápido quanto o seu irmão.
+S: Ela corre rápido. O seu irmão também corre rápido.
+
+C: O carro tem tantos problemas quanto o carro do meu vizinho.
+S: O carro tem problemas. O carro do meu vizinho também tem problemas.
+
+C: A casa é tão grande quanto a casa dos meus pais.
+S: A casa é grande. A casa dos meus pais também é grande.
+
+C: O livro é tão interessante quanto o livro que eu li ontem.
+S: O livro é interessante. O livro que eu li ontem também é interessante.
+
+C: O filme era pior do que eu esperava.
+S: O filme era ruim. Eu esperava melhor.
+
+C: Ele é tão inteligente quanto a sua irmã.
+S: Ele é inteligente. A sua irmã também é inteligente.
+
+C: A prova foi tão difícil quanto eu imaginava.
+S: A prova foi difícil. Eu imaginava que seria mais fácil.
+
+C: A viagem foi tão longa quanto eu previa.
+S: A viagem foi longa. Eu previa que seria mais curta.
+
+C: O filme foi tão emocionante quanto esperávamos. 
+S: O filme foi emocionante. Esperávamos isso também. 
+
+C: Ela não canta tão bem quanto a sua irmã. 
+S: Ela não canta bem. A sua irmã também não canta. 
+
+C: O carro é tão caro quanto o apartamento. 
+S: O carro é caro. O apartamento também é caro. 
+
+C: Ele estuda tanto quanto trabalha. 
+S: Ele estuda. Ele também trabalha. 
+
+C: A comida é tão gostosa quanto a do restaurante famoso. 
+S: A comida é gostosa. A do restaurante famoso também é gostosa. 
+
+C: Ela é tão inteligente quanto bonita. 
+S: Ela é inteligente. Ela também é bonita. 
+
+C: O time jogou melhor do que o adversário. 
+S: O time jogou bem. O adversário também jogou. 
+
+C: Eles ganharam mais prêmios do que os concorrentes. 
+S: Eles ganharam prêmios. Os concorrentes também ganharam. 
+
+C: O parque é maior do que eu imaginava. 
+S: O parque é grande. Eu imaginava isso também. 
+
+C: Ela tem mais livros do que ele. 
+S: Ela tem livros. Ele também tem livros.
+
+C: O desempenho da equipe foi tão bom quanto o esperado.
+S: O desempenho da equipe foi bom. O desempenho da equipe foi o esperado também.
+
+C: Ela corre tão rápido quanto o seu irmão.
+S: Ela corre rápido. Ela corre como o seu irmão também.
+
+C: Essa marca de celular é melhor do que as outras.
+S: Essa marca de celular é boa. Essa marca de celular é melhor do que as outras também.
+
+C: O tamanho do livro é maior do que eu imaginava.
+S: O tamanho do livro é grande. O tamanho do livro é maior do que eu imaginava também.
+
+C: Ele se vestia tão bem quanto os outros convidados.
+S: Ele se vestia bem. Ele se vestia como os outros convidados também.
+
+C: Ele falava tão alto quanto o professor.
+S: Ele falava alto. Ele falava como o professor também.
+
+C: A temperatura do ambiente é tão agradável quanto a do ar condicionado.
+S: A temperatura do ambiente é agradável. A temperatura do ambiente é como a do ar condicionado também.
+
+C: Ela dança tão bem quanto a professora.
+S: Ela dança bem. Ela dança como a professora também.
+
+C: Ela estuda tanto quanto os outros alunos.
+S: Ela estuda. Ela estuda como os outros alunos também.
+
+C: O trabalho deles foi tão elogiado quanto o dos outros.
+S: O trabalho deles foi elogiado. O trabalho deles foi elogiado como o dos outros também.
+
+C: Ela estudou tanto quanto o seu irmão para a prova.
+S: Ela estudou. O seu irmão também estudou para a prova.
+
+C: A casa é maior que a do vizinho.
+S: A casa é maior. A do vizinho também é maior.
+
+C: Ele se veste melhor do que os colegas de trabalho.
+S: Ele se veste melhor. Os colegas de trabalho também se vestem melhor.
+
+C: Ele corre tão rápido quanto o atleta famoso.
+S: Ele corre tão rápido. O atleta famoso também corre tão rápido.
+
+C: Ela é pior do que a irmã nas matérias de ciências.
+S: Ela é pior. A irmã também é pior nas matérias de ciências.
+
+C: Ele caminha assim como o avô fazia.
+S: Ele caminha. O avô também caminhava.
+
+C: Ela canta tão bem quanto a professora de música.
+S: Ela canta tão bem. A professora de música também canta tão bem.
+
+C: O carro é tão caro quanto o da sua amiga.
+S: O carro é tão caro. O da sua amiga também é tão caro.
+
+C: Ele fala tanto como o apresentador famoso.
+S: Ele fala tanto. O apresentador famoso também fala tanto.
+
+C: Ela é tão talentosa quanto a cantora famosa.
+S: Ela é tão talentosa. A cantora famosa também é tão talentosa.
+
+C: Ela estuda tanto quanto eu.
+S: Ela estuda. Eu também estudo.
+
+C: O desempenho da equipe foi pior do que o esperado.
+S: O desempenho da equipe foi ruim. Não foi o esperado.
+
+C: Ele age assim como um líder.
+S: Ele age como um líder. 
+
+C: A música é melhor do que o filme.
+S: A música é boa. O filme não é.
+
+C: Ela é tão bonita quanto a irmã.
+S: Ela é bonita. A irmã também é.
+
+C: Eles jogam tanto quanto os profissionais.
+S: Eles jogam. Os profissionais também jogam.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é.
+
+C: O festival foi tão animado quanto o show.
+S: O festival foi animado. O show também.
+
+C: A cidade é maior do que eu pensava.
+S: A cidade é grande. Eu não pensava assim.
+
+C: Ele trabalha tanto quanto ele estuda.
+S: Ele trabalha. Ele também estuda.
+
+C: Ela estuda tanto quanto o irmão.
+S: Ela estuda. O irmão também estuda.
+
+C: Ele é melhor jogador de futebol do time, assim como o seu irmão.
+S: Ele é o melhor jogador de futebol do time. O seu irmão também é o melhor jogador de futebol do time.
+
+C: O cachorro latiu mais alto que o gato.
+S: O cachorro latiu alto. O gato também latiu alto.
+
+C: Ela fala tão rápido quanto o professor.
+S: Ela fala rápido. O professor também fala rápido.
+
+C: Ele é maior que seus colegas.
+S: Ele é grande. Seus colegas também são grandes.
+
+C: O time jogou pior que o adversário.
+S: O time jogou mal. O adversário também jogou mal.
+
+C: Ele tem tanto dinheiro quanto o seu irmão.
+S: Ele tem dinheiro. O seu irmão também tem dinheiro.
+
+C: Ela correu tão rápido quanto o atleta olímpico.
+S: Ela correu rápido. O atleta olímpico também correu rápido.
+
+C: Ele fala assim como o professor.
+S: Ele fala. O professor também fala.
+
+C: Ela estuda tanto como o irmão.
+S: Ela estuda. O irmão também estuda.
+
+C: Ela corre tão rápido quanto o vento.
+S: Ela corre rápido. O vento também corre rápido.
+
+C: Ele gasta mais dinheiro do que eu.
+S: Ele gasta mais dinheiro. Eu também gasto mais dinheiro.
+
+C: A comida está melhor do que ontem.
+S: A comida está melhor. Ontem também estava melhor.
+
+C: Ela é tão inteligente quanto sua irmã.
+S: Ela é inteligente. Sua irmã também é inteligente.
+
+C: O filme é pior do que eu esperava.
+S: O filme é pior. Eu também esperava pior.
+
+C: Ele trabalha tanto quanto eu.
+S: Ele trabalha muito. Eu também trabalho muito.
+
+C: Ela canta tão bem quanto a cantora famosa.
+S: Ela canta bem. A cantora famosa também canta bem.
+
+C: Ele é tão alto quanto seu irmão mais velho.
+S: Ele é alto. Seu irmão mais velho também é alto.
+
+C: Ele tem tanto dinheiro quanto o empresário famoso.
+S: Ele tem dinheiro. O empresário famoso também tem dinheiro.
+
+C: O carro é maior do que eu imaginava.
+S: O carro é maior. Eu também imaginava maior.
+
+C: O país enfrenta uma crise econômica, assim como muitos outros países ao redor do mundo.
+S: O país enfrenta uma crise econômica. Muitos outros países ao redor do mundo também enfrentam.
+
+C: A empresa investiu em tecnologia tanto quanto investiu em treinamento para os funcionários.
+S: A empresa investiu em tecnologia. A empresa também investiu em treinamento para os funcionários.
+
+C: O produto é tão bom quanto o concorrente.
+S: O produto é bom. O concorrente também é bom.
+
+C: Ele é pior do que eu pensava.
+S: Ele é pior. Eu pensava que ele era melhor.
+
+C: Ela é mais inteligente que o irmão.
+S: Ela é inteligente. O irmão também é inteligente.
+
+C: Assim como o pai, o filho também gosta de música.
+S: O pai gosta de música. O filho também gosta de música.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: O time joga tanto dentro como fora de casa.
+S: O time joga dentro de casa. O time também joga fora de casa.
+
+C: A festa foi melhor do que eu esperava.
+S: A festa foi boa. Eu esperava que fosse pior.
+
+C: Ele é tão dedicado ao trabalho quanto ao estudo.
+S: Ele é dedicado ao trabalho. Ele também é dedicado ao estudo.
+
+C: O jogador marcou tantos gols quanto o artilheiro do campeonato.
+S: O jogador marcou gols. O artilheiro do campeonato também marcou.
+
+C: Os alunos estudaram mais que o professor esperava.
+S: Os alunos estudaram. O professor não esperava que eles estudassem tanto.
+
+C: O filme foi tão bom quanto eu esperava.
+S: O filme foi bom. Eu esperava que ele fosse bom.
+
+C: Ela se veste tão bem quanto a modelo famosa.
+S: Ela se veste bem. A modelo famosa também se veste bem.
+
+C: Ele trabalha tanto quanto o colega dele.
+S: Ele trabalha. O colega dele também trabalha.
+
+C: A casa é melhor que eu imaginava.
+S: A casa é boa. Eu não imaginava que ela fosse boa.
+
+C: O carro é pior que eu pensava.
+S: O carro é ruim. Eu não pensava que ele fosse ruim.
+
+C: Ela é mais inteligente que todos os seus colegas de classe.
+S: Ela é inteligente. Todos os seus colegas de classe também são inteligentes.
+
+C: Ele é tão alto quanto seu irmão mais velho.
+S: Ele é alto. Seu irmão mais velho também é alto.
+
+C: A banda tocou tão mal quanto nos ensaios.
+S: A banda tocou mal. Nos ensaios, eles também tocaram mal.
+
+C: O time de futebol venceu o jogo, assim como o time adversário.
+S: O time de futebol venceu o jogo. O time adversário também venceu.
+
+C: Ela estudou tanto para a prova quanto para a apresentação.
+S: Ela estudou para a prova. Ela também estudou para a apresentação.
+
+C: Ele gosta tanto de doces quanto de salgados.
+S: Ele gosta de doces. Ele também gosta de salgados.
+
+C: A cidade está cada vez mais populosa, assim como outras grandes metrópoles.
+S: A cidade está cada vez mais populosa. Outras grandes metrópoles também estão.
+
+C: O filme recebeu tantos prêmios quanto críticas positivas.
+S: O filme recebeu prêmios. O filme também recebeu críticas positivas.
+
+C: Ela se esforça tanto nos estudos quanto nas atividades extracurriculares.
+S: Ela se esforça nos estudos. Ela também se esforça nas atividades extracurriculares.
+
+C: O restaurante oferece tanto opções vegetarianas quanto opções veganas.
+S: O restaurante oferece opções vegetarianas. O restaurante também oferece opções veganas.
+
+C: Ele trabalha tanto durante a semana quanto nos finais de semana.
+S: Ele trabalha durante a semana. Ele também trabalha nos finais de semana.
+
+C: A empresa tem tanto clientes nacionais quanto clientes internacionais.
+S: A empresa tem clientes nacionais. A empresa também tem clientes internacionais.
+
+C: Ela é tão inteligente quanto dedicada.
+S: Ela é inteligente. Ela também é dedicada.
+
+C: Ela estudou tanto quanto o seu irmão para o exame.
+S: Ela estudou para o exame. O seu irmão também estudou.
+
+C: O carro é melhor do que o ônibus para se locomover na cidade.
+S: O carro é bom para se locomover na cidade. O ônibus também é bom.
+
+C: O salário dele é maior do que o meu.
+S: O salário dele é alto. O meu também é alto.
+
+C: Ele corre tão rápido quanto o Usain Bolt.
+S: Ele corre rápido. O Usain Bolt também corre rápido.
+
+C: Você deve agir assim como eu agi na mesma situação.
+S: Você deve agir na mesma situação. Eu também agi assim.
+
+C: Ela ganhou tanto dinheiro quanto o marido.
+S: Ela ganhou dinheiro. O marido também ganhou.
+
+C: A professora explicou tão bem quanto o professor.
+S: A professora explicou bem. O professor também explicou bem.
+
+C: O filme é pior do que o livro.
+S: O filme é ruim. O livro também é ruim.
+
+C: Ele fala tanto inglês quanto espanhol.
+S: Ele fala inglês. Ele também fala espanhol.
+
+C: Ele se veste tão bem quanto a modelo.
+S: Ele se veste bem. A modelo também se veste bem.
+
+C: O carro é mais rápido do que o ônibus.
+S: O carro é mais rápido. O ônibus também é mais rápido.
+
+C: Ela estuda tanto para o vestibular quanto para o Enem.
+S: Ela estuda para o vestibular. Ela também estuda para o Enem.
+
+C: Ele é melhor em matemática do que em português.
+S: Ele é melhor em matemática. Ele também é melhor em português.
+
+C: O time jogou pior do que o adversário.
+S: O time jogou pior. O adversário também jogou pior.
+
+C: O gato é tão fofo quanto o cachorro.
+S: O gato é tão fofo. O cachorro também é tão fofo.
+
+C: O filme foi tão emocionante que fez as pessoas chorarem.
+S: O filme foi emocionante. Fez as pessoas chorarem também.
+
+C: O restaurante tem tanto comida brasileira quanto japonesa.
+S: O restaurante tem comida brasileira. Tem comida japonesa também.
+
+C: A festa foi tão divertida que todos se divertiram.
+S: A festa foi divertida. Todos se divertiram também.
+
+C: O livro é maior do que o caderno.
+S: O livro é maior. O caderno também é maior.
+
+C: A comida é tão deliciosa quanto a sobremesa.
+S: A comida é tão deliciosa. A sobremesa também é tão deliciosa.
+
+C: Ele estudou tanto quanto os colegas.
+S: Ele estudou. Os colegas também estudaram.
+
+C: O time ganhou mais jogos do que os outros times.
+S: O time ganhou mais jogos. Os outros times também ganharam.
+
+C: Ela trabalha melhor que eu.
+S: Ela trabalha melhor. Eu também trabalho.
+
+C: O carro é mais caro do que o meu.
+S: O carro é mais caro. O meu também é caro.
+
+C: Ele corre tão rápido quanto o Usain Bolt.
+S: Ele corre tão rápido. O Usain Bolt também corre.
+
+C: A festa foi tão animada quanto a do ano passado.
+S: A festa foi tão animada. A do ano passado também foi animada.
+
+C: Ela se saiu pior do que os outros candidatos na prova.
+S: Ela se saiu pior. Os outros candidatos também se saíram.
+
+C: Eles têm tantos fãs quanto a banda famosa.
+S: Eles têm tantos fãs. A banda famosa também tem.
+
+C: A empresa possui mais filiais do que a concorrente.
+S: A empresa possui mais filiais. A concorrente também possui.
+
+C: O governo investe tanto em saúde quanto em educação.
+S: O governo investe tanto em saúde. O governo também investe em educação.
+
+C: O time de futebol jogou tão bem quanto o adversário.
+S: O time de futebol jogou bem. O adversário também jogou bem.
+
+C: O restaurante oferece tanto em ambiente quanto em cardápio.
+S: O restaurante oferece em ambiente. O restaurante também oferece em cardápio.
+
+C: A empresa vende tanto produtos físicos quanto serviços digitais.
+S: A empresa vende produtos físicos. A empresa também vende serviços digitais.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: Ele é tão dedicado quanto talentoso.
+S: Ele é dedicado. Ele também é talentoso.
+
+C: O smartphone tem tanto memória interna quanto espaço para cartão de memória.
+S: O smartphone tem memória interna. O smartphone também tem espaço para cartão de memória.
+
+C: O livro é tão interessante quanto educativo.
+S: O livro é interessante. O livro também é educativo.
+
+C: Ele é tão rápido quanto preciso.
+S: Ele é rápido. Ele também é preciso.
+
+C: O filme é tão emocionante quanto divertido.
+S: O filme é emocionante. O filme também é divertido.
+
+C: O carro tem tanto motor potente quanto boa economia de combustível.
+S: O carro tem motor potente. O carro também tem boa economia de combustível.
+
+C: Ele se saiu melhor na prova do que todos os outros estudantes.
+S: Ele se saiu melhor na prova. Todos os outros estudantes também não se saíram bem na prova.
+
+C: A empresa investiu tanto em publicidade quanto em pesquisa.
+S: A empresa investiu em publicidade. A empresa também investiu em pesquisa.
+
+C: O carro é tão rápido quanto o modelo anterior.
+S: O carro é rápido. O modelo anterior também é rápido.
+
+C: Ela foi mais eficiente no trabalho do que o colega.
+S: Ela foi eficiente no trabalho. O colega também não foi eficiente no trabalho.
+
+C: Eles têm mais experiência nessa área do que eu.
+S: Eles têm experiência nessa área. Eu também não tenho experiência nessa área.
+
+C: O livro é melhor do que o filme.
+S: O livro é bom. O filme também não é bom.
+
+C: Ele é mais alto do que suas irmãs.
+S: Ele é alto. Suas irmãs também não são altas.
+
+C: Ela se expressa tão bem em público quanto o professor.
+S: Ela se expressa bem em público. O professor também se expressa bem em público.
+
+C: O time jogou pior do que na última partida.
+S: O time jogou mal. Na última partida, o time também jogou mal.
+
+C: A comida estava tão deliciosa quanto no restaurante famoso.
+S: A comida estava deliciosa. No restaurante famoso, a comida também estava deliciosa.
+
+C: O produto é tão caro quanto o da concorrência.
+S: O produto é caro. O da concorrência também é caro.
+
+C: Ela é melhor que a maioria dos jogadores do time.
+S: Ela é melhor. A maioria dos jogadores do time também é melhor.
+
+C: Ele correu mais rápido do que os outros competidores.
+S: Ele correu rápido. Os outros competidores também correram rápido.
+
+C: A prova foi mais difícil do que eu esperava.
+S: A prova foi difícil. Eu não a esperava tão difícil.
+
+C: O prazo de entrega é o mesmo tanto para clientes internos quanto para clientes externos.
+S: O prazo de entrega é o mesmo. Tanto os clientes internos quanto os clientes externos têm o mesmo prazo de entrega.
+
+C: Ele é tão inteligente quanto seus colegas de classe.
+S: Ele é inteligente. Seus colegas de classe também são inteligentes.
+
+C: Ela trabalha tanto quanto seu marido.
+S: Ela trabalha muito. Seu marido também trabalha muito.
+
+C: O filme foi tão assustador quanto eu imaginava.
+S: O filme foi assustador. Eu o imaginava tão assustador.
+
+C: A comida estava tão deliciosa quanto eu esperava.
+S: A comida estava deliciosa. Eu a esperava tão deliciosa.
+
+C: Essa cidade é pior do que eu imaginava.
+S: Essa cidade é ruim. Eu a imaginava tão ruim.
+
+C: Ele estuda tanto quanto ela. 
+S: Ele estuda também. 
+
+C: Marta corre melhor que João. 
+S: Marta corre melhor. 
+
+C: O gato é tão preguiçoso quanto o cachorro. 
+S: O gato é preguiçoso. 
+
+C: Ele trabalha mais do que descansa. 
+S: Ele trabalha mais. 
+
+C: A casa é tão grande quanto a mansão. 
+S: A casa é grande. 
+
+C: O filme é melhor que o livro. 
+S: O filme é melhor. 
+
+C: Ela fala assim como a mãe. 
+S: Ela fala como a mãe. 
+
+C: O bolo ficou tão bom quanto o doce. 
+S: O bolo ficou bom. 
+
+C: Eles viajaram tanto que ficaram cansados. 
+S: Eles viajaram e ficaram cansados. 
+
+C: A música é tão boa quanto a letra. 
+S: A música é boa.
+
+C: Ela corre tão rápido quanto o atleta olímpico.
+S: Ela corre rápido. O atleta olímpico também corre rápido.
+
+C: O carro dela é melhor que o meu.
+S: O carro dela é bom. O meu também é bom.
+
+C: Ele estuda tanto quanto ela.
+S: Ele estuda. Ela também estuda.
+
+C: A comida está melhor que antes.
+S: A comida está boa. Antes também estava boa.
+
+C: Ele caminha assim como o pai.
+S: Ele caminha. O pai também caminha.
+
+C: Ela é tão inteligente quanto a irmã.
+S: Ela é inteligente. A irmã também é inteligente.
+
+C: Ele fala tanto quanto ela.
+S: Ele fala. Ela também fala.
+
+C: Ele trabalha tanto quanto o chefe.
+S: Ele trabalha. O chefe também trabalha.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ele se preocupa assim como a mãe.
+S: Ele se preocupa. A mãe também se preocupa.
+
+C: Ele está tão cansado quanto eu.
+S: Ele está cansado. Eu também estou cansado.
+
+C: Essa cidade é pior do que eu imaginava.
+S: Essa cidade é ruim. Eu não imaginava que seria ruim.
+
+C: Ela é mais inteligente do que eu pensava.
+S: Ela é inteligente. Eu não pensava que ela fosse inteligente.
+
+C: Ele é maior que todos os seus irmãos.
+S: Ele é grande. Todos os seus irmãos também são grandes.
+
+C: Ele corre tão rápido quanto um raio.
+S: Ele corre rápido. Um raio também corre rápido.
+
+C: O time jogou melhor do que esperávamos.
+S: O time jogou bem. Nós não esperávamos que eles jogassem bem.
+
+C: A empresa investiu tanto em marketing quanto em pesquisa.
+S: A empresa investiu em marketing. A empresa também investiu em pesquisa.
+
+C: Ela arrumou o quarto assim como pedimos.
+S: Ela arrumou o quarto. Nós pedimos para ela arrumar o quarto.
+
+C: Ele falou tão alto quanto um trovão.
+S: Ele falou alto. Um trovão também fala alto.
+
+C: Ele comeu tanto quanto um leão faminto.
+S: Ele comeu muito. Um leão faminto também come muito.
+
+C: Ela se comporta da mesma forma que seu irmão mais velho.
+S: Ela se comporta da mesma forma. Seu irmão mais velho também se comporta assim.
+
+C: O preço do imóvel era tão alto quanto o de uma mansão.
+S: O preço do imóvel era alto. O preço de uma mansão também era alto.
+
+C: Ele é pior jogador de futebol que eu conheço.
+S: Ele é um jogador de futebol ruim. Eu conheço um jogador de futebol pior que ele.
+
+C: Eles são melhores alunos que os colegas de sala.
+S: Eles são alunos melhores. Os colegas de sala também são alunos bons.
+
+C: Esse filme é maior sucesso de bilheteria que eu já vi.
+S: Esse filme é um sucesso de bilheteria. Eu já vi um sucesso de bilheteria maior que esse.
+
+C: Ele é tão inteligente quanto sua irmã.
+S: Ele é inteligente. Sua irmã também é inteligente.
+
+C: Eu quero assim como ele um novo emprego.
+S: Eu quero um novo emprego. Ele também quer um novo emprego.
+
+C: Nós compramos tanto comida quanto bebida para a festa.
+S: Nós compramos comida. Nós também compramos bebida para a festa.
+
+C: A cidade está se modernizando tanto quanto as grandes metrópoles.
+S: A cidade está se modernizando. As grandes metrópoles também estão se modernizando.
+
+C: Ele cuida da saúde assim como cuida da aparência física.
+S: Ele cuida da saúde. Ele também cuida da aparência física.
+
+C: Ele se saiu tão bem quanto os outros competidores.
+S: Ele se saiu bem. Os outros competidores também se saíram bem.
+
+C: A casa é maior que a do meu vizinho.
+S: A casa é maior. A casa do meu vizinho também é maior.
+
+C: Ela está assim como o resto da equipe.
+S: Ela está. O resto da equipe também está.
+
+C: O projeto foi pior que o esperado.
+S: O projeto foi pior. O projeto foi pior do que o esperado.
+
+C: Ele gosta tanto de chocolate quanto de sorvete.
+S: Ele gosta de chocolate. Ele também gosta de sorvete.
+
+C: Juliana estuda tanto quanto seu irmão.
+S: Juliana estuda. Seu irmão também estuda.
+
+C: A empresa investe tanto em marketing quanto em pesquisa.
+S: A empresa investe em marketing. A empresa também investe em pesquisa.
+
+C: Ela corre tão rápido quanto o seu irmão.
+S: Ela corre rápido. Seu irmão também corre rápido.
+
+C: João tem tanto dinheiro quanto seu pai.
+S: João tem dinheiro. Seu pai também tem dinheiro.
+
+C: Ele é tão inteligente quanto o professor.
+S: Ele é inteligente. O professor também é inteligente.
+
+C: Marcela é tão inteligente quanto seu irmão mais velho.
+S: Marcela é inteligente. Seu irmão mais velho também é inteligente.
+
+C: Ele correu mais rápido que todos os outros competidores.
+S: Ele correu rápido. Todos os outros competidores também correram rápido.
+
+C: O restaurante serve comida tão deliciosa quanto o restaurante da esquina.
+S: O restaurante serve comida deliciosa. O restaurante da esquina também serve comida deliciosa.
+
+C: Carolina dança melhor que qualquer outra pessoa da turma.
+S: Carolina dança bem. Nenhuma outra pessoa da turma dança tão bem.
+
+C: O filme é pior do que a crítica havia previsto.
+S: O filme é ruim. A crítica não havia previsto um filme tão ruim.
+
+C: Ela se vestia tão bem quanto as modelos famosas.
+S: Ela se vestia bem. As modelos famosas também se vestem bem.
+
+C: Meu jantar foi tão delicioso quanto o dele.
+S: Meu jantar foi delicioso. O jantar dele também foi delicioso.
+
+C: A casa é maior do que aparenta ser.
+S: A casa é grande. Ela aparenta ser pequena, mas na verdade é grande.
+
+C: O carro é tão caro quanto um apartamento.
+S: O carro é caro. Um apartamento também é caro.
+
+C: Ele estudou tanto quanto pôde para a prova.
+S: Ele estudou muito. Ele fez o máximo que podia para se preparar para a prova.
+
+C: Ele fez o trabalho tão rápido quanto eu.
+S: Ele fez o trabalho rápido. Eu também fiz o trabalho rápido.
+
+C: Ela é melhor atriz do que eu.
+S: Ela é uma melhor atriz. Eu também sou uma atriz.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Eles jogam futebol tão bem quanto os profissionais.
+S: Eles jogam futebol bem. Os profissionais também jogam futebol bem.
+
+C: Ele dança tão bem como um profissional.
+S: Ele dança bem. Um profissional também dança bem.
+
+C: O carro é pior do que aparenta.
+S: O carro é ruim. Ele aparenta ser ruim.
+
+C: Ele estudou tanto quanto os outros alunos.
+S: Ele estudou muito. Os outros alunos também estudaram muito.
+
+C: Ela cozinha tão bem quanto a mãe.
+S: Ela cozinha bem. A mãe também cozinha bem.
+
+C: O quarto é tão grande quanto o da minha casa.
+S: O quarto é grande. O da minha casa também é grande.
+
+C: Ele corre tão rápido quanto um atleta profissional.
+S: Ele corre rápido. Um atleta profissional também corre rápido.
+
+C: O jogador de futebol marcou tantos gols quanto o artilheiro do campeonato. 
+S: O jogador de futebol marcou gols. O artilheiro do campeonato também marcou gols.
+
+C: A casa é maior que o apartamento. 
+S: A casa é maior. O apartamento também é maior.
+
+C: Ela é tão inteligente quanto o seu irmão. 
+S: Ela é inteligente. O seu irmão também é inteligente.
+
+C: O carro é melhor que a bicicleta. 
+S: O carro é melhor. A bicicleta também é melhor.
+
+C: Ele é pior que o chefe anterior. 
+S: Ele é pior. O chefe anterior também é pior.
+
+C: A festa foi tão animada quanto o show. 
+S: A festa foi animada. O show também foi animado.
+
+C: Ela estudou tanto quanto os outros alunos. 
+S: Ela estudou. Os outros alunos também estudaram.
+
+C: A equipe jogou tão bem quanto os campeões. 
+S: A equipe jogou bem. Os campeões também jogaram bem.
+
+C: A rua é mais movimentada que a praça. 
+S: A rua é mais movimentada. A praça também é mais movimentada.
+
+C: Ele corre tão rápido quanto o campeão. 
+S: Ele corre rápido. O campeão também corre rápido.
+
+C: João é tão inteligente quanto sua irmã.
+S: João é inteligente. Sua irmã também é inteligente.
+
+C: Ela cantou melhor que as outras concorrentes.
+S: Ela cantou bem. As outras concorrentes também cantaram bem.
+
+C: O time jogou pior do que o esperado.
+S: O time jogou mal. O resultado foi pior do que o esperado.
+
+C: Ele trabalhou tanto quanto os outros funcionários.
+S: Ele trabalhou muito. Os outros funcionários também trabalharam muito.
+
+C: Pedro é maior que seu irmão mais novo.
+S: Pedro é grande. Seu irmão mais novo também é grande.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ela correu assim como os outros atletas.
+S: Ela correu. Os outros atletas também correram.
+
+C: Essa escola investe tanto em tecnologia quanto em esportes.
+S: Essa escola investe em tecnologia. Ela também investe em esportes.
+
+C: Ele canta tão bem quanto sua mãe.
+S: Ele canta bem. Sua mãe também canta bem.
+
+C: O carro é melhor do que o anterior.
+S: O carro é bom. O anterior também é bom.
+
+C: Comemos tanto no jantar quanto no almoço.
+S: Comemos no jantar. Comemos também no almoço.
+
+C: Ele é tão inteligente quanto seu irmão.
+S: Ele é inteligente. Seu irmão também é inteligente.
+
+C: Ela corre melhor que eu.
+S: Ela corre. Eu também corro.
+
+C: O filme é pior do que eu esperava.
+S: O filme é. Eu esperava também.
+
+C: Ela cantou tão bem quanto a cantora famosa.
+S: Ela cantou bem. A cantora famosa também cantou bem.
+
+C: Os alunos estudaram tanto para a prova quanto para o exame.
+S: Os alunos estudaram para a prova. Os alunos também estudaram para o exame.
+
+C: Ele compra mais livros do que filmes.
+S: Ele compra livros. Ele também compra filmes.
+
+C: O carro é maior que o meu.
+S: O carro é. O meu também é.
+
+C: Ele se veste assim como o pai.
+S: Ele se veste. O pai também se veste assim.
+
+C: Eles são assim como os seus pais.
+S: Eles são. Os seus pais também são assim.
+
+C: Ela trabalha tanto quanto o seu marido.
+S: Ela trabalha. O seu marido também trabalha.
+
+C: O meu time jogou melhor do que o time adversário.
+S: O meu time jogou. O time adversário não jogou tão bem.
+
+C: Ela foi tão gentil quanto a sua irmã.
+S: Ela foi gentil. A sua irmã também foi gentil.
+
+C: Ele é pior que o seu irmão.
+S: Ele é ruim. O seu irmão também é ruim.
+
+C: A prova foi tão difícil quanto eu esperava.
+S: A prova foi difícil. Eu esperava que a prova fosse difícil.
+
+C: Ele ganhou mais dinheiro do que eu.
+S: Ele ganhou dinheiro. Eu também ganhei dinheiro.
+
+C: Ela é tão inteligente quanto a sua mãe.
+S: Ela é inteligente. A sua mãe também é inteligente.
+
+C: Ele é maior que o seu irmão.
+S: Ele é grande. O seu irmão também é grande.
+
+C: Ela cantou tão bem quanto a sua irmã.
+S: Ela cantou bem. A sua irmã também cantou bem.
+
+C: Ele correu mais rápido do que os outros atletas.
+S: Ele correu rápido. Os outros atletas não correram tão rápido.
+
+C: A empresa investiu em novas tecnologias, assim como as suas concorrentes também investiram.
+S: A empresa investiu em novas tecnologias. As suas concorrentes também investiram.
+
+C: Ele escreveu o livro tão rapidamente quanto o seu irmão.
+S: Ele escreveu o livro rapidamente. O seu irmão também escreveu.
+
+C: O professor explicou o assunto tão claramente quanto o livro.
+S: O professor explicou o assunto claramente. O livro também explica.
+
+C: Ela ganhou mais prêmios do que o seu colega de trabalho.
+S: Ela ganhou mais prêmios. O seu colega de trabalho também ganhou.
+
+C: O filme foi tão emocionante quanto a peça de teatro.
+S: O filme foi emocionante. A peça de teatro também foi.
+
+C: O clima na cidade está cada vez pior do que no ano passado.
+S: O clima na cidade está piorando. No ano passado também estava.
+
+C: Ela trabalha tantas horas quanto o seu colega.
+S: Ela trabalha muitas horas. O seu colega também trabalha.
+
+C: O preço do carro é maior do que o valor de mercado.
+S: O preço do carro é alto. O valor de mercado também é.
+
+C: Ele se veste tão bem quanto o seu amigo.
+S: Ele se veste bem. O seu amigo também se veste.
+
+C: O desempenho da equipe é melhor do que no ano passado.
+S: O desempenho da equipe melhorou. No ano passado também estava bom.
+
+C: A equipe de futebol jogou tão bem quanto os seus adversários.
+S: A equipe de futebol jogou bem. Os seus adversários também jogaram bem.
+
+C: O mercado de ações está pior do que nunca.
+S: O mercado de ações está péssimo. Nunca esteve tão ruim.
+
+C: Ela falava tão rápido quanto o apresentador do programa.
+S: Ela falava rápido. O apresentador do programa também falava rápido.
+
+C: João é melhor jogador de futebol do que Pedro.
+S: João é um ótimo jogador de futebol. Pedro também é um bom jogador de futebol.
+
+C: O carro é maior do que o caminhão.
+S: O carro é grande. O caminhão também é grande.
+
+C: Ele corre tanto quanto um atleta profissional.
+S: Ele corre muito. Um atleta profissional também corre muito.
+
+C: O clima aqui é assim como o do litoral.
+S: O clima aqui é parecido. O clima do litoral também é parecido.
+
+C: Ela trabalha tanto quanto o chefe.
+S: Ela trabalha bastante. O chefe também trabalha bastante.
+
+C: Estudar assim é tão eficiente quanto ir à aula presencial.
+S: Estudar assim é eficiente. Ir à aula presencial também é eficiente.
+
+C: Ele se dedica tanto aos estudos quanto aos treinos.
+S: Ele se dedica muito aos estudos. Ele também se dedica muito aos treinos.
+
+C: Ele estudou tanto quanto eu para a prova.
+S: Ele estudou para a prova. Eu também estudei para a prova.
+
+C: O trânsito estava pior do que imaginávamos.
+S: O trânsito estava. Não imaginávamos que ele estaria pior.
+
+C: Ele é tão inteligente quanto seu irmão.
+S: Ele é inteligente. Seu irmão também é inteligente.
+
+C: Ela se veste melhor do que as outras meninas.
+S: Ela se veste. As outras meninas também se vestem.
+
+C: O preço do livro é maior do que o da revista.
+S: O preço do livro é. O preço da revista também é.
+
+C: João corre tão rápido quanto Maria.
+S: João corre. Maria também corre rápido.
+
+C: A educação está cada vez mais cara, assim como a saúde.
+S: A educação está cada vez mais cara. A saúde também está cada vez mais cara.
+
+C: Pedro fala inglês tão bem quanto Maria.
+S: Pedro fala inglês. Maria também fala inglês bem.
+
+C: Ele trabalha tanto quanto estuda.
+S: Ele trabalha. Ele também estuda.
+
+C: Essa loja vende tanto roupas quanto acessórios.
+S: Essa loja vende roupas. Essa loja também vende acessórios.
+
+C: A comida aqui é tão boa quanto a comida do restaurante cinco estrelas.
+S: A comida aqui é boa. A comida do restaurante cinco estrelas também é boa.
+
+C: Ela corre mais rápido do que qualquer outra pessoa da equipe.
+S: Ela corre rápido. Qualquer outra pessoa da equipe também corre rápido.
+
+C: Ele estuda tanto quanto eu estudo.
+S: Ele estuda. Eu também estudo.
+
+C: O carro é pior do que eu imaginava.
+S: O carro é ruim. Eu imaginava que o carro fosse ruim.
+
+C: O livro é melhor do que o filme.
+S: O livro é bom. O filme também é bom.
+
+C: Ele é maior do que todos os seus irmãos.
+S: Ele é grande. Todos os seus irmãos também são grandes.
+
+C: Ela fez o trabalho tão bem quanto o professor.
+S: Ela fez o trabalho bem. O professor também fez o trabalho bem.
+
+C: Ela falou tão rápido quanto eu esperava.
+S: Ela falou rápido. Eu esperava que ela falasse rápido.
+
+C: O celular é tão caro quanto o laptop.
+S: O celular é caro. O laptop também é caro.
+
+C: A prova foi mais fácil do que eu achei que seria.
+S: A prova foi fácil. Eu achei que a prova fosse fácil.
+
+C: Ele correu tão rápido quanto o Usain Bolt.
+S: Ele correu rápido. O Usain Bolt também correu rápido.
+
+C: Ela estudou mais do que qualquer outra pessoa.
+S: Ela estudou muito. Ninguém estudou tanto quanto ela.
+
+C: Ele é tão alto quanto o jogador de basquete.
+S: Ele é alto. O jogador de basquete também é alto.
+
+C: Ela canta tão bem quanto a Adele.
+S: Ela canta bem. A Adele também canta bem.
+
+C: Eles têm mais dinheiro do que qualquer outra família.
+S: Eles têm muito dinheiro. Nenhuma outra família tem tanto dinheiro como eles.
+
+C: Essa comida é melhor do que qualquer outra que já comi.
+S: Essa comida é boa. Nunca comi uma comida tão boa.
+
+C: Ele é tão inteligente quanto o Einstein.
+S: Ele é inteligente. O Einstein também é inteligente.
+
+C: Ela é tão bonita quanto a Angelina Jolie.
+S: Ela é bonita. A Angelina Jolie também é bonita.
+
+C: Ele falou tão alto quanto um megafone.
+S: Ele falou alto. O megafone também fala alto.
+
+C: Ele trabalhou tanto quanto todos os outros funcionários.
+S: Ele trabalhou muito. Todos os outros funcionários também trabalharam muito.
+
+C: O time adversário jogou tão bem quanto o nosso time.
+S: O time adversário jogou bem. Nosso time também jogou bem.
+
+C: A escultura foi pintada tanto por João quanto por Maria.
+S: A escultura foi pintada por João. A escultura também foi pintada por Maria.
+
+C: O carro novo é melhor que o antigo.
+S: O carro novo é bom. O carro antigo não é bom.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: A cidade é tão agitada quanto perigosa.
+S: A cidade é agitada. A cidade também é perigosa.
+
+C: O time ganhou tanto no primeiro quanto no segundo tempo.
+S: O time ganhou no primeiro tempo. O time também ganhou no segundo tempo.
+
+C: O preço do produto na loja A é maior que na loja B.
+S: O preço do produto na loja A é alto. O preço do produto na loja B não é alto.
+
+C: Ele corre tão rápido quanto eu.
+S: Ele corre rápido. Eu também corro rápido.
+
+C: Ela canta tão bem quanto dança.
+S: Ela canta bem. Ela também dança bem.
+
+C: A casa é tão grande quanto bonita.
+S: A casa é grande. A casa também é bonita.
+
+C: O país está enfrentando uma crise econômica tão grave quanto a crise política que estamos vivendo.
+S: O país está enfrentando uma crise econômica. A crise política que estamos vivendo também é tão grave.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela é bonita também.
+
+C: O novo modelo de celular é melhor que o modelo anterior.
+S: O novo modelo de celular é melhor. O modelo anterior também é melhor.
+
+C: Ele tem tanto talento para cantar quanto para dançar.
+S: Ele tem talento para cantar. Ele tem talento para dançar também.
+
+C: Essa cidade é tão movimentada quanto perigosa.
+S: Essa cidade é movimentada. Ela é perigosa também.
+
+C: Meu cachorro é tão brincalhão quanto o seu.
+S: Meu cachorro é brincalhão. O seu cachorro também é brincalhão.
+
+C: Ela é tão paciente quanto determinada.
+S: Ela é paciente. Ela é determinada também.
+
+C: O filme é tão emocionante quanto engraçado.
+S: O filme é emocionante. O filme é engraçado também.
+
+C: Ele tem tanto dinheiro quanto fama.
+S: Ele tem dinheiro. Ele tem fama também.
+
+C: Ela é tão talentosa quanto esforçada.
+S: Ela é talentosa. Ela é esforçada também.
+
+C: Ele comprou um carro tão caro quanto o meu.
+S: Ele comprou um carro caro. Eu também comprei um carro caro.
+
+C: Ela é tão inteligente como sua mãe.
+S: Ela é inteligente. Sua mãe também é inteligente.
+
+C: O resultado do jogo foi pior do que esperávamos.
+S: O resultado do jogo foi ruim. Nós esperávamos um resultado ruim também.
+
+C: João estuda tanto quanto Maria.
+S: João estuda. Maria também estuda.
+
+C: O filme foi tão emocionante quanto esperava.
+S: O filme foi emocionante. Eu esperava que fosse emocionante também.
+
+C: O café estava tão quente quanto eu gosto.
+S: O café estava quente. Eu gosto de café quente também.
+
+C: Ela escreve tão bem quanto o seu irmão.
+S: Ela escreve bem. Seu irmão também escreve bem.
+
+C: Ele é tão alto quanto o seu irmão mais velho.
+S: Ele é alto. Seu irmão mais velho também é alto.
+
+C: O restaurante é tão caro quanto disseram.
+S: O restaurante é caro. É verdade que o restaurante é caro.
+
+C: O show foi tão bom quanto esperava.
+S: O show foi bom. Eu esperava que fosse bom também.
+
+C: O time jogou tão bem quanto o time adversário.
+S: O time jogou bem. O time adversário também jogou bem.
+
+C: Ela é tão inteligente quanto a sua irmã.
+S: Ela é inteligente. A sua irmã também é inteligente.
+
+C: Ele é pior jogador do time, assim como o seu irmão.
+S: Ele é o pior jogador do time. O seu irmão também é.
+
+C: Essa música é melhor que a música anterior.
+S: Essa música é melhor. A música anterior também é.
+
+C: João é maior que Pedro, assim como é maior que Maria.
+S: João é maior que Pedro. João também é maior que Maria.
+
+C: Ela corre tão rápido quanto o seu irmão.
+S: Ela corre rápido. O seu irmão também corre rápido.
+
+C: O cachorro late mais alto que o gato, assim como o pássaro.
+S: O cachorro late alto. O gato também late alto.
+
+C: Ela estuda mais do que os seus colegas, assim como o seu irmão.
+S: Ela estuda mais. Os seus colegas também estudam mais.
+
+C: Ele come tanto quanto a sua irmã.
+S: Ele come muito. A sua irmã também come muito.
+
+C: Ele é tão dedicado quanto o seu irmão.
+S: Ele é dedicado. O seu irmão também é dedicado.
+
+C: Ela se vestiu tão bem quanto a modelo famosa.
+S: Ela se vestiu bem. A modelo famosa também se vestiu bem.
+
+C: Ele comeu tanto quanto o seu irmão mais velho.
+S: Ele comeu. O seu irmão mais velho também comeu.
+
+C: A competição foi pior do que eu esperava.
+S: A competição foi ruim. Eu não esperava que fosse tão ruim.
+
+C: Ele é melhor do que eu em matemática.
+S: Ele é bom. Eu não sou tão bom quanto ele em matemática.
+
+C: O time ganhou mais jogos do que o esperado.
+S: O time ganhou jogos. Não esperávamos que ganhassem tantos jogos.
+
+C: Ela é maior do que todas as outras crianças da turma.
+S: Ela é grande. Nenhuma outra criança da turma é tão grande quanto ela.
+
+C: Ele cozinha tão bem quanto o chef do restaurante.
+S: Ele cozinha bem. O chef do restaurante também cozinha bem.
+
+C: A casa é melhor do que todas as outras do bairro.
+S: A casa é boa. Nenhuma outra casa do bairro é tão boa quanto ela.
+
+C: O time joga tão bem quanto o campeão nacional.
+S: O time joga bem. O campeão nacional também joga bem.
+
+C: A viagem foi tão longa quanto o planejado.
+S: A viagem foi longa. Não esperávamos que fosse tão longa.
+
+C: Ele é tão inteligente quanto o seu irmão.
+S: Ele é inteligente. O seu irmão também é inteligente.
+
+C: Ela é melhor atrás das câmeras do que na frente delas.
+S: Ela é melhor atrás das câmeras. Ela não é tão boa na frente delas.
+
+C: O livro é pior do que o filme.
+S: O livro é ruim. O filme também é ruim.
+
+C: Ele corre tão rápido quanto um guepardo.
+S: Ele corre rápido. Um guepardo também corre rápido.
+
+C: O café da manhã foi tão bom quanto o jantar.
+S: O café da manhã foi bom. O jantar também foi bom.
+
+C: Ele é tão dedicado aos estudos quanto aos esportes.
+S: Ele é dedicado aos estudos. Ele também é dedicado aos esportes.
+
+C: Ela tem tanto talento para a música quanto para a dança.
+S: Ela tem talento para a música. Ela também tem talento para a dança.
+
+C: Ele trabalha tanto durante o dia quanto durante a noite.
+S: Ele trabalha durante o dia. Ele também trabalha durante a noite.
+
+C: O carro é tão veloz quanto o avião.
+S: O carro é veloz. O avião também é veloz.
+
+C: Ele é tão alto quanto o jogador de basquete.
+S: Ele é alto. O jogador de basquete também é alto.
+
+C: As empresas estrangeiras têm tanto lucro no Brasil quanto as empresas nacionais.
+S: As empresas estrangeiras têm lucro no Brasil. As empresas nacionais também têm lucro no Brasil.
+
+C: Ele não estuda tanto quanto deveria.
+S: Ele não estuda tanto. Ele deveria estudar mais.
+
+C: O preço do carro importado é maior que o preço do carro nacional.
+S: O preço do carro importado é alto. O preço do carro nacional também é alto.
+
+C: A comida do restaurante é tão saborosa quanto a comida da minha mãe.
+S: A comida do restaurante é saborosa. A comida da minha mãe também é saborosa.
+
+C: Ela se vestiu melhor que todas as outras convidadas da festa.
+S: Ela se vestiu bem. Todas as outras convidadas da festa também se vestiram bem.
+
+C: A equipe da casa ganhou o jogo tão facilmente quanto a equipe visitante.
+S: A equipe da casa ganhou o jogo facilmente. A equipe visitante também ganhou o jogo facilmente.
+
+C: O carro antigo tinha um motor pior que o carro novo.
+S: O carro antigo tinha um motor ruim. O carro novo também tinha um motor ruim.
+
+C: Ele correu tão rápido quanto o campeão olímpico.
+S: Ele correu rápido. O campeão olímpico também correu rápido.
+
+C: A cidade está mais movimentada à noite do que durante o dia.
+S: A cidade está movimentada à noite. A cidade também está movimentada durante o dia.
+
+C: Ela é tão inteligente quanto o professor.
+S: Ela é inteligente. O professor também é inteligente.
+
+C: Ana estudou tanto quanto o João para a prova de matemática.
+S: Ana estudou para a prova de matemática. O João também estudou para a prova de matemática.
+
+C: O salário do novo emprego é melhor do que o antigo.
+S: O salário do novo emprego é melhor. O salário do antigo emprego não é tão bom.
+
+C: Maria é tão inteligente quanto o seu irmão.
+S: Maria é inteligente. O seu irmão também é inteligente.
+
+C: O time ganhou tanto quanto o adversário no último jogo.
+S: O time ganhou no último jogo. O adversário também ganhou no último jogo.
+
+C: O livro é maior do que eu esperava.
+S: O livro é maior. Eu não esperava que o livro fosse tão grande.
+
+C: O desempenho da equipe foi pior do que o esperado.
+S: O desempenho da equipe foi pior. O desempenho não atingiu as expectativas.
+
+C: Ela comprou um carro tão bom quanto o dele.
+S: Ela comprou um carro bom. O carro dela é tão bom quanto o dele.
+
+C: A apresentação de dança foi tão bonita quanto a de música.
+S: A apresentação de dança foi bonita. A apresentação de música também foi bonita.
+
+C: Ele se saiu melhor na entrevista do que eu.
+S: Ele se saiu melhor na entrevista. Eu não me saí tão bem quanto ele.
+
+C: O filme é tão longo quanto o livro.
+S: O filme é longo. O livro também é longo.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ele é melhor no futebol do que no basquete.
+S: Ele é bom no futebol. Ele não é bom no basquete.
+
+C: A cidade ficou pior depois da tempestade.
+S: A cidade ficou ruim. A cidade ficou pior depois da tempestade.
+
+C: A comida do restaurante é tão gostosa quanto a da minha avó.
+S: A comida do restaurante é gostosa. A comida da minha avó também é gostosa.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela é bonita também.
+
+C: Ele estudou tanto para a prova quanto seu amigo.
+S: Ele estudou para a prova. Seu amigo também estudou para a prova.
+
+C: Ela tem mais paciência do que eu.
+S: Ela tem paciência. Eu não tenho paciência.
+
+C: Ele é tão alto quanto seu irmão mais velho.
+S: Ele é alto. Seu irmão mais velho também é alto.
+
+C: O carro é tão rápido quanto o avião.
+S: O carro é rápido. O avião também é rápido.
+
+C: Ele falou pior do que pensava.
+S: Ele falou mal. Ele falou pior do que pensava.
+
+C: Ele correu tão rápido quanto o Usain Bolt.
+S: Ele correu rápido. O Usain Bolt também correu rápido.
+
+C: O filme foi tão emocionante como o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ela está pior que ontem.
+S: Ela está mal. Ontem também estava mal.
+
+C: Ele trabalha tanto quanto eu.
+S: Ele trabalha. Eu também trabalho.
+
+C: O carro dele é melhor que o meu.
+S: O carro dele é bom. O meu também é bom.
+
+C: Ele é maior que o irmão mais novo.
+S: Ele é grande. O irmão mais novo também é grande.
+
+C: Eu faço as tarefas assim como você faz.
+S: Eu faço as tarefas. Você também faz as tarefas.
+
+C: Ela é tão inteligente quanto a irmã.
+S: Ela é inteligente. A irmã também é inteligente.
+
+C: Eles jogam bem assim como os campeões.
+S: Eles jogam bem. Os campeões também jogam bem.
+
+C: Elas estudaram tanto quanto os meninos.
+S: Elas estudaram. Os meninos também estudaram.
+
+C: A comida no restaurante é tão deliciosa quanto a comida caseira.
+S: A comida no restaurante é deliciosa. A comida caseira também é deliciosa.
+
+C: Ele trabalha mais horas por dia do que qualquer outro funcionário da empresa.
+S: Ele trabalha mais horas por dia. Nenhum outro funcionário da empresa trabalha tantas horas.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ela correu tão rápido quanto o atleta mais rápido.
+S: Ela correu rápido. O atleta mais rápido também correu rápido.
+
+C: O carro é pior do que eu imaginava.
+S: O carro é ruim. Eu não o imaginava tão ruim.
+
+C: O novo celular é melhor do que o antigo.
+S: O novo celular é bom. O antigo não era tão bom.
+
+C: Aquela casa é maior do que a nossa.
+S: Aquela casa é grande. A nossa não é tão grande.
+
+C: Ele gasta mais dinheiro do que eu.
+S: Ele gasta mais dinheiro. Eu não gasto tanto dinheiro.
+
+C: Ela cozinha melhor do que qualquer chef de cozinha.
+S: Ela cozinha bem. Nenhum chef de cozinha cozinha tão bem.
+
+C: O jogador de futebol marcou mais gols do que qualquer outro jogador.
+S: O jogador de futebol marcou mais gols. Nenhum outro jogador marcou tantos gols.
+
+C: A empresa investiu em marketing, assim como seus concorrentes também investiram.
+S: A empresa investiu em marketing. Seus concorrentes também investiram.
+
+C: O jogador marcou mais gols que o outro time, assim como o nosso time também marcou.
+S: O jogador marcou mais gols que o outro time. O nosso time também marcou.
+
+C: Ele estudou tanto para a prova quanto o amigo dele estudou.
+S: Ele estudou para a prova. O amigo dele também estudou.
+
+C: A temperatura está tão alta quanto no verão passado.
+S: A temperatura está alta. No verão passado também estava.
+
+C: A pintura foi vendida por um valor maior que o esperado, assim como os outros quadros também foram.
+S: A pintura foi vendida por um valor maior que o esperado. Os outros quadros também foram.
+
+C: Ela se comportou melhor que os outros alunos na sala, assim como eles também se comportaram bem.
+S: Ela se comportou melhor que os outros alunos na sala. Eles também se comportaram bem.
+
+C: A comida estava tão deliciosa quanto no restaurante favorito, assim como os outros pratos também estavam.
+S: A comida estava deliciosa como no restaurante favorito. Os outros pratos também estavam.
+
+C: Ele levou mais tempo para terminar a tarefa do que os outros colegas, assim como eles também levaram.
+S: Ele levou mais tempo para terminar a tarefa. Os outros colegas também levaram.
+
+C: O filme foi pior do que as críticas indicavam, assim como os outros filmes também foram.
+S: O filme foi pior do que as críticas indicavam. Os outros filmes também foram.
+
+C: A viagem durou tanto quanto o planejado, assim como as outras viagens também duraram.
+S: A viagem durou o planejado. As outras viagens também duraram.
+
+C: Ele trabalhou tanto quanto estudou para conseguir a aprovação no concurso.
+S: Ele trabalhou para conseguir a aprovação no concurso. Ele também estudou.
+
+C: O carro é mais rápido que o ônibus, assim como é mais econômico.
+S: O carro é mais rápido que o ônibus. Ele também é mais econômico.
+
+C: A empresa ofereceu tanto benefícios financeiros quanto planos de carreira.
+S: A empresa ofereceu benefícios financeiros. A empresa também ofereceu planos de carreira.
+
+C: Meu irmão é mais alto que eu, assim como ele é mais velho.
+S: Meu irmão é mais alto que eu. Ele também é mais velho.
+
+C: O filme foi tão emocionante quanto engraçado.
+S: O filme foi emocionante. O filme também foi engraçado.
+
+C: A casa é tão bonita quanto confortável.
+S: A casa é bonita. A casa também é confortável.
+
+C: Ela fala tão rápido quanto pensa.
+S: Ela fala rápido. Ela também pensa rápido.
+
+C: Ele passou mais tempo estudando do que se divertindo.
+S: Ele passou tempo estudando. Ele não passou tanto tempo se divertindo.
+
+C: O trabalho é pior do que a escola, assim como é mais estressante.
+S: O trabalho é pior do que a escola. O trabalho também é mais estressante.
+
+C: O livro é tão interessante quanto educativo.
+S: O livro é interessante. O livro também é educativo.
+
+C: Ela estudou tanto quanto o seu colega de turma para a prova.
+S: Ela estudou. O seu colega de turma também estudou para a prova.
+
+C: Ele correu tão rápido quanto o atleta profissional.
+S: Ele correu rápido. O atleta profissional também correu.
+
+C: A casa dela é melhor que a minha.
+S: A casa dela é melhor. A minha casa não é tão boa.
+
+C: Ela falou tão alto quanto os demais presentes na sala.
+S: Ela falou alto. Os demais presentes na sala também falaram alto.
+
+C: Ele aproveitou tanto as férias quanto os seus amigos.
+S: Ele aproveitou as férias. Os seus amigos também aproveitaram.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ela trabalha tão duro quanto o seu chefe.
+S: Ela trabalha duro. O seu chefe também trabalha duro.
+
+C: Ele se preocupa tanto com a aparência quanto a sua esposa.
+S: Ele se preocupa com a aparência. A sua esposa também se preocupa.
+
+C: A comida estava tão deliciosa quanto a sobremesa.
+S: A comida estava deliciosa. A sobremesa também estava deliciosa.
+
+C: Ele se esforça tanto nos estudos quanto nos esportes.
+S: Ele se esforça nos estudos. Ele também se esforça nos esportes.
+
+C: Ela estudou tanto quanto o irmão para a prova.
+S: Ela estudou. O irmão também estudou para a prova.
+
+C: Ele jogou melhor do que o adversário.
+S: Ele jogou. O adversário também não jogou bem.
+
+C: Os alunos foram tão bem na apresentação quanto os professores esperavam.
+S: Os alunos foram bem na apresentação. Os professores também esperavam que fossem bem.
+
+C: O filme foi pior do que eu imaginava.
+S: O filme foi. Eu também imaginava que fosse pior.
+
+C: O carro é tão caro quanto o da minha vizinha.
+S: O carro é caro. O carro da minha vizinha também é caro.
+
+C: Ela dançou tão bem quanto a bailarina profissional.
+S: Ela dançou bem. A bailarina profissional também dançou bem.
+
+C: A cidade festejou tanto quanto no ano passado.
+S: A cidade festejou. A cidade também festejou no ano passado.
+
+C: O bolo ficou tão gostoso quanto a receita original.
+S: O bolo ficou gostoso. A receita original também ficou gostosa.
+
+C: Ele correu tão rápido quanto o campeão olímpico.
+S: Ele correu rápido. O campeão olímpico também correu rápido.
+
+C: Ela está tão preocupada quanto eu.
+S: Ela está preocupada. Eu também estou preocupado.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela é bonita também.
+
+C: A cidade estava pior do que eu imaginava.
+S: A cidade estava ruim. Eu não imaginava tão ruim assim.
+
+C: Ele é melhor professor do que eu.
+S: Ele é um bom professor. Eu não sou tão bom professor quanto ele.
+
+C: Ele é maior do que todos os seus amigos.
+S: Ele é grande. Todos os seus amigos também são grandes.
+
+C: Eu corro assim como você.
+S: Eu corro. Você também corre.
+
+C: Ela canta tão bem quanto a Maria.
+S: Ela canta bem. A Maria também canta bem.
+
+C: Ele trabalha tanto quanto estuda.
+S: Ele trabalha. Ele também estuda.
+
+C: Ele joga futebol assim como o pai.
+S: Ele joga futebol. O pai dele também joga futebol.
+
+C: Ela é inteligente assim como a irmã.
+S: Ela é inteligente. A irmã dela também é inteligente.
+
+C: Ele é tão talentoso quanto o irmão.
+S: Ele é talentoso. O irmão dele também é talentoso.
+
+C: Ele estuda tanto quanto trabalha.
+S: Ele estuda. Ele também trabalha.
+
+C: Ele é mais inteligente do que eu.
+S: Ele é mais inteligente. Eu também sou inteligente.
+
+C: Ela corre tão rápido quanto ele.
+S: Ela corre rápido. Ele também corre rápido.
+
+C: O carro é pior do que o ônibus.
+S: O carro é pior. O ônibus também é ruim.
+
+C: Ele é melhor jogador do que eu.
+S: Ele é melhor jogador. Eu também sou bom jogador.
+
+C: O filme é tão bom quanto o livro.
+S: O filme é bom. O livro também é bom.
+
+C: Pedro come mais que João.
+S: Pedro come mais. João também come muito.
+
+C: Ela é maior que a irmã.
+S: Ela é maior. A irmã também é grande.
+
+C: O cachorro é tão amigo quanto o gato.
+S: O cachorro é amigo. O gato também é amigo.
+
+C: Ele tem tanto talento quanto esforço.
+S: Ele tem talento. Ele também tem esforço.
+
+C: O carro é mais rápido que o ônibus. 
+S: O carro é rápido. O ônibus também é rápido.
+
+C: Ela estudou tanto quanto eu para a prova.
+S: Ela estudou para a prova. Eu também estudei para a prova.
+
+C: Ele corre tão rápido quanto o Usain Bolt.
+S: Ele corre rápido. O Usain Bolt também corre rápido.
+
+C: A música está melhor do que antes.
+S: A música está boa. Antes também estava boa.
+
+C: Ela é tão inteligente quanto o seu irmão.
+S: Ela é inteligente. O seu irmão também é inteligente.
+
+C: O café é pior do que o chá.
+S: O café é ruim. O chá também é ruim.
+
+C: Ele é maior do que os outros jogadores.
+S: Ele é grande. Os outros jogadores também são grandes.
+
+C: Eles têm tantos problemas quanto nós.
+S: Eles têm problemas. Nós também temos problemas.
+
+C: O livro é tão bom quanto o filme.
+S: O livro é bom. O filme também é bom.
+
+C: O jogo foi tão emocionante quanto a final.
+S: O jogo foi emocionante. A final também foi emocionante.
+
+C: Ela estuda tanto quanto o seu irmão.
+S: Ela estuda. O seu irmão também estuda.
+
+C: Nós estamos trabalhando melhor do que antes.
+S: Nós estamos trabalhando. Antes nós não trabalhávamos tão bem.
+
+C: Eles são piores jogadores do que os seus adversários.
+S: Eles são jogadores. Os seus adversários não são tão bons.
+
+C: A casa dela é tão grande quanto a minha.
+S: A casa dela é grande. A minha também é grande.
+
+C: O dia de hoje está melhor do que ontem.
+S: O dia de hoje está bom. Ontem não estava tão bom.
+
+C: Ele marcou mais gols do que o seu colega de time.
+S: Ele marcou gols. O seu colega de time não marcou tantos.
+
+C: A viagem foi tão cansativa quanto esperado.
+S: A viagem foi cansativa. A expectativa era de que a viagem seria cansativa.
+
+C: Ela é tão inteligente quanto a sua irmã mais velha.
+S: Ela é inteligente. A sua irmã mais velha também é inteligente.
+
+C: O carro dele é tão veloz quanto o meu.
+S: O carro dele é veloz. O meu também é veloz.
+
+C: O filme foi tão emocionante quanto eu esperava.
+S: O filme foi emocionante. A minha expectativa era de que o filme seria emocionante.
+
+C: O carro da Maria é tão veloz quanto o do João.
+S: O carro da Maria é veloz. O carro do João também é veloz.
+
+C: Ele estudou tanto quanto ela para a prova.
+S: Ele estudou para a prova. Ela também estudou para a prova.
+
+C: Carolina é pior atriz do que Gabriel.
+S: Carolina é atriz. Gabriel também é atriz.
+
+C: O novo restaurante é melhor do que o antigo.
+S: O novo restaurante é bom. O antigo também é bom.
+
+C: O salário dele é maior do que o meu.
+S: O salário dele é alto. O meu também é alto.
+
+C: Laura joga futebol assim como Pedro.
+S: Laura joga futebol. Pedro também joga futebol.
+
+C: Marcos se veste tão bem quanto Sofia.
+S: Marcos se veste bem. Sofia também se veste bem.
+
+C: O clima aqui é igual ao do Brasil.
+S: O clima aqui é igual. O clima no Brasil também é igual.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Mariana fala tão rápido quanto Ricardo.
+S: Mariana fala rápido. Ricardo também fala rápido.
+
+C: Ele estudou tanto quanto o seu irmão.
+S: Ele estudou. O seu irmão também estudou.
+
+C: O filme é tão bom quanto o livro.
+S: O filme é bom. O livro também é bom.
+
+C: Eles correram mais rápido que os outros competidores.
+S: Eles correram rápido. Os outros competidores também correram rápido.
+
+C: Ela é tão inteligente quanto a sua irmã.
+S: Ela é inteligente. A sua irmã também é inteligente.
+
+C: João tem mais habilidade em matemática do que em português.
+S: João tem habilidade em matemática. João tem habilidade em português também.
+
+C: O livro vendeu mais do que o filme.
+S: O livro vendeu. O filme também vendeu.
+
+C: Ela é tão bonita quanto a sua mãe.
+S: Ela é bonita. A sua mãe também é bonita.
+
+C: O carro é tão rápido quanto o da Ferrari.
+S: O carro é rápido. O da Ferrari também é rápido.
+
+C: Eles dançaram melhor do que os outros casais.
+S: Eles dançaram bem. Os outros casais também dançaram bem.
+
+C: Ele falou mais alto do que os outros alunos.
+S: Ele falou alto. Os outros alunos também falaram alto.
+
+C: O time de futebol venceu o campeonato por uma margem maior do que qualquer outro time na história do esporte.
+S: O time de futebol venceu o campeonato. Nenhum outro time na história do esporte venceu por uma margem tão grande.
+
+C: O filme arrecadou mais dinheiro nas bilheterias do que qualquer outro filme lançado este ano.
+S: O filme arrecadou dinheiro nas bilheterias. Nenhum outro filme lançado este ano arrecadou tanto dinheiro.
+
+C: A cidade recebeu tantos turistas quanto no ano passado, mesmo com todas as restrições de viagens.
+S: A cidade recebeu turistas. No ano passado, a cidade também recebeu a mesma quantidade de turistas, mesmo com todas as restrições de viagens.
+
+C: A empresa investiu tanto em novos produtos quanto em marketing para promovê-los.
+S: A empresa investiu em novos produtos. A empresa também investiu em marketing para promovê-los.
+
+C: O livro é tão emocionante quanto o filme baseado nele.
+S: O livro é emocionante. O filme baseado nele também é emocionante.
+
+C: O restaurante serve pratos tão saborosos quanto os melhores restaurantes da cidade.
+S: O restaurante serve pratos saborosos. Os melhores restaurantes da cidade também servem pratos saborosos.
+
+C: O cantor possui tanto talento quanto carisma para atrair seu público.
+S: O cantor possui talento. O cantor também possui carisma para atrair seu público.
+
+C: O curso oferece tanto conhecimento teórico quanto experiência prática.
+S: O curso oferece conhecimento teórico. O curso também oferece experiência prática.
+
+C: O atleta corre tão rápido quanto o recordista mundial.
+S: O atleta corre rápido. O recordista mundial também corre rápido.
+
+C: A casa é tão espaçosa quanto confortável.
+S: A casa é espaçosa. A casa também é confortável.
+
+C: Ele não gostava de estudar, assim como seu irmão.
+S: Ele não gostava de estudar. Seu irmão também não gostava de estudar.
+
+C: Ela se sentiu tão feliz quanto ele.
+S: Ela se sentiu feliz. Ele também se sentiu feliz.
+
+C: O jogo foi tão emocionante quanto o filme.
+S: O jogo foi emocionante. O filme também foi emocionante.
+
+C: Ele é tão inteligente quanto ela.
+S: Ele é inteligente. Ela também é inteligente.
+
+C: A casa é tão grande quanto a do vizinho.
+S: A casa é grande. A do vizinho também é grande.
+
+C: Ela gosta tanto de ler quanto de escrever.
+S: Ela gosta de ler. Ela também gosta de escrever.
+
+C: Ele trabalha tanto de dia quanto de noite.
+S: Ele trabalha de dia. Ele também trabalha de noite.
+
+C: A cidade é tão bonita quanto a praia.
+S: A cidade é bonita. A praia também é bonita.
+
+C: Ele fala tanto inglês quanto espanhol.
+S: Ele fala inglês. Ele também fala espanhol.
+
+C: A comida é tão saborosa quanto a sobremesa.
+S: A comida é saborosa. A sobremesa também é saborosa.
+
+C: Ele estudou tanto quanto os outros alunos.
+S: Ele estudou. Os outros alunos também estudaram.
+
+C: O jogo foi tão emocionante quanto o filme.
+S: O jogo foi emocionante. O filme também foi emocionante.
+
+C: Ela escreveu melhor que o escritor famoso.
+S: Ela escreveu. O escritor famoso também escreveu.
+
+C: O carro é pior que o ônibus.
+S: O carro é ruim. O ônibus também é ruim.
+
+C: Ele é tão alto quanto o irmão mais velho.
+S: Ele é alto. O irmão mais velho também é alto.
+
+C: O filme foi assim como o livro.
+S: O filme foi. O livro também foi.
+
+C: Eles têm tanto dinheiro quanto os empresários.
+S: Eles têm dinheiro. Os empresários também têm dinheiro.
+
+C: A música é tão bonita quanto a poesia.
+S: A música é bonita. A poesia também é bonita.
+
+C: O time jogou melhor que os rivais.
+S: O time jogou. Os rivais também jogaram.
+
+C: Ela corre tão rápido quanto o atleta profissional.
+S: Ela corre rápido. O atleta profissional também corre rápido.
+
+C: Ela estuda tanto quanto ele.
+S: Ela estuda. Ele também estuda.
+
+C: O evento será realizado no mesmo local em que foi realizado no ano passado.
+S: O evento será realizado no mesmo local. Ele foi realizado no ano passado.
+
+C: Eles são os mais rápidos corredores da competição, assim como são os mais altos.
+S: Eles são os mais rápidos corredores da competição. Eles também são os mais altos.
+
+C: Nós enfrentamos tantos desafios quanto eles.
+S: Nós enfrentamos desafios. Eles também enfrentam desafios.
+
+C: O filme é melhor que o livro, assim como é mais emocionante.
+S: O filme é melhor que o livro. Ele também é mais emocionante.
+
+C: Ela comprou a mesma roupa que eu comprei.
+S: Ela comprou a mesma roupa. Eu também comprei a mesma roupa.
+
+C: João é tão inteligente quanto Maria.
+S: João é inteligente. Maria também é inteligente.
+
+C: Ele ganha mais dinheiro do que eu ganho.
+S: Ele ganha mais dinheiro. Eu também ganho dinheiro.
+
+C: Eles trabalham tanto quanto nós trabalhamos.
+S: Eles trabalham. Nós também trabalhamos.
+
+C: O carro tem o mesmo motor que o outro carro tem.
+S: O carro tem o mesmo motor. O outro carro também tem o mesmo motor.
+
+C: Ela estuda tanto quanto ele para as provas.
+S: Ela estuda para as provas. Ele também estuda para as provas.
+
+C: Ele se sente melhor do que eu depois de fazer exercícios físicos.
+S: Ele se sente depois de fazer exercícios físicos. Eu também me sinto depois de fazer exercícios físicos.
+
+C: O professor explicou a matéria assim como o livro também faz.
+S: O professor explicou a matéria. O livro também explica a matéria.
+
+C: Eles foram tão rápidos quanto nós no teste.
+S: Eles foram no teste. Nós também fomos rápidos no teste.
+
+C: Os alunos se dedicaram tanto à prova quanto aos trabalhos escolares.
+S: Os alunos se dedicaram à prova. Os alunos também se dedicaram aos trabalhos escolares.
+
+C: Ela cantou tão bem no show quanto no ensaio.
+S: Ela cantou no show. Ela também cantou bem no ensaio.
+
+C: A comida estava pior do que o esperado.
+S: A comida estava. O esperado também estava pior.
+
+C: João é maior que Maria.
+S: João é. Maria também é maior.
+
+C: O novo celular é melhor do que o antigo.
+S: O novo celular é. O antigo também é melhor.
+
+C: A equipe se esforçou assim como os torcedores também fizeram.
+S: A equipe se esforçou. Os torcedores também se esforçaram.
+
+C: Ela é tão inteligente quanto a irmã mais velha.
+S: Ela é inteligente. A irmã mais velha também é inteligente.
+
+C: Eles têm pior desempenho do que eu nas provas.
+S: Eles têm desempenho ruim nas provas. Eu também tenho desempenho ruim nas provas.
+
+C: O jogo de futebol foi melhor do que o anterior.
+S: O jogo de futebol foi bom. O jogo anterior também foi bom.
+
+C: Ele é maior de idade assim como o irmão mais velho.
+S: Ele é maior de idade. O irmão mais velho também é maior de idade.
+
+C: Ela corre tão rápido quanto o irmão mais velho.
+S: Ela corre rápido. O irmão mais velho também corre rápido.
+
+C: O chefe é assim como o vice-presidente da empresa.
+S: O chefe é importante. O vice-presidente da empresa também é importante.
+
+C: Ele é tão dedicado quanto o chefe.
+S: Ele é dedicado. O chefe também é dedicado.
+
+C: O carro é tão rápido quanto uma Ferrari.
+S: O carro é rápido. Uma Ferrari também é rápida.
+
+C: Ela está tão preocupada quanto o marido.
+S: Ela está preocupada. O marido também está preocupado.
+
+C: A festa foi tão animada quanto a do ano passado.
+S: A festa foi animada. A festa do ano passado também foi animada.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ela trabalha tanto quanto ele estuda.
+S: Ela trabalha. Ele também estuda.
+
+C: O time jogou pior do que esperávamos.
+S: O time jogou. Não jogou tão bem como esperávamos.
+
+C: O produto é melhor do que o concorrente.
+S: O produto é bom. O concorrente também é bom.
+
+C: Ele é maior do que seu irmão mais novo.
+S: Ele é grande. Seu irmão mais novo também é grande.
+
+C: A cidade é assim como eu imaginava.
+S: A cidade é como eu imaginava. A cidade é assim.
+
+C: Ele não preocupou somente a mim, mas também a todos os outros.
+S: Ele não me preocupou. Ele também preocupou a todos os outros.
+
+C: Ela corre tanto quanto ele nadava.
+S: Ela corre. Ele também nadava.
+
+C: O carro é tão caro quanto a casa.
+S: O carro é caro. A casa também é cara.
+
+C: Ele estuda tanto quanto trabalha.
+S: Ele estuda. Ele também trabalha.
+
+C: Ela estudou tanto quanto o irmão para a prova.
+S: Ela estudou para a prova. O irmão também estudou para a prova.
+
+C: A competição foi mais acirrada do que o esperado.
+S: A competição foi acirrada. Não foi esperado.
+
+C: Ele joga tão bem quanto o seu irmão.
+S: Ele joga bem. O seu irmão também joga bem.
+
+C: A cidade é tão bonita quanto o litoral.
+S: A cidade é bonita. O litoral também é bonito.
+
+C: Ela se veste pior do que a amiga.
+S: Ela se veste mal. A amiga também se veste mal.
+
+C: O prato é melhor do que eu imaginava.
+S: O prato é bom. Eu não imaginava.
+
+C: Ele é maior que os outros alunos da turma.
+S: Ele é grande. Os outros alunos da turma também são grandes.
+
+C: Ela corre tão rápido quanto o atleta profissional.
+S: Ela corre rápido. O atleta profissional também corre rápido.
+
+C: A casa é tão cara quanto a do vizinho.
+S: A casa é cara. A do vizinho também é cara.
+
+C: Ele fala tão bem quanto o professor.
+S: Ele fala bem. O professor também fala bem.
+
+C: Ela trabalhou tanto quanto eu na preparação do projeto.
+S: Ela trabalhou na preparação do projeto. Eu também trabalhei tanto.
+
+C: O esporte é tão importante quanto a educação para o desenvolvimento das crianças.
+S: O esporte é importante para o desenvolvimento das crianças. A educação também é tão importante.
+
+C: Ele gosta de andar de bicicleta assim como eu.
+S: Ele gosta de andar de bicicleta. Eu também gosto assim.
+
+C: A música é melhor que a pintura para expressar emoções.
+S: A música é melhor para expressar emoções. A pintura também é.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é tão interessante.
+
+C: O professor é pior que o aluno para explicar a matéria.
+S: O professor é pior para explicar a matéria. O aluno também é pior.
+
+C: Ela é tão inteligente quanto ele.
+S: Ela é inteligente. Ele também é tão inteligente.
+
+C: Ele é maior que todos os seus irmãos.
+S: Ele é maior. Todos os seus irmãos também são maiores.
+
+C: O treino foi tão cansativo quanto o jogo.
+S: O treino foi cansativo. O jogo também foi tão cansativo.
+
+C: O presidente prometeu tanto emprego quanto melhorias nos serviços públicos.
+S: O presidente prometeu emprego. O presidente também prometeu melhorias nos serviços públicos.
+
+C: Ela se destacou tanto na prova quanto nas atividades extracurriculares.
+S: Ela se destacou na prova. Ela também se destacou nas atividades extracurriculares.
+
+C: Ele passou mais tempo estudando do que se divertindo.
+S: Ele passou mais tempo estudando. Ele também passou tempo se divertindo.
+
+C: Ele é melhor jogador de futebol do que seu irmão.
+S: Ele é melhor jogador de futebol. Seu irmão também não é tão bom.
+
+C: A cidade está cada vez mais desenvolvida, assim como a qualidade de vida de seus habitantes.
+S: A cidade está cada vez mais desenvolvida. A qualidade de vida de seus habitantes também está melhorando.
+
+C: Ela é tão talentosa em cantar quanto em dançar.
+S: Ela é talentosa em cantar. Ela também é talentosa em dançar.
+
+C: Ele sabe tanto tocar piano quanto violão.
+S: Ele sabe tocar piano. Ele também sabe tocar violão.
+
+C: O filme foi tão emocionante quanto engraçado.
+S: O filme foi emocionante. O filme também foi engraçado.
+
+C: Ele não é tão alto quanto seu irmão mais velho.
+S: Ele não é alto. Seu irmão mais velho também não é tão alto.
+
+C: Ela corre mais rápido do que seus colegas de equipe.
+S: Ela corre mais rápido. Seus colegas de equipe não correm tão rápido.
+
+C: O livro foi tão inspirador quanto educativo.
+S: O livro foi inspirador. O livro também foi educativo.
+
+C: Ele é tão inteligente quanto seu irmão.
+S: Ele é inteligente. Seu irmão também é inteligente.
+
+C: João está pior que Maria na prova de matemática.
+S: João está mal na prova de matemática. Maria também está mal na prova de matemática.
+
+C: O filme é melhor que a peça de teatro.
+S: O filme é bom. A peça de teatro também é boa.
+
+C: Ela é maior que sua irmã mais nova.
+S: Ela é grande. Sua irmã mais nova também é grande.
+
+C: Ele corre tão rápido quanto Usain Bolt.
+S: Ele corre rápido. Usain Bolt também corre rápido.
+
+C: O restaurante é tão caro quanto o hotel.
+S: O restaurante é caro. O hotel também é caro.
+
+C: Minha mãe cozinha tão bem quanto minha avó.
+S: Minha mãe cozinha bem. Minha avó também cozinha bem.
+
+C: Sheila está tão animada quanto eu para a viagem.
+S: Sheila está animada. Eu também estou animado para a viagem.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: O carro é tão veloz quanto um raio.
+S: O carro é veloz. Um raio também é veloz.
+
+C: Ele não estudou tanto quanto deveria.
+S: Ele não estudou o suficiente.
+
+C: Ela é tão inteligente quanto sua irmã.
+S: Ela é igualmente inteligente que sua irmã.
+
+C: O preço do produto é maior hoje do que ontem.
+S: O preço do produto aumentou desde ontem.
+
+C: Ele corre mais rápido do que eu.
+S: Ele corre com mais velocidade que eu.
+
+C: Essa cidade é tão bonita quanto Paris.
+S: Essa cidade é igualmente bonita que Paris.
+
+C: Ele trabalha tão duro quanto seu irmão.
+S: Ele trabalha igualmente duro que seu irmão.
+
+C: Ela come mais do que eu.
+S: Ela come em maior quantidade que eu.
+
+C: Ele ganha menos dinheiro do que seu colega.
+S: Ele ganha um valor menor do que seu colega.
+
+C: Ele dirige tão bem quanto seu pai.
+S: Ele dirige igualmente bem que seu pai.
+
+C: O sol brilha mais durante o dia do que à noite.
+S: O sol brilha com mais intensidade durante o dia.
+
+C: Ele se destacou nas competições, assim como outros atletas de ponta.
+S: Ele se destacou nas competições. Outros atletas de ponta também se destacaram.
+
+C: Ela gosta tanto de ler quanto de escrever.
+S: Ela gosta de ler. Ela também gosta de escrever.
+
+C: A empresa investe em pesquisa e inovação, assim como as empresas concorrentes.
+S: A empresa investe em pesquisa e inovação. As empresas concorrentes também investem.
+
+C: O novo modelo de telefone é melhor que o anterior.
+S: O novo modelo de telefone é melhor. O modelo anterior não é tão bom.
+
+C: Eles se esforçaram tanto nos estudos quanto nas atividades extracurriculares.
+S: Eles se esforçaram nos estudos. Eles também se esforçaram nas atividades extracurriculares.
+
+C: O aplicativo é tão fácil de usar quanto o site.
+S: O aplicativo é fácil de usar. O site também é fácil de usar.
+
+C: Ele comprou um carro novo, assim como sua irmã.
+S: Ele comprou um carro novo. Sua irmã também comprou um carro novo.
+
+C: Ele ficou mais magro que seu amigo.
+S: Ele ficou mais magro. Seu amigo não ficou tão magro.
+
+C: Ela trabalha tanto durante a semana quanto nos finais de semana.
+S: Ela trabalha durante a semana. Ela também trabalha nos finais de semana.
+
+C: A cidade é tão bonita quanto a praia.
+S: A cidade é bonita. A praia também é bonita.
+
+C: A equipe perdeu o jogo tanto pela falta de habilidade quanto pela falta de estratégia.
+S: A equipe perdeu o jogo pela falta de habilidade. A equipe também perdeu o jogo pela falta de estratégia.
+
+C: Ele se sente tão feliz com a promoção quanto com o novo relacionamento.
+S: Ele se sente feliz com a promoção. Ele se sente feliz com o novo relacionamento também.
+
+C: A atriz é conhecida por sua atuação no teatro, assim como no cinema.
+S: A atriz é conhecida por sua atuação no teatro. A atriz também é conhecida por sua atuação no cinema.
+
+C: O carro é pior em termos de consumo de combustível do que o modelo anterior.
+S: O carro é pior em termos de consumo de combustível. O modelo anterior também é pior em termos de consumo de combustível.
+
+C: Ela estudou tanto para a prova quanto para o exame final.
+S: Ela estudou para a prova. Ela estudou para o exame final também.
+
+C: O time marcou mais gols do que a equipe adversária.
+S: O time marcou mais gols. A equipe adversária também marcou mais gols.
+
+C: Ela é tão inteligente quanto sua irmã mais velha.
+S: Ela é inteligente. Sua irmã mais velha também é inteligente.
+
+C: Ele tem uma dívida maior do que a maioria das pessoas.
+S: Ele tem uma dívida maior. A maioria das pessoas também tem uma dívida maior.
+
+C: O livro é melhor em termos de enredo do que o filme baseado nele.
+S: O livro é melhor em termos de enredo. O filme baseado nele também é melhor em termos de enredo.
+
+C: Ele se comporta da mesma forma na escola como em casa.
+S: Ele se comporta na escola. Ele se comporta da mesma forma em casa também.
+
+C: Ela trabalha tanto quanto eu.
+S: Ela trabalha. Eu também trabalho.
+
+C: O tempo está melhor do que ontem.
+S: O tempo está bom hoje. Ontem também estava bom.
+
+C: Estou mais feliz do que antes.
+S: Estou feliz agora. Antes também estava feliz.
+
+C: Ele corre tão rápido quanto seu irmão.
+S: Ele corre rápido. Seu irmão também corre rápido.
+
+C: Ela é tão inteligente quanto seu professor.
+S: Ela é inteligente. Seu professor também é inteligente.
+
+C: Ele come tanto quanto um elefante.
+S: Ele come muito. Um elefante também come muito.
+
+C: Ela está pior do que eu esperava.
+S: Ela está mal. Eu também estou mal.
+
+C: Ele é melhor do que eu em matemática.
+S: Ele é bom em matemática. Eu também sou bom em matemática.
+
+C: O filme foi tão assustador quanto eu imaginava.
+S: O filme foi assustador. Eu imaginava que seria assustador.
+
+C: Ele é maior do que todos os seus colegas.
+S: Ele é grande. Todos os seus colegas também são grandes.
+
+C: O desempenho da equipe foi tão bom quanto o esperado.
+S: O desempenho da equipe foi bom. O desempenho foi o esperado.
+
+C: Ele se vestiu pior do que o irmão.
+S: Ele se vestiu pior. O irmão também se vestiu pior.
+
+C: A casa era maior do que aparentava ser.
+S: A casa era maior. A casa aparentava ser menor.
+
+C: Ela cantou tão bem quanto o cantor principal.
+S: Ela cantou bem. O cantor principal também cantou bem.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ele trabalha tanto quanto os outros funcionários.
+S: Ele trabalha. Os outros funcionários também trabalham.
+
+C: O salário dela é tão alto quanto o do chefe.
+S: O salário dela é alto. O salário do chefe também é alto.
+
+C: Ele se saiu melhor do que esperava.
+S: Ele se saiu melhor. Ele esperava se sair pior.
+
+C: O evento foi tão divertido quanto eu imaginei.
+S: O evento foi divertido. Eu imaginei que seria divertido.
+
+C: Ela arruma a casa tão bem quanto a empregada.
+S: Ela arruma a casa bem. A empregada também arruma a casa bem.
+
+C: Ela estuda tanto quanto o irmão.
+S: Ela estuda. O irmão também estuda.
+
+C: O filme foi melhor do que o esperado.
+S: O filme foi bom. O filme foi melhor do que o esperado.
+
+C: Ele trabalha tanto quanto eu.
+S: Ele trabalha. Eu também trabalho.
+
+C: O carro é maior do que o meu.
+S: O carro é grande. O carro é maior do que o meu.
+
+C: Ele se saiu pior do que o esperado na prova.
+S: Ele se saiu mal. Ele se saiu pior do que o esperado na prova.
+
+C: Ela corre tão rápido quanto o maratonista.
+S: Ela corre rápido. O maratonista também corre rápido.
+
+C: Ela é tão inteligente quanto a irmã.
+S: Ela é inteligente. A irmã também é inteligente.
+
+C: Ele dirigiu tão bem quanto o instrutor.
+S: Ele dirigiu bem. O instrutor também dirigiu bem.
+
+C: O trabalho foi tão cansativo quanto o anterior.
+S: O trabalho foi cansativo. O trabalho foi tão cansativo quanto o anterior.
+
+C: Ele joga tão bem quanto o craque.
+S: Ele joga bem. O craque também joga bem.
+
+C: Eu gosto tanto de ler quanto de escrever.
+S: Eu gosto de ler. Eu também gosto de escrever.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: Ele tem pior memória do que eu.
+S: Ele tem memória ruim. Eu também tenho.
+
+C: Estou mais feliz agora do que antes.
+S: Estou feliz agora. Eu também estava antes.
+
+C: Ele corre melhor do que eu.
+S: Ele corre bem. Eu também corro.
+
+C: Ela é maior que a irmã mais velha.
+S: Ela é maior. A irmã mais velha também é.
+
+C: Ele fala duas línguas, assim como sua irmã.
+S: Ele fala duas línguas. Sua irmã também fala.
+
+C: O salário dela é maior do que o meu.
+S: O salário dela é alto. O meu também é.
+
+C: Ele se veste melhor que os outros colegas.
+S: Ele se veste bem. Os outros colegas também se vestem.
+
+C: O tempo está mais quente hoje do que ontem.
+S: O tempo está quente hoje. O tempo também estava ontem.
+
+C: Ele estudou tanto quanto o seu irmão para o exame.
+S: Ele estudou para o exame. O seu irmão também estudou.
+
+C: A viagem durou mais que o esperado.
+S: A viagem durou. O esperado durou mais.
+
+C: Ela se saiu melhor que eu na prova.
+S: Ela se saiu na prova. Eu também me saí.
+
+C: O livro é tão bom quanto o filme.
+S: O livro é bom. O filme também é.
+
+C: Ele ganha mais dinheiro do que eu.
+S: Ele ganha dinheiro. Eu também ganho.
+
+C: Ela é tão bonita quanto a sua irmã.
+S: Ela é bonita. A sua irmã também é.
+
+C: Eu estudo mais do que ele.
+S: Eu estudo. Ele também estuda.
+
+C: O carro é pior que o da minha amiga.
+S: O carro é. O da minha amiga também é.
+
+C: Ele é maior que o seu irmão.
+S: Ele é. O seu irmão também é.
+
+C: Ela gosta tanto de música quanto de dança.
+S: Ela gosta de música. Ela também gosta de dança.
+
+C: Ela corre tão rápido quanto o seu irmão.
+S: Ela corre rápido. O seu irmão também corre rápido.
+
+C: Ele é melhor que todos os outros jogadores da equipe.
+S: Ele é bom. Todos os outros jogadores da equipe também são bons.
+
+C: A comida estava pior do que eu esperava.
+S: A comida estava ruim. Eu não esperava que fosse ruim.
+
+C: Ele se vestiu tão bem quanto a sua irmã.
+S: Ele se vestiu bem. A sua irmã também se vestiu bem.
+
+C: O desfile foi tão impressionante quanto o show.
+S: O desfile foi impressionante. O show também foi impressionante.
+
+C: Ela estudou tanto quanto os seus colegas.
+S: Ela estudou muito. Os seus colegas também estudaram muito.
+
+C: A casa é maior do que eu pensava.
+S: A casa é grande. Eu não pensava que fosse grande.
+
+C: Ele dança tão bem quanto a sua irmã.
+S: Ele dança bem. A sua irmã também dança bem.
+
+C: O carro é tão caro quanto o apartamento.
+S: O carro é caro. O apartamento também é caro.
+
+C: Ela é tão inteligente quanto o seu professor.
+S: Ela é inteligente. O seu professor também é inteligente.
+
+C: Preciso estudar tanto quanto meus colegas para passar na prova.
+S: Preciso estudar. Meus colegas também precisam estudar para passar na prova.
+
+C: Ela tanto se esforçou quanto eu para terminar o projeto.
+S: Ela se esforçou para terminar o projeto. Eu também me esforcei para terminar o projeto.
+
+C: A empresa investiu tanto em tecnologia quanto em marketing para expandir seus negócios.
+S: A empresa investiu em tecnologia para expandir seus negócios. A empresa também investiu em marketing para expandir seus negócios.
+
+C: Ele é tão inteligente quanto seu irmão mais velho.
+S: Ele é inteligente. Seu irmão mais velho também é inteligente.
+
+C: A cidade é tão bonita quanto a praia.
+S: A cidade é bonita. A praia também é bonita.
+
+C: Ela se preocupa tanto com os estudos quanto com o trabalho.
+S: Ela se preocupa com os estudos. Ela também se preocupa com o trabalho.
+
+C: O filme é tão emocionante quanto o livro.
+S: O filme é emocionante. O livro também é emocionante.
+
+C: Ela tem tantos amigos quanto eu.
+S: Ela tem amigos. Eu também tenho amigos.
+
+C: Eles são tão talentosos quanto os outros competidores.
+S: Eles são talentosos. Os outros competidores também são talentosos.
+
+C: O café é tão quente quanto a água fervente.
+S: O café é quente. A água fervente também é quente.
+
+C: Ele toca piano tão bem quanto sua irmã.
+S: Ele toca piano bem. Sua irmã também toca.
+
+C: A casa é tão grande quanto a mansão.
+S: A casa é grande. A mansão também é grande.
+
+C: João gosta tanto de chocolate quanto de sorvete.
+S: João gosta de chocolate. João também gosta de sorvete.
+
+C: O carro é pior que a bicicleta para o meio ambiente.
+S: O carro é ruim para o meio ambiente. A bicicleta também é ruim.
+
+C: Maria estudou tanto quanto Ana para a prova.
+S: Maria estudou para a prova. Ana também estudou para a prova.
+
+C: Paulo é assim como seu pai, trabalhador e dedicado.
+S: Paulo é trabalhador e dedicado. Seu pai também é trabalhador e dedicado.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ela correu tão rápido quanto seu irmão.
+S: Ela correu rápido. Seu irmão também correu rápido.
+
+C: A festa foi melhor que o esperado.
+S: A festa foi boa. O esperado também foi bom.
+
+C: O show teve tanta gente quanto o esperado.
+S: O show teve gente. O esperado também teve gente.
+
+C: Ela é tão bonita quanto a sua irmã.
+S: Ela é bonita. A sua irmã também é bonita.
+
+C: João corre mais rápido do que Pedro.
+S: João corre rápido. Pedro também corre rápido.
+
+C: O time jogou pior do que o esperado.
+S: O time jogou mal. O esperado também jogou mal.
+
+C: Minha mãe cozinha melhor do que eu.
+S: Minha mãe cozinha bem. Eu também cozinho bem.
+
+C: Ele é maior do que todos os seus amigos.
+S: Ele é grande. Todos os seus amigos também são grandes.
+
+C: Ela trabalha tanto quanto o marido.
+S: Ela trabalha. O marido também trabalha.
+
+C: A festa foi assim como esperávamos.
+S: A festa foi como esperávamos.
+
+C: Ele estudou tanto que passou na prova.
+S: Ele estudou. Passou na prova também.
+
+C: Ela cantou tão bem quanto a cantora famosa.
+S: Ela cantou bem. A cantora famosa também cantou bem.
+
+C: Ele agiu assim como eu faria.
+S: Ele agiu como eu faria.
+
+C: Ele trabalha tanto quanto estuda.
+S: Ele trabalha. Ele estuda também.
+
+C: Ela é melhor do que eu em matemática.
+S: Ela é melhor em matemática. Eu não sou.
+
+C: O carro é pior que o ônibus em termos de eficiência energética.
+S: O carro é pior em termos de eficiência energética. O ônibus não é.
+
+C: Eles são tão inteligentes quanto engraçados.
+S: Eles são inteligentes. Eles são engraçados também.
+
+C: Nós temos tantas responsabilidades quanto você.
+S: Nós temos responsabilidades. Você também tem.
+
+C: O time venceu tanto o campeonato quanto a copa.
+S: O time venceu o campeonato. O time venceu a copa também.
+
+C: A prova de matemática foi tão difícil quanto a de física.
+S: A prova de matemática foi difícil. A prova de física também foi.
+
+C: Ela ganha tanto dinheiro quanto prestígio.
+S: Ela ganha dinheiro. Ela ganha prestígio também.
+
+C: Ele é tão talentoso quanto dedicado.
+S: Ele é talentoso. Ele é dedicado também.
+
+C: O projeto requer tanto comprometimento quanto trabalho em equipe.
+S: O projeto requer comprometimento. O projeto requer trabalho em equipe também.
+
+C: Ele é tão inteligente quanto seu irmão mais velho.
+S: Ele é inteligente. Seu irmão mais velho também é inteligente.
+
+C: O carro dele é pior do que o meu.
+S: O carro dele é ruim. O meu também é ruim.
+
+C: Ela é melhor dançarina do que cantora.
+S: Ela é uma boa dançarina. Ela também é uma cantora boa.
+
+C: Comprei tanto pão quanto leite no mercado.
+S: Comprei pão no mercado. Comprei leite também.
+
+C: A casa é tão bonita como é grande.
+S: A casa é bonita. A casa é grande também.
+
+C: Ele é tão talentoso quanto sua irmã.
+S: Ele é talentoso. Sua irmã também é talentosa.
+
+C: Essa prova é mais difícil do que a anterior.
+S: Essa prova é difícil. A prova anterior também era difícil.
+
+C: O trabalho dele é maior do que o meu.
+S: O trabalho dele é grande. O meu trabalho também é grande.
+
+C: Ele é tão simpático como é engraçado.
+S: Ele é simpático. Ele é engraçado também.
+
+C: A comida é tão saborosa quanto é saudável.
+S: A comida é saborosa. A comida é saudável também.
+
+C: Ela é tão inteligente quanto a sua irmã.
+S: Ela é inteligente. A sua irmã também é inteligente.
+
+C: O carro é melhor do que a moto.
+S: O carro é bom. A moto também é boa.
+
+C: Ele se saiu pior do que esperávamos.
+S: Ele se saiu mal. Não foi como esperávamos.
+
+C: O filme é maior que o livro.
+S: O filme é grande. O livro também é grande.
+
+C: Ele correu tão rápido quanto o atleta profissional.
+S: Ele correu rápido. O atleta profissional também correu rápido.
+
+C: A empresa cresce assim como o mercado.
+S: A empresa cresce. O mercado também cresce.
+
+C: Ela é tão bonita quanto a mãe.
+S: Ela é bonita. A mãe também é bonita.
+
+C: Ele se veste assim como o pai.
+S: Ele se veste. O pai também se veste assim.
+
+C: A escola tem tanto espaço quanto a universidade.
+S: A escola tem espaço. A universidade também tem espaço.
+
+C: Ele estuda tanto quanto trabalha.
+S: Ele estuda. Ele também trabalha.
+
+C: Ele não estuda tanto quanto deveria, assim como os outros alunos.
+S: Ele não estuda tanto quanto deveria. Os outros alunos também não estudam.
+
+C: O time jogou melhor que o adversário, assim como jogou melhor que os outros times do campeonato.
+S: O time jogou melhor que o adversário. O time também jogou melhor que os outros times do campeonato.
+
+C: Ela gastou mais dinheiro que as outras pessoas da festa, assim como gastou mais do que tinha planejado.
+S: Ela gastou mais dinheiro que as outras pessoas da festa. Ela também gastou mais do que tinha planejado.
+
+C: O livro é tão interessante quanto o filme, assim como é tão envolvente quanto a série.
+S: O livro é tão interessante quanto o filme. O livro também é tão envolvente quanto a série.
+
+C: O restaurante tem tantas opções de pratos quanto o outro, assim como tem tantas opções de sobremesa.
+S: O restaurante tem tantas opções de pratos quanto o outro. O restaurante também tem tantas opções de sobremesa.
+
+C: Ele se esforçou tanto quanto os outros alunos, assim como se destacou tanto quanto eles.
+S: Ele se esforçou tanto quanto os outros alunos. Ele também se destacou tanto quanto eles.
+
+C: Ela era tão talentosa quanto os outros artistas da exposição, assim como era tão criativa quanto eles.
+S: Ela era tão talentosa quanto os outros artistas da exposição. Ela também era tão criativa quanto eles.
+
+C: O café é tão bom quanto o chá, assim como é tão revigorante quanto a bebida energética.
+S: O café é tão bom quanto o chá. O café também é tão revigorante quanto a bebida energética.
+
+C: O carro é melhor que o ônibus, assim como é mais econômico que a moto.
+S: O carro é melhor que o ônibus. O carro também é mais econômico que a moto.
+
+C: A casa era maior que a do vizinho, assim como era mais bonita que a dos outros moradores da rua.
+S: A casa era maior que a do vizinho. A casa também era mais bonita que a dos outros moradores da rua.
+
+C: Eu gosto tanto de praia quanto de montanha.
+S: Eu gosto de praia. Eu também gosto de montanha.
+
+C: Ela corre mais rápido do que ele.
+S: Ela corre mais rápido. Ele também corre.
+
+C: O carro é melhor que a bicicleta.
+S: O carro é melhor. A bicicleta também é melhor.
+
+C: Ele estudou tanto quanto ela.
+S: Ele estudou. Ela também estudou.
+
+C: João trabalha tanto quanto Maria.
+S: João trabalha. Maria também trabalha.
+
+C: Ela é mais alta do que sua irmã.
+S: Ela é mais alta. Sua irmã também é mais alta.
+
+C: O cachorro late mais alto do que o gato.
+S: O cachorro late mais alto. O gato também late.
+
+C: Ele fala mais rápido do que eu.
+S: Ele fala mais rápido. Eu também falo.
+
+C: Ela come tanto quanto ele.
+S: Ela come. Ele também come.
+
+C: O filme é tão bom quanto o livro.
+S: O filme é tão bom. O livro também é bom.
+
+C: O carro dele é tão rápido quanto o meu.
+S: O carro dele é rápido. O meu também é rápido.
+
+C: Ele é melhor jogador de futebol do que o seu irmão.
+S: Ele é melhor jogador de futebol. O seu irmão também é melhor jogador de futebol.
+
+C: O hotel é pior do que imaginávamos.
+S: O hotel é ruim. Nós também imaginávamos isso.
+
+C: Ela é tão inteligente quanto a sua mãe.
+S: Ela é inteligente. A sua mãe também é inteligente.
+
+C: As crianças são tão criativas quanto os adultos.
+S: As crianças são criativas. Os adultos também são criativos.
+
+C: Ele é maior que todos os seus irmãos.
+S: Ele é grande. Todos os seus irmãos também são grandes.
+
+C: Ela é tão bonita quanto a modelo da propaganda.
+S: Ela é bonita. A modelo da propaganda também é bonita.
+
+C: Os livros são tão caros quanto os eletrônicos.
+S: Os livros são caros. Os eletrônicos também são caros.
+
+C: A competição foi tão acirrada quanto imaginávamos.
+S: A competição foi acirrada. Nós também imaginávamos isso.
+
+C: Ele é assim como o pai, atencioso e carinhoso.
+S: Ele é atencioso e carinhoso como o pai.
+
+C: O time jogou tão bem quanto o adversário.
+S: O time jogou bem. O adversário também jogou bem.
+
+C: Ela cantou melhor do que eu esperava.
+S: Ela cantou bem. Eu não esperava que ela cantasse tão bem.
+
+C: Ele correu pior do que nos treinos anteriores.
+S: Ele correu mal. Nos treinos anteriores, ele também correu mal.
+
+C: O filme foi tão emocionante quanto eu imaginava.
+S: O filme foi emocionante. Eu imaginava que seria tão emocionante.
+
+C: O livro tem tantos capítulos quanto o anterior.
+S: O livro tem vários capítulos. O anterior também tinha vários capítulos.
+
+C: O carro é maior do que eu esperava.
+S: O carro é grande. Eu não esperava que o carro fosse tão grande.
+
+C: Ela dança tão bem quanto uma profissional.
+S: Ela dança bem. Ela dança tão bem quanto uma profissional.
+
+C: O tempo está pior do que ontem.
+S: O tempo está ruim. O tempo está pior do que ontem.
+
+C: Ela se vestiu melhor do que as outras convidadas.
+S: Ela se vestiu bem. As outras convidadas também se vestiram bem.
+
+C: O jogador marcou tantos gols quanto o artilheiro do campeonato.
+S: O jogador marcou vários gols. O artilheiro do campeonato também marcou vários gols.
+
+C: Ele é tão inteligente como o irmão mais velho.
+S: Ele é inteligente. O irmão mais velho também é.
+
+C: Ela gasta tanto dinheiro quanto ganha.
+S: Ela gasta dinheiro. Ela também ganha.
+
+C: Eles estudam tanto quanto trabalham.
+S: Eles estudam. Eles também trabalham.
+
+C: O carro é melhor do que a bicicleta para fazer viagens longas.
+S: O carro é bom para fazer viagens longas. A bicicleta não é.
+
+C: Ela se comportou pior do que eu esperava.
+S: Ela se comportou mal. Eu esperava que ela se comportasse melhor.
+
+C: Ele é maior do que os outros alunos da sala.
+S: Ele é alto. Os outros alunos da sala não são.
+
+C: Ela é tão bonita como a irmã mais nova.
+S: Ela é bonita. A irmã mais nova também é.
+
+C: Ele joga melhor do que os outros jogadores do time.
+S: Ele joga bem. Os outros jogadores do time não jogam tão bem.
+
+C: Ele foi pior do que esperávamos no teste.
+S: Ele foi mal no teste. Esperávamos que ele fosse melhor.
+
+C: Ele é tão talentoso como o cantor famoso.
+S: Ele é talentoso. O cantor famoso também é.
+
+C: Ela canta tão bem quanto sua irmã.
+S: Ela canta bem. Sua irmã também canta bem.
+
+C: O filme é pior do que eu imaginava.
+S: O filme é ruim. Eu imaginava que o filme fosse ruim.
+
+C: João foi melhor na prova do que Maria.
+S: João foi bem na prova. Maria também foi bem na prova.
+
+C: Ele é maior do que todos os outros alunos.
+S: Ele é grande. Todos os outros alunos também são grandes.
+
+C: Ele age como um idiota, assim como seus amigos.
+S: Ele age como um idiota. Seus amigos também agem como idiotas.
+
+C: Ela trabalhou tanto quanto sua colega.
+S: Ela trabalhou muito. Sua colega também trabalhou muito.
+
+C: Ele viajou tanto quanto seus pais.
+S: Ele viajou muito. Seus pais também viajaram muito.
+
+C: Minha mãe cozinha tão bem quanto a sua.
+S: Minha mãe cozinha bem. Sua mãe também cozinha bem.
+
+C: Ele tem tanto dinheiro quanto seu irmão.
+S: Ele tem muito dinheiro. Seu irmão também tem muito dinheiro.
+
+C: Ela corre tão rápido quanto o namorado.
+S: Ela corre rápido. O namorado também corre rápido.
+
+C: Ela estuda tanto quanto o irmão.
+S: Ela estuda. O irmão também estuda.
+
+C: O filme foi mais emocionante do que eu esperava.
+S: O filme foi emocionante. Eu não esperava isso.
+
+C: Ele corre tão rápido quanto o atleta profissional.
+S: Ele corre rápido. O atleta profissional também corre rápido.
+
+C: Ela é assim como a mãe.
+S: Ela é como a mãe. A mãe também é assim.
+
+C: O cachorro late tanto de dia quanto de noite.
+S: O cachorro late de dia. O cachorro também late de noite.
+
+C: Ele é melhor que os outros jogadores.
+S: Ele é bom. Os outros jogadores também são bons.
+
+C: O prato está tão saboroso quanto a sobremesa.
+S: O prato está saboroso. A sobremesa também está saborosa.
+
+C: O carro é pior que eu imaginava.
+S: O carro é ruim. Eu não imaginava isso.
+
+C: O voo foi maior que o esperado.
+S: O voo foi grande. Eu não esperava isso.
+
+C: Ela é tão inteligente quanto o professor.
+S: Ela é inteligente. O professor também é inteligente.
+
+C: Ele estuda tanto quanto trabalha.
+S: Ele estuda. Ele também trabalha.
+
+C: A cidade está cada vez mais movimentada, assim como o trânsito.
+S: A cidade está cada vez mais movimentada. O trânsito também está.
+
+C: Ela se esforça mais do que qualquer outra pessoa.
+S: Ela se esforça. Nenhuma outra pessoa se esforça tanto.
+
+C: O filme é tão bom quanto o livro.
+S: O filme é bom. O livro também é.
+
+C: O time jogou melhor do que o esperado.
+S: O time jogou. Não foi esperado que jogasse tão bem.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: O restaurante serve tanto almoço quanto jantar.
+S: O restaurante serve almoço. O restaurante também serve jantar.
+
+C: O salário dele é menor do que o dela.
+S: O salário dele é menor. O salário dela é maior.
+
+C: Ele é tão rápido quanto habilidoso.
+S: Ele é rápido. Ele também é habilidoso.
+
+C: O carro é mais caro do que eu pensava.
+S: O carro é caro. Eu não pensava que fosse tão caro.
+
+C: Ela é tão dedicada aos estudos quanto o seu irmão mais velho.
+S: Ela é dedicada aos estudos. O seu irmão mais velho também é dedicado aos estudos.
+
+C: A população está enfrentando problemas econômicos, assim como o governo.
+S: A população está enfrentando problemas econômicos. O governo também está enfrentando problemas econômicos.
+
+C: Ele fez melhor na prova do que eu.
+S: Ele fez bem na prova. Eu também fiz bem na prova.
+
+C: O rapaz é pior jogador de futebol do que o seu irmão.
+S: O rapaz é um jogador de futebol ruim. O seu irmão também é um jogador de futebol ruim.
+
+C: O time ganhou mais jogos do que qualquer outro.
+S: O time ganhou muitos jogos. Nenhum outro time ganhou tantos jogos como o nosso.
+
+C: Ela estuda tanto quanto o irmão.
+S: Ela estuda. O irmão também estuda.
+
+C: O filme foi tão bom quanto eu esperava.
+S: O filme foi bom. Eu o esperava assim.
+
+C: Ele é pior que o colega de trabalho.
+S: Ele é ruim. O colega de trabalho também é ruim.
+
+C: A viagem foi melhor do que eu imaginava.
+S: A viagem foi boa. Eu imaginava assim.
+
+C: O livro é maior que o anterior.
+S: O livro é grande. O anterior também é grande.
+
+C: Ela corre assim como o pai.
+S: Ela corre. O pai também corre.
+
+C: Ele trabalha tanto quanto a mãe.
+S: Ele trabalha. A mãe também trabalha.
+
+C: A comida estava tão boa quanto eu esperava.
+S: A comida estava boa. Eu esperava assim.
+
+C: Ele é pior do que o irmão.
+S: Ele é ruim. O irmão também é ruim.
+
+C: A festa foi melhor que a anterior.
+S: A festa foi boa. A anterior também foi boa.
+
+C: Ela estuda tanto quanto trabalha.
+S: Ela estuda. Ela também trabalha.
+
+C: Ele corre tão rápido quanto o Usain Bolt.
+S: Ele corre rápido. O Usain Bolt também corre rápido.
+
+C: A festa foi melhor do que eu esperava.
+S: A festa foi boa. Eu também não esperava tanto.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: Ele joga melhor que o Messi.
+S: Ele joga bem. O Messi também joga bem.
+
+C: A cidade é maior do que imaginei.
+S: A cidade é grande. Eu também não imaginei tanto.
+
+C: Ela se veste pior do que a irmã.
+S: Ela se veste mal. A irmã também se veste mal.
+
+C: Ele estuda mais do que eu.
+S: Ele estuda muito. Eu também não estudo tanto.
+
+C: O filme é tão emocionante quanto engraçado.
+S: O filme é emocionante. O filme também é engraçado.
+
+C: Ela canta tão bem quanto dança.
+S: Ela canta bem. Ela também dança bem.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ela cantou tão bem quanto o cantor profissional.
+S: Ela cantou bem. O cantor profissional também cantou bem.
+
+C: O restaurante é tão caro quanto o hotel.
+S: O restaurante é caro. O hotel também é caro.
+
+C: Ele é tão inteligente quanto o seu irmão mais velho.
+S: Ele é inteligente. O seu irmão mais velho também é inteligente.
+
+C: A empresa cresce tanto em lucro quanto em número de funcionários.
+S: A empresa cresce em lucro. A empresa também cresce em número de funcionários.
+
+C: O carro é tão rápido quanto o avião.
+S: O carro é rápido. O avião também é rápido.
+
+C: A comida é tão saborosa quanto a apresentação dos pratos.
+S: A comida é saborosa. A apresentação dos pratos também é saborosa.
+
+C: A obra é tão grandiosa quanto a pintura famosa.
+S: A obra é grandiosa. A pintura famosa também é grandiosa.
+
+C: Ele investiu tanto em ações quanto em imóveis.
+S: Ele investiu em ações. Ele também investiu em imóveis.
+
+C: O desempenho do grupo é tão bom quanto o do solista.
+S: O desempenho do grupo é bom. O desempenho do solista também é bom.
+
+C: O Brasil enfrentou dificuldades econômicas assim como outros países da América Latina.
+S: O Brasil enfrentou dificuldades econômicas. Outros países da América Latina também enfrentaram dificuldades.
+
+C: Ele tirou nota melhor que a minha.
+S: Ele tirou nota melhor. Eu também não tirei uma boa nota.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: O filme foi tão emocionante como o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ele se saiu tão bem quanto o nosso colega.
+S: Ele se saiu bem. O nosso colega também se saiu bem.
+
+C: Ele corre tanto quanto o atleta profissional.
+S: Ele corre bem. O atleta profissional também corre bem.
+
+C: Ela é pior que a minha irmã em matemática.
+S: Ela é ruim em matemática. A minha irmã também é ruim em matemática.
+
+C: Ele fala tanto quanto a professora.
+S: Ele fala bem. A professora também fala bem.
+
+C: Ele é assim como seu pai, sério e responsável.
+S: Ele é sério. Seu pai também é sério.
+
+C: Ele comeu tanto que ficou satisfeito.
+S: Ele comeu bastante. Ele ficou satisfeito.
+
+C: Ele estudou tanto quanto eu para a prova de matemática.
+S: Ele estudou para a prova de matemática. Eu também estudei para a prova de matemática.
+
+C: Ela corre tão rápido quanto o seu irmão mais velho.
+S: Ela corre rápido. O seu irmão mais velho também corre rápido.
+
+C: Essa cidade é tão bonita quanto Paris.
+S: Essa cidade é bonita. Paris também é bonita.
+
+C: A equipe de futebol jogou melhor que o time adversário.
+S: A equipe de futebol jogou bem. O time adversário também jogou bem.
+
+C: Ele comeu tanto quanto os outros convidados da festa.
+S: Ele comeu na festa. Os outros convidados também comeram na festa.
+
+C: O diretor de marketing é tão competente quanto o diretor financeiro.
+S: O diretor de marketing é competente. O diretor financeiro também é competente.
+
+C: Ela falou pior que o seu irmão mais novo na apresentação.
+S: Ela falou na apresentação. O seu irmão mais novo também falou na apresentação.
+
+C: Eles trabalham tanto quanto os outros funcionários da empresa.
+S: Eles trabalham na empresa. Os outros funcionários também trabalham na empresa.
+
+C: O desempenho do time foi tão ruim quanto se esperava.
+S: O desempenho do time foi ruim. Era o que se esperava.
+
+C: Ele se diverte tanto quanto os outros amigos no parque.
+S: Ele se diverte no parque. Os outros amigos também se divertem no parque.
+
+C: Eu gosto tanto de praia quanto de montanha.
+S: Eu gosto de praia. Eu também gosto de montanha.
+
+C: Ela é tão inteligente como bonita.
+S: Ela é inteligente. Ela é bonita também.
+
+C: Ele trabalha mais do que estuda.
+S: Ele trabalha. Ele estuda também.
+
+C: O filme é pior do que o livro.
+S: O filme é ruim. O livro é ruim também.
+
+C: O Brasil é tão grande quanto a Rússia.
+S: O Brasil é grande. A Rússia é grande também.
+
+C: O carro é melhor do que a bicicleta.
+S: O carro é bom. A bicicleta é boa também.
+
+C: Eles são maiores do que eu.
+S: Eles são grandes. Eu sou grande também.
+
+C: Ela corre tão rápido quanto o Usain Bolt.
+S: Ela corre rápido. O Usain Bolt corre rápido também.
+
+C: Ele joga futebol tão bem quanto o Neymar.
+S: Ele joga futebol bem. O Neymar joga futebol bem também.
+
+C: O restaurante é tão caro como elegante.
+S: O restaurante é caro. O restaurante é elegante também.
+
+C: Ele trabalha tanto quanto estuda.
+S: Ele trabalha. Ele também estuda.
+
+C: Ela corre mais rápido que todos os outros competidores.
+S: Ela corre. Todos os outros competidores também correm.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi.
+
+C: Ele se veste pior do que seu irmão.
+S: Ele se veste mal. Seu irmão também se veste mal.
+
+C: O carro é melhor que a bicicleta para se locomover na cidade.
+S: O carro é bom. A bicicleta também é boa.
+
+C: Ela fala tanto quanto ouve.
+S: Ela fala. Ela também ouve.
+
+C: A festa foi tão divertida quanto esperávamos.
+S: A festa foi divertida. Nós também esperávamos que fosse divertida.
+
+C: Ele é tão inteligente quanto seu pai.
+S: Ele é inteligente. Seu pai também é.
+
+C: O produto custa mais caro que o concorrente.
+S: O produto é caro. O concorrente também é.
+
+C: Ele dança melhor do que todos os outros dançarinos.
+S: Ele dança bem. Todos os outros dançarinos também dançam bem.
+
+C: Ele estudou tanto quanto sua irmã para a prova.
+S: Ele estudou. Sua irmã também estudou para a prova.
+
+C: Ela fez uma viagem tão incrível quanto a minha.
+S: Ela fez uma viagem incrível. A minha também foi incrível.
+
+C: Nossos resultados foram piores do que os esperados.
+S: Nossos resultados foram ruins. Os resultados esperados também foram ruins.
+
+C: O filme é tão emocionante quanto o livro.
+S: O filme é emocionante. O livro também é emocionante.
+
+C: Ele trabalha tanto quanto eu.
+S: Ele trabalha. Eu também trabalho.
+
+C: A comida é tão deliciosa quanto parece.
+S: A comida é deliciosa. Parece deliciosa também.
+
+C: Ela corre igualmente rápido quanto ele.
+S: Ela corre rápido. Ele também corre rápido.
+
+C: A festa foi tão divertida quanto esperávamos.
+S: A festa foi divertida. Esperávamos que fosse divertida também.
+
+C: A música é tão bonita quanto a letra.
+S: A música é bonita. A letra também é bonita.
+
+C: Ele fala italiano assim como fala francês.
+S: Ele fala italiano. Ele também fala francês.
+
+C: Ele corre tão rápido quanto um raio.
+S: Ele corre rápido. Um raio também corre rápido.
+
+C: Essa empresa é pior que a concorrente.
+S: Essa empresa é ruim. A concorrente também é ruim.
+
+C: Ela trabalha tanto quanto o marido.
+S: Ela trabalha muito. O marido também trabalha muito.
+
+C: Ele é melhor que os outros alunos.
+S: Ele é bom. Os outros alunos também são bons.
+
+C: Ele ganha mais dinheiro do que eu.
+S: Ele ganha dinheiro. Eu também ganho dinheiro.
+
+C: O jogo é tão difícil quanto eu imaginava.
+S: O jogo é difícil. Eu também imaginei que fosse difícil.
+
+C: Ele foi tão gentil quanto eu esperava.
+S: Ele foi gentil. Eu também esperava que ele fosse gentil.
+
+C: Ela fala tanto quanto o professor.
+S: Ela fala muito. O professor também fala muito.
+
+C: O clima está pior do que ontem.
+S: O clima está ruim. Ontem também estava ruim.
+
+C: Ele corre mais rápido do que qualquer um.
+S: Ele corre rápido. Qualquer um também corre rápido.
+
+C: Ele trabalha tanto quanto ela.
+S: Ele trabalha. Ela também trabalha.
+
+C: A casa é maior do que o apartamento.
+S: A casa é grande. O apartamento também é grande.
+
+C: Ele escreveu um livro tão bom quanto o dela.
+S: Ele escreveu um livro bom. Ela também escreveu um livro bom.
+
+C: Eles jogam futebol tão bem quanto os profissionais.
+S: Eles jogam futebol bem. Os profissionais também jogam futebol bem.
+
+C: O filme foi pior do que eu esperava.
+S: O filme foi ruim. Eu esperava que fosse ruim.
+
+C: Eu estudo tanto quanto você.
+S: Eu estudo. Você também estuda.
+
+C: Ela canta tão bem quanto a cantora famosa.
+S: Ela canta bem. A cantora famosa também canta bem.
+
+C: O carro é tão caro quanto o meu.
+S: O carro é caro. O meu também é caro.
+
+C: Ele se veste tão bem quanto o modelo.
+S: Ele se veste bem. O modelo também se veste bem.
+
+C: O concerto foi maravilhoso assim como o show anterior.
+S: O concerto foi maravilhoso. O show anterior também foi maravilhoso.
+
+C: Ele era tão habilidoso quanto o seu irmão mais velho.
+S: Ele era habilidoso. Seu irmão mais velho também era.
+
+C: A comida estava melhor do que eu esperava.
+S: A comida estava boa. Eu não esperava que fosse.
+
+C: Ela correu mais rápido que todos os outros competidores.
+S: Ela correu rápido. Todos os outros competidores também correram.
+
+C: O filme foi pior do que eu imaginava.
+S: O filme foi ruim. Eu não imaginava que seria.
+
+C: Ele é tão inteligente quanto a sua irmã mais nova.
+S: Ele é inteligente. Sua irmã mais nova também é.
+
+C: O carro era maior do que eu pensava.
+S: O carro era grande. Eu não pensava que fosse.
+
+C: Ele se saiu tão bem quanto o esperado.
+S: Ele se saiu bem. Era esperado.
+
+C: A festa foi tão divertida quanto a anterior.
+S: A festa foi divertida. A anterior também foi.
+
+C: O livro é melhor do que eu imaginava.
+S: O livro é bom. Eu não imaginava que seria.
+
+C: Ela é tão talentosa quanto o seu irmão mais velho.
+S: Ela é talentosa. Seu irmão mais velho também é.
+
+C: Estou tão animado para a festa de aniversário quanto você.
+S: Estou animado para a festa de aniversário. Você também está animado.
+
+C: A comida no restaurante era tão deliciosa quanto eu esperava.
+S: A comida no restaurante era deliciosa. Eu esperava que fosse.
+
+C: Ele jogou tão bem no jogo de futebol quanto o seu irmão.
+S: Ele jogou bem no jogo de futebol. O seu irmão também jogou bem.
+
+C: Este livro é tão interessante quanto o último que eu li.
+S: Este livro é interessante. O último que eu li também era.
+
+C: Ela se vestiu tão elegantemente quanto as outras convidadas.
+S: Ela se vestiu elegantemente. As outras convidadas também se vestiram.
+
+C: O carro novo é tão rápido quanto o antigo.
+S: O carro novo é rápido. O antigo também era.
+
+C: Elas dançaram tão bem quanto as bailarinas profissionais.
+S: Elas dançaram bem. As bailarinas profissionais também dançaram bem.
+
+C: Ele é tão inteligente quanto o seu irmão gêmeo.
+S: Ele é inteligente. O seu irmão gêmeo também é.
+
+C: A música estava tão alta quanto o volume máximo.
+S: A música estava alta. O volume máximo também estava.
+
+C: O evento foi tão emocionante quanto eu imaginava.
+S: O evento foi emocionante. Eu imaginava que seria.
+
+C: Agi de acordo com a situação, assim como os demais colegas de trabalho.
+S: Agi de acordo com a situação. Os demais colegas de trabalho também agiram.
+
+C: O time jogou tão mal quanto o adversário.
+S: O time jogou mal. O adversário também jogou mal.
+
+C: Comi tanto quanto você na festa.
+S: Comi na festa. Você também comeu.
+
+C: Ela dança melhor que eu.
+S: Ela dança bem. Eu também danço bem.
+
+C: Ela comprou um carro maior que o meu.
+S: Ela comprou um carro grande. Eu também tenho um carro grande.
+
+C: Estamos estudando assim como planejamos uma viagem.
+S: Estamos estudando. Também estamos planejando uma viagem.
+
+C: Ele marcou o gol pior que o colega.
+S: Ele marcou o gol mal. O colega também marcou mal.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Meu celular é igual ao seu.
+S: Meu celular é igual. Seu celular também é igual.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: O carro é tão rápido quanto um foguete.
+S: O carro é rápido. Um foguete também é rápido.
+
+C: Ela é tão inteligente quanto ele.
+S: Ela é inteligente. Ele também é inteligente.
+
+C: Ele é melhor jogador de futebol do que ela.
+S: Ele é melhor jogador de futebol. Ela também é melhor jogador de futebol.
+
+C: Ele estuda tanto quanto ela.
+S: Ele estuda. Ela também estuda.
+
+C: A cidade é maior do que a vila.
+S: A cidade é grande. A vila também é grande.
+
+C: A comida é pior do que eu esperava.
+S: A comida é ruim. Eu também esperava que fosse ruim.
+
+C: A empresa investe tanto em tecnologia quanto em marketing.
+S: A empresa investe em tecnologia. A empresa também investe em marketing.
+
+C: Ele corre tão rápido quanto um atleta profissional.
+S: Ele corre rápido. Um atleta profissional também corre rápido.
+
+C: Ela é tão bonita quanto uma modelo.
+S: Ela é bonita. Uma modelo também é bonita.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ela fala tão rápido quanto um jato.
+S: Ela fala rápido. Um jato também fala rápido.
+
+C: O desempenho dele foi pior do que o esperado.
+S: O desempenho dele foi ruim. O esperado também foi ruim.
+
+C: Ele estudou tanto quanto ela para a prova.
+S: Ele estudou muito. Ela também estudou muito.
+
+C: A comida estava tão deliciosa quanto eu imaginava.
+S: A comida estava deliciosa. Eu também imaginava que estaria deliciosa.
+
+C: A equipe de futebol jogou melhor do que a equipe de basquete.
+S: A equipe de futebol jogou bem. A equipe de basquete também jogou bem.
+
+C: A temperatura está maior do que ontem.
+S: A temperatura está alta. Ontem também estava alta.
+
+C: Ele age como uma criança igual o irmão mais novo.
+S: Ele age como uma criança. O irmão mais novo também age como uma criança.
+
+C: Ela se veste assim como a mãe.
+S: Ela se veste assim. A mãe também se veste assim.
+
+C: O carro é tão rápido quanto um relâmpago.
+S: O carro é rápido. Um relâmpago também é rápido.
+
+C: Ele tem tanto dinheiro quanto o seu vizinho.
+S: Ele tem dinheiro. O seu vizinho também tem dinheiro.
+
+C: Ele não estudou tanto quanto deveria para a prova.
+S: Ele não estudou para a prova. Ele deveria ter estudado mais.
+
+C: Ela é tão inteligente quanto sua irmã mais velha.
+S: Ela é inteligente. Sua irmã mais velha também é inteligente.
+
+C: O time jogou melhor do que o adversário.
+S: O time jogou. O adversário não jogou tão bem.
+
+C: O carro é mais caro do que eu esperava.
+S: O carro é caro. Eu não esperava que fosse tão caro.
+
+C: O trabalho foi pior do que o professor imaginava.
+S: O trabalho foi. O professor não imaginava que fosse tão ruim.
+
+C: Ele é maior do que todos os outros alunos da turma.
+S: Ele é grande. Todos os outros alunos da turma também são grandes.
+
+C: A festa estava tão animada quanto a do ano passado.
+S: A festa estava animada. A festa do ano passado também estava animada.
+
+C: O filme foi tão emocionante quanto o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ela correu tanto quanto pôde na maratona.
+S: Ela correu na maratona. Ela correu o máximo que pôde.
+
+C: Os produtos são melhores do que os concorrentes.
+S: Os produtos são bons. Os concorrentes não são tão bons.
+
+C: Ela é tão inteligente como a irmã mais velha.
+S: Ela é inteligente. A irmã mais velha também é inteligente.
+
+C: Ele correu mais rápido que os outros competidores.
+S: Ele correu rápido. Os outros competidores também correram rápido.
+
+C: A empresa investiu tanto em marketing quanto em tecnologia.
+S: A empresa investiu em marketing. A empresa também investiu em tecnologia.
+
+C: Ele trabalha tanto quanto o colega de equipe.
+S: Ele trabalha. O colega de equipe também trabalha.
+
+C: O filme foi tão emocionante como o livro.
+S: O filme foi emocionante. O livro também foi emocionante.
+
+C: Ela estudou tanto quanto os outros alunos da turma.
+S: Ela estudou. Os outros alunos da turma também estudaram.
+
+C: Ele é tão habilidoso como o melhor jogador do time.
+S: Ele é habilidoso. O melhor jogador do time também é habilidoso.
+
+C: Eles gastaram mais dinheiro que os outros visitantes do parque.
+S: Eles gastaram dinheiro. Os outros visitantes do parque também gastaram dinheiro.
+
+C: Ela é tão bonita quanto a modelo mais famosa.
+S: Ela é bonita. A modelo mais famosa também é bonita.
+
+C: Ele fala tanto quanto o professor.
+S: Ele fala. O professor também fala.
+
+C: O filme foi tão emocionante quanto eu esperava.
+S: O filme foi emocionante. Eu esperava isso também.
+
+C: Ela é tão inteligente quanto sua irmã mais velha.
+S: Ela é inteligente. Sua irmã mais velha também é.
+
+C: Ele escreveu pior do que todos os outros candidatos.
+S: Ele escreveu mal. Todos os outros candidatos também escreveram.
+
+C: A comida é melhor do que eu achei que seria.
+S: A comida é boa. Eu achei que seria assim também.
+
+C: Ela tem tanto talento quanto seu irmão mais novo.
+S: Ela tem talento. Seu irmão mais novo também tem.
+
+C: O carro é maior do que eu pensava.
+S: O carro é grande. Eu pensava assim também.
+
+C: Ele correu mais rápido do que todos os outros atletas.
+S: Ele correu rápido. Todos os outros atletas também correram.
+
+C: A praia é tão bonita quanto eu me lembrava.
+S: A praia é bonita. Eu me lembrava assim também.
+
+C: Ele estudou menos do que todos os outros alunos.
+S: Ele estudou pouco. Todos os outros alunos também estudaram.
+
+C: O livro é tão interessante quanto eu ouvi falar.
+S: O livro é interessante. Eu ouvi falar assim também.
+
+C: Ele agiu da mesma forma que seu irmão.
+S: Ele agiu da mesma forma. Seu irmão também agiu da mesma forma.
+
+C: A cidade está cada vez mais perigosa, assim como outras capitais do país.
+S: A cidade está cada vez mais perigosa. Outras capitais do país também estão cada vez mais perigosas.
+
+C: Ela correu tão rápido quanto um campeão olímpico.
+S: Ela correu tão rápido. Um campeão olímpico também corre tão rápido.
+
+C: A aula foi tão chata quanto a palestra anterior.
+S: A aula foi tão chata. A palestra anterior também foi tão chata.
+
+C: O livro é melhor que o filme baseado nele.
+S: O livro é melhor. O filme baseado nele também é melhor.
+
+C: Ele é tão inteligente quanto sua irmã mais velha.
+S: Ele é tão inteligente. Sua irmã mais velha também é tão inteligente.
+
+C: A música é pior que as anteriores do álbum.
+S: A música é pior. As anteriores do álbum também são piores.
+
+C: Ela é maior que suas amigas de escola.
+S: Ela é maior. Suas amigas de escola também são maiores.
+
+C: Ele comeu tanto no almoço quanto no jantar.
+S: Ele comeu tanto no almoço. Ele também comeu tanto no jantar.
+
+C: Ela está tão feliz quanto eu com essa notícia.
+S: Ela está tão feliz. Eu também estou tão feliz com essa notícia.
+
+C: O jogo de futebol foi tão emocionante quanto o último clássico.
+S: O jogo de futebol foi emocionante. O último clássico também foi.
+
+C: Ela falou pior do que o esperado durante a reunião.
+S: Ela falou durante a reunião. Não foi tão bem quanto o esperado.
+
+C: Esse filme é tão bom quanto o vencedor do Oscar.
+S: Esse filme é bom. O vencedor do Oscar também é.
+
+C: A nova técnica é melhor do que a anterior para resolver o problema.
+S: A nova técnica é melhor. A anterior não é tão eficaz para resolver o problema.
+
+C: Ele estuda tanto quanto os melhores alunos da turma.
+S: Ele estuda. Os melhores alunos da turma também estudam.
+
+C: Minha irmã está tão animada quanto eu para a viagem.
+S: Minha irmã está animada. Eu também estou para a viagem.
+
+C: O carro dele é maior do que o meu.
+S: O carro dele é grande. O meu não é tão grande.
+
+C: Essa cidade é tão bonita quanto Paris.
+S: Essa cidade é bonita. Paris também é.
+
+C: Ele corre tão rápido quanto um atleta profissional.
+S: Ele corre rápido. Um atleta profissional também corre.
+
+C: Essa música é tão popular quanto a última do cantor.
+S: Essa música é popular. A última do cantor também é.
+
+C: Ele trabalha tanto quanto estuda para alcançar seus objetivos.
+S: Ele trabalha. Ele estuda para alcançar seus objetivos também.
+
+C: O livro é tão emocionante quanto o filme.
+S: O livro é emocionante. O filme também é emocionante.
+
+C: Ela é melhor que eu em matemática.
+S: Ela é boa em matemática. Eu também sou boa em matemática.
+
+C: O carro é maior que a moto.
+S: O carro é grande. A moto também é grande.
+
+C: O time jogou pior que no último jogo.
+S: O time jogou mal. No último jogo, o time também jogou mal.
+
+C: Ele é assim como o pai, corajoso e honesto.
+S: Ele é corajoso. Ele é honesto, assim como o pai.
+
+C: Ela dança tão bem quanto canta.
+S: Ela dança bem. Ela canta também.
+
+C: Ele fala tão rápido quanto pensa.
+S: Ele fala rápido. Ele pensa rápido também.
+
+C: O restaurante é tão caro quanto sofisticado.
+S: O restaurante é caro. O restaurante é sofisticado também.
+
+C: A cidade é tão bonita quanto histórica.
+S: A cidade é bonita. A cidade é histórica também.
+
+C: Ela se revelou uma jogadora tão talentosa quanto a campeã mundial.
+S: Ela se revelou uma jogadora talentosa. A campeã mundial também é talentosa.
+
+C: O filme foi elogiado pelo seu enredo original, assim como pela atuação dos atores.
+S: O filme foi elogiado pelo seu enredo original. A atuação dos atores também foi elogiada.
+
+C: Ele tinha tanta paciência quanto um monge budista.
+S: Ele tinha paciência. Um monge budista também tem paciência.
+
+C: Ela corre tão rápido quanto um guepardo.
+S: Ela corre rápido. Um guepardo também corre rápido.
+
+C: O livro é tão interessante quanto o filme.
+S: O livro é interessante. O filme também é interessante.
+
+C: Ele é tão inteligente quanto seu irmão mais velho.
+S: Ele é inteligente. Seu irmão mais velho também é inteligente.
+
+C: A cidade tem tantas opções de lazer quanto a praia.
+S: A cidade tem opções de lazer. A praia também tem opções de lazer.
+
+C: Ela falou tão alto quanto um megafone.
+S: Ela falou alto. Um megafone também fala alto.
+
+C: O prato é tão saboroso quanto o da melhor chef do país.
+S: O prato é saboroso. O da melhor chef do país também é saboroso.
+
+C: Ele é tão bonito quanto um modelo de passarela.
+S: Ele é bonito. Um modelo de passarela também é bonito.
+
+C: Ele estudou tanto quanto o seu irmão.
+S: Ele estudou. O seu irmão também estudou.
+
+C: O carro dela é melhor que o meu.
+S: O carro dela é melhor. O meu não é tão bom.
+
+C: Ele é tão inteligente quanto o seu irmão.
+S: Ele é inteligente. O seu irmão também é.
+
+C: Elas correm melhor do que eu.
+S: Elas correm melhor. Eu não corro tão bem.
+
+C: Esse filme é pior que o anterior.
+S: Esse filme é pior. O anterior não era tão ruim.
+
+C: Ele trabalha tanto quanto eu.
+S: Ele trabalha. Eu também trabalho.
+
+C: A festa foi tão animada quanto a do ano passado.
+S: A festa foi animada. A do ano passado também foi.
+
+C: Ela é tão bonita quanto a sua irmã.
+S: Ela é bonita. A sua irmã também é.
+
+C: O bolo ficou tão gostoso quanto o que a minha avó faz.
+S: O bolo ficou gostoso. O que a minha avó faz também fica.
+
+C: Ele fala tanto quanto ela.
+S: Ele fala. Ela também fala.
+
+C: Ele estudou tanto quanto o seu amigo.
+S: Ele estudou. O seu amigo também estudou.
+
+C: O carro é melhor que a bicicleta.
+S: O carro é melhor. A bicicleta também é melhor.
+
+C: Ela dança tão bem quanto a sua irmã.
+S: Ela dança bem. A sua irmã também dança bem.
+
+C: O preço do livro é pior do que o do filme.
+S: O preço do livro é pior. O preço do filme também é pior.
+
+C: João é tão alto quanto Pedro.
+S: João é alto. Pedro também é alto.
+
+C: A viagem foi tão interessante quanto o show.
+S: A viagem foi interessante. O show também foi interessante.
+
+C: A prova foi mais difícil do que eu imaginava.
+S: A prova foi difícil. Eu imaginava também.
+
+C: Ela tem o mesmo talento que a sua mãe.
+S: Ela tem talento. A sua mãe também tem talento.
+
+C: Ele corre tão rápido quanto o seu irmão.
+S: Ele corre rápido. O seu irmão também corre rápido.
+
+C: O restaurante serve tanta comida quanto o buffet.
+S: O restaurante serve comida. O buffet também serve comida.
+
+C: Ele trabalha tanto quanto estuda para alcançar seus objetivos.
+S: Ele trabalha para alcançar seus objetivos. Ele também estuda para alcançar seus objetivos.
+
+C: O carro é tão caro quanto a casa.
+S: O carro é caro. A casa também é cara.
+
+C: Ela correu mais rápido do que o seu irmão.
+S: Ela correu rápido. O seu irmão também correu rápido.
+
+C: O livro é pior do que o filme.
+S: O livro é ruim. O filme também é ruim.
+
+C: Elas cantam melhor do que dançam.
+S: Elas cantam bem. Elas também dançam.
+
+C: Ele tem a mesma habilidade para tocar piano assim como para tocar guitarra.
+S: Ele tem habilidade para tocar piano. Ele também tem habilidade para tocar guitarra.
+
+C: A comida italiana é tão deliciosa quanto a comida francesa.
+S: A comida italiana é deliciosa. A comida francesa também é deliciosa.
+
+C: Ele estuda assim como trabalha para pagar suas contas.
+S: Ele estuda para pagar suas contas. Ele também trabalha para pagar suas contas.
+
+C: Ela se veste tão bem quanto sua irmã.
+S: Ela se veste bem. Sua irmã também se veste bem.
+
+C: O dia está tão bonito quanto a noite.
+S: O dia está bonito. A noite também está bonita.
+
+C: Ele não gosta de estudar tanto quanto seus colegas.
+S: Ele não gosta de estudar. Seus colegas também não gostam de estudar.
+
+C: A empresa investiu em marketing assim como investiu em pesquisa e desenvolvimento.
+S: A empresa investiu em marketing. A empresa também investiu em pesquisa e desenvolvimento.
+
+C: Ela é tão inteligente quanto bonita.
+S: Ela é inteligente. Ela também é bonita.
+
+C: O carro é pior em consumo de combustível do que o anterior.
+S: O carro é ruim em consumo de combustível. O anterior também é ruim em consumo de combustível.
+
+C: Ele é melhor em administração do que em vendas.
+S: Ele é bom em administração. Ele também é bom em vendas.
+
+C: Ela tem mais habilidades em arte do que em ciências.
+S: Ela tem habilidades em arte. Ela também tem habilidades em ciências.
+
+C: O time joga melhor em casa do que fora.
+S: O time joga bem em casa. O time também joga bem fora.
+
+C: Ele é maior em altura do que seus irmãos.
+S: Ele é alto. Seus irmãos também são altos.
+
+C: Ela vende mais produtos do que sua concorrente.
+S: Ela vende produtos. Sua concorrente também vende produtos.
+
+C: Nós trabalhamos tanto quanto estudamos.
+S: Nós trabalhamos. Nós também estudamos.
+
+C: O time jogou tão bem quanto o adversário.
+S: O time jogou bem. O adversário também jogou bem.
+
+C: Ela é melhor que eu em matemática.
+S: Ela é boa em matemática. Eu também sou bom em matemática.
+
+C: O livro é pior que o filme.
+S: O livro é ruim. O filme também é ruim.
+
+C: Ele ganhou tanto dinheiro quanto o irmão.
+S: Ele ganhou dinheiro. O irmão também ganhou dinheiro.
+
+C: Ela é tão inteligente quanto a mãe.
+S: Ela é inteligente. A mãe também é inteligente.
+
+C: O carro é tão rápido quanto o avião.
+S: O carro é rápido. O avião também é rápido.
+
+C: Ele trabalha tanto quanto os colegas.
+S: Ele trabalha. Os colegas também trabalham.
+
+C: O restaurante tem tanta comida quanto o buffet.
+S: O restaurante tem comida. O buffet também tem comida.
+
+C: O filme é tão emocionante quanto o livro.
+S: O filme é emocionante. O livro também é emocionante.
+
+C: O cachorro é tão bravo quanto o gato.
+S: O cachorro é bravo. O gato também é bravo.
+

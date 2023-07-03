@@ -1,0 +1,26 @@
+(3) Orações subordinadas adverbiais
+
+h. Conformativas: indicam uma conformidade, um acordo entre o fato que expressam
+e a ação do verbo da oração principal: conforme, como, consoante, segundo...
+
+Regra: Inverter a ordem das cláusulas, considerando-se primeiramente a cláusula
+subordinada, com a explicitação do sujeito e a eliminação ou modificação do marcador
+discursivo de conformidade para a introdução de uma cláusula relativa precedida por
+'que'. Essa cláusula relativa consiste da oração original sem a cláusula subordinada. Se
+não houver verbo não oração subordinada, deve-se utilizar 'CONFIRMA QUE' ao invés
+de 'QUE'.
+ -> Procurar manter a ordem S-V-O
+
+Exemplos:
+
+Complexa: O ministro da Fazenda nega com a mesma veemência que seu ex-assessor Ralf Barquete recebesse recursos da empresa Leão Leão para serem repassados ao diretório nacional do PT, conforme afirmou o promotor Sebastião Sérgio de Silveira.
+Simplificada: O promotor Sebastião Sérgio de Silveira afirmou que o ministro da Fazenda nega com a mesma veemência que seu ex-assessor Ralf Barquete recebesse recursos da empresa Leão Leão para serem repassados ao diretório nacional do PT.
+
+Complexa: Conforme a Folha apurou, os repasses totais do BB à DNA foram crescendo ano a ano.
+Simplificada: A Folha apurou que os repasses totais do BB à DNA foram crescendo ano a ano.
+
+Complexa: Em lugar de dizer que o Brasil recebia com o coração aberto a um amigo especial , conforme a versão original do discurso , chamou-o de 'um amigo muito especial
+Simplificada: A versão original do discurso confirma que em lugar de dizer que o Brasil recebia com o coração aberto a um amigo especial, chamou-o de um amigo muito especial.
+
+Complexa: O papa percorreu 991.968 km nas 79 viagens anteriores pelo mundo , conforme os números oficiais do Vaticano .
+Simplificada: Os números oficiais do Vaticano confirmam que o papa percorreu 991.968 km nas 79 viagens anteriores pelo mundo.

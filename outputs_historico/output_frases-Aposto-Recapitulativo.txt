@@ -1,0 +1,4018 @@
+C: O tempo, a saudade, a solidão, tudo afligia João.
+S: O tempo, a saudade, a solidão, tudo afligia João.
+
+C: A chuva, o frio, a escuridão, nada assustava Maria.
+S: A chuva, o frio, a escuridão, nada assustava Maria.
+
+C: A música, as cores, a dança, tudo encantava Pedro.
+S: A música, as cores, a dança, tudo encantava Pedro.
+
+C: O trabalho, a responsabilidade, o estresse, nada incomodava Ana.
+S: O trabalho, a responsabilidade, o estresse, nada incomodava Ana.
+
+C: A alegria, a felicidade, a paz, tudo encorajava Carlos.
+S: A alegria, a felicidade, a paz, tudo encorajava Carlos.
+
+C: O sol, o mar, a brisa, nada relaxava Laura.
+S: O sol, o mar, a brisa, nada relaxava Laura.
+
+C: O medo, a angústia, a tristeza, nada abalava Pedro.
+S: O medo, a angústia, a tristeza, nada abalava Pedro.
+
+C: A comida, a bebida, a música, tudo animava Joana.
+S: A comida, a bebida, a música, tudo animava Joana.
+
+C: O barulho, a confusão, a bagunça, tudo irritava Maria.
+S: O barulho, a confusão, a bagunça, tudo irritava Maria.
+
+C: O silêncio, a tranquilidade, a paz, tudo acalmava Roberto.
+S: O silêncio, a tranquilidade, a paz, tudo acalmava Roberto.
+
+C: A viagem para a praia, com direito a sol, mar e areia branca, era o sonho de João.
+S: A viagem para a praia era o sonho de João.
+
+C: O livro, que foi escrito por um autor renomado, está esgotado nas livrarias.
+S: O livro está esgotado nas livrarias.
+
+C: O gato, que estava escondido debaixo da cama, foi encontrado pelo menino.
+S: O gato foi encontrado pelo menino.
+
+C: A notícia de que a empresa vai falir deixou todos os funcionários preocupados.
+S: A notícia deixou todos os funcionários preocupados.
+
+C: O sol, que estava radiante no céu azul, convidava todos a irem à praia.
+S: O sol convidava todos a irem à praia.
+
+C: A festa, que foi organizada pela família, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: O cachorro, que estava encharcado de chuva, sacudiu-se ao entrar em casa.
+S: O cachorro sacudiu-se ao entrar em casa.
+
+C: O filme, que foi dirigido por um premiado diretor, está em cartaz no cinema.
+S: O filme está em cartaz no cinema.
+
+C: O presente, que foi comprado com muito carinho, foi entregue à aniversariante.
+S: O presente foi entregue à aniversariante.
+
+C: O dia, que começou chuvoso e fechado, foi ficando ensolarado ao longo da tarde.
+S: O dia foi ficando ensolarado ao longo da tarde.
+
+C: João, o empresário rico, estava presente na reunião.
+S: João, o empresário rico, estava presente na reunião.
+
+C: Os livros, que estavam empilhados na estante, caíram no chão.
+S: Os livros, que estavam empilhados na estante, caíram no chão.
+
+C: Andréa, minha melhor amiga, foi a vencedora do concurso.
+S: Andréa, minha melhor amiga, foi a vencedora do concurso.
+
+C: As flores, que estavam murchas, foram jogadas fora.
+S: As flores, que estavam murchas, foram jogadas fora.
+
+C: O carro, que era velho e enferrujado, não funcionava mais.
+S: O carro, que era velho e enferrujado, não funcionava mais.
+
+C: Os convidados, que estavam cansados, foram embora cedo.
+S: Os convidados, que estavam cansados, foram embora cedo.
+
+C: O computador, que era antigo, travava a todo momento.
+S: O computador, que era antigo, travava a todo momento.
+
+C: A casa, que estava abandonada, foi reformada recentemente.
+S: A casa, que estava abandonada, foi reformada recentemente.
+
+C: O filme, que estava em cartaz no cinema, recebeu várias indicações ao prêmio.
+S: O filme, que estava em cartaz no cinema, recebeu várias indicações ao prêmio.
+
+C: O livro, que era best-seller, foi adaptado para o cinema.
+S: O livro, que era best-seller, foi adaptado para o cinema.
+
+C: O livro, que era muito interessante, prendeu a atenção dos alunos.
+S: O livro prendeu a atenção dos alunos.
+
+C: A praia, onde costumamos passar as férias, é muito bonita.
+S: A praia é muito bonita.
+
+C: A cidade, onde nasci, é pequena e acolhedora.
+S: A cidade é pequena e acolhedora.
+
+C: O carro, que é vermelho, chama a atenção por onde passa.
+S: O carro chama a atenção por onde passa.
+
+C: A casa, que foi construída há poucos anos, é moderna e espaçosa.
+S: A casa é moderna e espaçosa.
+
+C: O filme, que foi premiado, é muito emocionante.
+S: O filme é muito emocionante.
+
+C: A música, que é muito animada, faz todos dançarem.
+S: A música faz todos dançarem.
+
+C: A viagem, que foi planejada com antecedência, foi muito divertida.
+S: A viagem foi muito divertida.
+
+C: O cachorro, que é muito brincalhão, adora correr no parque.
+S: O cachorro adora correr no parque.
+
+C: O livro, que foi lançado recentemente, já é um sucesso de vendas.
+S: O livro já é um sucesso de vendas.
+
+C: A música alta, as luzes brilhantes, as pessoas dançando, tudo animava a festa.
+S: A música alta, as luzes brilhantes, as pessoas dançando, tudo animava a festa.
+
+C: O sol quente, o céu azul, a brisa suave, nada atrapalhava o passeio.
+S: O sol quente, o céu azul, a brisa suave, nada atrapalhava o passeio.
+
+C: A comida deliciosa, o clima agradável, a companhia divertida, tudo contribuía para o jantar perfeito.
+S: A comida deliciosa, o clima agradável, a companhia divertida, tudo contribuía para o jantar perfeito.
+
+C: O tempo frio, a chuva constante, os ventos fortes, nada impedia a caminhada.
+S: O tempo frio, a chuva constante, os ventos fortes, nada impedia a caminhada.
+
+C: As palavras doces, os gestos carinhosos, os olhares apaixonados, tudo encantava o casal.
+S: As palavras doces, os gestos carinhosos, os olhares apaixonados, tudo encantava o casal.
+
+C: A sala bagunçada, os livros espalhados, as roupas jogadas, nada incomodava Pedro.
+S: A sala bagunçada, os livros espalhados, as roupas jogadas, nada incomodava Pedro.
+
+C: Os filmes emocionantes, os personagens marcantes, os enredos envolventes, tudo encantava Lucas.
+S: Os filmes emocionantes, os personagens marcantes, os enredos envolventes, tudo encantava Lucas.
+
+C: Os problemas financeiros, as preocupações constantes, os prazos apertados, nada abalava Ana.
+S: Os problemas financeiros, as preocupações constantes, os prazos apertados, nada abalava Ana.
+
+C: As discussões acaloradas, os ânimos exaltados, os argumentos contundentes, nada resolvia o conflito.
+S: As discussões acaloradas, os ânimos exaltados, os argumentos contundentes, nada resolvia o conflito.
+
+C: O bolo delicioso, os docinhos sortidos, os salgadinhos saborosos, tudo agradava os convidados.
+S: O bolo delicioso, os docinhos sortidos, os salgadinhos saborosos, tudo agradava os convidados.
+
+C: O filme, com atuações incríveis, ganhou vários prêmios.
+S: O filme ganhou vários prêmios.
+
+C: A festa, que durou a noite toda, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: O carro, que custou uma fortuna, quebrou na estrada.
+S: O carro quebrou na estrada.
+
+C: João, que é um excelente jogador, marcou o gol da vitória.
+S: João marcou o gol da vitória.
+
+C: A entrevista, que foi muito difícil, rendeu uma vaga de emprego.
+S: A entrevista rendeu uma vaga de emprego.
+
+C: A casa, que foi construída há muitos anos, precisa de reformas.
+S: A casa precisa de reformas.
+
+C: O livro, com uma história emocionante, leva o leitor às lágrimas.
+S: O livro leva o leitor às lágrimas.
+
+C: O restaurante, que possui um cardápio variado, é famoso na região.
+S: O restaurante é famoso na região.
+
+C: Ana, que é uma excelente cozinheira, preparou um jantar delicioso.
+S: Ana preparou um jantar delicioso.
+
+C: O parque, com uma vista deslumbrante, atrai turistas de todo o mundo.
+S: O parque atrai turistas de todo o mundo.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante.
+
+C: Ela disse que vai se mudar para outra cidade.
+S: Ela vai se mudar para outra cidade.
+
+C: O fato de ele ter mentido foi surpreendente.
+S: Ele ter mentido foi surpreendente.
+
+C: A ideia de viajar para o exterior me anima.
+S: Viajar para o exterior me anima.
+
+C: A notícia de que ele foi promovido me deixou feliz.
+S: Ele ter sido promovido me deixou feliz.
+
+C: É fundamental que você estude para a prova.
+S: Você estudar para a prova é fundamental.
+
+C: Acredito que ele deva vir amanhã.
+S: Ele vir amanhã é o que acredito.
+
+C: É melhor que você descanse um pouco.
+S: Você descansar um pouco é melhor.
+
+C: O fato de ela ter sido demitida é uma pena.
+S: Ela ter sido demitida é uma pena.
+
+C: A ideia de fazer um intercâmbio me empolga.
+S: Fazer um intercâmbio me empolga.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+
+C: A comida que minha mãe preparou estava deliciosa.
+S: A comida que minha mãe preparou estava deliciosa.
+
+C: O carro que ele comprou é vermelho.
+S: O carro que ele comprou é vermelho.
+
+C: A música que ele compôs é muito bonita.
+S: A música que ele compôs é muito bonita.
+
+C: Os filmes que assisti no fim de semana foram bem divertidos.
+S: Os filmes que assisti no fim de semana foram bem divertidos.
+
+C: O trabalho que ele entregou estava muito bem feito.
+S: O trabalho que ele entregou estava muito bem feito.
+
+C: A blusa que comprei na loja é da cor rosa.
+S: A blusa que comprei na loja é da cor rosa.
+
+C: As viagens que fiz no ano passado foram inesquecíveis.
+S: As viagens que fiz no ano passado foram inesquecíveis.
+
+C: Os presentes que ganhei no meu aniversário foram muito especiais.
+S: Os presentes que ganhei no meu aniversário foram muito especiais.
+
+C: Os livros que tenho na estante são de diversos gêneros.
+S: Os livros que tenho na estante são de diversos gêneros.
+
+C: O concerto de música clássica, o filme de comédia e o livro de romance, tudo agradava João.
+S: O concerto, o filme e o livro, tudo agradava João.
+
+C: As flores, os chocolates, os presentes, tudo encantava Ana.
+S: As flores, os chocolates, os presentes, tudo encantava Ana.
+
+C: A praia, as montanhas, as cidades históricas, nada atraía Pedro.
+S: A praia, as montanhas, as cidades históricas, nada atraía Pedro.
+
+C: Os livros de suspense, as séries de suspense, os filmes de suspense, tudo fascinava Laura.
+S: Os livros, as séries, os filmes de suspense, tudo fascinava Laura.
+
+C: Os carros esportivos, os relógios de luxo, as roupas de grife, nada interessava Carlos.
+S: Os carros esportivos, os relógios de luxo, as roupas de grife, nada interessava Carlos.
+
+C: A moda, a música, a arte, tudo encantava Gabriela.
+S: A moda, a música, a arte, tudo encantava Gabriela.
+
+C: A culinária japonesa, a culinária italiana, a culinária francesa, nada agradava Maria.
+S: A culinária japonesa, a culinária italiana, a culinária francesa, nada agradava Maria.
+
+C: O futebol, o basquete, o tênis, tudo entusiasmava Lucas.
+S: O futebol, o basquete, o tênis, tudo entusiasmava Lucas.
+
+C: Os animais de estimação, as viagens, as festas, tudo alegrava Luisa.
+S: Os animais de estimação, as viagens, as festas, tudo alegrava Luisa.
+
+C: Os filmes de ação, os jogos de videogame, os esportes radicais, nada interessava Pedro.
+S: Os filmes de ação, os jogos de videogame, os esportes radicais, nada interessava Pedro.
+
+C: O calor escaldante, as ruas vazias, o silêncio perturbador, tudo deixava Ana desconfortável.
+S: O calor escaldante, as ruas vazias, o silêncio perturbador, tudo deixava Ana desconfortável.
+
+C: A multidão animada, os fogos de artifício estourando, a música alta, nada distraía Pedro.
+S: A multidão animada, os fogos de artifício estourando, a música alta, nada distraía Pedro.
+
+C: O vento gelado, as árvores balançando, a chuva fina, nada abalava João.
+S: O vento gelado, as árvores balançando, a chuva fina, nada abalava João.
+
+C: Os alimentos apetitosos, as bebidas refrescantes, a decoração exuberante, tudo agradava os convidados.
+S: Os alimentos apetitosos, as bebidas refrescantes, a decoração exuberante, tudo agradava os convidados.
+
+C: A viagem cansativa, as malas pesadas, as horas de espera, nada abalava Maria.
+S: A viagem cansativa, as malas pesadas, as horas de espera, nada abalava Maria.
+
+C: Os sapatos confortáveis, as roupas elegantes, os acessórios sofisticados, tudo impressionava Luísa.
+S: Os sapatos confortáveis, as roupas elegantes, os acessórios sofisticados, tudo impressionava Luísa.
+
+C: A comida saborosa, os pratos bem apresentados, o ambiente aconchegante, nada desagradava Carolina.
+S: A comida saborosa, os pratos bem apresentados, o ambiente aconchegante, nada desagradava Carolina.
+
+C: A música alta, as pessoas dançando, as luzes coloridas, nada distraía Lucas.
+S: A música alta, as pessoas dançando, as luzes coloridas, nada distraía Lucas.
+
+C: As flores coloridas, as borboletas voando, o cheiro de primavera, tudo encantava Isabela.
+S: As flores coloridas, as borboletas voando, o cheiro de primavera, tudo encantava Isabela.
+
+C: O trabalho árduo, as horas extras, os prazos apertados, nada desmotivava Guilherme.
+S: O trabalho árduo, as horas extras, os prazos apertados, nada desmotivava Guilherme.
+
+C: O futebol, o basquete, o vôlei, nada interessava a João.
+S: O futebol, o basquete, o vôlei, nada interessava João.
+
+C: O medo, a ansiedade, a incerteza, nada abalava Pedro.
+S: O medo, a ansiedade, a incerteza, nada abalava Pedro.
+
+C: A música, a dança, o teatro, nada entretinha Maria.
+S: A música, a dança, o teatro, nada entretinha Maria.
+
+C: O sol, a praia, o mar, nada atraía Joana.
+S: O sol, a praia, o mar, nada atraía Joana.
+
+C: A arte, a literatura, a filosofia, nada cativava Lucas.
+S: A arte, a literatura, a filosofia, nada cativava Lucas.
+
+C: O frio, a chuva, o vento, nada incomoda Maria.
+S: O frio, a chuva, o vento, nada incomoda Maria.
+
+C: A tristeza, a solidão, a saudade, nada afeta Pedro.
+S: A tristeza, a solidão, a saudade, nada afeta Pedro.
+
+C: O barulho, a agitação, a confusão, nada perturba Maria.
+S: O barulho, a agitação, a confusão, nada perturba Maria.
+
+C: O trabalho, o estudo, a responsabilidade, nada impede João.
+S: O trabalho, o estudo, a responsabilidade, nada impede João.
+
+C: O sucesso, a fama, a fortuna, nada satisfaz Maria.
+S: O sucesso, a fama, a fortuna, nada satisfaz Maria.
+
+C: Observamos o nascer do sol todas as manhãs.
+S: Observamos o nascer do sol todas as manhãs.
+
+C: Comemos pizza, batata frita, hambúrguer, tudo que é fast food.
+S: Comemos pizza, batata frita, hambúrguer, tudo que é fast food.
+
+C: O sucesso, o dinheiro, a fama, tudo isso não trouxe felicidade.
+S: O sucesso, o dinheiro, a fama, tudo isso não trouxe felicidade.
+
+C: Ele passou anos estudando, trabalhando, se dedicando.
+S: Ele passou anos estudando, trabalhando, se dedicando.
+
+C: Viajamos para a praia, para o campo, para a montanha, lugares diferentes todos os anos.
+S: Viajamos para a praia, para o campo, para a montanha, lugares diferentes todos os anos.
+
+C: Gosto de música, de dança, de teatro, de todas as formas de arte.
+S: Gosto de música, de dança, de teatro, de todas as formas de arte.
+
+C: Ela tem cabelos loiros, olhos azuis, pele clara, características típicas dos europeus.
+S: Ela tem cabelos loiros, olhos azuis, pele clara, características típicas dos europeus.
+
+C: Ele comprou carros, casas, jatinhos, tudo que o dinheiro pode comprar.
+S: Ele comprou carros, casas, jatinhos, tudo que o dinheiro pode comprar.
+
+C: Estudamos francês, espanhol, italiano, línguas diferentes ao mesmo tempo.
+S: Estudamos francês, espanhol, italiano, línguas diferentes ao mesmo tempo.
+
+C: Ela tem sapatos, bolsas, roupas, uma infinidade de acessórios.
+S: Ela tem sapatos, bolsas, roupas, uma infinidade de acessórios.
+
+C: Os filmes de suspense, a música alta, a escuridão, tudo deixava João apreensivo.
+S: Os filmes de suspense, a música alta, a escuridão, tudo deixava João apreensivo.
+
+C: As praias paradisíacas, a gastronomia local, o clima quente, tudo atrai os turistas para o Caribe.
+S: As praias paradisíacas, a gastronomia local, o clima quente, tudo atrai os turistas para o Caribe.
+
+C: A traição, a mentira, a deslealdade, nada justifica a quebra de confiança.
+S: A traição, a mentira, a deslealdade, nada justifica a quebra de confiança.
+
+C: O dinheiro, o poder, a fama, nada traz verdadeira felicidade.
+S: O dinheiro, o poder, a fama, nada traz verdadeira felicidade.
+
+C: A chuva, o frio, a falta de energia, tudo dificulta a mobilidade urbana.
+S: A chuva, o frio, a falta de energia, tudo dificulta a mobilidade urbana.
+
+C: A leitura, a música, o cinema, tudo enriquece a cultura de uma pessoa.
+S: A leitura, a música, o cinema, tudo enriquece a cultura de uma pessoa.
+
+C: O estresse, a ansiedade, a pressão, nada contribui para a saúde mental.
+S: O estresse, a ansiedade, a pressão, nada contribui para a saúde mental.
+
+C: A violência, a injustiça, a corrupção, tudo abala a confiança na sociedade.
+S: A violência, a injustiça, a corrupção, tudo abala a confiança na sociedade.
+
+C: A solidariedade, o respeito, a empatia, tudo fortalece os laços entre as pessoas.
+S: A solidariedade, o respeito, a empatia, tudo fortalece os laços entre as pessoas.
+
+C: A paixão, a dedicação, o talento, nada garante o sucesso profissional.
+S: A paixão, a dedicação, o talento, nada garante o sucesso profissional.
+
+C: O menino, que estava cansado, decidiu ir para a cama.
+S: O menino, cansado, decidiu ir para a cama.
+
+C: O livro, que era muito longo, demorou semanas para ser lido.
+S: O livro, muito longo, demorou semanas para ser lido.
+
+C: A cidade, que era muito movimentada, era cheia de arranha-céus.
+S: A cidade, muito movimentada, era cheia de arranha-céus.
+
+C: O carro, que estava com o pneu furado, teve que ser levado para o mecânico.
+S: O carro, com o pneu furado, teve que ser levado para o mecânico.
+
+C: A festa, que foi organizada pelos amigos, foi um sucesso.
+S: A festa, organizada pelos amigos, foi um sucesso.
+
+C: O cachorro, que estava brincando no jardim, foi chamado para entrar.
+S: O cachorro, brincando no jardim, foi chamado para entrar.
+
+C: O telefone, que tocou durante a reunião, interrompeu a conversa.
+S: O telefone, tocando durante a reunião, interrompeu a conversa.
+
+C: A casa, que estava em reforma, tinha vários pedreiros trabalhando.
+S: A casa, em reforma, tinha vários pedreiros trabalhando.
+
+C: A criança, que estava chorando, foi acalmada pela mãe.
+S: A criança, chorando, foi acalmada pela mãe.
+
+C: O arroz, que estava queimado, teve que ser jogado fora.
+S: O arroz, queimado, teve que ser jogado fora.
+
+C: O clima chuvoso, o trânsito congestionado, o cansaço do dia, nada desanimava Maria.
+S: O clima chuvoso, o trânsito congestionado, o cansaço do dia, nada desanimava Maria.
+
+C: A comida apetitosa, a música animada, a companhia agradável, tudo atraía Maria.
+S: A comida apetitosa, a música animada, a companhia agradável, tudo atraía Maria.
+
+C: O barulho alto, as luzes brilhantes, a multidão agitada, nada incomodava Maria.
+S: O barulho alto, as luzes brilhantes, a multidão agitada, nada incomodava Maria.
+
+C: A praia ensolarada, a brisa refrescante, o mar calmo, tudo encantava Maria.
+S: A praia ensolarada, a brisa refrescante, o mar calmo, tudo encantava Maria.
+
+C: O silêncio profundo, a tranquilidade do local, a paz do momento, nada perturbava Maria.
+S: O silêncio profundo, a tranquilidade do local, a paz do momento, nada perturbava Maria.
+
+C: A arte inspiradora, os livros interessantes, a música relaxante, tudo inspirava Maria.
+S: A arte inspiradora, os livros interessantes, a música relaxante, tudo inspirava Maria.
+
+C: A comida apimentada, a bebida gelada, a música alta, nada assustava Maria.
+S: A comida apimentada, a bebida gelada, a música alta, nada assustava Maria.
+
+C: O perfume suave, o toque delicado, a voz calma, tudo seduzia Maria.
+S: O perfume suave, o toque delicado, a voz calma, tudo seduzia Maria.
+
+C: A paisagem deslumbrante, o pôr do sol colorido, as montanhas imponentes, tudo impressionava Maria.
+S: A paisagem deslumbrante, o pôr do sol colorido, as montanhas imponentes, tudo impressionava Maria.
+
+C: O abraço apertado, o beijo carinhoso, a presença amada, nada substituía Maria.
+S: O abraço apertado, o beijo carinhoso, a presença amada, nada substituía Maria.
+
+C: O livro que ganhei de presente era muito interessante.
+S: O livro, ganhei de presente, era muito interessante.
+
+C: O carro que comprei era vermelho.
+S: O carro, comprei, era vermelho.
+
+C: A comida que eu preparei ficou deliciosa.
+S: A comida, eu preparei, ficou deliciosa.
+
+C: A música que ele cantou era muito bonita.
+S: A música, ele cantou, era muito bonita.
+
+C: O filme que assisti ontem foi emocionante.
+S: O filme, assisti ontem, foi emocionante.
+
+C: A cidade que visitei nas férias era encantadora.
+S: A cidade, visitei nas férias, era encantadora.
+
+C: A viagem que planejei para o ano que vem será incrível.
+S: A viagem, planejei para o ano que vem, será incrível.
+
+C: A roupa que ela escolheu para a festa era elegante.
+S: A roupa, ela escolheu para a festa, era elegante.
+
+C: A conversa que tive com ele foi muito produtiva.
+S: A conversa, tive com ele, foi muito produtiva.
+
+C: O presente que minha amiga me deu foi especial.
+S: O presente, minha amiga me deu, foi especial.
+
+C: Eu gostaria de uma pizza, um hambúrguer e um refrigerante.
+S: Eu gostaria de uma pizza, um hambúrguer e um refrigerante.
+
+C: O sol brilhava, o vento soprava e as folhas caíam.
+S: O sol brilhava, o vento soprava e as folhas caíam.
+
+C: Eu preciso estudar, fazer exercícios e revisar para a prova.
+S: Eu preciso estudar, fazer exercícios e revisar para a prova.
+
+C: A casa era grande, bonita e bem localizada.
+S: A casa era grande, bonita e bem localizada.
+
+C: Ela comprou roupas, sapatos e acessórios na loja.
+S: Ela comprou roupas, sapatos e acessórios na loja.
+
+C: Hoje eu tenho que limpar a casa, fazer compras e ir ao banco.
+S: Hoje eu tenho que limpar a casa, fazer compras e ir ao banco.
+
+C: O filme foi emocionante, divertido e surpreendente.
+S: O filme foi emocionante, divertido e surpreendente.
+
+C: Ele gostava de correr, nadar e jogar futebol.
+S: Ele gostava de correr, nadar e jogar futebol.
+
+C: A festa foi animada, cheia de música e diversão.
+S: A festa foi animada, cheia de música e diversão.
+
+C: Ela gostava de ler, escrever e desenhar.
+S: Ela gostava de ler, escrever e desenhar.
+
+C:
+
+C: O livro, com capa dura e páginas coloridas, chamou a atenção dos alunos.
+S: O livro chamou a atenção dos alunos.
+
+C: A casa, construída há mais de cem anos, estava abandonada.
+S: A casa estava abandonada.
+
+C: O carro, um modelo esportivo de última geração, era muito caro.
+S: O carro era muito caro.
+
+C: O filme, dirigido por um renomado diretor de Hollywood, recebeu críticas positivas.
+S: O filme recebeu críticas positivas.
+
+C: O cão, assustado com os fogos de artifício, se escondeu embaixo da cama.
+S: O cão se escondeu embaixo da cama.
+
+
+
+C: A praia, com sua areia branca e mar cristalino, é perfeita para relaxar.
+S: A praia é perfeita para relaxar.
+
+C: A festa, cheia de convidados famosos e boa música, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: A comida, preparada por um chef premiado e com ingredientes frescos, era deliciosa.
+S: A comida era deliciosa.
+
+C: O estádio, com capacidade para milhares de pessoas, estava lotado.
+S: O estádio estava lotado.
+
+C: A cidade, com seus prédios históricos e ruas movimentadas, é muito visitada pelos turistas.
+S: A cidade é muito visitada pelos turistas.
+
+C: A mala, cheia de roupas e acessórios de grife, tinha um alto valor.
+S: A mala tinha um alto valor.
+
+C: O parque, com suas árvores frondosas e lagos tranquilos, é perfeito para um passeio.
+S: O parque é perfeito para um passeio.
+
+C: O bolo, feito com ingredientes frescos e coberto com chocolate, era irresistível.
+S: O bolo era irresistível.
+
+C: O quadro, pintado por um famoso artista contemporâneo, foi vendido por um alto preço.
+S: O quadro foi vendido por um alto preço.
+
+C: O livro, com sua história emocionante e personagens cativantes, prendeu a atenção dos leitores.
+S: O livro prendeu a atenção dos leitores.
+
+C: O livro, que era premiado, estava esgotado.
+S: O livro, era premiado, estava esgotado.
+
+C: A festa, que aconteceu ontem, foi incrível.
+S: A festa, aconteceu ontem, foi incrível.
+
+C: O carro, que era vermelho, foi vendido.
+S: O carro, era vermelho, foi vendido.
+
+C: O filme, que foi lançado recentemente, fez sucesso.
+S: O filme, foi lançado recentemente, fez sucesso.
+
+C: O cachorro, que estava machucado, foi encontrado na rua.
+S: O cachorro, estava machucado, foi encontrado na rua.
+
+C: A música, que era muito famosa, tocou no rádio.
+S: A música, era muito famosa, tocou no rádio.
+
+C: A casa, que foi construída há 100 anos, é histórica.
+S: A casa, foi construída há 100 anos, é histórica.
+
+C: A comida, que estava deliciosa, foi elogiada por todos.
+S: A comida, estava deliciosa, foi elogiada por todos.
+
+C: A viagem, que durou duas semanas, foi inesquecível.
+S: A viagem, durou duas semanas, foi inesquecível.
+
+C: A pessoa, que estava chorando, foi consolada.
+S: A pessoa, estava chorando, foi consolada.
+
+C: O trabalho, a família, os amigos, tudo é importante para ele.
+S: O trabalho, a família, os amigos, tudo é importante para ele.
+
+C: A chuva, o vento, o frio, nada me impede de sair.
+S: A chuva, o vento, o frio, nada me impede de sair.
+
+C: A comida, a bebida, a música, tudo contribui para a festa.
+S: A comida, a bebida, a música, tudo contribui para a festa.
+
+C: As viagens, os passeios, as novas experiências, tudo me fascina.
+S: As viagens, os passeios, as novas experiências, tudo me fascina.
+
+C: O sol, a praia, o mar, nada se compara a essa sensação.
+S: O sol, a praia, o mar, nada se compara a essa sensação.
+
+C: Alegria, tristeza, amor, todas as emoções fazem parte da vida.
+S: Alegria, tristeza, amor, todas as emoções fazem parte da vida.
+
+C: O estudo, a dedicação, a disciplina, tudo é necessário para o sucesso.
+S: O estudo, a dedicação, a disciplina, tudo é necessário para o sucesso.
+
+C: O riso, o choro, o silêncio, tudo expressa emoções.
+S: O riso, o choro, o silêncio, tudo expressa emoções.
+
+C: A paz, a harmonia, a felicidade, tudo isso é o que buscamos.
+S: A paz, a harmonia, a felicidade, tudo isso é o que buscamos.
+
+C: O trabalho, o descanso, o equilíbrio, tudo é importante para a saúde.
+S: O trabalho, o descanso, o equilíbrio, tudo é importante para a saúde.
+
+C: O medo de falhar estava presente em seu coração.
+S: O medo de falhar estava presente em seu coração.
+
+C: Os problemas da vida são difíceis de enfrentar.
+S: Os problemas da vida são difíceis de enfrentar.
+
+C: A felicidade, o sucesso, a liberdade, tudo é possível quando se trabalha duro.
+S: A felicidade, o sucesso, a liberdade, tudo é possível quando se trabalha duro.
+
+C: O tempo passa inexoravelmente para todos.
+S: O tempo passa inexoravelmente para todos.
+
+C: A tristeza, o desapontamento, o desespero, tudo parecia fazer parte de sua vida.
+S: A tristeza, o desapontamento, o desespero, tudo parecia fazer parte de sua vida.
+
+C: A beleza da natureza é inigualável.
+S: A beleza da natureza é inigualável.
+
+C: A paciência, a disciplina, a determinação, são características essenciais para o sucesso.
+S: A paciência, a disciplina, a determinação, são características essenciais para o sucesso.
+
+C: Os desafios da vida são oportunidades de crescimento.
+S: Os desafios da vida são oportunidades de crescimento.
+
+C: A alegria, a gratidão, a esperança, são sentimentos presentes em seu coração.
+S: A alegria, a gratidão, a esperança, são sentimentos presentes em seu coração.
+
+C: O amor, a amizade, a compaixão, são valores fundamentais na vida.
+S: O amor, a amizade, a compaixão, são valores fundamentais na vida.
+
+C: A beleza, a inteligência, a simpatia, nada fazia diferença para ele.
+S: A beleza, a inteligência, a simpatia, nada fazia diferença para ele.
+
+C: O jogo, a música, o filme, nada teve um efeito duradouro nele.
+S: O jogo, a música, o filme, nada teve um efeito duradouro nele.
+
+C: Os prazeres, as riquezas, as aventuras, nada preenchia o vazio em sua vida.
+S: Os prazeres, as riquezas, as aventuras, nada preenchia o vazio em sua vida.
+
+C: A fama, a fortuna, a popularidade, nada trazia a felicidade que ela buscava.
+S: A fama, a fortuna, a popularidade, nada trazia a felicidade que ela buscava.
+
+C: A comida, a bebida, a festa, nada aliviava a dor em seu coração.
+S: A comida, a bebida, a festa, nada aliviava a dor em seu coração.
+
+C: As viagens, os encontros, os prêmios, nada satisfazia sua busca por sentido.
+S: As viagens, os encontros, os prêmios, nada satisfazia sua busca por sentido.
+
+C: A arte, a ciência, a religião, nada preenchia o vazio existencial dentro dele.
+S: A arte, a ciência, a religião, nada preenchia o vazio existencial dentro dele.
+
+C: A paz, a justiça, a igualdade, nada conquistava a verdadeira harmonia entre os povos.
+S: A paz, a justiça, a igualdade, nada conquistava a verdadeira harmonia entre os povos.
+
+C: O poder, a família, o sucesso, nada trazia a satisfação que ele almejava.
+S: O poder, a família, o sucesso, nada trazia a satisfação que ele almejava.
+
+C: O conhecimento, a sabedoria, a experiência, nada lhe proporcionava a plenitude que buscava.
+S: O conhecimento, a sabedoria, a experiência, nada lhe proporcionava a plenitude que buscava.
+
+C: O sol brilhava intensamente, iluminando cada canto da cidade.
+S: O sol brilhava intensamente, iluminando toda a cidade.
+
+C: O carro percorria a estrada com velocidade, deixando para trás uma nuvem de poeira.
+S: O carro percorria a estrada com velocidade, deixando uma nuvem de poeira.
+
+C: O cachorro latia incessantemente, assustando os moradores.
+S: O cachorro latia incessantemente, assustando a todos.
+
+C: A música tocava alto, animando a festa inteira.
+S: A música tocava alto, animando toda a festa.
+
+C: As crianças brincavam despreocupadamente, divertindo-se com os brinquedos.
+S: As crianças brincavam despreocupadamente, divertindo-se com os brinquedos.
+
+C: A chuva caía incessantemente, encharcando as ruas da cidade.
+S: A chuva caía incessantemente, encharcando as ruas.
+
+C: O bebê chorava incessantemente, chamando a atenção de todos.
+S: O bebê chorava incessantemente, chamando a atenção.
+
+C: O vento soprava forte, derrubando as árvores do jardim.
+S: O vento soprava forte, derrubando as árvores.
+
+C: O cheiro delicioso da comida invadia o ambiente, aguçando o paladar de todos.
+S: O cheiro delicioso da comida invadia o ambiente, aguçando o paladar.
+
+C: O riso alto dos amigos ecoava pelo salão, contagiando a todos.
+S: O riso alto dos amigos ecoava pelo salão, contagiando.
+
+C: A música alta, as luzes brilhantes, os risos contagiantes, tudo atraía Ana.
+S: A música alta, as luzes brilhantes, os risos contagiantes, tudo atraía Ana.
+
+C: O livro novo, a caneta colorida, o caderno organizado, nada faltava para Paula estudar.
+S: O livro novo, a caneta colorida, o caderno organizado, nada faltava para Paula estudar.
+
+C: O sol quente, a brisa fresca, o mar calmo, tudo convidava Pedro a relaxar na praia.
+S: O sol quente, a brisa fresca, o mar calmo, tudo convidava Pedro a relaxar na praia.
+
+C: O sorriso sincero, o olhar cativante, as palavras gentis, tudo encantou José.
+S: O sorriso sincero, o olhar cativante, as palavras gentis, tudo encantou José.
+
+C: A comida saborosa, a bebida gelada, a música animada, tudo agradou Carolina na festa.
+S: A comida saborosa, a bebida gelada, a música animada, tudo agradou Carolina na festa.
+
+C: A chuva forte, o vento gelado, o trovão assustador, nada atrapalhou Maria em sua caminhada.
+S: A chuva forte, o vento gelado, o trovão assustador, nada atrapalhou Maria em sua caminhada.
+
+C: O encontro surpresa, o presente carinhoso, as palavras doces, tudo emocionou João.
+S: O encontro surpresa, o presente carinhoso, as palavras doces, tudo emocionou João.
+
+C: O filme emocionante, as cenas engraçadas, os personagens cativantes, tudo encantou Marina.
+S: O filme emocionante, as cenas engraçadas, os personagens cativantes, tudo encantou Marina.
+
+C: A viagem esperada, o hotel luxuoso, a comida deliciosa, tudo superou as expectativas de Carlos.
+S: A viagem esperada, o hotel luxuoso, a comida deliciosa, tudo superou as expectativas de Carlos.
+
+C: O abraço apertado, o beijo carinhoso, as palavras de amor, tudo fez Ana se apaixonar por Pedro.
+S: O abraço apertado, o beijo carinhoso, as palavras de amor, tudo fez Ana se apaixonar por Pedro.
+
+C: Passei horas estudando para a prova, mas acabei esquecendo tudo.
+S: Passei horas estudando para a prova, mas acabei esquecendo tudo.
+
+C: A praia, o sol, as ondas, tudo me encanta.
+S: A praia, o sol, as ondas, tudo me encanta.
+
+C: A comida, a bebida, a boa música, nada faltava naquela festa.
+S: A comida, a bebida, a boa música, nada faltava naquela festa.
+
+C: A leitura, o cinema, a música, nada me distraía.
+S: A leitura, o cinema, a música, nada me distraía.
+
+C: A chuva, o vento, o frio, nada me desanimava.
+S: A chuva, o vento, o frio, nada me desanimava.
+
+C: O trabalho, o compromisso, o estresse, nada me desmotiva.
+S: O trabalho, o compromisso, o estresse, nada me desmotiva.
+
+C: O estudo, a dedicação, o esforço, tudo vale a pena no final.
+S: O estudo, a dedicação, o esforço, tudo vale a pena no final.
+
+C: A amizade, o amor, a família, nada é mais importante na vida.
+S: A amizade, o amor, a família, nada é mais importante na vida.
+
+C: O silêncio, a calma, a paz, tudo me traz conforto.
+S: O silêncio, a calma, a paz, tudo me traz conforto.
+
+C: A alegria, a felicidade, a realização, nada me faz mais feliz. 
+S: A alegria, a felicidade, a realização, nada me faz mais feliz.
+
+C: A festa estava animada, a música tocava alto.
+S: A festa estava animada, a música tocava alto.
+
+C: O filme foi emocionante, a plateia aplaudiu de pé.
+S: O filme foi emocionante, a plateia aplaudiu de pé.
+
+C: A praia era linda, o sol brilhava intensamente.
+S: A praia era linda, o sol brilhava intensamente.
+
+C: O livro era interessante, a história cativava os leitores.
+S: O livro era interessante, a história cativava os leitores.
+
+C: A comida estava deliciosa, os convidados elogiaram o chef.
+S: A comida estava deliciosa, os convidados elogiaram o chef.
+
+C: A casa era grande, a decoração era elegante.
+S: A casa era grande, a decoração era elegante.
+
+C: A viagem foi cansativa, os passageiros chegaram exaustos.
+S: A viagem foi cansativa, os passageiros chegaram exaustos.
+
+C: O carro era velho, o motor ainda funcionava bem.
+S: O carro era velho, o motor ainda funcionava bem.
+
+C: O dia estava chuvoso, as pessoas se abrigaram sob as marquises.
+S: O dia estava chuvoso, as pessoas se abrigaram sob as marquises.
+
+C: O parque era bonito, as crianças brincavam felizes.
+S: O parque era bonito, as crianças brincavam felizes.
+
+C: O carro, uma máquina de alta tecnologia, foi lançado ontem.
+S: O carro, uma máquina de alta tecnologia, foi lançado ontem.
+
+C: O cachorro, um animal fiel e leal, sempre protegia sua família.
+S: O cachorro, um animal fiel e leal, sempre protegia sua família.
+
+C: A chuva, uma benção para os agricultores, trouxe alívio para a terra seca.
+S: A chuva, uma benção para os agricultores, trouxe alívio para a terra seca.
+
+C: O chocolate, uma delícia irresistível, é o meu doce favorito.
+S: O chocolate, uma delícia irresistível, é o meu doce favorito.
+
+C: A praia, um lugar de descanso e tranquilidade, é o destino perfeito para as férias.
+S: A praia, um lugar de descanso e tranquilidade, é o destino perfeito para as férias.
+
+C: A música, uma forma de expressão artística, emociona as pessoas.
+S: A música, uma forma de expressão artística, emociona as pessoas.
+
+C: O livro, uma fonte de conhecimento e cultura, transporta o leitor para outros mundos.
+S: O livro, uma fonte de conhecimento e cultura, transporta o leitor para outros mundos.
+
+C: A montanha, uma paisagem majestosa, proporciona uma vista deslumbrante.
+S: A montanha, uma paisagem majestosa, proporciona uma vista deslumbrante.
+
+C: O amor, um sentimento poderoso, move o mundo.
+S: O amor, um sentimento poderoso, move o mundo.
+
+C: O sol, uma fonte de luz e calor, ilumina e aquece nosso planeta.
+S: O sol, uma fonte de luz e calor, ilumina e aquece nosso planeta.
+
+C: A festa, a música, a comida, tudo encantou os convidados.
+S: A festa, a música, a comida, tudo encantou os convidados.
+
+C: A viagem, as paisagens, as experiências, nada decepcionou os turistas.
+S: A viagem, as paisagens, as experiências, nada decepcionou os turistas.
+
+C: O livro, a história, os personagens, tudo emocionou os leitores.
+S: O livro, a história, os personagens, tudo emocionou os leitores.
+
+C: A promoção, o salário, os benefícios, nada convenceu o funcionário.
+S: A promoção, o salário, os benefícios, nada convenceu o funcionário.
+
+C: O sol, a praia, o mar, tudo relaxou os viajantes.
+S: O sol, a praia, o mar, tudo relaxou os viajantes.
+
+C: A comida, o ambiente, o atendimento, nada agradou os clientes.
+S: A comida, o ambiente, o atendimento, nada agradou os clientes.
+
+C: A música, a dança, a animação, tudo contagiou os participantes.
+S: A música, a dança, a animação, tudo contagiou os participantes.
+
+C: O filme, a história, os efeitos especiais, nada impressionou o crítico.
+S: O filme, a história, os efeitos especiais, nada impressionou o crítico.
+
+C: O trabalho, o ambiente, os colegas, tudo estressou o funcionário.
+S: O trabalho, o ambiente, os colegas, tudo estressou o funcionário.
+
+C: A prova, o conteúdo, as questões, nada confundiu o estudante.
+S: A prova, o conteúdo, as questões, nada confundiu o estudante.
+
+C: O livro que comprei hoje é muito interessante.
+S: O livro é muito interessante. 
+
+C: Nenhuma desculpa me convenceu.
+S: Nenhuma desculpa me convenceu.
+
+C: O carro que ele comprou foi roubado.
+S: O carro foi roubado.
+
+C: Todas as notícias que ouvi são falsas.
+S: Todas as notícias são falsas.
+
+C: Cada palavra que você disse me magoou.
+S: Cada palavra me magoou.
+
+C: O filme que assisti ontem foi incrível.
+S: O filme foi incrível.
+
+C: Qualquer resposta que você der será aceita.
+S: Qualquer resposta será aceita.
+
+C: Nada do que ela fez foi suficiente.
+S: Nada foi suficiente.
+
+C: Tudo que ele precisa é amor e apoio.
+S: Tudo que ele precisa é amor e apoio.
+
+C: O trabalho que entreguei estava perfeito.
+S: O trabalho estava perfeito.
+
+C: O prêmio de loteria, a promoção no trabalho, o reconhecimento dos colegas, nada trazia satisfação para João.
+S: O prêmio de loteria, a promoção no trabalho, o reconhecimento dos colegas, nada trazia satisfação para João.
+
+C: Os filmes de ação, as comédias românticas, os documentários, tudo fascina Maria.
+S: Os filmes de ação, as comédias românticas, os documentários, tudo fascina Maria.
+
+C: Os vestidos longos, os sapatos de salto alto, as joias finas, nada atraía Rafaela.
+S: Os vestidos longos, os sapatos de salto alto, as joias finas, nada atraía Rafaela.
+
+C: As praias paradisíacas, os resorts luxuosos, as viagens internacionais, tudo encanta Pedro.
+S: As praias paradisíacas, os resorts luxuosos, as viagens internacionais, tudo encanta Pedro.
+
+C: A boa comida, o vinho de qualidade, a sobremesa deliciosa, nada satisfazia Marta.
+S: A boa comida, o vinho de qualidade, a sobremesa deliciosa, nada satisfazia Marta.
+
+C: As flores coloridas, os pássaros cantando, a brisa suave, tudo alegra Maria.
+S: As flores coloridas, os pássaros cantando, a brisa suave, tudo alegra Maria.
+
+C: Os livros de fantasia, os filmes de ficção científica, as séries de suspense, nada entretém Pedro.
+S: Os livros de fantasia, os filmes de ficção científica, as séries de suspense, nada entretém Pedro.
+
+C: Os jogos de tabuleiro, os quebra-cabeças complexos, os desafios intelectuais, tudo diverte Rafael.
+S: Os jogos de tabuleiro, os quebra-cabeças complexos, os desafios intelectuais, tudo diverte Rafael.
+
+C: As paisagens naturais, os monumentos históricos, as culturas diversas, tudo encanta Julia.
+S: As paisagens naturais, os monumentos históricos, as culturas diversas, tudo encanta Julia.
+
+C: A música clássica, o jazz, o rock, nada agrada Carlos.
+S: A música clássica, o jazz, o rock, nada agrada Carlos.
+
+C: Gosto de estudar matemática, porque desafios me motivam.
+S: Gosto de estudar matemática, desafios me motivam.
+
+C: Acredito que ele se sairá bem na prova, pois estudou bastante.
+S: Acredito que ele se sairá bem na prova, estudou bastante.
+
+C: Ela queria ter uma bicicleta nova, mas não tinha dinheiro suficiente.
+S: Ela queria ter uma bicicleta nova, não tinha dinheiro suficiente.
+
+C: Ele não gosta de acordar cedo, ainda assim levanta no horário.
+S: Ele não gosta de acordar cedo, levanta no horário.
+
+C: O livro é interessante, apesar de ser um pouco longo.
+S: O livro é interessante, é um pouco longo.
+
+C: Ela foi ao cinema sozinha, embora seus amigos também quisessem ir.
+S: Ela foi ao cinema sozinha, seus amigos também queriam ir.
+
+C: Comprei uma nova blusa, a qual estava em promoção.
+S: Comprei uma nova blusa, estava em promoção.
+
+C: Preciso estudar para a prova, visto que o conteúdo é extenso.
+S: Preciso estudar para a prova, o conteúdo é extenso.
+
+C: Ele gostou da comida, mesmo sendo um prato diferente.
+S: Ele gostou da comida, é um prato diferente.
+
+C: Ele comprou um carro novo, embora já tivesse um.
+S: Ele comprou um carro novo, já tinha um.
+
+C: O carro, a casa, o dinheiro, nada satisfaz João.
+S: O carro, a casa, o dinheiro, nada satisfaz João.
+
+C: A comida, a bebida, a música, nada alegra Pedro.
+S: A comida, a bebida, a música, nada alegra Pedro.
+
+C: O trabalho, a escola, o trânsito, nada preocupa Maria.
+S: O trabalho, a escola, o trânsito, nada preocupa Maria.
+
+C: A chuva, o sol, o vento, nada incomoda Marcos.
+S: A chuva, o sol, o vento, nada incomoda Marcos.
+
+C: O mar, a montanha, a cidade, nada impressiona Clara.
+S: O mar, a montanha, a cidade, nada impressiona Clara.
+
+C: O livro, o filme, a música, nada entretém Lucas.
+S: O livro, o filme, a música, nada entretém Lucas.
+
+C: A festa, o show, a viagem, nada anima Gabriela.
+S: A festa, o show, a viagem, nada anima Gabriela.
+
+C: O trabalho, a faculdade, os problemas, nada cansa Pedro.
+S: O trabalho, a faculdade, os problemas, nada cansa Pedro.
+
+C: A comida, a bebida, a música, nada diverte Lara.
+S: A comida, a bebida, a música, nada diverte Lara.
+
+C: O mar, a montanha, a cidade, nada inspira Marcelo.
+S: O mar, a montanha, a cidade, nada inspira Marcelo.
+
+C: O livro que ganhei de presente é muito interessante.
+S: O livro é muito interessante.
+
+C: A música que ouvi ontem à noite era muito animada.
+S: A música era muito animada.
+
+C: O apartamento que visitei esta manhã era espaçoso.
+S: O apartamento era espaçoso.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme foi emocionante.
+
+C: A camiseta que comprei na loja é da minha cor favorita.
+S: A camiseta é da minha cor favorita.
+
+C: A comida que comi no restaurante estava deliciosa.
+S: A comida estava deliciosa.
+
+C: A praia que visitei no verão era linda.
+S: A praia era linda.
+
+C: A festa que fui no sábado estava animada.
+S: A festa estava animada.
+
+C: A viagem que fiz para a Europa foi incrível.
+S: A viagem foi incrível.
+
+C: O quadro que vi na exposição era impressionante.
+S: O quadro era impressionante.
+
+C: O trabalho duro, a dedicação e a disciplina são essenciais para o sucesso.
+S: O trabalho duro, a dedicação e a disciplina são essenciais para o sucesso.
+
+C: O tempo cura todas as feridas.
+S: O tempo cura todas as feridas.
+
+C: As montanhas, os rios e as florestas formam a paisagem natural da região.
+S: As montanhas, os rios e as florestas formam a paisagem natural da região.
+
+C: O medo, a ansiedade e o estresse afetam negativamente a saúde mental.
+S: O medo, a ansiedade e o estresse afetam negativamente a saúde mental.
+
+C: A amizade verdadeira, o respeito mútuo e a confiança são fundamentais para um relacionamento duradouro.
+S: A amizade verdadeira, o respeito mútuo e a confiança são fundamentais para um relacionamento duradouro.
+
+C: O sol brilhante, o céu azul e as flores coloridas alegram o meu dia.
+S: O sol brilhante, o céu azul e as flores coloridas alegram o meu dia.
+
+C: O amor incondicional, o apoio constante e a compreensão são pilares de uma família feliz.
+S: O amor incondicional, o apoio constante e a compreensão são pilares de uma família feliz.
+
+C: A paz interior, a felicidade genuína e a gratidão são alcançadas através da prática da meditação.
+S: A paz interior, a felicidade genuína e a gratidão são alcançadas através da prática da meditação.
+
+C: A música suave, a boa companhia e uma xícara de chá quente proporcionam momentos de relaxamento.
+S: A música suave, a boa companhia e uma xícara de chá quente proporcionam momentos de relaxamento.
+
+C: O conhecimento adquirido, a experiência vivida e a sabedoria acumulada são fontes de aprendizado contínuo.
+S: O conhecimento adquirido, a experiência vivida e a sabedoria acumulada são fontes de aprendizado contínuo.
+
+C: Ela comprou um vestido caro, mas não gostou dele.
+S: Ela comprou um vestido caro, mas não gostou.
+
+C: O menino estava cansado, por isso foi dormir cedo.
+S: O menino estava cansado, por isso foi dormir.
+
+C: Os amigos foram ao cinema, mas não gostaram do filme.
+S: Os amigos foram ao cinema, mas não gostaram.
+
+C: João estudou bastante para a prova, mesmo assim não passou.
+S: João estudou bastante para a prova, mesmo assim não passou.
+
+C: Meu irmão comprou uma bicicleta nova, mas não sabe andar.
+S: Meu irmão comprou uma bicicleta nova, mas não sabe.
+
+C: Ela é uma excelente dançarina, mas não gosta de se apresentar em público.
+S: Ela é uma excelente dançarina, mas não gosta de se apresentar.
+
+C: Eu faço exercícios todos os dias, mas não vejo resultados.
+S: Eu faço exercícios todos os dias, mas não vejo.
+
+C: O carro é rápido, mas consome muita gasolina.
+S: O carro é rápido, mas consome.
+
+C: Ela comprou um livro interessante, mas não teve tempo de ler.
+S: Ela comprou um livro interessante, mas não teve tempo.
+
+C: A comida estava deliciosa, mas não consegui comer tudo.
+S: A comida estava deliciosa, mas não consegui comer.
+
+C: O tempo corre rápido quando estamos nos divertindo.
+S: O tempo corre rápido quando estamos nos divertindo.
+
+C: A noite estava escura e o vento soprava forte.
+S: A noite estava escura e o vento soprava forte.
+
+C: Ela tinha um sorriso maravilhoso que iluminava a sala inteira.
+S: Ela tinha um sorriso maravilhoso que iluminava a sala inteira.
+
+C: O livro que ela estava lendo era muito interessante.
+S: O livro que ela estava lendo era muito interessante.
+
+C: Os funcionários que haviam terminado o projeto receberam um bônus.
+S: Os funcionários que haviam terminado o projeto receberam um bônus.
+
+C: O carro que ele comprou é vermelho e muito veloz.
+S: O carro que ele comprou é vermelho e muito veloz.
+
+C: O livro que ela trouxe é o mesmo que eu li no mês passado.
+S: O livro que ela trouxe é o mesmo que eu li no mês passado.
+
+C: O cachorro que encontramos na rua era muito fofo.
+S: O cachorro que encontramos na rua era muito fofo.
+
+C: A comida estava deliciosa, mas a sobremesa estava ainda melhor.
+S: A comida estava deliciosa, mas a sobremesa estava ainda melhor.
+
+C: O lugar onde eles se conheceram é muito especial para eles.
+S: O lugar onde eles se conheceram é muito especial para eles.
+
+C: A paixão pelo futebol, o amor pela música, nada distraía Lucas.
+S: A paixão pelo futebol, o amor pela música, nada distraía Lucas.
+
+C: As viagens pelo mundo, a leitura de livros, nada cansava Carolina.
+S: As viagens pelo mundo, a leitura de livros, nada cansava Carolina.
+
+C: A comida japonesa, a música clássica, nada encantava Ricardo.
+S: A comida japonesa, a música clássica, nada encantava Ricardo.
+
+C: A possibilidade de sucesso, o desejo de felicidade, nada motivava Vanessa.
+S: A possibilidade de sucesso, o desejo de felicidade, nada motivava Vanessa.
+
+C: O barulho do trânsito, a correria do dia a dia, nada incomodava Pedro.
+S: O barulho do trânsito, a correria do dia a dia, nada incomodava Pedro.
+
+C: O sorriso dos filhos, a companhia dos amigos, nada alegrava Camila.
+S: O sorriso dos filhos, a companhia dos amigos, nada alegrava Camila.
+
+C: O sonho de ser artista, o prazer de viajar, nada preenchia Fernando.
+S: O sonho de ser artista, o prazer de viajar, nada preenchia Fernando.
+
+C: A busca pela verdade, a vontade de aprender, nada satisfazia Gabriela.
+S: A busca pela verdade, a vontade de aprender, nada satisfazia Gabriela.
+
+C: As dificuldades enfrentadas, os obstáculos superados, nada abalava Daniel.
+S: As dificuldades enfrentadas, os obstáculos superados, nada abalava Daniel.
+
+C: O gosto pelos esportes radicais, o amor pela adrenalina, nada assustava Isabela.
+S: O gosto pelos esportes radicais, o amor pela adrenalina, nada assustava Isabela.
+
+C: O fato de não conseguir alcançar seus objetivos a frustrou.
+S: Não conseguir alcançar seus objetivos a frustrou.
+
+C: Os alunos, que estudaram muito, tiraram notas altas.
+S: Os alunos estudaram muito e tiraram notas altas.
+
+C: A ideia de viajar para o exterior sempre a encantou.
+S: Viajar para o exterior sempre a encantou.
+
+C: Obrigado por ter me ajudado nesse momento difícil.
+S: Obrigado por me ajudar nesse momento difícil.
+
+C: A notícia de que ele foi promovido surpreendeu a todos.
+S: A notícia da sua promoção surpreendeu a todos.
+
+C: A demonstração de afeto dos amigos a emocionou.
+S: A demonstração de afeto dos amigos a emocionou.
+
+C: A possibilidade de ganhar uma viagem grátis animou a todos.
+S: Ganhar uma viagem grátis animou a todos.
+
+C: A falta de compreensão por parte dos colegas a aborreceu.
+S: A falta de compreensão dos colegas a aborreceu.
+
+C: A esperança de encontrar uma solução os mantinha motivados.
+S: A esperança de encontrar uma solução os mantinha motivados.
+
+C: A notícia de que ela se casou pegou todos de surpresa.
+S: A notícia do seu casamento pegou todos de surpresa.
+
+C: A casa, grande e espaçosa, era perfeita para a família.
+S: A casa era perfeita para a família.
+
+C: O cachorro, que estava com fome, devorou toda a comida.
+S: O cachorro devorou toda a comida.
+
+C: A festa, que durou a noite toda, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: A cadeira, que estava quebrada, precisava ser consertada.
+S: A cadeira precisava ser consertada.
+
+C: A viagem, que durou três dias, foi muito cansativa.
+S: A viagem foi muito cansativa.
+
+C: O livro, interessante e envolvente, foi o meu preferido.
+S: O livro foi o meu preferido.
+
+C: A música, que estava alta, incomodou os vizinhos.
+S: A música incomodou os vizinhos.
+
+C: A árvore, que estava cheia de frutos, atraiu muitos pássaros.
+S: A árvore atraiu muitos pássaros.
+
+C: O filme, emocionante e cheio de suspense, prendeu a minha atenção.
+S: O filme prendeu a minha atenção.
+
+C: A notícia, que era surpreendente, pegou todos de surpresa.
+S: A notícia pegou todos de surpresa.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro é muito interessante.
+
+C: O fato de ele ter mentido me deixou desapontado.
+S: Ele ter mentido me deixou desapontado.
+
+C: As pessoas que moram no meu prédio são muito simpáticas.
+S: As pessoas são muito simpáticas.
+
+C: A ideia de viajar para a praia nos anima.
+S: Viajar para a praia nos anima.
+
+C: O fato de ela ter ganho o prêmio me deixou orgulhoso.
+S: Ela ter ganhado o prêmio me deixou orgulhoso.
+
+C: Os livros que comprei na semana passada são muito bons.
+S: Os livros são muito bons.
+
+C: A notícia de que ele foi promovido me deixou feliz.
+S: Ele ter sido promovido me deixou feliz.
+
+C: A possibilidade de chover nos fez levar guarda-chuvas.
+S: A chuva nos fez levar guarda-chuvas.
+
+C: O fato deles terem se reconciliado me surpreendeu.
+S: Eles terem se reconciliado me surpreendeu.
+
+C: As pessoas que conheci na viagem foram muito agradáveis.
+S: As pessoas foram muito agradáveis.
+
+C: O gato, famoso por sua independência, sempre se esconde quando vê alguém estranho.
+S: O gato sempre se esconde quando vê alguém estranho.
+
+C: A casa, com uma piscina no quintal, sempre foi o sonho de João.
+S: A casa sempre foi o sonho de João.
+
+C: O filme, ganhador de vários prêmios, emocionou o público.
+S: O filme emocionou o público.
+
+C: A praia, com suas ondas cristalinas, é um lugar perfeito para relaxar.
+S: A praia é um lugar perfeito para relaxar.
+
+C: A música, tocada com maestria, encantou a plateia.
+S: A música encantou a plateia.
+
+C: O livro, de aventura emocionante, prendeu a atenção dos leitores.
+S: O livro prendeu a atenção dos leitores.
+
+C: A exposição, com obras de arte maravilhosas, atraiu muitos visitantes.
+S: A exposição atraiu muitos visitantes.
+
+C: A festa, com música animada, durou até altas horas da noite.
+S: A festa durou até altas horas da noite.
+
+C: A viagem, com paisagens deslumbrantes, ficará guardada na memória para sempre.
+S: A viagem ficará guardada na memória para sempre.
+
+C: O evento, com palestras inspiradoras, foi um sucesso.
+S: O evento foi um sucesso.
+
+C: O livro, com capa dura e páginas coloridas, chamou a atenção da criança.
+S: O livro chamou a atenção da criança.
+
+C: O vestido, com renda e bordado, ficou perfeito na noiva.
+S: O vestido ficou perfeito na noiva.
+
+C: O filme, com um elenco renomado e efeitos especiais incríveis, foi um sucesso de bilheteria.
+S: O filme foi um sucesso de bilheteria.
+
+C: O carro, com um motor potente e um design moderno, conquistou os compradores.
+S: O carro conquistou os compradores.
+
+C: O apartamento, com vista para o mar e uma ampla varanda, é o sonho de consumo de muitas pessoas.
+S: O apartamento é o sonho de consumo de muitas pessoas.
+
+C: O bolo, com uma cobertura de chocolate e recheio de morango, fez sucesso no aniversário.
+S: O bolo fez sucesso no aniversário.
+
+C: O cachorro, com pelos macios e olhos brilhantes, conquistou todos da família.
+S: O cachorro conquistou todos da família.
+
+C: O quadro, com cores vibrantes e traços precisos, foi elogiado pelos críticos de arte.
+S: O quadro foi elogiado pelos críticos de arte.
+
+C: A casa, com um jardim exuberante e uma piscina nos fundos, é perfeita para um dia de descanso.
+S: A casa é perfeita para um dia de descanso.
+
+C: O restaurante, com pratos saborosos e um ambiente aconchegante, atraiu muitos clientes.
+S: O restaurante atraiu muitos clientes.
+
+C: O professor, um homem sábio, sempre tinha bons conselhos.
+S: O professor, um homem sábio, sempre tinha bons conselhos.
+
+C: O jantar, uma refeição deliciosa, estava pronto na mesa.
+S: O jantar, uma refeição deliciosa, estava pronto na mesa.
+
+C: O filme, uma obra-prima do cinema, ganhou vários prêmios.
+S: O filme, uma obra-prima do cinema, ganhou vários prêmios.
+
+C: O laptop, uma ferramenta indispensável nos dias de hoje, facilita muito o trabalho.
+S: O laptop, uma ferramenta indispensável nos dias de hoje, facilita muito o trabalho.
+
+C: O carro, um veículo de luxo, chamou a atenção de todos.
+S: O carro, um veículo de luxo, chamou a atenção de todos.
+
+C: O cachorro, um fiel companheiro, sempre estava ao seu lado.
+S: O cachorro, um fiel companheiro, sempre estava ao seu lado.
+
+C: O livro, uma emocionante história de amor, conquistou muitos leitores.
+S: O livro, uma emocionante história de amor, conquistou muitos leitores.
+
+C: O vestido, uma peça elegante, fez sucesso no desfile.
+S: O vestido, uma peça elegante, fez sucesso no desfile.
+
+C: O time, uma equipe talentosa, venceu o campeonato.
+S: O time, uma equipe talentosa, venceu o campeonato.
+
+C: O pôr do sol, um espetáculo magnífico, pintou o céu de cores vibrantes.
+S: O pôr do sol, um espetáculo magnífico, pintou o céu de cores vibrantes.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é interessante.
+
+C: A casa que ele construiu é enorme.
+S: A casa que ele construiu é enorme.
+
+C: O carro que vi ontem é vermelho.
+S: O carro que vi ontem é vermelho.
+
+C: A música que ouvi no rádio é animada.
+S: A música que ouvi no rádio é animada.
+
+C: A mulher que conheci na festa é simpática.
+S: A mulher que conheci na festa é simpática.
+
+C: O filme que assisti no cinema é emocionante.
+S: O filme que assisti no cinema é emocionante.
+
+C: A cidade que visitamos durante as férias é bonita.
+S: A cidade que visitamos durante as férias é bonita.
+
+C: O cachorro que adotamos é brincalhão.
+S: O cachorro que adotamos é brincalhão.
+
+C: O restaurante que jantamos ontem é sofisticado.
+S: O restaurante que jantamos ontem é sofisticado.
+
+C: O quadro que vi no museu é impressionante.
+S: O quadro que vi no museu é impressionante.
+
+C: A notícia de seu sucesso, a beleza de sua voz, tudo encantava o público.
+S: A notícia de seu sucesso, a beleza de sua voz, tudo encantava o público.
+
+C: O medo de falhar, a pressão dos colegas, nada o impedia de perseguir seus sonhos.
+S: O medo de falhar, a pressão dos colegas, nada o impedia de perseguir seus sonhos.
+
+C: A correria do dia a dia, os problemas familiares, nada o desanimava.
+S: A correria do dia a dia, os problemas familiares, nada o desanimava.
+
+C: A falta de tempo, a falta de motivação, nada justificava sua procrastinação.
+S: A falta de tempo, a falta de motivação, nada justificava sua procrastinação.
+
+C: A chuva forte, o trânsito intenso, nada o impediu de chegar a tempo.
+S: A chuva forte, o trânsito intenso, nada o impediu de chegar a tempo.
+
+C: A solidão, a tristeza, tudo parecia insuportável.
+S: A solidão, a tristeza, tudo parecia insuportável.
+
+C: O cansaço, a falta de energia, nada o fazia desistir.
+S: O cansaço, a falta de energia, nada o fazia desistir.
+
+C: A falta de recursos, a falta de apoio, nada o detinha.
+S: A falta de recursos, a falta de apoio, nada o detinha.
+
+C: O barulho constante, as distrações, nada o atrapalhava.
+S: O barulho constante, as distrações, nada o atrapalhava.
+
+C: A distância, a saudade, tudo doía no coração.
+S: A distância, a saudade, tudo doía no coração.
+
+C: O medo de falhar tem afetado sua confiança em si mesmo.
+S: O medo de falhar afetou sua confiança em si mesmo.
+
+C: A viagem de avião, a hospedagem no hotel, o passeio no parque, tudo isso custou muito dinheiro.
+S: A viagem de avião, a hospedagem no hotel, o passeio no parque custaram muito dinheiro.
+
+C: A beleza daquela paisagem, o som das ondas quebrando na praia, o cheiro do mar, tudo me encantou.
+S: A beleza daquela paisagem, o som das ondas quebrando na praia, o cheiro do mar me encantaram.
+
+C: A felicidade de tê-lo ao meu lado, o sentimento de proteção que você me traz, a segurança que sinto quando estamos juntos, tudo isso me faz amar você mais a cada dia.
+S: A felicidade de tê-lo ao meu lado, o sentimento de proteção que você me traz, a segurança que sinto quando estamos juntos me faz amar você mais a cada dia.
+
+C: A falta de tempo, a pressão do trabalho, a preocupação com as contas a pagar, nada disso me impede de sonhar alto.
+S: A falta de tempo, a pressão do trabalho, a preocupação com as contas a pagar não me impede de sonhar alto.
+
+C: A sinceridade das suas palavras, a intensidade do seu olhar, a ternura do seu abraço, tudo isso me emociona.
+S: A sinceridade das suas palavras, a intensidade do seu olhar, a ternura do seu abraço me emocionam.
+
+C: A melhora na sua saúde, o progresso nos seus estudos, o sucesso no seu trabalho, tudo isso é motivo de orgulho para mim.
+S: A melhora na sua saúde, o progresso nos seus estudos, o sucesso no seu trabalho são motivos de orgulho para mim.
+
+C: A conquista do título, o reconhecimento dos seus colegas, o apoio da sua família, tudo isso foi fundamental para o seu sucesso.
+S: A conquista do título, o reconhecimento dos seus colegas, o apoio da sua família foram fundamentais para o seu sucesso.
+
+C: A tristeza da despedida, a saudade dos momentos vividos, a incerteza do futuro, tudo isso está me deixando inseguro.
+S: A tristeza da despedida, a saudade dos momentos vividos, a incerteza do futuro está me deixando inseguro.
+
+C: A paciência para esperar, a persistência para insistir, a coragem para recomeçar, tudo isso é necessário para alcançar o sucesso.
+S: A paciência para esperar, a persistência para insistir, a coragem para recomeçar são necessários para alcançar o sucesso.
+
+C: O sol, a brisa, o som das ondas, tudo agrada a ela.
+S: O sol, a brisa, o som das ondas, tudo agrada a ela.
+
+C: A viagem, a companhia, a aventura, nada importa para mim.
+S: A viagem, a companhia, a aventura, nada importa para mim.
+
+C: O trabalho, a rotina, a responsabilidade, tudo cansa João.
+S: O trabalho, a rotina, a responsabilidade, tudo cansa João.
+
+C: As festas, as comemorações, os encontros, nada anima Pedro.
+S: As festas, as comemorações, os encontros, nada anima Pedro.
+
+C: Os filmes, as séries, as novelas, tudo distrai Ana.
+S: Os filmes, as séries, as novelas, tudo distrai Ana.
+
+C: A música, a dança, o teatro, nada interessa a Maria.
+S: A música, a dança, o teatro, nada interessa a Maria.
+
+C: O estudo, a leitura, a pesquisa, tudo enriquece o conhecimento.
+S: O estudo, a leitura, a pesquisa, tudo enriquece o conhecimento.
+
+C: O silêncio, a solidão, a tranquilidade, nada incomoda Joana.
+S: O silêncio, a solidão, a tranquilidade, nada incomoda Joana.
+
+C: O amor, o carinho, a cumplicidade, tudo completa o relacionamento.
+S: O amor, o carinho, a cumplicidade, tudo completa o relacionamento.
+
+C: O trabalho, o esforço, a dedicação, nada garante o sucesso.
+S: O trabalho, o esforço, a dedicação, nada garante o sucesso.
+
+C: A casa que comprei é muito espaçosa.
+S: A casa, que comprei, é muito espaçosa.
+
+C: O livro que eu li era muito interessante.
+S: O livro, que eu li, era muito interessante.
+
+C: O carro que ele dirigia era muito veloz.
+S: O carro, que ele dirigia, era muito veloz.
+
+C: A praia onde fui tinha águas cristalinas.
+S: A praia, onde fui, tinha águas cristalinas.
+
+C: A música que ouvi era muito animada.
+S: A música, que ouvi, era muito animada.
+
+C: O filme que assisti era muito emocionante.
+S: O filme, que assisti, era muito emocionante.
+
+C: A comida que provei estava deliciosa.
+S: A comida, que provei, estava deliciosa.
+
+C: A cidade onde moro é muito bonita.
+S: A cidade, onde moro, é muito bonita.
+
+C: O parque que visitei era muito bonito.
+S: O parque, que visitei, era muito bonito.
+
+C: O vestido que comprei era muito elegante.
+S: O vestido, que comprei, era muito elegante.
+
+C: A música alta, o cheiro de comida gostosa, as risadas das crianças, tudo animava a festa.
+S: A música alta, o cheiro de comida gostosa, as risadas das crianças, tudo animava a festa.
+
+C: Os livros, as séries, os filmes, nada entretinha Lucas.
+S: Os livros, as séries, os filmes, nada entretinha Lucas.
+
+C: A chuva forte, o vento gelado, as trovoadas intensas, nada amedrontava Sarah.
+S: A chuva forte, o vento gelado, as trovoadas intensas, nada amedrontava Sarah.
+
+C: A correria do dia a dia, as cobranças constantes, as preocupações rotineiras, tudo estressava Pedro.
+S: A correria do dia a dia, as cobranças constantes, as preocupações rotineiras, tudo estressava Pedro.
+
+C: A comida saborosa, o aroma apetitoso, os sabores variados, tudo agradava Ana.
+S: A comida saborosa, o aroma apetitoso, os sabores variados, tudo agradava Ana.
+
+C: As mensagens carinhosas, as ligações inesperadas, os gestos de amor, nada emocionava João.
+S: As mensagens carinhosas, as ligações inesperadas, os gestos de amor, nada emocionava João.
+
+C: O cheiro de café fresco, o barulho da xícara no pires, a temperatura agradável, tudo aconchegava Maria.
+S: O cheiro de café fresco, o barulho da xícara no pires, a temperatura agradável, tudo aconchegava Maria.
+
+C: O sol brilhante, o céu sem nuvens, a brisa suave, tudo alegrava Clara.
+S: O sol brilhante, o céu sem nuvens, a brisa suave, tudo alegrava Clara.
+
+C: As palavras doces, os abraços apertados, os beijos carinhosos, nada preenchia o vazio de Sofia.
+S: As palavras doces, os abraços apertados, os beijos carinhosos, nada preenchia o vazio de Sofia.
+
+C: O silêncio da noite, a tranquilidade da madrugada, o aconchego da cama, tudo relaxava Gabriel.
+S: O silêncio da noite, a tranquilidade da madrugada, o aconchego da cama, tudo relaxava Gabriel.
+
+C: O sol brilhava intensamente naquela tarde quente de verão.
+S: Naquela tarde quente de verão, o sol brilhava intensamente.
+
+C: Com muito esforço, ela conseguiu alcançar seus objetivos e realizar seus sonhos.
+S: Ela conseguiu alcançar seus objetivos e realizar seus sonhos com muito esforço.
+
+C: Apesar do cansaço, ele decidiu continuar trabalhando até altas horas da noite.
+S: Ele decidiu continuar trabalhando até altas horas da noite, apesar do cansaço.
+
+C: Com a chegada do inverno, as temperaturas começaram a cair drasticamente.
+S: As temperaturas começaram a cair drasticamente com a chegada do inverno.
+
+C: Mesmo com as dificuldades, eles sempre encontram uma maneira de seguir em frente.
+S: Eles sempre encontram uma maneira de seguir em frente, mesmo com as dificuldades.
+
+C: Ela estava exausta, mas mesmo assim decidiu participar do evento.
+S: Mesmo exausta, ela decidiu participar do evento.
+
+C: O trânsito estava caótico, no entanto, ele não desistiu de chegar ao destino.
+S: Mesmo com o trânsito caótico, ele não desistiu de chegar ao destino.
+
+C: A festa foi um sucesso, muito animada e cheia de diversão.
+S: A festa foi um sucesso, animada e cheia de diversão.
+
+C: Com as chuvas intensas, as ruas ficaram alagadas e intransitáveis.
+S: As ruas ficaram alagadas e intransitáveis com as chuvas intensas.
+
+C: As crianças estavam empolgadas, ansiosas para abrir os presentes de Natal.
+S: Ansiosas para abrir os presentes de Natal, as crianças estavam empolgadas.
+
+C: O cachorro, fiel e leal, sempre protegia seu dono.
+S: O cachorro sempre protegia seu dono.
+
+C: O livro, interessante e envolvente, prendia a atenção dos leitores.
+S: O livro prendia a atenção dos leitores.
+
+C: O time, determinado e habilidoso, venceu o campeonato.
+S: O time venceu o campeonato.
+
+C: O filme, emocionante e inspirador, fez todos chorarem.
+S: O filme fez todos chorarem.
+
+C: A cidade, movimentada e agitada, nunca dormia.
+S: A cidade nunca dormia.
+
+C: O trabalho, árduo e desafiador, trouxe sucesso ao profissional.
+S: O trabalho trouxe sucesso ao profissional.
+
+C: O presente, valioso e significativo, emocionou a pessoa presenteada.
+S: O presente emocionou a pessoa presenteada.
+
+C: A música, animada e contagiante, fez todos dançarem.
+S: A música fez todos dançarem.
+
+C: A paisagem, deslumbrante e exuberante, encantou os turistas.
+S: A paisagem encantou os turistas.
+
+C: O dia, ensolarado e quente, convidava a aproveitar a praia.
+S: O dia convidava a aproveitar a praia.
+
+C: O trabalho, o estudo, o lazer, nada cansava Lucas.
+S: O trabalho, o estudo, o lazer, nada cansava Lucas.
+
+C: A viagem, a festa, o convite, nada animava Lucas.
+S: A viagem, a festa, o convite, nada animava Lucas.
+
+C: O filme, a música, o livro, nada entretinha Lucas.
+S: O filme, a música, o livro, nada entretinha Lucas.
+
+C: O problema, a dificuldade, o obstáculo, nada desanimava Lucas.
+S: O problema, a dificuldade, o obstáculo, nada desanimava Lucas.
+
+C: O sol, a praia, o calor, nada agradava Lucas.
+S: O sol, a praia, o calor, nada agradava Lucas.
+
+C: A comida, a bebida, o doce, nada satisfazia Lucas.
+S: A comida, a bebida, o doce, nada satisfazia Lucas.
+
+C: O silêncio, a tranquilidade, a paz, nada acalmava Lucas.
+S: O silêncio, a tranquilidade, a paz, nada acalmava Lucas.
+
+C: A correria, a pressa, a ansiedade, nada desacelerava Lucas.
+S: A correria, a pressa, a ansiedade, nada desacelerava Lucas.
+
+C: O frio, a chuva, o vento, nada incomodava Lucas.
+S: O frio, a chuva, o vento, nada incomodava Lucas.
+
+C: O elogio, a aprovação, o prêmio, nada satisfazia Lucas.
+S: O elogio, a aprovação, o prêmio, nada satisfazia Lucas.
+
+C: O livro, que estava na estante, caiu no chão.
+S: O livro caiu no chão.
+
+C: A casa, que foi construída há 100 anos, precisa de reformas.
+S: A casa precisa de reformas.
+
+C: O filme, que ganhou um prêmio, foi muito elogiado pela crítica.
+S: O filme foi muito elogiado pela crítica.
+
+C: O carro, que era vermelho, foi vendido ontem.
+S: O carro foi vendido ontem.
+
+C: A comida, que foi preparada pelo chef renomado, estava deliciosa.
+S: A comida estava deliciosa.
+
+C: A música, que foi lançada recentemente, está fazendo sucesso nas rádios.
+S: A música está fazendo sucesso nas rádios.
+
+C: O vestido, que custou uma fortuna, é muito elegante.
+S: O vestido é muito elegante.
+
+C: O quadro, que foi pintado por um artista famoso, está exposto no Museu de Arte.
+S: O quadro está exposto no Museu de Arte.
+
+C: O celular, que foi lançado este ano, possui uma câmera de alta qualidade.
+S: O celular possui uma câmera de alta qualidade.
+
+C: O prédio, que foi construído recentemente, é muito moderno.
+S: O prédio é muito moderno.
+
+C: O livro, que estava na estante, era muito interessante.
+S: O livro era muito interessante.
+
+C: A música, que tocou durante a festa, era animada.
+S: A música era animada.
+
+C: O cachorro, que estava doente, precisava de cuidados veterinários.
+S: O cachorro precisava de cuidados veterinários.
+
+C: O prédio, que foi construído em 1900, possui uma arquitetura histórica.
+S: O prédio possui uma arquitetura histórica.
+
+C: A pintura, que foi feita por um famoso artista, está exposta no museu.
+S: A pintura está exposta no museu.
+
+C: O carro, que tem alta tecnologia embarcada, é muito seguro.
+S: O carro é muito seguro.
+
+C: O jogador, que marcou o gol da vitória, foi aplaudido pela torcida.
+S: O jogador foi aplaudido pela torcida.
+
+C: A comida, que foi preparada pela chef renomada, estava deliciosa.
+S: A comida estava deliciosa.
+
+C: A planta, que precisa de muita luz solar, deve ser colocada perto da janela.
+S: A planta deve ser colocada perto da janela.
+
+C: O filme, que foi lançado recentemente, recebeu ótimas críticas.
+S: O filme recebeu ótimas críticas.
+
+C: O clima, com sua imprevisibilidade, é sempre um desafio para os agricultores.
+S: O clima é sempre um desafio para os agricultores.
+
+C: O mundo, com suas diferenças culturais, é um lugar fascinante para se explorar.
+S: O mundo é um lugar fascinante para se explorar.
+
+C: O carro, com seu motor potente, alcançou uma velocidade impressionante.
+S: O carro alcançou uma velocidade impressionante.
+
+C: A música, com suas melodias envolventes, emociona as pessoas.
+S: A música emociona as pessoas.
+
+C: A tecnologia, com suas inovações constantes, facilita muitas tarefas do dia a dia.
+S: A tecnologia facilita muitas tarefas do dia a dia.
+
+C: A natureza, com sua beleza infinita, proporciona paz e tranquilidade.
+S: A natureza proporciona paz e tranquilidade.
+
+C: O amor, com suas nuances complexas, é um sentimento poderoso.
+S: O amor é um sentimento poderoso.
+
+C: A educação, com seus desafios, é essencial para o crescimento pessoal.
+S: A educação é essencial para o crescimento pessoal.
+
+C: O trabalho, com suas exigências, pode ser cansativo, mas gratificante.
+S: O trabalho pode ser cansativo, mas gratificante.
+
+C: O livro, com sua narrativa cativante, prende a atenção do leitor.
+S: O livro prende a atenção do leitor.
+
+C: A viagem, o hotel, a comida, tudo era perfeito.
+S: A viagem, o hotel, a comida, tudo era perfeito.
+
+C: O carro, a casa, o salário, nada o satisfazia.
+S: O carro, a casa, o salário, nada o satisfazia.
+
+C: Os amigos, a família, os hobbies, tudo ocupa seu tempo livre.
+S: Os amigos, a família, os hobbies, tudo ocupa seu tempo livre.
+
+C: O trabalho, os estudos, as responsabilidades, nada o desanimava.
+S: O trabalho, os estudos, as responsabilidades, nada o desanimava.
+
+C: A música, a leitura, o esporte, tudo traz alegria.
+S: A música, a leitura, o esporte, tudo traz alegria.
+
+C: As preocupações, as dívidas, os problemas, nada o preocupa.
+S: As preocupações, as dívidas, os problemas, nada o preocupa.
+
+C: A chuva, o frio, a falta de sol, tudo o incomoda.
+S: A chuva, o frio, a falta de sol, tudo o incomoda.
+
+C: As festas, as viagens, os encontros, tudo é divertido.
+S: As festas, as viagens, os encontros, tudo é divertido.
+
+C: A música, a dança, o teatro, tudo faz parte de sua vida.
+S: A música, a dança, o teatro, tudo faz parte de sua vida.
+
+C: As flores, as cores, os perfumes, tudo é belo.
+S: As flores, as cores, os perfumes, tudo é belo.
+
+C: A música clássica, o jazz, o rock, todos encantam João.
+S: A música clássica, o jazz, o rock, todos encantam João.
+
+C: O medo, a angústia, a saudade, nada afeta Ana.
+S: O medo, a angústia, a saudade, nada afeta Ana.
+
+C: A chuva, o sol, o vento, tudo influencia Rafael.
+S: A chuva, o sol, o vento, tudo influencia Rafael.
+
+C: O livro, o cinema, a pintura, tudo inspira Maria.
+S: O livro, o cinema, a pintura, tudo inspira Maria.
+
+C: O trabalho, a família, os amigos, tudo importa para Luísa.
+S: O trabalho, a família, os amigos, tudo importa para Luísa.
+
+C: O estudo, a prática, a dedicação, tudo ajuda Pedro.
+S: O estudo, a prática, a dedicação, tudo ajuda Pedro.
+
+C: O riso, o choro, o silêncio, tudo comove Carla.
+S: O riso, o choro, o silêncio, tudo comove Carla.
+
+C: O cansaço, a dor, a tristeza, nada afasta Lucas.
+S: O cansaço, a dor, a tristeza, nada afasta Lucas.
+
+C: O desafio, a aventura, o perigo, tudo atrai Thiago.
+S: O desafio, a aventura, o perigo, tudo atrai Thiago.
+
+C: A esperança, o amor, a fé, tudo fortalece Marina.
+S: A esperança, o amor, a fé, tudo fortalece Marina.
+
+C: O medo, a ansiedade, a adrenalina, tudo isso fazia parte da competição.
+S: O medo, a ansiedade, a adrenalina, tudo isso fazia parte da competição.
+
+C: O livro, com suas páginas amareladas e seu cheiro de velho, era um tesouro para ela.
+S: O livro, com suas páginas amareladas e seu cheiro de velho, era um tesouro para ela.
+
+C: Os amigos, com suas brincadeiras e risadas, sempre estavam ao seu lado.
+S: Os amigos, com suas brincadeiras e risadas, sempre estavam ao seu lado.
+
+C: O tempo, com seus altos e baixos, mostra a verdadeira natureza das pessoas.
+S: O tempo, com seus altos e baixos, mostra a verdadeira natureza das pessoas.
+
+C: A chuva, com seu som relaxante e cheiro fresco, acalmava sua mente.
+S: A chuva, com seu som relaxante e cheiro fresco, acalmava sua mente.
+
+C: O trabalho, com sua rotina diária e suas responsabilidades, era cansativo, mas necessário.
+S: O trabalho, com sua rotina diária e suas responsabilidades, era cansativo, mas necessário.
+
+C: Os animais, com sua inocência e lealdade, são companheiros fiéis.
+S: Os animais, com sua inocência e lealdade, são companheiros fiéis.
+
+C: A música, com sua melodia envolvente e letras inspiradoras, transporta para outros mundos.
+S: A música, com sua melodia envolvente e letras inspiradoras, transporta para outros mundos.
+
+C: A natureza, com suas paisagens deslumbrantes e seu ar puro, renova as energias.
+S: A natureza, com suas paisagens deslumbrantes e seu ar puro, renova as energias.
+
+C: As viagens, com suas aventuras e descobertas, ampliam os horizontes.
+S: As viagens, com suas aventuras e descobertas, ampliam os horizontes.
+
+C: O livro, a música, o filme, nada a distraía durante o estudo.
+S: O livro, a música, o filme, nada a distraía durante o estudo.
+
+C: Viagem, descanso, diversão, tudo ela esperava daquelas férias.
+S: Viagem, descanso, diversão, tudo ela esperava daquelas férias.
+
+C: Bebida, comida, música, nada faltava naquela festa.
+S: Bebida, comida, música, nada faltava naquela festa.
+
+C: Tempo, paciência, esforço, não lhe faltava para alcançar o sucesso.
+S: Tempo, paciência, esforço, não lhe faltava para alcançar o sucesso.
+
+C: Silêncio, tranquilidade, paz, era o que ele procurava naquele momento.
+S: Silêncio, tranquilidade, paz, era o que ele procurava naquele momento.
+
+C: Poesia, romance, mistério, ela amava todos os gêneros literários.
+S: Poesia, romance, mistério, ela amava todos os gêneros literários.
+
+C: Velocidade, adrenalina, emoção, era o que ele buscava nas corridas de carro.
+S: Velocidade, adrenalina, emoção, era o que ele buscava nas corridas de carro.
+
+C: Amizade, companheirismo, lealdade, era o que ela valorizava nos seus relacionamentos.
+S: Amizade, companheirismo, lealdade, era o que ela valorizava nos seus relacionamentos.
+
+C: Sol, praia, mar, era tudo que ele queria nas férias.
+S: Sol, praia, mar, era tudo que ele queria nas férias.
+
+C: Trabalho, dedicação, persistência, eram as características que ele admirava em uma pessoa.
+S: Trabalho, dedicação, persistência, eram as características que ele admirava em uma pessoa.
+
+C: A decoração da sala, os móveis antigos, a pintura desgastada, nada agradava aos convidados.
+S: A decoração da sala, os móveis antigos, a pintura desgastada, nada agradava aos convidados.
+
+C: A chance de sucesso, o apoio dos amigos, a determinação pessoal, nada era suficiente para impedi-lo.
+S: A chance de sucesso, o apoio dos amigos, a determinação pessoal, nada era suficiente para impedi-lo.
+
+C: As flores no jardim, o cheiro da grama recém-cortada, o canto dos pássaros, tudo lembrava a primavera.
+S: As flores no jardim, o cheiro da grama recém-cortada, o canto dos pássaros, tudo lembrava a primavera.
+
+C: A alegria no rosto das crianças, os brinquedos espalhados pelo chão, a música tocando alto, nada interrompia a festa.
+S: A alegria no rosto das crianças, os brinquedos espalhados pelo chão, a música tocando alto, nada interrompia a festa.
+
+C: Os problemas no trabalho, a falta de tempo, as responsabilidades familiares, nada justificava a falta de empenho.
+S: Os problemas no trabalho, a falta de tempo, as responsabilidades familiares, nada justificava a falta de empenho.
+
+C: O movimento das ondas, o barulho do mar, a areia nos pés, tudo relaxava a mente.
+S: O movimento das ondas, o barulho do mar, a areia nos pés, tudo relaxava a mente.
+
+C: A curiosidade dos alunos, a explicação do professor, a imagem projetada na lousa, tudo despertava o interesse.
+S: A curiosidade dos alunos, a explicação do professor, a imagem projetada na lousa, tudo despertava o interesse.
+
+C: A beleza da paisagem, o silêncio da natureza, a brisa refrescante, tudo convidava ao descanso.
+S: A beleza da paisagem, o silêncio da natureza, a brisa refrescante, tudo convidava ao descanso.
+
+C: O cheiro do café fresco, o pão quentinho na mesa, a manteiga derretendo, tudo estimulava o apetite.
+S: O cheiro do café fresco, o pão quentinho na mesa, a manteiga derretendo, tudo estimulava o apetite.
+
+C: O amor da família, a amizade verdadeira, o apoio incondicional, nada substituía esses sentimentos.
+S: O amor da família, a amizade verdadeira, o apoio incondicional, nada substituía esses sentimentos.
+
+C: A comida, o ambiente, a música, tudo encantava os convidados.
+S: A comida, o ambiente, a música, tudo encantava os convidados.
+
+C: A casa, os amigos, o trabalho, nada satisfazia o João.
+S: A casa, os amigos, o trabalho, nada satisfazia o João.
+
+C: A beleza, a inteligência, a simpatia, tudo atraía os admiradores.
+S: A beleza, a inteligência, a simpatia, tudo atraía os admiradores.
+
+C: O sol, a praia, a brisa, nada distraía o casal.
+S: O sol, a praia, a brisa, nada distraía o casal.
+
+C: A chuva, o trânsito, o cansaço, tudo atrapalhava o meu dia.
+S: A chuva, o trânsito, o cansaço, tudo atrapalhava o meu dia.
+
+C: O carinho, o respeito, a confiança, nada faltava naquela relação.
+S: O carinho, o respeito, a confiança, nada faltava naquela relação.
+
+C: A sorte, o talento, a dedicação, tudo contribuía para o seu sucesso.
+S: A sorte, o talento, a dedicação, tudo contribuía para o seu sucesso.
+
+C: A alimentação, o exercício, o descanso, nada garantia a sua saúde.
+S: A alimentação, o exercício, o descanso, nada garantia a sua saúde.
+
+C: A solidão, a tristeza, a incerteza, nada amenizava a sua dor.
+S: A solidão, a tristeza, a incerteza, nada amenizava a sua dor.
+
+C: A educação, a gentileza, o respeito, tudo ensinava bons valores.
+S: A educação, a gentileza, o respeito, tudo ensinava bons valores.
+
+C: O filme de terror, que eu assisti ontem, me deixou assustado.
+S: O filme de terror, eu assisti ontem, me deixou assustado.
+
+C: João, meu melhor amigo, sempre me ajuda nos momentos difíceis.
+S: João, meu melhor amigo, sempre me ajuda nos momentos difíceis.
+
+C: A viagem de avião, que durou dez horas, foi cansativa.
+S: A viagem de avião, durou dez horas, foi cansativa.
+
+C: O livro que eu estou lendo, é muito interessante.
+S: O livro que eu estou lendo, é muito interessante.
+
+C: A festa de aniversário, que comemoramos ontem, foi ótima.
+S: A festa de aniversário, comemoramos ontem, foi ótima.
+
+C: Meu cachorro, que se chama Max, adora brincar no parque.
+S: Meu cachorro, se chama Max, adora brincar no parque.
+
+C: A cidade de São Paulo, onde eu moro, é muito movimentada.
+S: A cidade de São Paulo, eu moro, é muito movimentada.
+
+C: A comida japonesa, que eu experimentei pela primeira vez, é deliciosa.
+S: A comida japonesa, eu experimentei pela primeira vez, é deliciosa.
+
+C: Minha irmã, que estuda medicina, quer ser médica no futuro.
+S: Minha irmã, estuda medicina, quer ser médica no futuro.
+
+C: O jogo de futebol, que aconteceu ontem, foi emocionante.
+S: O jogo de futebol, aconteceu ontem, foi emocionante.
+
+C: O vento forte, a chuva incessante, o trovão assustador, nada abalou a sua coragem.
+S: O vento forte, a chuva incessante, o trovão assustador, nada abalou a sua coragem.
+
+C: A música alta, as luzes piscantes, a multidão animada, tudo deixava João entusiasmado.
+S: A música alta, as luzes piscantes, a multidão animada, tudo deixava João entusiasmado.
+
+C: A neve branquinha, o ar gelado, os flocos caindo suavemente, tudo encantava as crianças.
+S: A neve branquinha, o ar gelado, os flocos caindo suavemente, tudo encantava as crianças.
+
+C: O sol brilhante, o céu azul, as flores coloridas, nada poderia estragar o dia de Ana.
+S: O sol brilhante, o céu azul, as flores coloridas, nada poderia estragar o dia de Ana.
+
+C: O perfume doce, as pétalas macias, as cores vibrantes, tudo encantava Maria.
+S: O perfume doce, as pétalas macias, as cores vibrantes, tudo encantava Maria.
+
+C: O livro emocionante, o personagem cativante, a trama envolvente, nada fazia Leandro soltar o livro.
+S: O livro emocionante, o personagem cativante, a trama envolvente, nada fazia Leandro soltar o livro.
+
+C: O mar calmo, a brisa suave, o pôr do sol dourado, nada trazia paz a Pedro.
+S: O mar calmo, a brisa suave, o pôr do sol dourado, nada trazia paz a Pedro.
+
+C: O aroma irresistível, a textura cremosa, o sabor intenso, tudo fazia Luciana saborear o doce.
+S: O aroma irresistível, a textura cremosa, o sabor intenso, tudo fazia Luciana saborear o doce.
+
+C: O silêncio absoluto, o céu estrelado, a brisa noturna, nada tirava o sono de Bruno.
+S: O silêncio absoluto, o céu estrelado, a brisa noturna, nada tirava o sono de Bruno.
+
+C: O sorriso sincero, as palavras gentis, o abraço apertado, tudo alegrava Paula.
+S: O sorriso sincero, as palavras gentis, o abraço apertado, tudo alegrava Paula.
+
+C: O carro, a casa, o emprego, nada trouxe felicidade para ele.
+S: O carro, a casa, o emprego, nada trouxe felicidade para ele.
+
+C: A chuva, o frio, a falta de sol, nada atrapalhava o meu humor.
+S: A chuva, o frio, a falta de sol, nada atrapalhava o meu humor.
+
+C: Os estudos, o trabalho, as responsabilidades, nada me impedia de me divertir.
+S: Os estudos, o trabalho, as responsabilidades, nada me impedia de me divertir.
+
+C: A música, a dança, a arte em geral, nada despertava interesse nele.
+S: A música, a dança, a arte em geral, nada despertava interesse nele.
+
+C: As viagens, os passeios, as aventuras, nada preenchia o vazio em seu coração.
+S: As viagens, os passeios, as aventuras, nada preenchia o vazio em seu coração.
+
+C: Os elogios, as conquistas, as realizações, nada trazia satisfação para ele.
+S: Os elogios, as conquistas, as realizações, nada trazia satisfação para ele.
+
+C: O tempo, a distância, as circunstâncias, nada separava o amor que sentiam.
+S: O tempo, a distância, as circunstâncias, nada separava o amor que sentiam.
+
+C: A comida, a bebida, a companhia, nada amenizava a dor da solidão.
+S: A comida, a bebida, a companhia, nada amenizava a dor da solidão.
+
+C: As roupas, os sapatos, os acessórios, nada garantia a confiança que ela buscava.
+S: As roupas, os sapatos, os acessórios, nada garantia a confiança que ela buscava.
+
+C: As festas, as baladas, as noitadas, nada trazia alegria para a sua vida.
+S: As festas, as baladas, as noitadas, nada trazia alegria para a sua vida.
+
+C: Com paciência, dedicação e muito esforço, eles finalmente conseguiram terminar o projeto.
+S: Com paciência, dedicação e muito esforço, eles finalmente conseguiram terminar o projeto.
+
+C: Com a permissão do professor, os alunos podem entregar o trabalho amanhã.
+S: Com a permissão do professor, os alunos podem entregar o trabalho amanhã.
+
+C: Com a chuva caindo lá fora, decidimos cancelar o passeio no parque.
+S: Com a chuva caindo lá fora, decidimos cancelar o passeio no parque.
+
+C: Com sua aprovação garantida, ele se sentiu mais confiante para apresentar o projeto.
+S: Com sua aprovação garantida, ele se sentiu mais confiante para apresentar o projeto.
+
+C: Com um sorriso no rosto, ela cumprimentou a todos na festa.
+S: Com um sorriso no rosto, ela cumprimentou a todos na festa.
+
+C: Com o tempo passando, percebi que precisava tomar uma decisão.
+S: Com o tempo passando, percebi que precisava tomar uma decisão.
+
+C: Com o livro emprestado, ele começou a leitura imediatamente.
+S: Com o livro emprestado, ele começou a leitura imediatamente.
+
+C: Com a oferta irrecusável na mesa, ele aceitou o emprego imediatamente.
+S: Com a oferta irrecusável na mesa, ele aceitou o emprego imediatamente.
+
+C: Com o sol brilhando no céu, decidimos fazer um piquenique no parque.
+S: Com o sol brilhando no céu, decidimos fazer um piquenique no parque.
+
+C: Com a vitória garantida, eles comemoraram a conquista juntos.
+S: Com a vitória garantida, eles comemoraram a conquista juntos.
+
+C: O livro, com uma capa colorida e ilustrações incríveis, chamou a atenção de todas as crianças.
+S: O livro chamou a atenção de todas as crianças.
+
+C: Os professores, que dedicam sua vida à educação, merecem todo o reconhecimento.
+S: Os professores merecem todo o reconhecimento.
+
+C: A casa, com uma bela vista para o mar, é o sonho de muitas pessoas.
+S: A casa é o sonho de muitas pessoas.
+
+C: O cachorro, um labrador dourado muito brincalhão, é o companheiro fiel da família.
+S: O cachorro é o companheiro fiel da família.
+
+C: As aulas, ministradas por professores experientes, são de alta qualidade.
+S: As aulas são de alta qualidade.
+
+C: O filme, com uma trama envolvente e atores talentosos, conquistou o público.
+S: O filme conquistou o público.
+
+C: O carro, velho e enferrujado, não funcionava mais.
+S: O carro não funcionava mais.
+
+C: A comida, feita com ingredientes frescos e saudáveis, é muito saborosa.
+S: A comida é muito saborosa.
+
+C: Os alunos, esforçados e dedicados, alcançaram excelentes notas nas provas.
+S: Os alunos alcançaram excelentes notas nas provas.
+
+C: O jardim, cheio de flores coloridas e perfumadas, é um verdadeiro paraíso.
+S: O jardim é um verdadeiro paraíso.
+
+C: Fazia sol, as ruas estavam cheias de pessoas animadas.
+S: Fazia sol, as ruas estavam cheias de pessoas animadas.
+
+C: Os livros, as revistas, os jornais, nada interessava aquele menino.
+S: Os livros, as revistas, os jornais, nada interessava aquele menino.
+
+C: A música alta, as luzes coloridas, o ambiente animado, tudo empolgava a multidão.
+S: A música alta, as luzes coloridas, o ambiente animado, tudo empolgava a multidão.
+
+C: O trabalho, as contas a pagar, os problemas pessoais, nada preocupava João.
+S: O trabalho, as contas a pagar, os problemas pessoais, nada preocupava João.
+
+C: Os filmes de ação, as comédias românticas, os documentários, tudo interessava àquela turma.
+S: Os filmes de ação, as comédias românticas, os documentários, tudo interessava àquela turma.
+
+C: A diversão, as risadas, a alegria, tudo contagiava aquele grupo de amigos.
+S: A diversão, as risadas, a alegria, tudo contagiava aquele grupo de amigos.
+
+C: O frio intenso, a neve caindo, o vento cortante, nada afastava aquelas pessoas da montanha.
+S: O frio intenso, a neve caindo, o vento cortante, nada afastava aquelas pessoas da montanha.
+
+C: Os desafios, as dificuldades, as adversidades, nada desanimava Maria.
+S: Os desafios, as dificuldades, as adversidades, nada desanimava Maria.
+
+C: A solidão, a tristeza, a saudade, nada abalava aquele idoso.
+S: A solidão, a tristeza, a saudade, nada abalava aquele idoso.
+
+C: As praias paradisíacas, as águas cristalinas, as paisagens deslumbrantes, tudo encantava aqueles turistas.
+S: As praias paradisíacas, as águas cristalinas, as paisagens deslumbrantes, tudo encantava aqueles turistas.
+
+C: O cachorro, que estava perdido, foi encontrado pelo dono.
+S: O cachorro, que estava perdido, foi encontrado pelo dono.
+
+C: O filme que ganhou vários prêmios foi aclamado pelo público.
+S: O filme ganhou vários prêmios e foi aclamado pelo público.
+
+C: A casa, onde morávamos há anos, foi vendida.
+S: A casa, onde morávamos há anos, foi vendida.
+
+C: O carro, que tinha sido roubado, foi encontrado pela polícia.
+S: O carro, que tinha sido roubado, foi encontrado pela polícia.
+
+C: A comida que você preparou estava deliciosa.
+S: A comida estava deliciosa.
+
+C: O livro, que foi escrito por um autor famoso, é muito interessante.
+S: O livro, escrito por um autor famoso, é muito interessante.
+
+C: O aluno, que sempre estudava muito, tirou uma boa nota na prova.
+S: O aluno estudava muito e tirou uma boa nota na prova.
+
+C: A estrada, que estava em obras, estava cheia de buracos.
+S: A estrada, que estava em obras, estava cheia de buracos.
+
+C: A cidade, que foi fundada há mais de 500 anos, tem um rico patrimônio histórico.
+S: A cidade, fundada há mais de 500 anos, tem um rico patrimônio histórico.
+
+C: A música, que foi composta por um músico renomado, é muito bonita.
+S: A música, composta por um músico renomado, é muito bonita.
+
+C: Ele tinha uma vida confortável, uma carreira bem-sucedida, uma família amorosa.
+S: Ele tinha uma vida confortável, uma carreira bem-sucedida, uma família amorosa.
+
+C: A chuva, o vento, o frio, nada abalava sua determinação.
+S: A chuva, o vento, o frio, nada abalava sua determinação.
+
+C: O sol brilhava intensamente, o mar estava calmo, a areia era branca e macia.
+S: O sol brilhava intensamente, o mar estava calmo, a areia era branca e macia.
+
+C: Ela estudava incessantemente, se dedicava totalmente aos estudos, tinha o sonho de ser aprovada.
+S: Ela estudava incessantemente, se dedicava totalmente aos estudos, tinha o sonho de ser aprovada.
+
+C: A cidade era movimentada, cheia de edifícios modernos, com ruas estreitas e congestionadas.
+S: A cidade era movimentada, cheia de edifícios modernos, com ruas estreitas e congestionadas.
+
+C: Os pássaros cantavam alegremente, as árvores balançavam suavemente ao vento, o sol brilhava no céu azul.
+S: Os pássaros cantavam alegremente, as árvores balançavam suavemente ao vento, o sol brilhava no céu azul.
+
+C: A comida estava deliciosa, o ambiente era acolhedor, o atendimento era impecável.
+S: A comida estava deliciosa, o ambiente era acolhedor, o atendimento era impecável.
+
+C: A música era animada, as pessoas dançavam e se divertiam, a festa estava animada.
+S: A música era animada, as pessoas dançavam e se divertiam, a festa estava animada.
+
+C: A floresta era densa, cheia de árvores altas e frondosas, com animais exóticos e coloridos.
+S: A floresta era densa, cheia de árvores altas e frondosas, com animais exóticos e coloridos.
+
+C: O time jogava com garra, com determinação, com vontade de vencer.
+S: O time jogava com garra, com determinação, com vontade de vencer.
+
+C: Ela estudou muito, mas não conseguiu passar na prova.
+S: Ela estudou muito, mas não conseguiu passar na prova.
+
+C: O carro, que estava estacionado na rua, foi roubado.
+S: O carro, que estava estacionado na rua, foi roubado.
+
+C: Ele comprou um computador novo, apesar do preço alto.
+S: Ele comprou um computador novo, apesar do preço alto.
+
+C: João, o melhor aluno da classe, recebeu um prêmio.
+S: João, o melhor aluno da classe, recebeu um prêmio.
+
+C: Fomos ao mercado, e lá encontramos nossos amigos.
+S: Fomos ao mercado, e lá encontramos nossos amigos.
+
+C: A reunião, que deveria ser rápida, demorou quase duas horas.
+S: A reunião, que deveria ser rápida, demorou quase duas horas.
+
+C: Tenho que estudar para a prova, mesmo estando cansado.
+S: Tenho que estudar para a prova, mesmo estando cansado.
+
+C: Ela comprou uma casa nova, mas ainda está pagando as prestações.
+S: Ela comprou uma casa nova, mas ainda está pagando as prestações.
+
+C: O filme, que foi lançado recentemente, já é um sucesso de bilheteria.
+S: O filme, que foi lançado recentemente, já é um sucesso de bilheteria.
+
+C: Maria, cansada do trabalho, decidiu tirar férias.
+S: Maria, cansada do trabalho, decidiu tirar férias.
+
+C: O céu estava estrelado, o ar fresco e a brisa suave.
+S: O céu estava estrelado, o ar fresco e a brisa suave.
+
+C: O livro era interessante, a história emocionante e os personagens cativantes.
+S: O livro era interessante, a história emocionante e os personagens cativantes.
+
+C: A garota era talentosa, a voz melodiosa e o sorriso encantador.
+S: A garota era talentosa, a voz melodiosa e o sorriso encantador.
+
+C: O passeio foi divertido, as paisagens incríveis e as experiências enriquecedoras.
+S: O passeio foi divertido, as paisagens incríveis e as experiências enriquecedoras.
+
+C: A comida estava deliciosa, o ambiente aconchegante e o atendimento impecável.
+S: A comida estava deliciosa, o ambiente aconchegante e o atendimento impecável.
+
+C: A casa era espaçosa, a decoração elegante e a vista deslumbrante.
+S: A casa era espaçosa, a decoração elegante e a vista deslumbrante.
+
+C: O filme foi empolgante, a trilha sonora envolvente e os efeitos especiais impressionantes.
+S: O filme foi empolgante, a trilha sonora envolvente e os efeitos especiais impressionantes.
+
+C: A festa foi animada, a música contagiante e as pessoas divertidas.
+S: A festa foi animada, a música contagiante e as pessoas divertidas.
+
+C: O sol estava radiante, a água cristalina e a areia branquinha.
+S: O sol estava radiante, a água cristalina e a areia branquinha.
+
+C: O jantar estava saboroso, o vinho excelente e a sobremesa irresistível.
+S: O jantar estava saboroso, o vinho excelente e a sobremesa irresistível.
+
+C: O filme, que ganhou vários prêmios, foi muito elogiado pela crítica.
+S: O filme foi muito elogiado pela crítica.
+
+C: Juliana, a melhor aluna da turma, ganhou uma bolsa de estudos.
+S: Juliana ganhou uma bolsa de estudos.
+
+C: Os jogadores, que treinaram muito, estão prontos para a partida.
+S: Os jogadores estão prontos para a partida.
+
+C: O carro, que custa muito caro, é considerado um luxo.
+S: O carro é considerado um luxo.
+
+C: Os livros, que eu comprei na semana passada, ainda não chegaram.
+S: Os livros ainda não chegaram.
+
+C: As crianças, que estão brincando no parque, estão se divertindo muito.
+S: As crianças estão se divertindo muito.
+
+C: O restaurante, que serve comida japonesa, é muito popular.
+S: O restaurante é muito popular.
+
+C: Os alunos, que estudaram bastante, conseguiram boas notas na prova.
+S: Os alunos conseguiram boas notas na prova.
+
+C: Meus avós, que moram no interior, vêm nos visitar todo verão.
+S: Meus avós vêm nos visitar todo verão.
+
+C: A música, que tocou durante a festa, era animada.
+S: A música era animada.
+
+C: O tempo voa quando estamos nos divertindo.
+S: Quando estamos nos divertindo, o tempo voa.
+
+C: Frio, chuva, vento, nada impedia João de sair de casa.
+S: Nada impedia João de sair de casa, mesmo com frio, chuva e vento.
+
+C: A música alta, as luzes piscantes, as pessoas dançando, tudo chamava a atenção de Ana.
+S: Tudo chamava a atenção de Ana, a música alta, as luzes piscantes e as pessoas dançando.
+
+C: A palestra foi longa, cansativa, chata até dizer chega.
+S: A palestra foi longa, cansativa e chata até dizer chega.
+
+C: A casa estava vazia, silenciosa, sombria, como se ninguém morasse ali.
+S: A casa estava vazia, silenciosa e sombria, como se ninguém morasse ali.
+
+C: O sol brilhava, o mar estava calmo, a brisa era suave, um dia perfeito para relaxar na praia.
+S: Um dia perfeito para relaxar na praia, o sol brilhava, o mar estava calmo e a brisa era suave.
+
+C: Ela estava com fome, sede, sono, mas continuou estudando até tarde da noite.
+S: Ela continuou estudando até tarde da noite, mesmo com fome, sede e sono.
+
+C: O cachorro latia, o gato miava, os pássaros cantavam, um verdadeiro concerto no jardim.
+S: Um verdadeiro concerto no jardim, o cachorro latia, o gato miava e os pássaros cantavam.
+
+C: O filme era emocionante, engraçado, surpreendente, uma verdadeira obra-prima do cinema.
+S: Uma verdadeira obra-prima do cinema, o filme era emocionante, engraçado e surpreendente.
+
+C: A música triste, as lágrimas nos olhos, as mãos tremendo, ela estava inconsolável.
+S: Ela estava inconsolável, a música triste, as lágrimas nos olhos e as mãos tremendo.
+
+C: A luxúria, a cobiça, a ganância, nada saciava Pedro.
+S: A luxúria, a cobiça, a ganância, nada saciava Pedro.
+
+C: A viagem, a aventura, o desconhecido, tudo fascinava Carolina.
+S: A viagem, a aventura, o desconhecido, tudo fascinava Carolina.
+
+C: A música, a dança, a arte, nada emocionava Lucas.
+S: A música, a dança, a arte, nada emocionava Lucas.
+
+C: A fama, o sucesso, o poder, nada satisfazia Marina.
+S: A fama, o sucesso, o poder, nada satisfazia Marina.
+
+C: A comida, a bebida, a gula, tudo tentava Ricardo.
+S: A comida, a bebida, a gula, tudo tentava Ricardo.
+
+C: A religião, a espiritualidade, a fé, nada preenchia Isabel.
+S: A religião, a espiritualidade, a fé, nada preenchia Isabel.
+
+C: A paz, a harmonia, a serenidade, tudo buscava Pedro.
+S: A paz, a harmonia, a serenidade, tudo buscava Pedro.
+
+C: A solidão, a tristeza, a saudade, nada acometia Júlia.
+S: A solidão, a tristeza, a saudade, nada acometia Júlia.
+
+C: A natureza, os animais, o meio ambiente, tudo preocupava Gabriel.
+S: A natureza, os animais, o meio ambiente, tudo preocupava Gabriel.
+
+C: A amizade, o amor, a compreensão, nada faltava a Laura.
+S: A amizade, o amor, a compreensão, nada faltava a Laura.
+
+C: O filme, que foi indicado ao Oscar, é muito emocionante.
+S: O filme é muito emocionante.
+
+C: O carro, que é vermelho, é do meu irmão.
+S: O carro é do meu irmão.
+
+C: A festa, que aconteceu no sábado, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: O livro, que foi escrito por um famoso autor, é muito interessante.
+S: O livro é muito interessante.
+
+C: O cachorro, que tem manchas pretas, é muito brincalhão.
+S: O cachorro é muito brincalhão.
+
+C: O computador, que foi lançado recentemente, é muito rápido.
+S: O computador é muito rápido.
+
+C: A cidade, que foi fundada há 200 anos, tem muitos pontos turísticos.
+S: A cidade tem muitos pontos turísticos.
+
+C: A música, que foi composta por um famoso compositor, é muito bonita.
+S: A música é muito bonita.
+
+C: A casa, que foi construída há 50 anos, passou por uma reforma.
+S: A casa passou por uma reforma.
+
+C: O quadro, que foi pintado por um artista famoso, é muito valioso.
+S: O quadro é muito valioso.
+
+C: A família, os amigos, o trabalho, nada a impedia de ser feliz.
+S: A família, os amigos, o trabalho, nada a impedia de ser feliz.
+
+C: O tempo, a paciência, a dedicação, tudo ajudava a resolver o problema.
+S: O tempo, a paciência, a dedicação, tudo ajudava a resolver o problema.
+
+C: O medo, a insegurança, a ansiedade, nada a impedia de seguir em frente.
+S: O medo, a insegurança, a ansiedade, nada a impedia de seguir em frente.
+
+C: A música, a leitura, o esporte, tudo trazia alegria para João.
+S: A música, a leitura, o esporte, tudo trazia alegria para João.
+
+C: O estudo, a prática, a persistência, nada era em vão na busca pelo sucesso.
+S: O estudo, a prática, a persistência, nada era em vão na busca pelo sucesso.
+
+C: A viagem, a natureza, a liberdade, tudo trazia paz para o coração.
+S: A viagem, a natureza, a liberdade, tudo trazia paz para o coração.
+
+C: O amor, a amizade, a compreensão, nada substitui o calor humano.
+S: O amor, a amizade, a compreensão, nada substitui o calor humano.
+
+C: A felicidade, a prosperidade, a realização, tudo se conquista com esforço.
+S: A felicidade, a prosperidade, a realização, tudo se conquista com esforço.
+
+C: O trabalho, a dedicação, a ética, nada substitui a satisfação pessoal.
+S: O trabalho, a dedicação, a ética, nada substitui a satisfação pessoal.
+
+C: O silêncio, a introspecção, a meditação, tudo traz paz de espírito.
+S: O silêncio, a introspecção, a meditação, tudo traz paz de espírito.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro que eu comprei ontem é muito interessante.
+
+C: Minha amiga, que mora em Paris, vai me visitar no próximo mês.
+S: Minha amiga, que mora em Paris, vai me visitar no próximo mês.
+
+C: O filme que assistimos ontem à noite foi indicação do meu pai.
+S: O filme que assistimos ontem à noite foi indicação do meu pai.
+
+C: O cachorro que encontrei no parque estava perdido.
+S: O cachorro que encontrei no parque estava perdido.
+
+C: A comida que eu fiz para o jantar estava deliciosa.
+S: A comida que eu fiz para o jantar estava deliciosa.
+
+C: Meu pai, que é advogado, vai me ajudar com o processo.
+S: Meu pai, que é advogado, vai me ajudar com o processo.
+
+C: Eu, que sou vegetariana, não como carne.
+S: Eu, que sou vegetariana, não como carne.
+
+C: O trabalho que entreguei hoje foi elogiado pelo professor.
+S: O trabalho que entreguei hoje foi elogiado pelo professor.
+
+C: Meu irmão, que mora em outra cidade, vai vir me visitar no próximo feriado.
+S: Meu irmão, que mora em outra cidade, vai vir me visitar no próximo feriado.
+
+C: A música que eu ouvi na rádio é o novo sucesso do momento.
+S: A música que eu ouvi na rádio é o novo sucesso do momento.
+
+C: A casa com piscina e jardim encantava o casal.
+S: A casa com piscina e jardim encantava o casal.
+
+C: O livro sobre música clássica chamava a atenção dos estudantes.
+S: O livro sobre música clássica chamava a atenção dos estudantes.
+
+C: O cachorro, fiel e companheiro, esperava ansiosamente pelo dono.
+S: O cachorro, fiel e companheiro, esperava ansiosamente pelo dono.
+
+C: O filme de terror, assustador e emocionante, fez sucesso no cinema.
+S: O filme de terror, assustador e emocionante, fez sucesso no cinema.
+
+C: A viagem para a praia, relaxante e divertida, era muito esperada pela família.
+S: A viagem para a praia, relaxante e divertida, era muito esperada pela família.
+
+C: A música clássica, suave e envolvente, encantava a plateia.
+S: A música clássica, suave e envolvente, encantava a plateia.
+
+C: O carro novo, moderno e potente, despertou a admiração dos vizinhos.
+S: O carro novo, moderno e potente, despertou a admiração dos vizinhos.
+
+C: A comida italiana, saborosa e aromática, conquistou o paladar dos clientes.
+S: A comida italiana, saborosa e aromática, conquistou o paladar dos clientes.
+
+C: O vestido de festa, elegante e sofisticado, destacou-se no baile.
+S: O vestido de festa, elegante e sofisticado, destacou-se no baile.
+
+C: O álbum de fotos, nostálgico e emocionante, recordava momentos especiais.
+S: O álbum de fotos, nostálgico e emocionante, recordava momentos especiais.
+
+C: A chuva, o vento, nada atrapalhava o passeio.
+S: A chuva, o vento, nada atrapalhava o passeio.
+
+C: A música alta, as luzes brilhantes, tudo irritava Lucas.
+S: A música alta, as luzes brilhantes, tudo irritava Lucas.
+
+C: Os animais, as flores, a natureza, tudo encantava Maria.
+S: Os animais, as flores, a natureza, tudo encantava Maria.
+
+C: A comida apetitosa, a bebida gelada, nada agradava Pedro.
+S: A comida apetitosa, a bebida gelada, nada agradava Pedro.
+
+C: Os filmes de suspense, os livros de mistério, tudo fascinava João.
+S: Os filmes de suspense, os livros de mistério, tudo fascinava João.
+
+C: O barulho, a confusão, nada incomodava Laura.
+S: O barulho, a confusão, nada incomodava Laura.
+
+C: Os doces, os salgados, a comida, tudo saciava Rodrigo.
+S: Os doces, os salgados, a comida, tudo saciava Rodrigo.
+
+C: A bagunça, a desorganização, nada atrapalhava Patrícia.
+S: A bagunça, a desorganização, nada atrapalhava Patrícia.
+
+C: As viagens, as aventuras, os desafios, tudo entusiasmava Miguel.
+S: As viagens, as aventuras, os desafios, tudo entusiasmava Miguel.
+
+C: O frio intenso, as tempestades de neve, nada abalava Lucas.
+S: O frio intenso, as tempestades de neve, nada abalava Lucas.
+
+C: A dúvida existencial, a busca pelo sentido da vida, sempre intrigaram João.
+S: A dúvida existencial, a busca pelo sentido da vida, sempre intrigaram João.
+
+C: A entrevista surpresa, a última fase do processo de seleção, deixou os candidatos nervosos.
+S: A entrevista surpresa, a última fase do processo de seleção, deixou os candidatos nervosos.
+
+C: As mensagens enigmáticas, os sinais misteriosos, instigavam o detetive a continuar investigando.
+S: As mensagens enigmáticas, os sinais misteriosos, instigavam o detetive a continuar investigando.
+
+C: A música melancólica, a letra triste, emocionou a plateia.
+S: A música melancólica, a letra triste, emocionou a plateia.
+
+C: A festa de aniversário, o presente especial, deixou Laura radiante de felicidade.
+S: A festa de aniversário, o presente especial, deixou Laura radiante de felicidade.
+
+C: O discurso emocionante, as palavras inspiradoras, comoveram a plateia.
+S: O discurso emocionante, as palavras inspiradoras, comoveram a plateia.
+
+C: O sol escaldante, a areia quente, exigiam protetor solar na praia.
+S: O sol escaldante, a areia quente, exigiam protetor solar na praia.
+
+C: O livro emocionante, a história cativante, prendeu a atenção dos leitores.
+S: O livro emocionante, a história cativante, prendeu a atenção dos leitores.
+
+C: O perfume suave, o aroma agradável, encantava as pessoas ao redor.
+S: O perfume suave, o aroma agradável, encantava as pessoas ao redor.
+
+C: A chuva forte, a ventania intensa, atrapalharam os planos do passeio.
+S: A chuva forte, a ventania intensa, atrapalharam os planos do passeio.
+
+C: A chuva intensa que caía no momento não impediu a multidão de sair de casa.
+S: A chuva intensa não impediu a multidão de sair de casa.
+
+C: As árvores altas e frondosas que cercavam a praça proporcionavam sombra aos visitantes.
+S: As árvores altas e frondosas proporcionavam sombra aos visitantes.
+
+C: O desfile de carnaval, que aconteceu no domingo de manhã, atraiu milhares de pessoas.
+S: O desfile de carnaval atraiu milhares de pessoas.
+
+C: As crianças brincavam alegremente, enquanto os adultos conversavam animadamente.
+S: As crianças brincavam alegremente, enquanto os adultos conversavam.
+
+C: O livro que comprei na livraria da esquina está esgotado em todas as outras lojas.
+S: O livro que comprei está esgotado em todas as outras lojas.
+
+C: Eu sempre fui apaixonado por música clássica, principalmente pelas sinfonias de Beethoven.
+S: Eu sempre fui apaixonado por música clássica, principalmente as sinfonias de Beethoven.
+
+C: A exposição de arte, que estava acontecendo no museu, impressionou os críticos especializados.
+S: A exposição de arte impressionou os críticos especializados.
+
+C: Os alunos que estudam com dedicação costumam ter boas notas nas provas.
+S: Os alunos que estudam com dedicação têm boas notas nas provas.
+
+C: O carro que estava estacionado na vaga reservada para deficientes foi multado.
+S: O carro estacionado na vaga reservada para deficientes foi multado.
+
+C: As flores perfumadas que enfeitavam o jardim atraíam borboletas de todas as cores.
+S: As flores perfumadas enfeitavam o jardim e atraíam borboletas de todas as cores.
+
+C: Os livros, o filme, a música, tudo encantava Ana.
+S: Os livros, o filme, a música, tudo encantava Ana.
+
+C: A praia, o sol, as ondas, nada atraia Pedro.
+S: A praia, o sol, as ondas, nada atraia Pedro.
+
+C: O trabalho, o estudo, a responsabilidade, nada desanimava João.
+S: O trabalho, o estudo, a responsabilidade, nada desanimava João.
+
+C: A comida, a bebida, a música, tudo animava Laura.
+S: A comida, a bebida, a música, tudo animava Laura.
+
+C: O cinema, o teatro, o circo, nada entusiasmava Marcos.
+S: O cinema, o teatro, o circo, nada entusiasmava Marcos.
+
+C: A dança, o esporte, a arte, tudo fascinava Carolina.
+S: A dança, o esporte, a arte, tudo fascinava Carolina.
+
+C: A montanha, a floresta, o mar, nada intrigava Lucas.
+S: A montanha, a floresta, o mar, nada intrigava Lucas.
+
+C: A chuva, o frio, a tempestade, nada incomodava Maria.
+S: A chuva, o frio, a tempestade, nada incomodava Maria.
+
+C: O barulho, a agitação, a multidão, tudo incomodava Pedro.
+S: O barulho, a agitação, a multidão, tudo incomodava Pedro.
+
+C: O silêncio, a paz, a tranquilidade, nada perturbava Marina.
+S: O silêncio, a paz, a tranquilidade, nada perturbava Marina.
+
+C: O livro, que era bastante longo, foi um desafio para o estudante.
+S: O livro foi um desafio para o estudante.
+
+C: A música, que tocava suavemente, acalmou meus nervos.
+S: A música acalmou meus nervos.
+
+C: O problema matemático, que demandava muita atenção, foi resolvido pelo aluno.
+S: O problema matemático foi resolvido pelo aluno.
+
+C: O cachorro, que estava muito sujo, precisava de um banho.
+S: O cachorro precisava de um banho.
+
+C: A festa, que durou a noite toda, foi muito divertida.
+S: A festa foi muito divertida.
+
+C: A comida, que tinha um cheiro delicioso, fez minha boca salivar.
+S: A comida fez minha boca salivar.
+
+C: A cidade, que era famosa por suas paisagens, recebeu muitos turistas.
+S: A cidade recebeu muitos turistas.
+
+C: A notícia, que foi surpreendente, chocou a todos.
+S: A notícia chocou a todos.
+
+C: O filme, que foi baseado em uma história real, emocionou o público.
+S: O filme emocionou o público.
+
+C: O carro, que estava em péssimo estado, precisava de uma revisão.
+S: O carro precisava de uma revisão.
+
+C: O filme, de estilo romântico, fez sucesso no cinema.
+S: O filme fez sucesso no cinema.
+
+C: O carro, de cor vermelha, chamava a atenção por onde passava.
+S: O carro chamava a atenção por onde passava.
+
+C: O livro, que ganhou o prêmio de melhor romance, é muito emocionante.
+S: O livro é muito emocionante.
+
+C: A cidade, com seus belos monumentos, atrai muitos turistas.
+S: A cidade atrai muitos turistas.
+
+C: A criança, que estava com sono, não queria ir para a cama.
+S: A criança não queria ir para a cama.
+
+C: O jardim, repleto de flores coloridas, era um convite para relaxar.
+S: O jardim era um convite para relaxar.
+
+C: A festa, organizada por Maria, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: O computador, com tela touch screen, é muito fácil de usar.
+S: O computador é muito fácil de usar.
+
+C: O restaurante, de comida italiana, possui uma ótima carta de vinhos.
+S: O restaurante possui uma ótima carta de vinhos.
+
+C: O cachorro, que estava perdido, foi resgatado pela vizinha.
+S: O cachorro foi resgatado pela vizinha.
+
+C: Ana, a melhor aluna da turma, foi premiada.
+S: Ana, a melhor aluna da turma, foi premiada.
+
+C: A casa, com paredes brancas e janelas azuis, estava deserta.
+S: A casa, com paredes brancas e janelas azuis, estava deserta.
+
+C: O livro, que foi escrito por um famoso autor, ganhou vários prêmios.
+S: O livro, que foi escrito por um famoso autor, ganhou vários prêmios.
+
+C: O cachorro, um labrador muito brincalhão, adora correr no parque.
+S: O cachorro, um labrador muito brincalhão, adora correr no parque.
+
+C: As flores, com suas cores vibrantes, alegram o jardim.
+S: As flores, com suas cores vibrantes, alegram o jardim.
+
+C: O time, campeão do torneio, comemorou a vitória.
+S: O time, campeão do torneio, comemorou a vitória.
+
+C: O carro, um modelo esportivo, é o sonho de consumo de muitas pessoas.
+S: O carro, um modelo esportivo, é o sonho de consumo de muitas pessoas.
+
+C: A cidade, com suas belas paisagens, atrai muitos turistas.
+S: A cidade, com suas belas paisagens, atrai muitos turistas.
+
+C: O filme, dirigido por um renomado diretor, foi um sucesso de público.
+S: O filme, dirigido por um renomado diretor, foi um sucesso de público.
+
+C: A música, com sua melodia envolvente, toca o coração das pessoas.
+S: A música, com sua melodia envolvente, toca o coração das pessoas.
+
+C: O clima frio, a chuva constante, a falta de sol, nada desanimava Ana.
+S: O clima frio, a chuva constante, a falta de sol, nada desanimava Ana.
+
+C: A música alta, os gritos dos torcedores, a emoção do jogo, nada atrapalhava a concentração do atleta.
+S: A música alta, os gritos dos torcedores, a emoção do jogo, nada atrapalhava a concentração do atleta.
+
+C: A comida gostosa, a música animada, a companhia agradável, nada deixava o jantar menos especial.
+S: A comida gostosa, a música animada, a companhia agradável, nada deixava o jantar menos especial.
+
+C: As longas caminhadas, as subidas íngremes, o cansaço físico, nada impedia Pedro de explorar a montanha.
+S: As longas caminhadas, as subidas íngremes, o cansaço físico, nada impedia Pedro de explorar a montanha.
+
+C: Os obstáculos no caminho, as críticas dos outros, a falta de apoio, nada desmotivava Maria a seguir em frente.
+S: Os obstáculos no caminho, as críticas dos outros, a falta de apoio, nada desmotivava Maria a seguir em frente.
+
+C: O trânsito caótico, os atrasos constantes, o estresse do dia a dia, nada afetava a calma de João.
+S: O trânsito caótico, os atrasos constantes, o estresse do dia a dia, nada afetava a calma de João.
+
+C: A falta de dinheiro, as contas atrasadas, as dificuldades financeiras, nada impedia o casal de ser feliz.
+S: A falta de dinheiro, as contas atrasadas, as dificuldades financeiras, nada impedia o casal de ser feliz.
+
+C: A solidão, a tristeza, a saudade, nada abalava a determinação de Laura em conquistar seus objetivos.
+S: A solidão, a tristeza, a saudade, nada abalava a determinação de Laura em conquistar seus objetivos.
+
+C: O calor intenso, o vento forte, as gotas de suor, nada incomodava o atleta durante a corrida.
+S: O calor intenso, o vento forte, as gotas de suor, nada incomodava o atleta durante a corrida.
+
+C: As provas difíceis, os trabalhos acumulados, o cansaço mental, nada diminuía o desejo de aprender de Ana.
+S: As provas difíceis, os trabalhos acumulados, o cansaço mental, nada diminuía o desejo de aprender de Ana.
+
+C: A música alta, o barulho das luzes, a multidão animada, tudo me dava dor de cabeça.
+S: A música alta, o barulho das luzes, a multidão animada, tudo me dava dor de cabeça.
+
+C: O sol brilhante, o vento fresco, o cheiro da grama recém-cortada, todas essas coisas me fazem sentir bem.
+S: O sol brilhante, o vento fresco, o cheiro da grama recém-cortada, todas essas coisas me fazem sentir bem.
+
+C: O som dos pássaros cantando, o cheiro das flores, a brisa suave do vento, tudo isso me traz paz.
+S: O som dos pássaros cantando, o cheiro das flores, a brisa suave do vento, tudo isso me traz paz.
+
+C: Os risos das crianças brincando, o calor do sol na minha pele, a sensação de liberdade ao correr na praia, tudo isso me enche de alegria.
+S: Os risos das crianças brincando, o calor do sol na minha pele, a sensação de liberdade ao correr na praia, tudo isso me enche de alegria.
+
+C: O aroma do café fresco pela manhã, o sabor do bolo de chocolate quente, a sensação de conforto ao ler um bom livro, todas essas coisas me fazem feliz.
+S: O aroma do café fresco pela manhã, o sabor do bolo de chocolate quente, a sensação de conforto ao ler um bom livro, todas essas coisas me fazem feliz.
+
+C: A vista deslumbrante da montanha, o som da cachoeira, a sensação de paz ao caminhar na natureza, tudo isso me encanta.
+S: A vista deslumbrante da montanha, o som da cachoeira, a sensação de paz ao caminhar na natureza, tudo isso me encanta.
+
+C: O cheiro da chuva no ar, as gotas frias na minha pele, a sensação de renovação que a chuva traz, tudo isso me revigora.
+S: O cheiro da chuva no ar, as gotas frias na minha pele, a sensação de renovação que a chuva traz, tudo isso me revigora.
+
+C: O som das ondas do mar, a areia quente nos meus pés, a sensação de calmaria ao contemplar o horizonte, tudo isso me traz paz.
+S: O som das ondas do mar, a areia quente nos meus pés, a sensação de calmaria ao contemplar o horizonte, tudo isso me traz paz.
+
+C: O barulho da cidade movimentada, os prédios altos ao meu redor, a sensação de energia ao andar pelas ruas, tudo isso me anima.
+S: O barulho da cidade movimentada, os prédios altos ao meu redor, a sensação de energia ao andar pelas ruas, tudo isso me anima.
+
+C: O silêncio da madrugada, as estrelas brilhando no céu, a paz que só a noite pode trazer, tudo isso me acalma.
+S: O silêncio da madrugada, as estrelas brilhando no céu, a paz que só a noite pode trazer, tudo isso me acalma.
+
+C: O filme, muito esperado pela audiência, foi um grande sucesso.
+S: O filme foi um grande sucesso.
+
+C: A camisa, que estava amassada, foi passada a ferro.
+S: A camisa foi passada a ferro.
+
+C: O cachorro, que estava faminto, devorou toda a comida.
+S: O cachorro devorou toda a comida.
+
+C: A música, que foi composta por um famoso compositor, foi premiada.
+S: A música foi premiada.
+
+C: O livro, que tinha uma capa bonita, atraiu muitos leitores.
+S: O livro atraiu muitos leitores.
+
+C: A maleta, que estava cheia de dinheiro, foi roubada.
+S: A maleta foi roubada.
+
+C: Os pássaros, que estavam voando no céu azul, encantaram as crianças.
+S: Os pássaros encantaram as crianças.
+
+C: Os bailarinos, que estavam ensaiando há meses, fizeram uma bela apresentação.
+S: Os bailarinos fizeram uma bela apresentação.
+
+C: As flores, que estavam desabrochando na primavera, coloriram o jardim.
+S: As flores coloriram o jardim.
+
+C: A casa, que foi construída há décadas, precisava de reforma.
+S: A casa precisava de reforma.
+
+C: O sol se pôs, a lua apareceu.
+S: O sol se pôs, a lua apareceu.
+
+C: Ela estudou durante horas, mas não conseguiu entender o conceito.
+S: Ela estudou durante horas, mas não conseguiu entender o conceito.
+
+C: O cachorro latiu durante a noite toda, deixando os vizinhos incomodados.
+S: O cachorro latiu durante a noite toda, deixando os vizinhos incomodados.
+
+C: Ele riu tanto que começou a chorar.
+S: Ele riu tanto que começou a chorar.
+
+C: Correu sem parar por quilômetros, mas não conseguiu alcançar o ônibus.
+S: Correu sem parar por quilômetros, mas não conseguiu alcançar o ônibus.
+
+C: Ela ganhou o concurso e ficou extremamente feliz.
+S: Ela ganhou o concurso e ficou extremamente feliz.
+
+C: O filme tinha cenas de ação incríveis.
+S: O filme tinha cenas de ação incríveis.
+
+C: Ele segurou minha mão e sorriu.
+S: Ele segurou minha mão e sorriu.
+
+C: Ela cantou uma música bonita e emocionou a todos.
+S: Ela cantou uma música bonita e emocionou a todos.
+
+C: Eu me perdi no meio do caminho e tive que pedir ajuda.
+S: Eu me perdi no meio do caminho e tive que pedir ajuda.
+
+C: O professor, cansado e estressado, corrigia as provas.
+S: O professor corrigia as provas.
+
+C: O carro, novo e elegante, chamava a atenção de todos.
+S: O carro chamava a atenção de todos.
+
+C: A chuva, forte e intensa, durou a noite toda.
+S: A chuva durou a noite toda.
+
+C: O livro, interessante e emocionante, prendeu minha atenção por horas.
+S: O livro prendeu minha atenção por horas.
+
+C: A música, alegre e animada, colocou todo mundo para dançar.
+S: A música colocou todo mundo para dançar.
+
+C: O filme, emocionante e comovente, fez todos chorarem.
+S: O filme fez todos chorarem.
+
+C: A comida, saborosa e deliciosa, agradou a todos os convidados.
+S: A comida agradou a todos os convidados.
+
+C: A praia, tranquila e deserta, era perfeita para relaxar.
+S: A praia era perfeita para relaxar.
+
+C: O dia, ensolarado e quente, convidava para atividades ao ar livre.
+S: O dia convidava para atividades ao ar livre.
+
+C: O livro, interessante e envolvente, prendeu minha atenção do começo ao fim.
+S: O livro prendeu minha atenção do começo ao fim.
+
+C: O futebol, o vôlei, o basquete, nenhum esporte interessava a Pedro.
+S: O futebol, o vôlei, o basquete, nenhum esporte interessava a Pedro.
+
+C: A praia, a montanha, a cidade, nada atraiu Laura nas férias.
+S: A praia, a montanha, a cidade, nada atraiu Laura nas férias.
+
+C: O arroz, o feijão, a salada, nenhum prato agradou João no almoço.
+S: O arroz, o feijão, a salada, nenhum prato agradou João no almoço.
+
+C: O sol, a chuva, o vento, nada afetou o projeto de Marcos.
+S: O sol, a chuva, o vento, nada afetou o projeto de Marcos.
+
+C: O cinema, o teatro, a exposição, nenhum evento chamou a atenção de Maria.
+S: O cinema, o teatro, a exposição, nenhum evento chamou a atenção de Maria.
+
+C: O doce, o salgado, o amargo, nenhuma sobremesa trouxe satisfação a Ana.
+S: O doce, o salgado, o amargo, nenhuma sobremesa trouxe satisfação a Ana.
+
+C: O azul, o vermelho, o verde, nenhum cor agradou Luana na parede.
+S: O azul, o vermelho, o verde, nenhum cor agradou Luana na parede.
+
+C: O romance, a aventura, a ficção, nenhum gênero atraiu Alberto na biblioteca.
+S: O romance, a aventura, a ficção, nenhum gênero atraiu Alberto na biblioteca.
+
+C: O doce, o salgado, o azedo, nada agradou ao paladar de Pedro.
+S: O doce, o salgado, o azedo, nada agradou ao paladar de Pedro.
+
+C: O sol, a lua, as estrelas, nenhum astro influenciou os acontecimentos.
+S: O sol, a lua, as estrelas, nenhum astro influenciou os acontecimentos.
+
+C: Eu não tinha tempo para estudar, então acabei tirando uma nota baixa.
+S: Eu não tinha tempo para estudar, acabei tirando uma nota baixa.
+
+C: Ela tinha várias opções de carreira, mas escolheu ser médica.
+S: Ela tinha várias opções de carreira, escolheu ser médica.
+
+C: O filme foi muito longo, e eu acabei dormindo no meio.
+S: O filme foi muito longo, acabei dormindo no meio.
+
+C: Ele tinha várias tarefas para terminar, mas acabou procrastinando.
+S: Ele tinha várias tarefas para terminar, acabou procrastinando.
+
+C: Eles foram para a praia, mas o tempo estava chuvoso.
+S: Eles foram para a praia, o tempo estava chuvoso.
+
+C: Eu comprei um novo livro, mas ainda não tive tempo para ler.
+S: Eu comprei um novo livro, ainda não tive tempo para ler.
+
+C: Ela tinha tantas roupas para escolher, mas acabou usando a mesma de sempre.
+S: Ela tinha tantas roupas para escolher, acabou usando a mesma de sempre.
+
+C: Nós planejamos viajar no fim de semana, mas algo surgiu e tivemos que cancelar.
+S: Nós planejamos viajar no fim de semana, algo surgiu e tivemos que cancelar.
+
+C: Ele tinha várias opções de comida no restaurante, mas acabou pedindo o mesmo prato de sempre.
+S: Ele tinha várias opções de comida no restaurante, acabou pedindo o mesmo prato de sempre.
+
+C: Nós tínhamos uma reunião importante, mas ela foi cancelada de última hora.
+S: Nós tínhamos uma reunião importante, ela foi cancelada de última hora.
+
+C: O sol, as nuvens, a brisa, tudo encantava o casal no passeio.
+S: O sol, as nuvens, a brisa, tudo encantava o casal no passeio.
+
+C: Os amigos, a família, os colegas, todos apoiaram o projeto.
+S: Os amigos, a família, os colegas, todos apoiaram o projeto.
+
+C: A chuva, o vento, o trovão, nada intimidava o explorador.
+S: A chuva, o vento, o trovão, nada intimidava o explorador.
+
+C: O trabalho, as responsabilidades, as preocupações, tudo cansava Paulo.
+S: O trabalho, as responsabilidades, as preocupações, tudo cansava Paulo.
+
+C: A música, a dança, a poesia, tudo inspirava Maria.
+S: A música, a dança, a poesia, tudo inspirava Maria.
+
+C: Os desafios, as dificuldades, os obstáculos, nada impedia o atleta de conquistar a vitória.
+S: Os desafios, as dificuldades, os obstáculos, nada impedia o atleta de conquistar a vitória.
+
+C: O silêncio, a paz, a tranquilidade, tudo acalmava a mente de Joana.
+S: O silêncio, a paz, a tranquilidade, tudo acalmava a mente de Joana.
+
+C: As flores, o perfume, as cores, tudo embelezava o jardim.
+S: As flores, o perfume, as cores, tudo embelezava o jardim.
+
+C: A comida, a bebida, a música, nada faltava na festa.
+S: A comida, a bebida, a música, nada faltava na festa.
+
+C: Os livros, os filmes, as viagens, tudo expande o conhecimento.
+S: Os livros, os filmes, as viagens, tudo expande o conhecimento.
+
+C: O sol, a praia, a brisa do mar, tudo encanta Luísa.
+S: O sol, a praia, a brisa do mar, tudo encanta Luísa.
+
+C: A comida, a bebida, a música, nada satisfaz Miguel.
+S: A comida, a bebida, a música, nada satisfaz Miguel.
+
+C: A felicidade, a saúde, a paz, tudo é importante na vida.
+S: A felicidade, a saúde, a paz, tudo é importante na vida.
+
+C: Os livros, as viagens, as experiências, tudo enriquece a mente.
+S: Os livros, as viagens, as experiências, tudo enriquece a mente.
+
+C: A família, os amigos, os momentos especiais, nada substitui o amor.
+S: A família, os amigos, os momentos especiais, nada substitui o amor.
+
+C: O trabalho, o lazer, o descanso, tudo influencia o bem-estar.
+S: O trabalho, o lazer, o descanso, tudo influencia o bem-estar.
+
+C: A natureza, a arte, a música, nada se compara à beleza.
+S: A natureza, a arte, a música, nada se compara à beleza.
+
+C: O conhecimento, a criatividade, a cultura, tudo enriquece o espírito.
+S: O conhecimento, a criatividade, a cultura, tudo enriquece o espírito.
+
+C: O dinheiro, o sucesso, o prestígio, nada garante a felicidade.
+S: O dinheiro, o sucesso, o prestígio, nada garante a felicidade.
+
+C: A saúde, o amor, a paz, tudo contribui para a felicidade.
+S: A saúde, o amor, a paz, tudo contribui para a felicidade.
+
+C: O filme, que foi indicado ao Oscar, é muito emocionante.
+S: O filme é muito emocionante.
+
+C: O carro, que tem um motor potente, é muito veloz.
+S: O carro é muito veloz.
+
+C: A bolsa, que custa bastante dinheiro, é muito desejada.
+S: A bolsa é muito desejada.
+
+C: O livro, que foi escrito por um autor renomado, é muito interessante.
+S: O livro é muito interessante.
+
+C: A música, que ganhou vários prêmios, é muito animada.
+S: A música é muito animada.
+
+C: A cidade, que fica próxima à praia, é muito bonita.
+S: A cidade é muito bonita.
+
+C: A casa, que possui um jardim amplo, é muito aconchegante.
+S: A casa é muito aconchegante.
+
+C: O restaurante, que serve comida italiana, é muito saboroso.
+S: O restaurante é muito saboroso.
+
+C: A praia, que tem águas cristalinas, é muito paradisíaca.
+S: A praia é muito paradisíaca.
+
+C: O quadro, que foi pintado por um artista famoso, é muito valorizado.
+S: O quadro é muito valorizado.
+
+C: Os livros que comprei ontem estão na estante.
+S: Os livros que comprei ontem estão na estante.
+
+C: João, meu vizinho, sempre acorda cedo.
+S: João, meu vizinho, sempre acorda cedo.
+
+C: O filme que assisti ontem foi emocionante.
+S: O filme que assisti ontem foi emocionante.
+
+C: Meu objetivo, o de ser aprovado no concurso, é muito importante para mim.
+S: Meu objetivo, o de ser aprovado no concurso, é muito importante para mim.
+
+C: Nada o impediu, a determinação era grande.
+S: Nada o impediu, a determinação era grande.
+
+C: Ela contou, para minha surpresa, que estava grávida.
+S: Ela contou, para minha surpresa, que estava grávida.
+
+C: O carro, um modelo importado, chamava atenção por onde passava.
+S: O carro, um modelo importado, chamava atenção por onde passava.
+
+C: As melhores coisas da vida, como família e saúde, são gratuitas.
+S: As melhores coisas da vida, como família e saúde, são gratuitas.
+
+C: O livro que li recentemente é muito interessante.
+S: O livro que li recentemente é muito interessante.
+
+C: O evento, o maior do ano, acontecerá na próxima semana.
+S: O evento, o maior do ano, acontecerá na próxima semana.
+
+C: O solitário rapaz, com os olhos tristes, foi embora.
+S: O rapaz solitário foi embora.
+
+C: A sua casa, um pequeno chalé no campo, é muito aconchegante.
+S: A casa dele, um pequeno chalé no campo, é muito aconchegante.
+
+C: A noite, com o céu estrelado, estava muito bonita.
+S: A noite estrelada estava muito bonita.
+
+C: O livro, com a capa de couro, era muito antigo.
+S: O livro de capa de couro era muito antigo.
+
+C: Aquele homem, com os cabelos grisalhos, parecia muito sábio.
+S: Aquele homem de cabelos grisalhos parecia muito sábio.
+
+C: O cachorro, com o rabo abanando, correu até seu dono.
+S: O cachorro de rabo abanando correu até seu dono.
+
+C: Ela, com uma voz suave, cantou uma linda canção.
+S: Ela de voz suave cantou uma linda canção.
+
+C: A jovem mulher, com um vestido vermelho, chamou a atenção de todos.
+S: A mulher jovem de vestido vermelho chamou a atenção de todos.
+
+C: O carro, com rodas esportivas, era muito veloz.
+S: O carro com rodas esportivas era muito veloz.
+
+C: O senhor idoso, com uma bengala na mão, atravessou a rua com cuidado.
+S: O senhor idoso de bengala na mão atravessou a rua com cuidado.
+
+C: A casa, muito antiga e cheia de histórias, foi comprada por João.
+S: A casa foi comprada por João.
+
+C: O trabalho, extremamente cansativo e estressante, tirava o sono de Pedro.
+S: O trabalho tirava o sono de Pedro.
+
+C: Os livros, empoeirados e desorganizados, ocupavam toda a estante.
+S: Os livros ocupavam toda a estante.
+
+C: O cachorro, brincalhão e companheiro, era o melhor amigo de Lucas.
+S: O cachorro era o melhor amigo de Lucas.
+
+C: A comida, deliciosa e cheirosa, despertava o apetite de Maria.
+S: A comida despertava o apetite de Maria.
+
+C: As viagens, longas e emocionantes, são as melhores experiências de vida.
+S: As viagens são as melhores experiências de vida.
+
+C: A música, animada e envolvente, fazia todos dançarem.
+S: A música fazia todos dançarem.
+
+C: O tempo, implacável e inexorável, passa para todos nós.
+S: O tempo passa para todos nós.
+
+C: Os problemas, constantes e complicados, preocupavam Ana.
+S: Os problemas preocupavam Ana.
+
+C: As crianças, inocentes e curiosas, enchem nossa vida de alegria.
+S: As crianças enchem nossa vida de alegria.
+
+C: Ela estudou por horas, mas não aprendeu a matéria.
+S: Ela estudou por horas, mas não aprendeu a matéria.
+
+C: O cachorro latiu alto, assustando os vizinhos.
+S: O cachorro latiu alto, assustando os vizinhos.
+
+C: A chuva, o vento, o frio, nada atrapalhou o passeio.
+S: A chuva, o vento, o frio, nada atrapalhou o passeio.
+
+C: As crianças correram, riram, brincaram durante toda a tarde.
+S: As crianças correram, riram, brincaram durante toda a tarde.
+
+C: O livro, o celular, a caneta, nada eu encontrei.
+S: O livro, o celular, a caneta, nada eu encontrei.
+
+C: Ele estava cansado, com fome, com sono.
+S: Ele estava cansado, com fome, com sono.
+
+C: O filme foi emocionante, surpreendente, impactante.
+S: O filme foi emocionante, surpreendente, impactante.
+
+C: O trabalho estava difícil, cansativo, estressante.
+S: O trabalho estava difícil, cansativo, estressante.
+
+C: O professor explicou a matéria, deu exemplos, respondeu perguntas.
+S: O professor explicou a matéria, deu exemplos, respondeu perguntas.
+
+C: Ela chorou, gritou, se desesperou ao receber a notícia.
+S: Ela chorou, gritou, se desesperou ao receber a notícia.
+
+C: O filme que ganhou o prêmio foi dirigido por um cineasta renomado.
+S: O filme, que ganhou o prêmio, foi dirigido por um cineasta renomado.
+
+C: A notícia de que você foi selecionado foi muito comemorada pela família.
+S: A notícia, de que você foi selecionado, foi muito comemorada pela família.
+
+C: A esperança de que tudo se resolva é o que nos mantém otimistas.
+S: A esperança, de que tudo se resolva, é o que nos mantém otimistas.
+
+C: O fato de que ela tenha mentido decepcionou a todos.
+S: O fato, de que ela tenha mentido, decepcionou a todos.
+
+C: A certeza de que você chegará ao seu objetivo é o que te motiva.
+S: A certeza, de que você chegará ao seu objetivo, é o que te motiva.
+
+C: O medo de que algo dê errado nos impede de seguir em frente.
+S: O medo, de que algo dê errado, nos impede de seguir em frente.
+
+C: A esperança de que o tempo cure todas as feridas é o que nos consola.
+S: A esperança, de que o tempo cure todas as feridas, é o que nos consola.
+
+C: A notícia de que o evento foi cancelado deixou a todos frustrados.
+S: A notícia, de que o evento foi cancelado, deixou a todos frustrados.
+
+C: A possibilidade de que ele venha nos visitar nos deixa animados.
+S: A possibilidade, de que ele venha nos visitar, nos deixa animados.
+
+C: A preocupação de que algo aconteça com ela não me deixa em paz.
+S: A preocupação, de que algo aconteça com ela, não me deixa em paz.
+
+C: Minha irmã, que é médica, trabalha muito.
+S: Minha irmã trabalha muito.
+
+C: O filme, que ganhou vários prêmios, é muito bom.
+S: O filme é muito bom.
+
+C: O carro, que é vermelho, pertence ao meu amigo.
+S: O carro pertence ao meu amigo.
+
+C: A casa, que foi construída há muitos anos, está em ruínas.
+S: A casa está em ruínas.
+
+C: A cidade, que é conhecida pelos seus monumentos históricos, atrai muitos turistas.
+S: A cidade atrai muitos turistas.
+
+C: O livro, que é de suspense, é muito emocionante.
+S: O livro é muito emocionante.
+
+C: O quadro, que foi pintado por um famoso artista, vale milhões de dólares.
+S: O quadro vale milhões de dólares.
+
+C: A empresa, que é líder no mercado, está crescendo rapidamente.
+S: A empresa está crescendo rapidamente.
+
+C: O cachorro, que é muito brincalhão, adora correr no parque.
+S: O cachorro adora correr no parque.
+
+C: A festa, que foi organizada pela minha amiga, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: As flores, os pássaros, as árvores, a natureza encantam Joana.
+S: As flores, os pássaros, as árvores, a natureza encantam Joana.
+
+C: A comida, a bebida, o ambiente, nada agradava Pedro.
+S: A comida, a bebida, o ambiente, nada agradava Pedro.
+
+C: Os filmes, as séries, os livros, tudo entretinha Maria.
+S: Os filmes, as séries, os livros, tudo entretinha Maria.
+
+C: A praia, o sol, o mar, nada fascinava João.
+S: A praia, o sol, o mar, nada fascinava João.
+
+C: Os carros, as motos, as bicicletas, nada interessava André.
+S: Os carros, as motos, as bicicletas, nada interessava André.
+
+C: O barulho, a música, a festa, tudo distraía Ana.
+S: O barulho, a música, a festa, tudo distraía Ana.
+
+C: As viagens, as aventuras, os esportes radicais, nada atraía Lucas.
+S: As viagens, as aventuras, os esportes radicais, nada atraía Lucas.
+
+C: A comida, a música, a dança, tudo animava Pedro.
+S: A comida, a música, a dança, tudo animava Pedro.
+
+C: Os doces, as sobremesas, as guloseimas, nada satisfazia Maria.
+S: Os doces, as sobremesas, as guloseimas, nada satisfazia Maria.
+
+C: Os animais, a natureza, os parques, tudo encantava Joana.
+S: Os animais, a natureza, os parques, tudo encantava Joana.
+
+C: A noite fria e chuvosa não impediu o casal de sair para jantar.
+S: A noite fria e chuvosa não impediu o casal de sair para jantar.
+
+C: A mãe, preocupada com a saúde do filho, decidiu levá-lo ao médico.
+S: A mãe, preocupada com a saúde do filho, decidiu levá-lo ao médico.
+
+C: O livro, cheio de suspense e mistério, prendeu minha atenção por horas.
+S: O livro, cheio de suspense e mistério, prendeu minha atenção por horas.
+
+C: João, cansado do trabalho, resolveu tirar um cochilo depois do almoço.
+S: João, cansado do trabalho, resolveu tirar um cochilo depois do almoço.
+
+C: A rua movimentada, com carros passando rapidamente, assustava o cachorro.
+S: A rua movimentada, com carros passando rapidamente, assustava o cachorro.
+
+C: A comida, apetitosa e bem temperada, agradou a todos os convidados.
+S: A comida, apetitosa e bem temperada, agradou a todos os convidados.
+
+C: O filme, emocionante e surpreendente, fez o público aplaudir de pé.
+S: O filme, emocionante e surpreendente, fez o público aplaudir de pé.
+
+C: O cachorro, brincando no parque, chamou a atenção das crianças.
+S: O cachorro, brincando no parque, chamou a atenção das crianças.
+
+C: O barulho alto, vindo do apartamento ao lado, incomodou os moradores.
+S: O barulho alto, vindo do apartamento ao lado, incomodou os moradores.
+
+C: A paisagem, vista do topo da montanha, era deslumbrante.
+S: A paisagem, vista do topo da montanha, era deslumbrante.
+
+C: O filme, que tinha sido lançado recentemente, atraiu muitas pessoas.
+S: O filme atraiu muitas pessoas.
+
+C: O carro de João, que tinha acabado de ser consertado, não funcionou.
+S: O carro de João não funcionou.
+
+C: O livro, que já tinha sido lido por muitas pessoas, foi um sucesso.
+S: O livro foi um sucesso.
+
+C: A cidade, que estava em desenvolvimento, recebeu muitos investimentos.
+S: A cidade recebeu muitos investimentos.
+
+C: A música, que foi composta por um famoso compositor, tocou no rádio.
+S: A música tocou no rádio.
+
+C: A comida, que havia sido preparada com carinho, estava deliciosa.
+S: A comida estava deliciosa.
+
+C: O treinador, que tinha sido contratado recentemente, melhorou o desempenho da equipe.
+S: O treinador melhorou o desempenho da equipe.
+
+C: O quadro, que havia sido pintado por um artista famoso, foi vendido por uma fortuna.
+S: O quadro foi vendido por uma fortuna.
+
+C: O projeto, que tinha sido desenvolvido durante meses, foi aprovado pela empresa.
+S: O projeto foi aprovado pela empresa.
+
+C: A festa, que tinha sido organizada com cuidado, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: O esforço, a dedicação, o estudo, nada garante o sucesso.
+S: O esforço, a dedicação, o estudo, nada garante o sucesso.
+
+C: A espera, a ansiedade, a incerteza, tudo faz parte da vida.
+S: A espera, a ansiedade, a incerteza, tudo faz parte da vida.
+
+C: As flores, o verde, o cheiro, tudo encanta os visitantes.
+S: As flores, o verde, o cheiro, tudo encanta os visitantes.
+
+C: A chuva, o sol, a natureza, nada é capaz de controlar o clima.
+S: A chuva, o sol, a natureza, nada é capaz de controlar o clima.
+
+C: O trabalho, as responsabilidades, as preocupações, tudo consome o tempo.
+S: O trabalho, as responsabilidades, as preocupações, tudo consome o tempo.
+
+C: O estudo, a dedicação, a perseverança, nada garante o sucesso acadêmico.
+S: O estudo, a dedicação, a perseverança, nada garante o sucesso acadêmico.
+
+C: A paixão, o amor, a cumplicidade, nada garante a durabilidade de um relacionamento.
+S: A paixão, o amor, a cumplicidade, nada garante a durabilidade de um relacionamento.
+
+C: A mentira, a traição, a falta de confiança, nada ajuda a construir uma amizade verdadeira.
+S: A mentira, a traição, a falta de confiança, nada ajuda a construir uma amizade verdadeira.
+
+C: O silêncio, a solidão, a reflexão, tudo é necessário para encontrar a paz interior.
+S: O silêncio, a solidão, a reflexão, tudo é necessário para encontrar a paz interior.
+
+C: A alegria, a felicidade, o amor, nada é capaz de satisfazer todas as nossas necessidades.
+S: A alegria, a felicidade, o amor, nada é capaz de satisfazer todas as nossas necessidades.
+
+C: O medo de fracassar, a pressão dos outros, nada impediu João de perseguir seus sonhos.
+S: O medo de fracassar, a pressão dos outros, nada impediu João.
+
+
+C: A vontade de vencer, a determinação, nada abalou o objetivo de Maria.
+S: A vontade de vencer, a determinação, nada abalou Maria.
+
+
+C: O tempo, o dinheiro, nada basta para trazer felicidade verdadeira.
+S: O tempo, o dinheiro, nada basta para trazer felicidade.
+
+
+C: A chuva forte, o trânsito intenso, nada atrasou nosso compromisso.
+S: A chuva forte, o trânsito intenso, nada atrasou nosso compromisso.
+
+
+C: A amizade verdadeira, o apoio incondicional, nada se compara.
+S: A amizade verdadeira, o apoio incondicional, nada se compara.
+
+
+C: Os desafios, as dificuldades, nada é capaz de deter aqueles que persistem.
+S: Os desafios, as dificuldades, nada é capaz de deter os persistentes.
+
+
+C: A paixão ardente, a química inegável, nada afastará esses dois amantes.
+S: A paixão ardente, a química inegável, nada afastará os amantes.
+
+
+C: O amor incondicional, a lealdade eterna, nada se iguala ao vínculo entre mãe e filho.
+S: O amor incondicional, a lealdade eterna, nada se iguala ao vínculo maternal.
+
+
+C: A sabedoria acumulada, a experiência de vida, nada substitui os anos vividos.
+S: A sabedoria acumulada, a experiência de vida, nada substitui os anos vividos.
+
+
+C: A beleza natural, o carisma cativante, nada se compara à elegância de Helena.
+S: A beleza natural, o carisma cativante, nada se compara à elegância de Helena.
+
+C: O carro vermelho, novo e luxuoso, chamava a atenção de todos.
+S: O carro vermelho chamava a atenção de todos.
+
+C: As flores coloridas, perfumadas e delicadas, enfeitam o jardim.
+S: As flores coloridas enfeitam o jardim.
+
+C: O livro de capa dura, com páginas amareladas e ilustrações bonitas, é muito popular.
+S: O livro de capa dura é muito popular.
+
+C: A casa grande, com jardim espaçoso e piscina, é o sonho de consumo de muitos.
+S: A casa grande é o sonho de consumo de muitos.
+
+C: A comida saborosa, feita com ingredientes frescos e temperos especiais, agrada a todos.
+S: A comida saborosa agrada a todos.
+
+C: O celular moderno, com câmera de alta resolução e tela grande, é o mais vendido do mercado.
+S: O celular moderno é o mais vendido do mercado.
+
+C: As roupas confortáveis, elegantes e em cores vibrantes, estão na moda.
+S: As roupas confortáveis estão na moda.
+
+C: A festa animada, com música alta e muitas luzes, foi um sucesso.
+S: A festa animada foi um sucesso.
+
+C: O filme emocionante, com atuações brilhantes e roteiro inteligente, ganhou vários prêmios.
+S: O filme emocionante ganhou vários prêmios.
+
+C: O time vencedor, com jogadores talentosos e técnico experiente, conquistou o campeonato.
+S: O time vencedor conquistou o campeonato.
+
+C: O livro, que foi escrito por um renomado autor, é muito interessante.
+S: O livro é muito interessante.
+
+C: A rua, que estava cheia de carros, era difícil de atravessar.
+S: A rua era difícil de atravessar.
+
+C: Meu amigo, que é um excelente cozinheiro, preparou um delicioso jantar.
+S: Meu amigo preparou um delicioso jantar.
+
+C: A cidade, que fica no litoral, atrai muitos turistas.
+S: A cidade atrai muitos turistas.
+
+C: O filme, que foi baseado em uma história real, emocionou o público.
+S: O filme emocionou o público.
+
+C: A festa, que aconteceu na casa do meu vizinho, foi muito animada.
+S: A festa foi muito animada.
+
+C: A música, que foi composta pelo pianista famoso, é muito bonita.
+S: A música é muito bonita.
+
+C: O quadro, que foi pintado por um artista famoso, é uma obra de arte.
+S: O quadro é uma obra de arte.
+
+C: O carro, que foi fabricado no Japão, é muito econômico.
+S: O carro é muito econômico.
+
+C: O restaurante, que é muito conhecido pela sua comida italiana, é bastante movimentado.
+S: O restaurante é bastante movimentado.
+
+C: A casa, bela e aconchegante, encanta os visitantes.
+S: A casa, bela e aconchegante, encanta os visitantes.
+
+C: O carro, velho e barulhento, precisa de conserto.
+S: O carro, velho e barulhento, precisa de conserto.
+
+C: A música suave, a iluminação baixa, a cena romântica, tudo contribuía para o clima de amor.
+S: A música suave, a iluminação baixa, a cena romântica, tudo contribuía para o clima de amor.
+
+C: O livro, interessante e instigante, prende a atenção do leitor.
+S: O livro, interessante e instigante, prende a atenção do leitor.
+
+C: A festa, com música alta e bebidas deliciosas, animou os convidados.
+S: A festa, com música alta e bebidas deliciosas, animou os convidados.
+
+C: O dia ensolarado, com céu azul e temperatura agradável, convidava para um passeio.
+S: O dia ensolarado, com céu azul e temperatura agradável, convidava para um passeio.
+
+C: A comida, cheirosa e saborosa, despertou o apetite de todos.
+S: A comida, cheirosa e saborosa, despertou o apetite de todos.
+
+C: O filme, emocionante e surpreendente, cativou o público.
+S: O filme, emocionante e surpreendente, cativou o público.
+
+C: O jardim, colorido e bem cuidado, enche os olhos de beleza.
+S: O jardim, colorido e bem cuidado, enche os olhos de beleza.
+
+C: A viagem, longa e cansativa, exigiu paciência dos passageiros.
+S: A viagem, longa e cansativa, exigiu paciência dos passageiros.
+
+C: O livro que comprei ontem é muito interessante.
+S: O livro que comprei ontem é muito interessante.
+
+C: A aula de matemática, que durou o dia todo, foi cansativa.
+S: A aula de matemática, que durou o dia todo, foi cansativa.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme que assisti no cinema foi emocionante.
+
+C: Minha irmã, que mora em outra cidade, veio me visitar.
+S: Minha irmã, que mora em outra cidade, veio me visitar.
+
+C: O curso de inglês, que comecei no mês passado, está me ajudando muito.
+S: O curso de inglês, que comecei no mês passado, está me ajudando muito.
+
+C: O presente que ganhei no meu aniversário foi ótimo.
+S: O presente que ganhei no meu aniversário foi ótimo.
+
+C: A viagem que fiz para a praia foi incrível.
+S: A viagem que fiz para a praia foi incrível.
+
+C: O prato que comi no restaurante estava delicioso.
+S: O prato que comi no restaurante estava delicioso.
+
+C: O cachorro que encontrei na rua agora é meu animal de estimação.
+S: O cachorro que encontrei na rua agora é meu animal de estimação.
+
+C: A cidade que visitei nas férias é muito bonita.
+S: A cidade que visitei nas férias é muito bonita.
+
+C: O tempo, que voa rápido, está sempre contra nós.
+S: O tempo está sempre contra nós.
+
+C: A comida, que estava deliciosa, foi feita pela minha mãe.
+S: A comida foi feita pela minha mãe.
+
+C: O cachorro, que era branco e peludo, correu para longe.
+S: O cachorro correu para longe.
+
+C: A música, que era alta e animada, fez todos dançarem.
+S: A música fez todos dançarem.
+
+C: O livro, que era emocionante, me prendeu do início ao fim.
+S: O livro me prendeu do início ao fim.
+
+C: A cidade, que fica no interior, é tranquila e pacífica.
+S: A cidade é tranquila e pacífica.
+
+C: O carro, que é velho e barulhento, ainda funciona bem.
+S: O carro ainda funciona bem.
+
+C: O filme, que foi lançado recentemente, recebeu muitos elogios.
+S: O filme recebeu muitos elogios.
+
+C: O vestido, que tinha brilhos e lantejoulas, era muito chamativo.
+S: O vestido era muito chamativo.
+
+C: A casa, que foi construída há muitos anos, precisa de reformas.
+S: A casa precisa de reformas.
+
+C: O menino, sujo e cansado, chegou em casa.
+S: O menino chegou em casa.
+
+C: A mulher, alta e magra, caminhava pela rua.
+S: A mulher caminhava pela rua.
+
+C: O carro, velho e enferrujado, não ligava.
+S: O carro não ligava.
+
+C: O cachorro, brincalhão e bagunceiro, correu pelo quintal.
+S: O cachorro correu pelo quintal.
+
+C: A árvore, frondosa e imponente, proporcionava sombra no parque.
+S: A árvore proporcionava sombra no parque.
+
+C: O mar, agitado e perigoso, assustava os banhistas.
+S: O mar assustava os banhistas.
+
+C: O homem, bonito e simpático, conquistava a todos com seu charme.
+S: O homem conquistava a todos com seu charme.
+
+C: A noite, escura e silenciosa, trazia paz e tranquilidade.
+S: A noite trazia paz e tranquilidade.
+
+C: A cidade, movimentada e agitada, nunca dormia.
+S: A cidade nunca dormia.
+
+C: O espelho, limpo e brilhante, refletia a imagem da jovem.
+S: O espelho refletia a imagem da jovem.
+
+C: Ela gosta de nadar, correr e pedalar.
+S: Ela gosta de praticar esportes.
+
+C: O sol estava quente, o vento estava frio.
+S: O clima estava variado.
+
+C: Ele estudou história, matemática e geografia.
+S: Ele estudou várias disciplinas.
+
+C: Ela adora cozinhar, dançar e pintar.
+S: Ela possui várias habilidades artísticas.
+
+C: O carro é vermelho, rápido e luxuoso.
+S: O carro é chique.
+
+C: Ele comprou roupas, sapatos e acessórios.
+S: Ele fez várias compras.
+
+C: Eles viajaram para Paris, Roma e Londres.
+S: Eles fizeram um tour europeu.
+
+C: Ela comprou frutas, legumes e verduras.
+S: Ela comprou itens saudáveis.
+
+C: Ele bebeu café, chá e refrigerante.
+S: Ele consumiu diferentes bebidas.
+
+C: Ela leu livros, revistas e jornais.
+S: Ela gosta de ler.
+
+C: Os filmes de terror, os romances de época, os documentários, tudo interessava ao João.
+S: Os filmes de terror, os romances de época, os documentários, tudo interessava ao João.
+
+C: As flores coloridas, os pássaros cantando, o sol brilhando, tudo alegrava o jardim.
+S: As flores coloridas, os pássaros cantando, o sol brilhando, tudo alegrava o jardim.
+
+C: A comida apimentada, os pratos cheios de tempero, as sobremesas doces, tudo agradava ao paladar de Maria.
+S: A comida apimentada, os pratos cheios de tempero, as sobremesas doces, tudo agradava ao paladar de Maria.
+
+C: Os livros de mistério, os romances históricos, as biografias interessantes, tudo cativava a Julia.
+S: Os livros de mistério, os romances históricos, as biografias interessantes, tudo cativava a Julia.
+
+C: A música alta, as luzes brilhantes, as pessoas felizes dançando, tudo animava a festa.
+S: A música alta, as luzes brilhantes, as pessoas felizes dançando, tudo animava a festa.
+
+C: As paisagens naturais, os monumentos históricos, os museus cheios de cultura, tudo encantava os turistas.
+S: As paisagens naturais, os monumentos históricos, os museus cheios de cultura, tudo encantava os turistas.
+
+C: As roupas elegantes, os sapatos de marca, os acessórios sofisticados, tudo atraía a atenção de Pedro.
+S: As roupas elegantes, os sapatos de marca, os acessórios sofisticados, tudo atraía a atenção de Pedro.
+
+C: O barulho das ondas, a brisa do mar, o cheiro da praia, tudo relaxava a Carolina.
+S: O barulho das ondas, a brisa do mar, o cheiro da praia, tudo relaxava a Carolina.
+
+C: As conversas animadas, as risadas contagiantes, os abraços apertados, tudo deixava o encontro mais especial.
+S: As conversas animadas, as risadas contagiantes, os abraços apertados, tudo deixava o encontro mais especial.
+
+C: As estrelas no céu, a lua iluminando a noite, o silêncio da madrugada, tudo inspirava poesia em Ana.
+S: As estrelas no céu, a lua iluminando a noite, o silêncio da madrugada, tudo inspirava poesia em Ana.
+
+C: O trabalho árduo, o esforço contínuo, nada pode levar ao sucesso.
+S: O trabalho árduo, o esforço contínuo, nada pode levar ao sucesso.
+
+C: O medo, a ansiedade, a preocupação, nada pode atrapalhar nosso progresso.
+S: O medo, a ansiedade, a preocupação, nada pode atrapalhar nosso progresso.
+
+C: Os obstáculos, os desafios, nada poderá nos deter.
+S: Os obstáculos, os desafios, nada poderá nos deter.
+
+C: A felicidade, a satisfação, o contentamento, é tudo o que buscamos.
+S: A felicidade, a satisfação, o contentamento, é tudo o que buscamos.
+
+C: A família, os amigos, os relacionamentos, são os pilares da vida.
+S: A família, os amigos, os relacionamentos, são os pilares da vida.
+
+C: A generosidade, a compaixão, a empatia, são valores essenciais para a humanidade.
+S: A generosidade, a compaixão, a empatia, são valores essenciais para a humanidade.
+
+C: O perdão, a reconciliação, a paz, são elementos fundamentais para a harmonia entre as pessoas.
+S: O perdão, a reconciliação, a paz, são elementos fundamentais para a harmonia entre as pessoas.
+
+C: A perseverança, a determinação, o comprometimento, são necessários para alcançar nossos objetivos.
+S: A perseverança, a determinação, o comprometimento, são necessários para alcançar nossos objetivos.
+
+C: A gratidão, a apreciação, o reconhecimento, são formas de expressar nossa gratidão.
+S: A gratidão, a apreciação, o reconhecimento, são formas de expressar nossa gratidão.
+
+C: A liberdade, a igualdade, a justiça, são direitos fundamentais de todos os seres humanos.
+S: A liberdade, a igualdade, a justiça, são direitos fundamentais de todos os seres humanos.
+
+C: A casa, o carro, as viagens, nada era suficiente para ela.
+S: A casa, o carro, as viagens, nada era suficiente para ela.
+
+C: O sol, o mar, a brisa, tudo isso me encanta.
+S: O sol, o mar, a brisa, tudo isso me encanta.
+
+C: Os livros, as séries, os filmes, eu gosto de tudo.
+S: Os livros, as séries, os filmes, eu gosto de tudo.
+
+C: O frio, a chuva, o vento, nada me incomoda.
+S: O frio, a chuva, o vento, nada me incomoda.
+
+C: A música, o teatro, a dança, tudo isso me emociona.
+S: A música, o teatro, a dança, tudo isso me emociona.
+
+C: Os amigos, a família, os animais, tudo isso faz parte da minha vida.
+S: Os amigos, a família, os animais, tudo isso faz parte da minha vida.
+
+C: O amor, a amizade, a felicidade, tudo isso é importante.
+S: O amor, a amizade, a felicidade, tudo isso é importante.
+
+C: As flores, as árvores, as plantas, tudo isso me alegra.
+S: As flores, as árvores, as plantas, tudo isso me alegra.
+
+C: O trabalho, os estudos, as responsabilidades, tudo isso exige dedicação.
+S: O trabalho, os estudos, as responsabilidades, tudo isso exige dedicação.
+
+C: A praia, o sol, o mar, tudo isso me relaxa.
+S: A praia, o sol, o mar, tudo isso me relaxa.
+
+C: O livro que eu comprei ontem é muito interessante.
+S: O livro que eu comprei ontem é muito interessante.
+
+C: João, meu vizinho, é muito simpático.
+S: João, meu vizinho, é muito simpático.
+
+C: A música que ela cantou ontem foi muito bonita.
+S: A música que ela cantou ontem foi muito bonita.
+
+C: Maria, minha melhor amiga, está viajando hoje.
+S: Maria, minha melhor amiga, está viajando hoje.
+
+C: O filme que assisti no cinema foi emocionante.
+S: O filme que assisti no cinema foi emocionante.
+
+C: Lucas, o professor de matemática, explica muito bem.
+S: Lucas, o professor de matemática, explica muito bem.
+
+C: O carro que eu dirigi ontem era muito veloz.
+S: O carro que eu dirigi ontem era muito veloz.
+
+C: A viagem que fizemos juntos foi inesquecível.
+S: A viagem que fizemos juntos foi inesquecível.
+
+C: Aquela casa, que é abandonada, dá medo.
+S: Aquela casa, que é abandonada, dá medo.
+
+C: O livro que eu li recentemente é ótimo.
+S: O livro que eu li recentemente é ótimo.
+
+C: A honestidade, a lealdade, a sinceridade, nada abala nossa amizade.
+S: A honestidade, a lealdade, a sinceridade, nada abala nossa amizade.
+
+C: O sol, a brisa, o mar, tudo me encanta nas férias.
+S: O sol, a brisa, o mar, tudo me encanta nas férias.
+
+C: Minha mãe, meu pai, meus irmãos, todos me apoiam nos momentos difíceis.
+S: Minha mãe, meu pai, meus irmãos, todos me apoiam nos momentos difíceis.
+
+C: O chocolate, o sorvete, o bolo, tudo é irresistível para mim.
+S: O chocolate, o sorvete, o bolo, tudo é irresistível para mim.
+
+C: A música, o cinema, a arte, nada me alegra mais do que isso.
+S: A música, o cinema, a arte, nada me alegra mais do que isso.
+
+C: A chuva, o vento, as trovoadas, nada me incomoda durante uma tempestade.
+S: A chuva, o vento, as trovoadas, nada me incomoda durante uma tempestade.
+
+C: A alegria, a felicidade, o contentamento, tudo está presente em meu coração.
+S: A alegria, a felicidade, o contentamento, tudo está presente em meu coração.
+
+C: O trabalho, o estudo, a dedicação, tudo traz resultados positivos na vida.
+S: O trabalho, o estudo, a dedicação, tudo traz resultados positivos na vida.
+
+C: A natureza, o mar, as montanhas, nada se compara à sua beleza.
+S: A natureza, o mar, as montanhas, nada se compara à sua beleza.
+
+C: O amor, a paixão, o carinho, tudo é essencial para uma relação feliz.
+S: O amor, a paixão, o carinho, tudo é essencial para uma relação feliz.
+
+C: O livro, uma obra-prima da literatura internacional, foi escrito por um autor desconhecido.
+S: O livro foi escrito por um autor desconhecido.
+
+C: O meu amigo, um médico renomado, trabalha em um hospital de prestígio.
+S: O meu amigo trabalha em um hospital de prestígio.
+
+C: A festa, organizada pela minha família, foi um sucesso.
+S: A festa foi um sucesso.
+
+C: O sol, uma estrela cujo brilho é incomparável, ilumina o nosso planeta.
+S: O sol ilumina o nosso planeta.
+
+C: O carro, um modelo esportivo importado, chamou a atenção de todos na rua.
+S: O carro chamou a atenção de todos na rua.
+
+C: O cachorro, um animal leal e companheiro, sempre está ao meu lado.
+S: O cachorro está sempre ao meu lado.
+
+C: A música, uma melodia delicada e envolvente, tocou meu coração.
+S: A música tocou meu coração.
+
+C: A cidade, um destino turístico famoso, atrai milhares de visitantes todos os anos.
+S: A cidade atrai milhares de visitantes todos os anos.
+
+C: O quadro, uma obra de arte valiosa, foi leiloado por um preço exorbitante.
+S: O quadro foi leiloado por um preço exorbitante.
+
+C: O filme, uma produção hollywoodiana aclamada pela crítica, ganhou vários prêmios.
+S: O filme ganhou vários prêmios.
+
+C: O medo de falhar, a pressão da sociedade, a falta de apoio, tudo contribuiu para a sua desistência.
+S: O medo de falhar, a pressão da sociedade, a falta de apoio, tudo contribuiu para a sua desistência.
+
+C: A chuva constante, o vento forte, o tempo frio, nada impediu o seu desejo de sair de casa.
+S: A chuva constante, o vento forte, o tempo frio, nada impediu o seu desejo de sair de casa.
+
+C: A música alta, as luzes brilhantes, a energia contagiante, tudo tornou a festa inesquecível.
+S: A música alta, as luzes brilhantes, a energia contagiante, tudo tornou a festa inesquecível.
+
+C: O calor intenso, a umidade no ar, a falta de ventilação, tudo contribuiu para o seu desconforto.
+S: O calor intenso, a umidade no ar, a falta de ventilação, tudo contribuiu para o seu desconforto.
+
+C: O silêncio absoluto, a escuridão total, a solidão profunda, apenas aumentavam a sua angústia.
+S: O silêncio absoluto, a escuridão total, a solidão profunda, apenas aumentavam a sua angústia.
+
+C: A falta de tempo, a sobrecarga de trabalho, a pressão constante, tudo contribuiu para o seu esgotamento.
+S: A falta de tempo, a sobrecarga de trabalho, a pressão constante, tudo contribuiu para o seu esgotamento.
+
+C: O sabor adocicado, a textura suave, o aroma envolvente, tudo tornava o bolo irresistível.
+S: O sabor adocicado, a textura suave, o aroma envolvente, tudo tornava o bolo irresistível.
+
+C: A dor intensa, a sensação de perda, a saudade constante, nada amenizava a tristeza da separação.
+S: A dor intensa, a sensação de perda, a saudade constante, nada amenizava a tristeza da separação.
+
+C: A falta de interesse, a monotonia do trabalho, a rotina cansativa, tudo contribuía para o seu desânimo.
+S: A falta de interesse, a monotonia do trabalho, a rotina cansativa, tudo contribuía para o seu desânimo.
+
+C: Os elogios constantes, as palavras de incentivo, o reconhecimento merecido, tudo aumentava a sua confiança.
+S: Os elogios constantes, as palavras de incentivo, o reconhecimento merecido, tudo aumentava a sua confiança.
+
+C: O livro, com suas histórias incríveis e personagens cativantes, prendeu a atenção de todos.
+S: O livro prendeu a atenção de todos.
+
+C: A festa, repleta de música animada e deliciosas comidas, durou a noite toda.
+S: A festa durou a noite toda.
+
+C: O cachorro, fiel companheiro e protetor da família, salvou-os do perigo.
+S: O cachorro salvou-os do perigo.
+
+C: O carro, veloz e potente, cruzou a linha de chegada em primeiro lugar.
+S: O carro cruzou a linha de chegada em primeiro lugar.
+
+C: A música, com suas letras emocionantes e bela melodia, tocou os corações de todos.
+S: A música tocou os corações de todos.
+
+C: O filme, com sua trama cheia de reviravoltas e suspense, prendeu a atenção do público do início ao fim.
+S: O filme prendeu a atenção do público do início ao fim.
+
+C: O jardim, com suas flores coloridas e perfumadas, trouxe alegria para o ambiente.
+S: O jardim trouxe alegria para o ambiente.
+
+C: O professor, com sua didática clara e conhecimento profundo, facilitou o aprendizado dos alunos.
+S: O professor facilitou o aprendizado dos alunos.
+
+C: A viagem, com suas paisagens deslumbrantes e experiências únicas, ficará para sempre na memória.
+S: A viagem ficará para sempre na memória.
+
+C: O discurso, com suas palavras inspiradoras e tom emocionante, motivou a plateia a agir.
+S: O discurso motivou a plateia a agir.
+
+C: As pessoas, cansadas da rotina diária, buscaram um refúgio nas férias.
+S: As pessoas buscaram um refúgio nas férias.
+
+C: O vento frio, que soprava incessantemente, causava desconforto.
+S: O vento frio causava desconforto.
+
+C: O livro, repleto de mistérios, prendeu a atenção dos leitores.
+S: O livro prendeu a atenção dos leitores.
+
+C: O sorriso, sincero e contagiante, iluminou o ambiente.
+S: O sorriso iluminou o ambiente.
+
+C: O carro, velho e enferrujado, ainda funcionava.
+S: O carro ainda funcionava.
+
+C: O trabalho, árduo e cansativo, rendeu ótimos resultados.
+S: O trabalho rendeu ótimos resultados.
+
+C: A tempestade, com raios e trovões, assustou a todos.
+S: A tempestade assustou a todos.
+
+C: A casa, bonita e aconchegante, era o sonho de qualquer um.
+S: A casa era o sonho de qualquer um.
+
+C: A música, repleta de emoções, tocou os corações dos ouvintes.
+S: A música tocou os corações dos ouvintes.
+
+C: O filme, emocionante e cativante, prendeu a atenção do público.
+S: O filme prendeu a atenção do público.
+
+C: João, um excelente aluno, sempre se dedica aos estudos.
+S: João, um excelente aluno, sempre se dedica aos estudos.
+
+C: O sol, fonte de vida, brilha intensamente.
+S: O sol, fonte de vida, brilha intensamente.
+
+C: O vestido, caro e elegante, chamou a atenção de todos.
+S: O vestido, caro e elegante, chamou a atenção de todos.
+
+C: O cachorro, fiel companheiro, sempre o acompanha.
+S: O cachorro, fiel companheiro, sempre o acompanha.
+
+C: A música, alegria da vida, traz boas lembranças.
+S: A música, alegria da vida, traz boas lembranças.
+
+C: Os doces, deliciosos quitutes, fazem sucesso em festas.
+S: Os doces, deliciosos quitutes, fazem sucesso em festas.
+ 
+C: O livro, um verdadeiro tesouro, foi uma ótima leitura.
+S: O livro, um verdadeiro tesouro, foi uma ótima leitura.
+
+C: A chuva, fenômeno natural, refrescou o ambiente.
+S: A chuva, fenômeno natural, refrescou o ambiente.
+
+C: O trabalho, esforço constante, traz recompensas.
+S: O trabalho, esforço constante, traz recompensas.
+
+C: O sorvete, doce gelado, é uma delícia no verão.
+S: O sorvete, doce gelado, é uma delícia no verão.
+
+C: O futebol, os filmes, os livros, nada entretinha Pedro.
+S: O futebol, os filmes, os livros, nada entretinha Pedro.
+
+C: O sol, a praia, as ondas, nada libertava Joana.
+S: O sol, a praia, as ondas, nada libertava Joana.
+
+C: A música, a dança, o teatro, nada emocionava Lucas.
+S: A música, a dança, o teatro, nada emocionava Lucas.
+
+C: O estudo, a leitura, a pesquisa, nada interessava Mariana.
+S: O estudo, a leitura, a pesquisa, nada interessava Mariana.
+
+C: O silêncio, a tranquilidade, a paz, nada acalmava Bruno.
+S: O silêncio, a tranquilidade, a paz, nada acalmava Bruno.
+
+C: Os amigos, a família, os bichos de estimação, nada animava Ana.
+S: Os amigos, a família, os bichos de estimação, nada animava Ana.
+
+C: A aventura, o perigo, a adrenalina, nada assustava Guilherme.
+S: A aventura, o perigo, a adrenalina, nada assustava Guilherme.
+
+C: A arte, a poesia, a pintura, nada inspirava Laura.
+S: A arte, a poesia, a pintura, nada inspirava Laura.
+
+C: A comida, a bebida, os doces, nada satisfazia Pedro.
+S: A comida, a bebida, os doces, nada satisfazia Pedro.
+
+C: O trabalho, os estudos, as tarefas, nada cansava Carla.
+S: O trabalho, os estudos, as tarefas, nada cansava Carla.
+
+C: O tempo voa quando estamos nos divertindo.
+S: Quando estamos nos divertindo, o tempo voa.
+
+C: O carro é rápido, bonito e econômico.
+S: O carro é rápido, bonito e econômico.
+
+C: Estudar, ler, escrever, aprender, tudo requer dedicação.
+S: Tudo requer dedicação: estudar, ler, escrever, aprender.
+
+C: O sol brilha, o pássaro canta, a brisa sopra suavemente.
+S: O sol brilha, o pássaro canta e a brisa sopra suavemente.
+
+C: A festa foi animada, a música estava boa e muitos amigos compareceram.
+S: A festa foi animada, a música estava boa e muitos amigos compareceram.
+
+C: O livro é interessante, educativo e bem escrito.
+S: O livro é interessante, educativo e bem escrito.
+
+C: Os cachorros correm, brincam e latem no parque.
+S: No parque, os cachorros correm, brincam e latem.
+
+C: A comida estava deliciosa, o vinho estava excelente e a sobremesa estava divina.
+S: A comida estava deliciosa, o vinho estava excelente e a sobremesa estava divina.
+
+C: A chuva caía forte, o vento soprava com força e o trovão ecoava alto.
+S: A chuva caía forte, o vento soprava com força e o trovão ecoava alto.
+
+C: O mar é imenso, belo e misterioso.
+S: O mar é imenso, belo e misterioso.
+
+C: O livro, um clássico da literatura, foi emprestado à Maria.
+S: O livro, um clássico da literatura, foi emprestado à Maria.
+
+C: A festa, que aconteceu na praia, foi um sucesso.
+S: A festa, que aconteceu na praia, foi um sucesso.
+
+C: João, o melhor jogador do time, marcou o gol da vitória.
+S: João, o melhor jogador do time, marcou o gol da vitória.
+
+C: O filme, que ganhou vários prêmios, foi aplaudido de pé.
+S: O filme, que ganhou vários prêmios, foi aplaudido de pé.
+
+C: O computador, um modelo ultramoderno, travou durante a apresentação.
+S: O computador, um modelo ultramoderno, travou durante a apresentação.
+
+C: O cachorro, que estava brincando no parque, se sujou de lama.
+S: O cachorro, que estava brincando no parque, se sujou de lama.
+
+C: A música, que tocou no rádio, ficou na cabeça de todos.
+S: A música, que tocou no rádio, ficou na cabeça de todos.
+
+C: A paisagem, vista da janela, era deslumbrante.
+S: A paisagem, vista da janela, era deslumbrante.
+
+C: A casa, um lugar aconchegante, é perfeita para relaxar.
+S: A casa, um lugar aconchegante, é perfeita para relaxar.
+
+C: A comida, preparada pelo chef renomado, estava deliciosa.
+S: A comida, preparada pelo chef renomado, estava deliciosa.
+
+C: O vento, a chuva, o sol, não prejudicavam a alegria do casal no parque.
+S: O vento, a chuva, o sol, não prejudicavam a alegria do casal no parque.
+
+C: As flores, os pássaros, a paisagem, encantava a todos que passavam pelo jardim.
+S: As flores, os pássaros, a paisagem, encantava a todos que passavam pelo jardim.
+
+C: O trabalho, os estudos, as responsabilidades, não permitiam que ele tivesse tempo para praticar esportes.
+S: O trabalho, os estudos, as responsabilidades, não permitiam que ele tivesse tempo para praticar esportes.
+
+C: A música, a dança, o teatro, fazem parte da cultura local.
+S: A música, a dança, o teatro, fazem parte da cultura local.
+
+C: O calor, a umidade, o barulho, não incomodavam os moradores da cidade.
+S: O calor, a umidade, o barulho, não incomodavam os moradores da cidade.
+
+C: A comida, a bebida, a música, eram os destaques da festa.
+S: A comida, a bebida, a música, eram os destaques da festa.
+
+C: A felicidade, a liberdade, a tranquilidade, era tudo o que ele buscava na vida.
+S: A felicidade, a liberdade, a tranquilidade, era tudo o que ele buscava na vida.
+
+C: A pressão, o estresse, a correria, afetavam sua saúde.
+S: A pressão, o estresse, a correria, afetavam sua saúde.
+
+C: O amor, a amizade, a solidariedade, são valores essenciais na vida.
+S: O amor, a amizade, a solidariedade, são valores essenciais na vida.
+
+C: A beleza, a inteligência, a simpatia, eram características marcantes daquela pessoa.
+S: A beleza, a inteligência, a simpatia, eram características marcantes daquela pessoa.
+
+C: O filme, com uma trama complexa e personagens cativantes, ganhou vários prêmios.
+S: O filme ganhou vários prêmios.
+
+C: O tempo, que estava nublado e chuvoso, não permitiu que fizéssemos o piquenique.
+S: O tempo não permitiu que fizéssemos o piquenique.
+
+C: O carro, que era novo e confortável, chamou a atenção de todos.
+S: O carro chamou a atenção de todos.
+
+C: A ideia de viajar, mesmo cansativa e dispendiosa, era tentadora.
+S: A ideia de viajar era tentadora.
+
+C: A notícia, que abalou a todos, foi inesperada.
+S: A notícia foi inesperada.
+
+C: A situação, que estava complicada e estressante, exigia uma solução rápida.
+S: A situação exigia uma solução rápida.
+
+C: O livro, com uma história emocionante e personagens bem desenvolvidos, prendeu minha atenção.
+S: O livro prendeu minha atenção.
+
+C: A viagem, mesmo longa e cansativa, foi emocionante e inesquecível.
+S: A viagem foi emocionante e inesquecível.
+
+C: As flores, que estavam lindas e perfumadas, embelezaram o jardim.
+S: As flores embelezaram o jardim.
+
+C: A apresentação, que contou com músicas animadas e coreografias elaboradas, foi um sucesso.
+S: A apresentação foi um sucesso.
+
+C: O sol brilhava no céu, enquanto as crianças brincavam no parque.
+S: O sol brilhava no céu e as crianças brincavam no parque.
+
+C: O filme estava emocionante, mas o final foi decepcionante.
+S: O filme estava emocionante, o final foi decepcionante.
+
+C: João foi promovido, então comprou um carro novo.
+S: João foi promovido e comprou um carro novo.
+
+C: Eu estudei durante horas, mas não consegui entender a matéria.
+S: Eu estudei durante horas, não consegui entender a matéria.
+
+C: O cachorro latiu, assustando os pássaros no jardim.
+S: O cachorro latiu e assustou os pássaros no jardim.
+
+C: Ela correu tão rápido quanto pôde, mas não conseguiu alcançá-los.
+S: Ela correu tão rápido quanto pôde, não conseguiu alcançá-los.
+
+C: O restaurante estava cheio, e tivemos que esperar por uma mesa.
+S: O restaurante estava cheio, tivemos que esperar por uma mesa.
+
+C: O livro era interessante, porém a narrativa era confusa.
+S: O livro era interessante, a narrativa era confusa.
+
+C: Ela sorriu para mim, e eu soube que tudo ficaria bem.
+S: Ela sorriu para mim, eu soube que tudo ficaria bem.
+
+C: Ele estudou muito para a prova, mas não conseguiu tirar uma boa nota.
+S: Ele estudou muito para a prova, não conseguiu tirar uma boa nota.
+
+C: Ela tinha muitas roupas, sapatos, acessórios, tudo comprado em diferentes lojas.
+S: Ela tinha muitas roupas, sapatos, acessórios, tudo comprado em diferentes lojas.
+
+C: Ele estava exausto, estressado, ansioso, tudo por causa do trabalho.
+S: Ele estava exausto, estressado, ansioso, tudo por causa do trabalho.
+
+C: O livro era extenso, complexo, difícil de entender, tudo de propósito.
+S: O livro era extenso, complexo, difícil de entender, tudo de propósito.
+
+C: A praia era bela, tranquila, encantadora, com águas cristalinas.
+S: A praia era bela, tranquila, encantadora, com águas cristalinas.
+
+C: Ele era alto, forte, musculoso, um verdadeiro atleta.
+S: Ele era alto, forte, musculoso, um verdadeiro atleta.
+
+C: O filme era emocionante, engraçado, surpreendente, com ótimos efeitos especiais.
+S: O filme era emocionante, engraçado, surpreendente, com ótimos efeitos especiais.
+
+C: A música era romântica, envolvente, tocante, tocada por uma orquestra.
+S: A música era romântica, envolvente, tocante, tocada por uma orquestra.
+
+C: O restaurante era sofisticado, elegante, premiado, com um serviço impecável.
+S: O restaurante era sofisticado, elegante, premiado, com um serviço impecável.
+
+C: O carro era potente, luxuoso, veloz, um verdadeiro sonho de consumo.
+S: O carro era potente, luxuoso, veloz, um verdadeiro sonho de consumo.
+
+C: A casa era espaçosa, confortável, bem decorada, com um jardim encantador.
+S: A casa era espaçosa, confortável, bem decorada, com um jardim encantador.
+
+C: O tempo, as circunstâncias, as dificuldades, nada impediu que ele alcançasse seus objetivos.
+S: O tempo, as circunstâncias, as dificuldades, nada impediu ele de alcançar seus objetivos.
+
+C: O sol, o mar, a brisa, tudo isso me faz feliz.
+S: O sol, o mar, a brisa, tudo isso me deixa feliz.
+
+C: O problema, a solução, a decisão, tudo isso me preocupa.
+S: O problema, a solução, a decisão, tudo isso me preocupa.
+
+C: O cansaço, o estresse, as preocupações, nada disso me abala.
+S: O cansaço, o estresse, as preocupações, nada disso me afeta.
+
+C: O trabalho, os estudos, as responsabilidades, tudo isso me consome.
+S: O trabalho, os estudos, as responsabilidades, tudo isso me consome.
+
+C: A chuva, o trânsito, o atraso, nada disso me impede de chegar a tempo.
+S: A chuva, o trânsito, o atraso, nada disso me impede de chegar na hora.
+
+C: O amor, as amizades, a família, tudo isso me completa.
+S: O amor, as amizades, a família, tudo isso me completa.
+
+C: O medo, a insegurança, as incertezas, nada disso me segura.
+S: O medo, a insegurança, as incertezas, nada disso me prende.
+
+C: O barulho, a agitação, a poluição, tudo isso me estressa.
+S: O barulho, a agitação, a poluição, tudo isso me estressa.
+
+C: O dinheiro, o poder, o status, nada disso me interessa.
+S: O dinheiro, o poder, o status, nada disso me interessa.
+
+C: A sorte, a coragem, a inteligência, nada ajudava Pedro.
+S: A sorte, a coragem, a inteligência, nada ajudava Pedro.
+
+C: O tempo, a distância, os obstáculos, nada impedia João de amar Maria.
+S: O tempo, a distância, os obstáculos, nada impedia João de amar Maria.
+
+C: As dificuldades, as críticas, as adversidades, nada abalava Ana.
+S: As dificuldades, as críticas, as adversidades, nada abalava Ana.
+
+C: A fama, o dinheiro, o sucesso, nada trazia felicidade a Joana.
+S: A fama, o dinheiro, o sucesso, nada trazia felicidade a Joana.
+
+C: A inveja, a desconfiança, a rivalidade, nada separava Pedro e João.
+S: A inveja, a desconfiança, a rivalidade, nada separava Pedro e João.
+
+C: As promessas, as expectativas, as palavras vazias, nada enganava Maria.
+S: As promessas, as expectativas, as palavras vazias, nada enganava Maria.
+
+C: A tristeza, a solidão, a saudade, nada confortava Joana.
+S: A tristeza, a solidão, a saudade, nada confortava Joana.
+
+C: A pressão, a ansiedade, a responsabilidade, nada afetava Pedro.
+S: A pressão, a ansiedade, a responsabilidade, nada afetava Pedro.
+
+C: O medo, a insegurança, a incerteza, nada parava Maria.
+S: O medo, a insegurança, a incerteza, nada parava Maria.
+
+C: Os obstáculos, as dificuldades, as críticas, nada abalava João.
+S: Os obstáculos, as dificuldades, as críticas, nada abalava João.
+
+C: A notícia de que havia ganhado na loteria deixou Pedro extremamente feliz.
+S: A notícia de que havia ganhado na loteria deixou Pedro extremamente feliz.
+
+C: A ideia de que seria promovido deixou João bastante animado.
+S: A ideia de ser promovido deixou João bastante animado.
+
+C: A expectativa de que iriam viajar para a praia no verão deixou as crianças empolgadas.
+S: A expectativa de viajar para a praia no verão deixou as crianças empolgadas.
+
+C: A descoberta de que seu time favorito venceu o campeonato trouxe grande alegria para Ana.
+S: A descoberta de que seu time favorito venceu o campeonato trouxe grande alegria para Ana.
+
+C: A possibilidade de que o projeto fosse aprovado deixou o grupo de trabalho esperançoso.
+S: A possibilidade do projeto ser aprovado deixou o grupo de trabalho esperançoso.
+
+C: A notícia de que o show foi cancelado decepcionou os fãs.
+S: A notícia de que o show foi cancelado decepcionou os fãs.
+
+C: A confirmação de que o voo foi cancelado gerou preocupação nos passageiros.
+S: A confirmação de que o voo foi cancelado gerou preocupação nos passageiros.
+
+C: A expectativa de que a comida estivesse deliciosa deixou todos ansiosos para experimentar.
+S: A expectativa de a comida estar deliciosa deixou todos ansiosos para experimentar.
+
+C: A notícia de que seria demitido trouxe grande tristeza para Roberto.
+S: A notícia de que seria demitido trouxe grande tristeza para Roberto.
+
+C: A possibilidade de que chovesse no dia do evento preocupou os organizadores.
+S: A possibilidade de chover no dia do evento preocupou os organizadores.
+

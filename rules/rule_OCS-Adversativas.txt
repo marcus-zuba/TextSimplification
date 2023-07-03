@@ -1,0 +1,26 @@
+(4) Orações coordenadas
+
+b. Sindéticas
+
+2. Adversativas: expressam idéia de oposição, contraste: mas, porém, todavia, contudo, no entanto, entretanto, etc.
+
+Regra: Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada.
+2) Sentença para a cláusula subordinada, padronizando-se o marcador discursivo
+de oposição como 'MAS'. Pode ser necessário explicitar o sujeito, constituído do
+núcleo do termo da oração principal a que se refere a subordinada, bem como o
+verbo ou objeto (caso estejam ocultos).
+
+Exemplos:
+
+Complexa: Os atentados cometidos na Costa Leste americana foram um ponto de inflexão no que se refere à magnitude dos atos terroristas , contudo não fugiram a uma lógica conhecida há muito tempo .
+Simplificada: Os atentados cometidos na Costa Leste americana foram um ponto de inflexão no que se refere à magnitude dos atos terroristas. Mas os atentados não fugiram a uma lógica conhecida há muito tempo.
+
+Complexa: A universidade brasileira tem 90 % de pessoas em condições muito favoráveis para pagar seus estudos , no entanto , têm uma gratuidade .
+Simplificada: A universidade brasileira tem 90 % de pessoas em condições muito favoráveis para pagar seus estudos. Mas as pessoas têm uma gratuidade.
+
+Complexa: O principal ponto de discórdia é o poder de veto, que o G4 já concordou em abrir mão, ao menos pelos próximos 15 anos, mas que os africanos insistem em ter imediatamente.
+Simplificada: O principal ponto de discórdia é o poder de veto, que o G4 já concordou em abrir mão, ao menos pelos próximos 15 anos. Mas os africanos insistem em ter imediatamente o poder de veto.
+
+Complexa: Vários produtos brasileiros enfrentam barreiras para entrarem nos EUA , ao passo que o mercado brasileiro está basicamente aberto .
+Simplificada: vários produtos brasileiros enfrentam barreiras para entrarem nos EUA. Mas mercado brasileiro está basicamente aberto .

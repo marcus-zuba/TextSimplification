@@ -1,0 +1,29 @@
+(1) Aposto (ou orações subordinadas substantivas apositivas)
+
+c. Especificador:
+Regra: Dividir a sentença em duas:
+1) Sentença original sem o aposto.
+2) Sentença para o aposto, a qual terá como sujeito o núcleo do termo da oração principal explicado pelo aposto (ou o termo completo, caso o núcleo não seja suficiente), seguido de verbo de ligação 'ser' no tempo presente e então do aposto.
+
+Exemplos:
+
+Complexa: O presidente da Câmara, Severino Cavalcanti (PP-PE), tentou dar garantias aos parlamentares de que não haverá processo sumário de cassações.
+Simplificada: O presidente da Câmara tentou dar garantias aos parlamentares de que não haverá processo sumário de cassações. O presidente da Câmara é Severino Cavalcanti (PP-PE).
+
+Complexa: O eventual relatório do Conselho de Ética propondo a perda de um mandato é enviado para a Mesa da Câmara, um colegiado de sete deputados que administra a Casa e é presidido por Severino.
+Simplificada: O eventual relatório do Conselho de Ética propondo a perda de um mandato é enviado para a Mesa da Câmara. A Mesa da Câmara é um colegiado de sete deputados que administra a Casa e é presidido por Severino.
+
+Complexa: O secretário-geral do PT, Ricardo Berzoini, "notificou" os deputados, com os quais conversou pessoalmente.
+Simplificada: O secretário-geral do PT "notificou" os deputados, com os quais conversou pessoalmente. O secretário-geral é Ricardo Berzoini.
+
+Complexa: Mas a expectativa é que ao menos o ex-presidente da Câmara, João Paulo Cunha (SP), participe da reunião.
+Simplificada: Mas a expectativa é que ao menos o ex-presidente da Câmara participe da reunião. O ex-presidente é João Paulo Cunha (SP).
+
+Complexa: O presidente do PT, Tarso Genro, leva apenas hoje à Executiva a proposta de envio de "correspondência" para que os "companheiros apresentem sua versão".
+Simplificada: O presidente do PT leva apenas hoje à Executiva a proposta de envio de "correspondência" para que os "companheiros apresentem sua versão". O presidente é Tarso Genro.
+
+Complexa: Tarso Genro também visitou ontem o antecessor, José Genoino.
+Simplificada: Tarso Genro também visitou ontem o antecessor. O antecessor é José Genoino.
+
+Complexa: Autor do livro "Utopia Possível", entre outras obras, Tarso Genro já foi prefeito de Porto Alegre.
+Simplificada: Tarso Genro é autor do livro "Utopia Possível", entre outras obras. Tarso Genro já foi prefeito de Porto Alegre.

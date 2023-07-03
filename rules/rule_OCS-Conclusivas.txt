@@ -1,0 +1,21 @@
+(4) Orações coordenadas
+
+b. Sindéticas
+
+4. Conclusivas: expressam a idéia de conclusão, conseqüência: logo, portanto,
+por conseguinte, pois (proposto ao verbo), etc.
+
+Regra: Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada.
+2) Sentença para a cláusula subordinada, excluindo-se o marcador de conclusão e
+incluindo-se o marcador 'COM ISSO'. Pode ser necessário explicitar o sujeito,
+constituído do núcleo do termo da oração principal, bem como o verbo ou objeto
+(caso estejam ocultos).
+
+Exemplos:
+
+Complexa: Os EUA impõem restrições à importação de aço brasileiro, portanto, o aço fabricado embute subsídios.
+Simplificada: Os EUA impõem restrições à importação de aço brasileiro. Com isso, o aço fabricado embute subsídios.
+
+Complexa: Os ministérios tinham outras fontes de recursos, portanto, os gastos estavam mais elevados do que o desejado.
+Simplificada: Os ministérios tinham outras fontes de recursos . Com isso, os gastos estavam mais elevados do que o desejado .

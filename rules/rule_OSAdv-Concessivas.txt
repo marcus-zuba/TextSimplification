@@ -1,0 +1,53 @@
+(3) Orações subordinadas adverbiais
+
+c. Concessivas: indicam a concessão à idéia expressa pelo verbo da principal, isto é,
+admitem uma contradição ou um fato inesperado: embora, por mais que, ainda
+que, posto que, a menos que, se bem que, conquanto, mesmo que, nem que,
+apesar de que, por mais que, por muito que, etc.
+Regra: Dividir a sentença em duas:
+1) Sentença para a cláusula subordinada, eliminando-se o marcador discursivo de
+concessão e eventualmente introduzindo-se como sujeito o núcleo do termo da
+oração principal a quem a subordinada se refere (ou o termo completo, caso o
+núcleo não seja suficiente). O tempo verbal pode precisar ser adaptado.
+2) Sentença original sem a cláusula subordinada, introduzida pelo marcador discursivo
+'MAS'.
+  -> Ordem: fato1, embora fato2 VIRA fato 2 mas fato1
+Exemplos:
+
+Complexa: O prédio que abriga o Consulado Brasileiro também foi evacuado, embora os diplomatas tenham conseguido permissão para continuar trabalhando.
+Simplificada: Os diplomatas conseguiram permissão para continuar trabalhando. Mas o prédio que abriga o Consulado Brasileiro também foi evacuado
+
+Complexa:Embora Berzoini tenha se antecipado, o presidente do PT leva apenas hoje à Executiva a proposta de envio de "correspondência" para que os "companheiros apresentem sua versão".
+Simplificada: Berzoini se antecipou. Mas o presidente do PT leva apenas hoje à Executiva a proposta de envio de "correspondência" para que os "companheiros apresentem sua versão".
+
+Complexa: José Fogaça (PMDB-RS) e José Alencar (PMDB-MG) afirmaram ontem que vão disputar com Renan dentro da bancada, embora tenham poucas chances de vitória.
+Simplificada: José Fogaça (PMDB-RS) e José Alencar (PMDB-MG) têm poucas chances de vitória. Mas afirmaram ontem que vão disputar com Renan dentro da bancada.
+
+Complexa: Embora Lula defenda posições das quais discordamos, não há dúvidas quanto ao fato de ele ser um democrata.
+Simplificada: Lula defende posições das quais discordamos. Mas não há dúvidas quanto ao fato de ele ser um democrata.
+
+Complexa: Embora as concessões da banda B não representem privatizações de empresas, o governo está concedendo para o setor privado o direito de investir na área .
+Simplificada: As concessões da banda B não representam privatizações de empresas. Mas o governo está concedendo para o setor privado o direito de investir na área .
+
+Complexa: Conquanto Castello Branco esteja disposto a ajudar , há uma série de obstáculos legais e políticos .
+Simplificada: Castello Branco está disposto a ajudar. Mas há uma série de obstáculos legais e políticos
+
+Regra para orações que dão idéia de que a parte subordinada é hipotética (por
+exemplo, com "ainda que / por mais que"): Dividir a sentença em duas:
+1) Sentença original sem a cláusula subordinada.
+2) Sentença para a cláusula subordinada, eliminando-se o marcador discursivo de
+concessão e introduzindo-se 'ISSO ACONTECE MESMO QUE'.
+
+Exemplos:
+
+Complexa: Parte da jurisprudência considera hoje que o dever de indenizar é sempre da empresa , ainda que o ofensor seja ministro de Estado .
+Simplificada: Parte da jurisprudência considera hoje que o dever de indenizar é sempre da empresa. Isso acontece mesmo que o ofensor seja ministro de Estado.
+
+Complexa: A força mais expressiva contra Britto é o PT , ainda que o PDT resista em alguns bolsões do Estado .
+Simplificada: A força mais expressiva contra Britto é o PT. Isso acontece mesmo que o PDT resista em alguns bolsões do Estado .
+
+Complexa: Planejam mostrar tudo a João Paulo 2o pessoalmente , ainda que de longe .
+Simplificada: Planejam mostrar tudo a João Paulo 2o pessoalmente. Isso acontece mesmo que de longe.
+
+Complexa: Temos de punir quem quer que tenha feito , por mais que tenha até serviços prestados ao Brasil .
+Simplificada: Temos de punir quem quer que tenha feito. Isso acontece mesmo que tenha até serviços prestados ao Brasil.

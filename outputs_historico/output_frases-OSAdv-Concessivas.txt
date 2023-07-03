@@ -1,0 +1,4325 @@
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Ele não passou no exame, mesmo estudando muito.
+
+C: Ainda que estivesse chovendo, eles decidiram ir à praia.
+S: Eles decidiram ir à praia, mesmo estando chovendo.
+
+C: Por mais que tentemos, nunca conseguimos agradar a todos.
+S: Nunca conseguimos agradar a todos, por mais que tentemos.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Ele continuou trabalhando, apesar de estar cansado.
+
+C: Mesmo que seja perigoso, vou arriscar.
+S: Vou arriscar, mesmo sendo perigoso.
+
+C: Embora tenha acordado tarde, ainda consegui chegar a tempo.
+S: Ainda consegui chegar a tempo, mesmo tendo acordado tarde.
+
+C: Ela aceitou o convite, mesmo que não tivesse vontade.
+S: Ela aceitou o convite, mesmo sem vontade.
+
+C: A menos que chova, o jogo será realizado ao ar livre.
+S: O jogo será realizado ao ar livre, a menos que chova.
+
+C: Se bem que tenha cometido erros, ele é um bom profissional.
+S: Ele é um bom profissional, mesmo tendo cometido erros.
+
+C: Por muito que se esforce, ele nunca consegue aprender.
+S: Ele nunca consegue aprender, por mais que se esforce.
+
+C: Embora tenha estudado bastante, ele não passou na prova.
+S: Ele estudou bastante, mas não passou na prova.
+
+C: Por mais que eu tente, não consigo me lembrar do seu nome.
+S: Eu tento, mas não consigo me lembrar do seu nome.
+
+C: Ainda que chova, irei ao jogo de futebol.
+S: Vou ao jogo de futebol, mesmo que chova.
+
+C: Mesmo que não concorde, vou respeitar a sua decisão.
+S: Vou respeitar a sua decisão, mesmo que não concorde.
+
+C: Apesar de estar cansado, decidi ir à academia.
+S: Decidi ir à academia, mesmo estando cansado.
+
+C: Por mais que ele peça desculpas, não vou perdoá-lo.
+S: Não vou perdoá-lo, mesmo que ele peça desculpas.
+
+C: Mesmo que não saiba nadar, vou me aventurar no mar.
+S: Vou me aventurar no mar, mesmo sem saber nadar.
+
+C: Embora tenha medo de altura, vou enfrentar o desafio.
+S: Vou enfrentar o desafio, mesmo tendo medo de altura.
+
+C: Por mais que seja difícil, vou continuar tentando.
+S: Vou continuar tentando, mesmo que seja difícil.
+
+C: Ainda que não queira, preciso contar a verdade.
+S: Preciso contar a verdade, mesmo que não queira.
+
+C: Embora tenha chovido muito, conseguimos ir à praia.
+S: Choveu muito. Mas conseguimos ir à praia.
+
+C: Ainda que esteja cansado, vou continuar estudando.
+S: Estou cansado. Mas vou continuar estudando.
+
+C: Apesar de termos tentado convencê-los, eles não aceitaram a proposta.
+S: Tentamos convencê-los. Mas eles não aceitaram a proposta.
+
+C: Por mais que me esforce, não consigo entender esse problema de matemática.
+S: Me esforço. Mas não consigo entender esse problema de matemática.
+
+C: Posto que você não esteja interessado, vou te contar essa história.
+S: Você não está interessado. Mas vou te contar essa história.
+
+C: A menos que sejamos rápidos, vamos perder o ônibus.
+S: Não sejamos rápidos. Mas vamos perder o ônibus.
+
+C: Se bem que esteja frio, vou sair para correr.
+S: Está frio. Mas vou sair para correr.
+
+C: Conquanto tenhamos pouco tempo, precisamos terminar esse trabalho.
+S: Temos pouco tempo. Mas precisamos terminar esse trabalho.
+
+C: Mesmo que não concorde com você, respeito sua opinião.
+S: Não concordo com você. Mas respeito sua opinião.
+
+C: Nem que tenha que acordar cedo, irei à academia amanhã.
+S: Tenho que acordar cedo. Mas irei à academia amanhã.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele estudou muito. Mas não conseguiu passar na prova.
+
+C: Por mais que eu tente, não consigo me lembrar do seu nome.
+S: Eu tento, mas não consigo me lembrar do seu nome.
+
+C: Ainda que tenha chovido muito, eles decidiram sair para passear.
+S: Choveu muito. Mas eles decidiram sair para passear.
+
+C: Mesmo que tenham avisado sobre o perigo, ele resolveu arriscar.
+S: Avisaram sobre o perigo. Mas ele resolveu arriscar.
+
+C: Conquanto tenha falado com ele, não consegui convencê-lo a mudar de ideia.
+S: Falei com ele. Mas não consegui convencê-lo a mudar de ideia.
+
+C: Embora eu esteja com pressa, vou parar para te ajudar.
+S: Estou com pressa. Mas vou parar para te ajudar.
+
+C: A menos que você chegue cedo, não encontrará ingressos disponíveis.
+S: Se você não chegar cedo, não encontrará ingressos disponíveis.
+
+C: Posto que tenha sido difícil, eles conseguiram alcançar o objetivo.
+S: Foi difícil. Mas eles conseguiram alcançar o objetivo.
+
+C: Nem que você me peça, não vou mudar de ideia.
+S: Mesmo que você me peça, não vou mudar de ideia.
+
+C: Apesar de que tenha sido caro, valeu a pena o investimento.
+S: Foi caro. Mas valeu a pena o investimento.
+
+C: Embora ela tivesse estudado muito, não passou na prova.
+S: Ela estudou muito, mas não passou na prova.
+
+C: Ainda que ele tenha pedido desculpas, ela não o perdoou.
+S: Ele pediu desculpas, mas ela não o perdoou.
+
+C: Por mais que ela tente, nunca consegue acertar.
+S: Ela tenta, mas nunca consegue acertar.
+
+C: Mesmo que você queira, não posso te ajudar.
+S: Você quer, mas não posso te ajudar.
+
+C: Apesar de ter chovido, fui à praia.
+S: Choveu, mas fui à praia.
+
+C: A menos que você estude, não vai passar na prova.
+S: Você não estuda, então não vai passar na prova.
+
+C: Se bem que ele tenha se esforçado, não conseguiu atingir seu objetivo.
+S: Ele se esforçou, mas não conseguiu atingir seu objetivo.
+
+C: Por muito que ela se esforce, não será suficiente.
+S: Ela se esforça muito, mas não será suficiente.
+
+C: Nem que você peça, eu não vou te emprestar o dinheiro.
+S: Você pede, mas eu não vou te emprestar o dinheiro.
+
+C: Por mais que você insista, não vou mudar de ideia.
+S: Você insiste, mas não vou mudar de ideia.
+
+C: Embora tenha estudado bastante, o aluno não conseguiu passar na prova.
+S: O aluno não conseguiu passar na prova. Mas estudou bastante.
+
+C: Ainda que tenham avisado sobre o trânsito, chegamos atrasados ao trabalho.
+S: Chegamos atrasados ao trabalho. Isso aconteceu mesmo que tenham avisado sobre o trânsito.
+
+C: Apesar de estar cansado, decidiu ir ao cinema.
+S: Decidiu ir ao cinema. Mas estava cansado.
+
+C: Mesmo que tenham dado aumento salarial, os funcionários continuam insatisfeitos.
+S: Os funcionários continuam insatisfeitos. Isso aconteceu mesmo que tenham dado aumento salarial.
+
+C: Embora tenha chovido muito, a festa foi um sucesso.
+S: A festa foi um sucesso. Mas choveu muito.
+
+C: A menos que tenha uma boa oferta, não vou vender minha casa.
+S: Não vou vender minha casa. A menos que tenha uma boa oferta.
+
+C: Se bem que estudei, não consegui entender a matéria.
+S: Não consegui entender a matéria. Mesmo que tenha estudado.
+
+C: Por mais que se esforce, ela nunca consegue perder peso.
+S: Ela nunca consegue perder peso. Por mais que se esforce.
+
+C: Nem que chova muito, vou sair de casa hoje.
+S: Vou sair de casa hoje. Nem que chova muito.
+
+C: Posto que tenha se machucado, ele continuou jogando futebol.
+S: Ele continuou jogando futebol. Mesmo que tenha se machucado.
+
+C: Embora tenha estudado muito, João não passou na prova.
+S: João estudou muito, mas não passou na prova.
+
+C: Por mais que eu tente entender, não consigo compreender a situação.
+S: Eu tento entender, mas não consigo compreender a situação.
+
+C: Ainda que seja difícil, é importante persistir.
+S: É difícil, mas é importante persistir.
+
+C: Apesar de estarmos atrasados, chegaremos a tempo.
+S: Estamos atrasados, mas chegaremos a tempo.
+
+C: Mesmo que chova, não vou desistir do meu passeio.
+S: Vai chover, mas não vou desistir do meu passeio.
+
+C: Embora Carlos tenha perdido o emprego, ele está otimista.
+S: Carlos perdeu o emprego, mas ele está otimista.
+
+C: Por mais que eu tente, não consigo lembrar onde coloquei minhas chaves.
+S: Eu tento, mas não consigo lembrar onde coloquei minhas chaves.
+
+C: Ainda que esteja cansado, preciso terminar essa tarefa.
+S: Estou cansado, mas preciso terminar essa tarefa.
+
+C: Apesar de ter sido rejeitado, João não desistiu de tentar.
+S: João foi rejeitado, mas não desistiu de tentar.
+
+C: Mesmo que seja difícil, não vou desistir dos meus sonhos.
+S: É difícil, mas não vou desistir dos meus sonhos.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito, mas não passou na prova.
+
+C: Ainda que esteja cansado, ele vai ao treino.
+S: Ele está cansado. Mas mesmo assim, ele vai ao treino.
+
+C: Por mais que os pais o proíbam, ele sempre sai de casa à noite.
+S: Os pais o proíbem. Mas mesmo assim, ele sempre sai de casa à noite.
+
+C: Conquanto seja difícil, ele não desiste dos seus sonhos.
+S: É difícil, mas ele não desiste dos seus sonhos.
+
+C: Embora seja caro, ele decidiu comprar o carro novo.
+S: É caro. Mas mesmo assim, ele decidiu comprar o carro novo.
+
+C: Ainda que tenha chovido, ele foi ao parque.
+S: Choveu. Mas mesmo assim, ele foi ao parque.
+
+C: Por mais que estude, ele não consegue melhorar suas notas.
+S: Ele estuda. Mas por mais que estude, ele não consegue melhorar suas notas.
+
+C: Conquanto seja perigoso, ele gosta de praticar esportes radicais.
+S: É perigoso. Mas mesmo assim, ele gosta de praticar esportes radicais.
+
+C: Embora estejam atrasados, eles ainda conseguem chegar a tempo.
+S: Eles estão atrasados. Mas mesmo assim, eles ainda conseguem chegar a tempo.
+
+C: Ainda que tenha medo de altura, ele decidiu fazer paraquedismo.
+S: Ele tem medo de altura. Mas mesmo assim, ele decidiu fazer paraquedismo.
+
+C: Embora tenha estudado bastante, não consegui passar no exame.
+S: Não consegui passar no exame, mesmo tendo estudado bastante.
+
+C: Ainda que seja caro, vale a pena investir nesse projeto.
+S: Vale a pena investir nesse projeto, mesmo que seja caro.
+
+C: Por mais que eu tente, não consigo entender essa matéria.
+S: Não consigo entender essa matéria, por mais que eu tente.
+
+C: Nem que chova, eu irei para a festa.
+S: Eu irei para a festa, nem que chova.
+
+C: Apesar de ter chegado atrasado, ele teve um desempenho excepcional.
+S: Ele teve um desempenho excepcional, apesar de ter chegado atrasado.
+
+C: Por mais que eu me esforce, não consigo perder peso.
+S: Não consigo perder peso, por mais que eu me esforce.
+
+C: Mesmo que você não concorde, preciso tomar essa decisão.
+S: Preciso tomar essa decisão, mesmo que você não concorde.
+
+C: Ainda que esteja cansada, ela vai continuar trabalhando.
+S: Ela vai continuar trabalhando, mesmo estando cansada.
+
+C: Embora ela seja jovem, já tem muita experiência profissional.
+S: Ela já tem muita experiência profissional, embora seja jovem.
+
+C: Mesmo que esteja frio, vou sair para correr.
+S: Vou sair para correr, mesmo que esteja frio.
+
+C: Embora o jogo tenha sido emocionante, o time perdeu por um gol de diferença.
+S: O time perdeu por um gol de diferença. Mas o jogo foi emocionante.
+
+C: Apesar de ter estudado muito, ele não conseguiu passar na prova.
+S: Ele não conseguiu passar na prova. Mas estudou muito.
+
+C: Ainda que tenha chovido bastante, o evento foi um sucesso.
+S: O evento foi um sucesso. Mesmo que tenha chovido bastante.
+
+C: Mesmo que a estrada esteja interditada, vou chegar a tempo da reunião.
+S: Vou chegar a tempo da reunião. Mesmo que a estrada esteja interditada.
+
+C: Embora ela tenha talento para cantar, nunca se apresentou em público.
+S: Ela nunca se apresentou em público. Mas tem talento para cantar.
+
+C: Por mais que ela se esforce, não consegue alcançar suas metas.
+S: Ela não consegue alcançar suas metas. Por mais que se esforce.
+
+C: Mesmo que esteja cansado, ele continua trabalhando até tarde da noite.
+S: Ele continua trabalhando até tarde da noite. Mesmo que esteja cansado.
+
+C: Apesar de ser pequeno, o cachorro é muito corajoso.
+S: O cachorro é muito corajoso. Mas é pequeno.
+
+C: Ainda que não queira admitir, ele sabe que está errado.
+S: Ele sabe que está errado. Mesmo que não queira admitir.
+
+C: Por mais que tente, ele nunca consegue ficar calmo em situações de estresse.
+S: Ele nunca consegue ficar calmo em situações de estresse. Por mais que tente.
+
+C: Embora tenha estudado muito, ela não passou na prova.
+S: Ela estudou muito, mas não passou na prova.
+
+C: Mesmo que chova, iremos ao parque.
+S: Iremos ao parque, mas mesmo que chova.
+
+C: Ainda que tenha sido difícil, conseguimos completar a missão.
+S: Conseguimos completar a missão, mas mesmo que tenha sido difícil.
+
+C: Por mais que se esforce, ele nunca conseguirá alcançar seus objetivos.
+S: Ele nunca conseguirá alcançar seus objetivos, mas por mais que se esforce.
+
+C: Apesar de ter acordado tarde, ele chegou no horário.
+S: Ele chegou no horário, mas apesar de ter acordado tarde.
+
+C: Mesmo que corra, não conseguirá chegar a tempo.
+S: Não conseguirá chegar a tempo, mas mesmo que corra.
+
+C: Embora tenha sido advertido, ele continuou quebrando as regras.
+S: Ele continuou quebrando as regras, mas foi advertido.
+
+C: A menos que mude de atitude, não terá sucesso.
+S: Não terá sucesso, a menos que mude de atitude.
+
+C: Por mais que tente, ele não consegue resolver o problema.
+S: Ele não consegue resolver o problema, mas por mais que tente.
+
+C: Se bem que tenha sido difícil, ele nunca desistiu.
+S: Ele nunca desistiu, mas se bem que tenha sido difícil.
+
+C: Apesar de terem estudado muito, eles não passaram no exame.
+S: Eles não passaram no exame, mesmo tendo estudado muito.
+
+C: Por mais que se esforçasse, ele não conseguiu alcançar o objetivo.
+S: Ele não conseguiu alcançar o objetivo, por mais que se esforçasse.
+
+C: Ainda que tenha chovido, faremos o passeio.
+S: Faremos o passeio, mesmo que tenha chovido.
+
+C: Embora seja caro, vale a pena comprar este produto.
+S: Vale a pena comprar este produto, mesmo que seja caro.
+
+C: Por mais que ela negue, todos sabem que ela está envolvida.
+S: Todos sabem que ela está envolvida, por mais que ela negue.
+
+C: Mesmo que desista, eu vou continuar lutando.
+S: Eu vou continuar lutando, mesmo que desista.
+
+C: Apesar de ser cansativo, eu gosto de fazer exercícios.
+S: Eu gosto de fazer exercícios, mesmo sendo cansativo.
+
+C: Por mais que eu tente convencê-lo, ele não muda de ideia.
+S: Ele não muda de ideia, por mais que eu tente convencê-lo.
+
+C: Ainda que seja difícil, não vou desistir.
+S: Não vou desistir, mesmo que seja difícil.
+
+C: Embora não tenha experiência, ela conseguiu o emprego.
+S: Ela conseguiu o emprego, mesmo não tendo experiência.
+
+C: Embora o tempo esteja chuvoso, iremos ao parque.
+S: O tempo está chuvoso. Mas iremos ao parque.
+
+C: Mesmo que você não goste de peixe, experimente esse prato.
+S: Você não gosta de peixe. Mas experimente esse prato.
+
+C: Ainda que tenha estudado muito, não conseguiu passar na prova.
+S: Você estudou muito. Mas não conseguiu passar na prova.
+
+C: Por mais que ele se esforce, não consegue alcançar o sucesso.
+S: Ele se esforça. Mas não consegue alcançar o sucesso.
+
+C: Apesar de estar cansado, decidiu sair para curtir a noite.
+S: Ele está cansado. Mas decidiu sair para curtir a noite.
+
+C: Posto que o trânsito esteja pesado, cheguei no horário marcado.
+S: O trânsito está pesado. Mas cheguei no horário marcado.
+
+C: A menos que você me ajude, não conseguiremos terminar a tempo.
+S: Você me ajuda. Mas não conseguiremos terminar a tempo.
+
+C: Se bem que ele seja um bom músico, não gosto das suas canções.
+S: Ele é um bom músico. Mas não gosto das suas canções.
+
+C: Nem que chova muito, nós iremos ao show.
+S: Vai chover muito. Mas nós iremos ao show.
+
+C: Por muito que ela tente disfarçar, todos sabem a verdade.
+S: Ela tenta disfarçar. Mas todos sabem a verdade.
+
+C: Embora chova, irei ao parque.
+S: Irei ao parque, mas está chovendo.
+
+C: Ainda que tenha estudado muito, não consegui passar na prova.
+S: Não consegui passar na prova, mesmo tendo estudado muito.
+
+C: Por mais que eu tente, não consigo lembrar o seu nome.
+S: Não consigo lembrar o seu nome, por mais que eu tente.
+
+C: Apesar de estar cansado, ainda vou ao cinema.
+S: Ainda vou ao cinema, mesmo estando cansado.
+
+C: Mesmo que o dia esteja nublado, vou à praia.
+S: Vou à praia, mesmo que o dia esteja nublado.
+
+C: Se bem que eu tenha tentado convencê-lo, ele não mudou de ideia.
+S: Ele não mudou de ideia, mesmo que eu tenha tentado convencê-lo.
+
+C: Nem que você peça mil vezes, eu não vou emprestar o meu carro.
+S: Eu não vou emprestar o meu carro, nem que você peça mil vezes.
+
+C: Conquanto o projeto seja complicado, vamos seguir em frente.
+S: Vamos seguir em frente, conquanto o projeto seja complicado.
+
+C: Por mais que eu me esforce, não consigo entender essa equação.
+S: Não consigo entender essa equação, por mais que eu me esforce.
+
+C: A menos que ela esteja mentindo, essa história é verdadeira.
+S: Essa história é verdadeira, a menos que ela esteja mentindo.
+
+C: Embora tenha estudado muito, João não conseguiu passar no exame.
+S: João estudou muito, mas não conseguiu passar no exame.
+
+C: Ainda que tenha chovido muito, a partida de futebol não foi adiada.
+S: Choveu muito, mas a partida de futebol não foi adiada.
+
+C: Por mais que se esforce, Maria não consegue resolver o problema.
+S: Maria se esforça, mas não consegue resolver o problema.
+
+C: Apesar de estar cansado, Lucas continuou trabalhando.
+S: Lucas estava cansado, mas continuou trabalhando.
+
+C: Posto que tenha tentado de todas as formas, Ana não conseguiu convencer os pais.
+S: Ana tentou de todas as formas, mas não conseguiu convencer os pais.
+
+C: Mesmo que tenha muitos obstáculos, Pedro não desiste de seus sonhos.
+S: Pedro tem muitos obstáculos, mas não desiste de seus sonhos.
+
+C: Nem que esteja nevando lá fora, vamos sair para jantar.
+S: Está nevando lá fora, mas não vamos sair para jantar.
+
+C: Se bem que tenha acordado cedo, Carolina ainda está atrasada para o trabalho.
+S: Carolina acordou cedo, mas ainda está atrasada para o trabalho.
+
+C: A menos que consiga uma carona, não vou conseguir chegar a tempo para a reunião.
+S: Não vou conseguir chegar a tempo para a reunião, a menos que consiga uma carona.
+
+C: Por muito que tente esconder, Joana sabe que cometeu um erro.
+S: Joana tenta esconder, mas sabe que cometeu um erro.
+
+C: Embora tenha estudado muito, ela não conseguiu passar na prova.
+S: Ela estudou muito, mas não conseguiu passar na prova.
+
+C: Mesmo que ele tenha dinheiro, ele não é feliz.
+S: Ele tem dinheiro, mas não é feliz.
+
+C: Ainda que eu esteja cansado, vou ao cinema.
+S: Estou cansado, mas vou ao cinema.
+
+C: Por mais que eu tente, não consigo entender esse assunto.
+S: Tento muito, mas não consigo entender esse assunto.
+
+C: Embora tenha acordado cedo, perdi o ônibus.
+S: Acordei cedo, mas perdi o ônibus.
+
+C: Conquanto tenha chovido muito, o jogo foi realizado.
+S: Choveu muito, mas o jogo foi realizado.
+
+C: Ainda que tenha errado, ela foi perdoada.
+S: Ela errou, mas foi perdoada.
+
+C: Mesmo que estudem bastante, não passarão na prova.
+S: Estudem bastante, mas não passarão na prova.
+
+C: Embora tenhamos tentado nosso melhor, não conseguimos vencer o jogo.
+S: Tentamos nosso melhor, mas não conseguimos vencer o jogo.
+
+C: Por mais que você se esforce, não conseguirá agradar a todos.
+S: Você se esforça, mas não conseguirá agradar a todos.
+
+C: Embora estivesse atrasado, ele conseguiu chegar a tempo para a reunião.
+S: Ele conseguiu chegar a tempo para a reunião. Mas estava atrasado.
+
+C: Ainda que tenha perdido todas as provas, ele passou na matéria.
+S: Ele passou na matéria. Isso acontece mesmo que tenha perdido todas as provas.
+
+C: Por mais que tentasse convencê-lo, ele se recusava a mudar de ideia.
+S: Ele se recusava a mudar de ideia. Mas por mais que tentasse convencê-lo.
+
+C: Embora fossem irmãos, não se davam bem.
+S: Não se davam bem. Mas eram irmãos.
+
+C: Mesmo que chovesse, eles decidiram fazer o piquenique.
+S: Eles decidiram fazer o piquenique. Isso acontece mesmo que chovesse.
+
+C: Apesar do cansaço, ele continuou a trabalhar.
+S: Ele continuou a trabalhar. Mas estava cansado.
+
+C: Por mais que se esforçasse, ele não conseguiu alcançar seu objetivo.
+S: Ele não conseguiu alcançar seu objetivo. Isso acontece mesmo que se esforçasse.
+
+C: A menos que estude bastante, ela não vai passar na prova.
+S: Ela não vai passar na prova. A menos que estude bastante.
+
+C: Mesmo que estivesse com medo, ela decidiu enfrentar seus medos.
+S: Ela decidiu enfrentar seus medos. Isso acontece mesmo que estivesse com medo.
+
+C: Embora estivesse cansado, ele decidiu sair para caminhar.
+S: Ele decidiu sair para caminhar. Mas estava cansado.
+
+C: Embora chova, iremos ao parque.
+S: Iremos ao parque. Mas está chovendo.
+
+C: Ainda que tenha estudado muito, não consegui passar na prova.
+S: Não consegui passar na prova. Isso acontece mesmo que tenha estudado muito.
+
+C: Mesmo que seja tarde, vou te ligar.
+S: Vou te ligar. Isso acontece mesmo que seja tarde.
+
+C: Por mais que me esforce, não consigo entender matemática.
+S: Não consigo entender matemática. Isso acontece por mais que me esforce.
+
+C: Apesar de ser caro, comprarei aquele vestido.
+S: Comprarei aquele vestido. Mas é caro.
+
+C: Se bem que estava cansado, continuei trabalhando.
+S: Continuei trabalhando. Mas estava cansado.
+
+C: Posto que tenha perdido, estou contente por ter participado.
+S: Estou contente por ter participado. Posto que tenha perdido.
+
+C: A menos que estude, você não irá passar na prova.
+S: Você não irá passar na prova. A menos que estude.
+
+C: Apesar de ter pouco tempo, farei o meu melhor.
+S: Farei o meu melhor. Apesar de ter pouco tempo.
+
+C: Por muito que tente, não consigo convencê-lo.
+S: Não consigo convencê-lo. Por muito que tente.
+
+C: Embora estivesse chovendo muito, ele decidiu sair para correr.
+S: Ele decidiu sair para correr. Mas estava chovendo muito.
+
+C: Ainda que não seja fácil, é importante perseverar.
+S: Não é fácil, mas é importante perseverar.
+
+C: Por mais que eu tente, não consigo entender esse problema de matemática.
+S: Eu tento, mas não consigo entender esse problema de matemática.
+
+C: Apesar de estar cansado, ele continuou trabalhando até tarde da noite.
+S: Ele continuou trabalhando até tarde da noite. Mas estava cansado.
+
+C: Mesmo que ele esteja errado, devemos respeitar sua opinião.
+S: Ele está errado. Mas devemos respeitar sua opinião.
+
+C: Embora o trânsito esteja congestionado, conseguiremos chegar a tempo.
+S: O trânsito está congestionado. Mas conseguiremos chegar a tempo.
+
+C: A menos que você estude, não conseguirá passar na prova.
+S: Você não estudou. Mas não conseguirá passar na prova.
+
+C: Se bem que não concordo com ele, entendo sua perspectiva.
+S: Não concordo com ele. Mas entendo sua perspectiva.
+
+C: Por mais que ele seja talentoso, ele precisa se esforçar mais.
+S: Ele é talentoso. Mas precisa se esforçar mais.
+
+C: Nem que demore a noite toda, vou terminar esse trabalho.
+S: Vou terminar esse trabalho. Mesmo que demore a noite toda.
+
+C: Embora tenha estudado bastante, ela não passou na prova.
+S: Ela estudou bastante, mas não passou na prova.
+
+C: Mesmo que chova, irei ao parque.
+S: Vou ao parque, mesmo que chova.
+
+C: Ainda que não tenha tempo, farei o trabalho.
+S: Farei o trabalho, mesmo que não tenha tempo.
+
+C: Por mais que tente, ele não consegue entender.
+S: Ele não consegue entender, por mais que tente.
+
+C: Embora seja caro, comprarei o vestido.
+S: Comprarei o vestido, embora seja caro.
+
+C: A menos que estude, você não passará no exame.
+S: Você não passará no exame, a menos que estude.
+
+C: Se bem que tenha medo, vou realizar meu sonho.
+S: Vou realizar meu sonho, se bem que tenha medo.
+
+C: Conquanto lhe falte experiência, ele é muito talentoso.
+S: Ele é muito talentoso, conquanto lhe falte experiência.
+
+C: Nem que chova muito, irei ao jogo de futebol.
+S: Irei ao jogo de futebol, nem que chova muito.
+
+C: Apesar de que seja difícil, vou tentar resolver o problema.
+S: Vou tentar resolver o problema, apesar de que seja difícil.
+
+C: Embora tenha chovido o dia todo, o jogo de futebol aconteceu como previsto.
+S: O jogo de futebol aconteceu como previsto. Mas choveu o dia todo.
+
+C: Ainda que a comida não seja a melhor, o restaurante possui um ambiente agradável.
+S: O restaurante possui um ambiente agradável. Isso acontece mesmo que a comida não seja a melhor.
+
+C: Por mais que ele se esforce, nunca consegue alcançar seus objetivos.
+S: Ele nunca consegue alcançar seus objetivos. Isso acontece mesmo que ele se esforce.
+
+C: Embora tenha estudado bastante, não conseguiu passar na prova.
+S: Ele não conseguiu passar na prova. Mas estudou bastante.
+
+C: A menos que tome uma atitude agora, vai se arrepender no futuro.
+S: Ele vai se arrepender no futuro. Mas não tomou uma atitude agora.
+
+C: Se bem que seja arriscado, decidiu investir todo o seu dinheiro na bolsa de valores.
+S: Ele decidiu investir todo o seu dinheiro na bolsa de valores. Mas é arriscado.
+
+C: Por mais que seja cansativo, ele faz questão de ir para a academia todos os dias.
+S: Ele faz questão de ir para a academia todos os dias. Isso acontece mesmo que seja cansativo.
+
+C: Apesar de que as provas estavam difíceis, ele conseguiu tirar boas notas.
+S: Ele conseguiu tirar boas notas. Mas as provas estavam difíceis.
+
+C: Mesmo que sejam caras, ele sempre compra roupas de marca.
+S: Ele sempre compra roupas de marca. Isso acontece mesmo que sejam caras.
+
+C: Nem que chova muito, ele vai sair de casa hoje.
+S: Ele vai sair de casa hoje. Mesmo que chova muito.
+
+C: Embora tenha chovido, conseguiu fazer o passeio de bicicleta.
+S: Conseguiu fazer o passeio de bicicleta. Mas mesmo assim, choveu.
+
+C: Apesar de ter estudado bastante, não passou na prova.
+S: Não passou na prova. Mas mesmo tendo estudado bastante.
+
+C: Por mais que se esforce, nunca será suficiente para ele.
+S: Nunca será suficiente para ele. Mas por mais que se esforce.
+
+C: Ainda que tenha dinheiro, não comprou o carro novo.
+S: Não comprou o carro novo. Isso acontece mesmo tendo dinheiro.
+
+C: Mesmo que treine todos os dias, não verá resultados imediatos.
+S: Não verá resultados imediatos. Isso acontece mesmo treinando todos os dias.
+
+C: Embora tenha acordado cedo, perdeu o ônibus.
+S: Perdeu o ônibus. Mas mesmo tendo acordado cedo.
+
+C: Por mais que tente, não consegue resolver o problema.
+S: Não consegue resolver o problema. Isso acontece mesmo tentando.
+
+C: Ainda que tenha se esforçado, não alcançou seus objetivos.
+S: Não alcançou seus objetivos. Isso acontece mesmo tendo se esforçado.
+
+C: Mesmo que tenha economizado, não tem dinheiro suficiente para viajar.
+S: Não tem dinheiro suficiente para viajar. Isso acontece mesmo tendo economizado.
+
+C: Embora tenha pedido desculpas, o relacionamento não será o mesmo.
+S: O relacionamento não será o mesmo. Mas mesmo tendo pedido desculpas.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele não passou na prova, apesar de ter estudado muito.
+
+C: Ainda que seja caro, vou comprar esse vestido.
+S: Vou comprar esse vestido, mesmo que seja caro.
+
+C: Por mais que você tente, nunca conseguirá me convencer.
+S: Você nunca conseguirá me convencer, por mais que tente.
+
+C: Apesar de estar cansado, ele decidiu sair para correr.
+S: Ele decidiu sair para correr, mesmo estando cansado.
+
+C: A menos que chova, vamos ao parque amanhã.
+S: Vamos ao parque amanhã, se não chover.
+
+C: Se bem que ela seja talentosa, ainda precisa melhorar.
+S: Ela ainda precisa melhorar, mesmo sendo talentosa.
+
+C: Conquanto seja difícil, não vou desistir.
+S: Não vou desistir, embora seja difícil.
+
+C: Nem que eu peça ajuda, ele não vai me escutar.
+S: Ele não vai me escutar, mesmo que eu peça ajuda.
+
+C: Por mais que ele tenha tentado, não conseguiu resolver o problema.
+S: Ele não conseguiu resolver o problema, por mais que tenha tentado.
+
+C: Mesmo que ele não concorde, vou seguir em frente com meu plano.
+S: Vou seguir em frente com meu plano, mesmo que ele não concorde.
+
+C: Embora tenha estudado bastante, não consegui passar na prova.
+S: Não consegui passar na prova. Mas estudei bastante.
+
+C: Apesar de ter chovido durante toda a tarde, saí para dar uma volta.
+S: Saí para dar uma volta. Mas choveu durante toda a tarde.
+
+C: Ainda que tenha acordado tarde, cheguei ao trabalho no horário certo.
+S: Cheguei ao trabalho no horário certo. Isso aconteceu mesmo tendo acordado tarde.
+
+C: Por mais que insistam, eu não vou mudar de opinião.
+S: Eu não vou mudar de opinião. Por mais que insistam.
+
+C: Embora tenhamos feito todo o planejamento, o projeto não foi concluído a tempo.
+S: O projeto não foi concluído a tempo. Mas fizemos todo o planejamento.
+
+C: Mesmo que não faça sentido, vou seguir minha intuição.
+S: Vou seguir minha intuição. Isso acontece mesmo que não faça sentido.
+
+C: A menos que queiram discutir o assunto, não vou me envolver na conversa.
+S: Não vou me envolver na conversa. A menos que queiram discutir o assunto.
+
+C: Se bem que seja complicado, vamos tentar resolver esse problema juntos.
+S: Vamos tentar resolver esse problema juntos. Se bem que seja complicado.
+
+C: Conquanto tenhamos pouco tempo, vamos fazer o possível para concluir o projeto.
+S: Vamos fazer o possível para concluir o projeto. Conquanto tenhamos pouco tempo.
+
+C: Por muito que eu tente, não consigo entender essa matéria.
+S: Não consigo entender essa matéria. Por muito que eu tente.
+
+C: Embora estivesse chovendo, ela decidiu sair.
+S: Estava chovendo, mas ela decidiu sair.
+
+C: Ainda que tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito, mas não passou na prova.
+
+C: Por mais que tenha tentado, ele não conseguiu convencê-la.
+S: Ele tentou muito, mas não conseguiu convencê-la.
+
+C: Mesmo que tenha se esforçado, ela não conseguiu alcançar seus objetivos.
+S: Ela se esforçou muito, mas não conseguiu alcançar seus objetivos.
+
+C: Embora tenha acordado cedo, ele chegou atrasado na reunião.
+S: Acordou cedo, mas chegou atrasado na reunião.
+
+C: A menos que chegue a tempo, não poderá participar da festa.
+S: Se não chegar a tempo, não poderá participar da festa.
+
+C: Se bem que tenha perdido a primeira partida, ele continuou jogando.
+S: Perdeu a primeira partida, mas continuou jogando.
+
+C: Conquanto esteja cansado, ele não quer parar de trabalhar.
+S: Está cansado, mas não quer parar de trabalhar.
+
+C: Nem que tenha que esperar horas, ele não desistirá de vê-la.
+S: Mesmo que tenha que esperar horas, ele não desistirá de vê-la.
+
+C: Por mais que acredite em sua inocência, ele não irá defendê-la.
+S: Acredita em sua inocência, mas não irá defendê-la.
+
+C: Embora ela tenha estudado muito, não passou no exame.
+S: Ela estudou muito, mas não passou no exame.
+
+C: Ainda que chovesse, ele foi ao treino de futebol.
+S: Mesmo que chovesse, ele foi ao treino de futebol.
+
+C: Apesar de estar cansado, ele continuou a trabalhar.
+S: Ele estava cansado, mas continuou a trabalhar.
+
+C: Por mais que ela tente, não consegue resolver o problema.
+S: Ela tenta, mas não consegue resolver o problema.
+
+C: Embora seja caro, ele decidiu comprar o carro.
+S: É caro, mas ele decidiu comprar o carro.
+
+C: Mesmo que perca o jogo, ele está feliz por ter jogado bem.
+S: Ele está feliz por ter jogado bem, mesmo que perca o jogo.
+
+C: A menos que chova, irei à praia.
+S: Irei à praia apenas se chover.
+
+C: Se bem que tente se explicar, ninguém acredita nele.
+S: Ele tenta se explicar, mas ninguém acredita nele.
+
+C: Conquanto haja dificuldades, ele está determinado a alcançar seus objetivos.
+S: Ele está determinado a alcançar seus objetivos, embora haja dificuldades.
+
+C: Por muito que estude, não aprende o suficiente.
+S: Estuda muito, mas não aprende o suficiente.
+
+C: Embora tenhamos trabalhado duro, não conseguimos alcançar nosso objetivo.
+S: Trabalhamos duro, mas não conseguimos alcançar nosso objetivo.
+
+C: Por mais que você estude, ainda assim precisa praticar para ter bons resultados.
+S: Você precisa praticar, mesmo que estude muito.
+
+C: Ainda que tenha chovido, o evento aconteceu conforme planejado.
+S: O evento aconteceu conforme planejado. Mas choveu.
+
+C: Apesar de termos feito todas as recomendações, o paciente não seguiu as orientações médicas.
+S: O paciente não seguiu as orientações médicas. Mas fizemos todas as recomendações.
+
+C: Mesmo que você discorde, ainda acredito que estou certo.
+S: Ainda acredito que estou certo. Mas mesmo que você discorde.
+
+C: Embora tenhamos chegado atrasados, conseguimos assistir ao show até o final.
+S: Conseguimos assistir ao show até o final. Mas chegamos atrasados.
+
+C: Por mais que eu tente, não consigo entender essa matéria.
+S: Não consigo entender essa matéria. Mas por mais que eu tente.
+
+C: Ainda que você não queira, precisamos resolver esse problema juntos.
+S: Precisamos resolver esse problema juntos. Mesmo que você não queira.
+
+C: Conquanto você não concorde, é importante considerar outras opiniões.
+S: É importante considerar outras opiniões. Mesmo que você não concorde.
+
+C: Apesar de não termos ganho o jogo, jogamos com muita dedicação.
+S: Jogamos com muita dedicação. Mas não ganhamos o jogo.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Ele estudou muito, mas não passou no exame.
+
+C: Ainda que esteja cansado, ele vai ao trabalho.
+S: Ele está cansado, mas vai ao trabalho.
+
+C: Por mais que tentem persuadi-la, ela não mudará de ideia.
+S: Tentam persuadi-la, mas ela não mudará de ideia.
+
+C: Apesar de ter chovido o dia todo, eles foram à praia.
+S: Choveu o dia todo, mas eles foram à praia.
+
+C: Mesmo que tenha errado, eu ainda confio nele.
+S: Ele errou, mas eu ainda confio nele.
+
+C: Embora eu não concorde com você, respeito sua opinião.
+S: Eu não concordo com você, mas respeito sua opinião.
+
+C: Posto que ele seja o mais qualificado, não foi escolhido para o cargo.
+S: Ele é o mais qualificado, mas não foi escolhido para o cargo.
+
+C: A menos que estude, você não vai conseguir passar na prova.
+S: Se você não estudar, não vai conseguir passar na prova.
+
+C: Se bem que tenha medo, ela enfrenta seus desafios.
+S: Ela tem medo, mas enfrenta seus desafios.
+
+C: Nem que chova, eu não vou desistir do meu objetivo.
+S: Mesmo que chova, eu não vou desistir do meu objetivo.
+
+C: Embora esteja chovendo, irei ao parque.
+S: Vou ao parque, mas está chovendo.
+
+C: Por mais que estude, não consigo entender a matéria.
+S: Não consigo entender a matéria, mas estudo muito.
+
+C: Ainda que esteja cansado, continuarei trabalhando.
+S: Continuarei trabalhando, mesmo estando cansado.
+
+C: Apesar de ter perdido a corrida, estou feliz com o meu desempenho.
+S: Estou feliz com o meu desempenho, apesar de ter perdido a corrida.
+
+C: Posto que não tenho dinheiro, não posso comprar aquela roupa.
+S: Não posso comprar aquela roupa, pois não tenho dinheiro.
+
+C: Mesmo que não concorde com ele, respeito a opinião do meu colega.
+S: Respeito a opinião do meu colega, mesmo não concordando com ele.
+
+C: Conquanto estejamos atrasados, chegaremos a tempo para a reunião.
+S: Chegaremos a tempo para a reunião, mesmo estando atrasados.
+
+C: Embora tenha tentado várias vezes, não consegui resolver o problema.
+S: Não consegui resolver o problema, mesmo tentando várias vezes.
+
+C: A menos que estude, não passarei no exame.
+S: Não passarei no exame, caso não estude.
+
+C: Se bem que tenha sido difícil, consegui completar a tarefa.
+S: Consegui completar a tarefa, mesmo que tenha sido difícil.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Ele estudou muito, mas não passou no exame.
+
+C: Ainda que tenha chovido muito, eles decidiram fazer o piquenique.
+S: Choveu muito, mas eles decidiram fazer o piquenique.
+
+C: Por mais que tenha se esforçado, ele não conseguiu alcançar seu objetivo.
+S: Ele se esforçou muito, mas não conseguiu alcançar seu objetivo.
+
+C: Embora esteja cansado, ele continua trabalhando.
+S: Ele está cansado, mas continua trabalhando.
+
+C: A menos que você estude, não vai tirar uma boa nota.
+S: Se você não estudar, não vai tirar uma boa nota.
+
+C: Por mais que tente, ele não consegue aprender a tocar violão.
+S: Ele tenta muito, mas não consegue aprender a tocar violão.
+
+C: Ainda que tenha acordado cedo, ele chegou atrasado na reunião.
+S: Ele acordou cedo, mas chegou atrasado na reunião.
+
+C: Conquanto ela tenha medo, decidiu enfrentar seus medos.
+S: Ela tem medo, mas decidiu enfrentar seus medos.
+
+C: Mesmo que tenham feito um planejamento, o projeto fracassou.
+S: Eles fizeram um planejamento, mas o projeto fracassou.
+
+C: Embora estejam distantes, eles mantêm contato constante.
+S: Eles estão distantes, mas mantêm contato constante.
+
+C: Embora o dia tenha amanhecido chuvoso, os estudantes foram para a escola.
+S: O dia amanheceu chuvoso. Mas os estudantes foram para a escola.
+
+C: Posto que estou cansado, vou dormir cedo hoje.
+S: Estou cansado. Mas vou dormir cedo hoje.
+
+C: Ainda que ele seja rico, não é feliz.
+S: Ele é rico. Mas não é feliz.
+
+C: Embora o trânsito esteja congestionado, preciso sair agora.
+S: O trânsito está congestionado. Mas preciso sair agora.
+
+C: Nem que eu tenha que correr, eu vou conseguir chegar a tempo.
+S: Tenho que correr. Mas vou conseguir chegar a tempo.
+
+C: Por mais que você estude, nunca vai saber tudo.
+S: Você estuda. Mas nunca vai saber tudo.
+
+C: Conquanto ele tenha falhado, merece uma segunda chance.
+S: Ele falhou. Mas merece uma segunda chance.
+
+C: Apesar de que ela seja inteligente, comete erros bobos.
+S: Ela é inteligente. Mas comete erros bobos.
+
+C: Por mais que te ofereçam dinheiro, não aceite suborno.
+S: Te oferecem dinheiro. Mas não aceite suborno.
+
+C: Por muito que você se esforce, nem sempre alcançará o resultado desejado.
+S: Você se esforça. Mas nem sempre alcançará o resultado desejado.
+
+C: Embora tenha chovido durante a viagem, conseguimos chegar ao nosso destino.
+S: Choveu durante a viagem. Mas conseguimos chegar ao nosso destino.
+
+C: Ainda que tenha chegado atrasado, ele conseguiu participar da reunião.
+S: Ele chegou atrasado. Mas conseguiu participar da reunião.
+
+C: Mesmo que seja difícil, não desista dos seus sonhos.
+S: É difícil, mas não desista dos seus sonhos.
+
+C: Conquanto não tenha muito dinheiro, ele viaja frequentemente.
+S: Ele não tem muito dinheiro. Mas viaja frequentemente.
+
+C: A menos que chova, iremos ao parque amanhã.
+S: Iremos ao parque amanhã. Mas apenas se não chover.
+
+C: Por mais que esteja cansado, ele continua estudando.
+S: Ele está cansado. Mas continua estudando.
+
+C: Embora ela não goste de animais, decidiu adotar um cachorro.
+S: Ela não gosta de animais. Mas decidiu adotar um cachorro.
+
+C: Mesmo que não tenha tempo, ele sempre encontra uma maneira de ajudar os outros.
+S: Ele não tem tempo. Mas sempre encontra uma maneira de ajudar os outros.
+
+C: Posto que esteja ocupado, ele se ofereceu para ajudar.
+S: Ele está ocupado. Mas se ofereceu para ajudar.
+
+C: Nem que chova muito, irei à festa de aniversário do meu amigo.
+S: Irei à festa de aniversário do meu amigo. Mesmo que chova muito.
+
+C: Embora tenha estudado bastante, não consegui passar na prova.
+S: Não consegui passar na prova. Mas estudei bastante.
+
+C: Por mais que me esforce, nunca consigo acertar esse exercício.
+S: Nunca consigo acertar esse exercício. Mas me esforço bastante.
+
+C: Ainda que você diga que está bem, eu sei que algo está te incomodando.
+S: Você diz que está bem. Mas eu sei que algo está te incomodando.
+
+C: Apesar de termos ensaiado bastante, a apresentação não correu conforme o planejado.
+S: A apresentação não correu conforme o planejado. Mas tínhamos ensaiado bastante.
+
+C: Mesmo que você não goste, precisamos ter essa conversa séria.
+S: Precisamos ter essa conversa séria. Mas mesmo que você não goste.
+
+C: Embora eu não concorde com você, respeito a sua opinião.
+S: Não concordo com você. Mas respeito a sua opinião.
+
+C: Por mais que tentemos, não conseguimos resolver esse problema.
+S: Não conseguimos resolver esse problema. Mas tentamos bastante.
+
+C: Ainda que tenha chovido, decidimos ir à praia mesmo assim.
+S: Decidimos ir à praia mesmo assim. Mas mesmo que tenha chovido.
+
+C: Conquanto esteja cansado, farei o meu melhor para te ajudar.
+S: Farei o meu melhor para te ajudar. Mas mesmo que esteja cansado.
+
+C: Embora tenha ganhado o jogo, o time não jogou bem.
+S: O time não jogou bem. Mas ganhou o jogo.
+
+C: Embora tenha estudado muito, ela não conseguiu passar na prova.
+S: Ela estudou muito. Mas não conseguiu passar na prova.
+
+C: O jogador de futebol marcou um gol incrível, ainda que estivesse machucado.
+S: O jogador de futebol marcou um gol incrível. Isso acontece mesmo que estivesse machucado.
+
+C: Por mais que tenha se esforçado, ele não foi promovido no trabalho.
+S: Ele se esforçou muito. Mas não foi promovido no trabalho.
+
+C: Ainda que tenha chovido, nós fomos à praia.
+S: Choveu, mas fomos à praia.
+
+C: Por mais que ela seja talentosa, não recebe o reconhecimento que merece.
+S: Ela é talentosa, mas não recebe o reconhecimento que merece.
+
+C: Embora tenha dormido bem, ele acordou cansado.
+S: Ele dormiu bem. Mas acordou cansado.
+
+C: A agenda estava lotada, ainda que o dia estivesse chuvoso.
+S: A agenda estava lotada. Isso acontece mesmo que o dia estivesse chuvoso.
+
+C: Por mais que tenha economizado dinheiro, ele não conseguiu comprar o carro.
+S: Ele economizou dinheiro. Mas não conseguiu comprar o carro.
+
+C: Embora tenha pedido desculpas, ela não foi perdoada.
+S: Ela pediu desculpas. Mas não foi perdoada.
+
+C: Mesmo que tenha treinado bastante, ele perdeu a competição.
+S: Ele treinou bastante. Mas perdeu a competição.
+
+C: Embora tenha estudado bastante, ele não conseguiu passar na prova.
+S: Ele estudou bastante, mas não conseguiu passar na prova.
+
+C: Mesmo que chova, eu irei ao parque.
+S: Vou ao parque, mesmo que chova.
+
+C: Ainda que seja difícil, precisamos encontrar uma solução.
+S: Precisamos encontrar uma solução, mesmo que seja difícil.
+
+C: Por mais que se esforce, ele não consegue entender o conceito.
+S: Ele não consegue entender o conceito, por mais que se esforce.
+
+C: Apesar de estar cansado, ele decidiu continuar trabalhando.
+S: Ele decidiu continuar trabalhando, apesar de estar cansado.
+
+C: A menos que você se apresse, perderemos o ônibus.
+S: Perderemos o ônibus, a menos que você se apresse.
+
+C: Se bem que ela tenha tentado, não conseguiu convencer os outros.
+S: Ela não conseguiu convencer os outros, mesmo que tenha tentado.
+
+C: Conquanto o projeto seja desafiador, estou disposto a enfrentá-lo.
+S: Estou disposto a enfrentar o projeto, conquanto seja desafiador.
+
+C: Nem que você peça 100 vezes, eu não vou emprestar meu carro.
+S: Eu não vou emprestar meu carro, nem que você peça 100 vezes.
+
+C: Por muito que você reclame, as regras não vão mudar.
+S: As regras não vão mudar, por muito que você reclame.
+
+C: Embora seja tarde, vamos tentar fazer a tarefa.
+S: Vamos tentar fazer a tarefa, mesmo que seja tarde.
+
+C: Por mais que estude, ele nunca consegue notas altas.
+S: Ele nunca consegue notas altas, por mais que estude.
+
+C: Ainda que chova, elas vão ao parque.
+S: Elas vão ao parque, mesmo que chova.
+
+C: Apesar de estar cansado, ele continua a trabalhar.
+S: Ele continua a trabalhar, apesar de estar cansado.
+
+C: Mesmo que pergunte mil vezes, ele não vai responder.
+S: Ele não vai responder, mesmo que pergunte mil vezes.
+
+C: Por mais que tente, ela não consegue abrir a caixa.
+S: Ela não consegue abrir a caixa, por mais que tente.
+
+C: A menos que ele mude de ideia, não vamos poder ir à festa.
+S: Não vamos poder ir à festa, a menos que ele mude de ideia.
+
+C: Mesmo que chova muito, ele vai sair de casa.
+S: Ele vai sair de casa, mesmo que chova muito.
+
+C: Embora eu esteja ocupado, vou tirar um tempo para ajudar.
+S: Vou tirar um tempo para ajudar, embora esteja ocupado.
+
+C: Por mais que ela se esforce, não consegue aprender matemática.
+S: Ela não consegue aprender matemática, por mais que se esforce.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito, mas não passou na prova.
+
+C: Ainda que não tenha muito dinheiro, ela viaja com frequência.
+S: Ela viaja com frequência, mesmo não tendo muito dinheiro.
+
+C: Por mais que tenha tentado, ele não conseguiu convencê-la.
+S: Ele tentou muito, mas não conseguiu convencê-la.
+
+C: Mesmo que esteja cansado, ele continua trabalhando.
+S: Ele está cansado, mas continua trabalhando.
+
+C: Embora seja um bom argumento, não é o suficiente para me convencer.
+S: É um bom argumento, mas não é suficiente para me convencer.
+
+C: A menos que chova, iremos ao parque amanhã.
+S: Se não chover, iremos ao parque amanhã.
+
+C: Por muito que tente, ele não consegue alcançar o sucesso.
+S: Ele tenta muito, mas não consegue alcançar o sucesso.
+
+C: Apesar de que seja difícil, ela está determinada a conseguir.
+S: É difícil, mas ela está determinada a conseguir.
+
+C: Por mais que insistam, eu não irei mudar minha opinião.
+S: Insistam o quanto quiserem, eu não irei mudar minha opinião.
+
+C: Se bem que chova, o evento acontecerá ao ar livre.
+S: Mesmo com a chuva, o evento acontecerá ao ar livre.
+
+C: Embora o dia esteja ensolarado, a temperatura está baixa.
+S: A temperatura está baixa. Mas o dia está ensolarado.
+
+C: Ainda que o projeto seja desafiador, estou disposto a enfrentá-lo.
+S: Estou disposto a enfrentar o projeto. Isso acontece mesmo que seja desafiador.
+
+C: Mesmo que tenha perdido o jogo, o time jogou muito bem.
+S: O time jogou muito bem. Mas mesmo assim perdeu o jogo.
+
+C: Apesar de estar cansado, eu vou continuar estudando.
+S: Eu vou continuar estudando. Mas estou cansado.
+
+C: Por mais que você tente me convencer, não vou mudar de ideia.
+S: Não vou mudar de ideia. Isso acontece mesmo que você tente me convencer.
+
+C: Conquanto haja dificuldades, precisamos seguir em frente.
+S: Precisamos seguir em frente. Mas há dificuldades.
+
+C:Embora tenha chovido muito, a festa foi um sucesso.
+S: A festa foi um sucesso. Mas choveu muito.
+
+C: O jogador marcou um gol mesmo que estivesse machucado.
+S: O jogador marcou um gol. Isso acontece mesmo que estivesse machucado.
+
+C: Apesar de ter estudado muito, não consegui passar na prova.
+S: Não consegui passar na prova. Mas estudei muito.
+
+C: Por mais que se esforce, ele não consegue melhorar seu desempenho.
+S: Ele não consegue melhorar seu desempenho. Isso acontece mesmo que se esforce.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Ele estudou muito. Mas não passou no exame.
+
+C: Ainda que tenha chovido o dia todo, decidimos sair para caminhar.
+S: Choveu o dia todo. Mas decidimos sair para caminhar.
+
+C: Por mais que se esforce, ele não consegue resolver o problema.
+S: Ele se esforça. Mas não consegue resolver o problema.
+
+C: Embora tenha acordado cedo, ela ainda está atrasada para o trabalho.
+S: Ela acordou cedo. Mas ainda está atrasada para o trabalho.
+
+C: Mesmo que seja perigoso, ela insiste em fazer paraquedismo.
+S: É perigoso. Mas ela insiste em fazer paraquedismo.
+
+C: Ainda que não goste de futebol, ele foi ao estádio assistir ao jogo.
+S: Ele não gosta de futebol. Mas foi ao estádio assistir ao jogo.
+
+C: Por mais que tente, ela não consegue entender a matéria.
+S: Ela tenta. Mas não consegue entender a matéria.
+
+C: Embora tenha ganhado na loteria, ele continua trabalhando.
+S: Ele ganhou na loteria. Mas continua trabalhando.
+
+C: Ainda que seja caro, ele comprou o novo celular.
+S: É caro. Mas ele comprou o novo celular.
+
+C: Por mais que se exercite, ela não consegue perder peso.
+S: Ela se exercita. Mas não consegue perder peso.
+
+C: Embora tenha estudado muito para a prova, ele ainda foi reprovado.
+S: Ele estudou muito para a prova, mas ainda foi reprovado.
+
+C: Apesar de ter chovido bastante, o passeio foi muito divertido.
+S: Choveu bastante, mas o passeio foi muito divertido.
+
+C: Ainda que tenhamos feito um bom trabalho, não conseguimos vencer o jogo.
+S: Fizemos um bom trabalho, mas não conseguimos vencer o jogo.
+
+C: Por mais que tente me convencer, não vou mudar de ideia.
+S: Tenta me convencer, mas não vou mudar de ideia.
+
+C: Embora tenha acordado cedo, ele ainda chegou atrasado.
+S: Ele acordou cedo, mas ainda chegou atrasado.
+
+C: Mesmo que tenha ganhado na loteria, ele continua trabalhando.
+S: Ganhou na loteria, mas continua trabalhando.
+
+C: Conquanto tenha sido advertido, ele continuou agindo de forma inadequada.
+S: Foi advertido, mas continuou agindo de forma inadequada.
+
+C: A menos que estude mais, você não vai passar na prova.
+S: Estuda mais, senão não vai passar na prova.
+
+C: Por mais que tenha se esforçado, ele não conseguiu alcançar seu objetivo.
+S: Se esforçou muito, mas não conseguiu alcançar seu objetivo.
+
+C: Se bem que tenha cometido alguns erros, ela foi promovida no trabalho.
+S: Cometeu alguns erros, mas foi promovida no trabalho.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Ele estudou muito, mas não passou no exame.
+
+C: Ainda que tenha chovido, fomos à praia.
+S: Choveu, mas fomos à praia.
+
+C: Apesar de estar cansado, ele foi trabalhar.
+S: Ele estava cansado, mas foi trabalhar.
+
+C: Por mais que tente, ele não consegue resolver o problema.
+S: Ele tenta, mas não consegue resolver o problema.
+
+C: Mesmo que tenha dinheiro, ele não quer viajar.
+S: Ele tem dinheiro, mas não quer viajar.
+
+C: Embora tenha se esforçado, ela não conseguiu a vaga.
+S: Ela se esforçou, mas não conseguiu a vaga.
+
+C: A menos que faça calor, não irei nadar.
+S: Não irei nadar, a menos que faça calor.
+
+C: Se bem que esteja ocupado, ele vai te ajudar.
+S: Ele está ocupado, mas vai te ajudar.
+
+C: Nem que peça desculpas, ele não aceitará.
+S: Ele não aceitará, nem que peça desculpas.
+
+C: Por muito que tente, ela não consegue se concentrar.
+S: Ela tenta muito, mas não consegue se concentrar.
+
+C: Embora tenha estudado muito, o aluno não conseguiu passar na prova.
+S: O aluno estudou muito. Mas ele não conseguiu passar na prova.
+
+C: Ainda que esteja chovendo, irei ao parque.
+S: Está chovendo. Isso acontece mesmo que irei ao parque.
+
+C: Por mais que tente, não consigo entender essa matéria.
+S: Tento bastante. Mas não consigo entender essa matéria.
+
+C: Apesar de ter acordado cedo, ainda não terminei meu trabalho.
+S: Acordei cedo. Mas ainda não terminei meu trabalho.
+
+C: Mesmo que tenha muitos problemas, ele está sempre feliz.
+S: Ele tem muitos problemas. Mas está sempre feliz.
+
+C: Posto que tenhamos brigado, ainda somos amigos.
+S: Brigamos. Mas ainda somos amigos.
+
+C: Se bem que discorde do seu ponto de vista, respeito a sua opinião.
+S: Discordo do seu ponto de vista. Mas respeito a sua opinião.
+
+C: Conquanto faça sol, ainda não vou à praia.
+S: Faz sol. Mas ainda não vou à praia.
+
+C: Por mais que me esforce, não consigo aprender a tocar piano.
+S: Me esforço muito. Mas não consigo aprender a tocar piano.
+
+C: Embora chegue sempre atrasado, ele nunca perde uma reunião.
+S: Ele chega sempre atrasado. Mas nunca perde uma reunião.
+
+C: Embora tenha estudado muito, ela não passou na prova.
+S: Ela estudou muito, mas não passou na prova.
+
+C: Ainda que tenha chovido durante o evento, todos se divertiram.
+S: Choveu durante o evento, mas todos se divertiram.
+
+C: Por mais que João tente, ele nunca consegue atingir seus objetivos.
+S: João tenta, mas nunca consegue atingir seus objetivos.
+
+C: Mesmo que esteja cansado, ele continuará a trabalhar.
+S: Ele está cansado, mas continuará a trabalhar.
+
+C: Embora tenha sido convidada, ela não compareceu à festa.
+S: Ela foi convidada, mas não compareceu à festa.
+
+C: A menos que estude para a prova, ele não terá uma boa nota.
+S: Ele não estudou para a prova, mas não terá uma boa nota.
+
+C: Se bem que tenha chovido, eles foram à praia.
+S: Choveu, mas eles foram à praia.
+
+C: Conquanto tenha perdido o jogo, ele se divertiu bastante com os amigos.
+S: Ele perdeu o jogo, mas se divertiu bastante com os amigos.
+
+C: Apesar de que tenha chegado atrasada, ela conseguiu participar da reunião.
+S: Ela chegou atrasada, mas conseguiu participar da reunião.
+
+C: Por mais que tenha tentado, ele não conseguiu abrir a porta.
+S: Ele tentou, mas não conseguiu abrir a porta.
+
+C: Embora tenha estudado muito, não conseguiu passar na prova.
+S: Não conseguiu passar na prova. Mas estudou muito.
+
+C: Ainda que esteja cansado, vou ao ginásio.
+S: Vou ao ginásio. Isso acontece mesmo que esteja cansado.
+
+C: Apesar de ter chovido muito, o evento não foi cancelado.
+S: O evento não foi cancelado. Mas choveu muito.
+
+C: Por mais que você insista, não irei desistir.
+S: Não irei desistir. Isso acontece mesmo que você insista.
+
+C: Conquanto tenha se esforçado, não conseguiu alcançar uma boa colocação.
+S: Não conseguiu alcançar uma boa colocação. Mas se esforçou.
+
+C: O time jogou bem, embora tenha perdido a partida.
+S: O time jogou bem. Mas perdeu a partida.
+
+C: Por mais que ela tente, não consegue entender o conceito.
+S: Não consegue entender o conceito. Isso acontece mesmo que ela tente.
+
+C: A festa foi muito divertida, mesmo que tenha chovido durante o evento.
+S: A festa foi muito divertida. Mas choveu durante o evento.
+
+C: Por mais que tenha economizado, não conseguiu comprar o carro novo.
+S: Não conseguiu comprar o carro novo. Isso acontece mesmo que tenha economizado.
+
+C: Embora tenha acordado cedo, chegou atrasado para a reunião.
+S: Chegou atrasado para a reunião. Mas acordou cedo.
+
+C: Embora tenha estudado muito, ele não conseguiu passar no exame.
+S: Ele estudou muito, mas não conseguiu passar no exame.
+
+C: Ainda que o dia esteja chuvoso, vou sair para correr.
+S: O dia está chuvoso, mas vou sair para correr.
+
+C: Apesar de ter acordado tarde, consegui chegar ao trabalho a tempo.
+S: Acordei tarde, mas consegui chegar ao trabalho a tempo.
+
+C: Por mais que protestem, a decisão já foi tomada.
+S: Protestem o quanto quiserem, mas a decisão já foi tomada.
+
+C: Mesmo que ele tenha se esforçado, não obteve resultados positivos.
+S: Ele se esforçou, mas não obteve resultados positivos.
+
+C: Embora tenha gostado da ideia, não posso apoiá-la.
+S: Gostei da ideia, mas não posso apoiá-la.
+
+C: Apesar de todas as dificuldades, eles conseguiram concluir o projeto.
+S: Tiveram muitas dificuldades, mas conseguiram concluir o projeto.
+
+C: Mesmo que eu não concorde com sua opinião, respeito seu ponto de vista.
+S: Não concordo com sua opinião, mas respeito seu ponto de vista.
+
+C: Ainda que tenha sido um desafio, valeu a pena enfrentá-lo.
+S: Foi um desafio, mas valeu a pena enfrentá-lo.
+
+C: Por mais que tente esconder, todos sabemos a verdade.
+S: Tente esconder o quanto quiser, todos sabemos a verdade.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito. Mas não passou na prova.
+
+C: Ainda que chovesse muito, decidimos sair de casa.
+S: Choveu muito. Mas decidimos sair de casa.
+
+C: Por mais que se esforce, ele nunca consegue alcançar seus objetivos.
+S: Ele se esforça muito. Mas nunca consegue alcançar seus objetivos.
+
+C: Apesar de não concordar, ele aceitou a decisão da maioria.
+S: Ele não concorda. Mas aceitou a decisão da maioria.
+
+C: Mesmo que chegue atrasado, ele sempre encontra um lugar para sentar.
+S: Ele chega atrasado. Mas sempre encontra um lugar para sentar.
+
+C: A menos que estude bastante, ele não será aprovado no exame.
+S: Ele não estuda bastante. Mas não será aprovado no exame.
+
+C: Se bem que tenha se esforçado, ainda não conseguiu alcançar seu objetivo.
+S: Ele se esforçou. Mas ainda não conseguiu alcançar seu objetivo.
+
+C: Conquanto haja dificuldades, ele não desiste facilmente.
+S: Há dificuldades. Mas ele não desiste facilmente.
+
+C: Nem que chova muito, eu vou sair para correr.
+S: Chove muito. Mas eu vou sair para correr.
+
+C: Posto que tenha bons argumentos, ele não consegue convencer ninguém.
+S: Ele tem bons argumentos. Mas não consegue convencer ninguém.
+
+C: Apesar de estar cansado, ele decidiu ir ao cinema.
+S: Ele decidiu ir ao cinema, mas está cansado.
+
+C: Mesmo que estude bastante, ela ainda tem dificuldade em matemática.
+S: Ela ainda tem dificuldade em matemática, mas estuda bastante.
+
+C: Ainda que tenha chovido muito, o jogo de futebol não foi cancelado.
+S: O jogo de futebol não foi cancelado, mesmo que tenha chovido muito.
+
+C: Embora tenha estudado para a prova, ele não conseguiu obter uma boa nota.
+S: Ele não conseguiu obter uma boa nota, mesmo que tenha estudado para a prova.
+
+C: Por mais que tenha tentado, ela não conseguiu abrir a porta.
+S: Ela não conseguiu abrir a porta, por mais que tenha tentado.
+
+C: A despeito do trânsito intenso, ele chegou ao trabalho no horário.
+S: Ele conseguiu chegar ao trabalho no horário, apesar do trânsito intenso.
+
+C: Mesmo que tenha acordado cedo, ele ainda está atrasado para a reunião.
+S: Ele ainda está atrasado para a reunião, mesmo que tenha acordado cedo.
+
+C: Ainda que tenha pedido desculpas, ela não foi perdoada.
+S: Ela não foi perdoada, mesmo que tenha pedido desculpas.
+
+C: Embora tenha se esforçado, ele não foi selecionado para a equipe.
+S: Ele não foi selecionado para a equipe, embora tenha se esforçado.
+
+C: Por mais que tenha estudado, ele não conseguiu entender o conteúdo.
+S: Ele não conseguiu entender o conteúdo, por mais que tenha estudado.
+
+C: Embora tenha estudado muito, João não passou no exame.
+S: João estudou muito, mas não passou no exame.
+
+C: Ainda que tenhamos muito trabalho, vamos conseguir concluir o projeto a tempo.
+S: Temos muito trabalho, mas vamos conseguir concluir o projeto a tempo.
+
+C: Por mais que você se esforce, às vezes as coisas não saem como planejado.
+S: Você se esforça, mas às vezes as coisas não saem como planejado.
+
+C: Apesar de ter chovido bastante, o jogo foi realizado.
+S: Choveu bastante, mas o jogo foi realizado.
+
+C: Mesmo que você queira, não poderá participar da reunião.
+S: Você quer, mas não poderá participar da reunião.
+
+C: Embora tenha chegado tarde, ele ainda conseguiu participar da apresentação.
+S: Ele chegou tarde, mas ainda conseguiu participar da apresentação.
+
+C: A menos que você estude, não vai conseguir passar na prova.
+S: Você não estuda, então não vai conseguir passar na prova.
+
+C: Por mais que ele se esforce, nunca consegue alcançar os resultados desejados.
+S: Ele se esforça, mas nunca consegue alcançar os resultados desejados.
+
+C: Mesmo que o tempo esteja ruim, vamos sair para passear.
+S: O tempo está ruim, mas vamos sair para passear.
+
+C: Embora tenha se machucado, ele continuou jogando até o final da partida.
+S: Ele se machucou, mas continuou jogando até o final da partida.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Ele estudou muito, mas não passou no exame.
+
+C: Ainda que estivesse chovendo, eles decidiram sair de casa.
+S: Estava chovendo, mas eles decidiram sair de casa.
+
+C: Por mais que tenha se esforçado, ela não conseguiu alcançar o objetivo.
+S: Ela se esforçou, mas não conseguiu alcançar o objetivo.
+
+C: Mesmo que tenhamos enfrentado dificuldades, não desistimos do nosso sonho.
+S: Enfrentamos dificuldades, mas não desistimos do nosso sonho.
+
+C: Embora a viagem tenha sido cansativa, valeu a pena conhecer aquele lugar.
+S: A viagem foi cansativa, mas valeu a pena conhecer aquele lugar.
+
+C: A menos que você estude, não vai conseguir tirar uma boa nota na prova.
+S: Você não vai conseguir tirar uma boa nota na prova, a menos que estude.
+
+C: Se bem que ele tenha cometido erros, ele é uma pessoa honesta.
+S: Ele cometeu erros, mas ele é uma pessoa honesta.
+
+C: Nem que você me peça de joelhos, eu não vou aceitar sua proposta.
+S: Mesmo que você me peça de joelhos, eu não vou aceitar sua proposta.
+
+C: Por mais que tenha tentado convencer os outros, ninguém acreditou nele.
+S: Ele tentou convencer os outros, mas ninguém acreditou nele.
+
+C: Apesar de que ela estivesse cansada, ela continuou a trabalhar.
+S: Ela estava cansada, mas continuou a trabalhar.
+
+C: Embora tenha estudado bastante, João não conseguiu passar no exame.
+S: João estudou bastante, mas não conseguiu passar no exame.
+
+C: Apesar de ter se esforçado, Maria não foi promovida.
+S: Maria se esforçou, mas não foi promovida.
+
+C: Mesmo que o tempo esteja ruim, iremos ao parque.
+S: O tempo está ruim, mas iremos ao parque.
+
+C: Ainda que não tenha dinheiro, ela continua comprando roupas novas.
+S: Ela não tem dinheiro, mas continua comprando roupas novas.
+
+C: Por mais que tenham se preparado, os atletas não conseguiram vencer o jogo.
+S: Os atletas se prepararam, mas não conseguiram vencer o jogo.
+
+C: Embora tenha acordado cedo, ele ainda chegou atrasado.
+S: Ele acordou cedo, mas ainda chegou atrasado.
+
+C: Mesmo que esteja cansada, ela não consegue dormir cedo.
+S: Ela está cansada, mas não consegue dormir cedo.
+
+C: Ainda que não tenha experiência, ele foi contratado para o cargo.
+S: Ele não tem experiência, mas foi contratado para o cargo.
+
+C: Por mais que a comida esteja salgada, ela continua comendo.
+S: A comida está salgada, mas ela continua comendo.
+
+C: Embora tenha chovido, o evento não foi cancelado.
+S: Choveu, mas o evento não foi cancelado.
+
+C: Embora estejamos atrasados, ainda chegaremos a tempo para o evento.
+S: Estamos atrasados, mas ainda chegaremos a tempo para o evento.
+
+C: Por mais que estude, ele continua tendo dificuldades nas provas.
+S: Ele estuda muito, mas continua tendo dificuldades nas provas.
+
+C: Apesar de ter sido condenado, ele continua se considerando inocente.
+S: Ele foi condenado, mas continua se considerando inocente.
+
+C: Ainda que seja difícil, devemos tentar resolver esse problema.
+S: É difícil, mas devemos tentar resolver esse problema.
+
+C: Embora não concorde com você, respeito sua opinião.
+S: Não concordo com você, mas respeito sua opinião.
+
+C: Apesar de ter se machucado, ele decidiu continuar correndo.
+S: Ele se machucou, mas decidiu continuar correndo.
+
+C: Mesmo que o tempo esteja ruim, eles insistem em fazer o passeio.
+S: O tempo está ruim, mas eles insistem em fazer o passeio.
+
+C: A menos que estudemos, não passaremos na prova.
+S: Se não estudarmos, não passaremos na prova.
+
+C: Embora esteja cansado, ele está determinado a terminar o trabalho hoje.
+S: Ele está cansado, mas está determinado a terminar o trabalho hoje.
+
+C: Por mais que eu tente convencê-lo, ele sempre me ignora.
+S: Eu tento convencê-lo, mas ele sempre me ignora.
+
+C: Embora tenha estudado muito, ele não conseguiu passar no exame.
+S: Ele não conseguiu passar no exame, mesmo tendo estudado muito.
+
+C: Por mais que se esforce, ele nunca alcança os resultados desejados.
+S: Ele nunca alcança os resultados desejados, por mais que se esforce.
+
+C: Ainda que tenha chovido, iremos fazer o passeio.
+S: Iremos fazer o passeio, mesmo tendo chovido.
+
+C: Apesar de estar cansado, ele decidiu ir à festa.
+S: Ele decidiu ir à festa, apesar de estar cansado.
+
+C: Posto que tenha cometido erros, eu ainda confio nele.
+S: Eu ainda confio nele, mesmo que tenha cometido erros.
+
+C: Nem que tenha que acordar cedo, ele não vai desistir.
+S: Ele não vai desistir, nem que tenha que acordar cedo.
+
+C: Se bem que tenha se machucado, ela continuou a corrida.
+S: Ela continuou a corrida, se bem que tenha se machucado.
+
+C: Mesmo que tenha sido difícil, ele conseguiu alcançar seu objetivo.
+S: Ele conseguiu alcançar seu objetivo, mesmo que tenha sido difícil.
+
+C: A menos que tenha uma solução melhor, vamos continuar com esse plano.
+S: Vamos continuar com esse plano, a menos que tenha uma solução melhor.
+
+C: Por muito que insistam, eu não vou mudar de ideia.
+S: Eu não vou mudar de ideia, por muito que insistam.
+
+C: Embora tenha estudado muito, não consegui passar na prova.
+S: Não consegui passar na prova. Mas estudei muito.
+
+C: Por mais que se esforcem, eles nunca alcançarão o sucesso.
+S: Eles nunca alcançarão o sucesso. Mas se esforçam muito.
+
+C: Ainda que esteja cansado, continuarei trabalhando.
+S: Continuarei trabalhando. Isso acontece mesmo que esteja cansado.
+
+C: Apesar de ter chovido, fizemos o passeio.
+S: Fizemos o passeio. Mas choveu.
+
+C: Embora tenha acordado cedo, perdi o ônibus.
+S: Perdi o ônibus. Mas acordei cedo.
+
+C: Mesmo que não gostem, precisam respeitar as regras.
+S: Precisam respeitar as regras. Isso acontece mesmo que não gostem.
+
+C: Por mais que se esforce, ele nunca será reconhecido.
+S: Ele nunca será reconhecido. Mas se esforça muito.
+
+C: Ainda que tenha dinheiro, não sou feliz.
+S: Não sou feliz. Apesar de ter dinheiro.
+
+C: Apesar de ter se dedicado, não foi selecionado para a vaga.
+S: Não foi selecionado para a vaga. Apesar de ter se dedicado.
+
+C: Mesmo que estude muito, não garanto que você vá passar na prova.
+S: Não garanto que você vá passar na prova. Mesmo que estude muito.
+
+C: Embora tenha estudado bastante, ele não passou na prova.
+S: Ele estudou bastante, mas não passou na prova.
+
+C: Ainda que o dia estivesse chuvoso, eles resolveram fazer o passeio.
+S: O dia estava chuvoso, mas eles resolveram fazer o passeio.
+
+C: Por mais que a situação seja difícil, não vamos desistir.
+S: A situação é difícil, mas não vamos desistir.
+
+C: Mesmo que ela seja rica, não se importa com dinheiro.
+S: Ela é rica, mas não se importa com dinheiro.
+
+C: A menos que chova, iremos ao parque amanhã.
+S: Se não chover, iremos ao parque amanhã.
+
+C: Se bem que estava cansado, ele ainda conseguiu terminar o projeto.
+S: Ele estava cansado, mas ainda conseguiu terminar o projeto.
+
+C: Conquanto tenha se atrasado, ela não perdeu o trem.
+S: Ela se atrasou, mas não perdeu o trem.
+
+C: Nem que eu tenha que ficar até tarde, eu vou terminar esse trabalho.
+S: Eu vou terminar esse trabalho, mesmo que tenha que ficar até tarde.
+
+C: Apesar de que não temos muito tempo, podemos realizar o projeto.
+S: Nós podemos realizar o projeto, mesmo que não tenhamos muito tempo.
+
+C: Por mais que ele insista, não vou ceder.
+S: Ele insiste, mas não vou ceder.
+
+C: Embora estivesse chovendo, Maria decidiu sair para correr.
+S: Maria decidiu sair para correr. Mas estava chovendo.
+
+C: Ainda que todos discordem, continuo acreditando na minha opinião.
+S: Continuo acreditando na minha opinião. Isso acontece mesmo que todos discordem.
+
+C: Por mais que estivesse com sono, João estudou até tarde da noite.
+S: João estudou até tarde da noite. Mas estava com sono.
+
+C: Mesmo que fosse difícil, Pedro conseguiu terminar o projeto a tempo.
+S: Pedro conseguiu terminar o projeto a tempo. Isso acontece mesmo que fosse difícil.
+
+C: Embora estivesse cansado, Marcos decidiu continuar trabalhando.
+S: Marcos decidiu continuar trabalhando. Mas estava cansado.
+
+C: A menos que tudo dê errado, iremos viajar no próximo final de semana.
+S: Iremos viajar no próximo final de semana. Mas tudo precisa dar errado para que isso não aconteça.
+
+C: Por muito que tentasse, Maria não conseguiu resolver o problema.
+S: Maria não conseguiu resolver o problema. Isso acontece por muito que ela tentasse.
+
+C: Embora estivesse com medo, Carlos decidiu enfrentar seus medos.
+S: Carlos decidiu enfrentar seus medos. Mas estava com medo.
+
+C: Por mais que estivesse ocupado, João fez tempo para ajudar seu amigo.
+S: João fez tempo para ajudar seu amigo. Isso acontece por mais que ele estivesse ocupado.
+
+C: Ainda que não gostasse do filme, Maria decidiu assisti-lo até o final.
+S: Maria decidiu assisti-lo até o final. Mas não gostava do filme.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele estudou muito, mas não conseguiu passar na prova.
+
+C: Ainda que tenha chovido bastante, decidimos ir ao parque.
+S: Choveu bastante, mas decidimos ir ao parque.
+
+C: Por mais que esteja cansada, ela não desiste.
+S: Ela está cansada, mas não desiste.
+
+C: Mesmo que tenha se esforçado, ele não foi promovido.
+S: Ele se esforçou, mas não foi promovido.
+
+C: Embora tenha tido a oportunidade, ele não aproveitou.
+S: Ele teve a oportunidade, mas não aproveitou.
+
+C: Por mais que tenha se machucado, ele continuou jogando.
+S: Ele se machucou, mas continuou jogando.
+
+C: Ainda que tenha ocorrido um acidente, ninguém se feriu.
+S: Ocorreu um acidente, mas ninguém se feriu.
+
+C: Mesmo que tenha estudado pouco, ele conseguiu uma boa nota.
+S: Ele estudou pouco, mas conseguiu uma boa nota.
+
+C: Embora tenha morado em diferentes países, ele não fala outros idiomas.
+S: Ele morou em diferentes países, mas não fala outros idiomas.
+
+C: Por mais que tenha se esforçado, ela não conseguiu alcançar seu objetivo.
+S: Ela se esforçou, mas não conseguiu alcançar seu objetivo.
+
+C: Embora esteja chovendo, irei ao parque.
+S: Está chovendo. Mas irei ao parque.
+
+C: Mesmo que você não concorde, vou seguir em frente.
+S: Você não concorda. Mas vou seguir em frente.
+
+C: Ainda que ela seja muito inteligente, não é uma boa líder.
+S: Ela é muito inteligente. Mas não é uma boa líder.
+
+C: Por mais que você tente, nunca será perfeito.
+S: Você tenta. Mas nunca será perfeito.
+
+C: Apesar de estar cansado, vou continuar estudando.
+S: Estou cansado. Mas vou continuar estudando.
+
+C: Embora não tenha dinheiro, comprarei aquele livro.
+S: Não tenho dinheiro. Mas comprarei aquele livro.
+
+C: Mesmo que ele seja meu amigo, não posso aceitar essa atitude.
+S: Ele é meu amigo. Mas não posso aceitar essa atitude.
+
+C: Ainda que você insista, não vou mudar de ideia.
+S: Você insiste. Mas não vou mudar de ideia.
+
+C: Por mais que seja difícil, vou perseverar.
+S: É difícil. Mas vou perseverar.
+
+C: Apesar de estarmos atrasados, chegaremos a tempo.
+S: Estamos atrasados. Mas chegaremos a tempo.
+
+C: Embora tenha estudado muito, Jorge não conseguiu passar no exame.
+S: Jorge estudou muito, mas não conseguiu passar no exame.
+
+C: Mesmo que chova, iremos ao parque.
+S: Iremos ao parque, mesmo que chova.
+
+C: Ainda que esteja cansado, João continuará trabalhando.
+S: João continuará trabalhando, mesmo que esteja cansado.
+
+C: Por mais que o carro seja novo, está apresentando problemas mecânicos.
+S: O carro está apresentando problemas mecânicos, por mais que seja novo.
+
+C: Embora tenhamos feito o possível, não conseguimos ganhar o jogo.
+S: Não conseguimos ganhar o jogo, embora tenhamos feito o possível.
+
+C: A menos que estude mais, não terá boas notas na prova.
+S: Não terá boas notas na prova, a menos que estude mais.
+
+C: Mesmo que você seja meu amigo, não posso lhe emprestar dinheiro.
+S: Não posso lhe emprestar dinheiro, mesmo que você seja meu amigo.
+
+C: Embora tenha acordado cedo, perdeu o ônibus.
+S: Perdeu o ônibus, embora tenha acordado cedo.
+
+C: Por mais que tente, não consigo resolver esse problema.
+S: Não consigo resolver esse problema, por mais que tente.
+
+C: Ainda que tenha dinheiro, não vou comprar um carro novo.
+S: Não vou comprar um carro novo, mesmo que tenha dinheiro.
+
+C: Embora tenha estudado bastante, ele não passou na prova.
+S: Ele não passou na prova. Mas estudou bastante.
+
+C: Apesar de já estar atrasado, ele parou para ajudar o homem na estrada.
+S: Ele parou para ajudar o homem na estrada. Mas já estava atrasado.
+
+C: Ainda que seja perigoso, ele decidiu enfrentar o desafio.
+S: Ele decidiu enfrentar o desafio. Isso acontece mesmo que seja perigoso.
+
+C: Mesmo que chova, iremos ao parque fazer um piquenique.
+S: Iremos ao parque fazer um piquenique. Isso acontece mesmo que chova.
+
+C: Por mais que se esforce, ele nunca atinge seus objetivos.
+S: Ele nunca atinge seus objetivos. Mas se esforça muito.
+
+C: Embora tenha acontecido um acidente, todos saíram ilesos.
+S: Todos saíram ilesos. Mas aconteceu um acidente.
+
+C: A menos que você estude, não vai conseguir passar na prova.
+S: Você não vai conseguir passar na prova. A menos que estude.
+
+C: Mesmo que se arrependa, as consequências permanecerão.
+S: As consequências permanecerão. Isso acontece mesmo que se arrependa.
+
+C: Se bem que seja difícil, é possível alcançar seus sonhos.
+S: É possível alcançar seus sonhos. Isso acontece mesmo que seja difícil.
+
+C: Por mais que tente explicar, ele não vai entender.
+S: Ele não vai entender. Por mais que tente explicar.
+
+C: Embora tenhamos estudado bastante, não conseguimos obter uma nota alta na prova.
+S: Não conseguimos obter uma nota alta na prova. Mas estudamos bastante.
+
+C: Mesmo que você seja meu melhor amigo, não posso emprestar dinheiro para você.
+S: Não posso emprestar dinheiro para você. Isso acontece mesmo que você seja meu melhor amigo.
+
+C: O carro é muito caro, embora tenha uma ótima reputação.
+S: O carro tem uma ótima reputação. Mas é muito caro.
+
+C: Ainda que ela seja talentosa, não foi selecionada para o papel principal.
+S: Não foi selecionada para o papel principal. Isso acontece mesmo que ela seja talentosa.
+
+C: Por mais que a cidade seja bonita, tem muitos problemas de infraestrutura.
+S: A cidade tem muitos problemas de infraestrutura. Isso acontece mesmo que seja bonita.
+
+C: Apesar de ter estudado bastante, o aluno não conseguiu passar na prova.
+S: O aluno não conseguiu passar na prova. Mas estudou bastante.
+
+C: Mesmo que chova, irei ao parque fazer um piquenique.
+S: Irei ao parque fazer um piquenique. Isso acontece mesmo que chova.
+
+C: A menos que você seja rápido, vai perder o ônibus.
+S: Vai perder o ônibus. Isso acontece a menos que você seja rápido.
+
+C: Se bem que ele seja famoso, não é uma pessoa arrogante.
+S: Ele não é uma pessoa arrogante. Mas é famoso.
+
+C: Por mais que eu tente, não consigo entender essa matéria.
+S: Não consigo entender essa matéria. Isso acontece por mais que eu tente.
+
+C: Embora tenha chovido muito, o jogo de futebol aconteceu normalmente.
+S: O jogo de futebol aconteceu normalmente. Mas choveu muito.
+
+C: Ainda que tenha estudado muito, ela não passou na prova.
+S: Ela não passou na prova. Isso acontece mesmo que tenha estudado muito.
+
+C: Por mais que se esforce, ele não consegue resolver o problema.
+S: Ele não consegue resolver o problema. Isso acontece mesmo que se esforce.
+
+C: Mesmo que tenha se machucado, ele continuou correndo até o final.
+S: Ele continuou correndo até o final. Mas se machucou.
+
+C: Apesar de estar cansado, ele decidiu sair com os amigos.
+S: Ele decidiu sair com os amigos. Mesmo que esteja cansado.
+
+C: Embora tenha medo de altura, ele decidiu fazer paraquedismo.
+S: Ele decidiu fazer paraquedismo. Mas tem medo de altura.
+
+C: Mesmo que seja caro, vou comprar aquele vestido.
+S: Vou comprar aquele vestido. Isso acontece mesmo que seja caro.
+
+C: Por mais que tenha tentado, ele não conseguiu convencer os outros.
+S: Ele não conseguiu convencer os outros. Isso acontece mesmo que tenha tentado.
+
+C: Ainda que não tenha experiência, ela foi contratada para o cargo.
+S: Ela foi contratada para o cargo. Mesmo que não tenha experiência.
+
+C: Mesmo que a viagem seja longa, nós vamos de carro.
+S: Nós vamos de carro. Isso acontece mesmo que a viagem seja longa.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele não passou na prova. Mas estudou muito.
+
+C: Ainda que chovam, iremos ao parque.
+S: Iremos ao parque. Isso acontece mesmo que chovam.
+
+C: Por mais que eu tente, não consigo entender.
+S: Não consigo entender. Por mais que eu tente.
+
+C: Embora tenha acordado cedo, ele chegou atrasado.
+S: Ele chegou atrasado. Mas acordou cedo.
+
+C: A menos que chova, iremos fazer um piquenique.
+S: Iremos fazer um piquenique. A menos que chova.
+
+C: Mesmo que eu não concorde, respeito a sua opinião.
+S: Respeito a sua opinião. Mesmo que eu não concorde.
+
+C: Por mais que estude, ela sempre tira notas baixas.
+S: Ela sempre tira notas baixas. Por mais que estude.
+
+C: Apesar de estar cansado, ele decidiu correr a maratona.
+S: Ele decidiu correr a maratona. Apesar de estar cansado.
+
+C: Se bem que foi difícil, conseguimos chegar ao topo da montanha.
+S: Conseguimos chegar ao topo da montanha. Se bem que foi difícil.
+
+C: Nem que chova muito, eu vou ao baile.
+S: Eu vou ao baile. Nem que chova muito.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele não passou na prova. Mas estudou muito.
+
+C: Ainda que tenha confiança no time, não acredito que eles vão ganhar o campeonato.
+S: Não acredito que eles vão ganhar o campeonato. Mas tenho confiança no time.
+
+C: Por mais que tenha tentado convencê-lo, ele não mudou de opinião.
+S: Ele não mudou de opinião. Mas tentei convencê-lo.
+
+C: Mesmo que tenha dinheiro, não significa que seja feliz.
+S: Não significa que seja feliz. Mas tem dinheiro.
+
+C: Apesar de ter chovido, o evento foi um sucesso.
+S: O evento foi um sucesso. Mas choveu.
+
+C: Por mais que tenha sido criticado, ele continuou seguindo em frente.
+S: Ele continuou seguindo em frente. Mas foi criticado.
+
+C: A menos que se preparem bem, não vão alcançar a nota necessária.
+S: Não vão alcançar a nota necessária. A menos que se preparem bem.
+
+C: Por muito que esteja cansado, ele não quer desistir.
+S: Ele não quer desistir. Por muito que esteja cansado.
+
+C: Embora tenha feito um bom trabalho, ele não foi reconhecido.
+S: Ele não foi reconhecido. Mas fez um bom trabalho.
+
+C: Conquanto tenha se atrasado, ele conseguiu chegar a tempo.
+S: Ele conseguiu chegar a tempo. Conquanto tenha se atrasado.
+
+C: Embora tenha estudado muito, eu não consegui passar na prova.
+S: Eu não consegui passar na prova, mesmo estudando muito.
+
+C: Ainda que faça sol, eu não vou à praia.
+S: Eu não vou à praia, mesmo fazendo sol.
+
+C: Por mais que se esforce, ele não consegue resolver o exercício.
+S: Ele não consegue resolver o exercício, por mais que se esforce.
+
+C: Apesar de estar cansado, ele decidiu ir ao treino.
+S: Ele decidiu ir ao treino, mesmo estando cansado.
+
+C: Mesmo que você não queira, terá que fazer o trabalho.
+S: Você terá que fazer o trabalho, mesmo não querendo.
+
+C: Embora tenha chegado atrasado, ele conseguiu fazer a apresentação.
+S: Ele conseguiu fazer a apresentação, mesmo tendo chegado atrasado.
+
+C: A menos que chova, iremos ao parque amanhã.
+S: Iremos ao parque amanhã, a menos que chova.
+
+C: Se bem que ele seja inteligente, cometeu um erro bobo no trabalho.
+S: Ele cometeu um erro bobo no trabalho, mesmo sendo inteligente.
+
+C: Por muito que você estude, ainda terá dificuldades com essa matéria.
+S: Você ainda terá dificuldades com essa matéria, por muito que estude.
+
+C: Nem que você peça, não vou emprestar meu carro.
+S: Eu não vou emprestar meu carro, nem que você peça.
+
+C: O projeto foi aprovado, embora muitos questionem sua eficácia.
+S: Muitos questionam a eficácia do projeto. Mas ele foi aprovado.
+
+C: Ainda que tenha chovido bastante, a festa foi um sucesso.
+S: A festa foi um sucesso. Isso acontece mesmo que tenha chovido bastante.
+
+C: Mesmo que tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele não conseguiu passar na prova. Mesmo que tenha estudado muito.
+
+C: Por mais que você tente, não conseguirá convencê-lo.
+S: Não conseguirá convencê-lo. Por mais que você tente.
+
+C: Embora o trânsito tenha piorado, cheguei ao trabalho no horário.
+S: Cheguei ao trabalho no horário. Mas o trânsito piorou.
+
+C: A menos que se esforce, não obterá bons resultados.
+S: Não obterá bons resultados. A menos que se esforce.
+
+C: Mesmo que eu discorde, respeito sua opinião.
+S: Respeito sua opinião. Mesmo que eu discorde.
+
+C: Apesar de ela ter se esforçado, não conseguiu terminar o projeto a tempo.
+S: Ela não conseguiu terminar o projeto a tempo. Apesar de ter se esforçado.
+
+C: Se bem que você esteja certo em alguns pontos, ainda acho que está errado.
+S: Ainda acho que você está errado. Se bem que esteja certo em alguns pontos.
+
+C: Por muito que você tente me convencer, não mudarei de ideia.
+S: Não mudarei de ideia. Por muito que você tente me convencer.
+
+C: Embora estivesse chovendo, João foi correr no parque.
+S: João foi correr no parque. Mas estava chovendo.
+
+C: Por mais que a prova estivesse difícil, ela conseguiu passar.
+S: Ela conseguiu passar. Isso aconteceu mesmo que a prova estivesse difícil.
+
+C: Ainda que seja tarde, vou sair para jantar.
+S: Vou sair para jantar. Mas mesmo que seja tarde.
+
+C: Mesmo que estejamos cansados, precisamos terminar esse trabalho.
+S: Precisamos terminar esse trabalho. Mesmo que estejamos cansados.
+
+C: Embora tenha perdido o jogo, o time jogou muito bem.
+S: O time jogou muito bem. Mas perdeu o jogo.
+
+C: A menos que você me peça desculpas, não vou perdoar.
+S: Não vou perdoar. A menos que você me peça desculpas.
+
+C: Se bem que ele seja inteligente, cometeu um erro bobo.
+S: Ele cometeu um erro bobo. Mas mesmo que seja inteligente.
+
+C: Nem que chova muito, vou esperar você no ponto de ônibus.
+S: Vou esperar você no ponto de ônibus. Nem que chova muito.
+
+C: Apesar de que tenha acabado o dinheiro, eu ainda vou viajar.
+S: Eu ainda vou viajar. Apesar de que tenha acabado o dinheiro.
+
+C: Por mais que esteja frio, ela se recusa a colocar um casaco.
+S: Ela se recusa a colocar um casaco. Por mais que esteja frio.
+
+C: Embora tenha estudado muito, não consegui uma boa nota na prova.
+S: Não consegui uma boa nota na prova. Mas estudei muito.
+
+C: Ainda que tenha chovido bastante ontem, o jogo de futebol não foi cancelado.
+S: O jogo de futebol não foi cancelado. Isso acontece mesmo que tenha chovido bastante ontem.
+
+C: Por mais que tenha insistido, ele não mudou de ideia.
+S: Ele não mudou de ideia. Por mais que tenha insistido.
+
+C: Mesmo que sejamos amigos há anos, nem sempre concordamos em tudo.
+S: Nem sempre concordamos em tudo. Mesmo que sejamos amigos há anos.
+
+C: Apesar de não ter experiência na área, fui contratado para o emprego.
+S: Fui contratado para o emprego. Apesar de não ter experiência na área.
+
+C: Embora tenha acordado cedo, ainda me atrasei para a reunião.
+S: Ainda me atrasei para a reunião. Mas acordei cedo.
+
+C: Por mais que tenha tentado, não consegui resolver o problema.
+S: Não consegui resolver o problema. Por mais que tenha tentado.
+
+C: Mesmo que o ambiente seja favorável, é importante tomar precauções.
+S: É importante tomar precauções. Mesmo que o ambiente seja favorável.
+
+C: Ainda que tenha economizado dinheiro, não consigo comprar um carro novo.
+S: Não consigo comprar um carro novo. Ainda que tenha economizado dinheiro.
+
+C: Por mais que tenha se esforçado, ele não foi promovido no trabalho.
+S: Ele não foi promovido no trabalho. Por mais que tenha se esforçado.
+
+C: Embora tenha chovido o dia todo, nós fomos à praia.
+S: Nós fomos à praia. Mas choveu o dia todo.
+
+C: Ainda que esteja cansado, vou continuar estudando.
+S: Vou continuar estudando. Isso acontece mesmo que esteja cansado.
+
+C: Por mais que eu tente, não consigo entender essa matéria.
+S: Eu não consigo entender essa matéria. Mas por mais que eu tente.
+
+C: Conquanto ele tenha insistido, eu não emprestei meu carro.
+S: Eu não emprestei meu carro. Mas ele insistiu.
+
+C: Mesmo que ela não queira, vamos levá-la à festa.
+S: Vamos levá-la à festa. Isso acontece mesmo que ela não queira.
+
+C: A menos que você estude, não vai passar na prova.
+S: Você não vai passar na prova. Mas a menos que estude.
+
+C: Apesar de que fez calor, eu usei um casaco.
+S: Eu usei um casaco. Mas fez calor.
+
+C: Ainda que o avião tenha atrasado, chegamos ao nosso destino a tempo.
+S: Chegamos ao nosso destino a tempo. Mas o avião atrasou.
+
+C: Por mais que eu tente, não consigo dormir cedo.
+S: Eu não consigo dormir cedo. Mas por mais que eu tente.
+
+C: Embora tenha sido difícil, conseguimos resolver o problema.
+S: Conseguimos resolver o problema. Mas foi difícil.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito. Mas não passou na prova.
+
+C: Por mais que tente, ele não consegue se lembrar do que aconteceu.
+S: Ele tenta, mas não consegue se lembrar do que aconteceu.
+
+C: Ainda que chova, irei ao parque.
+S: Vou ao parque. Mesmo que chova.
+
+C: Apesar de estar cansado, ele continua trabalhando.
+S: Ele está cansado. Mas continua trabalhando.
+
+C: Por mais que se esforce, ela não consegue resolver esse problema.
+S: Ela se esforça, mas não consegue resolver esse problema.
+
+C: Mesmo que não queira, terá que ir à reunião.
+S: Terá que ir à reunião. Ainda que não queira.
+
+C: Embora tenha sido convidado, ele não vai à festa.
+S: Ele foi convidado. Mas não vai à festa.
+
+C: A menos que estude, não conseguirá boas notas.
+S: Não conseguirá boas notas. A menos que estude.
+
+C: Se bem que reclame, ele sempre cumpre suas tarefas.
+S: Ele reclama. Mas sempre cumpre suas tarefas.
+
+C: Conquanto seja caro, vale a pena comprar esse carro.
+S: É caro. Mas vale a pena comprar esse carro.
+
+C: Embora tenha chovido o dia todo, decidi sair para dar uma volta.
+S: Decidi sair para dar uma volta. Mas choveu o dia todo.
+
+C: Ainda que seja difícil, é importante persistir.
+S: É importante persistir. Isso acontece mesmo que seja difícil.
+
+C: Por mais que eu esteja cansado, preciso terminar meu trabalho.
+S: Preciso terminar meu trabalho. Isso acontece mesmo que eu esteja cansado.
+
+C: Apesar de já ter estudado muito, ainda não me sinto confiante para a prova.
+S: Ainda não me sinto confiante para a prova. Mas já estudei muito.
+
+C: Se bem que não concordo com sua opinião, respeito sua posição.
+S: Respeito sua posição. Mas não concordo com sua opinião.
+
+C: Conquanto ela seja uma boa profissional, nunca aceitou desafios.
+S: Ela nunca aceitou desafios. Mas é uma boa profissional.
+
+C: Mesmo que você não entenda, é importante respeitar minha decisão.
+S: É importante respeitar minha decisão. Isso acontece mesmo que você não entenda.
+
+C: A menos que você estude, não vai passar na prova.
+S: Você não vai passar na prova. A menos que estude.
+
+C: Embora tenha tentado explicar, ele não entendeu o motivo.
+S: Ele não entendeu o motivo. Mas tentei explicar.
+
+C: Nem que eu ganhe na loteria, não comprarei um carro esportivo.
+S: Não comprarei um carro esportivo. Nem que eu ganhe na loteria.
+
+C: Embora o aluno tenha estudado muito, ele não conseguiu passar na prova.
+S: O aluno não conseguiu passar na prova. Mas ele estudou muito.
+
+C: Ainda que tenha chovido muito, nós fomos à praia.
+S: Nós fomos à praia. Isso acontece mesmo que tenha chovido muito.
+
+C: Por mais que o time tenha se esforçado, ele perdeu o jogo.
+S: O time perdeu o jogo. Mas ele se esforçou muito.
+
+C: Conquanto ela seja talentosa, ela ainda não conseguiu ser reconhecida.
+S: Ela ainda não conseguiu ser reconhecida. Mas ela é talentosa.
+
+C: Apesar de todas as dificuldades, nós conseguimos terminar o projeto.
+S: Nós conseguimos terminar o projeto. Mas tivemos todas as dificuldades.
+
+C: Mesmo que ele seja meu melhor amigo, não posso concordar com suas atitudes.
+S: Não posso concordar com as atitudes dele. Mas ele é meu melhor amigo.
+
+C: Por mais que eu tente, não consigo entender a matemática.
+S: Não consigo entender a matemática. Mas tento muito.
+
+C: Embora tenhamos chegado atrasados, conseguimos assistir ao show.
+S: Conseguimos assistir ao show. Mas chegamos atrasados.
+
+C: A menos que você se esforce mais, não irá alcançar seus objetivos.
+S: Não irá alcançar seus objetivos. A menos que você se esforce mais.
+
+C: Posto que ele tenha dinheiro, não é feliz.
+S: Não é feliz. Posto que ele tenha dinheiro.
+
+C: Embora tenha estudado bastante, não consegui passar na prova.
+S: Não consegui passar na prova. Mas estudei bastante.
+
+C: Ainda que tenha chovido o dia todo, nós fomos à praia.
+S: Nós fomos à praia. Isso aconteceu mesmo que tenha chovido o dia todo.
+
+C: Por mais que eu tente, não consigo entender essa matéria.
+S: Não consigo entender essa matéria. Por mais que eu tente.
+
+C: Apesar de estar cansado, vou continuar trabalhando.
+S: Vou continuar trabalhando. Mas estou cansado.
+
+C: O filme foi muito ruim, embora tenha recebido boas críticas.
+S: O filme recebeu boas críticas. Mas foi muito ruim.
+
+C: Ainda que tenha dinheiro suficiente, prefiro não comprar esse produto.
+S: Prefiro não comprar esse produto. Isso acontece mesmo que tenha dinheiro suficiente.
+
+C: Por mais que eu goste de viajar, não tenho tempo neste momento.
+S: Não tenho tempo neste momento. Por mais que eu goste de viajar.
+
+C: Mesmo que tenha perdido alguns jogos, ainda acredito na minha equipe.
+S: Ainda acredito na minha equipe. Isso acontece mesmo que eu tenha perdido alguns jogos.
+
+C: Embora tenha acordado cedo, perdi o ônibus.
+S: Perdi o ônibus. Mas acordei cedo.
+
+C: Por mais que eu me esforce, não consigo resolver esse problema.
+S: Não consigo resolver esse problema. Por mais que eu me esforce.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele não passou na prova, mesmo tendo estudado muito.
+
+C: Por mais que tente, ela não consegue resolver o problema.
+S: Ela não consegue resolver o problema, por mais que tente.
+
+C: Ainda que chova, iremos ao parque.
+S: Iremos ao parque, mesmo que chova.
+
+C: Apesar de morar longe, ele sempre chega pontualmente.
+S: Ele sempre chega pontualmente, apesar de morar longe.
+
+C: Por mais que economize, ele não consegue juntar dinheiro.
+S: Ele não consegue juntar dinheiro, por mais que economize.
+
+C: Mesmo que seja difícil, ele nunca desiste.
+S: Ele nunca desiste, mesmo que seja difícil.
+
+C: Ainda que não seja fácil, ela está determinada a alcançar seu objetivo.
+S: Ela está determinada a alcançar seu objetivo, mesmo que não seja fácil.
+
+C: Por mais que estude, ele ainda tem dificuldades em matemática.
+S: Ele ainda tem dificuldades em matemática, por mais que estude.
+
+C: Embora se esforce, ela não consegue acompanhar o ritmo dos colegas.
+S: Ela não consegue acompanhar o ritmo dos colegas, mesmo se esforçando.
+
+C: Apesar de seu talento, ele não foi selecionado para o time.
+S: Ele não foi selecionado para o time, apesar de seu talento.
+
+C: Embora tenha estudado muito, não conseguiu passar no exame.
+S: Não conseguiu passar no exame. Mas estudou muito.
+
+C: Ainda que seja difícil, vamos conseguir completar o projeto a tempo.
+S: Vamos conseguir completar o projeto a tempo. Isso acontece mesmo que seja difícil.
+
+C: Mesmo que chova, eles vão fazer o passeio de bicicleta.
+S: Eles vão fazer o passeio de bicicleta. Isso acontece mesmo que chova.
+
+C: Por mais que você insista, não vou mudar de ideia.
+S: Não vou mudar de ideia. Por mais que você insista.
+
+C: Ainda que tenha perdido a primeira partida, ainda podemos vencer o campeonato.
+S: Ainda podemos vencer o campeonato. Isso acontece mesmo que tenha perdido a primeira partida.
+
+C: Apesar de estar cansado, vou continuar trabalhando até terminar.
+S: Vou continuar trabalhando até terminar. Apesar de estar cansado.
+
+C: Mesmo que ele peça desculpas, não vou perdoá-lo.
+S: Não vou perdoá-lo. Mesmo que ele peça desculpas.
+
+C: Por mais que se esforce, sempre haverá pessoas que vão criticar o seu trabalho.
+S: Sempre haverá pessoas que vão criticar o seu trabalho. Por mais que se esforce.
+
+C: Embora tenha acordado tarde, conseguiu chegar na hora para a reunião.
+S: Conseguiu chegar na hora para a reunião. Mas tenha acordado tarde.
+
+C: A menos que você estude, não vai passar na prova.
+S: Não vai passar na prova. A menos que você estude.
+
+C: Embora tenha chovido durante o dia todo, o jogo de futebol foi realizado.
+S: O jogo de futebol foi realizado. Mas choveu durante o dia todo.
+
+C: Ainda que esteja cansado, vou terminar o trabalho.
+S: Vou terminar o trabalho. Isso acontece mesmo que esteja cansado.
+
+C: Por mais que estude, não consigo entender matemática.
+S: Não consigo entender matemática. Mas estudo bastante.
+
+C: Mesmo que ganhe na loteria, continuarei trabalhando.
+S: Continuarei trabalhando. Isso acontece mesmo que ganhe na loteria.
+
+C: A pesar de que tenha viajado pelo mundo, ainda me sinto perdido.
+S: Ainda me sinto perdido. Mas viajei pelo mundo.
+
+C: Os alunos estudaram bastante, embora tenham tirado notas baixas na prova.
+S: Os alunos tiraram notas baixas na prova. Mas estudaram bastante.
+
+C: Mesmo que se esforce, não conseguirá resolver esse problema.
+S: Não conseguirá resolver esse problema. Isso acontece mesmo que se esforce.
+
+C: Por mais que ele tente, não conseguirá convencer os outros.
+S: Ele não conseguirá convencer os outros. Mas tenta bastante.
+
+C: Ainda que seja difícil, vou continuar tentando.
+S: Vou continuar tentando. Isso acontece mesmo que seja difícil.
+
+C: Embora esteja com sono, vou assistir ao filme até o final.
+S: Vou assistir ao filme até o final. Mas estou com sono.
+
+C: Embora estivesse chovendo, ela decidiu sair de casa.
+S: Ela decidiu sair de casa. Mas estava chovendo.
+
+C: Mesmo que eu erre, continuarei tentando.
+S: Eu continuarei tentando. Isso acontece mesmo se eu errar.
+
+C: Apesar de ter acordado tarde, ainda consegui chegar a tempo.
+S: Ainda consegui chegar a tempo. Mas acordei tarde.
+
+C: Por mais que se esforce, ele nunca conseguiu os melhores resultados.
+S: Ele nunca conseguiu os melhores resultados. Isso acontece mesmo que ele se esforce.
+
+C: Ainda que estivesse cansado, ele decidiu fazer a viagem.
+S: Ele decidiu fazer a viagem. Mas estava cansado.
+
+C: Mesmo que não concorde, respeito a sua opinião.
+S: Respeito a sua opinião. Isso acontece mesmo que não concorde.
+
+C: Embora estivesse com medo, ela decidiu enfrentar seu medo.
+S: Ela decidiu enfrentar seu medo. Mas estava com medo.
+
+C: Por mais que se prepare, às vezes as coisas não saem como o planejado.
+S: Às vezes as coisas não saem como o planejado. Isso acontece mesmo que se prepare.
+
+C: Ainda que tenha cometido erros, ele aprendeu com eles e evoluiu.
+S: Ele aprendeu com os erros e evoluiu. Mas cometeu erros.
+
+C: Mesmo que tenha perdido, ele se orgulha de ter participado.
+S: Ele se orgulha de ter participado. Isso acontece mesmo que tenha perdido.
+
+C: Embora esteja chovendo, vou sair para dar uma caminhada.
+S: Está chovendo. Mas vou sair para dar uma caminhada.
+
+C: Ainda que tenha estudado muito, não consegui passar na prova.
+S: Estudei muito. Mas não consegui passar na prova.
+
+C: Por mais que você peça desculpas, não vou perdoar você.
+S: Você pode pedir desculpas. Mas não vou perdoar você.
+
+C: Não vou ao cinema, mesmo que você insista.
+S: Você pode insistir. Mas não vou ao cinema.
+
+C: Por mais que eu tenha tentado, não consegui resolver o problema.
+S: Tentei muito. Mas não consegui resolver o problema.
+
+C: Ainda que você minta, eu vou descobrir a verdade.
+S: Você pode mentir. Mas vou descobrir a verdade.
+
+C: Nem que você me pague, eu vou fazer esse trabalho.
+S: Você pode me pagar. Mas não vou fazer esse trabalho.
+
+C: Mesmo que você tenha pressa, não vou acelerar o carro.
+S: Você pode ter pressa. Mas não vou acelerar o carro.
+
+C: A menos que você estude, não vai passar na prova.
+S: Você não estudar. Mas não vai passar na prova.
+
+C: Por mais que você me peça, não vou emprestar dinheiro dessa vez.
+S: Você pode pedir. Mas não vou emprestar dinheiro dessa vez.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito, mas não passou na prova.
+
+C: Ainda que tenhamos feito tudo certo, o resultado não foi satisfatório.
+S: Fizemos tudo certo, mas o resultado não foi satisfatório.
+
+C: Por mais que tentemos, nunca conseguiremos entender completamente o universo.
+S: Tentamos muito, mas nunca conseguiremos entender completamente o universo.
+
+C: Conquanto tenha sido difícil, ela conseguiu realizar seu sonho.
+S: Foi difícil, mas ela conseguiu realizar seu sonho.
+
+C: Apesar de ter chovido muito, o jogo não foi cancelado.
+S: Choveu muito, mas o jogo não foi cancelado.
+
+C: Mesmo que tivesse dinheiro, ele não compraria uma mansão.
+S: Ele não compraria uma mansão, mesmo que tivesse dinheiro.
+
+C: A primeira impressão dele foi negativa, embora depois tenha mudado de opinião.
+S: A primeira impressão dele foi negativa. Mas depois ele mudou de opinião.
+
+C: Ainda que seja difícil, precisamos seguir em frente.
+S: É difícil, mas precisamos seguir em frente.
+
+C: Por mais que peçamos desculpas, ele não nos perdoará.
+S: Pedimos desculpas, mas ele não nos perdoará.
+
+C: Mesmo que tivesse ganhado na loteria, ele continuaria sendo uma pessoa humilde.
+S: Ele continuaria sendo uma pessoa humilde, mesmo que tivesse ganhado na loteria.
+
+C: Embora tenha estudado muito, João não conseguiu passar na prova.
+S: João estudou muito, mas não conseguiu passar na prova.
+
+C: Ainda que chova, vamos ao parque fazer um piquenique.
+S: Vamos ao parque fazer um piquenique. Mesmo que chova.
+
+C: Apesar de estar cansada, Maria foi para a academia.
+S: Maria foi para a academia. Mas estava cansada.
+
+C: Por mais que se esforce, Pedro nunca consegue acertar.
+S: Pedro nunca consegue acertar. Isso acontece mesmo que se esforce.
+
+C: Mesmo que esteja doente, Luísa irá trabalhar.
+S: Luísa irá trabalhar. Isso acontece mesmo que esteja doente.
+
+C: Ainda que seja perigoso, vou escalar essa montanha.
+S: Vou escalar essa montanha. Mesmo que seja perigoso.
+
+C: Apesar de ter dinheiro, Ana não comprou o vestido.
+S: Ana não comprou o vestido. Mas tinha dinheiro.
+
+C: Por mais que tente, Jorge não consegue resolver o problema.
+S: Jorge não consegue resolver o problema. Isso acontece mesmo que tente.
+
+C: A menos que seja necessário, não vou sair de casa.
+S: Não vou sair de casa. A menos que seja necessário.
+
+C: Embora falte tempo, vou terminar meu trabalho hoje.
+S: Vou terminar meu trabalho hoje. Mas falta tempo.
+
+C: Mesmo que o tempo esteja chuvoso, eu irei à praia.
+S: O tempo está chuvoso. Mas eu irei à praia.
+
+C: Ainda que ele seja muito ocupado, sempre arranja tempo para me ouvir.
+S: Ele é muito ocupado. Mas sempre arranja tempo para me ouvir.
+
+C: Embora o jogo tenha sido acirrado, o time adversário saiu vitorioso.
+S: O jogo foi acirrado. Mas o time adversário saiu vitorioso.
+
+C: Por mais que me esforce, não consigo entender essa matéria.
+S: Me esforço muito. Mas não consigo entender essa matéria.
+
+C: A menos que você estude, não passará na prova.
+S: Você não estuda. Mas não passará na prova.
+
+C: Se bem que esteja com sono, vou jantar com meus amigos.
+S: Estou com sono. Mas vou jantar com meus amigos.
+
+C: Mesmo que ele seja meu irmão, não concordo com as atitudes dele.
+S: Ele é meu irmão. Mas não concordo com as atitudes dele.
+
+C: Apesar de que ela seja a mais nova da turma, é a mais dedicada.
+S: Ela é a mais nova da turma. Mas é a mais dedicada.
+
+C: Posto que eu tenha errado, aprendi com meus erros.
+S: Eu errei. Mas aprendi com meus erros.
+
+C: Nem que seja tarde da noite, vou esperar você chegar.
+S: É tarde da noite. Mas vou esperar você chegar.
+
+C: Embora tenha estudado durante horas, o aluno não conseguiu passar na prova.
+S: O aluno não conseguiu passar na prova. Mas estudou durante horas.
+
+C: Ainda que esteja chovendo, irei à praia.
+S: Irei à praia. Isso acontece mesmo que esteja chovendo.
+
+C: Por mais que se esforce, ele nunca consegue alcançar seus objetivos.
+S: Ele nunca consegue alcançar seus objetivos. Mas se esforça.
+
+C: Apesar de ter acordado cedo, ela perdeu o ônibus.
+S: Ela perdeu o ônibus. Mas tinha acordado cedo.
+
+C: Mesmo que tenha cometido alguns erros, ele é um ótimo profissional.
+S: Ele é um ótimo profissional. Isso acontece mesmo que tenha cometido alguns erros.
+
+C: Conquanto tenha pouco tempo, ela sempre arranja um jeito de ajudar.
+S: Ela sempre arranja um jeito de ajudar. Mas tem pouco tempo.
+
+C: Embora seja caro, o produto é de excelente qualidade.
+S: O produto é de excelente qualidade. Mas é caro.
+
+C: A menos que estude mais, você não terá bons resultados.
+S: Você não terá bons resultados. Mas estude mais.
+
+C: Se bem que tenha se esforçado, ele não conseguiu resolver o problema.
+S: Ele não conseguiu resolver o problema. Mas se esforçou.
+
+C: Por mais que fale, ele não vai mudar de opinião.
+S: Ele não vai mudar de opinião. Mas fala bastante.
+
+C: Embora tenha chovido durante todo o dia, as crianças foram brincar no parque.
+S: As crianças foram brincar no parque. Mas choveu durante todo o dia.
+
+C: Mesmo que o jogo seja cancelado, irei ao estádio.
+S: Irei ao estádio. Isso acontece mesmo que o jogo seja cancelado.
+
+C: Conquanto tenha estudado bastante, não consegui passar na prova.
+S: Estudei bastante. Mas não consegui passar na prova.
+
+C: Ainda que o preço seja alto, comprarei o produto.
+S: Comprarei o produto. Isso acontece mesmo que o preço seja alto.
+
+C: Se bem que esteja cansado, terminarei o trabalho hoje.
+S: Terminarei o trabalho hoje. Mas estou cansado.
+
+C: Apesar de que a viagem seja longa, decidi ir de carro.
+S: Decidi ir de carro. Mas a viagem é longa.
+
+C: Por mais que estejamos atrasados, não podemos correr.
+S: Não podemos correr. Isso acontece mesmo que estejamos atrasados.
+
+C: Nem que chovesse, os atletas continuariam a competição.
+S: Os atletas continuariam a competição. Isso acontece mesmo que chovesse.
+
+C: Embora tenhamos tido alguns problemas, o projeto foi concluído no prazo.
+S: O projeto foi concluído no prazo. Mas tivemos alguns problemas.
+
+C: Posto que o trânsito esteja congestionado, conseguirei chegar a tempo.
+S: Conseguirei chegar a tempo. Isso acontece mesmo que o trânsito esteja congestionado.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele estudou muito, mas não conseguiu passar na prova.
+
+C: Ainda que tenha chovido, eles foram à praia.
+S: Choveu, mas eles foram à praia.
+
+C: Por mais que se esforce, ela não consegue alcançar seus objetivos.
+S: Ela se esforça, mas não consegue alcançar seus objetivos.
+
+C: Mesmo que ele tente, não conseguirá convencê-la.
+S: Ele tenta, mas não conseguirá convencê-la.
+
+C: Embora seja pequeno, aquele cachorro é muito valente.
+S: Aquele cachorro é pequeno, mas é muito valente.
+
+C: Por mais que se encontrem, nunca concordam em nada.
+S: Eles se encontram, mas nunca concordam em nada.
+
+C: Ainda que tenha errado, ele merece uma segunda chance.
+S: Ele errou, mas merece uma segunda chance.
+
+C: Mesmo que corra rápido, não conseguirá alcançá-lo.
+S: Ele corre rápido, mas não conseguirá alcançá-lo.
+
+C: Embora seja tarde, ainda podemos fazer isso.
+S: É tarde, mas ainda podemos fazer isso.
+
+C: Por mais que tente, não consigo lembrar-me do seu nome.
+S: Eu tento, mas não consigo lembrar-me do seu nome.
+
+C: Embora tenha estudado bastante, ele não passou na prova.
+S: Ele estudou bastante, mas não passou na prova.
+
+C: Ainda que tenha chovido durante a tarde, o jogo de futebol aconteceu.
+S: Choveu durante a tarde, mas o jogo de futebol aconteceu.
+
+C: Mesmo que não tenha dinheiro, ele decidiu viajar.
+S: Ele decidiu viajar, mesmo sem dinheiro.
+
+C: Por mais que tenha se esforçado, ela não conseguiu o emprego.
+S: Ela se esforçou bastante, mas não conseguiu o emprego.
+
+C: Apesar de estar cansada, ela continuou a trabalhar.
+S: Ela estava cansada, mas continuou a trabalhar.
+
+C: Embora seja difícil, ela está determinada a alcançar seus objetivos.
+S: É difícil, mas ela está determinada a alcançar seus objetivos.
+
+C: Mesmo que não concorde comigo, respeito sua opinião.
+S: Não concordo com você, mas respeito sua opinião.
+
+C: Ainda que seja perigoso, ela decidiu enfrentar o desafio.
+S: É perigoso, mas ela decidiu enfrentar o desafio.
+
+C: Por mais que tenha se dedicado, ele não conseguiu melhorar suas notas.
+S: Ele se dedicou bastante, mas não conseguiu melhorar suas notas.
+
+C: Apesar de todas as dificuldades, ele nunca desistiu do seu sonho.
+S: Mesmo com todas as dificuldades, ele nunca desistiu do seu sonho.
+
+C: Embora tenha estudado muito, o aluno não foi aprovado.
+S: O aluno não foi aprovado. Mas estudou muito.
+
+C: Ainda que o projeto seja aprovado, pode não ser implementado.
+S: O projeto pode não ser implementado. Isso acontece mesmo que seja aprovado.
+
+C: Por mais que corra rápido, ele nunca chegará em primeiro lugar.
+S: Ele nunca chegará em primeiro lugar. Por mais que corra rápido.
+
+C: Nem que chova muito, irei à festa.
+S: Irei à festa. Nem que chova muito.
+
+C: Apesar de que tenha acordado tarde, consegui chegar no horário.
+S: Consegui chegar no horário. Apesar de ter acordado tarde.
+
+C: Se bem que seja difícil, não é impossível.
+S: Não é impossível. Se bem que seja difícil.
+
+C: Posto que tenha falado a verdade, ninguém acreditou nele.
+S: Ninguém acreditou nele. Posto que tenha falado a verdade.
+
+C: Por muito que se esforce, ele nunca alcançará o sucesso.
+S: Ele nunca alcançará o sucesso. Por muito que se esforce.
+
+C: Mesmo que esteja cansado, ele continuará trabalhando.
+S: Ele continuará trabalhando. Mesmo que esteja cansado.
+
+C: A menos que estude bastante, ele não passará na prova.
+S: Ele não passará na prova. A menos que estude bastante.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele estudou muito, mas não conseguiu passar na prova.
+
+C: Ainda que chova, iremos ao parque.
+S: Vamos ao parque, mesmo que chova.
+
+C: Por mais que tente, ele não consegue se concentrar.
+S: Ele tenta muito, mas não consegue se concentrar.
+
+C: Mesmo que seja difícil, não desista.
+S: Não desista, mesmo que seja difícil.
+
+C: A menos que você estude, não irá melhorar suas notas.
+S: Você não irá melhorar suas notas, a menos que estude.
+
+C: Se bem que eu tenha tentado convencê-lo, ele não mudou de ideia.
+S: Eu tentei convencê-lo, mas ele não mudou de ideia.
+
+C: Conquanto tenha acordado cedo, chegou atrasado.
+S: Ele acordou cedo, mas chegou atrasado.
+
+C: Apesar de que não goste do seu trabalho, ele o realiza com dedicação.
+S: Ele não gosta do seu trabalho, mas o realiza com dedicação.
+
+C: Por mais que você se esforce, pode ser que não obtenha sucesso.
+S: Você se esforça muito, mas pode ser que não obtenha sucesso.
+
+C: Nem que você peça, eu não vou emprestar o dinheiro.
+S: Eu não vou emprestar o dinheiro, nem que você peça.
+
+C: Embora esteja chovendo, eu irei para o parque.
+S: Está chovendo, mas eu irei para o parque.
+
+C: Ainda que tenha estudado, ele não passou na prova.
+S: Ele estudou, mas não passou na prova.
+
+C: A menos que melhore o serviço, eu vou cancelar a assinatura.
+S: Se o serviço não melhorar, eu vou cancelar a assinatura.
+
+C: Se bem que seja tarde, eu ainda vou te esperar.
+S: Mesmo sendo tarde, eu ainda vou te esperar.
+
+C: Conquanto tenha dormido pouco, ele conseguiu terminar o trabalho.
+S: Ele dormiu pouco, mas conseguiu terminar o trabalho.
+
+C: Por mais que esteja cansado, ele continua trabalhando.
+S: Ele está cansado, mas continua trabalhando.
+
+C: Apesar de que chove, nós iremos fazer o passeio.
+S: Está chovendo, mas iremos fazer o passeio.
+
+C: Por mais que diga que está bem, eu percebo que está triste.
+S: Você diz que está bem, mas percebo que está triste.
+
+C: Nem que demore muito, eu vou te esperar.
+S: Mesmo que demore muito, eu vou te esperar.
+
+C: Por muito que discutam, eles não chegam a nenhum acordo.
+S: Eles discutem muito, mas não chegam a nenhum acordo.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele estudou muito, mas não conseguiu passar na prova.
+
+C: Por mais que eu tente, não consigo me lembrar do seu nome.
+S: Eu tento, mas não consigo me lembrar do seu nome.
+
+C: Ainda que as condições estejam favoráveis, temos que esperar mais um pouco.
+S: As condições estão favoráveis, mas temos que esperar mais um pouco.
+
+C: Apesar de estar cansado, ele decidiu ir ao treino de futebol.
+S: Ele está cansado, mas decidiu ir ao treino de futebol.
+
+C: Por mais que eu peça, ele não me ajuda.
+S: Eu peço, mas ele não me ajuda.
+
+C: Embora a viagem seja longa, vale a pena conhecer esse lugar.
+S: A viagem é longa, mas vale a pena conhecer esse lugar.
+
+C: Mesmo que chova, iremos ao parque.
+S: Chova ou não, iremos ao parque.
+
+C: Ainda que tenha perdido o jogo, o jogador se mostrou otimista.
+S: Ele perdeu o jogo, mas se mostrou otimista.
+
+C: Por mais que treine, ela nunca será uma cantora famosa.
+S: Ela treina, mas nunca será uma cantora famosa.
+
+C: Conquanto tenha falhado uma vez, ele não desistirá facilmente.
+S: Ele falhou uma vez, mas não desistirá facilmente.
+
+C: Embora tivesse estudado muito, ele não passou na prova.
+S: Ele não passou na prova, mas estudou muito.
+
+C: Ainda que chovesse muito, o jogo foi realizado.
+S: O jogo foi realizado, mesmo chovendo muito.
+
+C: Por mais que tentasse, ela não conseguia acertar o alvo.
+S: Ela não conseguia acertar o alvo, por mais que tentasse.
+
+C: Conquanto estivesse cansado, ele continuou trabalhando.
+S: Ele continuou trabalhando, mesmo estando cansado.
+
+C: Embora estivesse doente, ela não cancelou a reunião.
+S: Ela não cancelou a reunião, embora estivesse doente.
+
+C: Ainda que estivesse com pressa, ele esperou pacientemente na fila.
+S: Ele esperou pacientemente na fila, mesmo estando com pressa.
+
+C: Mesmo que seja verdade, é difícil acreditar nisso.
+S: É difícil acreditar nisso, mesmo que seja verdade.
+
+C: Por mais que tente, ele nunca alcançará seus objetivos.
+S: Ele nunca alcançará seus objetivos, por mais que tente.
+
+C: Embora seja tarde, ainda podemos chegar a tempo do cinema.
+S: Ainda podemos chegar a tempo do cinema, embora seja tarde.
+
+C: A menos que chova, iremos à praia amanhã.
+S: Iremos à praia amanhã, a menos que chova.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele não conseguiu passar na prova. Mas estudou muito.
+
+C: Ainda que tenha chovido bastante, a festa foi um sucesso.
+S: A festa foi um sucesso. Isso acontece mesmo que tenha chovido bastante.
+
+C: Por mais que ela tente, nunca consegue acertar a receita.
+S: Ela nunca consegue acertar a receita. Mas tenta por mais que tente.
+
+C: Mesmo que tenha dinheiro, ele nunca está satisfeito.
+S: Ele nunca está satisfeito. Isso acontece mesmo que tenha dinheiro.
+
+C: Embora tenha perdido o ônibus, ela chegou no horário.
+S: Ela chegou no horário. Mas perdeu o ônibus.
+
+C: A menos que tenha uma solução, vamos ter que desistir.
+S: Vamos ter que desistir. Isso acontece menos que tenha uma solução.
+
+C: Se bem que tenha cometido erros, ele é uma pessoa honesta.
+S: Ele é uma pessoa honesta. Mas cometeu erros, se bem que tenha cometido.
+
+C: Nem que tenha que ficar acordado a noite toda, ele vai terminar o trabalho.
+S: Ele vai terminar o trabalho. Isso acontece nem que tenha que ficar acordado a noite toda.
+
+C: Apesar de que tenha se esforçado, ele não conseguiu vencer.
+S: Ele não conseguiu vencer. Mas se esforçou, apesar de que tenha se esforçado.
+
+C: Por mais que tenha tentado evitar, ele acabou se envolvendo na confusão.
+S: Ele acabou se envolvendo na confusão. Mas tentou evitar, por mais que tenha tentado evitar.
+
+C: Embora o tempo esteja chuvoso, decidimos ir à praia.
+S: Decidimos ir à praia. Mas o tempo está chuvoso.
+
+C: Por mais que estudemos, ainda temos dúvidas sobre esse assunto.
+S: Ainda temos dúvidas sobre esse assunto. Isso acontece mesmo que estudemos.
+
+C: Ainda que já tenhamos tentado diversas vezes, não conseguimos resolver o problema.
+S: Não conseguimos resolver o problema. Mas já tentamos diversas vezes.
+
+C: Mesmo que estejamos atrasados, podemos chegar a tempo para o cinema.
+S: Podemos chegar a tempo para o cinema. Isso acontece mesmo que estejamos atrasados.
+
+C: A menos que faça muito calor, não vamos nadar na piscina.
+S: Não vamos nadar na piscina. Mas faça muito calor.
+
+C: Embora seja domingo, temos que acordar cedo para trabalhar.
+S: Temos que acordar cedo para trabalhar. Mas é domingo.
+
+C: Conquanto sejam diferentes, essas duas opções têm os seus méritos.
+S: Essas duas opções têm os seus méritos. Mas são diferentes.
+
+C: Mesmo que tudo pareça difícil, precisamos continuar tentando.
+S: Precisamos continuar tentando. Isso acontece mesmo que tudo pareça difícil.
+
+C: Ainda que tenhamos perdido o jogo, nos divertimos bastante.
+S: Nos divertimos bastante. Mas perdemos o jogo.
+
+C: Por mais que eu tente entender, essa situação continua confusa para mim.
+S: Essa situação continua confusa para mim. Isso acontece mesmo que eu tente entender.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele não conseguiu passar na prova. Mas estudou muito.
+
+C: Ainda que tenham feito várias tentativas, não conseguiram consertar o carro.
+S: Eles não conseguiram consertar o carro. Isso acontece mesmo que tenham feito várias tentativas.
+
+C: Apesar de ser tarde, ainda vou sair para caminhar.
+S: Vou sair para caminhar, mesmo que seja tarde.
+
+C: Por mais que tenha chovido, a praia estava lotada.
+S: A praia estava lotada, mesmo que tenha chovido.
+
+C: Embora tenha feito uma dieta rigorosa, ela não perdeu peso.
+S: Ela não perdeu peso. Mas fez uma dieta rigorosa.
+
+C: Mesmo que você não concorde, eu vou seguir com o plano.
+S: Vou seguir com o plano, mesmo que você não concorde.
+
+C: A menos que estudemos, não iremos passar na prova.
+S: Não iremos passar na prova, a menos que estudemos.
+
+C: Se bem que estava cansado, ele decidiu ir à festa.
+S: Ele decidiu ir à festa, mesmo que estivesse cansado.
+
+C: Por mais que protestem, a decisão já foi tomada.
+S: A decisão já foi tomada, mesmo que protestem.
+
+C: Nem que faça frio, vou ao jogo de futebol.
+S: Vou ao jogo de futebol, nem que faça frio.
+
+C: Embora tenha estudado muito, Lucas não conseguiu passar no exame.
+S: Lucas estudou muito, mas não conseguiu passar no exame.
+
+C: Ainda que estivesse cansado, Pedro decidiu ir à festa.
+S: Pedro decidiu ir à festa, mesmo estando cansado.
+
+C: Por mais que tentasse, Maria não conseguiu resolver o problema.
+S: Maria tentou, mas não conseguiu resolver o problema.
+
+C: O jogo foi cancelado, apesar de chover muito.
+S: Chovia muito, mas o jogo foi cancelado.
+
+C: Por mais que argumente, ele não mudará de ideia.
+S: Ele não mudará de ideia, mesmo que argumente.
+
+C: A viagem será longa, conquanto seja confortável.
+S: A viagem será longa, mas será confortável.
+
+C: Embora tenha se esforçado, Ana não recebeu reconhecimento pelo trabalho.
+S: Ana se esforçou, mas não recebeu reconhecimento pelo trabalho.
+
+C: Ainda que tenha sido avisada, ela chegou atrasada.
+S: Ela chegou atrasada, mesmo sendo avisada.
+
+C: Eles terão que cumprir o prazo, a menos que peçam uma extensão.
+S: Eles terão que cumprir o prazo, mas podem pedir uma extensão.
+
+C: Apesar de tudo, ela continua sorrindo.
+S: Ela continua sorrindo, mesmo com tudo.
+
+C: Embora tenha estudado bastante, ele não passou na prova.
+S: Ele não passou na prova, mesmo estudando bastante.
+
+C: Ainda que estivesse com pressa, parou para ajudar o mendigo.
+S: Ele parou para ajudar o mendigo, mesmo estando com pressa.
+
+C: Por mais que se esforce, ela não consegue perder peso.
+S: Ela não consegue perder peso, mesmo se esforçando.
+
+C: Apesar de ter chovido muito, o jogo de futebol não foi cancelado.
+S: O jogo de futebol não foi cancelado, mesmo tendo chovido muito.
+
+C: Embora tenha sido difícil, eles conseguiram completar a maratona.
+S: Eles conseguiram completar a maratona, mesmo sendo difícil.
+
+C: Mesmo que tenha nevado durante a noite, o trânsito está fluindo bem.
+S: O trânsito está fluindo bem, mesmo tendo nevado durante a noite.
+
+C: Por mais que ele tenha se esforçado, não conseguiu convencer os pais.
+S: Ele não conseguiu convencer os pais, mesmo se esforçando.
+
+C: Ainda que fosse tarde da noite, ele continuou estudando.
+S: Ele continuou estudando, mesmo sendo tarde da noite.
+
+C: Por mais que o filme seja longo, vale a pena assistir até o final.
+S: Vale a pena assistir até o final, mesmo o filme sendo longo.
+
+C: Embora tenha viajado para vários lugares, ele ainda não conhece o mundo.
+S: Ele ainda não conhece o mundo, mesmo viajando para vários lugares.
+
+C: Apesar de ter estudado muito, ele não conseguiu passar na prova.
+S: Ele não conseguiu passar na prova. Mas estudou muito.
+
+C: Ainda que jogue bem, ele sempre perde no final.
+S: Ele sempre perde no final. Isso acontece mesmo que jogue bem.
+
+C: Por mais que se esforce, ela nunca consegue alcançar seus objetivos.
+S: Ela nunca consegue alcançar seus objetivos. Mesmo que se esforce.
+
+C: Embora tenham se preparado para o jogo, eles perderam por uma diferença grande de pontos.
+S: Eles perderam por uma diferença grande de pontos. Mas se prepararam para o jogo.
+
+C: Mesmo que chova, iremos ao parque fazer um piquenique.
+S: Iremos ao parque fazer um piquenique. Isso acontece mesmo que chova.
+
+C: A menos que ele estude, não irá passar de ano.
+S: Ele não irá passar de ano. A menos que estude.
+
+C: Se bem que ele seja talentoso, não tem perseverança.
+S: Ele não tem perseverança. Mas é talentoso.
+
+C: Nem que chame várias vezes, ele não atende o telefone.
+S: Ele não atende o telefone. Nem que chame várias vezes.
+
+C: Por mais que tente convencer, ela não muda de opinião.
+S: Ela não muda de opinião. Por mais que tente convencer.
+
+C: Embora tenha tentado, não conseguiu resolver o problema.
+S: Ele não conseguiu resolver o problema. Mas tentou.
+
+C: Embora tenhamos ensaiado muito, ainda cometemos alguns erros na apresentação.
+S: Cometemos alguns erros na apresentação. Mas, ensaiamos muito.
+
+C: Ainda que tenha chovido bastante, o evento foi um sucesso.
+S: O evento foi um sucesso. Isso acontece mesmo que tenha chovido bastante.
+
+C: Embora seja tarde, ainda podemos sair para jantar.
+S: Ainda podemos sair para jantar. Mas é tarde.
+
+C: Por mais que você estude, nunca será o suficiente para dominar completamente o assunto.
+S: Nunca será o suficiente para dominar completamente o assunto. Isso acontece mesmo que você estude muito.
+
+C: Ainda que o caminho seja difícil, não podemos desistir dos nossos sonhos.
+S: Não podemos desistir dos nossos sonhos. Isso acontece mesmo que o caminho seja difícil.
+
+C: Embora tenha tentado, não consegui resolver o problema.
+S: Não consegui resolver o problema. Mas tentei.
+
+C: Por mais que nos preparemos, nunca estaremos totalmente prontos.
+S: Nunca estaremos totalmente prontos. Isso acontece mesmo que nos preparemos muito.
+
+C: Ainda que tenha muito trabalho, precisamos encontrar tempo para relaxar.
+S: Precisamos encontrar tempo para relaxar. Mas temos muito trabalho.
+
+C: Embora a situação seja complicada, não podemos desistir.
+S: Não podemos desistir. Mas a situação é complicada.
+
+C: Por mais que eu me esforce, nem sempre consigo alcançar meus objetivos.
+S: Nem sempre consigo alcançar meus objetivos. Isso acontece mesmo que eu me esforce.
+
+C: Embora tenha chovido durante a tarde, os jogadores continuaram treinando no campo.
+S: Os jogadores continuaram treinando no campo. Mas choveu durante a tarde.
+
+C: Por mais que estude, ele ainda tem dificuldades com a matéria.
+S: Ele ainda tem dificuldades com a matéria. Isso acontece mesmo que estude bastante.
+
+C: Ainda que tenha se esforçado, ele não conseguiu passar na prova.
+S: Ele não conseguiu passar na prova. Mesmo que tenha se esforçado.
+
+C: Embora tenha começado a dieta, ela não conseguiu perder peso.
+S: Ela não conseguiu perder peso. Mas começou a dieta.
+
+C: Por mais que tente, ele não consegue convencer as pessoas.
+S: Ele não consegue convencer as pessoas. Isso acontece mesmo que tente bastante.
+
+C: A menos que chova, não será necessário levar um guarda-chuva.
+S: Não será necessário levar um guarda-chuva. A menos que chova.
+
+C: Conquanto tenha chegado atrasado, ele ainda foi aceito na reunião.
+S: Ele ainda foi aceito na reunião. Mesmo que tenha chegado atrasado.
+
+C: Nem que tenha que trabalhar horas extras, ele não desiste de alcançar seus objetivos.
+S: Ele não desiste de alcançar seus objetivos. Nem que tenha que trabalhar horas extras.
+
+C: Apesar de ter estudado muito, ela não conseguiu uma boa nota na prova.
+S: Ela não conseguiu uma boa nota na prova. Apesar de ter estudado muito.
+
+C: Por mais que treine, ele não consegue melhorar seu desempenho no esporte.
+S: Ele não consegue melhorar seu desempenho no esporte. Por mais que treine.
+
+C: Embora tenha estudado muito, ela não passou na prova.
+S: Ela estudou muito, mas não passou na prova.
+
+C: Ainda que o tempo esteja ruim, nós iremos ao parque.
+S: O tempo está ruim, mas nós iremos ao parque.
+
+C: Apesar de estar cansado, ele decidiu ir à academia.
+S: Ele está cansado, mas decidiu ir à academia.
+
+C: Por mais que tente, ela nunca consegue acertar no alvo.
+S: Ela tenta muito, mas nunca consegue acertar no alvo.
+
+C: Conquanto tenhamos pouco tempo, faremos o possível para terminar o trabalho.
+S: Temos pouco tempo, mas faremos o possível para terminar o trabalho.
+
+C: Mesmo que chova, eu irei ao jogo de futebol.
+S: Vai chover, mas irei ao jogo de futebol.
+
+C: Embora tenha sido difícil, ele conseguiu alcançar seu objetivo.
+S: Foi difícil, mas ele conseguiu alcançar seu objetivo.
+
+C: A menos que alguém ajude, não conseguiremos terminar a tarefa a tempo.
+S: Ninguém ajudará, então não conseguiremos terminar a tarefa a tempo.
+
+C: Se bem que saiba que é perigoso, ele continua praticando esportes radicais.
+S: Ele sabe que é perigoso, mas continua praticando esportes radicais.
+
+C: Nem que chova muito, eu deixarei de ir ao show.
+S: Vai chover muito, mas não deixarei de ir ao show.
+
+C: Embora tivesse estudado muito, João não passou na prova.
+S: João estudou muito, mas não passou na prova.
+
+C: Ainda que estivesse chovendo, fui correr no parque.
+S: Estava chovendo, mas fui correr no parque.
+
+C: Por mais que ela se esforçasse, não conseguia resolver o problema.
+S: Ela se esforçou, mas não conseguia resolver o problema.
+
+C: Mesmo que esteja frio, vou sair de casa.
+S: Está frio, mas vou sair de casa.
+
+C: Apesar de ser tarde, ele continuou trabalhando.
+S: É tarde, mas ele continuou trabalhando.
+
+C: Por mais que ele reclamasse, não conseguia mudar a situação.
+S: Ele reclamou, mas não conseguia mudar a situação.
+
+C: A menos que estude bastante, não será aprovado.
+S: Estude bastante, senão não será aprovado.
+
+C: Se bem que estivesse cansado, ele foi ao evento.
+S: Estava cansado, mas ele foi ao evento.
+
+C: Conquanto não concordem comigo, continuarei defendendo minha opinião.
+S: Não concordam comigo, mas continuarei defendendo minha opinião.
+
+C: Nem que tivesse dinheiro, ele não compraria aquela casa.
+S: Ele não compraria aquela casa, mesmo que tivesse dinheiro.
+
+C: Embora estivesse chovendo, fomos à praia.
+S: Fomos à praia, mas estava chovendo.
+
+C: Ainda que tenha estudado, não passei na prova.
+S: Não passei na prova, mesmo tendo estudado.
+
+C: Mesmo que viaje de avião, ainda tenho medo de voar.
+S: Ainda tenho medo de voar, mesmo viajando de avião.
+
+C: Por mais que se esforce, ele nunca consegue acertar no alvo.
+S: Ele nunca consegue acertar no alvo, por mais que se esforce.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Ele continuou trabalhando, mesmo estando cansado.
+
+C: Embora seja difícil, ele conseguiu concluir o projeto a tempo.
+S: Ele conseguiu concluir o projeto a tempo. Mas foi difícil.
+
+C: Ainda que seja caro, vale a pena investir nesse negócio.
+S: Vale a pena investir nesse negócio. Isso acontece mesmo que seja caro.
+
+C: Por mais que tenha tentado, ele não conseguiu resolver o problema.
+S: Ele não conseguiu resolver o problema. Por mais que tenha tentado.
+
+C: Apesar de estar doente, ela foi trabalhar hoje.
+S: Ela foi trabalhar hoje. Apesar de estar doente.
+
+C: Mesmo que chova, eu vou sair para correr.
+S: Eu vou sair para correr. Mesmo que chova.
+
+C: Embora não goste de doces, ele comeu um pedaço de bolo.
+S: Ele comeu um pedaço de bolo. Mas não gosta de doces.
+
+C: A menos que estude, você não vai passar na prova.
+S: Você não vai passar na prova. A menos que estude.
+
+C: Se bem que seja arriscado, vamos tentar.
+S: Vamos tentar. Se bem que seja arriscado.
+
+C: Nem que chova muito, eu vou ao cinema hoje.
+S: Eu vou ao cinema hoje. Nem que chova muito.
+
+C: Por muito que se esforce, ele não consegue alcançar o sucesso.
+S: Ele não consegue alcançar o sucesso. Por muito que se esforce.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele não passou na prova, mesmo tendo estudado muito.
+
+C: Por mais que tente, ela não consegue resolver o problema.
+S: Ela não consegue resolver o problema, por mais que tente.
+
+C: Ainda que chova, iremos ao parque.
+S: Iremos ao parque, mesmo que chova.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Ele continuou trabalhando, apesar de estar cansado.
+
+C: Por mais que tenha pedido desculpas, ela não aceita.
+S: Ela não aceita, por mais que tenha pedido desculpas.
+
+C: Embora seja caro, ele decidiu comprar o carro.
+S: Ele decidiu comprar o carro, mesmo sendo caro.
+
+C: A menos que chegue atrasado, ele participará da reunião.
+S: Ele participará da reunião, a menos que chegue atrasado.
+
+C: Mesmo que perca, ele continuará tentando.
+S: Ele continuará tentando, mesmo que perca.
+
+C: Conquistamos a vitória, embora todos duvidassem de nós.
+S: Todos duvidavam de nós, mas conquistamos a vitória.
+
+C: Por mais que estude, ele nunca melhora suas notas.
+S: Ele nunca melhora suas notas, por mais que estude.
+
+C: Embora tenha estudado muito, João não passou no vestibular.
+S: João estudou muito, mas não passou no vestibular.
+
+C: Ainda que tenha chovido bastante, o evento aconteceu ao ar livre.
+S: Choveu bastante, mas o evento aconteceu ao ar livre.
+
+C: Por mais que tenha tentado, ela não conseguiu resolver o problema.
+S: Ela tentou muito, mas não conseguiu resolver o problema.
+
+C: Apesar de estar cansado, ele decidiu continuar trabalhando.
+S: Ele está cansado, mas decidiu continuar trabalhando.
+
+C: Mesmo que tenha sido difícil, ela não desistiu do desafio.
+S: Foi difícil, mas ela não desistiu do desafio.
+
+C: A menos que melhore seu desempenho, ele não será promovido.
+S: Se não melhorar seu desempenho, ele não será promovido.
+
+C: Se bem que seja caro, esse produto é de excelente qualidade.
+S: É caro, mas esse produto é de excelente qualidade.
+
+C: Nem que chova muito, eu desistirei de ir ao concerto.
+S: Mesmo que chova muito, eu não desistirei de ir ao concerto.
+
+C: Por mais que tenha tentado negociar, ele não conseguiu um acordo favorável.
+S: Ele tentou muito negociar, mas não conseguiu um acordo favorável.
+
+C: Conquanto tenha acordado cedo, ele não conseguiu chegar a tempo.
+S: Ele acordou cedo, mas não conseguiu chegar a tempo.
+
+C: Embora tenha estudado muito, ela não passou na prova.
+S: Ela estudou muito. Mas não passou na prova.
+
+C: Ainda que tenha chovido o dia todo, eles decidiram fazer o piquenique.
+S: Choveu o dia todo. Mas eles decidiram fazer o piquenique.
+
+C: Apesar de ter acordado cedo, ele chegou atrasado para a reunião.
+S: Ele acordou cedo. Mas chegou atrasado para a reunião.
+
+C: Por mais que tenha se esforçado, ela não conseguiu alcançar seu objetivo.
+S: Ela se esforçou muito. Mas não conseguiu alcançar seu objetivo.
+
+C: Mesmo que esteja chovendo, irei ao parque hoje.
+S: Está chovendo. Mas irei ao parque hoje.
+
+C: A menos que ela mude de ideia, não iremos ao cinema.
+S: Ela não mudar de ideia. Mas não iremos ao cinema.
+
+C: Se bem que ele não queira admitir, ele está com ciúmes.
+S: Ele não quer admitir. Mas está com ciúmes.
+
+C: Conquanto tenha sido difícil, eles conseguiram completar a tarefa.
+S: Foi difícil. Mas eles conseguiram completar a tarefa.
+
+C: Por muito que ela tente, nunca conseguirá agradar a todos.
+S: Ela tenta muito. Mas nunca conseguirá agradar a todos.
+
+C: Nem que chova muito, irei ao jogo de futebol.
+S: Chova muito. Mas irei ao jogo de futebol.
+
+C: Embora tenha chovido muito, as pessoas continuaram a curtir o show.
+S: As pessoas continuaram a curtir o show. Mas choveu muito.
+
+C: Ainda que tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito. Mas não passou na prova.
+
+C: Posto que tenha sido bem intencionado, ele não conseguiu resolver o problema.
+S: Ele foi bem intencionado. Mas não conseguiu resolver o problema.
+
+C: Nem que eles insistam, eu não vou mudar de opinião.
+S: Eles insistem. Mas eu não vou mudar de opinião.
+
+C: Por mais que eu tente explicar, eles não entendem.
+S: Eu tento explicar. Mas eles não entendem.
+
+C: Apesar de que tenha havido atrasos, o projeto foi concluído dentro do prazo.
+S: Houve atrasos. Mas o projeto foi concluído dentro do prazo.
+
+C: A menos que você estude, não vai conseguir passar na prova.
+S: Você estuda. Mas não vai conseguir passar na prova.
+
+C: Se bem que ela tenha se esforçado, não foi suficiente para alcançar o objetivo.
+S: Ela se esforçou. Mas não foi suficiente para alcançar o objetivo.
+
+C: Conquanto ele estivesse cansado, ele continuou trabalhando.
+S: Ele estava cansado. Mas continuou trabalhando.
+
+C: Mesmo que ela não goste, vamos ter que ir à festa.
+S: Ela não gosta. Mas vamos ter que ir à festa.
+
+C: Embora tenha chovido muito, fomos ao parque.
+S: Fomos ao parque. Mas choveu muito.
+
+C: Ainda que tenha estudado bastante, não consegui passar na prova.
+S: Não consegui passar na prova. Isso acontece mesmo que tenha estudado bastante.
+
+C: Apesar de ter acordado cedo, ainda me atrasei para o trabalho.
+S: Ainda me atrasei para o trabalho. Mas acordei cedo.
+
+C: Por mais que tenhamos insistido, eles não aceitaram a proposta.
+S: Eles não aceitaram a proposta. Isso acontece mesmo que tenhamos insistido.
+
+C: Embora tenha sido difícil, conseguimos concluir o projeto no prazo.
+S: Conseguimos concluir o projeto no prazo. Mas foi difícil.
+
+C: A menos que faça sol, não iremos à praia.
+S: Não iremos à praia. A menos que faça sol.
+
+C: Se bem que ele seja talentoso, não gosto da sua forma de agir.
+S: Não gosto da sua forma de agir. Ainda que ele seja talentoso.
+
+C: Mesmo que tenha dinheiro, não vamos comprar coisas desnecessárias.
+S: Não vamos comprar coisas desnecessárias. Isso acontece mesmo que tenha dinheiro.
+
+C: Por mais que estude, sempre fico nervoso antes das provas.
+S: Sempre fico nervoso antes das provas. Por mais que estude.
+
+C: Nem que você me peça, não vou emprestar o meu carro.
+S: Não vou emprestar o meu carro. Nem que você me peça.
+
+C: Embora tenha estudado muito, ele não conseguiu passar na prova.
+S: Ele estudou muito, mas não conseguiu passar na prova.
+
+C: Ainda que chova, irei ao parque.
+S: Vou ao parque mesmo que chova.
+
+C: Mesmo que tenha medo, ela vai enfrentar o desafio.
+S: Ela vai enfrentar o desafio mesmo tendo medo.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Ele continuou trabalhando, mesmo estando cansado.
+
+C: Por mais que peça desculpas, ele não vai perdoar.
+S: Ele não vai perdoar, por mais que peça desculpas.
+
+C: Conquanto tenha dinheiro, ele não se considera rico.
+S: Ele não se considera rico, mesmo tendo dinheiro.
+
+C: A menos que estude, você não vai passar na prova.
+S: Você não vai passar na prova, a menos que estude.
+
+C: Por muito que se esforce, ela não consegue alcançar seus objetivos.
+S: Ela não consegue alcançar seus objetivos, por muito que se esforce.
+
+C: Se bem que seja difícil, é possível resolver esse problema.
+S: É possível resolver esse problema, mesmo que seja difícil.
+
+C: Nem que eu ganhe na loteria, vou deixar de trabalhar.
+S: Eu não vou deixar de trabalhar, nem que eu ganhe na loteria.
+
+C: Embora o aluno tenha estudado muito, não conseguiu passar na prova.
+S: O aluno estudou muito. Mas não conseguiu passar na prova.
+
+C: Mesmo que chova, irei ao jogo de futebol.
+S: Vou ao jogo de futebol. Isso acontece mesmo que chova.
+
+C: Ainda que seja difícil, vou tentar resolver o problema.
+S: Vou tentar resolver o problema. Isso acontece mesmo que seja difícil.
+
+C: Por mais que eu me esforce, não consigo entender matemática.
+S: Eu me esforço muito, mas não consigo entender matemática.
+
+C: Apesar de estar cansado, vou trabalhar até tarde hoje.
+S: Vou trabalhar até tarde hoje. Mas estou cansado.
+
+C: Embora ele seja meu melhor amigo, nem sempre concordo com ele.
+S: Ele é meu melhor amigo. Mas nem sempre concordo com ele.
+
+C: Mesmo que doa, vou dizer a verdade.
+S: Vou dizer a verdade. Isso acontece mesmo que doa.
+
+C: A menos que chova, iremos ao parque amanhã.
+S: Iremos ao parque amanhã. Mas isso acontece apenas se não chover.
+
+C: Se bem que seja arriscado, decidi viajar sozinho.
+S: Decidi viajar sozinho. Isso acontece mesmo que seja arriscado.
+
+C: O prédio foi evacuado, embora os bombeiros tenham controlado o incêndio rapidamente.
+S: Os bombeiros controlaram o incêndio rapidamente. Mas o prédio foi evacuado.
+
+C: Embora tenha estudado muito, ele reprovou na prova.
+S: Ele estudou muito, mas reprovou na prova.
+
+C: Ainda que tenha chovido muito, o jogo não foi cancelado.
+S: Choveu muito, mas o jogo não foi cancelado.
+
+C: Por mais que tenha se esforçado, ele não conseguiu alcançar o objetivo.
+S: Ele se esforçou muito, mas não conseguiu alcançar o objetivo.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Ele estava cansado, mas continuou trabalhando.
+
+C: Conquanto tenha se machucado, ela terminou a corrida.
+S: Ela se machucou, mas terminou a corrida.
+
+C: Embora tenhamos planejado tudo, algo deu errado no evento.
+S: Planejamos, mas algo deu errado no evento.
+
+C: Mesmo que tenha chegado atrasado, ele foi aceito na reunião.
+S: Ele chegou atrasado, mas foi aceito na reunião.
+
+C: Por mais que tenha insistido, ela não aceitou a proposta.
+S: Ela insistiu, mas não aceitou a proposta.
+
+C: Ainda que tenha sido uma situação difícil, ele conseguiu lidar com ela.
+S: Foi uma situação difícil, mas ele conseguiu lidar com ela.
+
+C: A menos que tenhamos uma solução rápida, perderemos o prazo.
+S: Não teremos uma solução rápida, mas perderemos o prazo.
+
+C: Embora tenha estudado muito para a prova, ela não conseguiu alcançar uma boa nota.
+S: Ela não conseguiu alcançar uma boa nota. Mas estudou muito para a prova.
+
+C: Por mais que tenha feito diversas tentativas, ele não conseguiu abrir a porta trancada.
+S: Ele não conseguiu abrir a porta trancada. Mas fez diversas tentativas.
+
+C: Ainda que tenha chovido durante toda a semana, eles decidiram fazer o passeio.
+S: Eles decidiram fazer o passeio. Isso acontece mesmo que tenha chovido durante toda a semana.
+
+C: Embora tenhamos chegado atrasados, ainda conseguimos pegar o filme no meio.
+S: Ainda conseguimos pegar o filme no meio. Mas chegamos atrasados.
+
+C: Por mais que se esforce, ele nunca consegue atingir suas metas no trabalho.
+S: Ele nunca consegue atingir suas metas no trabalho. Mas se esforça.
+
+C: A menos que esteja muito cansado, ele sempre faz exercícios físicos pela manhã.
+S: Ele sempre faz exercícios físicos pela manhã. Mas não está muito cansado.
+
+C: Mesmo que tenha sido rude com ela, ela ainda o perdoou.
+S: Ela ainda o perdoou. Isso acontece mesmo que tenha sido rude com ela.
+
+C: Embora tenha se esforçado para economizar dinheiro, ela não conseguiu juntar uma quantia significativa.
+S: Ela não conseguiu juntar uma quantia significativa. Mas se esforçou para economizar dinheiro.
+
+C: Por mais que treine todos os dias, ele ainda não consegue tocar perfeitamente o instrumento.
+S: Ele ainda não consegue tocar perfeitamente o instrumento. Mas treina todos os dias.
+
+C: Apesar de ter feito uma boa apresentação, ele não foi selecionado para a vaga.
+S: Ele não foi selecionado para a vaga. Apesar de ter feito uma boa apresentação.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Ele estudou muito. Mas não passou no exame.
+
+C: Ainda que chova, vamos ao parque.
+S: Chove. Mas vamos ao parque.
+
+C: Apesar de ter perdido o jogo, ele estava feliz.
+S: Ele perdeu o jogo. Mas estava feliz.
+
+C: Por mais que tente, ela nunca consegue acertar.
+S: Ela tenta. Mas nunca consegue acertar.
+
+C: Mesmo que seja difícil, vou fazer esse trabalho.
+S: É difícil. Mas vou fazer esse trabalho.
+
+C: Conquanto esteja cansado, irei ao supermercado.
+S: Estou cansado. Mas irei ao supermercado.
+
+C: A menos que estude, não passará na prova.
+S: Não estude. Mas não passará na prova.
+
+C: Se bem que tenha errado, ele não desistiu.
+S: Ele errou. Mas não desistiu.
+
+C: Posto que tenha chovido, o jogo não foi cancelado.
+S: Choveu. Mas o jogo não foi cancelado.
+
+C: Nem que eu peça, ele não vai me emprestar dinheiro.
+S: Peço. Mas ele não vai me emprestar dinheiro.
+
+C: Apesar de ter estudado muito, Pedro não passou na prova.
+S: Pedro estudou muito, mas não passou na prova.
+
+C: Ainda que tenha chovido, nós fomos ao parque.
+S: Nós fomos ao parque, mesmo que tenha chovido.
+
+C: Embora tenha se atrasado, Joana ainda conseguiu pegar o ônibus.
+S: Joana se atrasou, mas ainda conseguiu pegar o ônibus.
+
+C: Por mais que tenha economizado, Pedro não conseguiu comprar o carro.
+S: Pedro economizou, mas não conseguiu comprar o carro.
+
+C: Apesar da dor nas pernas, ela continuou correndo.
+S: Ela continuou correndo, mesmo com dor nas pernas.
+
+C: Ainda que esteja cansado, vou terminar essa tarefa.
+S: Vou terminar essa tarefa, mesmo estando cansado.
+
+C: Embora tenha perdido o emprego, ele está feliz.
+S: Ele perdeu o emprego, mas está feliz.
+
+C: Por mais que tenha insistido, ela não conseguiu convencê-lo.
+S: Ela insistiu, mas não conseguiu convencê-lo.
+
+C: Apesar do cansaço, ele continuou trabalhando.
+S: Ele continuou trabalhando, mesmo cansado.
+
+C: Ainda que tenha estudado bastante, ela não passou no teste.
+S: Ela não passou no teste, mesmo tendo estudado bastante.
+
+C: Embora tivesse acordado cedo, ele chegou atrasado para o trabalho.
+S: Ele chegou atrasado para o trabalho. Mas mesmo tendo acordado cedo.
+
+C: Mesmo que estude muito, ele não consegue tirar boas notas.
+S: Ele não consegue tirar boas notas. Mas mesmo estudando muito.
+
+C: Ainda que tenha tentado resolver o problema, não encontrou uma solução.
+S: Ele não encontrou uma solução. Mas mesmo tendo tentado resolver o problema.
+
+C: Por mais que trabalhe duro, ele nunca recebe o reconhecimento que merece.
+S: Ele nunca recebe o reconhecimento que merece. Mas por mais que trabalhe duro.
+
+C: Embora tenha dinheiro para viajar, ele prefere ficar em casa.
+S: Ele prefere ficar em casa. Mas mesmo tendo dinheiro para viajar.
+
+C: Ainda que tenha recebido várias críticas, ele não se importa com a opinião dos outros.
+S: Ele não se importa com a opinião dos outros. Mas mesmo tendo recebido várias críticas.
+
+C: Por mais que se esforce, ela nunca consegue perder peso.
+S: Ela nunca consegue perder peso. Mas por mais que se esforce.
+
+C: Mesmo que tenha que acordar cedo, ele sempre está de bom humor.
+S: Ele sempre está de bom humor. Mas mesmo tendo que acordar cedo.
+
+C: Ainda que tenha se preparado muito, ele não passou no exame.
+S: Ele não passou no exame. Mas mesmo tendo se preparado muito.
+
+C: Por mais que treine, ele não consegue melhorar seu desempenho esportivo.
+S: Ele não consegue melhorar seu desempenho esportivo. Mas por mais que treine.
+
+C: Embora o tempo esteja chuvoso, eles decidiram sair para fazer um piquenique.
+S: Eles decidiram sair para fazer um piquenique. Mas o tempo está chuvoso.
+
+C: Ainda que a prova seja difícil, eu vou tentar fazer o meu melhor.
+S: Eu vou tentar fazer o meu melhor. Isso acontece mesmo que a prova seja difícil.
+
+C: Por mais que ele estude, ainda tem dificuldade em entender o assunto.
+S: Ele ainda tem dificuldade em entender o assunto. Mas estuda bastante.
+
+C: Apesar de a viagem ser cara, eles decidiram ir de qualquer maneira.
+S: Eles decidiram ir de qualquer maneira. Mas a viagem é cara.
+
+C: Mesmo que você não concorde, eu vou seguir em frente com o meu plano.
+S: Eu vou seguir em frente com o meu plano. Isso acontece mesmo que você não concorde.
+
+C: Embora pareça impossível, ainda tenho esperança de que tudo dará certo.
+S: Ainda tenho esperança de que tudo dará certo. Mas parece impossível.
+
+C: Por mais que ele tenha errado, ainda merece uma segunda chance.
+S: Ele ainda merece uma segunda chance. Mas ele errou bastante.
+
+C: Conquanto faça frio, ele prefere não usar casaco.
+S: Ele prefere não usar casaco. Mas faz frio.
+
+C: A menos que estude, você não vai passar na prova.
+S: Você não vai passar na prova. A menos que estude.
+
+C: Se bem que você tenha razão, eu ainda discordo da sua opinião.
+S: Eu ainda discordo da sua opinião. Se bem que você tenha razão.
+
+C: Apesar de ter chovido muito, o jogo de futebol não foi cancelado.
+S: O jogo de futebol não foi cancelado. Mas choveu muito.
+
+C: Ainda que tenha estudado muito, ela não passou na prova.
+S: Ela não passou na prova. Isso acontece mesmo que tenha estudado muito.
+
+C: Conquanto tenha dinheiro, ele não é feliz.
+S: Ele não é feliz. Mas tem dinheiro.
+
+C: Por mais que tente, ele não consegue resolver o problema.
+S: Ele não consegue resolver o problema. Isso acontece mesmo que tente.
+
+C: Apesar de estar cansado, ele não desiste.
+S: Ele não desiste. Mas está cansado.
+
+C: A menos que mude de ideia, não vou aceitar o convite.
+S: Não vou aceitar o convite. Isso acontece mesmo que mude de ideia.
+
+C: Mesmo que chore, não vou te perdoar.
+S: Não vou te perdoar. Isso acontece mesmo que chore.
+
+C: Nem que eu peça, ele não vai me ajudar.
+S: Ele não vai me ajudar. Mesmo que eu peça.
+
+C: Por muito que tente, ele não consegue me impressionar.
+S: Ele não consegue me impressionar. Isso acontece mesmo que tente muito.
+
+C: Embora tenha sido caro, o presente não agradou.
+S: O presente não agradou. Mas foi caro.
+
+C: Embora a equipe esteja em desvantagem, eles continuam lutando.
+S: A equipe continua lutando. Mas eles estão em desvantagem.
+
+C: Mesmo que o tempo esteja chuvoso, vou sair para caminhar.
+S: Vou sair para caminhar. Mas o tempo está chuvoso.
+
+C: Por mais que ela se esforce, ainda não consegue alcançar seu objetivo.
+S: Ela não consegue alcançar seu objetivo. Mas ela se esforça muito.
+
+C: Apesar de ter estudado bastante, ele não obteve uma boa nota na prova.
+S: Ele não obteve uma boa nota na prova. Mas ele estudou bastante.
+
+C: Ainda que tenha perdido o jogo, o time jogou com determinação.
+S: O time jogou com determinação. Mas eles perderam o jogo.
+
+C: Por mais que você tente convencê-lo, ele não vai mudar de ideia.
+S: Ele não vai mudar de ideia. Mas, por mais que você tente convencê-lo.
+
+C: Mesmo que ela esteja cansada, ela ainda vai ao treino de dança.
+S: Ela ainda vai ao treino de dança. Mas ela está cansada.
+
+C: A menos que estude bastante, você não vai passar no exame.
+S: Você não vai passar no exame. A menos que estude bastante.
+
+C: Não importa o quanto ela se esforce, ela nunca consegue agradar a todos.
+S: Ela nunca consegue agradar a todos. Não importa o quanto ela se esforce.
+
+C: Por mais que ele tente esconder, todos sabemos a verdade.
+S: Todos sabemos a verdade. Por mais que ele tente esconder.
+
+C: Embora seja tarde, os alunos ainda estão estudando.
+S: Os alunos ainda estão estudando. Mas é tarde.
+
+C: Por mais que tente, ela não consegue resolver o problema.
+S: Ela não consegue resolver o problema. Isso acontece mesmo que tente.
+
+C: Apesar de ter chovido, o campo continua seco.
+S: O campo continua seco. Mas choveu.
+
+C: Mesmo que esteja cansado, ele continua trabalhando.
+S: Ele continua trabalhando. Mas está cansado.
+
+C: Ainda que o governo tenha prometido, os preços continuam subindo.
+S: Os preços continuam subindo. Mas o governo prometeu.
+
+C: Embora seja um bom jogador, ele não foi selecionado para o time.
+S: Ele não foi selecionado para o time. Mas é um bom jogador.
+
+C: Por mais que tenha estudado, ela não passou na prova.
+S: Ela não passou na prova. Isso acontece mesmo que tenha estudado.
+
+C: Apesar do esforço, o resultado não foi satisfatório.
+S: O resultado não foi satisfatório. Mas houve esforço.
+
+C: Mesmo que não concordemos, vamos respeitar a decisão.
+S: Vamos respeitar a decisão. Mas não concordamos.
+
+C: Ainda que tenha sido difícil, ele conseguiu se adaptar.
+S: Ele conseguiu se adaptar. Mas foi difícil.
+
+C: Embora tenha estudado muito, não consegui passar na prova.
+S: Não consegui passar na prova. Mas estudei muito.
+
+C: Mesmo que o tempo esteja ruim, iremos à praia.
+S: Iremos à praia. Isso acontece mesmo que o tempo esteja ruim.
+
+C: Ainda que seja caro, vou comprar aquele vestido.
+S: Vou comprar aquele vestido. Isso acontece mesmo que seja caro.
+
+C: Por mais que tenha tentado, não consegui resolver o problema.
+S: Não consegui resolver o problema. Mas tentei muito.
+
+C: Embora a viagem seja longa, vamos de ônibus.
+S: Vamos de ônibus. Mas a viagem é longa.
+
+C: Nem que eu ganhe na loteria, conseguirei comprar aquele carro.
+S: Não conseguirei comprar aquele carro. Nem que eu ganhe na loteria.
+
+C: Por mais que eu me esforce, sempre cometo erros.
+S: Sempre cometo erros. Mas me esforço muito.
+
+C: A menos que você acorde cedo, perderá o voo.
+S: Perderá o voo. A menos que você acorde cedo.
+
+C: Embora seja difícil, vale a pena tentar.
+S: Vale a pena tentar. Mas é difícil.
+
+C: Se bem que não concorde, irei respeitar sua decisão.
+S: Irei respeitar sua decisão. Mesmo que não concorde.
+
+C: Embora tenha estudado bastante, ele não passou na prova.
+S: Ele estudou bastante, mas não passou na prova.
+
+C: Ainda que tenha chovido muito, o jogo não foi cancelado.
+S: Choveu muito, mas o jogo não foi cancelado.
+
+C: Posto que tenha se esforçado, ela não conseguiu alcançar seu objetivo.
+S: Ela se esforçou, mas não conseguiu alcançar seu objetivo.
+
+C: Por mais que tente explicar, ele não vai entender.
+S: Ele não vai entender, por mais que tente explicar.
+
+C: Mesmo que tenha acordado cedo, ele chegou atrasado.
+S: Ele acordou cedo, mas chegou atrasado.
+
+C: A menos que tenha dinheiro, você não vai poder viajar.
+S: Você não vai poder viajar, a menos que tenha dinheiro.
+
+C: Se bem que tenha falado com ele, ele não me ouviu.
+S: Eu falei com ele, mas ele não me ouviu.
+
+C: Nem que treine muito, ela não vai conseguir vencer.
+S: Ela treina muito, mas não vai conseguir vencer.
+
+C: Apesar de que tenha sido convidada, ela decidiu não ir à festa.
+S: Ela foi convidada, mas decidiu não ir à festa.
+
+C: Por mais que tenha tentado convencer, ele não mudou de ideia.
+S: Ele não mudou de ideia, por mais que eu tenha tentado convencer.
+
+C: Embora esteja chovendo, irei sair para fazer compras.
+S: Irei sair para fazer compras. Mas está chovendo.
+
+C: Mesmo que você se esforce, pode não conseguir alcançar seu objetivo.
+S: Você pode não conseguir alcançar seu objetivo. Mas mesmo que se esforce.
+
+C: Ainda que tenha estudado muito, ele foi mal na prova.
+S: Ele foi mal na prova. Isso acontece mesmo que tenha estudado muito.
+
+C: Apesar de estar com sono, vou continuar trabalhando.
+S: Vou continuar trabalhando. Mas estou com sono.
+
+C: Por mais que você insista, não vou mudar de ideia.
+S: Não vou mudar de ideia. Por mais que você insista.
+
+C: O carro está com problema, mas ainda assim consegui chegar a tempo.
+S: Ainda assim consegui chegar a tempo. O carro está com problema, mas.
+
+C: Mesmo que seja difícil, acredito que posso fazer isso.
+S: Acredito que posso fazer isso. Mesmo que seja difícil.
+
+C: A menos que chova, iremos para a praia amanhã.
+S: Iremos para a praia amanhã. A menos que chova.
+
+C: Ainda que tenha perdido o ônibus, consegui chegar a tempo para a aula.
+S: Consegui chegar a tempo para a aula. Ainda que tenha perdido o ônibus.
+
+C: Mesmo que esteja cansado, vou fazer o exercício físico.
+S: Vou fazer o exercício físico. Mesmo que esteja cansado.
+
+C: Embora seja tarde da noite, continuarei estudando.
+S: Continuarei estudando, mas é tarde da noite.
+
+C: Por mais que eu me esforce, não consigo entender essa matéria.
+S: Não consigo entender essa matéria, por mais que eu me esforce.
+
+C: Mesmo que chova, irei ao parque.
+S: Irei ao parque, mesmo que chova.
+
+C: Ainda que tenha dificuldades, não desistirei.
+S: Não desistirei, mesmo que tenha dificuldades.
+
+C: Apesar de estarmos cansados, seguiremos em frente.
+S: Seguiremos em frente, mesmo estando cansados.
+
+C: Posto que seja necessário, farei tudo o que estiver ao meu alcance.
+S: Farei tudo o que estiver ao meu alcance, mas é necessário.
+
+C: Se bem que esteja calor, vou usar agasalho.
+S: Vou usar agasalho, mas está calor.
+
+C: Nem que eu precise acordar cedo, não vou perder essa oportunidade.
+S: Não vou perder essa oportunidade, nem que eu precise acordar cedo.
+
+C: Conquanto o caminho seja difícil, continuo perseverando.
+S: Continuo perseverando, mesmo que o caminho seja difícil.
+
+C: Por muito que tente, não consigo resolver esse problema.
+S: Não consigo resolver esse problema, por muito que tente.
+
+C: Embora tenha chovido, ela decidiu sair de casa.
+S: Ela decidiu sair de casa. Mas choveu.
+
+C: Ainda que ela esteja cansada, ela não desiste.
+S: Ela não desiste. Isso acontece mesmo que esteja cansada.
+
+C: Por mais que eles argumentem, eu não mudarei minha opinião.
+S: Eu não mudarei minha opinião. Isso acontece mesmo que eles argumentem.
+
+C: Apesar de ter estudado muito, ele não passou na prova.
+S: Ele não passou na prova. Mas ele estudou muito.
+
+C: Mesmo que eles tentem me convencer, eu não irei.
+S: Eu não irei. Isso acontece mesmo que eles tentem me convencer.
+
+C: Embora eu tenha tentado, não consegui resolver o problema.
+S: Eu não consegui resolver o problema. Mas eu tentei.
+
+C: A menos que ele venha me buscar, não irei ao encontro.
+S: Eu não irei ao encontro. A menos que ele venha me buscar.
+
+C: Se bem que ela tenha se esforçado, não obteve o resultado esperado.
+S: Ela não obteve o resultado esperado. Mas ela se esforçou.
+
+C: Por mais que eu me esforce, não consigo alcançar meus objetivos.
+S: Eu não consigo alcançar meus objetivos. Isso acontece mesmo que eu me esforce.
+
+C: Conquanto tenhamos tentado evitar, o acidente aconteceu.
+S: O acidente aconteceu. Mas tentamos evitar.
+
+C: Embora a prova esteja difícil, a aluna estudou bastante.
+S: A aluna estudou bastante. Mas a prova está difícil.
+
+C: Por mais que a equipe se esforce, eles não conseguem vencer o jogo.
+S: A equipe se esforça, mas não conseguem vencer o jogo.
+
+C: Mesmo que chova, iremos ao parque.
+S: Iremos ao parque. Mas mesmo que chova.
+
+C: Ainda que ele tenha cometido erros, merece uma segunda chance.
+S: Ele merece uma segunda chance. Mesmo que tenha cometido erros.
+
+C: Embora seja sábado, vou trabalhar.
+S: Vou trabalhar. Mas é sábado.
+
+C: Por mais que ela tente esconder, todos sabem a verdade.
+S: Todos sabem a verdade. Mas por mais que ela tente esconder.
+
+C: A menos que você estude, não vai passar na prova.
+S: Você não vai passar na prova. A menos que estude.
+
+C: Se bem que ele seja jovem, tem muita experiência.
+S: Ele tem muita experiência. Mas, se bem que seja jovem.
+
+C: Conquanto chova, irei ao parque.
+S: Irei ao parque. Mas, conquanto chova.
+
+C: Ainda que ela seja minha irmã, não concordo com as suas atitudes.
+S: Não concordo com as atitudes dela. Mas, ainda que ela seja minha irmã.
+
+C: Embora tenha chovido durante todo o dia, eles decidiram fazer o piquenique no parque.
+S: Eles decidiram fazer o piquenique no parque. Mas choveu durante todo o dia.
+
+C: Ainda que esteja cansado, ele vai continuar estudando até tarde da noite.
+S: Ele vai continuar estudando até tarde da noite. Isso acontece mesmo que esteja cansado.
+
+C: Por mais que tenha economizado dinheiro, ela não conseguiu comprar o carro dos seus sonhos.
+S: Ela não conseguiu comprar o carro dos seus sonhos. Mas ela economizou dinheiro.
+
+C: Embora tenha perdido o jogo, ele estava satisfeito com o seu desempenho.
+S: Ele estava satisfeito com o seu desempenho. Mas ele perdeu o jogo.
+
+C: A menos que estude para a prova, ela não vai conseguir uma boa nota.
+S: Ela não vai conseguir uma boa nota. A menos que estude para a prova.
+
+C: Se bem que tenha acordado tarde, ele ainda conseguiu chegar na hora.
+S: Ele ainda conseguiu chegar na hora. Mas acordou tarde.
+
+C: Conquanto tenha se machucado, ele continuou participando da competição.
+S: Ele continuou participando da competição. Mas se machucou.
+
+C: Apesar de ter sido advertido, ele não mudou o seu comportamento.
+S: Ele não mudou o seu comportamento. Apesar de ter sido advertido.
+
+C: Mesmo que tenha ficado cansado, ele decidiu correr uma maratona.
+S: Ele decidiu correr uma maratona. Mesmo que tenha ficado cansado.
+
+C: Nem que tenha que passar a noite acordado, ele vai terminar o seu trabalho.
+S: Ele vai terminar o seu trabalho. Nem que tenha que passar a noite acordado.
+
+C: Embora o tempo esteja chuvoso, os jogadores decidiram continuar o jogo.
+S: Os jogadores decidiram continuar o jogo. Mas o tempo está chuvoso.
+
+C: Ainda que a obra seja cara, decidimos investir nela.
+S: Decidimos investir na obra. Isso acontece mesmo que ela seja cara.
+
+C: Apesar de ter dormido pouco, ela conseguiu terminar o trabalho a tempo.
+S: Ela conseguiu terminar o trabalho a tempo. Mas dormiu pouco.
+
+C: Por mais que estude, ele sempre tem dificuldades em matemática.
+S: Ele sempre tem dificuldades em matemática. Isso acontece mesmo que estude muito.
+
+C: Mesmo que tenha errado, ele merece uma segunda chance.
+S: Ele merece uma segunda chance. Isso acontece mesmo que tenha errado.
+
+C: Embora tenha tentado explicar, ele não entendeu o assunto.
+S: Ele não entendeu o assunto. Mas tentou explicar.
+
+C: A menos que melhore sua postura, ele não será aceito na competição.
+S: Ele não será aceito na competição. Isso acontece a menos que melhore sua postura.
+
+C: Por mais que coma, ele nunca engorda.
+S: Ele nunca engorda. Isso acontece mesmo que coma muito.
+
+C: Nem que chovesse muito, eles cancelariam o evento.
+S: Eles não cancelariam o evento. Nem que chovesse muito.
+
+C: Por muito que trabalhe, ele nunca ganha um aumento salarial.
+S: Ele nunca ganha um aumento salarial. Isso acontece por muito que trabalhe.
+
+C: Embora tenha chovido muito, o jogo foi realizado.
+S: Choveu muito. Mas o jogo foi realizado.
+
+C: Por mais que estude, ela continua tendo dificuldades em matemática.
+S: Ela estuda muito. Mas continua tendo dificuldades em matemática.
+
+C: Mesmo que tome precauções, às vezes ainda se machuca.
+S: Ela toma precauções. Mas às vezes ainda se machuca.
+
+C: Apesar de ter perdido o emprego, ele continua otimista.
+S: Ele perdeu o emprego. Mas continua otimista.
+
+C: Ainda que tenha estudado bastante, ele não passou na prova.
+S: Ele estudou bastante. Mas não passou na prova.
+
+C: Embora esteja cansado, ele ainda insistiu em sair.
+S: Ele está cansado. Mas ainda insistiu em sair.
+
+C: Por mais que economize, ela nunca consegue guardar dinheiro.
+S: Ela economiza muito. Mas nunca consegue guardar dinheiro.
+
+C: Mesmo que tenha errado, ele merece uma segunda chance.
+S: Ele errou. Mas mesmo assim merece uma segunda chance.
+
+C: Apesar de ser feriado, muitas pessoas foram trabalhar.
+S: É feriado. Mas muitas pessoas foram trabalhar.
+
+C: Ainda que tenha feito o melhor, ele não foi premiado.
+S: Ele fez o melhor. Mas não foi premiado.
+
+C: Embora o trânsito esteja caótico, consegui chegar a tempo.
+S: O trânsito está caótico. Mas consegui chegar a tempo.
+
+C: Ainda que ela seja muito inteligente, não consegue resolver o problema.
+S: Ela é muito inteligente. Mas não consegue resolver o problema.
+
+C: Mesmo que você me peça, não vou emprestar dinheiro para você.
+S: Você me pede, mas não vou emprestar dinheiro para você.
+
+C: Apesar de estar cansado, ele decidiu ir à festa.
+S: Está cansado, mas ele decidiu ir à festa.
+
+C: Por mais que eu tente, não consigo entender essa teoria.
+S: Tento, mas não consigo entender essa teoria.
+
+C: Se bem que ela não tenha experiência, vai conseguir fazer um bom trabalho.
+S: Ela não tem experiência. Mas vai conseguir fazer um bom trabalho.
+
+C: Nem que eu tenha que acordar cedo, vou assistir ao jogo.
+S: Tenho que acordar cedo. Mas vou assistir ao jogo.
+
+C: Posto que o resultado seja inesperado, estou confiante na minha escolha.
+S: O resultado é inesperado. Mas estou confiante na minha escolha.
+
+C: Por muito que você tente, não vai conseguir me convencer.
+S: Você tenta, mas não vai conseguir me convencer.
+
+C: Por mais que você estude, não vai passar na prova.
+S: Você estuda, mas não vai passar na prova.
+
+C: Embora tenha estudado bastante, o aluno não conseguiu passar no exame.
+
+S: O aluno estudou bastante. Mas não conseguiu passar no exame.
+
+C: Posto que tenha chovido muito, o evento aconteceu conforme planejado.
+
+S: Choveu muito. Mas o evento aconteceu conforme planejado.
+
+C: Ainda que tenha acordado cedo, ela chegou atrasada no trabalho.
+
+S: Ela acordou cedo. Mas chegou atrasada no trabalho.
+
+C: Apesar de ter treinado diariamente, ele não conseguiu vencer a competição.
+
+S: Ele treinou diariamente. Mas não conseguiu vencer a competição.
+
+C: Por mais que tenha economizado dinheiro, ele não conseguiu comprar o carro dos sonhos.
+
+S: Ele economizou dinheiro. Mas não conseguiu comprar o carro dos sonhos.
+
+C: Mesmo que tenha se esforçado, ela não alcançou seus objetivos.
+
+S: Ela se esforçou. Mas não alcançou seus objetivos.
+
+C: A menos que estude para a prova, ele vai tirar uma nota baixa.
+
+S: Ele vai tirar uma nota baixa. Mas estude para a prova.
+
+C: Se bem que tenha recebido a promoção, ele não está feliz no novo cargo.
+
+S: Ele recebeu a promoção. Mas não está feliz no novo cargo.
+
+C: Nem que ele peça desculpas, eu vou perdoá-lo.
+
+S: Ele pode pedir desculpas. Mas eu não vou perdoá-lo.
+
+C: Por muito que ela tente, não vai conseguir convencê-lo.
+
+S: Ela está tentando muito. Mas não vai conseguir convencê-lo.
+
+C: Embora tenha estudado muito, não consegui alcançar uma nota alta.
+S: Não consegui alcançar uma nota alta. Mas estudei muito.
+
+C: Ainda que esteja cansado, vou continuar trabalhando.
+S: Vou continuar trabalhando. Isso acontece mesmo que esteja cansado.
+
+C: Por mais que tente, não consigo resolver esse quebra-cabeça.
+S: Não consigo resolver esse quebra-cabeça. Isso acontece mesmo que tente.
+
+C: Embora tenha chovido muito, decidi sair de casa.
+S: Decidi sair de casa. Mas choveu muito.
+
+C: A menos que estude bastante, você não conseguirá boas notas.
+S: Você não conseguirá boas notas. A menos que estude bastante.
+
+C: Se bem que ele tenha cometido um erro, merece uma segunda chance.
+S: Ele merece uma segunda chance. Mas cometeu um erro.
+
+C: Conquanto esteja cansado, vou continuar até o final.
+S: Vou continuar até o final. Ainda que esteja cansado.
+
+C: Por mais que eu te peça, você nunca me ajuda.
+S: Você nunca me ajuda. Por mais que eu te peça.
+
+C: Embora tenha perdido o jogo, estou feliz por ter participado.
+S: Estou feliz por ter participado. Mas perdi o jogo.
+
+C: Nem que tenha que acordar cedo, vou viajar para o evento.
+S: Vou viajar para o evento. Nem que tenha que acordar cedo.
+
+C: Embora tenha estudado muito, ele não conseguiu passar no exame.
+S: Ele estudou muito, mas não conseguiu passar no exame.
+
+C: Mesmo que eu não concorde, vou respeitar a sua decisão.
+S: Eu não concordo, mas vou respeitar a sua decisão.
+
+C: Ainda que tenhamos pouco tempo, vamos tentar terminar o projeto.
+S: Temos pouco tempo, mas vamos tentar terminar o projeto.
+
+C: Por mais que treine, ela não consegue acertar o gol.
+S: Ela treina muito, mas não consegue acertar o gol.
+
+C: Embora seja caro, esse carro é bastante econômico.
+S: Esse carro é caro, mas bastante econômico.
+
+C: A menos que chova, vamos fazer um picnic no parque.
+S: Se não chover, vamos fazer um picnic no parque.
+
+C: Nem que demore a noite toda, vou terminar esse trabalho.
+S: Vou terminar esse trabalho, mesmo que demore a noite toda.
+
+C: Mesmo que não concordem, eles vão seguir as ordens do chefe.
+S: Eles não concordam, mas vão seguir as ordens do chefe.
+
+C: Apesar de estar cansado, ele continua trabalhando.
+S: Ele está cansado, mas continua trabalhando.
+
+C: Por mais que se esforce, ele não consegue entender a matéria.
+S: Ele se esforça muito, mas não consegue entender a matéria.
+
+C: Embora tenha estudado muito, Pedro não conseguiu passar na prova.
+S: Pedro estudou muito. Mas não conseguiu passar na prova.
+
+C: Ainda que tenha chovido bastante, conseguimos realizar o passeio.
+S: Choveu bastante. Mas conseguimos realizar o passeio.
+
+C: Posto que tenha errado algumas vezes, ela não desistiu de tentar.
+S: Ela errou algumas vezes. Mas não desistiu de tentar.
+
+C: Por mais que tenha se esforçado, ele não alcançou o resultado desejado.
+S: Ele se esforçou bastante. Mas não alcançou o resultado desejado.
+
+C: Apesar de que tenham feito um bom trabalho, não receberam reconhecimento.
+S: Eles fizeram um bom trabalho. Mas não receberam reconhecimento.
+
+C: Mesmo que tenha sido convidado, ele decidiu não comparecer à festa.
+S: Ele foi convidado. Mas decidiu não comparecer à festa.
+
+C: Nem que tenha que acordar cedo, vou assistir ao nascer do sol.
+S: Vou assistir ao nascer do sol. Mas mesmo que tenha que acordar cedo.
+
+C: Por mais que tenha se esforçado, ela não conseguiu perder peso.
+S: Ela se esforçou bastante. Mas não conseguiu perder peso.
+
+C: Ainda que tenha sido caro, ele comprou o celular que tanto queria.
+S: Foi caro. Mas ele comprou o celular que tanto queria.
+
+C: Conquanto tenha se machucado, ele continuou jogando futebol.
+S: Ele se machucou. Mas continuou jogando futebol.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele não passou na prova. Mas estudou muito.
+
+C: Ainda que tenha chovido bastante, eles decidiram fazer o piquenique.
+S: Eles decidiram fazer o piquenique. Mesmo que tenha chovido bastante.
+
+C: Por mais que tenha se esforçado, ela não conseguiu alcançar o objetivo.
+S: Ela não conseguiu alcançar o objetivo. Mesmo que tenha se esforçado.
+
+C: Apesar de ser tarde, ele ainda foi à academia.
+S: Ele ainda foi à academia. Mas era tarde.
+
+C: Embora tenha perdido o primeiro jogo, eles continuam determinados a vencer.
+S: Eles continuam determinados a vencer. Mas perderam o primeiro jogo.
+
+C: A menos que estudem mais, não vão passar de ano.
+S: Eles não vão passar de ano. A menos que estudem mais.
+
+C: Se bem que estava cansado, ele decidiu sair com os amigos.
+S: Ele decidiu sair com os amigos. Mesmo que estivesse cansado.
+
+C: Mesmo que tenha chovido, eles foram à praia.
+S: Eles foram à praia. Mesmo que tenha chovido.
+
+C: Por mais que tenha tentado, ela não conseguiu resolver o problema.
+S: Ela não conseguiu resolver o problema. Por mais que tenha tentado.
+
+C: Ainda que estivessem atrasados, eles conseguiram chegar a tempo.
+S: Eles conseguiram chegar a tempo. Ainda que estivessem atrasados.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+
+S: Ele estudou muito, mas não passou no exame.
+
+C: Ainda que tenha chovido bastante, o jogo não foi cancelado.
+
+S: Choveu bastante, mas o jogo não foi cancelado.
+
+C: Por mais que se esforce, ela não consegue resolver o problema.
+
+S: Ela se esforça muito, mas não consegue resolver o problema.
+
+C: Embora tenha acordado cedo, ele ainda está atrasado.
+
+S: Ele acordou cedo, mas ainda está atrasado.
+
+C: A menos que estude, ele não vai passar no teste.
+
+S: Ele não vai passar no teste, a menos que estude.
+
+C: Se bem que seja difícil, vale a pena tentar.
+
+S: Vale a pena tentar, embora seja difícil.
+
+C: Conquanto ele tenha avisado, ninguém prestou atenção.
+
+S: Ninguém prestou atenção, mesmo que ele tenha avisado.
+
+C: Nem que ganhasse na loteria, ele compraria aquele carro.
+
+S: Ele não compraria aquele carro, nem que ganhasse na loteria.
+
+C: Apesar de que tenha tentado, ainda não conseguiu resolver o problema.
+
+S: Ele ainda não conseguiu resolver o problema, mesmo que tenha tentado.
+
+C: Por muito que reclame, ele não vai mudar a decisão.
+
+S: Ele não vai mudar a decisão, por muito que reclame.
+
+C: Embora tenha estudado bastante, o aluno não conseguiu passar na prova.
+S: O aluno não conseguiu passar na prova. Mas estudou bastante.
+
+C: Posto que tenha chovido bastante, decidiu-se realizar o evento ao ar livre.
+S: Decidiu-se realizar o evento ao ar livre. Mas choveu bastante.
+
+C: Ainda que não tenha muito dinheiro, ela decidiu viajar.
+S: Ela decidiu viajar. Isso acontece mesmo que não tenha muito dinheiro.
+
+C: Por mais que tenha sido cansativo, eles conseguiram terminar o projeto no prazo.
+S: Eles conseguiram terminar o projeto no prazo. Mas foi cansativo.
+
+C: Mesmo que chegue atrasado, não deixe de participar da reunião.
+S: Não deixe de participar da reunião. Isso acontece mesmo que chegue atrasado.
+
+C: Embora sejam rivais, eles são bons amigos.
+S: Eles são bons amigos. Mas são rivais.
+
+C: Apesar de ter perdido o jogo, o time comemorou bastante.
+S: O time comemorou bastante. Mas perdeu o jogo.
+
+C: Nem que chova, iremos ao parque fazer piquenique.
+S: Iremos ao parque fazer piquenique. Isso acontece mesmo que chova.
+
+C: Por mais que esteja ocupado, ele sempre arranja tempo para a família.
+S: Ele sempre arranja tempo para a família. Isso acontece mesmo que esteja ocupado.
+
+C: Se bem que seja difícil, ela nunca desiste.
+S: Ela nunca desiste. Isso acontece mesmo que seja difícil.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Ele estudou muito, mas não passou na prova.
+
+C: Ainda que tenha chovido, eles decidiram ir à praia.
+S: Eles decidiram ir à praia, mesmo que tenha chovido.
+
+C: Por mais que tenha tentado, ela não conseguiu convencê-lo.
+S: Ela não conseguiu convencê-lo, por mais que tenha tentado.
+
+C: Mesmo que tenha acordado cedo, ele chegou atrasado no trabalho.
+S: Ele chegou atrasado no trabalho, mesmo que tenha acordado cedo.
+
+C: Apesar de que tenha perdido a chave, ele conseguiu entrar em casa.
+S: Ele conseguiu entrar em casa, apesar de ter perdido a chave.
+
+C: Embora não tenha gostado do filme, ela assistiu até o final.
+S: Ela assistiu até o final, mesmo sem ter gostado do filme.
+
+C: Por mais que tenha se esforçado, ele não conseguiu alcançar seu objetivo.
+S: Ele não conseguiu alcançar seu objetivo, por mais que tenha se esforçado.
+
+C: Ainda que tenha sido difícil, eles conseguiram terminar o projeto a tempo.
+S: Eles conseguiram terminar o projeto a tempo, mesmo que tenha sido difícil.
+
+C: Por mais que tenham se preparado, eles não foram aprovados no exame.
+S: Eles não foram aprovados no exame, por mais que tenham se preparado.
+
+C: Apesar de que tenha chovido, eles decidiram fazer o passeio.
+S: Eles decidiram fazer o passeio, mesmo com a chuva.
+
+C: Embora tenha chovido muito, a corrida de carros foi realizada.
+S: A corrida de carros foi realizada. Mas choveu muito.
+
+C: Ainda que tenha estudado bastante, o aluno não conseguiu passar na prova.
+S: O aluno não conseguiu passar na prova. Isso acontece mesmo que tenha estudado bastante.
+
+C: Por mais que tenha se esforçado, ele não conseguiu alcançar o objetivo.
+S: Ele não conseguiu alcançar o objetivo. Isso acontece mesmo que tenha se esforçado.
+
+C: Mesmo que tenha economizado dinheiro, ele não conseguiu comprar a casa dos sonhos.
+S: Ele não conseguiu comprar a casa dos sonhos. Isso acontece mesmo que tenha economizado dinheiro.
+
+C: Embora tenha acordado cedo, ela se atrasou para o trabalho.
+S: Ela se atrasou para o trabalho. Mas acordou cedo.
+
+C: Apesar de ser um ótimo jogador, ele nunca foi convocado para a seleção nacional.
+S: Ele nunca foi convocado para a seleção nacional. Apesar de ser um ótimo jogador.
+
+C: Ainda que tenha feito uma proposta irrecusável, ele recusou o emprego.
+S: Ele recusou o emprego. Isso acontece mesmo que tenha feito uma proposta irrecusável.
+
+C: Por mais que tenha se exercitado diariamente, ela não conseguiu perder peso.
+S: Ela não conseguiu perder peso. Isso acontece mesmo que tenha se exercitado diariamente.
+
+C: Embora tenha sido informado sobre o problema, ele não tomou nenhuma providência.
+S: Ele não tomou nenhuma providência. Mas foi informado sobre o problema.
+
+C: Mesmo que tenha ganhado na loteria, ele continuou trabalhando.
+S: Ele continuou trabalhando. Isso acontece mesmo que tenha ganhado na loteria.
+
+C: Embora tenha estudado muito, ela não conseguiu passar na prova.
+S: Ela estudou muito. Mas não conseguiu passar na prova.
+
+C: Mesmo que chova, irei ao parque.
+S: Vou ao parque. Mesmo que chova.
+
+C: Ainda que seja difícil, não desista.
+S: Não desista. Mesmo que seja difícil.
+
+C: Por mais que tente, ele nunca conseguirá me enganar.
+S: Ele nunca conseguirá me enganar. Por mais que tente.
+
+C: Apesar de estar com sono, eu continuo trabalhando.
+S: Eu continuo trabalhando. Apesar de estar com sono.
+
+C: Embora tenha chegado atrasado, ele ainda conseguiu participar da reunião.
+S: Ele chegou atrasado. Mas ainda conseguiu participar da reunião.
+
+C: Mesmo que esteja ocupado, vou te ajudar no que precisar.
+S: Vou te ajudar no que precisar. Mesmo que esteja ocupado.
+
+C: Ainda que seja caro, eu vou comprar esse vestido.
+S: Eu vou comprar esse vestido. Ainda que seja caro.
+
+C: Por mais que reclame, eu não vou mudar de ideia.
+S: Eu não vou mudar de ideia. Por mais que reclame.
+
+C: Embora esteja cansado, vou continuar correndo.
+S: Vou continuar correndo. Embora esteja cansado.
+
+C: Embora tenha estudado muito, João não conseguiu passar na prova.
+S: João estudou muito, mas não conseguiu passar na prova.
+
+C: Ainda que tenha chovido durante todo o dia, o jogo de futebol foi realizado.
+S: Choveu durante todo o dia, mas o jogo de futebol foi realizado.
+
+C: Por mais que tenha tentado convencer sua mãe, ele não conseguiu sair de casa.
+S: Ele tentou convencer sua mãe, mas não conseguiu sair de casa.
+
+C: Mesmo que tenha se esforçado, Maria não conseguiu ganhar a competição de natação.
+S: Maria se esforçou, mas não conseguiu ganhar a competição de natação.
+
+C: Embora prefira o calor, ela decidiu viajar para um lugar frio.
+S: Ela prefere o calor, mas decidiu viajar para um lugar frio.
+
+C: A menos que chegue a tempo, ele perderá o voo.
+S: Se não chegar a tempo, ele perderá o voo.
+
+C: Se bem que seja tarde, ainda podemos encontrar um restaurante aberto.
+S: É tarde, mas ainda podemos encontrar um restaurante aberto.
+
+C: Conquanto o trânsito esteja caótico, o motorista chegou ao destino em segurança.
+S: O trânsito está caótico, mas o motorista chegou ao destino em segurança.
+
+C: Nem que chova muito, eu não vou desistir de ir ao parque.
+S: Mesmo que chova muito, eu não vou desistir de ir ao parque.
+
+C: Por mais que o preço seja alto, ela decidiu comprar o vestido.
+S: O preço é alto, mas ela decidiu comprar o vestido.
+
+C: Embora a chuva tenha adiado o jogo, os jogadores estavam animados para jogar.
+S: Os jogadores estavam animados para jogar. Mas a chuva adiou o jogo.
+
+C: Ainda que o trabalho seja difícil, ele está determinado a conseguir.
+S: O trabalho é difícil. Mas ele está determinado a conseguir.
+
+C: Por mais que ela estude, ainda se sente insegura para o teste.
+S: Ela estuda muito. Mas ainda se sente insegura para o teste.
+
+C: Mesmo que ele seja rico, prefere ter uma vida simples.
+S: Ele é rico. Mas prefere ter uma vida simples.
+
+C: A menos que você estude, não irá passar na prova.
+S: Não irá passar na prova. Mas você estuda.
+
+C: Se bem que ele seja inteligente, às vezes comete erros bobos.
+S: Ele é inteligente. Mas às vezes comete erros bobos.
+
+C: Conquanto a viagem seja cansativa, ela está ansiosa para conhecer o destino.
+S: A viagem é cansativa. Mas ela está ansiosa para conhecer o destino.
+
+C: Embora o filme seja longo, vale a pena assistir até o fim.
+S: O filme é longo. Mas vale a pena assistir até o fim.
+
+C: Por mais que ele procure, não encontra a resposta para o problema.
+S: Ele procura muito. Mas não encontra a resposta para o problema.
+
+C: Nem que chova, irei ao jogo de futebol.
+S: Irei ao jogo de futebol. Mesmo que chova.
+
+C: Apesar de ter estudado muito, ele não passou na prova.
+S: Ele não passou na prova, mesmo tendo estudado muito.
+
+C: Ainda que tenha chovido muito, eles decidiram fazer o passeio.
+S: Eles decidiram fazer o passeio, mesmo tendo chovido muito.
+
+C: Por mais que tentasse, ele não conseguiu resolver o problema.
+S: Ele não conseguiu resolver o problema, por mais que tentasse.
+
+C: Embora estivesse cansado, ele continuou trabalhando.
+S: Ele continuou trabalhando, mesmo estando cansado.
+
+C: Mesmo que tenha sido difícil, ela não desistiu.
+S: Ela não desistiu, mesmo que tenha sido difícil.
+
+C: A menos que tenha dinheiro, não poderá comprar o carro.
+S: Não poderá comprar o carro, a menos que tenha dinheiro.
+
+C: Conquanto tenha medo, ele enfrentou seus problemas.
+S: Ele enfrentou seus problemas, conquanto tenha medo.
+
+C: Por mais que estivesse atrasado, ele não correu.
+S: Ele não correu, por mais que estivesse atrasado.
+
+C: Embora esteja frio, ele preferiu não vestir um casaco.
+S: Ele preferiu não vestir um casaco, embora esteja frio.
+
+C: Apesar de ter errado várias vezes, ele não desistiu.
+S: Ele não desistiu, mesmo tendo errado várias vezes.
+
+C: Embora tenha estudado bastante, não consegui passar na prova.
+S: Não consegui passar na prova. Mas estudei bastante.
+
+C: Ainda que tenha chovido, o evento foi um sucesso.
+S: O evento foi um sucesso. Isso aconteceu mesmo que tenha chovido.
+
+C: Por mais que tenha insistido, ele não cedeu.
+S: Ele não cedeu. Mas insisti por mais que isso.
+
+C: Embora tenha chegado atrasado, ele conseguiu participar da reunião.
+S: Ele conseguiu participar da reunião. Mas chegou atrasado.
+
+C: A mãe permitiu que ele saísse, por mais que estivesse preocupada.
+S: A mãe permitiu que ele saísse. Isso aconteceu mesmo que estivesse preocupada.
+
+C: A equipe perdeu o jogo, embora tenha se esforçado muito.
+S: A equipe perdeu o jogo. Mas se esforçou muito.
+
+C: Por mais que tenha treinado, ele não conseguiu alcançar o recorde.
+S: Ele não conseguiu alcançar o recorde. Mas treinou por mais que isso.
+
+C: Embora tenha economizado dinheiro, ela ainda não pode comprar o carro.
+S: Ela ainda não pode comprar o carro. Mas economizou dinheiro.
+
+C: Ainda que tenha recebido boas críticas, ele não se sentiu satisfeito.
+S: Ele não se sentiu satisfeito. Mas recebeu boas críticas.
+
+C: Por mais que se esforce, ela não consegue entender a matéria.
+S: Ela não consegue entender a matéria. Mas se esforça por mais que isso.
+
+C: Embora tenha estudado até tarde, ele não conseguiu passar na prova.
+S: Ele estudou até tarde. Mas não conseguiu passar na prova.
+
+C: Ainda que tenha chovido muito, o jogo foi realizado.
+S: Choveu muito. Mas o jogo foi realizado.
+
+C: Apesar de ter se esforçado, ela não conseguiu o emprego.
+S: Ela se esforçou. Mas não conseguiu o emprego.
+
+C: Por mais que tenha tentado, ele não conseguiu resolver o problema.
+S: Ele tentou. Mas não conseguiu resolver o problema.
+
+C: Embora tenha economizado dinheiro, ela não conseguiu viajar.
+S: Ela economizou dinheiro. Mas não conseguiu viajar.
+
+C: Ainda que tenha solicitado, ele não recebeu o aumento salarial.
+S: Ele solicitou. Mas não recebeu o aumento salarial.
+
+C: Apesar de ter treinado bastante, ele perdeu a competição.
+S: Ele treinou bastante. Mas perdeu a competição.
+
+C: Por mais que tenha se esforçado, ela não conseguiu emagrecer.
+S: Ela se esforçou. Mas não conseguiu emagrecer.
+
+C: Embora tenha estudado muito, ele não entendeu a matéria.
+S: Ele estudou muito. Mas não entendeu a matéria.
+
+C: Ainda que tenha feito o pedido, ele não foi atendido.
+S: Ele fez o pedido. Mas não foi atendido.
+
+C: Embora tenha estudado a noite toda, Pedro não passou no exame.
+S: Pedro estudou a noite toda. Mas não passou no exame.
+
+C: Ainda que esteja chovendo, irei ao jogo de futebol.
+S: Está chovendo. Mas irei ao jogo de futebol.
+
+C: Por mais que se esforce, ela nunca alcança seus objetivos.
+S: Ela se esforça. Mas nunca alcança seus objetivos.
+
+C: Mesmo que esteja cansado, ele continuará trabalhando.
+S: Ele está cansado. Mas continuará trabalhando.
+
+C: Apesar de tudo, eu ainda confio em você.
+S: Eu confio em você. Mas, apesar de tudo.
+
+C: Embora seja uma tarefa difícil, eu tenho certeza de que vou conseguir.
+S: É uma tarefa difícil. Mas eu tenho certeza de que vou conseguir.
+
+C: Por mais que tente, ele nunca aprende a tocar violão.
+S: Ele tenta. Mas nunca aprende a tocar violão.
+
+C: A menos que estude, não irá passar na prova.
+S: Não irá passar na prova. A menos que estude.
+
+C: Se bem que esteja frio, eu prefiro sair de casa.
+S: Está frio. Mas eu prefiro sair de casa.
+
+C: Nem que chova, vou sair de casa para ir à festa.
+S: Vou sair de casa para ir à festa. Nem que chova.
+
+C: Embora estivesse chovendo, decidimos ir à praia.
+S: Estava chovendo. Mas decidimos ir à praia.
+
+C: Ainda que seja tarde, vou te ajudar.
+S: Vou te ajudar. Isso acontece mesmo que seja tarde.
+
+C: Por mais que se esforce, ele não consegue alcançar suas metas.
+S: Ele se esforça, mas não consegue alcançar suas metas.
+
+C: Apesar de estar cansada, ela continuou estudando.
+S: Ela estava cansada. Mas continuou estudando.
+
+C: Nem que eu peça, ele não vai me ajudar.
+S: Mesmo que eu peça, ele não vai me ajudar.
+
+C: Mesmo que você tente, não vai conseguir convencê-lo.
+S: Você tenta, mas não consegue convencê-lo.
+
+C: A menos que você me peça desculpas, não vou perdoar.
+S: Você não me pede desculpas. Mas não vou perdoar.
+
+C: Se bem que ele seja rico, não é feliz.
+S: Ele é rico. Mas não é feliz.
+
+C: Conquanto as pessoas discordem, eu continuo firme em minha posição.
+S: As pessoas discordam. Mas eu continuo firme em minha posição.
+
+C: Por muito que me esforce, nunca chegarei ao seu nível.
+S: Me esforço muito. Mas nunca chegarei ao seu nível.
+

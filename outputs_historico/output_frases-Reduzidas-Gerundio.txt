@@ -1,0 +1,4020 @@
+C: Ao ver o resultado da eleição, ela ficou muito surpresa.
+S: Ao ver o resultado da eleição, ela ficou muito surpresa.
+
+C: Mesmo estudando muito, ele não conseguiu passar na prova.
+S: Mesmo estudando muito, ele não conseguiu passar na prova.
+
+C: Se chover amanhã, o jogo será cancelado.
+S: Se chover amanhã, o jogo será cancelado.
+
+C: Ao ler o livro, ela começou a chorar.
+S: Ao ler o livro, ela começou a chorar.
+
+C: Apesar de ter se preparado, ele não conseguiu vencer a competição.
+S: Apesar de ter se preparado, ele não conseguiu vencer a competição.
+
+C: Caso haja algum problema, entre em contato com o suporte.
+S: Caso haja algum problema, entre em contato com o suporte.
+
+C: Encontrando o caminho certo, chegaremos lá rapidamente.
+S: Encontrando o caminho certo, chegaremos lá rapidamente.
+
+C: Jogando de forma agressiva, o time conseguiu marcar muitos gols.
+S: Jogando de forma agressiva, o time conseguiu marcar muitos gols.
+
+C: Embora tenha tentado várias vezes, ele não conseguiu resolver o problema.
+S: Embora tenha tentado várias vezes, ele não conseguiu resolver o problema.
+
+C: Ao abrir a janela, senti um vento frio entrar no quarto.
+S: Ao abrir a janela, senti um vento frio entrar no quarto.
+
+C: Ao perceber que não havia mais esperanças, ela desistiu de lutar.
+S: Ao perceber que não havia mais esperanças, ela desistiu.
+
+C: Apesar de estar muito cansado, ele continuou trabalhando até tarde da noite.
+S: Apesar de estar muito cansado, ele continuou trabalhando.
+
+C: Se você estudar com dedicação, conseguirá bons resultados.
+S: Se estudar com dedicação, conseguirá bons resultados.
+
+C: Ao chegar em casa, ele começou a cozinhar o jantar.
+S: Ao chegar em casa, ele começou a cozinhar.
+
+C: Sendo muito organizado, ele sempre cumpre suas tarefas com eficiência.
+S: Sendo muito organizado, ele sempre cumpre suas tarefas.
+
+C: Caso chova amanhã, o evento será cancelado.
+S: Se chover amanhã, o evento será cancelado.
+
+C: Apesar da dificuldade, ela não desistiu de alcançar seus objetivos.
+S: Apesar da dificuldade, ela não desistiu.
+
+C: Enquanto esperávamos na fila, ele chegou e cortou na nossa frente.
+S: Enquanto esperávamos na fila, ele chegou e cortou.
+
+C: Se você não cuidar da sua saúde, poderá ter problemas no futuro.
+S: Se não cuidar da sua saúde, poderá ter problemas no futuro.
+
+C: Mesmo não concordando com a decisão, ele a aceitou.
+S: Mesmo não concordando com a decisão, ele a aceitou.
+
+C: O professor explicou que, mesmo estudando bastante, o aluno não conseguiu passar na prova.
+S: O professor explicou que, mesmo estudando bastante, o aluno não passou na prova.
+
+C: Apesar de chover bastante, os alunos decidiram ir para a excursão.
+S: Apesar de chover bastante, os alunos foram para a excursão.
+
+C: Se conseguirmos chegar a tempo, poderemos assistir ao filme.
+S: Se conseguirmos chegar a tempo, poderemos assistir ao filme.
+
+C: Ela ficou frustrada ao ver o resultado de tanto esforço desperdiçado.
+S: Ela ficou frustrada ao ver o resultado do esforço desperdiçado.
+
+C: Mesmo tendo pouco dinheiro, eles continuaram viajando.
+S: Mesmo tendo pouco dinheiro, eles viajaram.
+
+C: Caso chova amanhã, teremos que cancelar o passeio.
+S: Se chover amanhã, teremos que cancelar o passeio.
+
+C: Ele agiu de forma irresponsável, entrando na sala de aula sem tirar o chapéu.
+S: Ele agiu de forma irresponsável, entrando na sala de aula com o chapéu.
+
+C: Embora estivesse cansada, ela decidiu continuar correndo.
+S: Embora estivesse cansada, ela decidiu continuar a correr.
+
+C: Se não estudarmos para a prova, iremos reprovar.
+S: Se não estudarmos para a prova, iremos reprovar.
+
+C: Ela ficou em silêncio, pensando nas melhores palavras para agradecer.
+S: Ela ficou em silêncio, pensando nas palavras para agradecer.
+
+C: O aluno, pesquisando online, conseguiu informações valiosas para seu trabalho.
+S: O aluno, pesquisando online, conseguiu informações valiosas para seu trabalho.
+
+C: Eu, esperando ansiosamente pela resposta, finalmente recebi o e-mail do professor.
+S: Eu, esperando ansiosamente pela resposta, finalmente recebi o e-mail do professor.
+
+C: Ao perceber que estava atrasado, ele decidiu correr para chegar a tempo na reunião.
+S: Percebendo que estava atrasado, ele decidiu correr para chegar a tempo na reunião.
+
+C: Apesar de estar cansado, João continuou estudando até tarde da noite.
+S: Apesar de estar cansado, João continuou estudando até tarde da noite.
+
+C: Para evitar problemas, ela preferiu não mencionar o assunto na reunião.
+S: Para evitar problemas, ela preferiu não mencionar o assunto na reunião.
+
+C: Caso chova, o jogo de futebol será adiado para outra data.
+S: Se chover, o jogo de futebol será adiado para outra data.
+
+C: A criança, existindo muito amor entre eles, foi adotada pelo casal.
+S: A criança, existindo muito amor entre eles, foi adotada pelo casal.
+
+C: Mesmo sendo um dia movimentado, eles conseguiram terminar todas as tarefas.
+S: Mesmo sendo um dia movimentado, eles conseguiram terminar todas as tarefas.
+
+C: Ao ouvir a notícia, ela ficou extremamente feliz e saltitante.
+S: Ao ouvir a notícia, ela ficou extremamente feliz e saltitante.
+
+C: Pedro, demonstrando habilidade no esporte, foi selecionado para a equipe.
+S: Pedro, demonstrando habilidade no esporte, foi selecionado para a equipe.
+
+C: Ao ver o resultado do jogo, eles ficaram muito tristes.
+S: Ao ver o resultado do jogo, ficaram muito tristes.
+
+C: Estudando para a prova, ela se sentiu mais confiante.
+S: Estudando para a prova, sentiu-se mais confiante.
+
+C: Caso você queira, posso te emprestar meu carro.
+S: Se quiser, posso te emprestar meu carro.
+
+C: Mesmo correndo muito, ele não conseguiu chegar a tempo.
+S: Correndo muito, ele não conseguiu chegar a tempo.
+
+C: Se você me ajudar, eu te pagarei de volta.
+S: Se me ajudar, te pagarei de volta.
+
+C: Embora estivesse chovendo, eles decidiram fazer o passeio.
+S: Embora estivesse chovendo, decidiram fazer o passeio.
+
+C: Sempre que está estressado, ele prefere ouvir música.
+S: Sempre que está estressado, prefere ouvir música.
+
+C: Ao chegar em casa, ela imediatamente tomou um banho quente.
+S: Ao chegar em casa, imediatamente tomou um banho quente.
+
+C: Enquanto assistiam ao filme, eles conversaram sobre o enredo.
+S: Enquanto assistiam ao filme, conversaram sobre o enredo.
+
+C: Desde que começou a estudar, ela tem obtido notas melhores.
+S: Desde que começou a estudar, tem obtido notas melhores.
+
+C: Ao ver o resultado das eleições, Maria decidiu comemorar a vitória do seu candidato.
+S: Vendo o resultado das eleições, Maria decidiu comemorar a vitória do seu candidato.
+
+C: Mesmo sabendo que a chuva estava forte, Paulo decidiu sair sem guarda-chuva.
+S: Sabendo que a chuva estava forte, Paulo decidiu sair sem guarda-chuva.
+
+C: Ao descobrir que passou no vestibular, Ana ficou muito feliz.
+S: Descobrindo que passou no vestibular, Ana ficou muito feliz.
+
+C: Embora estivesse cansado, Lucas continuou estudando para a prova.
+S: Cansado, Lucas continuou estudando para a prova.
+
+C: Ao chegar em casa, percebi que tinha esquecido a chave na escola.
+S: Chegando em casa, percebi que tinha esquecido a chave na escola.
+
+C: Mesmo tendo o dinheiro necessário, Carolina decidiu não comprar o vestido.
+S: Tendo o dinheiro necessário, Carolina decidiu não comprar o vestido.
+
+C: Ao ler a notícia, João ficou preocupado com a situação do país.
+S: Lendo a notícia, João ficou preocupado com a situação do país.
+
+C: Embora não soubesse nadar, Fabiana pulou na piscina.
+S: Não sabendo nadar, Fabiana pulou na piscina.
+
+C: Ao ouvir a música, ele se emocionou e começou a chorar.
+S: Ouvindo a música, ele se emocionou e começou a chorar.
+
+C: Apesar de ter estudado muito, não consegui passar no exame.
+S: Tendo estudado muito, não consegui passar no exame.
+
+C: Ao ouvir a música, senti uma profunda emoção.
+S: Ao ouvir a música, senti uma profunda emoção.
+
+C: Mesmo chovendo muito, decidimos ir ao parque.
+S: Mesmo chovendo muito, decidimos ir ao parque.
+
+C: Se estudar bastante, passará no exame.
+S: Se estudar bastante, passará no exame.
+
+C: Correndo pela rua, o menino acabou caindo.
+S: Correndo pela rua, o menino acabou caindo.
+
+C: Apesar de ser cansativo, o trabalho precisa ser feito.
+S: Apesar de ser cansativo, o trabalho precisa ser feito.
+
+C: Caso chegue atrasado, não poderá entrar na sala.
+S: Caso chegue atrasado, não poderá entrar na sala.
+
+C: Ao ver as fotos, lembrei-me dos momentos felizes.
+S: Ao ver as fotos, lembrei-me dos momentos felizes.
+
+C: Mesmo morando longe, ela sempre vai ao cinema.
+S: Mesmo morando longe, ela sempre vai ao cinema.
+
+C: Se não tomar cuidado, irá se machucar.
+S: Se não tomar cuidado, irá se machucar.
+
+C: Apesar de ter pouco tempo, consegui terminar o trabalho.
+S: Apesar de ter pouco tempo, consegui terminar o trabalho.
+
+C: Ao perceber que estava atrasado para o trabalho, João saiu correndo de casa.
+S: Ao perceber que estava atrasado para o trabalho, João saiu correndo de casa.
+
+C: Com o objetivo de se tornar fluente em inglês, Maria estudou diariamente durante um ano.
+S: Com o objetivo de se tornar fluente em inglês, Maria estudou diariamente durante um ano.
+
+C: Embora estivesse cansado, Pedro decidiu comparecer à reunião.
+S: Embora estivesse cansado, Pedro decidiu comparecer à reunião.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Se chover amanhã, iremos ao cinema.
+
+C: Acreditando nas suas habilidades, Ana aceitou o desafio.
+S: Acreditando nas suas habilidades, Ana aceitou o desafio.
+
+C: Mesmo estando doente, Joana foi à festa.
+S: Mesmo estando doente, Joana foi à festa.
+
+C: Ao receber a notícia da promoção, Lucas pulou de alegria.
+S: Ao receber a notícia da promoção, Lucas pulou de alegria.
+
+C: Caso chegue atrasado novamente, ele será demitido.
+S: Caso chegue atrasado novamente, ele será demitido.
+
+C: Com medo de perder o voo, Tatiana correu para o aeroporto.
+S: Com medo de perder o voo, Tatiana correu para o aeroporto.
+
+C: Embora tivesse estudado muito, Carolina não foi bem na prova.
+S: Embora tivesse estudado muito, Carolina não foi bem na prova.
+
+C: Chegando na estação atrasado, o trem já havia partido.
+S: Chegando na estação atrasado, o trem já havia partido.
+
+C: Apesar de ter estudado muito, ela não passou na prova.
+S: Apesar de ter estudado muito, ela não passou na prova.
+
+C: Se chover amanhã, irei de carro para o trabalho.
+S: Se chover amanhã, irei de carro para o trabalho.
+
+C: Com a saúde debilitada, ele precisou se ausentar do trabalho.
+S: Com a saúde debilitada, ele precisou se ausentar do trabalho.
+
+C: Querendo economizar dinheiro, ela decidiu não ir ao cinema.
+S: Querendo economizar dinheiro, ela decidiu não ir ao cinema.
+
+C: Mesmo tendo pouco dinheiro, eles viajaram nas férias.
+S: Mesmo tendo pouco dinheiro, eles viajaram nas férias.
+
+C: Caso você queira, podemos assistir ao filme juntos.
+S: Caso você queira, podemos assistir ao filme juntos.
+
+C: Com a janela aberta, o vento entrava pela sala.
+S: Com a janela aberta, o vento entrava pela sala.
+
+C: Querendo perder peso, ela começou a fazer exercícios regularmente.
+S: Querendo perder peso, ela começou a fazer exercícios regularmente.
+
+C: Com medo de altura, ele se recusou a subir na montanha-russa.
+S: Com medo de altura, ele se recusou a subir na montanha-russa.
+
+C: João, mesmo sendo baixinho, é um ótimo jogador de basquete.
+S: João, mesmo baixinho, é um ótimo jogador de basquete.
+
+C: Apesar de estando cansada, ela continuou estudando até tarde da noite.
+S: Apesar de cansada, ela continuou estudando até tarde da noite.
+
+C: Se chovendo, não vamos poder ir à praia amanhã.
+S: Se chover, não vamos poder ir à praia amanhã.
+
+C: Mesmo estando sem dinheiro, ela decidiu viajar para o exterior.
+S: Mesmo sem dinheiro, ela decidiu viajar para o exterior.
+
+C: Ao terminando o trabalho, ele irá se juntar a nós para comemorar.
+S: Ao terminar o trabalho, ele irá se juntar a nós para comemorar.
+
+C: Embora tendo estudado muito, ela não conseguiu passar na prova.
+S: Embora tenha estudado muito, ela não conseguiu passar na prova.
+
+C: Caso havendo algum problema, por favor, entre em contato conosco imediatamente.
+S: Caso haja algum problema, por favor, entre em contato conosco imediatamente.
+
+C: Ao tendo dificuldades, não hesite em pedir ajuda.
+S: Ao ter dificuldades, não hesite em pedir ajuda.
+
+C: Apesar de estando com fome, ela não quis comer.
+S: Apesar de estar com fome, ela não quis comer.
+
+C: Se podendo escolher, ele preferia ficar em casa.
+S: Se pudesse escolher, ele preferia ficar em casa.
+
+C: Durante o verão, com as altas temperaturas, muitas pessoas optam por se refrescar na praia.
+S: Durante o verão, com as altas temperaturas, muitas pessoas optam por se refrescar na praia.
+
+C: Apesar de estar cansado, decidi terminar o trabalho.
+S: Apesar de estar cansado, decidi terminar o trabalho.
+
+C: Com o tempo chuvoso, não pudemos fazer o passeio de barco.
+S: Com o tempo chuvoso, não pudemos fazer o passeio de barco.
+
+C: Se chover amanhã, irei levar um guarda-chuva.
+S: Se chover amanhã, irei levar um guarda-chuva.
+
+C: Enquanto estudava para a prova, meu telefone tocou várias vezes.
+S: Enquanto estudava para a prova, meu telefone tocou várias vezes.
+
+C: Mesmo sabendo que não era seguro, decidi andar de bicicleta sem capacete.
+S: Mesmo sabendo que não era seguro, decidi andar de bicicleta sem capacete.
+
+C: Com o resultado positivo do exame, fiquei aliviado.
+S: Com o resultado positivo do exame, fiquei aliviado.
+
+C: Caso você se atrase, o evento começará sem você.
+S: Caso você se atrase, o evento começará sem você.
+
+C: Estudando todos os dias, ela conseguiu melhorar suas notas.
+S: Estudando todos os dias, ela conseguiu melhorar suas notas.
+
+C: Sem entender a pergunta, ela ficou em silêncio.
+S: Sem entender a pergunta, ela ficou em silêncio.
+
+C: Chegando atrasado, ele teve que enfrentar as consequências.
+S: Chegando atrasado, ele teve que enfrentar as consequências.
+
+C: Com a chuva atrapalhando, a festa foi cancelada.
+S: Com a chuva atrapalhando, a festa foi cancelada.
+
+C: Apesar dos obstáculos, eles seguiram em frente.
+S: Apesar dos obstáculos, eles seguiram em frente.
+
+C: Querendo perder peso, ela começou a fazer exercícios regularmente.
+S: Querendo perder peso, ela começou a fazer exercícios regularmente.
+
+C: Se chover amanhã, teremos que adiar o passeio.
+S: Se chover amanhã, teremos que adiar o passeio.
+
+C: O bebê chorando não conseguia dormir.
+S: O bebê chorando não conseguia dormir.
+
+C: Mesmo sendo difícil, eles não desistiram.
+S: Mesmo sendo difícil, eles não desistiram.
+
+C: Com a temperatura caindo, eles decidiram levar os casacos.
+S: Com a temperatura caindo, eles decidiram levar os casacos.
+
+C: Se você estudar bastante, conseguirá passar na prova.
+S: Se você estudar bastante, conseguirá passar na prova.
+
+C: Mesmo sem dinheiro, ela viajou para conhecer o mundo.
+S: Mesmo sem dinheiro, ela viajou para conhecer o mundo.
+
+C: Espero que você esteja feliz com a notícia de que começaremos um novo projeto.
+S: Espero que você esteja feliz com a notícia de começarmos um novo projeto.
+
+C: Mesmo sendo difícil, ele aceitou fazer o trabalho.
+S: Mesmo sendo difícil, ele aceitou fazer o trabalho.
+
+C: Ainda que você esteja cansado, é importante que termine o projeto hoje.
+S: Mesmo estando cansado, é importante que termine o projeto hoje.
+
+C: Faltando apenas dois dias para a prova, ela estudou intensamente.
+S: Faltando apenas dois dias para a prova, ela estudou intensamente.
+
+C: Caso chova amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Dizendo que estava ocupado, ele recusou o convite para a festa.
+S: Dizendo que estava ocupado, ele recusou o convite para a festa.
+
+C: Embora esteja chovendo, o jogo de futebol não será cancelado.
+S: Embora esteja chovendo, o jogo de futebol não será cancelado.
+
+C: Se perdermos o ônibus, teremos que esperar mais uma hora.
+S: Se perdermos o ônibus, teremos que esperar mais uma hora.
+
+C: Contando com seu apoio, conseguiremos alcançar nossos objetivos.
+S: Contando com seu apoio, conseguiremos alcançar nossos objetivos.
+
+C: Terminando o projeto, eles comemoraram com uma festa.
+S: Terminando o projeto, eles comemoraram com uma festa.
+
+C: Ao perceber que estava atrasado, ele saiu correndo para não perder o ônibus.
+S: Ao perceber que estava atrasado, ele saiu correndo para não perder o ônibus.
+
+C: Considerando o pouco tempo disponível, decidiu-se adiar a reunião.
+S: Considerando o pouco tempo disponível, decidiu-se adiar a reunião.
+
+C: Ao estudar intensamente, ele conseguiu passar no exame.
+S: Ao estudar intensamente, ele conseguiu passar no exame.
+
+C: Apesar de estar doente, ela foi trabalhar.
+S: Apesar de estar doente, ela foi trabalhar.
+
+C: Caso chova, preferimos ficar em casa.
+S: Caso chova, preferimos ficar em casa.
+
+C: Ao abrir a porta, ele viu o gato brincando com um novelo de lã.
+S: Ao abrir a porta, ele viu o gato brincando com um novelo de lã.
+
+C: Embora não goste de frio, ele aceitou o convite para ir à montanha.
+S: Embora não goste de frio, ele aceitou o convite para ir à montanha.
+
+C: Achando a música muito alta, ela pediu para diminuir o volume.
+S: Achando a música muito alta, ela pediu para diminuir o volume.
+
+C: Ao terminar o trabalho, ele se sentiu aliviado.
+S: Ao terminar o trabalho, ele se sentiu aliviado.
+
+C: Desde que começou a dieta, ela perdeu alguns quilos.
+S: Desde que começou a dieta, ela perdeu alguns quilos.
+
+C: Ainda que estivesse chovendo, decidimos sair para passear.
+S: Mesmo estando chovendo, decidimos sair para passear.
+
+C: Embora tenha estudado muito, não consegui passar na prova.
+S: Mesmo estudando muito, não consegui passar na prova.
+
+C: Caso você queira, podemos marcar uma reunião para discutir o projeto.
+S: Se você quiser, podemos marcar uma reunião para discutir o projeto.
+
+C: Embora estivesse cansado, ele continuou trabalhando até tarde da noite.
+S: Mesmo estando cansado, ele continuou trabalhando até tarde da noite.
+
+C: Caso você não se sinta bem, avise-me imediatamente.
+S: Se você não se sentir bem, avise-me imediatamente.
+
+C: Ainda que esteja calor, não vou abrir a janela.
+S: Mesmo estando calor, não vou abrir a janela.
+
+C: Embora estivesse ocupado, consegui terminar todas as tarefas da lista.
+S: Mesmo estando ocupado, consegui terminar todas as tarefas da lista.
+
+C: Caso haja algum problema, entre em contato com o suporte técnico.
+S: Se houver algum problema, entre em contato com o suporte técnico.
+
+C: Mesmo que você estude muito, não garante que vá passar na prova.
+S: Por mais que você estude muito, não garante que vá passar na prova.
+
+C: Caso você queira, posso te emprestar o livro que estou lendo.
+S: Se você quiser, posso te emprestar o livro que estou lendo.
+
+C: Apesar de estar cansado, ele decidiu ir ao treino de futebol.
+S: Estando cansado, ele decidiu ir ao treino de futebol.
+
+C: Ao ouvir a música, as crianças começaram a dançar.
+S: Ouvindo a música, as crianças começaram a dançar.
+
+C: Caso você precise de ajuda, pode me ligar a qualquer momento.
+S: Precisando de ajuda, pode me ligar a qualquer momento.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Tendo estudado muito, ele não passou na prova.
+
+C: Quando terminarem o trabalho, podem sair mais cedo.
+S: Terminando o trabalho, podem sair mais cedo.
+
+C: Diante das críticas, ela decidiu mudar de estratégia.
+S: Diante das críticas, ela decidiu mudar de estratégia.
+
+C: Estudando com dedicação, ela conseguiu passar no concurso.
+S: Estudando com dedicação, ela conseguiu passar no concurso.
+
+C: Se chover amanhã, teremos que adiar o passeio.
+S: Havendo chuva amanhã, teremos que adiar o passeio.
+
+C: Ao dar uma olhada no documento, percebi alguns erros.
+S: Dando uma olhada no documento, percebi alguns erros.
+
+C: Embora tenha chegado atrasado, ele foi bem recebido.
+S: Tendo chegado atrasado, ele foi bem recebido.
+
+C: O professor explicou que, estudando regularmente, os alunos terão melhores notas no final do semestre.
+S: O professor explicou que, estudando regularmente, os alunos terão melhores notas no final do semestre.
+
+C: Pensando em não atrasar na entrega do trabalho, ele decidiu começar a trabalhar mais cedo.
+S: Pensando em não atrasar na entrega do trabalho, ele decidiu começar a trabalhar mais cedo.
+
+C: Mesmo estando cansado, ele foi para a academia fazer exercícios.
+S: Mesmo estando cansado, ele foi para a academia fazer exercícios.
+
+C: Ao ver a chuva, ela decidiu levar o guarda-chuva para não se molhar.
+S: Ao ver a chuva, ela decidiu levar o guarda-chuva para não se molhar.
+
+C: Caso não consigamos comprar passagens aéreas, teremos que considerar outras opções de transporte.
+S: Caso não consigamos comprar passagens aéreas, teremos que considerar outras opções de transporte.
+
+C: Com medo de ficar doente, ele decidiu tomar vitaminas todos os dias.
+S: Com medo de ficar doente, ele decidiu tomar vitaminas todos os dias.
+
+C: Mesmo não tendo dinheiro suficiente, eles decidiram fazer a viagem.
+S: Mesmo não tendo dinheiro suficiente, eles decidiram fazer a viagem.
+
+C: Pensando em agradar a todos, ela preparou um jantar especial.
+S: Pensando em agradar a todos, ela preparou um jantar especial.
+
+C: Ao ouvir a notícia, ela ficou muito feliz.
+S: Ao ouvir a notícia, ela ficou muito feliz.
+
+C: Caso não haja vagas na universidade, ele terá que procurar outras opções de estudo.
+S: Caso não haja vagas na universidade, ele terá que procurar outras opções de estudo.
+
+C: Apesar de enfrentar muitas dificuldades, ela nunca desistiu de alcançar os seus objetivos.
+S: Embora enfrentasse muitas dificuldades, ela nunca desistiu de alcançar os seus objetivos.
+
+C: Ao chegar em casa, percebi que havia esquecido a chave dentro do carro.
+S: Chegando em casa, percebi que havia esquecido a chave dentro do carro.
+
+C: Caso você não consiga comparecer à reunião, avise com antecedência.
+S: Se não conseguir comparecer à reunião, avise com antecedência.
+
+C: Enquanto estudava para a prova, percebi que havia perdido minha caneta.
+S: Estudando para a prova, percebi que havia perdido minha caneta.
+
+C: Apesar de ser um filme muito longo, ele é muito interessante.
+S: Embora seja um filme muito longo, ele é muito interessante.
+
+C: Ao ouvir a música, lembrei-me da minha infância.
+S: Ouvindo a música, lembrei-me da minha infância.
+
+C: Caso você precise de ajuda, estou à disposição.
+S: Se precisar de ajuda, estou à disposição.
+
+C: Enquanto assistia ao jogo, meu time marcou um gol.
+S: Assistindo ao jogo, meu time marcou um gol.
+
+C: Apesar do cansaço, ele continuou trabalhando até tarde da noite.
+S: Embora estivesse cansado, ele continuou trabalhando até tarde da noite.
+
+C: Ao terminar de ler o livro, fiquei emocionado com o final.
+S: Terminando de ler o livro, fiquei emocionado com o final.
+
+C: Saindo de casa apressado, João perdeu o ônibus.
+S: Saindo de casa apressado, João perdeu o ônibus.
+
+C: Se estudando com foco, você alcançará bons resultados.
+S: Se estudando com foco, você alcançará bons resultados.
+
+C: Mesmo chovendo muito, não cancelamos o evento.
+S: Mesmo chovendo muito, não cancelamos o evento.
+
+C: Ao ouvir a notícia, ela ficou chocada.
+S: Ao ouvir a notícia, ela ficou chocada.
+
+C: Caminhando devagar, ele apreciava a paisagem.
+S: Caminhando devagar, ele apreciava a paisagem.
+
+C: Caso as condições melhorem, iremos ao parque.
+S: Caso as condições melhorem, iremos ao parque.
+
+C: Por mais que ele estude, ainda tem dificuldades.
+S: Por mais que ele estude, ainda tem dificuldades.
+
+C: Falando a verdade, conseguimos resolver o problema.
+S: Falando a verdade, conseguimos resolver o problema.
+
+C: Enquanto esperava o ônibus, ela lia um livro.
+S: Enquanto esperava o ônibus, ela lia um livro.
+
+C: Ao chegar atrasado, ele pediu desculpas.
+S: Ao chegar atrasado, ele pediu desculpas.
+
+C: Chegando em casa, percebi que tinha esquecido as chaves.
+S: Chegando em casa, percebi ter esquecido as chaves.
+
+C: Ao saber que seria demitido, ficou desesperado.
+S: Ao saber que ia ser demitido, ficou desesperado.
+
+C: Jogando futebol, ele machucou o tornozelo.
+S: Jogando futebol, machucou o tornozelo.
+
+C: Com esperança de ser aprovado no concurso, ele estudou muito.
+S: Com esperança de ser aprovado no concurso, estudou muito.
+
+C: Mesmo sendo dia de semana, a praia estava lotada.
+S: Mesmo sendo dia de semana, a praia estava lotada.
+
+C: Se chover amanhã, vou levar um guarda-chuva.
+S: Caso chova amanhã, vou levar um guarda-chuva.
+
+C: Com os olhos cheios de lágrimas, ele pediu desculpas.
+S: Com os olhos cheios de lágrimas, pediu desculpas.
+
+C: De tanto correr, ele ficou exausto.
+S: De tanto correr, ficou exausto.
+
+C: Por mais que estudasse, não conseguia entender a matéria.
+S: Por mais que estudasse, não conseguia entender a matéria.
+
+C: Ao acordar cedo, ele consegue aproveitar melhor o dia.
+S: Ao acordar cedo, consegue aproveitar melhor o dia.
+
+C: Ao estudar diligentemente, ela conseguiu tirar as melhores notas da turma.
+S: Estudando diligentemente, ela conseguiu tirar as melhores notas da turma.
+
+C: Mesmo chovendo muito, eles decidiram ir à praia.
+S: Chovendo muito, eles decidiram ir à praia.
+
+C: Se você praticar todos os dias, vai melhorar rapidamente no violão.
+S: Praticando todos os dias, você vai melhorar rapidamente no violão.
+
+C: Apesar de ter estudado bastante, ela não foi aprovada no exame.
+S: Tendo estudado bastante, ela não foi aprovada no exame.
+
+C: Se você me ajudar, eu também te ajudo.
+S: Me ajudando, eu também te ajudo.
+
+C: Em virtude da pandemia, não pudemos viajar nas férias.
+S: Devido à pandemia, não pudemos viajar nas férias.
+
+C: Ele lamentou ter perdido a oportunidade de participar do projeto.
+S: Lamentando ter perdido a oportunidade de participar do projeto, ele se arrependeu.
+
+C: Ela disse que, ao fazer exercícios físicos regularmente, se sente mais saudável.
+S: Ela disse que, fazendo exercícios físicos regularmente, se sente mais saudável.
+
+C: Apesar de ter chovido durante o evento, foi um sucesso.
+S: Tendo chovido durante o evento, foi um sucesso.
+
+C: Se você quiser, eu posso te ajudar a preparar o jantar.
+S: Querendo, eu posso te ajudar a preparar o jantar.
+
+C: Ao perceber que o piso estava molhado, tomei cuidado para não escorregar.
+S: Ao perceber o piso molhado, tomei cuidado para não escorregar.
+
+C: Durante o show, havia várias pessoas cantando e dançando animadamente.
+S: Durante o show, haviam várias pessoas cantando e dançando animadamente.
+
+C: Mesmo estando cansada, ela decidiu continuar a caminhada.
+S: Mesmo cansada, ela decidiu continuar a caminhada.
+
+C: Ao fazer o teste novamente, ela conseguiu melhorar sua nota.
+S: Ao refazer o teste, ela conseguiu melhorar sua nota.
+
+C: Mesmo sendo uma pessoa prática, ela adora ler romances.
+S: Mesmo sendo prática, ela adora ler romances.
+
+C: Ao chegar em casa, percebi que tinha esquecido a chave.
+S: Ao chegar em casa, percebi ter esquecido a chave.
+
+C: Mesmo tendo feito a reserva com antecedência, o restaurante estava lotado.
+S: Mesmo tendo feito a reserva com antecedência, o restaurante estava lotado.
+
+C: Ao ver sua expressão de tristeza, soube que algo estava errado.
+S: Ao ver sua expressão triste, soube que algo estava errado.
+
+C: Mesmo sendo um dia nublado, as crianças decidiram brincar no parque.
+S: Mesmo sendo nublado, as crianças decidiram brincar no parque.
+
+C: Ao terminar a aula, os alunos se despediram do professor.
+S: Ao terminar a aula, os alunos se despediram do professor.
+
+C: Chegando atrasado, o aluno pediu desculpas ao professor.
+S: Chegando atrasado, o aluno pediu desculpas ao professor.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Apesar de estar cansado, ele continuou trabalhando.
+
+C: Ao ver o filme, fiquei emocionado.
+S: Ao ver o filme, fiquei emocionado.
+
+C: Caso chova, iremos fazer o passeio em outro dia.
+S: Caso chova, iremos fazer o passeio em outro dia.
+
+C: Ao receber a notícia, ela ficou surpresa.
+S: Ao receber a notícia, ela ficou surpresa.
+
+C: Embora estivesse nervoso, ele conseguiu fazer a apresentação.
+S: Embora estivesse nervoso, ele conseguiu fazer a apresentação.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: Se chover, não irei à praia.
+S: Se chover, não irei à praia.
+
+C: Ao perceber o perigo, ele rapidamente tomou uma atitude.
+S: Ao perceber o perigo, ele rapidamente tomou uma atitude.
+
+C: Desde pequeno, ele gostava de ler.
+S: Desde pequeno, ele gostava de ler.
+
+C: Ao chegar em casa, João foi tomar banho.
+S: Ao chegar em casa, João foi tomar banho.
+
+C: Mesmo trabalhando duro, ele não conseguiu alcançar seus objetivos.
+S: Mesmo trabalhando duro, ele não conseguiu alcançar seus objetivos.
+
+C: Se chover amanhã, não iremos ao parque.
+S: Se chover amanhã, não iremos ao parque.
+
+C: Tomando precauções, evitamos acidentes.
+S: Tomando precauções, evitamos acidentes.
+
+C: Embora chorando de dor, ele continuou trabalhando.
+S: Embora chorando de dor, ele continuou trabalhando.
+
+C: Se fez tarde, decidimos ir embora.
+S: Se fez tarde, decidimos ir embora.
+
+C: Cansado de esperar, ele desistiu de assistir ao filme.
+S: Cansado de esperar, ele desistiu de assistir ao filme.
+
+C: Sabendo que não havia solução, ele desistiu de tentar.
+S: Sabendo que não havia solução, ele desistiu de tentar.
+
+C: Caso precise de ajuda, estarei disponível.
+S: Caso precise de ajuda, estarei disponível.
+
+C: Com medo de errar, ele preferiu não arriscar.
+S: Com medo de errar, ele preferiu não arriscar.
+
+C: Chegando atrasado, ele perdeu o ônibus.
+S: Chegando atrasado, ele perdeu o ônibus.
+
+C: Estudando muito, ela conseguiu passar na prova.
+S: Estudando muito, ela conseguiu passar na prova.
+
+C: Caso chova, não iremos ao parque.
+S: Caso chova, não iremos ao parque.
+
+C: Mesmo tendo estudado muito, não conseguiu passar na prova.
+S: Mesmo tendo estudado muito, não conseguiu passar na prova.
+
+C: Viajando pelo mundo, ela conheceu várias culturas diferentes.
+S: Viajando pelo mundo, ela conheceu várias culturas diferentes.
+
+C: Embora seja perigoso, muitos gostam de praticar esportes radicais.
+S: Embora seja perigoso, muitos gostam de praticar esportes radicais.
+
+C: Se chover, irei de táxi.
+S: Se chover, irei de táxi.
+
+C: Deixando tudo para última hora, ele não conseguiu entregar o trabalho a tempo.
+S: Deixando tudo para última hora, ele não conseguiu entregar o trabalho a tempo.
+
+C: Jogando futebol, ele torceu o tornozelo.
+S: Jogando futebol, ele torceu o tornozelo.
+
+C: Comendo rápido, ele engasgou com a comida.
+S: Comendo rápido, ele engasgou com a comida.
+
+C: Ao chegar na festa, Maria percebeu que esqueceu o presente.
+S: Chegando na festa, Maria percebeu que esqueceu o presente.
+
+C: Embora cansado, Pedro estudou até tarde da noite.
+S: Cansado, Pedro estudou até tarde da noite.
+
+C: Caso chova amanhã, irei de carro.
+S: Se chover amanhã, irei de carro.
+
+C: Ao escutar o barulho, ele se assustou.
+S: Escutando o barulho, ele se assustou.
+
+C: Apesar de doente, ela foi trabalhar.
+S: Doente, ela foi trabalhar.
+
+C: Se estudar bastante, você irá conseguir passar na prova.
+S: Estudando bastante, você irá conseguir passar na prova.
+
+C: Encontramos uma casa abandonada enquanto explorávamos a floresta.
+S: Encontramos uma casa abandonada explorando a floresta.
+
+C: Embora pequeno, ele é muito corajoso.
+S: Pequeno, ele é muito corajoso.
+
+C: Se estiver chovendo, levarei meu guarda-chuva.
+S: Estando chovendo, levarei meu guarda-chuva.
+
+C: Apesar de doer, ela continuou a fazer exercícios.
+S: Doendo, ela continuou a fazer exercícios.
+
+C: Andando rápido, ele conseguiu chegar a tempo para a reunião.
+S: Andando rápido, ele conseguiu chegar a tempo para a reunião.
+
+C: Mesmo estando cansados, decidimos continuar a caminhada.
+S: Mesmo cansados, decidimos continuar a caminhada.
+
+C: Caso chova, iremos ao cinema.
+S: Se chover, iremos ao cinema.
+
+C: Fazendo exercícios regularmente, você terá mais energia durante o dia.
+S: Fazendo exercícios regularmente, terá mais energia durante o dia.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Apesar de ter estudado muito, ele não passou na prova.
+
+C: Ao ver a notícia, fiquei surpreso.
+S: Vendo a notícia, fiquei surpreso.
+
+C: Comendo devagar, você vai aproveitar melhor o sabor da comida.
+S: Comendo devagar, vai aproveitar melhor o sabor da comida.
+
+C: Se perdendo no novo bairro, ela encontrou pessoas dispostas a ajudá-la.
+S: Perdendo-se no novo bairro, encontrou pessoas dispostas a ajudá-la.
+
+C: Enquanto preparava o jantar, ele escutava música.
+S: Preparando o jantar, ele escutava música.
+
+C: Apesar de ser tarde, ele decidiu ir ao cinema.
+S: Mesmo sendo tarde, ele decidiu ir ao cinema.
+
+C: Ao se deparar com um problema no trabalho, ela decidiu pedir ajuda.
+S: Ao deparar-se com um problema no trabalho, ela decidiu pedir ajuda.
+
+C: Mesmo tendo estudado muito, ele não passou na prova.
+S: Mesmo estudando muito, ele não passou na prova.
+
+C: Caso chova, vamos levar guarda-chuvas.
+S: Se chover, vamos levar guarda-chuvas.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Apesar de cansado, ele continuou trabalhando.
+
+C: Ao enfrentar dificuldades financeiras, ela decidiu cortar gastos.
+S: Ao enfrentar dificuldades financeiras, ela decidiu cortar gastos.
+
+C: Embora tenha tentado convencê-lo, ele não mudou de ideia.
+S: Embora tentando convencê-lo, ele não mudou de ideia.
+
+C: Se precisar de alguma coisa, pode me ligar.
+S: Se precisar de alguma coisa, pode ligar.
+
+C: Sendo o mais velho, ele deve cuidar dos irmãos mais novos.
+S: Sendo o mais velho, ele deve cuidar dos irmãos mais novos.
+
+C: Ao nascer o primeiro filho, eles ficaram emocionados.
+S: Ao nascer o primeiro filho, eles ficaram emocionados.
+
+C: Caso você não queira ir, podemos ficar em casa.
+S: Se você não quiser ir, podemos ficar em casa.
+
+C: Trabalhando em equipe, conseguimos resolver o problema mais rapidamente.
+S: Trabalhando juntos, conseguimos resolver o problema mais rapidamente.
+
+C: Embora tendo estudado muito, ele não passou na prova.
+S: Mesmo estudando muito, ele não passou na prova.
+
+C: Se chovendo amanhã, vamos cancelar o passeio.
+S: Se chover amanhã, vamos cancelar o passeio.
+
+C: Com muita dedicação, ela alcançou seus objetivos.
+S: Com muita dedicação, ela alcançou seus objetivos.
+
+C: Apesar de estando cansado, ele continuou trabalhando.
+S: Mesmo estando cansado, ele continuou trabalhando.
+
+C: Ao andar devagar, ela evitou escorregar na calçada molhada.
+S: Andando devagar, ela evitou escorregar na calçada molhada.
+
+C: Caso terminando o relatório hoje, poderemos enviar o projeto amanhã.
+S: Se terminarmos o relatório hoje, poderemos enviar o projeto amanhã.
+
+C: Trabalhando muito, ela conseguiu juntar dinheiro para viajar.
+S: Trabalhando muito, ela conseguiu juntar dinheiro para viajar.
+
+C: Embora morando longe, ele sempre vem nos visitar.
+S: Mesmo morando longe, ele sempre vem nos visitar.
+
+C: Se economizando dinheiro, poderemos comprar a casa dos nossos sonhos.
+S: Se economizarmos dinheiro, poderemos comprar a casa dos nossos sonhos.
+
+C: Ao chegar em casa, percebi que havia esquecido as chaves.
+S: Ao chegar em casa, percebi ter esquecido as chaves.
+
+C: Após perder o emprego, decidi começar a procurar uma nova oportunidade de trabalho.
+S: Após perder o emprego, decidi começar a procurar uma nova oportunidade de trabalho.
+
+C: Mesmo estudando muito, ele não conseguiu passar na prova.
+S: Mesmo estudando muito, ele não conseguiu passar na prova.
+
+C: Caso chova amanhã, irei levar meu guarda-chuva.
+S: Caso chova amanhã, irei levar meu guarda-chuva.
+
+C: Sentindo-se cansado, ele decidiu tirar uma soneca.
+S: Sentindo-se cansado, ele decidiu tirar uma soneca.
+
+C: Embora estivesse com fome, ele não quis comer o sanduíche.
+S: Embora estivesse com fome, ele não quis comer o sanduíche.
+
+C: Se conseguirmos juntar dinheiro suficiente, iremos viajar nas férias.
+S: Se conseguirmos juntar dinheiro suficiente, iremos viajar nas férias.
+
+C: Dançando ao som da música, ela se sentiu livre.
+S: Dançando ao som da música, ela se sentiu livre.
+
+C: Com o tempo esquentando, decidimos ir à praia.
+S: Com o tempo esquentando, decidimos ir à praia.
+
+C: Planejando sua festa de aniversário, ela convidou todos os amigos.
+S: Planejando sua festa de aniversário, ela convidou todos os amigos.
+
+C: Após terminar de estudar, ela decidiu fazer uma pausa.
+S: Terminado de estudar, ela decidiu fazer uma pausa.
+
+C: Mesmo apresentando todos os documentos necessários, o visto foi negado.
+S: Apresentando todos os documentos necessários, o visto foi negado.
+
+C: Durante a reunião, ele levantou a questão dos baixos salários.
+S: Durante a reunião, ele levantou a questão dos baixos salários.
+
+C: Se chover amanhã, o piquenique será cancelado.
+S: Chovendo amanhã, o piquenique será cancelado.
+
+C: Embora sendo um desafio, ela decidiu aceitar a oferta de trabalho.
+S: Sendo um desafio, ela decidiu aceitar a oferta de trabalho.
+
+C: Ao fazer o exame, ele percebeu que estava mal preparado.
+S: Fazendo o exame, ele percebeu que estava mal preparado.
+
+C: Caso vença as eleições, ele promete reduzir os impostos.
+S: Vencendo as eleições, ele promete reduzir os impostos.
+
+C: Mesmo não concordando com a decisão, ela decidiu acatar.
+S: Não concordando com a decisão, ela decidiu acatar.
+
+C: Ao chegar em casa, ele viu que tinha uma mensagem importante.
+S: Chegando em casa, ele viu que tinha uma mensagem importante.
+
+C: Caso não termine o projeto, ele perderá a oportunidade.
+S: Não terminando o projeto, ele perderá a oportunidade.
+
+C: Ao ver o resultado das eleições, o candidato perdedor aceitou sua derrota de forma digna.
+S: Ao ver o resultado das eleições, o candidato perdedor aceitou sua derrota de forma digna.
+
+C: A garota, sem querer, derrubou a taça de vinho na mesa.
+S: A garota, sem querer, derrubou a taça de vinho na mesa.
+
+C: Pensando em um novo projeto, o engenheiro fez alguns esboços rápidos.
+S: Pensando em um novo projeto, o engenheiro fez alguns esboços rápidos.
+
+C: Ao ouvir o barulho, os cachorros começaram a latir.
+S: Ao ouvir o barulho, os cachorros começaram a latir.
+
+C: Com medo de errar novamente, ela estudou bastante para a prova.
+S: Com medo de errar novamente, ela estudou bastante para a prova.
+
+C: Pensando em conseguir uma promoção, ele trabalhou horas extras todos os dias.
+S: Pensando em conseguir uma promoção, ele trabalhou horas extras todos os dias.
+
+C: Com receio de perder o ônibus, ela saiu correndo pela rua.
+S: Com receio de perder o ônibus, ela saiu correndo pela rua.
+
+C: Ao ouvir a música, a criança começou a dançar animadamente.
+S: Ao ouvir a música, a criança começou a dançar animadamente.
+
+C: Imaginando um futuro melhor, ele decidiu mudar de cidade.
+S: Imaginando um futuro melhor, ele decidiu mudar de cidade.
+
+C: Com a intenção de melhorar sua saúde, ele começou a praticar exercícios físicos regularmente.
+S: Com a intenção de melhorar sua saúde, ele começou a praticar exercícios físicos regularmente.
+
+C: Apesar de estudar por horas, não consegui entender completamente o assunto.
+S: Apesar de estudar por horas, não consegui entender completamente o assunto.
+
+C: Ao ver a chuva, corremos para nos abrigar.
+S: Ao ver a chuva, corremos para nos abrigar.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Não sabendo o que fazer, pedi ajuda a meu amigo.
+S: Não sabendo o que fazer, pedi ajuda a meu amigo.
+
+C: Com o tempo, vamos aprendendo com os nossos erros.
+S: Com o tempo, vamos aprendendo com os nossos erros.
+
+C: Apesar de ser difícil, não desistirei.
+S: Apesar de ser difícil, não desistirei.
+
+C: Ao caminhar pela rua, vi uma loja interessante.
+S: Ao caminhar pela rua, vi uma loja interessante.
+
+C: Sem ter o que fazer, decidi assistir a um filme.
+S: Sem ter o que fazer, decidi assistir a um filme.
+
+C: Caso você precise de ajuda, estarei disponível.
+S: Caso você precise de ajuda, estarei disponível.
+
+C: Não querendo me atrasar, saí de casa mais cedo.
+S: Não querendo me atrasar, saí de casa mais cedo.
+
+C: Ao perceber que estava atrasado para a reunião, Pedro correu para pegar o ônibus.
+S: Ao perceber que estava atrasado para a reunião, Pedro correu para pegar o ônibus.
+
+C: Mesmo tendo estudado muito, ela não conseguiu passar na prova.
+S: Mesmo tendo estudado muito, ela não conseguiu passar na prova.
+
+C: Se você precisar de ajuda, é só me chamar.
+S: Se precisar de ajuda, é só me chamar.
+
+C: Ao ler o livro, ele começou a entender melhor o assunto.
+S: Ao ler o livro, ele começou a entender melhor o assunto.
+
+C: Embora esteja chovendo, irei sair de casa.
+S: Embora esteja chovendo, irei sair de casa.
+
+C: Caso haja algum problema, entre em contato com o suporte técnico.
+S: Caso haja algum problema, entre em contato com o suporte técnico.
+
+C: Ao ouvir a música, ela se emocionou.
+S: Ao ouvir a música, ela se emocionou.
+
+C: Apesar de ter estudado bastante, ele não conseguiu passar no exame.
+S: Apesar de ter estudado bastante, ele não conseguiu passar no exame.
+
+C: Se eu tivesse mais tempo, iria viajar pelo mundo.
+S: Se tivesse mais tempo, iria viajar pelo mundo.
+
+C: Ao ver o acidente, ela ficou assustada.
+S: Ao ver o acidente, ela ficou assustada.
+
+C: Percebendo que estava atrasado para a reunião, ele começou a correr.
+S: Percebendo que estava atrasado para a reunião, ele começou a correr.
+
+C: Mesmo tendo estudado muito para a prova, ela não conseguiu uma boa nota.
+S: Mesmo tendo estudado muito para a prova, ela não conseguiu uma boa nota.
+
+C: Ao ouvir o barulho, ela se assustou e correu para dentro de casa.
+S: Ao ouvir o barulho, ela se assustou e correu para dentro de casa.
+
+C: Sem ter recebido nenhuma instrução prévia, ele não sabia como usar o equipamento.
+S: Sem ter recebido nenhuma instrução prévia, ele não sabia como usar o equipamento.
+
+C: Caso você precise de ajuda, é só me chamar.
+S: Caso você precise de ajuda, é só me chamar.
+
+C: Trabalhando até tarde da noite, ele conseguiu finalizar o projeto a tempo.
+S: Trabalhando até tarde da noite, ele conseguiu finalizar o projeto a tempo.
+
+C: Mesmo estando cansado, ele decidiu ir ao treino de futebol.
+S: Mesmo estando cansado, ele decidiu ir ao treino de futebol.
+
+C: Ao ver a chuva, todos correram para se abrigar.
+S: Ao ver a chuva, todos correram para se abrigar.
+
+C: Com medo de altura, ela não conseguiu subir no topo do prédio.
+S: Com medo de altura, ela não conseguiu subir no topo do prédio.
+
+C: Se chover amanhã, teremos que adiar o passeio.
+S: Se chover amanhã, teremos que adiar o passeio.
+
+C: Ao ouvir música alta, minha mãe reclamou.
+S: Ao ouvir música alta, minha mãe reclamou.
+
+C: Mesmo sabendo das consequências, ele continuou a fumar.
+S: Mesmo sabendo das consequências, ele continuou a fumar.
+
+C: Se chover amanhã, nós ficaremos em casa.
+S: Se chover amanhã, nós ficaremos em casa.
+
+C: Embora sendo uma tarefa difícil, ela decidiu aceitar o desafio.
+S: Embora sendo uma tarefa difícil, ela decidiu aceitar o desafio.
+
+C: Com a intenção de economizar dinheiro, ela decidiu não viajar nas férias.
+S: Com a intenção de economizar dinheiro, ela decidiu não viajar nas férias.
+
+C: Caso ele se atrase novamente, perderá o emprego.
+S: Caso ele se atrase novamente, perderá o emprego.
+
+C: Ao terminar a faculdade, ela pretende viajar pelo mundo.
+S: Ao terminar a faculdade, ela pretende viajar pelo mundo.
+
+C: Apesar de muito cansada, ela continuou a estudar.
+S: Apesar de muito cansada, ela continuou a estudar.
+
+C: Se tiver tempo, ele irá ao cinema comigo.
+S: Se tiver tempo, ele irá ao cinema comigo.
+
+C: Ao chegar em casa, ela foi tomar um banho.
+S: Ao chegar em casa, ela foi tomar um banho.
+
+C: Vendo o resultado do exame, o médico recomendou que eu fizesse uma dieta balanceada.
+S: Vendo o resultado do exame, o médico recomendou fazer uma dieta balanceada.
+
+C: Apesar de ter estudado muito, ela não conseguiu passar na prova.
+S: Apesar de ter estudado muito, ela não conseguiu passar na prova.
+
+C: Se chover amanhã, não iremos à praia.
+S: Se chover amanhã, não iremos à praia.
+
+C: Chegando atrasado, ele pediu desculpas pela sua falta de pontualidade.
+S: Chegando atrasado, ele pediu desculpas pela falta de pontualidade.
+
+C: Sendo um profissional experiente, ele conseguiu resolver o problema rapidamente.
+S: Sendo um profissional experiente, ele conseguiu resolver o problema rapidamente.
+
+C: Mesmo fazendo tudo certo, não obtivemos o resultado esperado.
+S: Mesmo fazendo tudo certo, não obtivemos o resultado esperado.
+
+C: Caso você precise de ajuda, estou à disposição.
+S: Caso precise de ajuda, estou à disposição.
+
+C: Sendo o primeiro a chegar, ele se sentou na primeira fila.
+S: Sendo o primeiro a chegar, ele se sentou na primeira fila.
+
+C: Lá fora estava muito frio, então ela decidiu colocar um casaco.
+S: Lá fora estava muito frio, então ela decidiu colocar um casaco.
+
+C: Ao sair de casa, esqueci a chave.
+S: Ao sair de casa, esqueci a chave.
+
+C: Chegando atrasado à reunião, João se desculpou com o chefe.
+S: Chegando atrasado à reunião, João se desculpou com o chefe.
+
+C: Apesar de estar doente, ela foi trabalhar hoje.
+S: Apesar de estar doente, ela foi trabalhar hoje.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Se chover amanhã, iremos ao cinema.
+
+C: Falando em política, o governo está enfrentando muitos desafios.
+S: Falando em política, o governo está enfrentando muitos desafios.
+
+C: Terminando de jantar, eles foram ao cinema.
+S: Terminando de jantar, eles foram ao cinema.
+
+C: Mesmo sabendo do perigo, eles continuaram a aventura.
+S: Mesmo sabendo do perigo, eles continuaram a aventura.
+
+C: Caso você não se sinta bem, é melhor descansar um pouco.
+S: Caso você não se sinta bem, é melhor descansar um pouco.
+
+C: Prometendo estudar mais, ela tirou uma boa nota na prova.
+S: Prometendo estudar mais, ela tirou uma boa nota na prova.
+
+C: Embora cansada, ela foi à academia fazer exercícios.
+S: Embora cansada, ela foi à academia fazer exercícios.
+
+C: Se tiver tempo, podemos sair para jantar esta noite.
+S: Se tiver tempo, podemos sair para jantar esta noite.
+
+C: Sendo extremamente cansado, decidi ir dormir mais cedo.
+S: Sendo extremamente cansado, decidi ir dormir mais cedo.
+
+C: Apesar de estar chovendo, fui para o trabalho de bicicleta.
+S: Apesar de estar chovendo, fui para o trabalho de bicicleta.
+
+C: Caso não entregue o relatório até amanhã, terá uma penalidade.
+S: Caso não entregue o relatório até amanhã, terá uma penalidade.
+
+C: Trabalhando muito durante a semana, consegui terminar todas as tarefas.
+S: Trabalhando muito durante a semana, consegui terminar todas as tarefas.
+
+C: Por ter estudado bastante, tirei uma nota alta na prova.
+S: Por ter estudado bastante, tirei uma nota alta na prova.
+
+C: Embora tenha se atrasado, consegui chegar antes do horário marcado.
+S: Embora tenha se atrasado, consegui chegar antes do horário marcado.
+
+C: Contando com a ajuda dos colegas, finalmente terminei o projeto.
+S: Contando com a ajuda dos colegas, finalmente terminei o projeto.
+
+C: Caso o produto não atenda às suas expectativas, poderá solicitar a devolução.
+S: Caso o produto não atenda às suas expectativas, poderá solicitar a devolução.
+
+C: Estudando duro para o concurso, consegui passar na prova.
+S: Estudando duro para o concurso, consegui passar na prova.
+
+C: Mesmo estando cansada, decidi ir para a academia fazer exercícios.
+S: Mesmo estando cansada, decidi ir para a academia fazer exercícios.
+
+C: Embora estivesse chovendo muito, eles decidiram fazer o passeio.
+S: Chovendo muito, eles decidiram fazer o passeio.
+
+C: Ao receber a notícia, ela ficou emocionada.
+S: Recebendo a notícia, ela ficou emocionada.
+
+C: Mesmo sendo tão tarde, ele ainda ia à academia.
+S: Sendo tão tarde, ele ainda ia à academia.
+
+C: Caso possa, gostaria de assistir ao filme com você.
+S: Podendo, gostaria de assistir ao filme com você.
+
+C: Ao ver o resultado, ela gritou de alegria.
+S: Vendo o resultado, ela gritou de alegria.
+
+C: Apesar do cansaço, ele continuou a correr.
+S: Cansado, ele continuou a correr.
+
+C: Se tiver tempo, podemos sair para jantar.
+S: Tendo tempo, podemos sair para jantar.
+
+C: Embora não fosse a minha primeira opção, escolhi essa cor.
+S: Não sendo a minha primeira opção, escolhi essa cor.
+
+C: Se me derem a oportunidade, mostrarei o meu talento.
+S: Dando-me a oportunidade, mostrarei o meu talento.
+
+C: Mesmo sem saber dançar, ela tentou.
+S: Sem saber dançar, ela tentou.
+
+C: Indo embora rapidamente, ele evitou o trânsito congestionado.
+S: Indo embora rapidamente, ele evitou o trânsito congestionado.
+
+C: Sorrindo timidamente, ela cumprimentou os colegas de trabalho.
+S: Sorrindo timidamente, ela cumprimentou os colegas de trabalho.
+
+C: Caso esteja chovendo, vamos cancelar o passeio.
+S: Se estiver chovendo, vamos cancelar o passeio.
+
+C: Não conseguindo fazer a prova, ele ficou muito chateado.
+S: Não conseguindo fazer a prova, ele ficou muito chateado.
+
+C: Ao ver o resultado, ela ficou surpresa.
+S: Vendo o resultado, ela ficou surpresa.
+
+C: Mesmo estudando bastante, ele não conseguiu passar no exame.
+S: Mesmo estudando bastante, ele não conseguiu passar no exame.
+
+C: Falhando no projeto, ele perdeu a oportunidade de promoção.
+S: Falhando no projeto, ele perdeu a oportunidade de promoção.
+
+C: Se não chegarmos a tempo, perderemos o voo.
+S: Se não chegarmos a tempo, perderemos o voo.
+
+C: Ao receber a notícia, ela começou a chorar.
+S: Recebendo a notícia, ela começou a chorar.
+
+C: Sem saber o que fazer, ele pediu ajuda.
+S: Sem saber o que fazer, ele pediu ajuda.
+
+C: Chegando tarde no trabalho, ele foi repreendido pelo chefe.
+S: Chegando tarde no trabalho, ele foi repreendido pelo chefe.
+
+C: Apesar de estudar bastante, ela não conseguiu passar na prova.
+S: Apesar de estudar bastante, ela não conseguiu passar na prova.
+
+C: Precisando de dinheiro, ele pediu um empréstimo ao banco.
+S: Precisando de dinheiro, ele pediu um empréstimo ao banco.
+
+C: O tempo esquentando, decidimos fazer um piquenique no parque.
+S: O tempo esquentando, decidimos fazer um piquenique no parque.
+
+C: Vendo a situação complicada, ela decidiu intervir na discussão.
+S: Vendo a situação complicada, ela decidiu intervir na discussão.
+
+C: Caso chova, vamos cancelar o passeio.
+S: Caso chova, vamos cancelar o passeio.
+
+C: Correndo para alcançar o ônibus, ele deixou cair o celular.
+S: Correndo para alcançar o ônibus, ele deixou cair o celular.
+
+C: Mesmo dormindo pouco, ela estava cheia de energia.
+S: Mesmo dormindo pouco, ela estava cheia de energia.
+
+C: Querendo economizar dinheiro, ela decidiu cortar algumas despesas.
+S: Querendo economizar dinheiro, ela decidiu cortar algumas despesas.
+
+C: Com medo da altura, ele decidiu não fazer o salto de paraquedas.
+S: Com medo da altura, ele decidiu não fazer o salto de paraquedas.
+
+C: Ao ver o resultado do jogo, ficamos desapontados.
+S: Ao ver o resultado do jogo, ficamos desapontados.
+
+C: Apesar de estar cansado, Pedro foi ao treino de futebol.
+S: Apesar de estar cansado, Pedro foi ao treino de futebol.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Ao escutar a música, Maria começou a chorar.
+S: Ao escutar a música, Maria começou a chorar.
+
+C: Embora tenha estudado bastante, João não foi aprovado na prova.
+S: Embora tenha estudado bastante, João não foi aprovado na prova.
+
+C: Caso chegue atrasado, não será permitida a entrada no evento.
+S: Caso chegue atrasado, não será permitida a entrada no evento.
+
+C: Com o tempo, vamos nos esquecendo das mágoas.
+S: Com o tempo, vamos nos esquecendo das mágoas.
+
+C: Mesmo que tente, ele nunca conseguirá mudar minha opinião.
+S: Mesmo que tente, ele nunca conseguirá mudar minha opinião.
+
+C: Enquanto estudava para a prova, Ana desligou o celular.
+S: Enquanto estudava para a prova, Ana desligou o celular.
+
+C: Dada a situação, não tivemos escolha a não ser concordar.
+S: Dada a situação, não tivemos escolha a não ser concordar.
+
+C: Apesar de ter estudado muito, João não passou no exame.
+S: Apesar de estudar muito, João não passou no exame.
+
+C: Mesmo tendo chovido, fomos ao parque.
+S: Mesmo chovendo, fomos ao parque.
+
+C: Caso eu ganhe na loteria, irei viajar ao redor do mundo.
+S: Se eu ganhar na loteria, irei viajar ao redor do mundo.
+
+C: Ao perceber que estava atrasado, Pedro saiu correndo.
+S: Percebendo que estava atrasado, Pedro saiu correndo.
+
+C: Embora fosse perigoso, decidimos seguir em frente.
+S: Embora seja perigoso, decidimos seguir em frente.
+
+C: Se não houvesse trânsito, chegaríamos mais cedo.
+S: Se não tivesse trânsito, chegaríamos mais cedo.
+
+C: Tomando cuidado para não escorregar, Joana atravessou a ponte.
+S: Tomando cuidado para não escorregar, Joana atravessou a ponte.
+
+C: Com medo de errar, Carolina estudou muito para a prova.
+S: Com medo de errar, Carolina estudou muito para a prova.
+
+C: Mesmo que faça sol, vou levar meu guarda-chuva.
+S: Mesmo fazendo sol, vou levar meu guarda-chuva.
+
+C: Se tomar um café agora, não vou conseguir dormir à noite.
+S: Se tomar um café agora, não vou conseguir dormir à noite.
+
+C: Depois de ouvir as críticas dos alunos, o professor resolveu mudar a forma de avaliação.
+S: Depois de ouvir as críticas dos alunos, o professor resolveu mudar a forma de avaliação.
+
+C: Embora tenha chovido a noite toda, não houve alagamentos nas ruas.
+S: Embora tenha chovido a noite toda, não houve alagamentos nas ruas.
+
+C: Ao perceber que estava atrasado, o motorista acelerou o carro.
+S: Ao perceber que estava atrasado, o motorista acelerou o carro.
+
+C: Caso você esteja com pressa, podemos pegar um atalho.
+S: Caso você esteja com pressa, podemos pegar um atalho.
+
+C: Apesar de ter estudado bastante, ela não conseguiu passar na prova.
+S: Apesar de ter estudado bastante, ela não conseguiu passar na prova.
+
+C: Usando o seu charme, ele conseguiu convencer o chefe a dar-lhe um aumento.
+S: Usando o seu charme, ele conseguiu convencer o chefe a dar-lhe um aumento.
+
+C: Se você me ajudar, terminaremos esse projeto mais rápido.
+S: Se você me ajudar, terminaremos esse projeto mais rápido.
+
+C: Ao receber a notícia da promoção, ela pulou de alegria.
+S: Ao receber a notícia da promoção, ela pulou de alegria.
+
+C: Embora não fosse a sua especialidade, ele decidiu tentar.
+S: Embora não fosse a sua especialidade, ele decidiu tentar.
+
+C: Caso o jogo seja adiado, iremos ao cinema.
+S: Caso o jogo seja adiado, iremos ao cinema.
+
+C: Ao assistir ao filme, muitas cenas me emocionaram.
+S: Ao assistir ao filme, muitas cenas me emocionaram.
+
+C: Mesmo tendo estudado muito, ele não conseguiu passar na prova.
+S: Mesmo tendo estudado muito, ele não conseguiu passar na prova.
+
+C: Se chover amanhã, levaremos guarda-chuvas.
+S: Se chover amanhã, levaremos guarda-chuvas.
+
+C: Ao entrar na sala, reparei que estava vazia.
+S: Ao entrar na sala, reparei que estava vazia.
+
+C: Embora tenha se esforçado bastante, ele não conseguiu vencer o jogo.
+S: Embora tenha se esforçado bastante, ele não conseguiu vencer o jogo.
+
+C: Se economizar dinheiro, poderá viajar nas férias.
+S: Se economizar dinheiro, poderá viajar nas férias.
+
+C: Ao ouvir aquela música, me lembrei de tempos bons.
+S: Ao ouvir aquela música, me lembrei de tempos bons.
+
+C: Mesmo não tendo experiência, ele conseguiu o emprego.
+S: Mesmo não tendo experiência, ele conseguiu o emprego.
+
+C: Se estudar todos os dias, será aprovado no exame.
+S: Se estudar todos os dias, será aprovado no exame.
+
+C: Ao ver seu rosto, percebi que estava triste.
+S: Ao ver seu rosto, percebi que estava triste.
+
+C: Ao ver a chuva caindo, decidi não sair de casa.
+S: Ao ver a chuva caindo, decidi não sair de casa.
+
+C: Mesmo estando cansado, ele continuou estudando até tarde da noite.
+S: Mesmo estando cansado, ele continuou estudando até tarde da noite.
+
+C: Apesar de estar muito frio, ela saiu sem casaco.
+S: Apesar de estar muito frio, ela saiu sem casaco.
+
+C: Com medo de se atrasar, eles correram para pegar o ônibus.
+S: Com medo de se atrasar, eles correram para pegar o ônibus.
+
+C: Ao perceber o perigo, ele tomou cuidado extra.
+S: Ao perceber o perigo, ele tomou cuidado extra.
+
+C: Mesmo sabendo que era perigoso, ele continuou se arriscando.
+S: Mesmo sabendo que era perigoso, ele continuou se arriscando.
+
+C: Embora tenha ficado chateado, ele não demonstrou.
+S: Embora tenha ficado chateado, ele não demonstrou.
+
+C: Com o tempo esgotado, eles tiveram que correr para terminar a tarefa.
+S: Com o tempo esgotado, eles tiveram que correr para terminar a tarefa.
+
+C: Apesar do cansaço, eles decidiram continuar a viagem.
+S: Apesar do cansaço, eles decidiram continuar a viagem.
+
+C: Ao ver a oportunidade, ele não hesitou em agir.
+S: Ao ver a oportunidade, ele não hesitou em agir.
+
+C: Paulo entrou em pânico quando viu a aranha gigante na parede.
+S: Paulo entrou em pânico ao ver a aranha gigante na parede.
+
+C: Apesar de ter estudado muito, ela não conseguiu passar na prova.
+S: Mesmo estudando muito, ela não conseguiu passar na prova.
+
+C: Se chover amanhã, cancelaremos o passeio ao parque.
+S: Caso chova amanhã, cancelaremos o passeio ao parque.
+
+C: O professor explicou a matéria de uma forma que os alunos entenderam facilmente.
+S: O professor explicou a matéria de uma forma os alunos entenderem facilmente.
+
+C: Com a notícia da promoção, ela ficou muito feliz.
+S: Com a notícia da promoção, ela ficou muito feliz.
+
+C: Mesmo sabendo que o filme era ruim, eles decidiram assisti-lo até o final.
+S: Sabendo que o filme era ruim, eles decidiram assisti-lo até o final.
+
+C: Caso ele chegue atrasado, não poderá entrar na sala de aula.
+S: Se ele chegar atrasado, não poderá entrar na sala de aula.
+
+C: Com medo de ficar sozinha em casa, ela convidou uma amiga para passar a noite.
+S: Com medo de ficar sozinha em casa, ela convidou uma amiga para passar a noite.
+
+C: O paciente tomou o medicamento conforme o médico havia receitado.
+S: O paciente tomou o medicamento conforme o médico havia receitado.
+
+C: Mesmo sabendo que seria perigoso, ele decidiu enfrentar o desafio.
+S: Sabendo que seria perigoso, ele decidiu enfrentar o desafio.
+
+C: Ao ver a chuva caindo, decidi permanecer em casa.
+S: Vendo a chuva caindo, decidi permanecer em casa.
+
+C: Quando falamos sobre o problema, chegamos a uma solução.
+S: Falando sobre o problema, chegamos a uma solução.
+
+C: Embora tenha tentado, não consegui resolver o quebra-cabeça.
+S: Tentando, não consegui resolver o quebra-cabeça.
+
+C: Se eu estudar mais, irei obter melhores notas.
+S: Estudando mais, irei obter melhores notas.
+
+C: Mesmo cansado, continuei a correr na maratona.
+S: Cansado, continuei a correr na maratona.
+
+C: Depois de ouvir a explicação do professor, entendi o conceito.
+S: Ouvindo a explicação do professor, entendi o conceito.
+
+C: Caso ele chegue atrasado, não iremos esperar por ele.
+S: Chegando atrasado, não iremos esperar por ele.
+
+C: Por mais que tivesse treinado, não consegui marcar um gol.
+S: Tendo treinado muito, não consegui marcar um gol.
+
+C: Sempre que como chocolate, me sinto feliz.
+S: Comendo chocolate, me sinto feliz.
+
+C: Ainda que esteja chovendo, irei ao parque.
+S: Chovendo ou não, irei ao parque.
+
+C: Ao chegarmos em casa, encontramos o gato dormindo no sofá.
+S: Ao chegarmos em casa, encontramos o gato dormindo no sofá.
+
+C: Apesar de ter estudado bastante, o aluno não conseguiu passar na prova.
+S: Apesar de ter estudado bastante, o aluno não conseguiu passar na prova.
+
+C: Ao fazer uma análise mais profunda, percebemos que o problema é mais complexo do que imaginamos.
+S: Ao fazer uma análise mais profunda, percebemos que o problema é mais complexo do que imaginamos.
+
+C: Caso chova amanhã, teremos que cancelar o passeio.
+S: Caso chova amanhã, teremos que cancelar o passeio.
+
+C: O professor de matemática, ao explicar o teorema, usou exemplos práticos.
+S: O professor de matemática, ao explicar o teorema, usou exemplos práticos.
+
+C: Mesmo tendo estudado bastante, o aluno não conseguiu alcançar uma boa nota.
+S: Mesmo tendo estudado bastante, o aluno não conseguiu alcançar uma boa nota.
+
+C: Ao ouvir a música, senti uma imensa nostalgia.
+S: Ao ouvir a música, senti uma imensa nostalgia.
+
+C: Desde que começou a praticar exercícios, o atleta tem tido melhoras em seu desempenho.
+S: Desde que começou a praticar exercícios, o atleta tem tido melhoras em seu desempenho.
+
+C: Apesar de terem tentado convencê-lo, o cliente não mudou de ideia.
+S: Apesar de terem tentado convencê-lo, o cliente não mudou de ideia.
+
+C: Ao abrir a porta, nos deparamos com uma surpresa desagradável.
+S: Ao abrir a porta, nos deparamos com uma surpresa desagradável.
+
+C: Ao ver a tempestade se aproximar, decidimos voltar para casa rapidamente.
+S: Vendo a tempestade se aproximar, decidimos voltar para casa rapidamente.
+
+C: Mesmo tendo estudado muito, ele não conseguiu passar na prova.
+S: Tendo estudado muito, ele não conseguiu passar na prova.
+
+C: Ao atravessar a rua, tome cuidado com os carros.
+S: Atravessando a rua, tome cuidado com os carros.
+
+C: Caso chova amanhã, a festa será cancelada.
+S: Se chover amanhã, a festa será cancelada.
+
+C: Ao ouvir a música, senti uma forte emoção.
+S: Ouvindo a música, senti uma forte emoção.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Estando cansado, ele continuou trabalhando.
+
+C: A menos que você estude, não irá passar na prova.
+S: Se você não estudar, não irá passar na prova.
+
+C: Ao ver o acidente, ele ligou para a emergência.
+S: Vendo o acidente, ele ligou para a emergência.
+
+C: Mesmo não gostando de filmes de terror, ela assistiu ao lançamento.
+S: Não gostando de filmes de terror, ela assistiu ao lançamento.
+
+C: Caso chegue atrasado, não será permitida a entrada.
+S: Se chegar atrasado, não será permitida a entrada.
+
+C: Ao ver o resultado do jogo, os torcedores ficaram decepcionados.
+S: Ao ver o resultado do jogo, os torcedores ficaram decepcionados.
+
+C: Mesmo tendo estudado muito, ele não conseguiu passar na prova.
+S: Mesmo tendo estudado muito, ele não conseguiu passar na prova.
+
+C: Se o tempo melhorar, iremos à praia amanhã.
+S: Se o tempo melhorar, iremos à praia amanhã.
+
+C: Apesar de ter chovido, fomos ao parque fazer um piquenique.
+S: Apesar de ter chovido, fomos ao parque fazer um piquenique.
+
+C: Ao se deparar com o perigo, ele agiu rapidamente.
+S: Ao se deparar com o perigo, ele agiu rapidamente.
+
+C: Se você não me ajudar, não poderemos terminar a tempo.
+S: Se você não me ajudar, não poderemos terminar a tempo.
+
+C: Mesmo tendo tido pouco tempo, ela conseguiu entregar o trabalho.
+S: Mesmo tendo tido pouco tempo, ela conseguiu entregar o trabalho.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: Se tivermos sorte, poderemos ver o pôr do sol.
+S: Se tivermos sorte, poderemos ver o pôr do sol.
+
+C: Apesar da chuva forte, eles saíram para correr.
+S: Apesar da chuva forte, eles saíram para correr.
+
+C: Com a chegada da pandemia, muitas pessoas perderam seus empregos.
+S: Com a chegada da pandemia, muitas pessoas perderam empregos.
+
+C: Apesar da chuva torrencial, eu fui para o trabalho.
+S: Apesar da chuva torrencial, fui para o trabalho.
+
+C: Ao ver o preço do produto, ela desistiu de comprá-lo.
+S: Ao ver o preço do produto, desistiu de comprá-lo.
+
+C: Caso você tenha alguma dúvida, pode me perguntar.
+S: Caso tenha alguma dúvida, pode me perguntar.
+
+C: Com muito esforço, ela conseguiu alcançar seus objetivos.
+S: Com muito esforço, conseguiu alcançar seus objetivos.
+
+C: Ainda que você não concorde, é importante considerar a opinião dos outros.
+S: Ainda que não concorde, é importante considerar a opinião dos outros.
+
+C: Se chegar atrasado, você perderá o ônibus.
+S: Chegando atrasado, perderá o ônibus.
+
+C: Durante o show, as pessoas cantaram e dançaram animadamente.
+S: Durante o show, as pessoas cantaram e dançaram.
+
+C: Sempre que está estressado, ele pratica meditação.
+S: Sempre que está estressado, pratica meditação.
+
+C: Com medo de falhar, ele nunca se arrisca em novos projetos.
+S: Com medo de falhar, nunca se arrisca em novos projetos.
+
+C: O atleta chegou atrasado, tendo dormido mal na noite anterior ao jogo.
+S: O atleta chegou atrasado, dormindo mal na noite anterior ao jogo.
+
+C: Maria comeu uma fatia de bolo, embora estivesse de dieta.
+S: Maria comeu uma fatia de bolo, mesmo estando de dieta.
+
+C: Apesar de não ter estudado para a prova, João conseguiu tirar uma boa nota.
+S: Não estudando para a prova, João conseguiu tirar uma boa nota.
+
+C: Ao ver o acidente, os pedestres correram para ajudar a vítima.
+S: Vendo o acidente, os pedestres correram para ajudar a vítima.
+
+C: Para se manter saudável, é necessário praticar exercícios regularmente.
+S: Para se manter saudável, é necessário praticar exercícios.
+
+C: Embora estivesse cansado, ele decidiu continuar trabalhando.
+S: Cansado, ele decidiu continuar trabalhando.
+
+C: O carro quebrou na estrada, impedindo-os de chegar a tempo.
+S: O carro quebrou na estrada, impedindo-os de chegar.
+
+C: Mesmo tendo pouco dinheiro, ele decidiu viajar nas férias.
+S: Tendo pouco dinheiro, ele decidiu viajar nas férias.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ouvindo a música, ela começou a dançar.
+
+C: Apesar de ter jogado bem, a equipe perdeu o jogo.
+S: Jogando bem, a equipe perdeu o jogo.
+
+C: Ao perceber que estava atrasado, João correu para pegar o ônibus.
+S: Percebendo que estava atrasado, João correu para pegar o ônibus.
+
+C: Apesar de estar doente, ela foi trabalhar.
+S: Mesmo estando doente, ela foi trabalhar.
+
+C: Se chover, não iremos à praia.
+S: Caso chova, não iremos à praia.
+
+C: Ao ver a comida, ele salivou.
+S: Vendo a comida, ele salivou.
+
+C: Embora tenha estudado muito, ele não passou na prova.
+S: Mesmo tendo estudado muito, ele não passou na prova.
+
+C: Caso sejamos convidados, iremos à festa.
+S: Se formos convidados, iremos à festa.
+
+C: Apesar de cansado, ele continuou correndo.
+S: Mesmo cansado, ele continuou correndo.
+
+C: Ao acordar, ela tomou um banho.
+S: Acordando, ela tomou um banho.
+
+C: Embora tenha tentado, ela não conseguiu resolver o problema.
+S: Mesmo tendo tentado, ela não conseguiu resolver o problema.
+
+C: Caso chova, levarei um guarda-chuva.
+S: Se chover, levarei um guarda-chuva.
+
+C: Ao chegar em casa, ele decidiu assistir a um filme.
+S: Chegando em casa, ele decidiu assistir a um filme.
+
+C: Apesar de estar muito cansada, ela continuou estudando.
+S: Estando muito cansada, ela continuou estudando.
+
+C: Se chover amanhã, irei de táxi.
+S: Chovendo amanhã, irei de táxi.
+
+C: Com a intenção de ajudar, ele se prontificou a colaborar.
+S: Com a intenção de ajudar, ele prontificou-se a colaborar.
+
+C: Embora seja difícil, preciso tomar uma decisão.
+S: Sendo difícil, preciso tomar uma decisão.
+
+C: Caso ele chegue atrasado, começaremos a reunião sem ele.
+S: Chegando ele atrasado, começaremos a reunião sem ele.
+
+C: Com habilidade para pintura, ela criou lindas obras de arte.
+S: Com habilidade para pintura, ela criou lindas obras de arte.
+
+C: Após se formar, ele pretende viajar pelo mundo.
+S: Depois de se formar, ele pretende viajar pelo mundo.
+
+C: Se o dinheiro acabar, teremos que economizar.
+S: Acabando o dinheiro, teremos que economizar.
+
+C: Com receio de me atrasar, saí mais cedo de casa.
+S: Com receio de atrasar-me, saí mais cedo de casa.
+
+C: Mesmo não tendo estudado muito, ela conseguiu passar na prova.
+S: Mesmo não tendo estudado muito, ela conseguiu passar na prova.
+
+C: Apesar de estar cansado, Pedro decidiu ir à academia.
+S: Apesar de estar cansado, Pedro decidiu ir à academia.
+
+C: Embora não goste de cozinhar, ela preparou um jantar delicioso.
+S: Embora não goste de cozinhar, ela preparou um jantar delicioso.
+
+C: Caso faça sol amanhã, iremos à praia.
+S: Caso faça sol amanhã, iremos à praia.
+
+C: Trabalhando duro, ela conseguiu ser promovida.
+S: Trabalhando duro, ela conseguiu ser promovida.
+
+C: Mesmo sem ter dinheiro, ele foi viajar.
+S: Mesmo sem ter dinheiro, ele foi viajar.
+
+C: Embora não tenha tempo, ela sempre encontra um jeito de se exercitar.
+S: Embora não tenha tempo, ela sempre encontra um jeito de se exercitar.
+
+C: Caso eu ganhe na loteria, vou viajar pelo mundo.
+S: Caso eu ganhe na loteria, vou viajar pelo mundo.
+
+C: Apesar de não ser rico, ele é muito feliz.
+S: Apesar de não ser rico, ele é muito feliz.
+
+C: Trabalhando juntos, o projeto foi finalizado antes do prazo.
+S: Trabalhando juntos, o projeto foi finalizado antes do prazo.
+
+C: Apesar de estar cansado, ele decidiu continuar trabalhando.
+S: Cansado, ele decidiu continuar trabalhando.
+
+C: Se chover amanhã, a festa será adiada.
+S: Chovendo amanhã, a festa será adiada.
+
+C: Ao perceber que estava atrasada, ela correu para pegar o ônibus.
+S: Percebendo que estava atrasada, ela correu para pegar o ônibus.
+
+C: Embora tenha estudado bastante, ele não conseguiu passar na prova.
+S: Tendo estudado bastante, ele não conseguiu passar na prova.
+
+C: Caso a promoção seja concedida, ela terá um aumento de salário.
+S: Sendo a promoção concedida, ela terá um aumento de salário.
+
+C: Mesmo precavido, ele acabou se machucando.
+S: Prevenido, ele acabou se machucando.
+
+C: Sabendo que a reunião seria longa, ele levou snacks para comer.
+S: Sabendo que a reunião seria longa, ele levou snacks para comer.
+
+C: No entanto, ela preferiu não participar da competição.
+S: Porém, ela preferiu não participar da competição.
+
+C: Embora não saiba dançar, ele se arriscou na pista.
+S: Sem saber dançar, ele se arriscou na pista.
+
+C: Desde que iniciou a dieta, ela já perdeu alguns quilos.
+S: Ao iniciar a dieta, ela já perdeu alguns quilos.
+
+C: Depois de terminar os estudos, Pedro pretende viajar pelo mundo.
+S: Depois de terminar os estudos, Pedro pretende viajar pelo mundo.
+
+C: Embora tenha chovido muito, o jogo de futebol não foi cancelado.
+S: Embora tenha chovido muito, o jogo de futebol não foi cancelado.
+
+C: Ao chegar em casa, Maria encontrou um cachorro abandonado na porta.
+S: Ao chegar em casa, Maria encontrou um cachorro abandonado na porta.
+
+C: Caso você não pague a conta, a luz será cortada.
+S: Caso não pague a conta, a luz será cortada.
+
+C: Mesmo tendo estudado bastante, ele não tirou uma nota boa na prova.
+S: Mesmo tendo estudado bastante, ele não tirou uma nota boa na prova.
+
+C: Ao ouvir a música, as crianças começaram a dançar.
+S: Ao ouvir a música, as crianças começaram a dançar.
+
+C: Embora esteja cansado, Lucas decidiu ir à festa.
+S: Embora esteja cansado, Lucas decidiu ir à festa.
+
+C: Se não chover amanhã, faremos um piquenique no parque.
+S: Se não chover amanhã, faremos um piquenique no parque.
+
+C: Ao ver o carro em alta velocidade, João se assustou.
+S: Ao ver o carro em alta velocidade, João se assustou.
+
+C: Mesmo sendo caro, ele decidiu comprar o celular.
+S: Mesmo sendo caro, ele decidiu comprar o celular.
+
+C: Ao ver o resultado do jogo, Pedro ficou bastante animado.
+S: Vendo o resultado do jogo, Pedro ficou bastante animado.
+
+C: Apesar de ter estudado muito, Maria foi reprovada na prova.
+S: Apesar de estudar muito, Maria foi reprovada na prova.
+
+C: Caso esteja chovendo amanhã, não poderemos sair.
+S: Se estiver chovendo amanhã, não poderemos sair.
+
+C: Com a intenção de aprender um novo idioma, João começou a fazer aulas.
+S: Com a intenção de aprender um novo idioma, João começou a fazer aulas.
+
+C: Trabalhando como médico, Pedro ajuda muitas pessoas.
+S: Trabalhando como médico, Pedro ajuda muitas pessoas.
+
+C: Mesmo tendo acabado de almoçar, Joana estava com fome.
+S: Mesmo tendo acabado de almoçar, Joana estava com fome.
+
+C: Se você falar baixo, não vai incomodar os outros.
+S: Falando baixo, não vai incomodar os outros.
+
+C: Querendo chamar a atenção, o cantor fez um gesto exagerado.
+S: Querendo chamar a atenção, o cantor fez um gesto exagerado.
+
+C: Embora tenha se esforçado muito, ela não conseguiu o primeiro lugar.
+S: Embora tenha se esforçado muito, ela não conseguiu o primeiro lugar.
+
+C: Apesar de ter acordado cedo, atrasou-se para o trabalho.
+S: Apesar de acordar cedo, atrasou-se para o trabalho.
+
+C: Ao ver a chuva que caía incessantemente, decidimos cancelar o passeio ao parque.
+S: Ao ver a chuva que caía incessantemente, decidimos cancelar o passeio ao parque.
+
+C: Depois de analisarmos todas as opções, escolhemos o restaurante italiano.
+S: Depois de analisarmos todas as opções, escolhemos o restaurante italiano.
+
+C: Tentando não perder tempo, começamos a arrumar as malas imediatamente.
+S: Tentando não perder tempo, começamos a arrumar as malas imediatamente.
+
+C: Se ele tiver estudado o suficiente, será aprovado na prova.
+S: Se ele tiver estudado o suficiente, será aprovado na prova.
+
+C: Apesar de não gostar de acordar cedo, ele foi ao trabalho pontualmente.
+S: Apesar de não gostar de acordar cedo, ele foi ao trabalho pontualmente.
+
+C: Manteremos a calma, mesmo que ocorram imprevistos.
+S: Manteremos a calma, mesmo que ocorram imprevistos.
+
+C: Sem saber nadar, decidiu pular na piscina de qualquer maneira.
+S: Sem saber nadar, decidiu pular na piscina de qualquer maneira.
+
+C: Caso você esteja atrasado, não se preocupe em pegar o ônibus.
+S: Caso você esteja atrasado, não se preocupe em pegar o ônibus.
+
+C: Ainda que estivesse cansado, ele insistiu em continuar a caminhada.
+S: Ainda que estivesse cansado, ele insistiu em continuar a caminhada.
+
+C: Mesmo sabendo que era perigoso, decidiu experimentar a comida apimentada.
+S: Mesmo sabendo que era perigoso, decidiu experimentar a comida apimentada.
+
+C: Ao perceber que chegaria atrasado à reunião, ele correu para pegar o ônibus.
+S: Percebendo que chegaria atrasado à reunião, ele correu para pegar o ônibus.
+
+C: Embora tenha estudado muito, ela não passou na prova.
+S: Mesmo estudando muito, ela não passou na prova.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Com chuva amanhã, cancelaremos o passeio.
+
+C: Tomando todas as precauções necessárias, evitaremos acidentes.
+S: Ao tomar todas as precauções necessárias, evitaremos acidentes.
+
+C: Por ser uma pessoa responsável, ele sempre cumpre suas promessas.
+S: Sendo uma pessoa responsável, ele sempre cumpre suas promessas.
+
+C: Caso seja necessário, entraremos em contato.
+S: Se necessário, entraremos em contato.
+
+C: Embora trabalhe duro todos os dias, ele não ganha o suficiente.
+S: Mesmo trabalhando duro todos os dias, ele não ganha o suficiente.
+
+C: Ao ver o resultado do exame, ela ficou muito feliz.
+S: Vendo o resultado do exame, ela ficou muito feliz.
+
+C: Se perder o voo, teremos que remarcar a viagem.
+S: Perdendo o voo, teremos que remarcar a viagem.
+
+C: Por ter estudado bastante, ele conseguiu passar na prova.
+S: Tendo estudado bastante, ele conseguiu passar na prova.
+
+C: Com a chegada da chuva, todos correram para se abrigar.
+S: Com a chegada da chuva, todos correram para se abrigar.
+
+C: Apesar de estar cansado, ele continuou estudando para a prova.
+S: Apesar de estar cansado, ele continuou estudando para a prova.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Ao visitar a exposição, fiquei impressionado com as obras de arte.
+S: Ao visitar a exposição, fiquei impressionado com as obras de arte.
+
+C: Embora não soubesse nadar, ele pulou na piscina.
+S: Embora não soubesse nadar, ele pulou na piscina.
+
+C: Caso venham nos visitar, vamos preparar um jantar especial.
+S: Caso venham nos visitar, vamos preparar um jantar especial.
+
+C: Com o frio intenso, o professor cancelou a aula.
+S: Com o frio intenso, o professor cancelou a aula.
+
+C: Apesar de não ter tempo, ela se dedicou ao projeto.
+S: Apesar de não ter tempo, ela se dedicou ao projeto.
+
+C: Se tivermos problemas, podemos pedir ajuda.
+S: Se tivermos problemas, podemos pedir ajuda.
+
+C: Ao se aproximar, percebi que era minha amiga.
+S: Ao se aproximar, percebi que era minha amiga.
+
+C: Ao receber uma promoção no trabalho, Ana comemorou com seus colegas.
+S: Recebendo uma promoção no trabalho, Ana comemorou com seus colegas.
+
+C: Embora estivesse cansada, Maria foi correr no parque.
+S: Cansada, Maria foi correr no parque.
+
+C: Se estudar com afinco, você passará na prova.
+S: Estudando com afinco, você passará na prova.
+
+C: Por ter sido convidado para a festa, João comprou um presente.
+S: Tendo sido convidado para a festa, João comprou um presente.
+
+C: Mesmo ganhando pouco dinheiro, Pedro conseguiu viajar nas férias.
+S: Ganhando pouco dinheiro, Pedro conseguiu viajar nas férias.
+
+C: Caso chova mais tarde, vou levar meu guarda-chuva.
+S: Chovendo mais tarde, vou levar meu guarda-chuva.
+
+C: Apesar de estar atrasado, ele não correu para pegar o ônibus.
+S: Estando atrasado, ele não correu para pegar o ônibus.
+
+C: Ao ouvir a música, Maria se emocionou.
+S: Ouvindo a música, Maria se emocionou.
+
+C: Comprando um novo carro, João se livrou do antigo.
+S: Ao comprar um novo carro, João se livrou do antigo.
+
+C: Mesmo não gostando de cozinhar, Ana preparou um jantar especial.
+S: Não gostando de cozinhar, Ana preparou um jantar especial.
+
+C: Quando estava estudando para o exame, percebi que havia esquecido meu livro em casa.
+S: Estudando para o exame, percebi que havia esquecido meu livro em casa.
+
+C: Após comer uma fatia de bolo, Maria sentiu-se um pouco enjoada.
+S: Comendo uma fatia de bolo, Maria sentiu-se um pouco enjoada.
+
+C: Caso tenha tempo livre, gostaria de assistir a um filme.
+S: Se tiver tempo livre, gostaria de assistir a um filme.
+
+C: Por mais que tentasse, ele não conseguia abrir a porta trancada.
+S: Tentando ao máximo, ele não conseguia abrir a porta trancada.
+
+C: Ao ver o acidente, todos ficaram assustados.
+S: Vendo o acidente, todos ficaram assustados.
+
+C: Se chover amanhã, vamos deixar o passeio para outro dia.
+S: Caso chova amanhã, vamos deixar o passeio para outro dia.
+
+C: Embora estivesse cansada, ela continuou estudando até tarde da noite.
+S: Cansada, ela continuou estudando até tarde da noite.
+
+C: Ao chegar ao aeroporto, percebi que havia perdido meu passaporte.
+S: Chegando ao aeroporto, percebi que havia perdido meu passaporte.
+
+C: Caso tenha dinheiro suficiente, pretendo fazer uma viagem no próximo ano.
+S: Se tiver dinheiro suficiente, pretendo fazer uma viagem no próximo ano.
+
+C: Não conseguindo resolver o problema sozinho, ele pediu ajuda.
+S: Não conseguindo resolver o problema sozinho, ele pediu ajuda.
+
+C: Ao estudar com afinco, Pedro conseguiu passar no exame.
+S: Ao estudar com afinco, Pedro conseguiu passar no exame.
+
+C: Caminhando devagar, conseguimos aproveitar melhor a paisagem.
+S: Caminhando devagar, conseguimos aproveitar melhor a paisagem.
+
+C: Mesmo fazendo muito frio, eles decidiram ir à praia.
+S: Mesmo fazendo muito frio, eles decidiram ir à praia.
+
+C: Ouvindo atentamente, consegui entender todas as explicações.
+S: Ouvindo atentamente, consegui entender todas as explicações.
+
+C: Comendo rapidamente, ela conseguiu almoçar antes de sair.
+S: Comendo rapidamente, ela conseguiu almoçar antes de sair.
+
+C: Mesmo não tendo experiência, ele foi contratado para o cargo.
+S: Mesmo não tendo experiência, ele foi contratado para o cargo.
+
+C: Tentando de todas as formas, ela finalmente conseguiu abrir a garrafa.
+S: Tentando de todas as formas, ela finalmente conseguiu abrir a garrafa.
+
+C: Mesmo estando cansado, ele ainda conseguiu correr a maratona.
+S: Mesmo estando cansado, ele ainda conseguiu correr a maratona.
+
+C: Fazendo muito calor, decidimos dar um mergulho no rio.
+S: Fazendo muito calor, decidimos dar um mergulho no rio.
+
+C: Mesmo não sendo fácil, ela conseguiu completar o desafio.
+S: Mesmo não sendo fácil, ela conseguiu completar o desafio.
+
+C: Estudando por horas, ele conseguiu ser aprovado no concurso.
+S: Estudando por horas, ele conseguiu ser aprovado no concurso.
+
+C: Mesmo estando cansada, ela continuou correndo.
+S: Mesmo estando cansada, ela continuou correndo.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Embora soubesse que era perigoso, ele decidiu arriscar.
+S: Embora soubesse que era perigoso, ele decidiu arriscar.
+
+C: Ao chegar em casa, ele percebeu que havia esquecido as chaves.
+S: Ao chegar em casa, ele percebeu que havia esquecido as chaves.
+
+C: Caso eu ganhe na loteria, viajarei pelo mundo.
+S: Caso eu ganhe na loteria, viajarei pelo mundo.
+
+C: Ao perder o ônibus, ela decidiu pegar um táxi.
+S: Ao perder o ônibus, ela decidiu pegar um táxi.
+
+C: Embora estivesse cansada, ela insistiu em terminar o trabalho.
+S: Embora estivesse cansada, ela insistiu em terminar o trabalho.
+
+C: Se você estudar bastante, conseguirá passar na prova.
+S: Se você estudar bastante, conseguirá passar na prova.
+
+C: Ao ouvir a música, ela começou a dançar.
+S: Ao ouvir a música, ela começou a dançar.
+
+C: O rapaz, estando muito cansado, decidiu descansar no banco do parque.
+S: O rapaz, muito cansado, decidiu descansar no banco do parque.
+
+C: Ela, tendo estudado muito, conseguiu obter uma boa nota na prova.
+S: Ela, estudando muito, conseguiu obter uma boa nota na prova.
+
+C: O carro, estando sem gasolina, parou no meio da estrada.
+S: O carro, sem gasolina, parou no meio da estrada.
+
+C: O menino, tendo medo do escuro, dorme com a luz acesa.
+S: O menino, com medo do escuro, dorme com a luz acesa.
+
+C: Minha mãe, estando ocupada, não pôde me ajudar com a tarefa.
+S: Minha mãe, ocupada, não pôde me ajudar com a tarefa.
+
+C: O atleta, sentindo muita dor, abandonou a competição.
+S: O atleta, com muita dor, abandonou a competição.
+
+C: A cachorra, estando com fome, latiu insistentemente.
+S: A cachorra, com fome, latiu insistentemente.
+
+C: O jogador, tendo marcado um gol, comemorou com os colegas de time.
+S: O jogador, marcando um gol, comemorou com os colegas de time.
+
+C: A criança, estando entediada, começou a chorar no restaurante.
+S: A criança, entediada, começou a chorar no restaurante.
+
+C: Eu, tendo estudado muito, me sinto confiante para a prova.
+S: Eu, estudando muito, me sinto confiante para a prova.
+
+C: Ao ver a chuva caindo forte, resolvi ficar em casa.
+S: Vendo a chuva caindo forte, resolvi ficar em casa.
+
+C: Mesmo sem ter dinheiro, ela decidiu viajar.
+S: Sem ter dinheiro, ela decidiu viajar.
+
+C: Caso não estudemos, não passaremos na prova.
+S: Não estudando, não passaremos na prova.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Estando cansado, ele continuou trabalhando.
+
+C: Se chover amanhã, não iremos à praia.
+S: Chovendo amanhã, não iremos à praia.
+
+C: Ao ouvir a notícia, ela ficou muito triste.
+S: Ouvindo a notícia, ela ficou muito triste.
+
+C: Embora tenha pouco tempo, ele sempre encontra um jeito de ajudar.
+S: Tendo pouco tempo, ele sempre encontra um jeito de ajudar.
+
+C: Caso chegue atrasado, não irei te esperar.
+S: Chegando atrasado, não irei te esperar.
+
+C: Mesmo sem saber falar francês, ela foi para Paris.
+S: Sem saber falar francês, ela foi para Paris.
+
+C: Apesar de não ter experiência, ele conseguiu o emprego.
+S: Não tendo experiência, ele conseguiu o emprego.
+
+C: Ao olhar para o oceano, o surfista sentiu uma onda de felicidade.
+S: Ao olhar para o oceano, o surfista sentiu uma onda de felicidade.
+
+C: Por mais que estudasse, ele não conseguia entender o problema.
+S: Por mais que estudasse, ele não conseguia entender o problema.
+
+C: Ao chegar em casa, a mãe preparou um delicioso jantar.
+S: Ao chegar em casa, a mãe preparou um delicioso jantar.
+
+C: Mesmo não tendo tempo suficiente, ele decidiu fazer a viagem.
+S: Mesmo não tendo tempo suficiente, ele decidiu fazer a viagem.
+
+C: Caso chova amanhã, vamos cancelar o passeio.
+S: Caso chova amanhã, vamos cancelar o passeio.
+
+C: Ao escalar a montanha, o alpinista sentiu uma sensação de liberdade.
+S: Ao escalar a montanha, o alpinista sentiu uma sensação de liberdade.
+
+C: Por mais que estivesse cansado, ele continuou trabalhando.
+S: Por mais que estivesse cansado, ele continuou trabalhando.
+
+C: Se ele chegar atrasado novamente, será demitido.
+S: Se ele chegar atrasado novamente, será demitido.
+
+C: Ao assistir ao filme, ela teve uma ideia para o seu próximo roteiro.
+S: Ao assistir ao filme, ela teve uma ideia para o seu próximo roteiro.
+
+C: Mesmo não sendo fácil, ele decidiu enfrentar o desafio.
+S: Mesmo não sendo fácil, ele decidiu enfrentar o desafio.
+
+C: Chegando em casa, meu cachorro pulou em cima de mim.
+S: Chegando em casa, meu cachorro pulou em cima de mim.
+
+C: Com a chuva não parando, decidimos adiar o picnic.
+S: Com a chuva não parando, decidimos adiar o picnic.
+
+C: Estudando muito, consegui passar no exame.
+S: Estudando muito, consegui passar no exame.
+
+C: Se chover amanhã, irei de carro para o trabalho.
+S: Se chover amanhã, irei de carro para o trabalho.
+
+C: Mesmo pedindo por favor, ele não me emprestou o livro.
+S: Mesmo pedindo por favor, ele não me emprestou o livro.
+
+C: Viajando pelo mundo, conheci pessoas incríveis.
+S: Viajando pelo mundo, conheci pessoas incríveis.
+
+C: Com o tempo passando rápido, percebi como a vida é curta.
+S: Com o tempo passando rápido, percebi como a vida é curta.
+
+C: Mesmo sendo cansativo, eu gosto de fazer exercícios físicos.
+S: Mesmo sendo cansativo, eu gosto de fazer exercícios físicos.
+
+C: Se você estudar bastante, conseguirá alcançar seus objetivos.
+S: Se você estudar bastante, conseguirá alcançar seus objetivos.
+
+C: Com o sol brilhando forte, pegamos um dia de praia.
+S: Com o sol brilhando forte, pegamos um dia de praia.
+
+C: Chegando atrasado, João teve que explicar para o professor o motivo de sua falta.
+S: Chegando atrasado, João explicou para o professor o motivo de sua falta.
+
+C: Mesmo tentando se concentrar, Clara não conseguia estudar para a prova.
+S: Tentando se concentrar, Clara não conseguia estudar para a prova.
+
+C: Com medo de perder o voo, Ana correu até o portão de embarque.
+S: Com medo de perder o voo, Ana correu até o portão de embarque.
+
+C: Embora estivesse cansado, João foi ao treino de futebol.
+S: Cansado, João foi ao treino de futebol.
+
+C: Com a esperança de ganhar na loteria, Pedro comprou diversos bilhetes.
+S: Com a esperança de ganhar na loteria, Pedro comprou diversos bilhetes.
+
+C: Apesar de ter estudado muito, Maria não conseguiu passar na prova.
+S: Estudando muito, Maria não conseguiu passar na prova.
+
+C: Ao perceber a presença do pai, o bebê começou a chorar.
+S: Ao perceber a presença do pai, o bebê começou a chorar.
+
+C: Com o objetivo de se tornar um grande escritor, Miguel dedicou-se à leitura desde cedo.
+S: Com o objetivo de se tornar um grande escritor, Miguel dedicou-se à leitura desde cedo.
+
+C: Mesmo tendo pouco tempo, Paulo conseguiu concluir o projeto.
+S: Tendo pouco tempo, Paulo conseguiu concluir o projeto.
+
+C: Apesar de cansado, Antonio foi correr no parque.
+S: Cansado, Antonio foi correr no parque.
+
+C: Ao ver que seu time estava perdendo, ele decidiu desistir do jogo.
+S: Ao ver seu time perdendo, ele decidiu desistir do jogo.
+
+C: Mesmo tendo estudado bastante para a prova, ele foi reprovado.
+S: Mesmo estudando bastante para a prova, ele foi reprovado.
+
+C: Com medo de perder o emprego, ele trabalhava horas extras todos os dias.
+S: Com medo de perder o emprego, ele trabalhava horas extras diariamente.
+
+C: Mesmo que estivesse chovendo, ela foi ao parque fazer uma caminhada.
+S: Mesmo chovendo, ela foi ao parque fazer uma caminhada.
+
+C: Ao receber a notícia, ele ficou muito feliz.
+S: Ao receber a notícia, ele ficou feliz.
+
+C: Apesar de ter treinado bastante, ele não conseguiu ganhar a competição.
+S: Apesar de treinar bastante, ele não conseguiu ganhar a competição.
+
+C: Com o objetivo de economizar dinheiro, ela decidiu parar de comer fora.
+S: Com o objetivo de economizar dinheiro, ela decidiu parar de comer fora.
+
+C: Caso você não entenda, estou aqui para te ajudar.
+S: Se você não entender, estou aqui para te ajudar.
+
+C: Embora estivesse cansado, ele continuou trabalhando até tarde da noite.
+S: Embora cansado, ele continuou trabalhando até tarde da noite.
+
+C: Ao perceber que tinha esquecido o livro em casa, ela voltou correndo para buscá-lo.
+S: Ao perceber ter esquecido o livro em casa, ela voltou correndo para buscá-lo.
+
+C: Ao estudar com diligência, Pedro conseguiu obter notas altas.
+S: Estudando com diligência, Pedro conseguiu obter notas altas.
+
+C: Apesar de estarem cansados, os atletas continuaram treinando.
+S: Cansados, os atletas continuaram treinando.
+
+C: Se você estudar, passará na prova.
+S: Estudando, você passará na prova.
+
+C: Maria saiu correndo ao perceber que estava atrasada.
+S: Ao perceber que estava atrasada, Maria saiu correndo.
+
+C: Todos olharam surpresos ao ver a reação do professor.
+S: Ao ver a reação do professor, todos olharam surpresos.
+
+C: Caso chova amanhã, o jogo será adiado.
+S: Chovendo amanhã, o jogo será adiado.
+
+C: Ao ver o resultado do exame, Laura ficou aliviada.
+S: Vendo o resultado do exame, Laura ficou aliviada.
+
+C: Apesar de ser tarde, ainda é possível chegar a tempo.
+S: Sendo tarde, ainda é possível chegar a tempo.
+
+C: Se o trânsito estiver congestionado, irei de ônibus.
+S: Estando o trânsito congestionado, irei de ônibus.
+
+C: Enquanto ouvia música, Ana fazia exercícios na academia.
+S: Ouvindo música, Ana fazia exercícios na academia.
+
+C: Sentindo-se cansado, ele decidiu ir dormir mais cedo.
+S: Sentindo-se cansado, ele decidiu ir dormir mais cedo.
+
+C: Correndo contra o tempo, ela conseguiu chegar a tempo para a reunião.
+S: Correndo contra o tempo, ela conseguiu chegar a tempo para a reunião.
+
+C: Precisando de dinheiro, ele decidiu procurar um emprego de meio período.
+S: Precisando de dinheiro, ele decidiu procurar um emprego de meio período.
+
+C: Embora estivesse nervoso, ele conseguiu fazer a apresentação com sucesso.
+S: Embora estivesse nervoso, ele conseguiu fazer a apresentação com sucesso.
+
+C: Querendo impressionar sua família, ela preparou um jantar elaborado.
+S: Querendo impressionar sua família, ela preparou um jantar elaborado.
+
+C: Caso chova, vamos cancelar o piquenique.
+S: Caso chova, vamos cancelar o piquenique.
+
+C: Precisando estudar, ela decidiu ficar em casa em vez de sair com os amigos.
+S: Precisando estudar, ela decidiu ficar em casa em vez de sair com os amigos.
+
+C: Com medo de altura, ela não conseguiu subir na montanha-russa.
+S: Com medo de altura, ela não conseguiu subir na montanha-russa.
+
+C: Sem ter o que comer, eles decidiram pedir pizza.
+S: Sem ter o que comer, eles decidiram pedir pizza.
+
+C: Desde que começou a chover, ele não saiu de casa.
+S: Desde que começou a chover, ele não saiu de casa.
+
+C: Ao estudar com dedicação, João conseguiu passar no exame.
+S: Estudando com dedicação, João conseguiu passar no exame.
+
+C: Mesmo tendo estudado bastante, ela não conseguiu obter uma nota alta.
+S: Tendo estudado bastante, ela não conseguiu obter uma nota alta.
+
+C: Apesar de ter acordado cedo, ele não conseguiu chegar no horário.
+S: Tendo acordado cedo, ele não conseguiu chegar no horário.
+
+C: Sem ter o dinheiro necessário, eles não puderam viajar no feriado.
+S: Não tendo o dinheiro necessário, eles não puderam viajar no feriado.
+
+C: Ao tentar consertar a máquina, ele quebrou uma peça importante.
+S: Tentando consertar a máquina, ele quebrou uma peça importante.
+
+C: Mesmo não sabendo nadar, ela se aventurou a entrar no mar.
+S: Não sabendo nadar, ela se aventurou a entrar no mar.
+
+C: Ao ver o resultado do jogo, todos ficaram decepcionados.
+S: Vendo o resultado do jogo, todos ficaram decepcionados.
+
+C: Apesar de não ter experiência, ela conseguiu o emprego.
+S: Não tendo experiência, ela conseguiu o emprego.
+
+C: Mesmo sabendo que era arriscado, eles decidiram tentar.
+S: Sabendo que era arriscado, eles decidiram tentar.
+
+C: Ao ouvir a música, ela se emocionou e começou a chorar.
+S: Ouvindo a música, ela se emocionou e começou a chorar.
+
+C: Achando que o clima estava instável, resolvi levar um guarda-chuva.
+S: Achando que o clima estava instável, resolvi levar um guarda-chuva.
+
+C: Planejando viajar para o exterior, comecei a economizar dinheiro.
+S: Planejando viajar para o exterior, comecei a economizar dinheiro.
+
+C: Não podendo comparecer à reunião, avisei meu chefe com antecedência.
+S: Não podendo comparecer à reunião, avisei meu chefe com antecedência.
+
+C: Mesmo sentindo medo, tomei coragem e fiz a apresentação.
+S: Mesmo sentindo medo, tomei coragem e fiz a apresentação.
+
+C: Querendo evitar conflitos, resolvi ficar em silêncio.
+S: Querendo evitar conflitos, resolvi ficar em silêncio.
+
+C: Sem saber como resolver o problema, pedi ajuda a um especialista.
+S: Sem saber como resolver o problema, pedi ajuda a um especialista.
+
+C: Com medo de perder o emprego, comecei a buscar novas oportunidades.
+S: Com medo de perder o emprego, comecei a buscar novas oportunidades.
+
+C: Acreditando ser possível alcançar meus objetivos, tracei um plano de ação.
+S: Acreditando ser possível alcançar meus objetivos, tracei um plano de ação.
+
+C: Não tendo tempo suficiente, decidi deixar a tarefa para depois.
+S: Não tendo tempo suficiente, decidi deixar a tarefa para depois.
+
+C: Percebendo que estava atrasado, apressei o passo para não perder o ônibus.
+S: Percebendo que estava atrasado, apressei o passo para não perder o ônibus.
+
+C: Depois de terminar a reunião, fui passear no parque.
+S: Terminada a reunião, fui passear no parque.
+
+C: Ao ver o resultado, todos ficaram surpresos.
+S: Vendo o resultado, todos ficaram surpresos.
+
+C: Caso precise de ajuda, me avise.
+S: Se precisar de ajuda, me avise.
+
+C: Ao acordar cedo, consigo fazer mais tarefas.
+S: Acordando cedo, consigo fazer mais tarefas.
+
+C: Se não chover, faremos um piquenique no parque.
+S: Não chovendo, faremos um piquenique no parque.
+
+C: Mesmo estando cansado, vou à academia todos os dias.
+S: Estando cansado, vou à academia todos os dias.
+
+C: A fim de evitar problemas, siga as instruções corretamente.
+S: Para evitar problemas, siga as instruções corretamente.
+
+C: Embora tenha estudado bastante, não passei na prova.
+S: Estudando bastante, não passei na prova.
+
+C: Ao perceber o perigo, corra e se esconda.
+S: Percebendo o perigo, corra e se esconda.
+
+C: Se tiver tempo, gostaria de conversar com você.
+S: Tendo tempo, gostaria de conversar com você.
+
+C: Percebendo que a situação estava piorando, decidimos cancelar o evento.
+S: Percebendo a situação piorando, decidimos cancelar o evento.
+
+C: Sabendo que ele estava mentindo, não acreditei em suas palavras.
+S: Sabendo ele mentindo, não acreditei em suas palavras.
+
+C: Planejando viajar no próximo mês, comecei a economizar dinheiro.
+S: Planejando viajar no próximo mês, comecei a economizar dinheiro.
+
+C: Se chover amanhã, precisaremos levar guarda-chuvas.
+S: Chover amanhã, precisaremos levar guarda-chuvas.
+
+C: Mesmo estudando muito, ela não conseguiu passar na prova.
+S: Mesmo estudando muito, ela não conseguiu passar na prova.
+
+C: Caso ele chegue atrasado, começaremos a reunião sem ele.
+S: Chegando ele atrasado, começaremos a reunião sem ele.
+
+C: Com o objetivo de melhorar a saúde, ele começou a praticar exercícios diariamente.
+S: Com o objetivo de melhorar a saúde, ele começou a praticar exercícios diariamente.
+
+C: Embora estivesse cansado, ele continuou trabalhando até tarde da noite.
+S: Embora estivesse cansado, ele continuou trabalhando até tarde da noite.
+
+C: Ao perceber que estava errado, ele pediu desculpas.
+S: Ao perceber ele errado, pediu desculpas.
+
+C: Sempre que viaja, ela gosta de experimentar comidas típicas do lugar.
+S: Sempre que viaja, gosta de experimentar comidas típicas do lugar.
+
+C: Tendo estudado durante várias horas, ela conseguiu passar no exame.
+S: Estudando durante várias horas, ela conseguiu passar no exame.
+
+C: Ao perceber o perigo iminente, o pássaro voou rapidamente.
+S: Percebendo o perigo iminente, o pássaro voou rapidamente.
+
+C: Para evitar a multa, ele decidiu estacionar em outro lugar.
+S: Evitando a multa, ele decidiu estacionar em outro lugar.
+
+C: Sendo muito cansado, ele preferiu não sair de casa hoje.
+S: Estando muito cansado, ele preferiu não sair de casa hoje.
+
+C: Caso você não possa comparecer à reunião, favor avisar com antecedência.
+S: Se você não puder comparecer à reunião, favor avisar com antecedência.
+
+C: Ao falar a verdade, ele esperava que a situação melhorasse.
+S: Falando a verdade, ele esperava que a situação melhorasse.
+
+C: Não havendo mais opções, eles decidiram seguir em frente.
+S: Não tendo mais opções, eles decidiram seguir em frente.
+
+C: Embora cansado, ele continuou a trabalhar até tarde da noite.
+S: Cansado, ele continuou a trabalhar até tarde da noite.
+
+C: Para facilitar a comunicação, eles utilizaram linguagem de sinais.
+S: Facilitando a comunicação, eles utilizaram linguagem de sinais.
+
+C: Desde que se lembre, ele sempre gostou de música clássica.
+S: Lembrando-se, ele sempre gostou de música clássica.
+
+C: Apesar de ter estudado muito para a prova, não consegui obter uma nota alta.
+S: Apesar de ter estudado muito para a prova, não consegui obter uma nota alta.
+
+C: Ao ver a multidão se aproximando, o jogador decidiu aumentar o ritmo do jogo.
+S: Ao ver a multidão se aproximando, o jogador decidiu aumentar o ritmo do jogo.
+
+C: Com a intenção de surpreender sua mãe, o menino preparou um café da manhã especial.
+S: Com a intenção de surpreender sua mãe, o menino preparou um café da manhã especial.
+
+C: Caso você se atrase, perderá o ônibus para o trabalho.
+S: Caso se atrase, perderá o ônibus para o trabalho.
+
+C: Ao perceber a chuva, o casal decidiu cancelar o passeio no parque.
+S: Ao perceber a chuva, o casal decidiu cancelar o passeio no parque.
+
+C: Apesar dos obstáculos encontrados no caminho, ela alcançou o topo da montanha.
+S: Apesar dos obstáculos encontrados no caminho, ela alcançou o topo da montanha.
+
+C: Com medo de errar, ele preferiu não arriscar a jogada.
+S: Com medo de errar, ele preferiu não arriscar a jogada.
+
+C: Caso você deseje participar da festa, é necessário confirmar presença.
+S: Caso deseje participar da festa, é necessário confirmar presença.
+
+C: Ao receber a notícia, ela não conseguiu esconder a surpresa.
+S: Ao receber a notícia, ela não conseguiu esconder a surpresa.
+
+C: Com a intenção de ajudar seus pais, ele começou a trabalhar cedo.
+S: Com a intenção de ajudar seus pais, ele começou a trabalhar cedo.
+
+C: Afirmar que o trânsito é o principal problema das grandes cidades, não é exagero.
+S: Afirmar que o trânsito ser o principal problema das grandes cidades, não é exagero.
+
+C: Depois de estudar por horas, finalmente entendi a matéria.
+S: Depois de estudar por horas, finalmente entendi a matéria.
+
+C: Apesar de ter chovido muito, o jogo de futebol aconteceu.
+S: Apesar de ter chovido muito, o jogo de futebol aconteceu.
+
+C: Caso não encontre uma solução rápida, enfrentaremos sérias consequências.
+S: Caso não encontre uma solução rápida, enfrentaremos sérias consequências.
+
+C: Ao chegar em casa, percebi que tinha esquecido a chave.
+S: Ao chegar em casa, percebi que tinha esquecido a chave.
+
+C: Mesmo sem me sentir bem, decidi ir ao trabalho.
+S: Mesmo sem me sentir bem, decidi ir ao trabalho.
+
+C: Ao receber o convite, aceitei imediatamente.
+S: Ao receber o convite, aceitei imediatamente.
+
+C: Ainda que tenha estudado muito, não obtive uma boa nota na prova.
+S: Ainda que tenha estudado muito, não obtive uma boa nota na prova.
+
+C: Planejando uma viagem, comecei a economizar dinheiro.
+S: Planejando uma viagem, comecei a economizar dinheiro.
+
+C: Se continuar chovendo, o passeio será cancelado.
+S: Se continuar chovendo, o passeio será cancelado.
+
+C: Após ter estudado muito para a prova, o aluno conseguiu uma nota alta.
+S: Depois de estudar muito para a prova, o aluno conseguiu uma nota alta.
+
+C: Mesmo não tendo dinheiro, ela decidiu viajar para o exterior.
+S: Sem ter dinheiro, ela decidiu viajar para o exterior.
+
+C: Com o tempo esfriando, decidimos acender a lareira.
+S: Com o tempo esfriando, decidimos acender a lareira.
+
+C: Caso não chova amanhã, iremos fazer um piquenique.
+S: Se não chover amanhã, iremos fazer um piquenique.
+
+C: Embora tenha perdido a corrida, ele se esforçou ao máximo.
+S: Apesar de ter perdido a corrida, ele se esforçou ao máximo.
+
+C: Ao fazer a reserva, foi solicitado o pagamento antecipado.
+S: Ao fazer a reserva, pediram o pagamento antecipado.
+
+C: Tomando o remédio com água, ela sentiu alívio imediato.
+S: Ao tomar o remédio com água, ela sentiu alívio imediato.
+
+C: Planejando sua viagem, ela pesquisou sobre os melhores destinos.
+S: Ao planejar sua viagem, ela pesquisou sobre os melhores destinos.
+
+C: Só poluindo o meio ambiente, as indústrias não estão preocupadas com futuro do planeta.
+S: Poluindo o meio ambiente, as indústrias não estão preocupadas com futuro do planeta.
+
+C: Em caso de dúvidas, entre em contato com o suporte técnico.
+S: Se tiver dúvidas, entre em contato com o suporte técnico.
+
+C: Chegando atrasado, ele perdeu o ônibus.
+S: Ao chegar atrasado, ele perdeu o ônibus.
+
+C: Mesmo estudando muito, ela não conseguiu passar na prova.
+S: Apesar de estudar muito, ela não conseguiu passar na prova.
+
+C: Se chover amanhã, vamos cancelar o passeio.
+S: Caso chova amanhã, vamos cancelar o passeio.
+
+C: Apesar de cansado, ele continuou trabalhando.
+S: Cansado, ele continuou trabalhando.
+
+C: Desafiando as probabilidades, ele conseguiu vencer.
+S: Ao desafiar as probabilidades, ele conseguiu vencer.
+
+C: Ao sair de casa, ela esqueceu o celular.
+S: Saindo de casa, ela esqueceu o celular.
+
+C: Se não estudar, não vai passar de ano.
+S: Sem estudar, não vai passar de ano.
+
+C: Com medo de altura, ele não subiu na torre.
+S: Com medo de altura, ele não subiu na torre.
+
+C: Mesmo recebendo várias críticas, ele decidiu seguir seu sonho.
+S: Apesar de receber várias críticas, ele decidiu seguir seu sonho.
+
+C: Ao chover, os pássaros se abrigam nas árvores.
+S: Quando chove, os pássaros se abrigam nas árvores.
+
+C: Apesar de Jorge ter estudado muito, não conseguiu passar na prova.
+S: Apesar de Jorge ter estudado muito, não conseguiu passar na prova.
+
+C: Ao ver a chuva, decidimos cancelar o passeio.
+S: Ao ver a chuva, decidimos cancelar o passeio.
+
+C: Se trabalharmos bastante, conseguiremos alcançar nossos objetivos.
+S: Se trabalharmos bastante, conseguiremos alcançar nossos objetivos.
+
+C: Ao saber da notícia, fiquei muito surpreso.
+S: Ao saber da notícia, fiquei muito surpreso.
+
+C: Embora fizesse muito calor, optamos por fazer uma caminhada.
+S: Embora fizesse muito calor, optamos por fazer uma caminhada.
+
+C: Caso tenha alguma dúvida, não hesite em me perguntar.
+S: Caso tenha alguma dúvida, não hesite em me perguntar.
+
+C: Ao receber a promoção, ele decidiu comprar um carro novo.
+S: Ao receber a promoção, ele decidiu comprar um carro novo.
+
+C: Apesar de ter estudado muito, ela não conseguiu passar no exame.
+S: Apesar de ter estudado muito, ela não conseguiu passar no exame.
+
+C: Em meio a tantos problemas, decidimos não desistir.
+S: Em meio a tantos problemas, decidimos não desistir.
+
+C: Ao perceber o perigo, todos correram para se abrigar.
+S: Ao perceber o perigo, todos correram para se abrigar.
+
+C: Ao ler o livro durante a viagem, ele aproveitou o tempo.
+S: Ao ler o livro durante a viagem, ele aproveitou o tempo.
+
+C: Embora tenha estudado muito, ela não passou no exame.
+S: Embora tenha estudado muito, ela não passou no exame.
+
+C: Após terminar a faculdade, ele conseguiu um bom emprego.
+S: Após terminar a faculdade, ele conseguiu um bom emprego.
+
+C: Caso chova amanhã, faremos um programa indoor.
+S: Caso chova amanhã, faremos um programa indoor.
+
+C: Ao falar a verdade, ela resolveu o problema.
+S: Ao falar a verdade, ela resolveu o problema.
+
+C: Embora tenha tentado diversas vezes, ele não conseguiu aprender a tocar violão.
+S: Embora tenha tentado diversas vezes, ele não conseguiu aprender a tocar violão.
+
+C: Ao perder o ônibus, ela teve que esperar uma hora para o próximo.
+S: Ao perder o ônibus, ela teve que esperar uma hora para o próximo.
+
+C: Caso ele não se apresse, certamente perderá o voo.
+S: Caso ele não se apresse, certamente perderá o voo.
+
+C: Ao fazer exercícios diariamente, ele melhorou sua saúde.
+S: Ao fazer exercícios diariamente, ele melhorou sua saúde.
+
+C: Embora tenha chegado atrasado, ele conseguiu fazer a prova.
+S: Embora tenha chegado atrasado, ele conseguiu fazer a prova.
+
+C: Ao acordar cedo todas as manhãs, conseguimos aproveitar melhor o dia.
+S: Ao acordar cedo todas as manhãs, conseguimos aproveitar melhor o dia.
+
+C: Ao estudar arquitetura, é necessário ter um bom conhecimento de matemática.
+S: Ao estudar arquitetura, é necessário ter um bom conhecimento de matemática.
+
+C: Planejando todos os detalhes da viagem com antecedência, evitamos contratempos no caminho.
+S: Planejando todos os detalhes da viagem com antecedência, evitamos contratempos no caminho.
+
+C: Após resolver todos os problemas, finalmente conseguimos concluir o projeto.
+S: Após resolver todos os problemas, finalmente conseguimos concluir o projeto.
+
+C: Mesmo tentando evitar confusões, às vezes acabamos nos envolvendo em discussões.
+S: Mesmo tentando evitar confusões, às vezes acabamos nos envolvendo em discussões.
+
+C: Ao aprender um novo idioma, é importante praticar a conversação todos os dias.
+S: Ao aprender um novo idioma, é importante praticar a conversação todos os dias.
+
+C: Ao ler livros de autoajuda, podemos encontrar dicas valiosas para melhorar nossa vida.
+S: Ao ler livros de autoajuda, podemos encontrar dicas valiosas para melhorar nossa vida.
+
+C: Ao adotar uma alimentação saudável, conseguimos manter nosso corpo em bom funcionamento.
+S: Ao adotar uma alimentação saudável, conseguimos manter nosso corpo em bom funcionamento.
+
+C: Ao viajar para um país desconhecido, é interessante conhecer a cultura local.
+S: Ao viajar para um país desconhecido, é interessante conhecer a cultura local.
+
+C: Ao enfrentar desafios, podemos crescer e amadurecer como pessoa.
+S: Ao enfrentar desafios, podemos crescer e amadurecer como pessoa.
+
+C: Chegando atrasado ao escritório, João foi repreendido pelo chefe.
+S: Chegando atrasado ao escritório, João foi repreendido pelo chefe.
+
+C: Apesar de estar cansada, ela foi correr no parque.
+S: Apesar de estar cansada, ela foi correr no parque.
+
+C: Caso chova amanhã, vamos levar guarda-chuvas.
+S: Caso chova amanhã, vamos levar guarda-chuvas.
+
+C: Com a temperatura baixa, eles preferiram ficar em casa.
+S: Com a temperatura baixa, eles preferiram ficar em casa.
+
+C: Embora tivesse estudado bastante, ele não passou na prova.
+S: Embora tivesse estudado bastante, ele não passou na prova.
+
+C: Ao se deparar com o acidente, ela chamou a ambulância.
+S: Ao se deparar com o acidente, ela chamou a ambulância.
+
+C: Sem ter a quem recorrer, ele resolveu resolver o problema sozinho.
+S: Sem ter a quem recorrer, ele resolveu resolver o problema sozinho.
+
+C: Após finalizar o trabalho, ela enviou o relatório por e-mail.
+S: Após finalizar o trabalho, ela enviou o relatório por e-mail.
+
+C: Conforme o combinado, encontraremos no café da esquina.
+S: Conforme o combinado, encontraremos no café da esquina.
+
+C: Observando o comportamento das pessoas, ele concluiu que estava certo.
+S: Observando o comportamento das pessoas, ele concluiu que estava certo.
+
+C: Ao estudar muito, ele conseguiu passar no exame.
+S: Estudando muito, ele conseguiu passar no exame.
+
+C: Embora estivesse cansada, ela continuou correndo.
+S: Cansada, ela continuou correndo.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Chovendo amanhã, iremos ao cinema.
+
+C: Ao receber a notícia, ele ficou muito feliz.
+S: Recebendo a notícia, ele ficou muito feliz.
+
+C: Embora tenha tentado várias vezes, ele não conseguiu abrir a porta.
+S: Tentando várias vezes, ele não conseguiu abrir a porta.
+
+C: Se tivesse mais tempo, eu viajaria pelo mundo.
+S: Tendo mais tempo, eu viajaria pelo mundo.
+
+C: Ao terminar suas tarefas, ele pode sair para brincar.
+S: Ter terminado suas tarefas, ele pode sair para brincar.
+
+C: Embora tenha treinado bastante, ele não ganhou a competição.
+S: Tendo treinado bastante, ele não ganhou a competição.
+
+C: Se economizar dinheiro, conseguirei comprar um carro novo.
+S: Economizando dinheiro, conseguirei comprar um carro novo.
+
+C: Ao ouvir a música, ela começou a chorar.
+S: Ouvindo a música, ela começou a chorar.
+
+C: Ao perceber que tinha esquecido a carteira em casa, ele teve que voltar para buscá-la.
+S: Percebendo que tinha esquecido a carteira em casa, ele teve que voltar para buscá-la.
+
+C: Embora estivesse cansada, ela decidiu ir à academia.
+S: Cansada, ela decidiu ir à academia.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Chovendo amanhã, cancelaremos o passeio.
+
+C: Ele pensou em estudar Direito, mas acabou escolhendo Arquitetura.
+S: Pensando em estudar Direito, ele acabou escolhendo Arquitetura.
+
+C: Sem saber nadar, ela teve medo de entrar na piscina.
+S: Não sabendo nadar, ela teve medo de entrar na piscina.
+
+C: Após ouvir sua explicação, todos concordaram com ele.
+S: Ouvindo sua explicação, todos concordaram com ele.
+
+C: Caso não consigamos chegar a um acordo, teremos que procurar uma solução alternativa.
+S: Não conseguindo chegar a um acordo, teremos que procurar uma solução alternativa.
+
+C: Embora fosse tarde da noite, ele decidiu sair para dar uma volta.
+S: Tarde da noite, ele decidiu sair para dar uma volta.
+
+C: Ela ficou muito feliz ao receber o convite para a festa.
+S: Feliz ao receber o convite para a festa, ela ficou muito feliz.
+
+C: Se ganharmos o jogo, comemoraremos muito.
+S: Ganhamos o jogo, comemoraremos muito.
+
+C: Ao estudar todos os dias, minha irmã conseguiu passar no vestibular.
+S: Estudando todos os dias, minha irmã conseguiu passar no vestibular.
+
+C: Mesmo chovendo, decidimos fazer um piquenique no parque.
+S: Chovendo, decidimos fazer um piquenique no parque.
+
+C: Se economizar dinheiro, conseguirei viajar nas férias.
+S: Economizando dinheiro, conseguirei viajar nas férias.
+
+C: Embora tendo estudado muito, ele não conseguiu passar na prova.
+S: Tendo estudado muito, ele não conseguiu passar na prova.
+
+C: Ao acordar cedo, consigo aproveitar melhor o meu dia.
+S: Acordando cedo, consigo aproveitar melhor o meu dia.
+
+C: Caso tenha tempo, gostaria de assistir ao filme no cinema.
+S: Tendo tempo, gostaria de assistir ao filme no cinema.
+
+C: Apesar de estar cansado, continuei trabalhando até tarde da noite.
+S: Estando cansado, continuei trabalhando até tarde da noite.
+
+C: Utilizando o transporte público, economizamos dinheiro.
+S: Usando o transporte público, economizamos dinheiro.
+
+C: Se não estudar, não conseguirei passar na prova.
+S: Não estudando, não conseguirei passar na prova.
+
+C: Ao ouvir a música, senti saudades da minha infância.
+S: Ouvindo a música, senti saudades da minha infância.
+
+C: Chegando atrasado, João perdeu o ônibus.
+S: Chegando atrasado, João perdeu o ônibus.
+
+C: Apesar de estar cansado, ele continuou estudando.
+S: Apesar de estar cansado, ele continuou estudando.
+
+C: Se chover, vamos ficar em casa.
+S: Se chover, vamos ficar em casa.
+
+C: Saindo cedo, ela conseguiu evitar o trânsito.
+S: Saindo cedo, ela conseguiu evitar o trânsito.
+
+C: Com medo de errar, ele preferiu não arriscar.
+S: Com medo de errar, ele preferiu não arriscar.
+
+C: Tomando cuidado, ela não se machucou.
+S: Tomando cuidado, ela não se machucou.
+
+C: Mesmo trabalhando muito, ele não conseguiu alcançar seus objetivos.
+S: Mesmo trabalhando muito, ele não conseguiu alcançar seus objetivos.
+
+C: Caso você precise de ajuda, estou aqui para te ajudar.
+S: Caso precise de ajuda, estou aqui para te ajudar.
+
+C: Planejando a viagem, eles compraram as passagens antecipadamente.
+S: Planejando a viagem, eles compraram as passagens antecipadamente.
+
+C: Concordando com o professor, eles aceitaram fazer o trabalho em grupo.
+S: Concordando com o professor, eles aceitaram fazer o trabalho em grupo.
+
+C: Ao chegarem atrasados à reunião, os funcionários foram repreendidos pelo chefe.
+S: Chegando atrasados à reunião, os funcionários foram repreendidos pelo chefe.
+
+C: Embora esteja cansada, ela continua estudando para o exame.
+S: Cansada, ela continua estudando para o exame.
+
+C: Se chover amanhã, teremos que adiar o picnic.
+S: Chovendo amanhã, teremos que adiar o picnic.
+
+C: Ao abandonar a dieta, a pessoa pode ganhar peso rapidamente.
+S: Abandonando a dieta, a pessoa pode ganhar peso rapidamente.
+
+C: Embora fosse experiente, ele falhou em sua primeira tentativa.
+S: Sendo experiente, ele falhou em sua primeira tentativa.
+
+C: Seu telefone tocando incessantemente, ele finalmente atendeu.
+S: Com seu telefone tocando incessantemente, ele finalmente atendeu.
+
+C: Ao se exercitar regularmente, você pode melhorar sua saúde.
+S: Exercitando-se regularmente, você pode melhorar sua saúde.
+
+C: Enquanto lia o livro, ele se deixou envolver pela história.
+S: Lendo o livro, ele se deixou envolver pela história.
+
+C: Seu chefe criticando-o constantemente, ele ficou desmotivado no trabalho.
+S: Com seu chefe criticando-o constantemente, ele ficou desmotivado no trabalho.
+
+C: Embora esteja com sono, ela continua trabalhando até tarde da noite.
+S: Com sono, ela continua trabalhando até tarde da noite.
+
+C: Ficamos esperando o ônibus horas a fio, mesmo chovendo sem parar.
+S: Ficamos esperando o ônibus horas a fio, chovendo sem parar.
+
+C: Consegui passar no exame estudando muito e revisando todos os conteúdos.
+S: Consegui passar no exame, estudando muito e revisando todos os conteúdos.
+
+C: A criança aprendeu a andar de bicicleta tendo apenas 3 anos.
+S: A criança aprendeu a andar de bicicleta, tendo apenas 3 anos.
+
+C: Ela conseguiu convencer a equipe dando uma apresentação inspiradora.
+S: Ela conseguiu convencer a equipe, dando uma apresentação inspiradora.
+
+C: Os participantes conseguiram finalizar a maratona correndo sem cansaço.
+S: Os participantes conseguiram finalizar a maratona, correndo sem cansaço.
+
+C: Eu resolvi ajudar minha amiga comprando os ingressos para o show.
+S: Eu resolvi ajudar minha amiga, comprando os ingressos para o show.
+
+C: O gato fugiu da casa miauando alto e pulando o muro.
+S: O gato fugiu da casa, miauando alto e pulando o muro.
+
+C: Os alunos conseguiram atingir boas notas estudando bastante durante o semestre.
+S: Os alunos conseguiram atingir boas notas, estudando bastante durante o semestre.
+
+C: Ele aprendeu a cozinhar fazendo um curso profissionalizante.
+S: Ele aprendeu a cozinhar, fazendo um curso profissionalizante.
+
+C: Ela resolveu se exercitar mais frequentemente inscrevendo-se em uma academia.
+S: Ela resolveu se exercitar mais frequentemente, inscrevendo-se em uma academia.
+
+C: Ao perceber que estava atrasado, Lucas correu para pegar o ônibus.
+S: Percebendo que estava atrasado, Lucas correu para pegar o ônibus.
+
+C: Apesar de ter estudado bastante, ele não conseguiu passar na prova.
+S: Mesmo estudando bastante, ele não conseguiu passar na prova.
+
+C: Caso chova amanhã, não iremos ao parque.
+S: Se chover amanhã, não iremos ao parque.
+
+C: Ao ver a notícia no jornal, ela ficou estarrecida.
+S: Vendo a notícia no jornal, ela ficou estarrecida.
+
+C: Após argumentar com o professor, Marcos percebeu que estava errado.
+S: Ao argumentar com o professor, Marcos percebeu que estava errado.
+
+C: Embora estivesse com sono, ela conseguiu terminar o trabalho.
+S: Mesmo estando com sono, ela conseguiu terminar o trabalho.
+
+C: Se eu ganhar na loteria, irei viajar pelo mundo.
+S: Caso eu ganhe na loteria, irei viajar pelo mundo.
+
+C: No caminho para o trabalho, ele encontrou um amigo antigo.
+S: Indo para o trabalho, ele encontrou um amigo antigo.
+
+C: Após se exercitar na academia, ele sentiu-se revigorado.
+S: Depois de se exercitar na academia, ele sentiu-se revigorado.
+
+C: Mesmo se atrasando, Carlos conseguiu pegar o voo.
+S: Atrasando-se, Carlos conseguiu pegar o voo.
+
+C: Ao ver o resultado da prova, ele ficou muito feliz.
+S: Ao ver o resultado da prova, ele ficou muito feliz.
+
+C: Apesar de estar chovendo, ela decidiu sair de casa.
+S: Apesar de estar chovendo, ela decidiu sair de casa.
+
+C: Caso você queira ajuda, estou à disposição.
+S: Caso queira ajuda, estou à disposição.
+
+C: Com a aprovação da lei, muitas mudanças ocorrerão.
+S: Com a aprovação da lei, muitas mudanças ocorrerão.
+
+C: Ao ouvir a música, ela começou a chorar.
+S: Ao ouvir a música, ela começou a chorar.
+
+C: Embora estivesse cansado, ele continuou a trabalhar.
+S: Embora estivesse cansado, ele continuou a trabalhar.
+
+C: Se você estudar bastante, terá um bom desempenho na prova.
+S: Se estudar bastante, terá um bom desempenho na prova.
+
+C: Com o tempo, percebi que estava errada.
+S: Com o tempo, percebi que estava errada.
+
+C: Apesar de estar doente, ele foi trabalhar.
+S: Apesar de estar doente, ele foi trabalhar.
+
+C: Caso queira ir ao cinema, me avise.
+S: Caso queira ir ao cinema, me avise.
+
+C: Sendo acusado de roubo, o jovem foi preso pela polícia.
+S: Sendo acusado de roubo, o jovem foi preso pela polícia.
+
+C: Estudando bastante, ela conseguiu passar no exame.
+S: Estudando bastante, ela conseguiu passar no exame.
+
+C: Com o tempo livre, ele decidiu viajar para o campo.
+S: Com o tempo livre, ele decidiu viajar para o campo.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Jogando futebol com os amigos, ele se machucou.
+S: Jogando futebol com os amigos, ele se machucou.
+
+C: Mesmo sabendo o resultado, ele preferiu não contar para ninguém.
+S: Mesmo sabendo o resultado, ele preferiu não contar para ninguém.
+
+C: Ao ver o acidente, ela começou a chorar.
+S: Ao ver o acidente, ela começou a chorar.
+
+C: Fazendo muito calor, decidimos ir à praia.
+S: Fazendo muito calor, decidimos ir à praia.
+
+C: Se você estudar bastante, terá boas notas.
+S: Se você estudar bastante, terá boas notas.
+
+C: Caminhando lentamente, eles chegaram ao destino.
+S: Caminhando lentamente, eles chegaram ao destino.
+
+C: Ao estudar intensamente para a prova, ele conseguiu obter uma ótima nota.
+S: Estudando intensamente para a prova, ele conseguiu obter uma ótima nota.
+
+C: Mesmo estando cansada, ela decidiu ir à festa.
+S: Estando cansada, ela decidiu ir à festa.
+
+C: Quando terminar de ler o livro, me avise.
+S: Terminando de ler o livro, me avise.
+
+C: Embora seja difícil, ele está determinado a alcançar seus objetivos.
+S: Sendo difícil, ele está determinado a alcançar seus objetivos.
+
+C: Caso chova, podemos marcar o encontro para outro dia.
+S: Chovendo, podemos marcar o encontro para outro dia.
+
+C: Ao ver a cena, ela começou a chorar.
+S: Vendo a cena, ela começou a chorar.
+
+C: Se quiser, podemos jantar juntos.
+S: Querendo, podemos jantar juntos.
+
+C: Apesar de não estar acostumado, ele aceitou o desafio.
+S: Não estando acostumado, ele aceitou o desafio.
+
+C: Ao acordar cedo, consigo ser mais produtivo durante o dia.
+S: Acordando cedo, consigo ser mais produtivo durante o dia.
+
+C: Desde que você se comprometa a ajudar, eu aceito sua proposta.
+S: Se comprometendo a ajudar, eu aceito sua proposta.
+
+C: Apesar de estar cansado, ele decidiu continuar trabalhando.
+S: Apesar de estar cansado, ele decidiu continuar trabalhando.
+
+C: Ao chegar em casa, percebi que tinha esquecido as chaves.
+S: Ao chegar em casa, percebi ter esquecido as chaves.
+
+C: Caso você não consiga me encontrar, me ligue no celular.
+S: Caso não consiga me encontrar, me ligue no celular.
+
+C: Sentindo-se insegura, ela preferiu não sair à noite.
+S: Sentindo-se insegura, ela preferiu não sair à noite.
+
+C: Embora estivesse chovendo, eles foram à praia.
+S: Embora estivesse chovendo, eles foram à praia.
+
+C: Se tiver tempo, gostaria que lesse meu novo livro.
+S: Se tiver tempo, gostaria que lesse meu novo livro.
+
+C: Querendo impressionar a professora, ele estudou por horas.
+S: Querendo impressionar a professora, ele estudou por horas.
+
+C: Na esperança de encontrar uma solução, continuaremos buscando.
+S: Na esperança de encontrar uma solução, continuaremos buscando.
+
+C: Mesmo não entendendo a matéria, ele tirou uma boa nota na prova.
+S: Mesmo não entendendo a matéria, ele tirou uma boa nota na prova.
+
+C: Caso precise de ajuda, estarei disponível para te ajudar.
+S: Caso precise de ajuda, estarei disponível para te ajudar.
+
+C: Mesmo sabendo que ele estava mentindo, ela decidiu confiar nele.
+S: Mesmo sabendo que ele estava mentindo, ela decidiu confiar nele.
+
+C: Apesar de ter estudado muito, ele não conseguiu passar no exame.
+S: Apesar de ter estudado muito, ele não conseguiu passar no exame.
+
+C: Caso decida ir ao cinema, me avise.
+S: Caso decida ir ao cinema, me avise.
+
+C: Falando a verdade, eu não concordo com você.
+S: Falando a verdade, eu não concordo com você.
+
+C: Mesmo que tenha cometido um erro, ele merece uma segunda chance.
+S: Mesmo que tenha cometido um erro, ele merece uma segunda chance.
+
+C: Se precisar de ajuda, estarei disponível.
+S: Se precisar de ajuda, estarei disponível.
+
+C: Embora tenha se esforçado bastante, ele não conseguiu alcançar o objetivo.
+S: Embora tenha se esforçado bastante, ele não conseguiu alcançar o objetivo.
+
+C: Ao saber da notícia, ela ficou muito feliz.
+S: Ao saber da notícia, ela ficou muito feliz.
+
+C: Desde que começou a trabalhar mais, tem tido menos tempo livre.
+S: Desde que começou a trabalhar mais, tem tido menos tempo livre.
+
+C: Mesmo que você discorde, eu vou seguir em frente com meu plano.
+S: Mesmo que você discorde, eu vou seguir em frente com meu plano.
+
+C: Ao acordar cedo, eu consigo realizar todas as minhas tarefas antes do meio-dia.
+S: Ao acordar cedo, eu consigo realizar todas as minhas tarefas antes do meio-dia.
+
+C: Embora estivesse com muito sono, consegui terminar meu trabalho.
+S: Embora estivesse com muito sono, consegui terminar meu trabalho.
+
+C: Caso você não chegue a tempo, irei sem você.
+S: Caso você não chegue a tempo, irei sem você.
+
+C: O atleta correu dez quilômetros sem parar.
+S: O atleta correu dez quilômetros sem parar.
+
+C: Ao sair de casa, não esqueça de trancar a porta.
+S: Ao sair de casa, não esqueça de trancar a porta.
+
+C: Apesar da chuva forte, saí para fazer compras.
+S: Apesar da chuva forte, saí para fazer compras.
+
+C: Se você estudar bastante, conseguirá uma boa nota na prova.
+S: Se você estudar bastante, conseguirá uma boa nota na prova.
+
+C: Encontramos um cachorro abandonado, tremendo de frio.
+S: Encontramos um cachorro abandonado, tremendo de frio.
+
+C: Ao falar com ele, percebi que estava nervoso.
+S: Ao falar com ele, percebi que estava nervoso.
+
+C: Deixei de ir à festa para estudar para a prova.
+S: Deixei de ir à festa para estudar para a prova.
+
+C: Apesar de estar chovendo, fui correr no parque.
+S: Mesmo chovendo, fui correr no parque.
+
+C: Ao perceber que estava atrasado, correu para pegar o ônibus.
+S: Percebendo que estava atrasado, correu para pegar o ônibus.
+
+C: Se quiser passar na prova, terá que estudar bastante.
+S: Querendo passar na prova, terá que estudar bastante.
+
+C: Embora estivesse cansada, continuou a dançar.
+S: Mesmo cansada, continuou a dançar.
+
+C: Caso o tempo melhore, iremos à praia amanhã.
+S: Se o tempo melhorar, iremos à praia amanhã.
+
+C: Ao ouvir a notícia, ficou muito feliz.
+S: Ouvindo a notícia, ficou muito feliz.
+
+C: Mesmo sem saber nadar, pulou na piscina.
+S: Sem saber nadar, pulou na piscina.
+
+C: Se não entregarmos o trabalho amanhã, perderemos pontos.
+S: Caso não entreguemos o trabalho amanhã, perderemos pontos.
+
+C: Embora tenha estudado bastante, não tirei uma boa nota.
+S: Mesmo estudando bastante, não tirei uma boa nota.
+
+C: Ao chegar em casa, percebeu que tinha perdido as chaves.
+S: Chegando em casa, percebeu que tinha perdido as chaves.
+
+C: Ao escutar a música alta, os vizinhos reclamaram do barulho.
+S: Ao escutar a música alta, os vizinhos reclamaram do barulho.
+
+C: Mesmo chovendo muito, ele resolveu sair de casa.
+S: Mesmo chovendo muito, ele resolveu sair de casa.
+
+C: Caso você não entenda a matéria, peça ajuda ao professor.
+S: Caso você não entenda a matéria, peça ajuda ao professor.
+
+C: Conforme os anos passam, percebemos mudanças em nosso corpo.
+S: Conforme os anos passam, percebemos mudanças em nosso corpo.
+
+C: Em caso de emergência, ligue para a polícia.
+S: Em caso de emergência, ligue para a polícia.
+
+C: Acreditando na sua inocência, o advogado defendeu o réu com afinco.
+S: Acreditando na sua inocência, o advogado defendeu o réu com afinco.
+
+C: Sem saber o caminho, ele se perdeu na cidade.
+S: Sem saber o caminho, ele se perdeu na cidade.
+
+C: Gritando de dor, ela pediu ajuda aos vizinhos.
+S: Gritando de dor, ela pediu ajuda aos vizinhos.
+
+C: Caso precise de dinheiro, posso te emprestar algum.
+S: Caso precise de dinheiro, posso te emprestar algum.
+
+C: Mesmo cansada, ela continuou dançando a noite toda.
+S: Mesmo cansada, ela continuou dançando a noite toda.
+
+C: Embora esteja chovendo, vou sair de casa.
+S: Mesmo chovendo, vou sair de casa.
+
+C: Se estudar bastante, passará no exame.
+S: Estudando bastante, passará no exame.
+
+C: Apesar de estar cansado, continuarei trabalhando.
+S: Mesmo estando cansado, continuarei trabalhando.
+
+C: Caso tenha dinheiro, irei viajar nas férias.
+S: Tendo dinheiro, irei viajar nas férias.
+
+C: Sentindo-se mal, ela decidiu ir ao médico.
+S: Sentindo-se mal, ela decidiu ir ao médico.
+
+C: Sendo amanhã um dia de folga, vou sair para aproveitar.
+S: Amanhã sendo um dia de folga, vou sair para aproveitar.
+
+C: Se estiver com fome, pode comer alguma coisa.
+S: Com fome, pode comer alguma coisa.
+
+C: Embora esteja tarde, irei ao cinema.
+S: Mesmo estando tarde, irei ao cinema.
+
+C: Sentindo-se desanimado, preferiu ficar em casa.
+S: Sentindo-se desanimado, preferiu ficar em casa.
+
+C: Caso ganhe na loteria, comprarei uma casa nova.
+S: Ganho na loteria, comprarei uma casa nova.
+
+C: Ao entrar na sala, o aluno pediu permissão para ir ao banheiro.
+S: Ao entrar na sala, o aluno pediu permissão para ir ao banheiro.
+
+C: Tendo estudado bastante, ela conseguiu fazer uma boa prova.
+S: Tendo estudado bastante, ela conseguiu fazer uma boa prova.
+
+C: Apesar de estar cansado, ele decidiu ir à academia.
+S: Apesar de estar cansado, ele decidiu ir à academia.
+
+C: Caso chova amanhã, não iremos ao parque.
+S: Caso chova amanhã, não iremos ao parque.
+
+C: Ao terminar sua apresentação, o palestrante recebeu aplausos da plateia.
+S: Ao terminar sua apresentação, o palestrante recebeu aplausos da plateia.
+
+C: Após ouvir as explicações do professor, os alunos fizeram as atividades.
+S: Após ouvir as explicações do professor, os alunos fizeram as atividades.
+
+C: Sendo um país tropical, o Brasil possui um clima quente.
+S: Sendo um país tropical, o Brasil possui um clima quente.
+
+C: Se não estudar para a prova, vai tirar uma nota baixa.
+S: Se não estudar para a prova, vai tirar uma nota baixa.
+
+C: Deixando as compras para depois, ela decidiu ir ao cinema primeiro.
+S: Deixando as compras para depois, ela decidiu ir ao cinema primeiro.
+
+C: Embora tenha ganhado o concurso, ele não ficou satisfeito.
+S: Embora tenha ganhado o concurso, ele não ficou satisfeito.
+
+C: Chegando atrasado à reunião, o funcionário pediu desculpas pelo ocorrido.
+S: Chegando atrasado à reunião, o funcionário pediu desculpas.
+
+C: Mesmo estando cansado, ele continuou estudando para a prova.
+S: Mesmo estando cansado, ele continuou estudando.
+
+C: Caso chova amanhã, irei de carro para o trabalho.
+S: Se chover amanhã, irei de carro para o trabalho.
+
+C: Embora tenha estudado muito, ela não conseguiu passar na prova.
+S: Embora tenha estudado muito, ela não conseguiu passar.
+
+C: Ao ouvir a música, as crianças começaram a dançar.
+S: Ao ouvir a música, as crianças começaram a dançar.
+
+C: Desde que começou a chover, muitas árvores caíram na cidade.
+S: Desde que começou a chover, muitas árvores caíram na cidade.
+
+C: Por mais que pareça difícil, não desista do seu sonho.
+S: Por mais que pareça difícil, não desista do seu sonho.
+
+C: Sempre que vejo um filme de terror, fico com medo de dormir sozinho.
+S: Sempre que vejo um filme de terror, fico com medo de dormir sozinho.
+
+C: Indo ao supermercado, comprei todos os ingredientes para a receita.
+S: Indo ao supermercado, comprei todos os ingredientes da receita.
+
+C: Ainda que tenha sido difícil, valeu a pena o esforço.
+S: Ainda que tenha sido difícil, valeu a pena.
+
+C: Ao estudar o texto, percebemos que a autora usa várias metáforas para expressar suas ideias.
+S: Ao estudar o texto, percebemos que a autora usa várias metáforas para expressar suas ideias.
+
+C: Tendo em vista a atual crise econômica, é fundamental que as empresas reavaliem suas estratégias de investimento.
+S: Tendo em vista a atual crise econômica, é fundamental que as empresas reavaliem suas estratégias de investimento.
+
+C: Mesmo não tendo tempo, ela sempre encontra uma maneira de ajudar os outros.
+S: Mesmo não tendo tempo, ela sempre encontra uma maneira de ajudar os outros.
+
+C: Ao participar do programa de intercâmbio, estou aprendendo muito sobre a cultura do país.
+S: Ao participar do programa de intercâmbio, estou aprendendo muito sobre a cultura do país.
+
+C: Caso ele não consiga chegar a tempo, nós iremos começar a reunião sem ele.
+S: Caso ele não consiga chegar a tempo, nós iremos começar a reunião sem ele.
+
+C: Embora tenha chovido durante toda a viagem, nós nos divertimos bastante.
+S: Embora tenha chovido durante toda a viagem, nós nos divertimos bastante.
+
+C: Ao acender aquela vela, ela criou um clima romântico no jantar.
+S: Ao acender aquela vela, ela criou um clima romântico no jantar.
+
+C: Mesmo não tendo dinheiro, ela decidiu viajar para o exterior.
+S: Mesmo não tendo dinheiro, ela decidiu viajar para o exterior.
+
+C: Caso eu ganhe na loteria, comprarei uma casa na praia.
+S: Caso eu ganhe na loteria, comprarei uma casa na praia.
+
+C: Ao receber a notícia, ela ficou muito surpresa.
+S: Ao receber a notícia, ela ficou muito surpresa.
+
+C: Ao estudar intensamente para a prova, João conseguiu alcançar uma excelente nota.
+S: Ao estudar intensamente para a prova, João conseguiu alcançar uma excelente nota.
+
+C: Mesmo tendo pouco sono, Maria decidiu ir à festa.
+S: Mesmo tendo pouco sono, Maria decidiu ir à festa.
+
+C: Caso chova amanhã, vamos levar guarda-chuvas.
+S: Caso chova amanhã, vamos levar guarda-chuvas.
+
+C: Caminhando rapidamente, Isabel conseguiu chegar a tempo para a reunião.
+S: Caminhando rapidamente, Isabel conseguiu chegar a tempo para a reunião.
+
+C: Apesar de estar cansado, Paulo foi correr no parque.
+S: Apesar de estar cansado, Paulo foi correr no parque.
+
+C: Se você fizer uma reserva antecipada, garanto um desconto no hotel.
+S: Se você fizer uma reserva antecipada, garanto um desconto no hotel.
+
+C: Falando a verdade, não concordo com essa decisão.
+S: Falando a verdade, não concordo com essa decisão.
+
+C: Após estudar bastante, consegui entender o conteúdo da matéria.
+S: Após estudar bastante, consegui entender o conteúdo da matéria.
+
+C: Embora tivesse pouco dinheiro, ela decidiu fazer uma viagem.
+S: Embora tivesse pouco dinheiro, ela decidiu fazer uma viagem.
+
+C: Com aulas online, é possível estudar de qualquer lugar.
+S: Com aulas online, é possível estudar de qualquer lugar.
+
+C: Sendo o autor um escritor renomado, seu livro despertou grande interesse entre os leitores.
+S: Sendo o autor um escritor renomado, seu livro despertou grande interesse entre os leitores.
+
+C: Mesmo discordando das opiniões da professora, os alunos não contestaram suas afirmações.
+S: Mesmo discordando das opiniões da professora, os alunos não contestaram suas afirmações.
+
+C: Caso chova amanhã, irei levar meu guarda-chuva.
+S: Caso chova amanhã, irei levar meu guarda-chuva.
+
+C: Falando em política, o debate ficou acalorado.
+S: Falando em política, o debate ficou acalorado.
+
+C: Apesar de não estudar, ele foi aprovado no exame.
+S: Apesar de não estudar, ele foi aprovado no exame.
+
+C: Planejando sua viagem com antecedência, ela conseguiu bons descontos.
+S: Planejando sua viagem com antecedência, ela conseguiu bons descontos.
+
+C: Se precisar de ajuda, conte comigo.
+S: Se precisar de ajuda, conte comigo.
+
+C: Interessado em aprender, ele dedicou-se ao estudo da língua estrangeira.
+S: Interessado em aprender, ele dedicou-se ao estudo da língua estrangeira.
+
+C: Embora cansado, ele decidiu continuar a caminhada.
+S: Embora cansado, ele decidiu continuar a caminhada.
+
+C: Jogando com inteligência, o time conquistou a vitória.
+S: Jogando com inteligência, o time conquistou a vitória.
+
+C: Ao ver o céu escurecer, decidimos que era hora de voltar para casa.
+S: Ao ver o céu escurecer, decidemos voltar para casa.
+
+C: Apesar de estar cansado, consegui terminar o trabalho até a meia-noite.
+S: Apesar de estar cansado, consegui terminar o trabalho até a meia-noite.
+
+C: Se chover amanhã, cancelaremos o passeio ao parque.
+S: Caso chova amanhã, cancelaremos o passeio ao parque.
+
+C: Com medo de perder o ônibus, corri até o ponto mais próximo.
+S: Com medo de perder o ônibus, corri até o ponto mais próximo.
+
+C: Por não ter estudado o suficiente, não consegui passar na prova.
+S: Por não ter estudado o suficiente, não consegui passar na prova.
+
+C: Ao ouvir a música, lembrei-me imediatamente da minha infância.
+S: Ao ouvir a música, lembrei-me imediatamente da minha infância.
+
+C: Embora estivesse chovendo, fui ao parque mesmo assim.
+S: Embora estivesse chovendo, fui ao parque mesmo assim.
+
+C: Se você não pagar sua dívida, terá problemas legais.
+S: Caso não pague sua dívida, terá problemas legais.
+
+C: Com receio de se atrasar, saiu de casa mais cedo.
+S: Com receio de se atrasar, saiu de casa mais cedo.
+
+C: Ao ouvir a notícia, ficamos muito preocupados.
+S: Ao ouvir a notícia, ficamos muito preocupados.
+
+C: Ao ver a chuva, decidiu que era melhor ficar em casa.
+S: Ao ver a chuva, decidiu ficar em casa.
+
+C: Mesmo que estivesse cansado, continuou estudando até tarde.
+S: Mesmo cansado, continuou estudando até tarde.
+
+C: Caso tenha sobremesa, deixe-a no refrigerador.
+S: Se tiver sobremesa, deixe-a no refrigerador.
+
+C: Embora não soubesse cozinhar, tentou fazer um bolo.
+S: Mesmo não sabendo cozinhar, tentou fazer um bolo.
+
+C: Apesar de não ter dinheiro, decidiu viajar para o exterior.
+S: Mesmo sem dinheiro, decidiu viajar para o exterior.
+
+C: Se precisar de ajuda, pode me ligar a qualquer hora.
+S: Precisando de ajuda, pode me ligar a qualquer hora.
+
+C: Ao acordar cedo, pôde aproveitar melhor o dia.
+S: Ao acordar cedo, aproveitou melhor o dia.
+
+C: Mesmo não tendo tempo, conseguiu terminar a tarefa.
+S: Mesmo sem tempo, conseguiu terminar a tarefa.
+
+C: Caso haja alguma dúvida, é só me perguntar.
+S: Se houver alguma dúvida, é só me perguntar.
+
+C: Embora estivesse doente, foi trabalhar.
+S: Mesmo doente, foi trabalhar.
+
+C: Ao ver as notícias, percebi que chegaria atrasado para o compromisso.
+S: Ao ver as notícias, percebi que chegaria atrasado para o compromisso.
+
+C: Mesmo tendo estudado muito, ele não conseguiu passar na prova.
+S: Mesmo tendo estudado muito, ele não conseguiu passar na prova.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Embora tenha trabalhado duro, não conseguimos atingir a meta.
+S: Embora tenha trabalhado duro, não conseguimos atingir a meta.
+
+C: Jogando de forma agressiva, o time marcou dois gols rapidamente.
+S: Jogando de forma agressiva, o time marcou dois gols rapidamente.
+
+C: Embora estivesse cansado, ele continuou trabalhando até tarde.
+S: Embora estivesse cansado, ele continuou trabalhando até tarde.
+
+C: Caso não haja solução, teremos que tomar medidas drásticas.
+S: Caso não haja solução, teremos que tomar medidas drásticas.
+
+C: Ao falar sobre o assunto, ele demonstrou total desconhecimento.
+S: Ao falar sobre o assunto, ele demonstrou total desconhecimento.
+
+C: Mesmo sabendo que era perigoso, ele decidiu arriscar.
+S: Mesmo sabendo que era perigoso, ele decidiu arriscar.
+
+C: Enquanto esperava o ônibus, usei o tempo para ler um livro.
+S: Enquanto esperava o ônibus, usei o tempo para ler um livro.
+
+C: Ao perceber que havia perdido o ônibus, ele decidiu andar até em casa.
+S: Percebendo que havia perdido o ônibus, ele decidiu andar até em casa.
+
+C: Mesmo tendo estudado bastante, ela não conseguiu passar no exame.
+S: Mesmo estudando bastante, ela não conseguiu passar no exame.
+
+C: Se você não comer direito, ficará doente.
+S: Não comendo direito, você ficará doente.
+
+C: Mesmo que chova amanhã, iremos ao parque.
+S: Chovendo amanhã, iremos ao parque.
+
+C: Ao concordar com as condições, ele assinou o contrato.
+S: Concordando com as condições, ele assinou o contrato.
+
+C: Caso você não tenha tempo, deixe para fazer amanhã.
+S: Não tendo tempo, deixe para fazer amanhã.
+
+C: Apesar de ter acordado cedo, ele ainda está sonolento.
+S: Apesar de acordar cedo, ele ainda está sonolento.
+
+C: Mesmo que se exercite regularmente, ele não consegue perder peso.
+S: Mesmo se exercitando regularmente, ele não consegue perder peso.
+
+C: Ao terminar o trabalho, ele foi para casa descansar.
+S: Terminando o trabalho, ele foi para casa descansar.
+
+C: Caso você não entenda, posso explicar novamente.
+S: Não entendendo, posso explicar novamente.
+
+C: Ao terminar seus estudos, ela pretende trabalhar no exterior.
+S: Terminando seus estudos, ela pretende trabalhar no exterior.
+
+C: Mesmo tendo pouco tempo, eles conseguiram finalizar o projeto.
+S: Tendo pouco tempo, eles conseguiram finalizar o projeto.
+
+C: Embora seja cansativo, fazer exercícios regularmente traz muitos benefícios para a saúde.
+S: Mesmo sendo cansativo, fazer exercícios regularmente traz muitos benefícios para a saúde.
+
+C: Se chover, iremos ao cinema.
+S: Chovendo, iremos ao cinema.
+
+C: Fazendo uma busca na internet, encontramos várias opções de restaurantes.
+S: Ao fazer uma busca na internet, encontramos várias opções de restaurantes.
+
+C: Apesar de estar gripado, ele foi trabalhar.
+S: Mesmo estando gripado, ele foi trabalhar.
+
+C: Caso ele chegue atrasado, vamos começar sem ele.
+S: Chegando atrasado, vamos começar sem ele.
+
+C: Com a demanda aumentando, a empresa está contratando mais funcionários.
+S: A demanda aumentando, a empresa está contratando mais funcionários.
+
+C: Mesmo estudando bastante, ela não conseguiu passar na prova.
+S: Estudando bastante, ela não conseguiu passar na prova.
+
+C: Se não houver problemas, o voo chegará no horário previsto.
+S: Não havendo problemas, o voo chegará no horário previsto.
+
+C: Depois de estudar por horas, os alunos conseguiram entender o conteúdo da matéria.
+S: Estudando por horas, os alunos conseguiram entender o conteúdo da matéria.
+
+C: Embora tenha sido difícil, ela não desistiu do projeto.
+S: Dificilmente, ela desistiu do projeto.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Chovendo amanhã, iremos ao cinema.
+
+C: Por estarmos cansados, decidimos descansar o dia todo.
+S: Estando cansados, decidimos descansar o dia todo.
+
+C: Apesar de não ter estudado, ele passou no exame.
+S: Não estudando, ele passou no exame.
+
+C: Caso você precise de ajuda, me avise.
+S: Precisando de ajuda, me avise.
+
+C: Por ter se machucado, ele não pôde participar da partida.
+S: Machucando-se, ele não pôde participar da partida.
+
+C: Se tivesse mais tempo, eu viajaria para o exterior.
+S: Tendo mais tempo, eu viajaria para o exterior.
+
+C: Embora não concorde com a decisão, ele a acatou.
+S: Discordando da decisão, ele a acatou.
+
+C: Por ter economizado dinheiro, eles conseguiram comprar um carro novo.
+S: Economizando dinheiro, eles conseguiram comprar um carro novo.
+
+C: Falando sobre a importância da educação, o professor mencionou diversos estudos.
+S: Falando sobre a importância da educação, o professor mencionou diversos estudos.
+
+C: Mesmo que não esteja chovendo, é melhor trazer um guarda-chuva.
+S: Mesmo que não esteja chovendo, é melhor trazer um guarda-chuva.
+
+C: Vamos estudar algumas técnicas de meditação antes de começarmos a prática.
+S: Vamos estudar algumas técnicas de meditação antes de começarmos a prática.
+
+C: Se eu ganhar na loteria, irei viajar pelo mundo.
+S: Se eu ganhar na loteria, irei viajar pelo mundo.
+
+C: Tentando evitar conflitos, ela decidiu ficar calada.
+S: Tentando evitar conflitos, ela decidiu ficar calada.
+
+C: Com a intensificação do trânsito na cidade, as viagens de ônibus estão demorando mais.
+S: Com a intensificação do trânsito na cidade, as viagens de ônibus estão demorando mais.
+
+C: Embora não soubesse muito sobre o assunto, ela se sentiu à vontade para participar da discussão.
+S: Embora não soubesse muito sobre o assunto, ela se sentiu à vontade para participar da discussão.
+
+C: Sempre que estou com pressa, algo acaba dando errado.
+S: Sempre que estou com pressa, algo acaba dando errado.
+
+C: Contando uma piada engraçada, ele conseguiu animar a todos.
+S: Contando uma piada engraçada, ele conseguiu animar a todos.
+
+C: Caso o avião atrase, terei que remarcar minha reunião.
+S: Caso o avião atrase, terei que remarcar minha reunião.
+
+C: Apesar de estarmos cansados, decidimos continuar a caminhada.
+S: Apesar de estarmos cansados, decidimos continuar a caminhada.
+
+C: Ao sair de casa, ele pegou o guarda-chuva.
+S: Ao sair de casa, ele pegou o guarda-chuva.
+
+C: Caso chova, iremos assistir um filme em casa.
+S: Caso chova, iremos assistir um filme em casa.
+
+C: Ao perceber o perigo, eles correram para se proteger.
+S: Ao perceber o perigo, eles correram para se proteger.
+
+C: Por não estudar, ele tirou uma nota baixa na prova.
+S: Por não estudar, ele tirou uma nota baixa na prova.
+
+C: De tanto treinar, ela conseguiu bater o recorde.
+S: De tanto treinar, ela conseguiu bater o recorde.
+
+C: Mesmo não concordando, ela acatou a decisão do chefe.
+S: Mesmo não concordando, ela acatou a decisão do chefe.
+
+C: Se não chover, faremos um piquenique no parque.
+S: Se não chover, faremos um piquenique no parque.
+
+C: Embora estivesse cansado, ele continuou trabalhando.
+S: Embora estivesse cansado, ele continuou trabalhando.
+
+C: Ao ganhar o prêmio, ela começou a chorar de emoção.
+S: Ao ganhar o prêmio, ela começou a chorar de emoção.
+
+C: Tendo estudado bastante para o exame, ela obteve uma nota alta.
+S: Tendo estudado bastante para o exame, ela obteve uma nota alta.
+
+C: Mesmo estando cansado, ele decidiu ir para a festa.
+S: Mesmo estando cansado, ele decidiu ir para a festa.
+
+C: Caso você queira participar, apenas precisa preencher o formulário.
+S: Caso queira participar, apenas precisa preencher o formulário.
+
+C: Trabalhando diligentemente, ele alcançou seus objetivos.
+S: Trabalhando diligentemente, ele alcançou seus objetivos.
+
+C: Embora estivesse chovendo, eles decidiram sair para caminhar.
+S: Embora estivesse chovendo, eles decidiram sair para caminhar.
+
+C: Querendo economizar dinheiro, ela optou por cozinhar em casa.
+S: Querendo economizar dinheiro, ela optou por cozinhar em casa.
+
+C: Se você se esforçar, alcançará o sucesso.
+S: Se se esforçar, alcançará o sucesso.
+
+C: Falhando em entregar o trabalho a tempo, ele recebeu uma nota baixa.
+S: Falhando em entregar o trabalho a tempo, ele recebeu uma nota baixa.
+
+C: Apesar de estarem cansados, eles continuaram a trabalhar.
+S: Apesar de estarem cansados, eles continuaram a trabalhar.
+
+C: Desde que você siga as instruções, tudo dará certo.
+S: Desde que siga as instruções, tudo dará certo.
+
+C: Ao chegarmos em casa, encontramos a porta aberta.
+S: Ao chegarmos em casa, encontramos a porta aberta.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Se chover amanhã, iremos ao cinema.
+
+C: Apesar de estar cansado, consegui terminar o trabalho.
+S: Apesar de estar cansado, consegui terminar o trabalho.
+
+C: Dizendo ser inocente, o réu foi absolvido.
+S: Dizendo ser inocente, o réu foi absolvido.
+
+C: Caso venha a perder o jogo, não desanimarei.
+S: Caso venha a perder o jogo, não desanimarei.
+
+C: Após estudar bastante, ela passou no exame.
+S: Após estudar bastante, ela passou no exame.
+
+C: Embora estivesse chovendo, o casal decidiu fazer um piquenique.
+S: Embora estivesse chovendo, o casal decidiu fazer um piquenique.
+
+C: Ao ouvir a notícia, ele pulou de alegria.
+S: Ao ouvir a notícia, ele pulou de alegria.
+
+C: Caso não consiga ir ao casamento, avise antecipadamente.
+S: Caso não consiga ir ao casamento, avise antecipadamente.
+
+C: Apesar de estar com fome, ele decidiu esperar até a hora do jantar.
+S: Apesar de estar com fome, ele decidiu esperar até a hora do jantar.
+
+C: O jogador marcou um gol logo após a sua entrada no campo.
+S: O jogador marcou um gol ao entrar no campo.
+
+C: Embora estivesse cansado, ele continuou correndo.
+S: Mesmo cansado, ele continuou correndo.
+
+C: Se chover amanhã, cancelaremos o jogo.
+S: Se chover amanhã, iremos cancelar o jogo.
+
+C: Ela ficou triste por não ter passado no teste.
+S: Ela ficou triste por não passar no teste.
+
+C: Ao ouvir a música, as pessoas começaram a dançar.
+S: Ouvindo a música, as pessoas começaram a dançar.
+
+C: Embora esteja ocupado, ele sempre arruma tempo para ajudar os outros.
+S: Mesmo ocupado, ele sempre arruma tempo para ajudar os outros.
+
+C: Se você me emprestar dinheiro, eu te pago com juros.
+S: Se me emprestar dinheiro, eu te pago com juros.
+
+C: Ao perceber a falha, ela resolveu consertar imediatamente.
+S: Percebendo a falha, ela resolveu consertar imediatamente.
+
+C: Ele adiou a viagem, pois estava doente.
+S: Ele adiou a viagem por estar doente.
+
+C: Se estudarmos bastante, teremos boas notas.
+S: Se estudarmos bastante, teremos boas notas.
+
+C: Observando o céu, notamos a presença de várias estrelas brilhantes.
+S: Observando o céu, notamos várias estrelas brilhantes.
+
+C: Caminhando pela praia, senti a areia quente sob os pés.
+S: Caminhando pela praia, senti a areia quente sob os pés.
+
+C: Ao estudar para a prova, percebi que tinha esquecido alguns conceitos importantes.
+S: Ao estudar para a prova, percebi ter esquecido alguns conceitos importantes.
+
+C: Havia muita gente no metrô, usando seus smartphones para passar o tempo.
+S: Havia muita gente no metrô, usando seus smartphones para passar o tempo.
+
+C: Ao ouvir a música, lembrei-me dos bons momentos que tínhamos juntos.
+S: Ao ouvir a música, lembrei-me dos bons momentos que tínhamos juntos.
+
+C: Fechando a porta com cuidado, evitamos fazer barulho e acordar os vizinhos.
+S: Fechando a porta com cuidado, evitamos fazer barulho e acordar os vizinhos.
+
+C: Fazendo dieta, consegui perder alguns quilos extras.
+S: Fazendo dieta, consegui perder alguns quilos extras.
+
+C: Ao ler o livro, emocionei-me com a história triste do personagem principal.
+S: Ao ler o livro, emocionei-me com a história triste do personagem principal.
+
+C: Ao visitar o museu, maravilhei-me com as obras de arte expostas.
+S: Ao visitar o museu, maravilhei-me com as obras de arte expostas.
+
+C: Procurando pelo documento, descobri que o tinha perdido.
+S: Procurando pelo documento, descobri tê-lo perdido.
+
+C: Observando que ele estava muito cansado, decidiu ir para casa mais cedo.
+S: Observando ele muito cansado, decidiu ir para casa mais cedo.
+
+C: Ao perceber que tinha esquecido o livro em casa, voltou correndo para buscá-lo.
+S: Percebendo que tinha esquecido o livro em casa, voltou correndo para buscá-lo.
+
+C: Com o tempo chuvoso, decidiu cancelar o passeio.
+S: Com tempo chuvoso, decidiu cancelar o passeio.
+
+C: Mesmo sabendo que poderia se atrasar, preferiu sair mais tarde.
+S: Sabendo que poderia se atrasar, preferiu sair mais tarde.
+
+C: Sem ter certeza de que o plano daria certo, resolveu arriscar mesmo assim.
+S: Sem ter certeza que o plano daria certo, resolveu arriscar mesmo assim.
+
+C: Ao ver o resultado, ficou surpreso com a vitória da equipe.
+S: Vendo o resultado, ficou surpreso com a vitória da equipe.
+
+C: Temendo ser descoberto, continuou a mentir para se proteger.
+S: Temendo ser descoberto, continuou mentindo para se proteger.
+
+C: Mesmo não concordando com a decisão, aceitou seguir em frente.
+S: Não concordando com a decisão, aceitou seguir em frente.
+
+C: Com o passar do tempo, percebeu que estava mudando suas prioridades.
+S: Com o tempo passando, percebeu que estava mudando suas prioridades.
+
+C: Ao notar a presença de estranhos, começou a se sentir desconfortável.
+S: Notando a presença de estranhos, começou a se sentir desconfortável.
+
+C: Ao ouvir a música, senti uma grande emoção invadir meu coração.
+S: Ao ouvir a música, senti uma grande emoção invadir meu coração.
+
+C: Mesmo tendo estudado muito, ela não passou na prova.
+S: Mesmo tendo estudado muito, ela não passou na prova.
+
+C: Se chover amanhã, não iremos ao parque.
+S: Se chover amanhã, não iremos ao parque.
+
+C: Apesar de estar cansado, ele decidiu ir à academia.
+S: Apesar de estar cansado, ele decidiu ir à academia.
+
+C: Querendo encontrar respostas, ele estudou filosofia.
+S: Querendo encontrar respostas, ele estudou filosofia.
+
+C: Comprando um novo celular, ele ficou satisfeito com suas funcionalidades.
+S: Comprando um novo celular, ele ficou satisfeito com suas funcionalidades.
+
+C: Caso meu time ganhe o jogo, irei comemorar muito.
+S: Caso meu time ganhe o jogo, irei comemorar muito.
+
+C: Estudando bastante, ela conseguiu passar no concurso.
+S: Estudando bastante, ela conseguiu passar no concurso.
+
+C: Embora não gostasse de exercícios físicos, ele decidiu começar a frequentar a academia.
+S: Embora não gostasse de exercícios físicos, ele decidiu começar a frequentar a academia.
+
+C: Ao receber o prêmio, ela ficou extremamente feliz.
+S: Ao receber o prêmio, ela ficou extremamente feliz.
+
+C: Sentindo-se cansado, Carlos decidiu ir dormir mais cedo.
+S: Sentindo-se cansado, Carlos decidiu ir dormir mais cedo.
+
+C: Com o tempo correndo contra eles, os cientistas trabalharam rapidamente para encontrar uma solução.
+S: Com o tempo correndo contra eles, os cientistas trabalharam rapidamente para encontrar uma solução.
+
+C: Chegando tarde para a reunião, João pediu desculpas aos colegas.
+S: Chegando tarde para a reunião, João pediu desculpas aos colegas.
+
+C: Esperando ganhar o jogo, o time treinou intensamente durante toda a semana.
+S: Esperando ganhar o jogo, o time treinou intensamente durante toda a semana.
+
+C: Sem saber o que dizer, ela preferiu ficar em silêncio.
+S: Sem saber o que dizer, ela preferiu ficar em silêncio.
+
+C: Embora tivesse muito trabalho para fazer, ele decidiu sair mais cedo.
+S: Embora tivesse muito trabalho para fazer, ele decidiu sair mais cedo.
+
+C: Apesar de estar com fome, ela não quis comer nada.
+S: Apesar de estar com fome, ela não quis comer nada.
+
+C: Caso chova amanhã, teremos que adiar o piquenique.
+S: Caso chova amanhã, teremos que adiar o piquenique.
+
+C: Sem dinheiro para pagar as contas, ela decidiu pedir um empréstimo.
+S: Sem dinheiro para pagar as contas, ela decidiu pedir um empréstimo.
+
+C: Ao perceber que tinha se esquecido das chaves, Marcos voltou correndo para casa.
+S: Ao perceber que tinha se esquecido das chaves, Marcos voltou correndo para casa.
+
+C: Ela saiu correndo para pegar o ônibus que estava prestes a partir.
+S: Ela saiu correndo para pegar o ônibus prestes a partir.
+
+C: Ainda que estivesse chovendo, fomos ao parque fazer um piquenique.
+S: Mesmo chovendo, fomos ao parque fazer um piquenique.
+
+C: Se você estudar bastante, passará no exame.
+S: Estudando bastante, passará no exame.
+
+C: Apesar de estar cansado, ele continuou trabalhando.
+S: Cansado, ele continuou trabalhando.
+
+C: Eu estava correndo para não perder o trem que estava atrasado.
+S: Eu estava correndo para não perder o trem atrasado.
+
+C: Ela falou com o sorriso no rosto, demonstrando estar feliz.
+S: Ela falou com o sorriso no rosto, demonstrando felicidade.
+
+C: Se você não fizer o dever de casa, terá problemas com a professora.
+S: Não fazendo o dever de casa, terá problemas com a professora.
+
+C: Embora tenha pouco dinheiro, ele sempre ajuda quem precisa.
+S: Mesmo tendo pouco dinheiro, ele sempre ajuda quem precisa.
+
+C: Ele estava jogando futebol para se distrair.
+S: Ele estava jogando futebol para distração.
+
+C: Mesmo que eu chegasse atrasado, ainda daria tempo de participar da reunião.
+S: Chegando atrasado, ainda daria tempo de participar da reunião.
+
+C: Apesar de estar chovendo, decidi sair para correr. 
+S: Apesar de chover, decidi sair para correr. 
+
+C: Pretendo estudar mais para melhorar minhas notas. 
+S: Pretendo estudar mais para melhorar minhas notas.
+
+C: Caso você queira, podemos sair para jantar.
+S: Se você quiser, podemos sair para jantar.
+
+C: Mesmo não gostando de pimenta, experimentei o prato. 
+S: Mesmo não gostando de pimenta, experimentei o prato.
+
+C: Coloquei uma blusa extra na mala, caso faça frio. 
+S: Coloquei uma blusa extra na mala, se fizer frio.
+
+C: Deixando a própria opinião de lado, ela concordou com o projeto.
+S: Deixando a própria opinião de lado, ela concordou com o projeto.
+
+C: Mesmo tendo dificuldades, ele não desistiu do desafio.
+S: Mesmo tendo dificuldades, ele não desistiu do desafio.
+
+C: Ao terminar a leitura, devolvi o livro à biblioteca.
+S: Ao terminar a leitura, devolvi o livro à biblioteca.
+
+C: Embora morando longe, ela sempre vem me visitar.
+S: Embora more longe, ela sempre vem me visitar.
+
+C: Se quiser, posso te acompanhar até a estação de metrô.
+S: Se quiser, posso te acompanhar até a estação de metrô.
+
+C: Chegando atrasado ao trabalho, o funcionário pediu desculpas ao chefe.
+S: Chegando atrasado ao trabalho, o funcionário pediu desculpas ao chefe.
+
+C: Embora esteja chovendo, iremos à praia.
+S: Embora esteja chovendo, iremos à praia.
+
+C: Trabalhando duro, o estudante conseguiu boas notas.
+S: Trabalhando duro, o estudante conseguiu boas notas.
+
+C: Caso ganhe na loteria, comprarei uma casa nova.
+S: Caso ganhe na loteria, comprarei uma casa nova.
+
+C: Ficando tarde, decidimos ir embora.
+S: Ficando tarde, decidimos ir embora.
+
+C: Apesar de ter estudado muito, o aluno reprovou na prova.
+S: Apesar de ter estudado muito, o aluno reprovou na prova.
+
+C: Se continuar chovendo, o jogo será adiado.
+S: Se continuar chovendo, o jogo será adiado.
+
+C: Mesmo tendo dinheiro, o homem não se sentia feliz.
+S: Mesmo tendo dinheiro, o homem não se sentia feliz.
+
+C: Cansado de esperar, ele decidiu ir embora.
+S: Cansado de esperar, ele decidiu ir embora.
+
+C: Se não estudarmos, iremos tirar notas baixas.
+S: Se não estudarmos, iremos tirar notas baixas.
+
+C: Ao ver o filme, João começou a chorar.
+S: Vendo o filme, João começou a chorar.
+
+C: Embora tenha estudado muito, Pedro não passou na prova.
+S: Mesmo estudando muito, Pedro não passou na prova.
+
+C: Para evitar o trânsito, Maria saiu mais cedo de casa.
+S: Evitando o trânsito, Maria saiu mais cedo de casa.
+
+C: Caso chova, não iremos ao parque.
+S: Se chover, não iremos ao parque.
+
+C: Ao ouvir a música, senti uma grande emoção.
+S: Ouvindo a música, senti uma grande emoção.
+
+C: Após terminar o trabalho, vamos comemorar.
+S: Terminando o trabalho, vamos comemorar.
+
+C: Mesmo cansado, Lucas decidiu correr a maratona.
+S: Cansado, Lucas decidiu correr a maratona.
+
+C: Para ser saudável, é importante fazer exercícios regularmente.
+S: Fazendo exercícios regularmente, é importante ser saudável.
+
+C: Embora tenha perdido a luta, Jorge se sente satisfeito com o seu desempenho.
+S: Mesmo perdendo a luta, Jorge se sente satisfeito com o seu desempenho.
+
+C: Caso não haja resposta, deixe um recado na caixa postal.
+S: Se não houver resposta, deixe um recado na caixa postal.
+
+C: Chegando atrasado, ele teve que pedir desculpas à equipe de trabalho.
+S: Chegando atrasado, ele teve que pedir desculpas à equipe de trabalho.
+
+C: Embora tenha estudado muito, ela não passou no exame.
+S: Embora tenha estudado muito, ela não passou no exame.
+
+C: Planejando ir ao teatro, eles compraram os ingressos com antecedência.
+S: Planejando ir ao teatro, eles compraram os ingressos com antecedência.
+
+C: Se chover amanhã, iremos ao cinema.
+S: Se chover amanhã, iremos ao cinema.
+
+C: Fazendo dieta, ela perdeu alguns quilos.
+S: Fazendo dieta, ela perdeu alguns quilos.
+
+C: Mesmo sendo o mais experiente, ele não conseguiu resolver o problema.
+S: Mesmo sendo o mais experiente, ele não conseguiu resolver o problema.
+
+C: Não tendo dinheiro, ele não pôde comprar o presente.
+S: Não tendo dinheiro, ele não pôde comprar o presente.
+
+C: Com o objetivo de melhorar sua saúde, ela começou a fazer exercícios físicos.
+S: Com o objetivo de melhorar sua saúde, ela começou a fazer exercícios físicos.
+
+C: Caso chova durante o passeio, levaremos guarda-chuvas.
+S: Caso chova durante o passeio, levaremos guarda-chuvas.
+
+C: Mesmo que me peçam, não irei participar dessa discussão.
+S: Mesmo que me peçam, não irei participar dessa discussão.
+
+C: Ao encontrarmos uma solução para o problema, todos ficaram aliviados.
+S: Ao encontrarmos uma solução para o problema, todos ficaram aliviados.
+
+C: Apesar de ter praticado muito, ele não passou no teste.
+S: Apesar de ter praticado muito, ele não passou no teste.
+
+C: Caso chova amanhã, não iremos ao parque.
+S: Caso chova amanhã, não iremos ao parque.
+
+C: Com o objetivo de economizar dinheiro, ela decidiu parar de sair com os amigos.
+S: Com o objetivo de economizar dinheiro, ela decidiu parar de sair com os amigos.
+
+C: Ao não estudar para a prova, ele sabia que tiraria uma nota baixa.
+S: Ao não estudar para a prova, ele sabia que tiraria uma nota baixa.
+
+C: Embora estivesse cansado, ele continuou trabalhando.
+S: Embora estivesse cansado, ele continuou trabalhando.
+
+C: Se ele estudar bastante, conseguirá passar no concurso.
+S: Se ele estudar bastante, conseguirá passar no concurso.
+
+C: Com o objetivo de se divertir, eles foram ao parque de diversões.
+S: Com o objetivo de se divertir, eles foram ao parque de diversões.
+
+C: Caso ele não venha à festa, ficaremos muito tristes.
+S: Caso ele não venha à festa, ficaremos muito tristes.
+
+C: Apesar das dificuldades, eles não desistiram de alcançar os seus sonhos.
+S: Apesar das dificuldades, eles não desistiram de alcançar os seus sonhos.
+
+C: Minha mãe cozinhando o jantar, meu pai limpando a casa.
+S: Minha mãe cozinhando o jantar, meu pai limpando a casa.
+
+C: Apesar de já tendo estudado bastante, ela ainda não conseguiu passar na prova.
+S: Apesar de já ter estudado bastante, ela ainda não conseguiu passar na prova.
+
+C: Com a chuva caindo forte, decidimos adiar o passeio ao parque.
+S: Com a chuva caindo forte, decidimos adiar o passeio ao parque.
+
+C: Sem você me ajudando, eu não conseguiria terminar esse projeto a tempo.
+S: Sem você me ajudando, eu não conseguiria terminar esse projeto a tempo.
+
+C: Caso eles venham à festa, vamos precisar de mais comida.
+S: Caso eles venham à festa, vamos precisar de mais comida.
+
+C: Ela saiu correndo para não perder o ônibus.
+S: Ela saiu correndo para não perder o ônibus.
+
+C: Com a música tocando alto, foi difícil conseguir se concentrar.
+S: Com a música tocando alto, foi difícil conseguir se concentrar.
+
+C: Embora tenha estudado muito, ele não passou no exame.
+S: Embora tenha estudado muito, ele não passou no exame.
+
+C: Com medo de errar, ele não queria participar da competição.
+S: Com medo de errar, ele não queria participar da competição.
+
+C: Caso chova amanhã, vamos ter que cancelar o piquenique.
+S: Caso chova amanhã, vamos ter que cancelar o piquenique.
+
+C: Levando em consideração a importância do exercício físico para a saúde, não podemos ficar parados o dia todo.
+S: Levando em consideração a importância do exercício físico para a saúde, não podemos ficar parados o dia todo.
+
+C: Mesmo tendo estudado bastante, não consegui passar na prova.
+S: Mesmo tendo estudado bastante, não consegui passar na prova.
+
+C: Caso haja algum problema, entre em contato com o suporte técnico.
+S: Caso haja algum problema, entre em contato com o suporte técnico.
+
+C: Ao perceber que estava perdido, João pediu ajuda para um morador local.
+S: Ao perceber que estava perdido, João pediu ajuda para um morador local.
+
+C: Após ter lido o livro, decidi assistir ao filme baseado nele.
+S: Após ter lido o livro, decidi assistir ao filme baseado nele.
+
+C: Saindo de casa correndo, Maria conseguiu pegar o ônibus a tempo.
+S: Saindo de casa correndo, Maria conseguiu pegar o ônibus a tempo.
+
+C: Embora tenha chovido durante todo o dia, o evento foi um sucesso.
+S: Embora tenha chovido durante todo o dia, o evento foi um sucesso.
+
+C: Com o objetivo de aprender uma nova língua, Matheus se matriculou em um curso de idiomas.
+S: Com o objetivo de aprender uma nova língua, Matheus se matriculou em um curso de idiomas.
+
+C: Sem ter estudado o suficiente, Pedro não conseguiu resolver as questões da prova.
+S: Sem ter estudado o suficiente, Pedro não conseguiu resolver as questões da prova.
+
+C: Caso precise de ajuda, conte comigo para o que der e vier.
+S: Caso precise de ajuda, conte comigo para o que der e vier.
+
+C: Percebendo que havia perdido o ônibus, ela começou a correr desesperadamente para a parada.
+S: Percebendo que havia perdido o ônibus, ela começou a correr desesperadamente para a parada.
+
+C: Embora estivesse cansado, ele continuou estudando até tarde da noite.
+S: Embora estivesse cansado, ele continuou estudando até tarde da noite.
+
+C: Ao ouvir a música, ela imediatamente começou a dançar.
+S: Ao ouvir a música, ela imediatamente começou a dançar.
+
+C: Se chover amanhã, a festa será cancelada.
+S: Se chover amanhã, a festa será cancelada.
+
+C: Questionando a decisão do juiz, o advogado entrou com um recurso.
+S: Questionando a decisão do juiz, o advogado entrou com um recurso.
+
+C: Apesar de estar com medo, ela decidiu enfrentar seus medos.
+S: Apesar de estar com medo, ela decidiu enfrentar seus medos.
+
+C: Caso você precise de ajuda, estarei disponível durante todo o dia.
+S: Caso você precise de ajuda, estarei disponível durante todo o dia.
+
+C: Sabendo que não teria tempo suficiente, ele desistiu de fazer o projeto.
+S: Sabendo que não teria tempo suficiente, ele desistiu de fazer o projeto.
+
+C: Ao ver o acidente, ele correu para ajudar as vítimas.
+S: Ao ver o acidente, ele correu para ajudar as vítimas.
+
+C: Se você não estudar, pode reprovar na prova.
+S: Se você não estudar, pode reprovar na prova.
+
+C: Apesar de estar exausto, ele continuou a trabalhar no projeto.
+S: Apesar de estar exausto, ele continuou trabalhando no projeto.
+
+C: Se chover amanhã, cancelaremos o passeio.
+S: Se chover amanhã, cancelaremos o passeio.
+
+C: Ao terminar de ler o livro, ela começou a escrever sua resenha.
+S: Ao terminar de ler o livro, ela começou escrever sua resenha.
+
+C: Embora estivesse doente, ele compareceu à reunião.
+S: Embora estivesse doente, ele compareceu à reunião.
+
+C: Caso você precise de ajuda, estou à disposição.
+S: Caso precise de ajuda, estou à disposição.
+
+C: Ao ver o acidente, ele ligou para a emergência.
+S: Ao ver o acidente, ele ligou para a emergência.
+
+C: Embora fizesse muito calor, eles decidiram fazer uma caminhada.
+S: Embora fizesse muito calor, eles decidiram fazer uma caminhada.
+
+C: Ao chegar em casa, ela preparou o jantar.
+S: Ao chegar em casa, ela preparou o jantar.
+
+C: Se ele não estudar, será reprovado na prova.
+S: Se não estudar, será reprovado na prova.
+
+C: Embora tenha ocorrido atraso nos voos, todos chegaram ao destino final.
+S: Embora tenha ocorrido atraso nos voos, todos chegaram ao destino final.
+

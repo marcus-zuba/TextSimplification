@@ -28,7 +28,7 @@ def calculate_score(complex, simple):
             sumOfWeights += n
         return score/sumOfWeights
     
-    return 100 * (0.0001 + (calculate(simple)-calculate(complex)))
+    return max(0, 100 * (0.0001 + (calculate(simple)-calculate(complex))))
 
 
 def calculate_score_for_files(complex_file, simple_file):
